@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6
+Table 1. Effects of,treatment with mDEF201 and cidofovir on survival of mice from a vaccinia virus (WR strain),,,,,respiratory
+infection.,,,,,,
+,,,,,Lung Infection Parameters (Day 5),
+,Treatment Start,Survivors/,,Hemorrhage,,Virus Titer (Log10
+Compound (dose)a,TImeb,Total,MDDc ± SD,Score,Weight (mg),PFU/g)
+mDEF201 (107),224 h,10/10***,-,0.060.0**,128613**,5.860.6**
+mDEF201 (106),224 h,10/10***,-,0.060.0**,130612**,6.661.0**
+mDEF201 (105),224 h,9/10***,13.0,0.160.2**,188619*,7.860.1**
+"Cidofovir
+(100)",+24 h,10/10***,-,0.060.0**,146611**,7.160.2**
+Ad-5 empty vector (107),224 h,0/10,6.860.6,1.060.5,260658,8.760.1
+Placebo,224 h,0/20,7.161.0,1.860.3,310666,8.760.1

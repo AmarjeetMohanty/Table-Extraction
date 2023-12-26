@@ -1,0 +1,21 @@
+0,1,2,3,4,5
+,amino acid,,,,
+,,Sparrow ISU73347,,,Sparrow ISU73347
+,,BLAST hit =100% identical,,,BLAST hit =100% identical
+,,BLAST hit >=98% identical,,,BLAST hit >=90% identical
+Outer,ISU42824-sparrow,BLAST hit >=96% identical,,ISU42824-sparrow,BLAST hit >=80% identical
+,,,Outer,,
+,ISU690-4-sparrow,BLAST hit >=94% identical,,ISU690-4-sparrow,BLAST hit >=70% identical
+,ISU690-7-sparrow,,,ISU690-7-sparrow,
+,HKU15-OH1987-porcine,BLAST hit >=92% identical,,HKU15-OH1987-porcine,BLAST hit >=60% identical
+,HKU17-6124-sparrow,,,HKU17-6124-sparrow,
+,HKU13-3514-Munia,BLAST hit >=90% identical,,HKU13-3514-Munia,BLAST hit >=50% identical
+,HKU18-chu3-Magpie robin,BLAST hit >=88% identical,,HKU11-796-Bulbul,BLAST hit >=40% identical
+,HKU16-6847-White eye,,,HKU18-chu3-Magpie robin,
+,HKU11-796-Bulbul,BLAST hit >=86% identical,,HKU16-6847-White eye,BLAST hit >=30% identical
+,HKU12-600-Thrush,,,HKU12-600-Thrush,
+,HKU21-8295-Common moorhen,BLAST hit >=84% identical,,HKU21-8295-Common moorhen,BLAST hit >=20% identical
+,HKU19-6918-Night heron,BLAST hit >=82% identical,,HKU19-6918-Night heron,BLAST hit >=10% identical
+,HKU20-9243-Wigeon,,Inner,HKU20-Wigeon-9243,
+,,,,,
+Inner,TCoV-Turkey,BLAST hit >= 0% identical,,TCoV-Turkey,BLAST hit >= 0% identical

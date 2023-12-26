@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7
+Table,2.,Meta-regression,by,"ethnicity
+and matching","criteria
+of
+controls",under,diﬀerent
+,inheritance models.,,,,,,
+,Model of inheritance,,,Factor,B (95%CI),t,p
+,,,,Matching criteria of controls,"0.53 (−0.44, 1.49)",1.23,0.249
+Dominant,,GG/GA versus AA,,,,,
+,,,,Ethnicity,"1.35 (0.04, 2.66)",2.33,0.044
+,,,,Matching criteria of controls,"0.98 (−4.41, 6.37)",0.58,0.603
+Recessive,,GG versus GA/AA,,,,,
+,,,,Ethnicity,"2.20 (−3.00, 7.39)",1.35,0.271
+,,,,Matching criteria of controls,"0.86 (−4.69, 6.40)",0.49,0.657
+,,GG versus AA,,,,,
+,,,,Ethnicity,"2.31 (−3.02, 7.65)",1.38,0.262
+Codominant,,,,,,,
+,,,,Matching criteria of controls,"0.47 (−0.60, 1.55)",1.02,0.338
+,,GA versus AA,,,,,
+,,,,Ethnicity,"1.13 (−0.39, 2.66)",1.71,0.125
+,,,,Matching criteria of controls,"0.44 (−0.61, 1.50)",0.97,0.359
+Superdominant,,GA versus GG/AA,,,,,
+,,,,Ethnicity,"0.99 (−0.50, 2.49)",1.53,0.165

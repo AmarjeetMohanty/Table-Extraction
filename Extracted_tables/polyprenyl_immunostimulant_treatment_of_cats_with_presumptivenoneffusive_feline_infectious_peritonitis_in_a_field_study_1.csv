@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6
+,TaBle 4 | hematology test results at the first presentation considered in the feline infectious peritonitis diagnosis.,,,,,
+Measurement,reference interval,"Data sets received, n",Mean,"Wnl, n (%)","Below normal, n (%)","above normal, n (%)"
+"Albumin, g/dL",2.3–3.9,51,2.5 ± 0.5,32/51 (62.7),19/51 (37.3),0
+"Total protein, g/dL",5.9–8.5,51,9.8 ± 1.5,12/51 (23.5),0,39/51 (76.5)
+"Globulins, g/dL",3.0–6.6,51,7.3 ± 1.6,18/51 (35.3),0,33/51 (64.7)
+A/G ratio,0.4–0.8,50a,0.37 ± 0.14,See the breakdown below:,,
+,<0.8,,,2/50 (4.0)b,48/50 (96.0),0
+,<0.6,,,,36/50 (72.0),N/A
+,<0.4,,,,32/50 (64.0),N/A
+"Total bilirubin, mg/dL",0.0–0.4,50,0.5 ± 1.1,42/50 (84.0),N/A,8/50 (16.0)
+"WBC, 103/μL",4.2–15.6,51,15.6 ± 10.6,27/51 (52.9),1/51 (2.0),23/51 (45.1)
+"HCT, %",29–45,49,29.4 ± 6.9,20/49 (40.8),28/49 (57.1),1/49 (2.0)
+Neutrophils,Varies,44,N/A,19/44 (43.2),1/44 (2.3),24/44 (54.5)
+Lymphocytes,Varies,48,N/A,32/48 (66.7),16/48 (33.3),0

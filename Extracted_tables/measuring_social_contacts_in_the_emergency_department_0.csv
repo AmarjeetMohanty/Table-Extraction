@@ -1,0 +1,19 @@
+0,1,2,3,4,5,6
+,"Table 1. Characteristics of patients visiting the ED, July 1 2009 to June 30 2010.",,,,,
+,,Population from 7/1/2009–6/,,,,
+,30/2010,,,Population in 81 included shifts,,Participants in 81 included shifts
+,,"% or median (Q1,",,"% or median (Q1,",,"% or median (Q1,"
+Characteristic,N,Q3),N,Q3),n,Q3)
+Total Visits,"57,514",100%,9183,16%,4732,8%
+Age,"57,511","44 (29, 58)",9181,"45 (30, 59)",4732,"47 (31, 60)"
+Female,"32,316",56%,5095,55%,2709,57%
+Black Race,"46,637",81%,7470,81%,3913,83%
+Acuity1,,,,,,
+Immediate,955,2%,118,1%,31,1%
+Emergent,"15,376",27%,2685,30%,1592,34%
+Urgent,"26,845",48%,4418,49%,2336,50%
+Stable,"11,992",21%,1659,18%,710,15%
+Non-urgent,817,1%,113,1%,32,1%
+ILI syndrome2,732,1%,117,1%,58,1%
+Length of Stay (minutes),"57,499","314 (213, 444)",9180,"355 (245, 507)",4732,"381 (270, 549)"
+Admitted,"14,405",25%,2766,30%,1686,35%

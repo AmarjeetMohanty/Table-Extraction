@@ -1,0 +1,54 @@
+0,1,2,3,4
+Table 3.,Characteristics of Patients With RT-PCR-Confirmed RSV Illness Stratified by Clinical Outcome Within 28 Days,,,
+,,,,Relative Risk of
+,Mild RSV,Moderate RSV,Serious RSV,Serious vs Nonserious
+,"Outcome (n = 41),","Outcome (n = 155),","Outcome (n = 47),",Outcome
+,No. (%),No. (%),No. (%),(95% CI)
+"Age group, y",,,,
+60–64,11 (27),40 (26),4 (9),Ref
+65–74,15 (37),66 (43),20 (43),2.72 (0.98–7.57)
+75+,15 (37),49 (32),23 (49),3.64 (1.33–9.95)
+Gender,,,,
+Male,13 (32),54 (35),18 (38),Ref
+Female,28 (68),101 (65),29 (62),0.87 (0.51–1.47)
+High-risk comorbid conditionsa,,,,
+COPD,1 (2),20 (13),12 (26),2.18 (1.27–3.76)
+CHF,2 (5),11 (7),9 (19),2.38 (1.33–4.25)
+Asthma,4 (10),32 (21),12 (26),"1
+.39 (0.78–2.47)"
+Immune-compromised,2 (5),8 (5),5 (11),"1
+.81 (0.84–3.89)"
+Diabetes,9 (22),29 (19),13 (28),"1
+.44 (0.82–2.52)"
+Smoking status,,,,
+Current smoker,0 (0),9 (6),1 (2),0.51 (0.08–3.31)
+Current nonsmoker,41 (100),142 (92),45 (96),Ref
+Unknown,0 (0),4 (3),1 (2),"1
+.01 (0.17–5.96)"
+Enrollment visita,,,,
+Symptoms during enrollment visit,,,,
+Self-reported fever,9 (22),53 (34),22 (47),"1
+.67 (1.00–2.77)"
+"Cough, productive",13 (32),74 (48),30 (64),"1
+.90 (1.11–3.26)"
+"Cough, nonproductive",25 (61),70 (45),14 (30),0.52 (0.29–0.92)
+New/increased sputum,13 (32),75 (48),32 (68),2.19 (1.25–3.83)
+New/increased dyspnea (SOB),1 (2),25 (16),21 (45),3.37 (2.09–5.44)
+Hemoptysis,0 (0),1 (1),2 (4),3.56 (1.53–8.26)
+Chest pain,1 (2),10 (6),7 (15),2.19 (1.15–4.16)
+Myalgia,13 (32),19 (12),13 (28),"1
+.68 (0.97–2.92)"
+Wheezing,3 (7),30 (19),6 (13),0.77 (0.35–1.68)
+Sore throat,27 (66),99 (64),26 (55),0.74 (0.44–1.24)
+Exam during enrollment visit,,,,
+Fever ≥100°F,1 (2),10 (6),9 (19),2.64 (1.50–4.64)
+Wheezing,3 (7),25 (16),21 (45),3.20 (1.98–5.18)
+Respiratory distress,0 (0),1 (1),5 (11),4.70 (3.00–7.38)
+Tachypnea,0 (0),4 (3),12 (26),4.86 (3.21–7.37)
+Decreased breath sounds,1 (2),12 (8),6 (13),"1
+.73 (0.84–3.54)"
+Crackles/rales,2 (5),5 (3),16 (34),4.94 (3.23–7.54)
+Rhonchi,3 (7),19 (12),9 (19),"1
+.62 (0.87–3.01)"
+RSV-msLRTD at enrollment,3 (7),33 (21),23 (49),2.99 (1.83–4.88)
+,"Serious outcomes included hospital admission, ED visit, and pneumonia. Moderate outcomes included new antibiotic or antiviral therapy, new/increased bronchodilator therapy, and new/",,,

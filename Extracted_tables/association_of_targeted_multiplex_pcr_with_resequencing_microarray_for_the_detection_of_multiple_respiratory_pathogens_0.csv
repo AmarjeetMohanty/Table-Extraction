@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6,7
+,"TABLE 6 | Sensitivity, speciﬁcity, and PPV for the RPM-IVDC1.",,,,,,
+Organism,,Sensitivity,,Speciﬁcity,,PPV,
+,%,No. of samples positive/,%,No. of samples negative/,%,,No. of samples positive/
+,,total no. tested,,total no. tested,,,total no. tested
+S. pneumoniae,100,37/37,100,73/73,100,,37/37
+"H.
+inﬂuenzae",92.3,12/13,97.9,95/97,85.7,,12/14
+M. pneumoniae,69.2,9/13,99.0,96/97,90.0,,9/10
+K. pneumoniae,(100)a,2/2,100,108/108,(100),,2/2
+M. catarrhalis,(100),1/1,100,109/109,(100),,1/1

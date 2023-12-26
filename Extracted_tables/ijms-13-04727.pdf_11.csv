@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6,7
+,,Table 7. HIV-1 protease specificity model.,,,,,
+P4,P3,P2,P1,P1',P2',P3',P4'
+S11,G11,V5,Y5,F4,V5,T4,S3
+,,I3,F4,V3,E4,S3,T2
+,,N3,M2,L3,A1,M1,G2
+,,,,H1,Q1,E1,P1
+,,,,,,N1,N1
+,,,,,,Q1,D1
+,,,,,,,A1
+The model was build based on the 11 most efficiently cleaved phage substrates. Underscript numbers represent,,,,,,,

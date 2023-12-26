@@ -1,0 +1,33 @@
+0,1,2,3,4,5
+,METH,--,+,+,"METH
++
++"
+,PD98059,,-,20μM,"--
+20μM
+PD98059
+-"
+,,,,,1.5
+,,,,,Control
+METH (Hours),-,6,24,48,METH-6h
+,,,,,METH-24h
+p-AKT,,,,,"1.0
+60kD"
+,,,,,"p-AKT/AKT
+(Normalized to control)
+METH-48h"
+AKT,,,,,60kD
+,,,,,0.5
+(cid:2)-tubulin,,,,,50kD
+,,,,,0
+p-mTOR,,,,,"1.5
+289kD"
+,,,,,Control
+,,,,,METH-6h
+mTOR,,,,,289kD
+,,,,,METH-24h
+,,,,,1.0
+,,,,,METH-48h
+(cid:2)-tubulin,,,,,"p-mTOR/mTOR
+(Normalized to control)
+50kD"
+,,,,,0.5

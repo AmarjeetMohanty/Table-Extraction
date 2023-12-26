@@ -1,0 +1,11 @@
+0,1,2,3,4,5
+Table 4 Studies conducted on host genetic polymorphisms and their associations with FIP,,,,,
+Target,Method,Breed,Grouping (number of cats),Polymorphism associated with FIP,Reference
+FLA-DRB,1. Clonal sequence analysis,DSHb and Pure breed,1. FIP (8),Non,[42]
+,2. RSCAa,,"2. Carrier
+(4)",,
+,,,3. Transient (10),,
+,,,4. Resistant (3),,
+Identified SNP,SNP gene chip,Birman cats,1. FIP (34),1. A2.191286425 - ELMO1,[41]
+,,,2. Healthy (151),"2. A1.196617776 - ERAP1, 2",
+,,,,"3. A1.206840008 - ERAP1, 2",

@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6,7,8
+,,,,,,,,"d
+l"
+,,,,,,,none,i
+,,,,,,,,m
+,,,,,,,,seizure severity
+,p,,q,,,r,,s
+0.025,,0.020,,,0.03,,0.025,
+,,,,,,@,,
+,*,,,,,,,
+,,,#,,,,,
+0.020,,,,,,,0.020,
+,,0.015,,,,,,
+,,,,,0.02,,,
+0.015,,,,,,,0.015,
+(GFAP+ area/ whole area),,"T-cell invasion
+(CD3+ area/ whole area)
+0.010",,neutrophil invasion,(Ly6G+ area/ whole area),,"microglia/
+macrophage activation
+(iba1+ area/ whole area)",
+0.010,,,,,,,0.010,
+,,,,,0.01,,,
+,,0.005,,,,,,
+0.005,,,,,,,0.005,
+0.000,,0.000,,,0.00,,0.000,

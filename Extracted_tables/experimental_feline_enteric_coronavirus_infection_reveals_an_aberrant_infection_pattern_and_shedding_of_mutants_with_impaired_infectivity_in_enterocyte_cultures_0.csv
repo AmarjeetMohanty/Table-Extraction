@@ -1,0 +1,22 @@
+0,1,2,3,4
+,Affected nt position,,Type of nt,Amino-acid
+Sample,(compared to the inoculum1),Protein,change,change
+,14284,nsp12,A >  G,no
+Cat 1 day 72,,,,
+,15049,nsp12,A >  G,no
+,428,nsp1,C >  T,no
+,763,nsp2,A >  G,K159R5
+,9100,nsp5,C >  T,S2938L6
+Cat 2 day 213,,,,
+,9880,nsp6,C >  T,S3198F7
+,17329,nsp14,T >  C,no
+,,,,"Y142L, H143L,"
+,28796–28896,7b,101bp deletion,
+,,,,early stop (143 aa)8
+,6287,nsp3,C >  T,no
+,9880,nsp6,C >  T,S3198F9
+,11647,nsp9,A >  G,D3787G10
+Cat 3 day 94,12844,nsp12,T >  C,no
+,12846,nsp12,T >  C,I171T11
+,21925,Spike S1,G >  T,E518Y12
+,21927,Spike S1,G >  T,E518D13

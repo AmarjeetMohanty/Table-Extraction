@@ -1,0 +1,47 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+,Comparson group,,,,Group with hospitalization more likely,,,,,,,Comparison group,,,,,,Group with hospitalization more likely
+A,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,J,,,,,,,
+,VIPH,,,,|,,,,,VSR,,RV,,,,|,,HBoV
+,VSR + VIPH,,,,,,,,|,VSR,,VR,,,,,|,VR + VoBH
+,VSR + VIPH,,,,,|,,,,VIPH,,VoBH,|,,,,,VR + VoBH
+B,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,K,,,,,,,
+,VoC,,,,|,,,,,VPMH,,CoV,|,,,,,RV
+,VPMH + VoC,,,,,,,|,,VPMH,,VoC,,|,,,,VoC + VR
+,VPMH + VoC,,,|,,,,,,VoC,,VR,|,,,,,VoC + VR
+C,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,L,,,,,,,
+,VoC,,,,,|,,,,VSR,,VdAH,,|,,,,VPMH
+,VSR + VoC,,,,,,|,,,VSR,,VdAH,,,,,|,VdAH + VPMH
+,VSR + VoC,|,,,,,,,,VoC,,VPMH,,,,|,,VdAH + VPMH
+D,,,,,,,,,,,,,,,,,,
+,RV,,,,,,,,,HMPV,M,VoC,,,,,,VdAH
+,,,|,,,,,,,,,,|,,,,,
+,VPMH + VR,,,,|,,,,,VPMH,,VoC,,,|,,,VoC + VdAH
+,VPMH + VR,|,,,,,,,,VR,,VdAH,|,,,,,VoC + VdAH
+E,,,,,,,,,,,,,,,,,,
+,ﬂu,,,,,,,,,HAdV,N,ﬂu,,,,,,HBoV
+,,|,,,,,,,,,,,,,,,|,
+,VdAH + ulf,,,|,,,,,,VdAH,,VoBH + ulf,,,,,|,VoBH
+,VdAH + ulf,|,,,,,,,,ulf,,ulf,|,,,,,VoBH + ulf
+F,,,,,,,,,,,,,,,,,,
+,VoC,,,,,,,,,VIPH,O,ﬂu,,,,,,HMPV
+,,|,,,,,,,,,,,,,,|,,
+,VIPH + VoC,,,|,,,,,,VIPH,,VPMH + ulf,,|,,,,VPMH
+,VIPH + VoC,|,,,,,,,,VoC,,ulf,|,,,,,VPMH + ulf
+G,,,,,,,,,,,,,,,,,,
+,ﬂu,,,,,,,,,RV,P,RV,,,,,,RSV
+,,|,,,,,,,,,,,,,,|,,
+,ulf + VR,|,,,,,,,,ulf,,VSR + VR,,,|,,,VSR
+,ulf + VR,|,,,,,,,,VR,,VR,|,,,,,VSR + VR
+H,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Q,,,,,,,
+,RV,|,,,,,,,,HAdV,,ﬂu,,,,,|,RSV
+,VR + VdAH,|,,,,,,,,VR,,ulf,,,,|,,ulf + VSR
+,VR + VdAH,|,,,,,,,,VdAH,,ulf + VSR,|,,,,,VSR
+I,,,,,,,,,,,,,,,,,,
+,VIPH,,,,,,,,,VR,R,CoV,,,,,,ﬂu
+,,|,,,,,,,,,,,|,,,,,
+,VR + VIPH,,|,,,,,,,VR,,ulf + VoC,|,,,,,ulf
+,VR + VIPH,,|,,,,,,,VIPH,,VoC,|,,,,,ulf + VoC

@@ -1,0 +1,36 @@
+0,1,2,3,4,5
+12,,,,,BioMed Research International
+,Table 6: Docking score and H-bond interaction of ligands with COX-2 protein (3LN1).,,,,
+,,Number of,Distance,,Ligand
+Ligand,𝐺 score,,,Protein atom,
+,,H-bonds,( ˚A),,atom
+,,,2.151,LYS543: (H) HZ3,(O) O3
+Diclofenac,−3.4,3,2.121,LYS543: (H) HZ2,O
+,,,1.802,THR547: (H) HG1,(O) O3
+,,,2.041,ARG297: (H) H,O
+Indomethacin,−3.2,2,,,
+,,,1.767,LYS543: (H) HZ2,(O) O4
+,,,2.112,LYS 543: (H) HZ3,(O) O20
+Aspirin,−2.8,3,2.140,THR547: (H) HG1,(O) O20
+,,,2.049,ARG297: (H) H21,(O) O3
+,,,2.383,GLU539: (O) OE2,
+Paracetamol,−2.4,3,2.264,TRP531: (H) HE1,H O H
+,,,2.014,GLU539: (O) OE1,
+,,,2.471,ARG297: (H) HE,(O) O2
+,,,2.249,ASN556: (O) OD1,(H) H38
+Morphine,−1.0,5,2.025,ARG297: (H) HH21,(O) O21
+,,,1.989,ARG297: (H) HH21,(O) O2
+,,,1.974,ARG297: (H) HH22,(O) O3
+,,,2.115,HID228: (H) HD1,(O) O8
+2-[(3-Methylbutoxy)carbonyl] benzoic acid,−2.9,3,2.065,LYS 543: (H) HZ1,(O) OS2
+,,,1.774,LYS 543: (H) HZ1,(O) O13
+,,,2.085,TRP531: (H) HE1,(O) O7
+1-(2-Hydroxyphenyl)-4-methylpentan-1-one,−2.4,2,,,
+,,,1.726,ASP348: (O) OD1,H
+3-Methylbutyl benzoate,−2.1,1,1.898,THR547: (H) HG1,O
+,,,2.139,LYS543: (H) HZ2,(O) O35
+4-Methylpentyl benzoate,−2.1,2,,,
+,,,2.033,THR547: (H) HG1,O
+2-(5-Methylhexyl) benzoic acid,−1.3,1,2.156,TRP531: (H) HE1,O
+"3-(Iminomethyl)-2,4-dimethylphenol",−0.4,1,2.171,ASN546: (H) HD21,O
+"Glide score, number of H-bond interactions, distance of H-bond interaction, and involved protein atom and ligand atom in interaction of isolated and standard",,,,,

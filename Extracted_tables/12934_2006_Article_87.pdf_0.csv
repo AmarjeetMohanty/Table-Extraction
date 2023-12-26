@@ -1,0 +1,25 @@
+0,1,2,3,4
+Table 1: Attenuated bacteria as vaccine vehicles,,,,
+Vaccine strain,Attenuation,Foreign insert,Model,Ref.
+Shigella flexneri,Δasd,pCMVβ,"Guinea pig, in vitro",[80]
+,Δasd,CS3 and LTB/STm,Mouse,[81]
+,ΔrfbF,HIV-1 SF2Gag,Mouse,[17]
+,ΔdapA ΔdapB,"β-gal, gene vaccine",In vitro,[16]
+,ΔaroA ΔiscA,"gp120, gene vaccine",Mouse,[15]
+Salmonella enterica,ΔaroA,"pCMVβ, pCMVactA and","In vitro, mouse",[82]
+,,pCMVhly,,
+,ΔaroA ΔaroD,C. tetani TTFC,Mouse,[83]
+,ΔaroA ΔhtrA,TTFC,Mouse,[83]
+,ΔaroA+others,GFP+cytokines,Mouse,[84]
+,Δcya Δcrp Δasd,SP10 cDNA,Mouse,[20]
+,GalE + unspecified,"H. pylori, ureAB",Human,[85]
+Yersinia enterocolitica,pYV-,"B. abortus, P39",Mouse,[86]
+,pYV-,Ova,Mouse,[87]
+Listeria monocytogenes,ΔactA,Leichmania major,Mouse,[88]
+,ΔactA,LCM virus,Mouse,[89]
+,Δdal Δdat,HIV-1 gag gene vaccine,Mouse,[90]
+,Δ2,M. bovis gene vaccine,Mouse,[91]
+Bordetella bronhiseptica,ΔaroA,TTFC,Mouse,[92]
+Erysipelotrix rhusiopatie,Tn916-,M. hyopneumonie,"Mouse, pig",[93]
+Mycobacterium bovis,unspecified,"P. falciparum, CSP",Mouse,[94]
+Brucella abortus,Rough mutant (O-),lacZ or HSP65,Mouse,[95]

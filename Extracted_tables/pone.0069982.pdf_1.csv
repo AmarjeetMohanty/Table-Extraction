@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6
+,,,,,,Synthetic Cysteine Protease Inhibitors
+Table 2.,Inhibition constant and thermodynamic parameter,,for,"inhibition of papain against 1-substituted pyridylimidazo[1,5-",,
+,a]pyridine derivatives at different,temperatures.,,,,
+"Ki
+(mM) Temperature",,,,,,
+Compound,326C,376C,426C,aDG (Kcalmol21),aDH (KJmol21),aDS (Jmol-K21)
+3a,14.3(60.71),13.7 (60.57),11.1(60.52),26.86(60.30),26.2(60.88),72.92 (62.33)
+3b,26.2(61.10),23.2(61.09),21.1(60.92),26.55(60.33),25.3(60.80),71.4 (62.46)
+3c,94.1(64.42),90.0(64.50),85.6(63.59),25.71(60.27),2.3 (60.31),69.88 (62.65)
+3d,110.2(64.85),99.3(64.36),89.2(63.74),25.64(60.24),25.2 (60.84),59.73(61.93)
+aValue at 37uC.,,,,,,
+(6) standard deviation; n = 3.,,,,,,
+doi:10.1371/journal.pone.0069982.t002,,,,,,

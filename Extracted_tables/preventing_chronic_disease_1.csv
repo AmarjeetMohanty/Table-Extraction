@@ -1,0 +1,33 @@
+0,1,2,3,4,5,6,7,8,9
+"Table 2. Leading Causes of Disability-Adjusted Life Years by Sex, Kingdom of Saudi Arabia, 1990, 2005, and 2010",,,,,,,,,
+,,1990,,,2005,,,2010,
+Rank,Male (%),Female (%),Total (%),Male (%),Female (%),Total (%),Male (%),Female (%),Total (%)
+1,Preterm birth,Preterm birth,Preterm birth,Road traffic,Major depressive,Road traffic,Road traffic,Major depressive,Road traffic
+,complications,complications,complications,injury (12.00%),disorder (7.56%),injury (8.55%),injury (12.40%),disorder (7.88%),injury (8.63%)
+,(12.04%),(12.35%),(12.17%),,,,,,
+2,Road traffic,Congenital,Road traffic,Ischemic heart,Preterm birth,Preterm birth,Ischemic heart,Preterm birth,Ischemic heart
+,injury (11.04%),anomalies,injury (7.79%),disease (7.38%),complications,complications,disease (7.46%),complications,disease (6.23%)
+,,(7.65%),,,(6.94%),(6.38%),,(5.58%),
+3,Ischemic heart,Major depressive,Congenital,Preterm birth,Diabetes mellitus,Ischemic heart,Diabetes mellitus,Diabetes mellitus,Major depressive
+,disease (6.03%),disorder (5.72%),anomalies,complications,(4.71%),disease (6.12%),(5.79%),(5.10%),disorder (5.87%)
+,,,(6.53%),(6.00%),,,,,
+4,Congenital,Iron-deficiency,Ischemic heart,Low back pain,Low back pain,Major depressive,Low back pain,Low back pain,Diabetes mellitus
+,anomalies,anemia (3.86%),disease (5.09%),(5.37%),(4.64%),disorder (5.61%),(5.77%),(5.06%),(5.51%)
+,(5.71%),,,,,,,,
+5,Low back pain,Ischemic heart,Major depressive,Diabetes mellitus,Congenital,Low back pain,Preterm birth,Ischemic heart,Low back pain
+,(3.88%),disease (3.78%),disorder (4.43%),(5.26%),anomalies,(5.08%),complications,disease (4.46%),(5.48%)
+,,,,,(4.54%),,(4.79%),,
+6,Major depressive,Lower respiratory,Low back pain,Major depressive,Ischemic heart,Diabetes mellitus,Major depressive,Anxiety disorders,Preterm birth
+,disorder (3.51%),infections,(3.51%),disorder (4.29%),disease (4.26%),(5.04%),disorder (4.47%),(4.30%),complications
+,,(3.69%),,,,,,,(5.11%)
+7,Lower respiratory,Diarrheal,Lower respiratory,Cerebrovascular,Anxiety disorders,Congenital,Cerebrovascular,Iron deficiency,Cerebrovascular
+,infections,diseases (3.41%),infections,disease (3.54%),(4.10%),anomalies,disease (3.46%),anemia (3.75%),disease (3.44%)
+,(2.94%),,(3.26%),,,(3.79%),,,
+8,Cerebrovascular,Road traffic,Iron deficiency,Congenital,Iron deficiency,Cerebrovascular,Drug-use,Congenital,Congenital
+,disease (2.77%),injury (3.28%),anemia (3.09%),anomalies,anemia (3.89%),disease 3.41%),disorders,anomalies,anomalies
+,,,,(3.28%),,,(2.75%),(3.48%),(2.97%)
+9,Neonatal,Cerebrovascular,Cerebrovascular,Drug-use,Road traffic,Iron deficiency,Congenital,Cerebrovascular,Anxiety disorders
+,encephalopathy,disease (3.27%),disease (2.98%),disorders,injury (3.48%),anemia (2.81%),anomalies,disease (3.41%),(2.88%)
+,(2.62%),,,(2.31%),,,(2.62%),,
+10,Diabetes mellitus,Low back pain,Diarrheal,Iron deficiency,Cerebrovascular,Anxiety disorders,Iron deficiency,Road traffic,Iron deficiency
+,(2.62%),(3.00%),diseases (2.86%),anemia (2.08%),disease (3.22%),(2.77%),anemia (1.92%),injury (3.20%),anemia (2.67%)

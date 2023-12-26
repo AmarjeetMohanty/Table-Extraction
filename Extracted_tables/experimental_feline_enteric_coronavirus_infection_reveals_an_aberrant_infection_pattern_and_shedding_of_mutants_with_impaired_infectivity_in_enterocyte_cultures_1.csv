@@ -1,0 +1,48 @@
+0,1,2,3,4
+,Affected nt position,,,
+Sample,(compared to the inoculum1),Protein,Type of nt change,Amino acid change
+,2986,nsp3,G >  A,R900H5
+,14284,nsp12,A >  G,no
+,15049,nsp12,A >  G,no
+,20470,Spike S1,C >  T,P33S6
+,20609,Spike S1,A >  C,H79P7
+,20932..20940,Spike S1,9bp deletion,del aa186-1888
+Cat 1 day 282,,,,
+,22127,Spike S1,A >  G,H585R9
+,22368,Spike S1,G >  T,K665N10
+,27429,Nucleocapsid,T >  G,V169G11
+,28770,7b,C >  A,no
+,28797,7b,C >  T,no
+,28803,7b,C >  T,no
+,763,nsp2,A >  G,K159R12
+,1946,nsp2,C >  T,no
+,9880,nsp6,C >  T,S3198F13
+,13018,nsp12,C >  T,no
+,18829,nsp15,A >  G,no
+,20471,Spike S1,C >  T,P33L14
+,20570,Spike S1,G >  A,G66D15
+,20615,Spike S1,G >  A,G81E16
+Cat 2 day 843,,,,
+,20695,Spike S1,G >  A,E108K17
+,20726,Spike S1,G >  A,R118H18
+,20846,Spike S1,A >  G,K158R19
+,20872,Spike S1,C >  T,R/Q167W20
+,22368,Spike S1,G >  T,K665N21
+,23693,Spike S2,C >  T,T1107I22
+,26231,Membrane,G >  A,E37K23
+,28785,7b,A >  G,no
+,428,nsp1,C >  T,no
+,3060,nsp3,A >  G,K925E24
+,6614,nsp3,T >  C,no
+,9880,nsp6,C >  T,S3198F25
+,17329,nsp 14,T >  C,no
+,20465..20488,Spike S1,24 bp deletion,del aa31-38; F39I26
+,20470,Spike S1,C >  T,P33S27
+Cat 3 day 284,20702,Spike S1,A >  C/T,D110A/D110V28
+,21076,Spike S1,C >  A,depends on nt 21077
+,21077,Spike S1,A >  G,Q235K/G29
+,21558,Spike S1,C >  T,no
+,22084,Spike S1,C >  T,P571S30
+,23135,Spike S2,A >  C,N921T31
+,27199,Nucleocapsid,T >  C,no
+,28805,7b,A >  G,Q145R32

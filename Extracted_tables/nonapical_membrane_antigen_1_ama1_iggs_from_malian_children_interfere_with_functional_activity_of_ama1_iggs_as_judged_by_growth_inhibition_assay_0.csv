@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6,7,8,9
+,Table 1. Anti-AMA1 antibody level,,"[mg/ml]
+in test",IgGs (40 mg/ml).,,,,,
+,,,AMA1-3D7b,,,,AMA1-FVOc,,
+,na,Total,IgG pool,Non-AMA1 (3D7),IgG,Total,IgG pool,Non-AMA1 (FVO),IgG
+D0-1,93,2d,,2d,(NDg)f,2d,,2d,(NDg)
+D0-2,38,6,,N/Ae,,8,,2d,(NDg)
+D0-3,46,35,,N/Ae,,63,,2d,(NDg)
+D0-4,27,439,,13,(3),675,,19,3
+Hib-1,47,2d,,2d,(NDg),2d,,2d,(NDg)
+Hib-2,33,10,,2d,(NDg),16,,2d,(NDg)
+Hib-3,35,246,,7,(3),334,,8,(2)
+AMA1-1,31,66,,4,(6),100,,9,(9)
+AMA1-2,41,260,,16,(6),354,,17,(5)
+AMA1-3,41,751,,24,(3),"1,050",,47,(4)

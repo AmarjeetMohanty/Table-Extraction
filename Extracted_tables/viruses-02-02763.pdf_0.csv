@@ -1,0 +1,49 @@
+0,1,2,3,4,5,6,7,8,9,10
+,,Immuno-,MPXV,,Dosage,,Rash,,,
+,Genetic,,,Inoculation,,Days until,,,Mortality,Time to
+,,reagent,Strain,,Used,,Development,LD50,,
+,Diversity,,,Route,,Symptoms,,,(%),Death
+,,Availability,Used,,(pfu),,(days),,,
+,,,,"Intracardiac, IN,",Not,,,,,
+Guinea pigs [2],Outbred,Medium,WA,,,NA,No rash,NA,0,NA
+,,,,oral or FP,provided,,,,,
+Golden,,,,"Intracardiac, oral,",1.5–,,,,,
+,Outbred,Medium,WA,,,NA,No rash,NA,0,NA
+hamsters [2],,,,"IN, scarified skin",5.9 × 107,,,,,
+,,,,,,,,,,One animal
+,,,,,,,,,,died one
+,,,,,,,Extensive,,,
+,,,,,,,,,,month post
+,,,,IV,107,5–6,disseminated,__,8,
+,,,,,,,,,,infection
+,,,,,,,rash,,,
+,,,,,,,,,,due to
+,,,,,,,,,,cachexia
+Adult rabbits [2],Outbred,High,WA,,,,Localized,,,
+,,,,,,,lesion in,,,
+,,,,Scarified,,Not,addition to,,,
+,,,,,105,,,NA,0,NA
+,,,,skin/intradermal,,provided,disseminated,,,
+,,,,,,,rash for some,,,
+,,,,,,,animals,,,
+,,,,Oral,>109,NA,No rash,NA,0,NA
+,,,,,,,Disseminated,,,
+,,,,Oral,106,4–6,,__,85,4–14 days
+10 day old,,,,,,,rash,,,
+,Outbred,High,WA,,,,,,,
+rabbits [2],,,,,,Not,,,,
+,,,,IN,106,,No rash,__,83,4–5 days
+,,,,,,provided,,,,
+Adult white rats,,,,,101 to,,,,,
+,Outbred,Medium,WA,"IV, IN, cutaneous",,NA,No rash,NA,0,NA
+[2],,,,,103,,,,,
+1–3 day old,,,,,101 to,Not,,__,,
+,Outbred,Medium,WA,IN,,,No rash,,100,5–6 days
+white rats [2],,,,,103,provided,,,,
+,,,,,,Not,,,,
+,,,,IV,105,,Not provided,__,100,4–5 days
+,,,,,,provided,,,,
+Cotton rats [6],Outbred,Medium,WA,,,,,,,
+,,,,,,Not,,,,
+,,,,IN,105,,Not provided,__,50,4–5 days
+,,,,,,provided,,,,

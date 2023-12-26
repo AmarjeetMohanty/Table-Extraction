@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6,7,8
+Table 2. Characteristics of patients and their laboratory results (2011),,,,,,,,
+,,,,,,,Laboratory assays,
+Patient,Patient age,Patient,,Date of symptom,Date of specimen,,,
+no,(year),grade**,Residence,onset,collection,PCR,Virus isolation,Sequence identity*
+1,11,Five,Tongwei,April 6,April 13,(cid:1),(cid:1),
+2,13,Five,Tongwei,April 8,April 13,+,+,HAdV14p1
+3,13,Five,Tongwei,April 9,April 13,(cid:1),,
+4,12,Five,Tongwei,April 10,April 13,+,+,HAdV14p1
+5,11,Five,Tongwei,April 10,April 13,+,+,HAdV14p1
+6,10,Four,Tongwei,April 12,April 13,+,(cid:1),HAdV14p1
+7,10,Four,Tongwei,April 13,April 13,(cid:1),,
+8,15,Five,Tongwei,April 13,April 13,+,+,HAdV14p1
+9,13,Five,Tongwei,April 13,April 13,+,(cid:1),HAdV14p1
+10,10,Four,Tongwei,April 13,April 13,+,+,HAdV14p1
+11,12,Five,Tongwei,April 14,April 17,(cid:1),,
+12,8,One,Tongwei,April 15,April 17,+,(cid:1),HAdV14p1
+13,9,One,Tongwei,April 16,April 17,(cid:1),,
+14,15,Eight,Tongwei,April 16,April 18,(cid:1),,
+15,14,Seven,Tongwei,April 17,April 19,+,(cid:1),HAdV14p1
+16,8,One,Tongwei,April 17,April 19,+,+,HAdV14p1
+17,9,Two,Tongwei,April 19,April 19,+,(cid:1),HAdV14p1

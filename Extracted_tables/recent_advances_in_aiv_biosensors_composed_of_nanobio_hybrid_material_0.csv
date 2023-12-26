@@ -1,0 +1,39 @@
+0,1,2,3,4,5
+,"required. Also, the detection step is relatively complicated for user. The nanobio hybrid material-based",,,,
+AIV biosensor should consider those problems for future commercialization.,,,,,
+Table 2.,Comparison of,the localized-surface plasmon resonance (LSPR)-based biosensor and,,,
+,"ﬂuorescence (FL)-based for AIV detection in terms of receptor materials, nanobio hybrid material,",,,,
+,"detection method, detection limit and target.",,,,
+,Nanobio Hybrid,Detection,,,
+Bioreceptor,,,Detection Limit,Target,References
+,Material,Method,,,
+Antibody,Recombinant Antibody,IM-SPR,144 copies/mL,HA,[67]
+,Goldbinding,,,,
+Antibody,polypeptide,LSPR/SPRi,1 pg/mL,HA,[68]
+,(GBP)–fusion protein,,,,
+,,,2.36 × 1013/cm2,,
+DNA probe,Gold nanoarray,LSPR,,Gene,[63]
+,,,oligonucleotides,,
+,Antibody-Gold,,,,
+Antibody,nanoparticle,FL-LSPR,10 pfu/mL,Virus (H3N2),[60]
+,Antibody-QD Complex,,,,
+,Aptamer-Cojugated,,,,
+Aptamer,,SPR,200 EID50/mL,Virus,[66]
+,Gold nanoparticle,,,,
+,,,2 ng/mL (in aqueous buffer),,
+Aptamer,Ag@SiO2 nanoparticle,MEF,,HA,[19]
+,,,3.5 ng/mL (in Human serum),,
+ntibody,CdTe/CdS,PL,3 ng/ µL,Virus (H5N1),[77]
+Antibody,MoS2 QDs,PL,7.35 pg/mL,Virus (H5N1),[78]
+,DNA Triplex with,,,,
+DNA Probe,,FL,0.14 nM,Gene,[81]
+,berberine,,,,
+,,,"H5N3: 6.25 × 103 PFU/mL (FL),",,
+,,,,Viruses,
+,Coumarin-derived,,1.25 × 104 PFU/mL (FICT),,
+Antibody,,FL/FICT,,"(H5N3, H7N1,",[82]
+,Dendrimer,,"H7N1: 5.34 × 102 PFU/mL (FL),",,
+,,,,9N2),
+,,,1.06 × 103 PFU/mL (FICT),,
+,,,"9N2: 5.23 × 101 PFU/mL,",,
+,,,1.09 × 102 PFU/mL,,

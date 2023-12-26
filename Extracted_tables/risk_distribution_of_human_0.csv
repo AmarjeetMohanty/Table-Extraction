@@ -1,0 +1,39 @@
+0,1,2,3,4
+,,Relative contribution,,
+,,Human H7N9,,Human H5N1
+,infection,,infection,
+,Mean,,Mean,
+Variables†,(%),Sd,(%),Sd
+Number of live poultry,,,,
+,7.58,1.35,18.92,6.10
+markets,,,,
+Density of poultry,5.27,1.03,2.19,1.36
+Density of human,,,,
+,6.82,1.76,9.42,3.82
+population,,,,
+Freeway,NS,—,2.68,1.37
+National highway,NS,—,3.04,2.18
+Percentage coverage of,,,,
+,3.55,0.83,5.51,2.13
+forest,,,,
+Percentage coverage of,,,,
+,5.11,1.43,NS,—
+shrub,,,,
+Percentage coverage of,,,,
+,3.39,0.70,3.48,1.94
+grassland,,,,
+Percentage coverage of,,,,
+,NS,—,3.19,2.01
+croplands,,,,
+Percentage coverage of,,,,
+,17.81,2.65,8.35,4.42
+built-up land,,,,
+Percentage coverage of,,,,
+,3.82,0.89,5.68,3.27
+water body,,,,
+Percentage coverage of,,,,
+,2.41,0.68,NS,—
+wetland,,,,
+Temperature,5.17,0.84,3.24,1.64
+Relative humidity,16.98,1.99,9.50,4.68
+Precipitation,22.10,1.88,24.80,4.85

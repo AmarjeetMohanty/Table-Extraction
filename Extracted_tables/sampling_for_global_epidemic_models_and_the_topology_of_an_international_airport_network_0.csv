@@ -1,0 +1,29 @@
+0,1,2,3,4,5,6,7,8,9,10
+,,,,,,,,,,Global Epidemic Models
+Table 2. First passage times (in days),,,,"to selected cities, assuming the epidemic originated on January 1 in Hong Kong.",,,,,,
+,52,52,52 Rvachev,155,155,155,204,500,500,2904 Entire
+Major Locations,Pop.,Vol.,and Longini,Pop.,Vol.,Epstein,Combined,Pop.,Vol.,sample
+Athens,–,–,–,–,64,65,65,64,64,64
+Barcelona,–,72,–,–,71,71,70,70,70,70
+Beijing,24,24,23,24,26,22,22,23,24,24
+Bogota´,125,–,114,111,95,102,95,99,96,95
+Cairo,75,–,69,69,69,68,68,68,66,68
+Cape Town,–,–,58,99,57,58,59,58,59,58
+Detroit,–,69,–,–,69,69,69,69,69,68
+Fairbanks,–,–,–,–,–,–,–,–,–,112
+Istanbul,–,–,–,49,49,49,49,49,49,50
+Lagos,104,–,83,93,–,83,83,81,83,83
+London,29,27,26,27,27,27,26,26,27,27
+Los Angeles,27,29,28,28,27,29,28,28,30,26
+Moscow,53,–,–,52,52,54,52,52,53,52
+New Delhi,43,–,42,42,42,44,42,43,43,42
+New York,62,55,66,57,53,59,54,56,54,54
+Sao Paulo,79,77,79,77,74,76,75,75,74,75
+Shanghai,20,21,20,20,20,19,20,20,21,21
+"St. Petersburg, Russia",130,–,–,115,98,94,92,95,93,94
+Sydney,25,27,26,27,25,27,25,24,27,27
+"Washington, DC",–,65,76,–,65,72,64,65,65,63
+,"A double dash means that the city is not present in the sample. For each city in each sample, we computed the difference in the first passage times between the model",,,,,,,,,
+,based on the sample and the model based on the entire network.,,,"If this difference was 7 days or larger (6 days was the largest standard deviation), we used bold font in",,,,,,
+that cell.,,,,,,,,,,
+,doi:10.1371/journal.pone.0003154.t002,,,,,,,,,

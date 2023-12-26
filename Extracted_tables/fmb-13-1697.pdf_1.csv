@@ -1,0 +1,31 @@
+0,1,2,3,4,5
+Table 2. Pathogen targets on various multiplex respiratory panels.,,,,,
+Manufacturer,,GenMark,BioFire,,Luminex
+Platform,ePlex,XT-8,FilmArray†,Verigene‡,NxTAG
+,Influenza A,Influenza A,Influenza A,Influenza A,Influenza A
+,Influenza A H1,Influenza A H1,Influenza A H1,Influenza A H1,Influenza A H1
+,Influenza A H3,Influenza A H3,Influenza A H3,Influenza A H3,Influenza A H3
+,Influenza A 2009 H1N1,Influenza A 2009 H1N1,Influenza A 2009 H1N1,–,–
+Viral targets,Influenza B,Influenza B,Influenza B,Influenza B,Influenza B
+,Respiratory syncytial virus,Respiratory syncytial virus,Respiratory syncytial virus,Respiratory syncytial virus,Respiratory syncytial virus A
+,A,A,,A,
+,Respiratory syncytial virus,Respiratory syncytial virus,,Respiratory syncytial virus,Respiratory syncytial virus B
+,B,B,,B,
+,Parainfluenza virus 1,Parainfluenza virus 1,Parainfluenza virus 1,Parainfluenza virus 1,Parainfluenza virus 1
+,Parainfluenza virus 2,Parainfluenza virus 2,Parainfluenza virus 2,Parainfluenza virus 2,Parainfluenza virus 2
+,Parainfluenza virus 3,Parainfluenza virus 3,Parainfluenza virus 3,Parainfluenza virus 3,Parainfluenza virus 3
+,Parainfluenza virus 4,–,Parainfluenza Virus 4,Parainfluenza virus 4,Parainfluenza virus 4
+,Meta-pneumovirus,Meta-pneumovirus,Meta-pneumovirus,Meta-pneumovirus,Meta-pneumovirus
+,Rhino/Enterovirus,Rhinovirus,Rhino/Enterovirus,Rhinovirus,Rhino/Enterovirus
+,Adenovirus,Adenovirus B/E,Adenovirus,–,Adenovirus
+,,Adenovirus C,,,
+,–,–,–,–,Bocavirus
+,,,Coronavirus 229E,,Coronavirus 229E
+,Coronavirus,–,Coronavirus HKU1,–,Coronavirus HKU1
+,,,Coronavirus NL63,,Coronavirus NL63
+,,,Coronavirus OC43,,Coronavirus OC43
+,M. pneumoniae,–,M. pneumoniae,–,M. pneumoniae
+,C. pneumoniae,–,C. pneumoniae,–,C. pneumoniae
+Bacterial targets,–,–,B. pertussis,B. pertussis,–
+,–,–,B. parapertussis,B.,–
+,,,,parapertussis/bronchospetica,

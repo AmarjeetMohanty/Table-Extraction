@@ -1,0 +1,35 @@
+0,1,2,3,4
+,2	hours.	Hematologic	parameters	including	WBC	were	measured	by,,,
+,Sysmex	 XN2000	 (Sysmex).	 High‐sensitivity	 C‐reactive	 protein	 (CRP),,,
+,Total,Non‐sepsis,Sepsis,
+Characteristics,n = 248,n = 63,n = 185,P
+Demographics,,,,
+Male/Female,124/124,29	/34,95	/90,NS
+"Age,	y",70.1	±	14.9,65.8	±	14.7,71.5	±	26.2,.009
+Tested markers,,,,
+PCT	(ng/mL),8.5	±	22.2,3.2	±	11.7,10.2	±	24.5,<.001
+CRP	(mg/L),91.9	±	66.9,78.5	±	66.3,96.5	±	66.5,NS
+ESR	(mm/hr),48.6	±	25.6,45.8	±	25.1,49.6	±	25.8,NS
+WBC	(×109/L),12.8	±	7.5,10.8	±	5.8,13.4	±	7.9,.012
+SOFA	factors,,,,
+Respiratory factors,,,,
+PaO2	(mm	Hg),78.8	±	25.1,91.2	±	15.8,74.6	±	26.2,<.001
+FiO2	(mm	Hg),0.31	±	0.15,0.22	±	0.07,0.33	±	0.17,<.001
+PaO2/FiO2,307.4	±	140.1,416.2	±	100.2,270.2	±	132.4,<.001
+Platelets (×103/uL),231	±	114,242	±	92,227	±	120,NS
+Bilirubin	(mg/dL),0.99	±	1.78,0.76	±	0.35,1.1	±	2.1,NS
+MAP	(mm	Hg),85.9	±	24.2,89.9	±	15.7,84.6	±	26.3,.028
+GCS	score,13.4	±	3.1,14.9	±	0.45,12.9	±	3.4,<.001
+Creatinine	(mg/dL),1.8	±	2.3,0.81	±	0.31,2.19	±	2.58,<.001
+Suspected	bacterial	infection,,,,NS
+Definite bacterial infection,135,36,99,
+Probable bacterial infection,113,27,86,
+Final	diagnosis,,,,
+Respiratory tract,116,26,90,NS
+Genitourinary	tract,94,27,67,NS
+Gastrointestinal	tract,3,2,1,NS
+Hepato‐biliary	tract,12,4,8,NS
+Others,23,4,19,NS
+Prognosis,,,,.02
+Survivor,220,61,159,
+Non‐survivor,28,2,26,

@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+,Table 2 Nucleotide sequences and amino acid substitution in the full VP2 gene of CPV-2,,,,,,,,,,,,,
+Strains,,Position of nucleotide sequence (amino acid),,,,,,,,,,,,
+,13–15,259–261,799–801,898–900,964–966,967–969,970–972,1000–1002,1021–1023,1108–1110,1276–1278,1318–1320,1339–1341,1663–1665
+,(5),(87),(267),(300),(322),(323),(324),(334),(341),(370),(426),(440),(447),(555)
+Reference strain,,,,,,,,,,,,,,
+CPV-2,,,,,,,,,,,,,,
+M38245 (USA),GCA (Ala),ATG (Met),TTT (Phe),GCT (Ala),ACA (Thr),AAC (Asn),TAT (Tyr),GCT (Ala),CCA (Pro),CAA (Gln),AAT (Asn),ACA (Thr),ATA (Ile),GTA (Val)
+CPV-2a,,,,,,,,,,,,,,
+M24000 (USA),GCA (Ala),TTG (Leu),TTT (Phe),GGT (Gly),ACA (Thr),AAC (Asn),TAT (Tyr),GCT (Ala),CCA (Pro),CAA (Gln),AAT (Asn),ACA (Thr),ATA (Ile),ATA (Val)
+FJ197847 (vaccine),GCA (Ala),ATG (Met),TTT (Phe),GGT (Gly),ACA (Thr),AAC (Asn),TAT (Tyr),GCT (Ala),CCA (Pro),CAA (Gln),AAT (Asn),ACA (Thr),ATA (Ile),GTA (Val)
+New CPV-2a,,,,,,,,,,,,,,
+AY742953 (USA),GCA (Ala),TTG (Leu),TTT(Phe),GGT (Gly),ACA (Thr),AAC (Asn),TAT (Tyr),GCT (Ala),CCA (Pro),CAA (Gln),AAT (Asn),ACA (Thr),ATA (Ile),GTA (Val)
+KF676668 (China),GCA (Ala),TTG (Leu),TAT(Tyr),GGT (Gly),ACA (Thr),AAC (Asn),ATT (Ile),GCT (Ala),CCA (Pro),CAA (Gln),AAT (Asn),GCA (Ala),ATA (Ile),GTA (Val)
+KR611488 (China),GCA (Ala),TTG (Leu),TAT(Tyr),GGT (Gly),ACA (Thr),AAC (Asn),ATT (Ile),GCT (Ala),CCA (Pro),CAA (Gln),AAT (Asn),GCA (Ala),ATA (Ile),GTA (Val)
+JQ686671 (China),GCA (Ala),TTG (Leu),TAT(Tyr),GGT (Gly),ACA (Thr),AAC (Asn),ATT (Ile),GCT (Ala),CCA (Pro),CAA (Gln),AAT (Asn),GCA (Ala),ATA (Ile),GTA (Val)
+CPV-2b,,,,,,,,,,,,,,
+M78452 (USA),GCA (Ala),TTG (Leu),TTT (Phe),GGT (Gly),ACA (Thr),AAC (Asn),TAT (Tyr),GCT (Ala),CCA (Pro),CAA (Gln),GAT (Asp),ACA (Thr),ATA (Ile),GTA (Val)
+New CPV-2b,,,,,,,,,,,,,,
+AY742955 (USA),GCA (Ala),TTG (Leu),TTT(Phe),GGT (Gly),ACA (Thr),AAC (Asn),TAT (Tyr),GCT (Ala),CCA (Pro),CAA (Gln),GAT (Asp),ACA (Thr),ATA (Ile),GTA (Val)
+JQ268284 (China),GCA (Ala),TTG (Leu),TAT(Tyr),GGT (Gly),ACA (Thr),AAC (Asn),ATT (Ile),GCT (Ala),CCA (Pro),CAA (Gln),GAT (Asp),GCA (Ala),ATA (Ile),GTA (Val)
+KR611459 (China),GCA (Ala),TTG (Leu),TAT(Tyr),GGT (Gly),ACA (Thr),AAC (Asn),ATT (Ile),GCT (Ala),CCA (Pro),CAA (Gln),GAT (Asp),GCA (Ala),ATA (Ile),GTA (Val)
+KR611461 (China),GCA (Ala),TTG (Leu),TAT(Tyr),GGT (Gly),ACA (Thr),AAC (Asn),ATT (Ile),GCT (Ala),CCA (Pro),CAA (Gln),GAT (Asp),GCA (Ala),ATA (Ile),GTA (Val)
+CPV-2c,,,,,,,,,,,,,,
+FJ005235 (USA),GCA (Ala),TTG (Leu),TTT (Phe),GCT (Ala),ACA (Thr),AAC (Asn),TAT (Tyr),GCT (Ala),CCA (Pro),CAA (Gln),GAA (Glu),ACA (Thr),ATA (Ile),GTA (Val)
+FJ222821 (Italy),GCA (Ala),TTG (Leu),TTT (Phe),GGT (Gly),ACA (Thr),AAC (Asn),TAT (Tyr),GCT (Ala),CCA (Pro),CAA (Gln),GAA (Glu),ACA (Thr),ATA (Ile),GTA (Val)
+KY937650 (China),GGA (Gly),TTG (Leu),TAT(Tyr),GGT (Gly),ACA (Thr),AAC (Asn),ATT (Ile),GCT (Ala),CCA (Pro),CAA (Gln),GAA (Glu),ACA (Thr),ATA (Ile),GTA (Val)
+KU244254 (Taiwan),GCA (Ala),TTG (Leu),TAT (Tyr),GGT (Gly),ACA (Thr),AAC (Asn),ATT (Ile),GCT (Ala),CCA (Pro),CGA (Arg),GAA (Glu),ACA (Thr),ATA (Ile),GTA (Val)
+AB120727 (Vietnam),GCA (Ala),TTG (Leu),TTT (Phe),GGT (Gly),ACA (Thr),AAC (Asn),TAT (Tyr),GCT (Ala),CCG (Pro),CAA (Gln),GAA (Glu),ACA (Thr),ATA (Ile),GTA (Val)
+This study,,,,,,,,,,,,,,
+CPV-2a,,,,,,,,,,,,,,
+DN33/MK357724,GCA (Ala),ATG (Met),TTT (Phe),GCT (Ala),ACA (Thr),AAC (Asn),TAT (Tyr),GCT (Ala),CCA (Pro),CAA (Gln),AAT (Asn),ACA (Thr),ATA (Ile),GTA (Val)
+CPV-2c,,,,,,,,,,,,,,
+HN7AA/MK357734,GGA (Gly),TTG (Leu),TAT (Tyr),GGT (Gly),ACA (Thr),AAC (Asn),ATT (Ile),GCT (Ala),CCA (Pro),CGA (Arg),GAA (Glu),ACA (Thr),ATA (Ile),GTA (Val)
+HN4AA/MK357735,GGA (Gly),TTG (Leu),TAT (Tyr),GGT (Gly),ACA (Thr),AAC (Asn),ATT (Ile),GCC (Ala),CCA (Pro),CGA (Arg),GAA (Glu),ACA (Thr),ATG (Met),GTA (Val)
+N11AA/MK357736,GGA (Gly),TTG (Leu),TAT (Tyr),GGT (Gly),ACA (Thr),AAC (Asn),ATT (Ile),GCT (Ala),CCA (Pro),CGA (Arg),GAA (Glu),ACA (Thr),ATG (Met),GTA (Val)

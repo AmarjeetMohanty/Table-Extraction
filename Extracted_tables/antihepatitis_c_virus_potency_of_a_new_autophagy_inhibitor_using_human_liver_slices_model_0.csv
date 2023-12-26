@@ -1,0 +1,14 @@
+0,1,2,3,4
+,,,B,
+,8,,,100
+,,Positive strand CTRL,,
+,,,,80
+,6,Negative strand CTRL,,
+,,Positive strand + GNS 396 0.01 µmol/L,,60
+,,Positive strand + GNS 396 0.1 µmol/L,,
+(log10copies/µg total RNA/mgtissue),4,,% inhibition of replication,
+,,Positive strand + GNS 396 1 µmol/L,,
+,,,,40
+,,Positive strand + GNS 396 5 µmol/L,,
+,2,,,
+,,,,20

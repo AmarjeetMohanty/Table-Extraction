@@ -1,0 +1,42 @@
+0,1,2,3,4,5
+,"Table 1: List of the SARS-CoV complete genome isolates investigated. Included are isolates' labels, IDs, accession numbers, length in",,,,
+"nucleotides, dates of revisions considered and countries and sources of isolates.",,,,,
+Label,ID,Accession No.,Length,Revision date,Country/Source
+1.,TWH,Ap006557.1,29727,02-AUG-2003,Taiwan: patient #01
+,TWC2,Ay362698.1,,13-AUG-2003,Taiwan: Hoping Hospital
+2.,TWC3,Ay362699.1,29727,13-AUG-2003,Taiwan: Hoping Hospital
+3.,TWK,Ap006559.1,29727,02-AUG-2003,Taiwan: patient #06
+4.,TWS,Ap006560.1,29727,02-AUG-2003,Taiwan: patient #04
+5.,TWY,Ap006561.1,29727,02-AUG-2003,Taiwan: patient #02
+6.,Urbani,Ay278741.1,29727,12-AUG-2003,USA: Atlanta
+7.,TWJ,Ap006558.1,29725,02-AUG-2003,Taiwan: patient #043
+8.,TWC,Ay321118.1,29725,26-JUN-2003,"Taiwan, first fatal case"
+9,WHU,Ay394850.2,29728,12-JAN-2004,China: Wuhan
+10.,TW1,Ay291451.1,29729,14-MAY-2003,Taiwan
+11.,Frankfurt 1,Ay291315.1,29727,11-JUN-2003,Germany: Frankfurt
+12.,FRA,Ay310120.1,29740,12-DEC-2003,Germany: patient from Frankfurt
+13.,HKU-39849,Ay278491.2,29742,29-AUG-2003,China: Hong Kong
+14.,Tor2,Ay274119.3,29751,16-MAY-2003,"Canada: Toronto, patient #2"
+,,Nc_004718.3,,06-FEB-2004,"Canada: Toronto, patient #2"
+15.,HSR 1,Ay323977.2,29751,15-OCT-2003,Italy
+16.,CUHK-Su10,Ay282752.2,29736,17-NOV-2003,China: Hong Kong
+17.,CUHK-W1,Ay278554.2,29736,31-JUL-2003,China: Hong Kong
+18.,GZ50,Ay304495.1,29720,05-NOV-2003,China: Hong Kong
+19.,AS,Ay427439.1,29711,21-OCT-2003,Italy: Milan
+20.,Sin2500,Ay283794.1,29711,12-AUG-2003,Singapore
+21.,Sin2679,Ay283796.1,29711,12-AUG-2003,Singapore
+22.,Sin2774,Ay283798.2,29711,02-OCT-2003,Singapore
+23.,Sin2677,Ay283795.1,29705,12-AUG-2003,Singapore
+24.,Sin2748,Ay283797.1,29706,12-AUG-2003,Singapore
+25.,BJ01,Ay278488.2,29725,01-MAY-2003,China: Beijing
+26.,BJ02,Ay278487.3,29745,05-JUN-2003,China: Beijing
+27.,BJ03,Ay278490.3,29740,05-JUN-2003,China: Beijing
+28.,BJ04,Ay279354.2,29732,05-JUN-2003,China: Beijing
+29.,Taiwan TC1,Ay338174.1,29573,28-JUL-2003,Taiwan
+30.,Taiwan TC2,Ay338175.1,29573,28-JUL-2003,Taiwan
+31.,Taiwan TC3,Ay348314.1,29573,29-JUL-2003,Taiwan
+32.,GD01,Ay278489.2,29757,18-AUG-2003,China: Beijing
+33.,SZ3,Ay304486.1,29741,05-NOV-2003,China: Hong Kong
+34.,SZ16,Ay304488.1,29731,05-NOV-2003,China: Hong Kong
+35.,ZJ01,Ay297028.1,29715,19-MAY-2003,China: Beijing
+36.,ZMY 1,Ay351680.1,29749,03-AUG-2003,China: Guangdong

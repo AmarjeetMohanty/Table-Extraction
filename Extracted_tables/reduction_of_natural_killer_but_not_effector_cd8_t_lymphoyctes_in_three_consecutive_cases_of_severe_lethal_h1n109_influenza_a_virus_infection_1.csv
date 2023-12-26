@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6,7
+,Table 2. Viral RNA in Samples from Patients 1–3.,,,,,,
+,,Respiratory samples,,Blood samples,Post Mortem (Patient 1 only),,
+,,(Ct),,(Ct),(Ct),,
+,Days in ITU,Naso-pharyngeal swab,Endotracheal aspirate,Plasma,"Lung
+Lymph node
+Spleen",Liver,Kidney
+Patient 1,1,27.5,,,,,
+,3 6,24.9,,,,,
+,7,27,24.9,34.6,,,
+,11,,25.9,31.9,,,
+,13,,,31.2,,,
+,PM,,,,"34.1
+36.3
+neg",neg,neg
+Patient 2,1,36.3,,,,,
+,3,,25.9,,,,

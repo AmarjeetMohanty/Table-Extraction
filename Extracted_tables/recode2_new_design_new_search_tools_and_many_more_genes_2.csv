@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6,7,8
+,,Products,,,,,,
+,,,Organisms,,Journals,,,
+,Revisions,id product [PK],,,,,morphrna,
+,,,latin,,id [PK],Kingdoms,,
+Events,,id molecule [FK],,Status,,,,
+,id [PK],,variant,,id recode [FK],,id [PK],Translation
+,,id recode [FK],,,,kingdom [PK],,
+event [PK],id recode [FK],,acronym,status [PK],authors,,id recode [FK],
+,,name,,,,phylum,,id [PK]
+name,revised,,synonym,name,title,,id molecule [FK],
+,,sequence,,,,genome,,translation
+description,comments,,taxonid [PK],description,journal,,structure [FK],
+,,modification,,,,description,,
+,author [FK],,family,,year,,description,
+,,coordinates,,,,,,
+,,,phylum,,doi,,,
+,,description,,,,,,

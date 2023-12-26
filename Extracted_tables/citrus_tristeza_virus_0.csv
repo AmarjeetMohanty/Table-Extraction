@@ -1,0 +1,51 @@
+0,1,2,3,4,5,6
+Table 1 | Provenance of CTV isolates used in this study.,,,,,,
+Sequence name,Accession no.,Genotype,Isolation host,Country of origin,Sequencing method,Reference
+FL202,KC517493,VT,Citrus sinensis,"FL, USA",SOLiD 5500xl,This study
+FS674,KC517485,T36,C. sinensis,"FL, USA",SOLiD 5500xl,This study
+FS701,KC517494,VT,C. sinensis,"FL, USA",SOLiD 5500xl,This study
+,KC517489,T30,,,,
+,KC517486,T36,,,,
+FS703,KC517492,VT,C. sinensis,"FL, USA",SOLiD 5500xl,This study
+,KC517491,T30,,,,
+,KC517487,T36,,,,
+FL278,KC517490,T30,C. macrophylla,"FL, USA",SOLiD 5500xl,This study
+FS577,KC517488,T36,C. macrophylla,"FL, USA",SOLiD 5500xl,This study
+FS02-2,EU937519,VT,C. sinensis,"FL, USA",Affymetrix microarray,Weng et al. (2007)
+,EU937520,T30,,,,
+,EU937521,T36,,,,
+T3,KC525952,T3,C. sinensis,"FL, USA",Sanger,Hilf et al. (unpublished)
+NZ-M16,EU857538,T3,C. aurantifolia,New Zealand,Sanger,"Harper et al.
+(2009)"
+T68-1,JQ965169,T68,C. sinensis,"FL, USA",Sanger,This study
+HA16-5,GQ454870,Unknown,Unknown,"Hawaii, USA",Sanger,Melzer et al. (2010)
+NZ-B18,FJ525436,T68,C. sinensis,New Zealand,Sanger,"Harper et al.
+(2009)"
+CT14A,JQ911663,T68,C. sinensis,China,Sanger,Unpublished
+B165,EU076703,T68,C. reticulata,India,Sanger,Roy and Brlansky (2010)
+NZRB-TH28,FJ525433,RB,Poncirus trifoliata,New Zealand,Sanger,"Harper et al.
+(2010)"
+NZRB-TH30,FJ525434,RB,Poncirus trifoliata,New Zealand,Sanger,"Harper et al.
+(2010)"
+NZRB-M17,FJ525435,RB,C. aurantifolia,New Zealand,Sanger,"Harper et al.
+(2010)"
+NZRB-M12,FJ525431,RB,Poncirus trifoliata,New Zealand,Sanger,"Harper et al.
+(2010)"
+NZRB-G90,FJ525432,RB,Poncirus trifoliata,New Zealand,Sanger,"Harper et al.
+(2010)"
+B301,JF957169,RB,C. sinensis,Puerto Rico,Sanger,Roy et al. (unpublished)
+HA18-9,GQ454869,RB,Unknown,"Hawaii, USA",Sanger,Melzer et al. (2010)
+T30,AY260651,T30,Unknown,"FL, USA",Sanger,Albiach-Marti et al. (2000)
+T385,Y18420,T30,Unknown,Spain,Sanger,"Vives et al.
+(1999)"
+VT,U56902,VT,Unknown,Israel,Sanger,Mawassi et al. (1996)
+T318A,DQ151548,VT,Unknown,Spain,Sanger,Ruiz-Ruiz et al. (2006)
+Nuaga,AB046398,VT,Unknown,Japan,Sanger,Suastika et al. (2001)
+CT11A,JQ911664,VT,C. sinensis,China,Sanger,Unpublished
+AT-1,JQ061137,VT,C. sinensis,China,Sanger,Unpublished
+KPG3,HM573451,VT,C. reticulata,India,Sanger,Biswas et al. (2012)
+T36,U16304,T36,Unknown,"FL, USA",Sanger,"Karasev et al.
+(1995)"
+T36 (Clone),AY170468,T36,N/A,"FL, USA",Sanger,"Satyanarayana et al.
+(2001)"
+538 (Clone),N/A,T36,C. macrophylla,"FL, USA",SOLiD 5500xl,This study

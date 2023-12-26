@@ -1,0 +1,20 @@
+0,1,2,3,4,5
+,Table 6. Risk factors for circulating cytokines IL-37 pg/ml in mycetoma patients with different lesion diameters.,,,,
+variable,,Category,B‡,95% Confidence Interval,p-value
+,,,,(Lower to Upper),
+Intercept,,,228.4,(208.6 to 248.1),<0.001
+IL-1β,,,-9.1,(-15.7 to -2.5),0.008
+Lesion diameter,,�5 cm,-75.4,(-88.4 to -62.3),<0.001
+,,5–10 cm,-52.6,(-64.3 to -40.8),<0.002
+,,�10 cm,0,,
+Gender,,Female,-5.3,(-13.1 to 2.5),0.176
+,,Male,0,,
+Age groups years,,12–18,-11.7,(-23.2 to -0.2),0.047
+,,19–24,-13.3,(-23.2 to -3.3),0.010
+,,25–29,-9.5,(-20.0 to 1.1),0.079
+,,30–39,-11.8,(-22.3 to -1.2),0.029
+,,�40,0,,
+,Medication,Itraconazole,-5.7,(-16.4 to 5),0.293
+,,200 mg/day,,,
+,,Ketoconazole,0,,
+,,400 mg/day,,,

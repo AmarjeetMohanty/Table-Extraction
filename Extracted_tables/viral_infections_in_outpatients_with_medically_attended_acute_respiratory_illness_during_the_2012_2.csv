@@ -1,0 +1,47 @@
+0,1,2,3,4,5
+,"Table 4 Baseline comparisons using unadjusted odds ratios, between single viral",,,infections (n = 563) and co-detections,
+(n = 85) in 2012-2013,,,,,
+Variable,,,Single infection % Co-detection % Unadjusted OR (95% CI),,P-value
+Categorical variables,,,,,
+Race,,,,,0.180
+,White,87.7,12.3,0.61 (0.24-1.53),
+,Black,79.6,20.4,1.11 (0.36-3.43),
+,Other,81.2,18.8,Referent,
+Sex,,,,,0.780
+,Male,87.3,12.7,Referent,
+,Female,86.6,13.4,1.07 (0.67-1.71),
+Hispanic,,,,,0.940
+,No,86.9,13.1,Referent,
+,Yes,87.5,12.5,0.95 (0.21-4.23),
+Age group,,,,,0.010
+,6 mo-17 years,81.6,18.4,2.51 (1.33-4.72),
+,18-49 years,87.8,12.2,1.55 (0.81-2.96),
+,≥50 years,91.8,8.2,Referent,
+Household members ≥18,,,,,0.690
+,1,89.2,10.8,0.82 (0.39-1.74),
+,2,86.1,13.9,1.09 (0.63-1.88),
+,≥3,87.1,12.9,Referent,
+Household member <18,,,,,0.003
+,0,92.0,8.0,0.45 (0.23-0.90),
+,1,86.6,13.4,0.80 (0.38-1.68),
+,2,79.4,20.6,1.34 (0.69-2.62),
+,≥3,83.8,16.2,Referent,
+"Subjective social status,",range = 0-9,,,,0.910
+,1-4,87.2,12.8,1.25 (0.55-2.88),
+,5,90.5,9.5,0.89 (0.38-2.09),
+,6,89.8,10.2,0.97 (0.43-2.21),
+,≥7,89.5,10.5,Referent,
+Smoking status,,,,,0.260
+,Smoker,85.9,14.1,1.52 (0.73-3.13),
+,Non-smoker,90.2,9.8,Referent,
+Household smoking,,,,,0.910
+,Yes,86.7,13.3,1.03 (0.58-1.86),
+,No,87.1,12.9,Referent,
+Asthma Status,,,,,0.600
+,Yes,85.4,14.6,1.16 (0.67-1.99),
+,No,87.1,12.9,Referent,
+Influenza vaccination status,,,,,0.220
+,Yes,88.5,11.5,Referent,
+,No,85.1,14.9,1.34 (0.84-2.12),
+Self-reported health status,,,,,0.090
+,Fair/Poor,89.7,10.3,0.54 (0.15-1.87),

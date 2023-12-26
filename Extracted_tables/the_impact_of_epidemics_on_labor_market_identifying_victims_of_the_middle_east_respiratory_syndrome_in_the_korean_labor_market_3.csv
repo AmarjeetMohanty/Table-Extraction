@@ -1,0 +1,26 @@
+0,1,2,3,4,5,6
+Appendix 2,,,,,,
+Table 7 Falsification analysis,,,,,,
+Control,Treatment,,"2011, 6 ~ 7","2012, 6 ~ 7","2013, 6 ~ 7","2014, 6 ~ 7"
+A. Dependent variable: Unemployment status,,,,,,
+15–49,Over 50,Treated × post,1.0747b (0.0030),1.0333b (0.0028),0.7767b (0.0022),1.0649b (0.0029)
+,50s,Treated × post,0.9883b (0.0033),1.1150b (0.0036),0.8073b (0.0026),1.1134b (0.0035)
+30–49,Over 50,Treated × post,1.0588b (0.0031),1.0673b (0.0032),0.7870b (0.0024),1.1175b (0.0033)
+,50s,Treated × post,0.9811b (0.0022),1.0944b (0.0026),0.9608b (0.0023),1.1204b (0.0026)
+15–29,Over 50,Treated × post,1.0794b (0.0032),0.9898b (0.0030),0.7682b (0.0023),1.0087b (0.0030)
+,50s,Treated × post,0.9938b (0.0035),1.0672b (0.0038),0.7986b (0.0028),1.0545b (0.0036)
+,B. Dependent variable: Employed as temporary worker,,,,,
+15–49,Over 50,Treated × post,1.0531b (0.0014),1.0269b (0.0013),1.0388b (0.0013),0.9702b (0.0012)
+,50s,Treated × post,1.0550b (0.0016),1.0308b (0.0015),1.0130b (0.0015),0.9609b (0.0014)
+30–49,Over 50,Treated × post,1.0668b (0.0015),1.0310b (0.0014),1.0629b (0.0014),0.9576b (0.0013)
+,50s,Treated × post,1.0789b (0.0012),1.0257b (0.0012),1.0693b (0.0012),0.9595 (0.0011)
+15–29,Over 50,Treated × post,1.0151b (0.0016),1.0140b (0.0016),0.9815b (0.0015),0.9966b (0.0015)
+,50s,Treated × post,1.0164b (0.0018),1.0200b (0.0018),0.9610b (0.0016),0.9833b (0.0017)
+,C. Dependent variable: Log hours worked,,,,,
+15–49,Over 50,Treated × post,-0.0129b (0.0002),0.0156b (0.0002),0.0004a (0.0001),0.0009b (0.0001)
+,50s,Treated × post,-0.0114b (0.0002),0.0206b (0.0002),-0.0006b (0.0002),0.0058b (0.0001)
+30–49,Over 50,Treated × post,-0.0134b (0.0002),0.0108b (0.0002),0.0008b (0.0001),-0.0014b (0.0001)
+,50s,Treated × post,-0.0067b (0.0001),0.0011b (0.0001),0.0011b (0.0001),-0.0039b (0.0001)
+15–29,Over 50,Treated × post,-0.0120b (0.0003),0.0235b (0.0002),-0.0015b (0.0002),0.0059b (0.0002)
+,50s,Treated × post,-0.0100b (0.0003),0.0283b (0.0002),-0.0028b (0.0002),0.0115b (0.0002)
+"a and b indicate that the estimate is significant at the 0.05 and 0.01 levels, respectively. Standard errors are reported in parentheses. The reference group for the",,,,,,

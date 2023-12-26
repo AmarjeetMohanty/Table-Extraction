@@ -1,0 +1,28 @@
+0,1,2
+"Viruses 2009, 1",,
+,,Table 2. Cont.
+1,RSV,"RSV B, HBoV"
+2,RSV,"RSV A, HRV, KI polyomavirus"
+2,RSV,"RSV B, HCoVHKU1"
+1,HRV,"HRV, HCoVNL63"
+1,HRV,"HRV, HBoV"
+1,AdV,"HRV, AdV"
+1,Influenza virus B,"Influenza virus B, HCoVHKU1"
+1,"RSV, AdV","RSV A, HRV, HBoV, GAS"
+1,"RSV, AdV","RSV B, HRV, HBoV, GAS"
+1,"RSV, AdV","RSV B, HRV, HBoV, HCoVNL63"
+1,"RSV, AdV","RSV A, GAS"
+2,"RSV, AdV",RSV B
+1,"RSV, AdV","RSV A, HRV, KI polyomavirus"
+1,"RSV, AdV","RSV B, HBoV"
+1,"RSV, Haemophilus influenzae",RSV A
+1,AdV,WU polyomavirus
+1,CMV,"HRV, WU polyomavirus"
+1,CMV,HRV
+1,CMV,hMPV
+1,Haemophilus influenzae,Neg
+1,"RSV, PIV-2",RSV B
+1,"RSV, PIV-3","RSV A, HBoV, HCoVHKU1,WU polyomavirus"
+1,Influenza virus B,Neg
+2,HRV,Neg
+1,hMPV,Neg

@@ -1,0 +1,17 @@
+0,1,2,3
+,Table 1. Global platforms comparison. Abbreviations: MA = microarray; MPSS = massively parallel signature sequencing; SAGE = serial analysis of,,
+gene expression.,,,
+,SAGE,MA,MPSS
+Global expression proﬁling platforms,Yes,Yes,Yes
+Prior knowledge of genome required,No,Yes,No
+Speciﬁcity,80%,Near 100%,95%
+,(14 nucleotide sequence),(?Selection bias),(17 nucleotide sequence)
+Sequencing error,1%,<1%,7%
+Unique transcipts/genes,Yes,No,No
+Quantiﬁcation,Yes,Yes,Yes
+Dataset size,20–60 000 tags,Preselected tags,>1 000 000 sequences
+Low abundance genes,Not sequenced,Sequenced,Sequenced
+Starting mRNA concentration,High,High,DNA megacloning
+,(2.5–5 mg),,
+Cost,+++,+,+
+Online comparative libraries,Available,Available,Available

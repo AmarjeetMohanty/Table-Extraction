@@ -1,0 +1,27 @@
+0,1,2,3,4,5,6,7
+,,,,Of,"the 42 passage associated mutations, 17 of",,the mutations
+descendants of #59 compared to the parent,,"sample,",suggesting,,,,
+,,,,were non-synonymous and 16 of,,,these were located in the spike
+,these SNPs were either independently acquired after a single cell,,,,,,
+,Table 2. Non-synonymous mutations associated with cell passage.,,,,,,
+Position,Codon Position,UP-Codon,P-Codon,,UP-AA,P-AA,Position-AA (spike)
+6461,1 (ts),TAT,TGT,,Y,C,–
+23672,1 (ts),ACG,ATG,,T,M,11
+23759,1(ts),ACT,ATT,,T,I,40
+24083,1(ts),GGT,GAT,,G,D,148
+24145,0(tv),AAT,CAT,,N,H,169
+24157,0(tv),AAT,CAT,,N,H,173
+24160,0(ts),TCT,CCT,,S,P,174
+24382,0(tv),ATG,CTG,,M,L,248
+24397,0(tv),AAT,TCT,,N,S,253
+24398,1(tv),AAT,TCT,,N,S,253
+25166,1 (tv),ACT,AAT,,T,N,509
+25267,0 (tv),GCT,TCT,,A,S,543
+25351,0 (ts),CAT,TAT,,H,Y,571
+25458,2 (tv),TTG,TTT,,L,F,606
+25559,1 (ts),ACT,ATA,,T,I,640
+25945,0 (ts),TCG,GCG,,S,A,769
+26357,1 (ts),GAT,GGT,,D,G,906
+,"UP = unpassaged, P = passaged, AA = amino acid,","(ts) = transition,",(tv) = transversion. Mutations located in N-terminal receptor binding domain in the spike protein (see,,,,
+Figure 3) are in italics.,,,,,,,
+,doi:10.1371/journal.pone.0052752.t002,,,,,,

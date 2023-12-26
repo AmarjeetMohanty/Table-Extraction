@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6
+,,"Table 3: Molecular docking of S. baicalensis flavonoids into influenza A viruses NA1, NA2, and NA9.",,,,
+,,LigScore2 Dreiding,,,DockScore,
+Flavonoids,,,,,,
+,NA1a,NA2b,NA9c,NA1a,NA2b,NA9c
+Baicalein,4.42,3.76,4.68,61.041,49.358,36.683
+Baicalin,6.52,4.13,5.24,77.712,48.391,38.279
+Apigenin,4.51,3.66,4.41,57.727,44.794,35.018
+Chrysin,4.92,3.64,4.37,54.621,40.560,34.109
+Tamiflu,5.67,3.67,4.16,54.409,33.117,33.935
+aAvian influenza virus A/Vietnam/1203/04 (H5N1).,,,,,,

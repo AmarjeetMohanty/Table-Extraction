@@ -1,0 +1,35 @@
+0,1,2,3,4,5
+6,,,,,Virologica Sinica
+Table 2,Summary of cryo-EM structures from ﬂavivirus-antibody complexes.,,,,
+Virus name,Antigen,Antibodya,Fragment,EMD codes,Resolution (A˚ )
+Dengue virus (DENV),DENV1 mature virion,14c10,Fab,5268,7
+,,1F4,Fab,2442,6
+,DENV2 mature virion,747(4)B7,Fab,2818,10.24
+,,1A1D-2,Fab,1418,24
+,,2D22,Fab,2967/2968/2969/2996/2997/2998/,6.5/20/21/6.9/13/11/
+,,,,2999,23
+,DENV2 immature,2H2,Fab,5674/5675/5676/5677,21/25/21/21
+,virion,,,,
+,,E53,Fab,5102,23
+,DENV3 immature,1H10,Fab,9649/9650/9651,12/25/25
+,virion,,,,
+,DENV3 mature virion,5J7,Fab,5935,9
+West Nile Virus (WNV),Immature virion,E53,Fab,5103,15
+,Mature virion,E16,Fab,1234,14.5
+,,E16,scFv,5115,22.75
+,,CR4354,Fab,5190,13.7
+Tick-borne encephalitis virus,Mature virion,19/1786,Fab,3754/3755,3.9/19.2
+(TBEV),,,,,
+Zika virus (ZIKV),Mature virion,ZIKV-,Fab,8548,6.2
+,,117,,,
+,,ZKA190,Fab,6793/6794,22/22
+,,Z23,Fab,9542,9.4
+,,C10,Fab,9573/9574/9575,4.4/12/4
+,,ZAb-,Fab,7613,9.7
+,,FLEP,,,
+,,ZK2B10,Fab,9811/9812,20/11
+,,ZIKV-,Fab,9131,4
+,,195,,,
+Japanese encephalitis virus (JEV),Mature virion,2F2,Fab,6854,4.7
+,,2H4,Fab,6855,4.6
+aThe possible neutralization mechanisms for ﬂavivirus antibodies discussed in the text are summarized below. 14c10: blocking receptor binding,,,,,

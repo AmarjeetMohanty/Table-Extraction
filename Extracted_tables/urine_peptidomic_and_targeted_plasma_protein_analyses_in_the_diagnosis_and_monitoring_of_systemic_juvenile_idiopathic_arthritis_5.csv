@@ -1,0 +1,9 @@
+0,1,2,3,4
+,Relative abundance,,,U test P value
+biomarkers,SAF,QOM,training,bootstrapping
+TIMP1,0.2782,-0.4967,1.15E-04,3.30E-07
+IL18,0.1735,-0.3099,3.91E-03,7.31E-05
+RANTES,0.1681,-0.3002,4.64E-03,5.07E-03
+P-Selectin,0.1616,-0.2885,3.78E-03,2.68E-04
+MMP-9,0.1308,-0.2335,1.86E-02,5.03E-04
+L-Selectin,0.0121,-0.0216,2.16E-01,3.75E-01

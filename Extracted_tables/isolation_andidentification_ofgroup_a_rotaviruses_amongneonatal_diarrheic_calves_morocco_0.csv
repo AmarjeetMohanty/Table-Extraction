@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6,7,8,9
+"Table 1  Record data from 15 fecal samples collected during 2014, from different geographical regions of Morocco",,,,,,,,,
+Samples,Calves age,Regions,Hemagglutination,,Cell culture passages (P),,,Rt-PCR Ct,Genotypes–
+identification,(weeks/days),,test (HA),,,,,values,Serotypes
+,,,,P1,P2,P3,P4,,
+3∕4,2.2,Laarayche,1/32,,,,,No Ct,ND
+,,,,+,−,−,−,,
+1/13,3.5,Kenitra,1/32,,,,,No Ct,ND
+,,,,+,−,−,−,,
+1/18,3.3,Kenitra,1/64,,,,,No Ct,ND
+,,,,+,−,−,−,,
+2/15,4.4,Moulay bouslham,1/32,,,,,No Ct,ND
+,,,,+,−,−,−,,
+1/25,3.5,Kenitra,1/8,,,,,No Ct,ND
+,,,,+,−,−,−,,
+2/23,3.3,Moulay bouslham,1/64,,,,,No Ct,ND
+,,,,+,−,−,−,,
+3/T,2.5,Khenifra,1/64,,,,,12.17,G6P[5]
+,,,,−,+,+,+,,
+7∕T,2.0,Khenifra,1/8,,,,,18.52,G6P[5]
+,,,,−,+,+,+,,
+3∕25,3.1,Laarayche,1/16,,,,,23.30,G10P[14]
+,,,,+,+,+,+,,
+3∕34,3.2,Laarayche,1/32,,,,,23.28,G10P[14]
+,,,,+,+,+,+,,
+1∕10,3.0,Kenitra,1/16,,,,,24.69,G10P[14]
+,,,,+,+,+,+,,
+2∕20,2.1,Moulay bouslham,1/32,,,,,20.30,G10P[14]
+,,,,+,+,+,+,,
+2∕12,2.1,Moulay bouslham,1/64,,,,,15.39,G10P[14]
+,,,,+,+,+,+,,
+8045,3.2,Kenitra,1/64,,,,,12.22,G10P[14]
+,,,,+,+,+,+,,
+9864,2.4,Laarayche,1/32,,,,,12.91,G10P[14]
+,,,,+,+,+,+,,
+"HA hemagglutinin titer of the samples, P cytopathic effects observed (",,,,") on the first passage (P1) and on P2, P3, P4 respectively on second, third and fourth passages,",,,,,

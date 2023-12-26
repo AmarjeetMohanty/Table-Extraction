@@ -1,0 +1,27 @@
+0,1,2,3
+"(30 DENV positive, 10 of DENV-1, -2 and -3 each; 30 DENV negative) collected from",,,
+,Table 1. Analytical sensitivity of pan-DENV RT-iiPCR on the fully automated POCKIT Central system: Compar-,,
+,ison with the semi-automated POCKIT combo system.,,
+Pathogen,PUF/mL,POCKIT combo,POCKIT Central
+DENV-1,103,3/3,3/3
+,102,3/3,3/3
+,101,3=3,3/3
+,10−0,0/3,3=3
+,10−1,0/3,0/3
+DENV-2,103,3/3,3/3
+,102,3/3,3/3
+,101,3/3,3=3
+,10−0,3=3,2/3
+,10−1,0/3,1/3
+,10−2,0/3,0/3
+DENV-3,103,3/3,3/3
+,102,3/3,3/3
+,101,3=3,3/3
+,10−0,2/3,3=3
+,10−1,0/3,1/3
+,10−2,0/3,0/3
+DENV-4,103,3/3,3/3
+,102,3/3,3/3
+,101,3=3,3=3
+,10−0,1/3,2/3
+,10−1,0/3,0/3

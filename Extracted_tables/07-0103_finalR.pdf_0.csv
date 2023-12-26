@@ -1,0 +1,16 @@
+0,1,2,3,4,5
+RESEARCH,,,,,
+,"Table 2. Avian influenza impact for 3 northern provinces in the study, the Netherlands*",,,,
+Week,Days,No. patients,General practitioner consultations,Hospital admissions,Deaths
+0,1–7,0,0,0,0
+1,8–14,105,11,0,0
+2,15–21,"4,694",515,11,0
+3,22–28,"145,898","16,559",315,84
+4,29–35,"347,288","44,699",977,420
+5,36–42,"25,935","3,696",95,74
+6,43–49,578,84,0,0
+7,50–56,11,0,0,0
+8,57–63,0,0,0,0
+9,64–70,0,0,0,0
+Total,,"524,507","65,562","1,397",578
+,"*30% attack rate, pandemic period 9 weeks.",,,,

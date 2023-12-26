@@ -1,0 +1,22 @@
+0,1,2,3
+,,IP: Flag  IB: Flag,TRAF3
+IP: Flag  IB: Flag,"- -
+RIG-I",,--
+WCL: V5,PLpro-TM,WCL: V5,PLpro-TM
+,1   2    3   4,,1    2   3   4
+C,,D,
+PLpro-TM,,PLpro-TM,
+,,Flag-TBK1,
+Flag-STING,,,
+,,HA-Ub-K63,
+HA-Ub-K63,,,
+IP: Flag,,,
+,Ub-conjugated,IP: Flag,Ub-conjugated
+IB: HA,,,
+,STING,IB: HA,TBK1
+IP: Flag  IB: Flag,STING,,
+,--,IP: Flag  IB: Flag,"-- -
+TBK1"
+WCL: V5,PLpro-TM,,PLpro-TM
+,,WCL: V5,
+,1     2     3     4,,1      2     3

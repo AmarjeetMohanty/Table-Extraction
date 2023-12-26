@@ -1,0 +1,30 @@
+0,1,2,3,4
+,,,,UPR and Pore-Forming Toxin Defenses
+Table 1. Data analysis of,,"the Cry5B, CuSO4 and H2O2 lethal concentration assays and P. aeruginosa (PA14)",,lifespan assay.
+Cry5B,,,,
+Strain,LC50 (mg/mL),Standard Deviation,p value,Relative Sensitivity (LC50 wild type/LC50 mutant)
+Wild type (N2),18.6,5.76,,
+pek-1(ok275),18.3,4.79,.0.05,1.02
+atf-6(ok551),6.70,2.53,",0.01",2.78
+xbp-1(zc12),3.22,1.72,",0.001",5.78
+ire-1(v33),1.40,0.59,",0.001",13.3
+CuSO4,,,,
+Strain,LC50 (mM),Standard Deviation,p value,
+Wild type (N2),3.26,0.19,,
+xbp-1(zc12),4.16,1.07,0.34,
+H2O2,,,,
+Strain,LC50 (mM),Standard Deviation,p value,
+Wild type (N2),1.20,0.21,,
+xbp-1(zc12),1.38,0.38,0.87,
+PA14,,,,
+Strain,Median Survival,(Hrs),,
+Wild type (N2),96,,,
+pek-1(ok275),84,,,
+atf-6(ok551),96,,,
+xbp-1(zc12),96,,,
+Cry5B,,,,
+Strain,LC50 (mg/mL),Standard Deviation,p value,Relative Sensitivity (LC50 wild type/LC50 mutant)
+Wild type (N2),20.4,12.3,,
+sek-1(km4),0.12,0.054,",0.05",170
+,The p value for comparison of the PA14 survival curves was p = 0.05.,,,
+doi:10.1371/journal.ppat.1000176.t001,,,,

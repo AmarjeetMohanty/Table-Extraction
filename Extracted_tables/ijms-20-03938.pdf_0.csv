@@ -1,0 +1,32 @@
+0,1,2,3,4
+,,Lung Cancer,,
+,,Cell Lines,,
+Study,Disease,Sample,miRNAs,Findings
+,,Humans: whole blood,,
+,,samples collected from,,
+,,healthy individuals and,,
+,,,,"Proliferation of SPCA1,"
+,,NSCLC patients; tumor and,,
+Zhu et al.,,,,"A549, H2170 inhibited"
+,Lung cancer,adjacent nontumorous,miR-92a,
+(2018) [55],,,,by antimiR-92a
+,,tissues from NSCLC patients,,
+,,,,(p < 0.05)
+,,(n = 20).,,
+,,Cells: NSCLC cell lines,,
+,,"SPCA1, A549, H2170",,
+,,Human lung cancer cells,,Inhibition of
+,,"A549, human bronchial",,miR-499a-5p by
+"He et al.
+(2019)",Lung,,,
+,,"epithelial cells BEAS-2B,",miR-499a-5p,antagomirs restrained
+[33],adenocarcinoma,,,
+,,human lung cancer cells,,tumor growth in vivo
+,,"SPCA1, SPC-A-1-BM",,(p < 0.01)
+,,,,miR-30c antagomiRs
+,,Animals: mice models.,,promoted
+McCann et al.,,Cells: primary endothelial,,PAI-1–dependent
+,Lung cancer,,miR-30c,
+(2019) [75],,cells isolated from normal or,,tumor growth and
+,,tumor tissue from mice,,increased ﬁbrin
+,,,,abundance (p < 0.05)

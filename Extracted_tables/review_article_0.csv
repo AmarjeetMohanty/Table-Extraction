@@ -1,0 +1,20 @@
+0,1,2,3
+4,,,Advances in Virology
+,Table 2: Diﬀerential dependence of HIV and MLV infections on endosome acidiﬁcation.,,
+Viruses,Dependence of acidiﬁcation,Cell lines,Reference
+,Independent,Rat XC,"[49, 52]"
+Ecotropic MLV,,,
+,Dependent,"Mouse NIH3T3, human TE671","[49, 51, 52]"
+,Independent,"Mouse NIH3T3, rat XC","[49, 52]"
+Amphotropic MLV,,,
+,Dependent,"Mouse NIH3T3, human TE671","[51, 52]"
+,Independent,Rat XC,[52]
+Polytropic MLV,,,
+,Dependent,"Mouse NIH3T3, human RE671, rat XC",[52]
+,Independent,"Human HT1080, HTX, porcine, rat XC","[49, 50, 52, 53]"
+Xenotropic MLV,,,
+,Dependent,"Mouse NIH3T3, human RE671",[52]
+,Independent,"Human CEM, HeLa, C8166, VB","[49, 89–93]"
+CD4-dependent HIV,,,
+,Independent,"Human 293T, HeLa, TE671",[21]
+CD4-independent HIV,Dependent,"Human 293T, HeLa, TE671",[21]

@@ -1,0 +1,26 @@
+0,1,2,3,4
+,(1),,,
+,,ORFX (+1 frame),,
+,,Banna seadornavirus VP7 CDS (+0 frame),,
+,(2),,,
+,,,,Frame
+,,,,= +0
+,(3),,,
+and alignment gaps (  ),,,,Frame
+,,,,= +1
+,(4),,,
+,,,,Frame
+,,,,= +2
+,(5),,,
+,,,106,
+,,,,1
+,,,104,
+,,,,p−value
+(25−codon window),,,102,
+,(6),,1.6,
+,,,,window obs
+,,,1.0,
+,,,,window exp
+,,,0.4,
+,(7),,0.2,
+,,,,ORFX + VP7

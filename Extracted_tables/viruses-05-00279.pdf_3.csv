@@ -1,0 +1,37 @@
+0,1,2,3,4,5
+wild-type  pseudoknot  (S2ΔS3Δ).  Frameshifting  efficiency  is  expressed  as  a  percentage,,,,,
+with standard error as described in the experimental section.,,,,,
+UUG,UUG,UUG,UUUG,UUUG,UUUG
+U,U,U,A,C,C
+C  A-U,C  A-U,C    A,C  A-U,C    A,C    A
+G-C,G-C,A-U,G-C,A-U,A-U
+G   C-G,G   C-G,G   G-C,G   C-G,G   G-C,G   G-C
+C-G,C-G,C-G,C-G,C-G,C-G
+C-G,C-G,C-G,C-G,C-G,C-G
+|  A,|  A,C-G,|  A,C-G,C-G
+U   G-C,U   G-C,U   G-C,U   G-C,U   G-C,U   G-C
+U-A,U-A,U-A,U-A,U-A,U-A
+G-C,G-C,G-C,G-C,G-C,G-C
+A-U,A-U,A-U,A-U,A-U,A-U
+A-U    U,A-U    U,A-U    U,A-U    U,A-U    U,A-U    U
+U-A,U-A,U-A,U-A,U-A,U-A
+G-C,G-C,G-C,G-C,G-C,G-C
+U-A,U-A,U-A,U-A,U-A,U-A
+G-C    C,G-C    C,G-C    C,G-C    C,G-C    C,G-C    C
+G-C,G-C,G-C,G-C,G-C,G-C
+C-G,C-G,C-G,C-G,C-G,C-G
+G-U,G-U,G-U,G-U,G-U,G-U
+U  G-U,U  G-U,U  G-U,U  G-U,U  G-U,U  G-U
+U   C-G,U   C-G,U   C-G,U   C-G,U   C-G,U   C-G
+G-C,G-C,G-C,G-C,G-C,G-C
+G-U,G-U,G-U,G-U,G-U,G-U
+C-G,C-G,C-G,C-G,C-G,C-G
+A-U,A-U,A-U,A-U,A-U,A-U
+|  A,|  A,|  A,C-G,C-G,C-G
+C-G,C-G,C-G,A-U,A-U,A-U
+A-U,A-U,A-U,G-C,G-C,G-C
+G-C,G-C,G-C,G-C,G-U,G   A
+G   A,G-C,G-C,C   G,C   G,C     U
+C     U,C   G,C   G,U U,U U,A   G
+A   G,U U,U U,,,CUA
+CUA,,,,,

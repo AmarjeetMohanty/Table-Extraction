@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6,7
+10,,,,,,,Evidence-Based Complementary and Alternative Medicine
+,Kangfuxinye + mesalamine,,,Mesalamine,,Risk ratio,Risk ratio
+Study or subgroup,,,,,Weight,,
+,Events,Total,Events,Total,,"M-H, fixed, 95% CI","M-H, fixed, 95% CI"
+Gong et al. 2015,3,40,11,40,19.5%,"0.27 [0.08, 0.90]",
+Huang et al. 2013,7,40,19,40,33.6%,"0.37 [0.17, 0.78]",
+Li 2015,3,50,10,50,17.7%,"0.30 [0.09, 1.03]",
+Zeng 2013,0,20,2,20,4.4%,"0.20 [0.01, 3.92]",
+Zhang 2014,5,30,14,30,24.8%,"0.36 [0.15, 0.87]",
+Total (95% CI),,180,,180,100.0%,"0.33 [0.20, 0.53]",
+Total events,18,,56,,,,
+,"Heterogeneity: 2 = 0.35, df = 4 (P = 0.99); I2 = 0%",,,,,,

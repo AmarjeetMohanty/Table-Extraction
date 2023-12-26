@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13
+Table 1,"Sample characteristics, amino acid mutations in the VP2 sequence, GenBank accession numbers and classification of CPV2 strains analyzed in this study",,,,,,,,,,,,
+Sample,Source,Host,Year,Amino acid position,,,,,,,,Accession number,CPV variant
+,,,,aa 297,aa 300,aa 305,aa 321,aa 371,aa 418,aa 426,aa 440,,
+SAR1,Feces,Canis familiaris,2005,Ala (A),Gly (G),Tyr (Y),Asn (N),Ala (A),Ile (I),Asp (D),Thr (T),KM262057,New CPV-2b
+SAR2,Feces,Canis familiaris,2006,.,.,.,.,.,.,Asn (N),.,KM262058,New CPV-2a
+SAR3,Feces,Canis familiaris,2006,.,.,.,.,.,.,Glu (E),.,KM262059,CPV-2c
+SAR4,Feces,Canis familiaris,2006,.,.,.,.,.,.,Asn (N),.,KM262060,New CPV-2a
+SAR5,Feces,Canis familiaris,2007,.,.,.,.,.,.,Asp (D),.,KM262061,New CPV-2b
+SAR9,Gut,Canis familiaris,2012,.,.,.,Lys (K),.,.,Asp (D),.,KM262062,New CPV-2b
+SAR10,Gut,Canis familiaris,2012,.,.,.,.,.,.,Asn (N),.,KM262063,New CPV-2a
+SAR11,Gut,Canis familiaris,2012,.,.,.,.,.,.,Glu (E),.,KM262064,CPV-2c
+SAR13,Gut,Canis familiaris,2012,.,.,.,.,.,.,Asn (N),.,KM262065,New CPV-2a
+SAR23,Gut,Canis familiaris,2012,.,.,.,.,Gly (G),Thr (T),Asp (D),.,KM262066,New CPV-2b
+SAR24,Gut,Canis familiaris,2012,.,.,.,.,Gly (G),Thr (T),Asp (D),.,KM262067,New CPV-2b
+SAR25,Gut,Felis catus,2012,.,.,.,.,Gly (G),Thr (T),Asp (D),.,KM262068,New CPV-2b
+SAR33,Gut,Canis familiaris,2012,.,.,.,.,.,.,Asn (N),.,KM262069,New CPV-2a
+SAR39,Gut,Canis familiaris,2012,.,.,.,.,.,.,Asn (N),.,KM262070,New CPV-2a
+SAR40,Gut,Canis familiaris,2012,.,.,.,.,.,.,Asn (N),.,KM262071,New CPV-2a
+SAR41,Gut,Felis catus,2012,.,.,.,.,.,.,Asn (N),.,KM262072,New CPV-2a
+SAR42,Gut,Canis familiaris,2012,.,.,.,.,.,.,Asn (N),.,KM262073,New CPV-2a
+SAR43,Gut,Canis familiaris,2012,.,.,.,.,Gly (G),Thr (T),Asp (D),.,KM262074,New CPV-2b
+SAR45,Gut,Canis familiaris,2012,.,.,.,.,Gly (G),Thr (T),Asp (D),.,KM262075,New CPV-2b
+SAR48,Gut,Canis familiaris,2013,Ser (S),.,.,.,.,.,Asp (D),.,KM262076,CPV-2b
+SAR49,Gut,Canis familiaris,2013,.,.,.,.,Gly (G),Thr (T),Asp (D),.,KM262077,New CPV-2b
+SAR50,Gut,Canis familiaris,2013,.,.,.,.,Gly (G),Thr (T),Asp (D),.,KM262078,New CPV-2b
+SAR51,Brain,Canis familiaris,2013,.,.,.,.,Gly (G),Thr (T),Asp (D),.,KM262079,New CPV-2b
+SAR52,Brain,Canis familiaris,2013,.,.,.,.,Gly (G),Thr (T),Asp (D),.,KM262080,New CPV-2b
+SAR53,Brain,Canis familiaris,2013,.,.,.,.,Gly (G),Thr (T),Asp (D),.,KM262081,New CPV-2b
+SAR54,Brain,Canis familiaris,2013,.,.,.,.,Gly (G),Thr (T),Asp (D),Pro (P),KM262082,New CPV-2b
+SAR55,Brain,Canis familiaris,2013,.,.,.,.,Gly (G),Thr (T),Asp (D),Pro (P),KM262083,New CPV-2b

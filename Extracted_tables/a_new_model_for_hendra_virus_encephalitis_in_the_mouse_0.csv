@@ -1,0 +1,42 @@
+0,1,2,3,4,5,6,7
+,Table 1. Clinical outcomes and viral presence in mice challenged with Hendra virus.,,,,,,
+Mouse Strain,Age,Mouse Number,ROI,DED,Clinical signs,qtPCR,Les/Ant
+C57BL/6,Juvenile,1,IN,21,None,–,2/2
+,,2,IN,21,None,–,2/2
+,,3,IN,21,None,–,2/2
+,,4,IN,21,None,–,2/2
+,,5,IN,14,"Depression,unreactive to stimuli",+,+/+
+,,6,SC,21,None,–,2/2
+,,7,SC,21,None,–,2/2
+,,8,SC,21,None,–,2/2
+,,9,SC,21,None,–,2/2
+,,10,SC,21,None,–,2/2
+,Aged,11,IN,16,"Depression, ataxia, hypersensitivity,","tremors
++",+/+
+,,12,IN,20,"Depression, ataxia, hypersensitivity,","tremors
++",+/+
+,,13,IN,21,"Depression, ataxia, hypersensitivity,","tremors
++",+/+
+,,14,IN,12,Found dead,ns,+/+
+,,15,IN,11,Found dead,ns,ns
+,,16,SC,21,None,–,2/2
+,,17,SC,21,None,–,2/2
+,,18,SC,21,None,–,2/2
+,,19,SC,21,None,–,2/2
+,,20,SC,21,None,–,2/2
+BALB/c,Juvenile,21,IN,21,None,+,+/+
+,,22,IN,21,None,+,+/2
+,,23,IN,21,None,–,–
+,,24,IN,21,None,+,+/+
+,,25,IN,21,None,+,+/+
+,Aged,26,IN,11,"Depression, ataxia, hypersensitivity,","tremors
++",2/2
+,,27,IN,17,"Prostrate,
+tremors",+,+/+
+,,28,IN,21,None,+,+/+
+,,29,IN,18,"Depression, ataxia, hypersensitivity,","tremors
++",+/+
+,,30,IN,21,None,+,+/2
+,ROI: route of infection; DED: Day of euthanasia or death;,,IN:,intranasal; SC: subcutaneous; qtPCR:real time PCR analysis for viral RNA in brain tissue; Les/Ant: presence of,,,
+,lesions by histology/presence of antigen by immunohistochemistry in brain tissue; ns: no sample;,,,,"(2) negative.
+(+) positive;",,

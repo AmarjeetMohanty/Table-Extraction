@@ -1,0 +1,41 @@
+0,1,2,3
+,Probability that a sample of n PPE units will result in a specific number of defective units when the true,,
+number of defective units in the lot is 15% and 5%,,,
+Sample,Number,Probability (in %),Probability (in %)
+Size,of,for a Lot with 15%,for a Lot with 5%
+,Failures,Defective Units,Defective Units
+10,0,19.7,59.9
+,1,34.7,31.5
+,2,27.6,7.5
+,3,13.0,1.0
+,4,4.0,0.1
+,5,0.8,—
+,6,0.1,—
+12,0,14.2,54.0
+,1,30.1,34.1
+,2,29.2,9.9
+,3,17.2,1.7
+,4,6.8,0.2
+,5,1.9,—
+,6,0.4,—
+,7,0.1,—
+18,0,5.4,39.7
+,1,17.0,37.6
+,2,25.6,16.8
+,3,24.1,4.7
+,4,15.9,0.9
+,5,7.9,0.1
+,6,3.0,—
+,7,0.9,—
+,8,0.2,—
+,9,0.0,—
+24,0,2.0,29.2
+,1,8.6,36.9
+,2,17.4,22.3
+,3,22.5,8.6
+,4,20.9,2.4
+,5,14.7,0.5
+,6,8.2,0.1
+,7,3.7,—
+,8,1.4,—
+,9,0.4,—

@@ -1,0 +1,46 @@
+0,1,2,3,4,5,6
+Table I. Distribution of Cryo-TEMs in China,,,,,,
+,,,Max acceleration,,Cameras and auxiliary,
+Institution,Cryo-EM model,Status,voltage (kV),Type of electron gun,parts,Date of commission
+Tsinghua,Titan Krios,Operational,300,S-FEG,"K2 Summit, Eagle 4k","Jun, 2009"
+University,Titan Krios,Operational,300,S-FEG,"Falcon II, GIF Quantum","Sep, 2015"
+,,,,,"964 (UltraScan 895),",
+,,,,,STEM,
+,Titan Krios,Operational,300,X-FEG,"Falcon II, Image Cs-","Dec, 2015"
+,,,,,"corrector, Phase plate",
+,Tecnai Arctica,Operational,200,S-FEG,"Falcon II, Phase plate","May, 2015"
+,Tecnai F20,Operational,200,S-FEG,"DE-20, UltraScan 895,","Oct, 2009"
+,,,,,"Orius 830, STEM",
+,Tecnai Spirit,Operational,120,LaB6/W,UltraScan 895,"Mar, 2013"
+,Tecnai Spirit,Operational,120,LaB6/W,"Eagle 4k, Orius 832","Jul, 2014"
+,Tecnai Spirit,Operational,120,LaB6/W,"Eagle 4k,
+iCorr","Jun, 2015"
+Institute of,Titan Krios,Operational,300,S-FEG,"K2 Summit, Falcon III","Dec, 2009"
+Biophysics,Talos F200C,Operational,200,S-FEG,Ceta 4k,"Oct, 2014"
+,Tecai 20,Operational,200,LaB6/W,UltraScan 894,"May, 2002"
+,Tecnai Spirit,Operational,120,LaB6/W,"Eagle 2k,
+iCorr","Dec, 2010"
+National Center for,Titan Krios,Operational,300,S-FEG,"K2 Summit, GIF Quan-","Nov, 2013"
+Protein Science,,,,,"tum 963, Image Cs-",
+Shanghai,,,,,corrector,
+,Tecnai F20,Operational,200,S-FEG,"Falcon II, Eagle 4K","Oct, 2013"
+,Tecnai Spirit,Operational,120,LaB6/W,Eagle 4K,"Oct, 2013"
+Peking University,Tecnai F30,Operational,300,S-FEG,"UltraScan 895, GIF",2009
+,,,,,Tridiem 863,
+,,,,,(UltraScan 894),
+Xiamen University,Tecnai F30,Operational,300,S-FEG,"Falcon II, Eagle 4k,","Mar, 2014"
+,,,,,STEM,
+,Tecnai Spirit,Operational,120,LaB6/W,Orius 832,"Sep, 2013"
+Harbin Veterinarian,Talos F200C,Operational,200,S-FEG,Ceta 4k,2016
+Research,,,,,,
+Institute,,,,,,
+Institut Pasteur of,Tecnai F20,Operational,200,S-FEG,Eagle 4k,2010
+Shanghai,,,,,,
+University of,Tecnai F20,Operational,200,S-FEG,Eagle 4k,"Nov, 2010"
+Science and,Tecnai Spirit,Operational,120,LaB6/W,Eagle 2k,"Jun, 2014"
+Technology of,,,,,,
+China,,,,,,
+Huazhong,Talos F200C,Operational,200,X-FEG,Falcon II,"May, 2016"
+Agricultural,,,,,,
+University,,,,,,
+Institute of Zoology,Tecnai F20,Operational,200,S-FEG,Eagle 4k,2014

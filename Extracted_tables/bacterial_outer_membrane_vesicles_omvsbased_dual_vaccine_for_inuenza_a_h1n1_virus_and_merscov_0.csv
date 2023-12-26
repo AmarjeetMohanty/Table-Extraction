@@ -1,0 +1,30 @@
+0,1,2,3,4,5
+"puriﬁcation the three fragments were digested by corresponding restriction enzymes, shown in Table 1.",,,,,
+,,Table 1. Primers used in this study.,,,
+PCR,,,Amplicon,,
+,Primer Name,Primer Sequence (5’ to 3’),,Size (bp),Ref.
+Fragment,,,Description,,
+,,CTATTACCATGGTG,,,
+,F1-NcoI-PHW,,"Part of pMPccdB, and",,
+,,ATGCGGTTTTGGCAGT,,,
+,,,5’-NCR/SP of HA,,
+Fragment (1),,,,419,*
+,R1-Bm-,ATATCGTCTCGCTTCTGC,from H1N1pdm,,
+,H1Gi-PHW,ATTTGCGGTTGCAAATG,,,
+,,TATTCGTCTCAGAAGC,,,
+,F2-Bm-RBD,,,,
+,,AAAACCTTCTGGCTC,,,
+,,TCCGGCGCTACCGGCGCTAC,,,
+Fragment (2),R2-RBD-Linker,,RBD/peptide linker,741,*
+,,CATATTCCACGCAATTGCCTA,,,
+,R2-Bm-RBD-,ATATCGTCTCGTGTCTCCG,,,
+,linker,GCGCTACCGGCGCTACC,,,
+,,TATTCGTCTCAGACAC,,,
+,F3-Bm-HA1,,Coding sequence of,,*
+,,ATTATGTATAGGTTA,,,
+,,,HA and 3’-NCR from,,
+Fragment (3),,,,1694,
+,,ATATCGTCTCGTATTAGT,H1N1pdm,,Raetz et al.
+,Bm-NS-890R,,,,
+,,AGAAACAAGGGTGTTTT,,,2002
+,"Abbreviations: bp—base pair, NCR—Non-Coding Region, SP—Signal Peptide, RBD—Receptor Binding Domain,",,,,

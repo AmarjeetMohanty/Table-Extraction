@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6
+,Table 1 Infections for which vectored immunoprophylaxis has been tested,,,,,
+,Vector,,,Animal models,,References
+HIV (or SHIV),"Plasmid,","lentivirus,","rAAV2,","BALB/c mice, NSG mice,",,"[12, 23–26, 29, 32, 33]"
+,,"scAAV2, rAAV8, scAAV1,",,"Rag-1 mice, Rhesus macaques",,
+hepatitis C virus,rAAV9,,,Rosa26-Fluc mice,,[16]
+Plasmodium falciparum,rAAV8,,,C57BL/6 mice,,[15]
+influenza A virus,"Ad5,","rAAV8,
+rAAV9",,"BALB/c mice, NSG mice,","ferret,","[13, 14, 21]"
+,,,,rhesus macaques,,
+respiratory syncytial virus (RSV),"Ad5,",rAAVrh10,,BALB/c mice,,[17]
+Bacillus anthracis,"Ad5,",rAAVrh10,,C57BL/6 mice,,[18]
+dengue virus,Plasmid,,,C57BL/6 mice,,[19]
+chikungunya virus,Plasmid,,,BALB/c mice,,[20]
+Adapted from [1],,,,,,

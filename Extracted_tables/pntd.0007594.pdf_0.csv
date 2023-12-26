@@ -1,0 +1,32 @@
+0,1,2,3,4,5
+,,,,,Leishmania infantum infection in cats in Italy
+,"Table 1. Association between variables: Age, sex, breed, reproductive status and cat origin and the serological and molecular positivity for Leishmania infantum.",,,,
+Variables,N,IFAT,IFAT,qPCR,Total
+,,N (titre),Pos (%),Pos (%),Pos (%)
+Age,,,,,
+�18 months,359,5 (1:80); 2 (1:640),7 (1.9),2 (0.6),8 (2.2)
+18 months < 6 years,599,23 (1:80); 5 (1:160); 1 (1:640),29 (4.8),8 (1.3),34 (5.7)
+� 6 years,1701,46 (1:80); 5 (1:160); 1 (1:5120),52 (3.0),12 (0.7),62 (3.7)
+Sex,,,,,
+Male,1302,43 (1:80); 5 (1:160),48 (3.7),11 (0.8),58 (4.4)
+Female,1357,31 (1:80); 3 (1:160); 5 (1:640); 1 (1:5120),40 (2.9),11 (0.8),46 (3.4)
+Neutering status,,,,,
+neutered,2275,50 (1:80); 6 (1:160); 2 (1:640); 1 (1:5120),59 (2.3),22 (1.0),75 (3.3)
+not neutered,384,24 (1:80); 4 (1:160); 1 (1:640),29 (7.5),0,29 (7.5)
+Breed�,,,,,
+Common European,2329,68 (1:80); 10 (1:160); 3 (1:640); 1 (1:5120),82 (3.5),20 (0.9),96 (4.1)
+Persian,93,2 (1:80),2 (2.1),2 (2.1),4 (1.0)
+Maine Coon,53,0,0,0,0
+Siamese,36,2 (1:80),2 (2.1),0,2 (2.1)
+Norwegian of the forest,20,1 (1:80),1(5.0),0,1 (5.0)
+Chartreux,19,0,0,0,0
+Siberian,19,1 (1:80),1 (5.3),0,1 (5.3)
+Exotic Shorthair,16,0,0,0,0
+British Shorthair,15,0,0,0,0
+Geographical origin,,,,,
+North,1543,20 (1:80),20 (1.3),5 (0.3),25 (1.6)
+Centre,471,5 (1:80); 1 (1:5120),6 (1.3),6 (1.3),11 (2.3)
+South,645,49 (1:80); 10 (1:160); 3 (1:640),62 (9.6),11 (1.7),68 (10.5)
+Total animals,2659,74 (1:80); 10 (1:160); 3 (1:640); 1 (1:5120),88 (3.3),22 (0.8),104 (3.9)
+�only breeds with � 15 animals listed,,,,,
+https://doi.org/10.1371/journal.pntd.0007594.t001,,,,,

@@ -1,0 +1,63 @@
+0,1,2,3,4,5,6,7,8
+,,,,,,,,Adenoviruses in Beijing during 2011-2013
+Table 2. Twenty-one cases associated with HAdV infections in Beijing during 2011–2013.,,,,,,,,
+ID,Sex,Age,Case,Clinical,Body temperature,Year of sample,HAdV types,GenBank accession number
+,,,type,symptoms,(centigrade),collection,,of penton base/hexon/ﬁber
+,,,,,,,,gene*
+BJ01,Female,38,Inpatient,Pneumonia,38.8,2011,HAdV-7,KP270906/KM458622/
+,,,,,,,[P7H7F7],KP270915
+BJ02,Male,2,Inpatient,Upper respiratory,38.5,2011,HAdV-3,KP270907/KM458623/
+,,,,"tract
+infection",,,[P3H3F3],KP270916
+BJ03,Male,8,Outpatient,Upper respiratory,38.5,2012,HAdV-3,KP270908/KM458624/
+,,,,"tract
+infection",,,[P3H3F3],KP270917
+BJ04,Male,1,Outpatient,Bronchitis,38.7,2012,Undeﬁned,KP270909/KM458625/
+,,,,,,,[P1H2F2],KP270918
+BJ05,Male,18,Inpatient,Pneumonia,40.0,2013,HAdV-7,
+,,,,,,,[P7H7F7],
+BJ06,Male,18,Inpatient,Pneumonia,39.0,2013,HAdV-7,
+,,,,,,,[P7H7F7],
+BJ07,Female,24,Outpatient,Upper respiratory,38.0,2013,HAdV-7,KP270910/KM458626/
+,,,,"tract
+infection",,,[P7H7F7],KP270919
+BJ08,Male,17,Inpatient,Pneumonia,39.0,2013,HAdV-7,
+,,,,,,,[P7H7F7],
+BJ09,Female,1,Outpatient,Upper respiratory,38.5,2013,Undeﬁned,KP270911/KM458627/
+,,,,"tract
+infection",,,[P1H2F2],KP270920
+BJ10,Male,26,Inpatient,Pneumonia,39.5,2013,HAdV-55,KP270912/KM458628/
+,,,,,,,[P14H11F14],KP270921
+BJ11,Male,37,Inpatient,Pneumonia,38.2,2013,HAdV-55,
+,,,,,,,[P14H11F14],
+BJ12,Female,34,Inpatient,Pneumonia,38.4,2013,HAdV-3,
+,,,,,,,[P3H3F3],
+BJ13,Male,20,Outpatient,Upper respiratory,39.5,2013,HAdV-3,
+,,,,"tract
+infection",,,[P3H3F3],
+BJ14,Male,6,Outpatient,Upper respiratory,38.7,2013,HAdV-4,KP270913/KM458629/
+,,,,"tract
+infection",,,[P4H4F4],KP270922
+BJ15,Female,6,Outpatient,Upper respiratory,39.5,2013,HAdV-7,
+,,,,"tract
+infection",,,[P7H7F7],
+BJ16,Male,12,Outpatient,Upper respiratory,Unknown,2013,HAdV-3,
+,,,,"tract
+infection",,,[P3H3F3],
+BJ17,Male,12,Outpatient,Upper respiratory,Unknown,2013,HAdV-3,
+,,,,"tract
+infection",,,[P3H3F3],
+BJ18,Male,12,Outpatient,Upper respiratory,Unknown,2013,HAdV-3,
+,,,,"tract
+infection",,,[P3H3F3],
+BJ19,Female,12,Outpatient,Upper respiratory,39.0,2013,HAdV-3,KP270914/KM458630/
+,,,,"tract
+infection",,,[P3H3F3],KP270923
+BJ20,Female,12,Outpatient,Upper respiratory,38.5,2013,HAdV-3,
+,,,,"tract
+infection",,,[P3H3F3],
+BJ21,Male,12,Outpatient,Upper respiratory,40.0,2013,HAdV-3,
+,,,,"tract
+infection",,,[P3H3F3],
+,"*Note: Entire penton base, hexon, and ﬁber gene sequences obtained.",,,,,,,
+,doi:10.1371/journal.pone.0121375.t002,,,,,,,

@@ -1,0 +1,48 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+Table 3 - Population characteristics.,,,,,,,,,,,
+Pt,Year,Diagnosis,Age,Gender,Distance,Mission,Ecmo,Type,Route,Icu Los,Outcome
+nr.,,,(years),,(Km),time,,of Ecmo,Ecmo,(days),
+,,,,,,(min),,,cannulas,,
+1,2004,bacterial pneumonia,32,F,352,960,yes,V/V,F/F,88,death
+2,2006,bacterial pneumonia,41,M,24,450,yes,V/V,F/F,22,Hospital discharge
+3,2006,bacterial pneumonia,66,F,26,450,yes,V/V,F/F,2,death
+4,2007,bacterial pneumonia,52,M,37,540,yes,V/V,F/F,11,death
+5,2007,toxic pneumonia,36,M,319,880,yes,V/V,F/F,3,death
+6,2007,bacterial pneumonia,49,M,24,,yes,V/V,F/F,14,Hospital discharge
+7,2007,bacterial pneumonia,58,M,42,600,yes,V/V,F/F,18,Hospital discharge
+8,2008,liver transplantation,2,M,49,480,yes,V/V,bilumen Jug,39,death
+9,2009,bacterial pneumonia,26,M,42,315,no,-,-,9,Hospital discharge
+10,2009,viral pneumonia,36,M,143,520,no,-,-,9,Hospital discharge
+11,2009,viral pneumonia,25,M,198,630,yes,V/V,F/F,34,Hospital discharge
+12,2009,viral pneumonia,2,F,137,720,yes,V/V,bilumen Jug,30,Hospital discharge
+13,2009,viral pneumonia,28,F,318,750,yes,V/V,F/F,26,Hospital discharge
+14,2009,viral pneumonia,43,M,237,770,yes,V/V,F/F,3,death
+15,2009,viral pneumonia,42,F,57,450,yes,V/V,F/F,77,Hospital discharge
+16,2009,viral pneumonia,52,M,9,465,yes,V/V,F/F,14,Hospital discharge
+17,2010,viral pneumonia,18,F,35,450,yes,V/A,F/F,24,Hospital discharge
+18,2010,bacterial pneumonia,4,F,57,585,yes,V/V,bilumen Jug,24,Hospital discharge
+19,2010,viral pneumonia,41,M,35,315,no,-,-,12,Hospital discharge
+20,2010,pulmonary tuberculosis,22,M,54,285,no,-,-,126,Hospital discharge
+21,2010,viral pneumonia,70,F,35,120,no,-,-,19,Hospital discharge
+22,2010,viral pneumonia,55,M,454,840,no,-,-,10,Hospital discharge
+23,2010,bacterial pneumonia,46,F,21,360,yes,V/V,F/F,33,Hospital discharge
+24,2010,viral pneumonia,50,M,35,405,yes,V/V,F/F,11,Hospital discharge
+25,2011,viral pneumonia,49,M,49,360,no,-,-,35,Hospital discharge
+26,2011,viral pneumonia,57,M,40,540,yes,V/V,F/F,25,death
+27,2011,viral pneumonia,53,F,274,690,yes,V/V,F/F,8,Hospital discharge
+28,2011,viral pneumonia,36,F,1044,870,yes,V/V,Jug/F,29,Hospital discharge
+29,2011,viral pneumonia,62,M,57,480,no,-,-,9,Hospital discharge
+30,2011,viral pneumonia,59,M,35,480,yes,V/V,F/F,16,Hospital discharge
+31,2011,viral pneumonia,44,F,124,510,yes,V/V,F/F,22,Hospital discharge
+32,2011,viral pneumonia,56,M,66,510,yes,V/V,F/F,10,death
+33,2011,viral pneumonia,44,M,19,330,no,-,-,9,Hospital discharge
+34,2011,bacterial pneumonia,15,M,267,585,no,-,-,6,Hospital discharge
+35,2011,bacterial pneumonia,18,F,9,390,yes,V/V,F/F,30,Hospital discharge
+36,2011,bacterial pneumonia,60,M,16,450,yes,V/V,F/F,35,Hospital discharge
+37,2011,bacterial pneumonia,23,M,57,480,no,-,-,19,Hospital discharge
+38,2012,trauma,68,M,48,300,no,-,-,8,discharge to other ICU
+39,2012,viral pneumonia,53,M,27,300,no,-,-,20,Hospital discharge
+40,2012,trauma,25,M,57,330,yes,V/V,F/F,122,death
+41,2012,bacterial pneumonia,62,F,173,540,yes,V/V,F/F,25,Hospital discharge
+42,2012,bacterial pneumonia,47,M,9,360,yes,V/V,F/F,9,Hospital discharge
+V/V = veno-venous Ecmo; V/A = veno-arterial Ecmo; F/F = femo-femoral cannulation; Jug/F= jugular/femoral,,,,,,,,,,,

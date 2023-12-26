@@ -1,0 +1,40 @@
+0,1,2,3,4
+,,doi:10.1371/journal.pone.0023988.g001,,
+,,Table 1. Genes whose repression was associated with $6-,,
+,,fold enhanced BMV-directed Rluc expression in both primary,,
+,screen passes.,,,
+,,,,Fold increase in Rluc expression
+,ORF,Gene,Pass 1,Pass 2
+,YLR359W,ADE13,46,57
+,YBR070C,ALG14,11,14
+,YDL132W,CDC53,8.4,6.3
+,YOR204W,DED1,180,140
+,YKL078W,DHR2,8.3,8.0
+,YLR129W,DIP2,440,160
+,YMR128W,ECM16,12,7.4
+,YLR274W,MCM5,33,19
+,YGR103W,NOP7,46,78
+,YGR119C,NUP57,30,19
+,YOR122C,PFY1,7.9,7.5
+,YLR196W,PWP1,11,28
+,YOL094C,RFC4,21,14
+,YNL207W,RIO2a,16,12
+,YGL044C,RNA15,41,12
+,YOR340C,RPA43,17,6.3
+,YKR008W,RSC4,250,310
+,YPL124W,SPC29,13,10
+,YGR116W,SPT6,45,17
+,YKL018W,SWD2,48,9.1
+,YDR324C,UTP4,12,11
+,YJL069C,UTP18,11,50
+,YGR251W,N/Ab,33,150
+,,aRIO2 was identified at the 24 hr time point and all other genes were identified,,
+Figure 1. Yeast genetic screen used to identify essential host,"at
+the 48 hr",time point.,,
+"(A)
+BMV
+expression
+factors
+affecting
+BMV RNA replication.",,bORF not annotated in Saccharomyces Genome Database.,,
+plasmids. pB12VG1 expresses replication factors 1a and 2aPol. pB3BG29,,doi:10.1371/journal.pone.0023988.t001,,

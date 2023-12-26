@@ -1,0 +1,21 @@
+0,1,2,3,4,5,6,7
+,with feline infectious peritonitis (FIP) or control cats. FIP was conﬁrmed by immunohistochemistry,,,,,,
+,(IHC) and control groups either consisted of cats with diseases other than FIP or cats euthanized due to,,,,,,
+,behavioral conditions.,,,,,,
+,,,,,,Reference,
+,Sample,Number of,,,,,
+Study,,,Assay,Sensitivity,Speciﬁcity,Standard,Control Cats
+,Material,Samples,,,,,
+,,,,,,for FIP,
+,,,,,,,Healthy or
+,Aqueous,,,,,,
+[135],,FIP (n = 2),RT-qPCR,50%,n. d.,IHC,diseases other
+,humor,,,,,,
+,,,,,,,than FIP
+,Aqueous,,Real-time,,,,
+[141],,FIP (n = 20),,25%,n. d.,IHC,None
+,humor,,RT-PCR,,,,
+,Aqueous,FIP (n = 25),Real-time,,,,Diseases other
+[164],,,,40%,100%,IHC,
+,humor,Controls (n = 11),RT-PCR,,,,than FIP
+,,,n. d. = not determined; RT-qPCR = quantitative RT-PCR.,,,,

@@ -1,0 +1,12 @@
+0,1,2,3,4,5,6,7
+Table 1. Number of,regulated genes in different,,functional categories following primary infection and reinfection.,,,,
+,,,Days post primary infection,,,Days post reinfection,
+,,2,5,7,2,5,7
+Total,q,3025,1091,231,1151,819,1773
+,Q,1348,449,107,228,534,473
+Cellular process,q,1779,668,144,646,444,1028
+,Q,683,245,57,117,281,255
+Metabolic process,q,1296,488,95,469,307,754
+,Q,489,175,47,83,204,181
+Response to stimulus,q,483,179,66,173,128,273
+,Q,221,85,17,44,93,84

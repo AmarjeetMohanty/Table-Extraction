@@ -1,0 +1,10 @@
+0,1,2
+,percentages of unique name-strings. Name-strings were assigned to classes algorithmically and,
+then reviewed and corrected manually.,,
+Class,Verbatim,Pre-processed
+Species,71.8 %,82.3 %
+Infraspecies,2.2 %,0.9 %
+Other scientiﬁc names,15.9 %,16 %
+Common,1.4 %,0.8 %
+Acronyms,4.4 %,0 %
+Other names,4.3 %,0 %

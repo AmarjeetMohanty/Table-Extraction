@@ -1,0 +1,33 @@
+0,1,2,3,4,5,6,7
+,Table 2. Overall relative synonymous codon usage patterns (RSCU) for TP53 gene among eight mammalian species.,,,,,,
+Amino Acid,Codon,N,RSCUa,Amino Acid,Codon,N,RSCUa
+Ala,GCA,37,0.78,Leu,TTA,9,0.2
+,GCC*,91,1.95,,TTG,31,0.71
+,GCG,26,0.53,,CTA,17,0.38
+,GCT,36,0.76,,CTC,39,0.88
+Arg,CGT,34,0.98,,CTG*,143,3.18
+,CGC*,65,1.86,,CTT,30,0.68
+,CGA,27,0.78,Lys,AAA,42,0.51
+,CGG,33,0.96,,AAG*,125,1.5
+,AGA,24,0.71,Phe,TTT,29,0.63
+,AGG,25,0.73,,TTC*,61,1.37
+Asn,AAC*,68,1.2,Pro,CCA,70,0.84
+,AAT,44,0.81,,CCC*,115,1.4
+Asp,GAT,67,0.86,,CCG,44,0.55
+,GAC*,82,1.15,,CCT*,100,1.22
+Cys,TGC*,60,1.31,Ser,TCA,45,0.86
+,TGT,32,0.69,,TCC*,94,1.81
+Gln,CAA,23,0.43,,TCG,21,0.4
+,CAG*,82,1.57,,TCT*,58,1.09
+Glu,GAA,84,0.7,,AGC*,66,1.26
+,GAG*,157,1.31,,AGT*,30,0.57
+Gly,GGA,41,0.95,Thr,ACA*,47,1.05
+,GGC*,49,1.13,,ACC*,84,1.91
+,GGG*,65,1.5,,ACG,18,0.4
+,GGT,18,0.43,,ACT,29,0.65
+His,CAT,32,0.78,Tyr,TAC*,45,1.19
+,CAC*,50,1.23,,TAT,32,0.81
+Ile,ATA,0,0,Val,GTA,5,0.15
+,ATC*,61,2.58,,GTC*,38,1.1
+,ATT,11,0.43,,GTG*,69,1.98
+,,,,,GTT,28,0.8

@@ -1,0 +1,15 @@
+0,1,2,3,4
+,"Table 3 Experimental design with vaccination and challenge strategies for PRRSV, M. hyopneumoniae (Mhp), and PCV2 at different",,,
+days post-challenge (dpc),,,,
+Groups,Vaccination (dpc),Challenge (dpc),,Necropsy (dpc)
+,−35,−14,0,28
+Age (days),21,42,56,84
+Vac3FLEX/Ch3,3FLEX,PRRSV/Mhp,PCV2,20 pigs
+VacMhp/ChMhp,MycoFLEX,Mhp,None,20 pigs
+VacPCV2/ChPCV2,CircoFLEX,None,PCV2,20 pigs
+VacPRRS/ChPRRSV,Ingelvac PRRS MLV,PRRSV,None,20 pigs
+UnVac/Ch3,None,PRRSV/Mhp,PCV2,10 pigs
+UnVac/ChMhp,None,Mhp,None,10 pigs
+UnVac/ChPCV2,None,None,PCV2,10 pigs
+UnVac/ChPRRSV,None,PRRSV,None,10 pigs
+UnVac/UnCh,None,None,None,10 pigs

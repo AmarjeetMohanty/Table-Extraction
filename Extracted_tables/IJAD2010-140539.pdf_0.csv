@@ -1,0 +1,29 @@
+0,1,2,3
+International Journal of Alzheimer’s Disease,,,7
+,Table 3: Continued.,,
+Human protein,,Alignment with the HSV-1 translated genome,
+,,SSSTPAS,
+,Query 27667,,27647
+NP 000577.2 interleukin-2 precursor,,SAPTSSS,
+,,SSSTPAS,
+,Sbjct 20,,26
+,,STTRPRG,
+,Query 86718,,86698
+NP 002084.2 glycogen synthase,,,
+,,GRPRTTS,
+kinase-3 beta isoform 1,,,
+,,STTRPRG,
+,Sbjct 3,,9
+,,AQS AE PRRA----CVP,
+,Query 67995,,68030
+NP 065574.3 choline,,,
+,,"A+
+AEPRRA
+C+P",
+O-acetyltransferase isoform 2 [Homo,,,
+sap],,AE AAE PRRAG P HLCIP,
+,Sbjct 87,,102
+,Query 66447,RRLAPVW,66467
+NP 003947.1 cholesterol 25-hydroxylase,,WVPALRR,
+,,RRLAPVW,
+,Sbjct 64,,70

@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6
+Table 3 Decomposition of,inter-county inequality (n = 2712) by province for,,,,"three categories of PHWs in China, 2012a",
+"Workforce category
+Inequality",Overall,inter-county,Within-province,Between-province,Within-province,Between-province
+measure,inequality,,inequality,inequality,inequality,inequality
+,,,,,(% of overall)b,(% of overall)b
+"Staff
+Theil T",0.0655,,0.0489,0.0168,74.4%,25.6%
+Gini,0.2948,,,,,
+"Health professionals
+Theil T",0.0702,,0.0542,0.0160,77.2%,22.8%
+Gini,0.3038,,,,,
+"Field
+Theil T",0.1088,,0.0866,0.0222,79.6%,20.4%
+epidemiological,,,,,,
+Gini,0.3788,,,,,
+investigators,,,,,,

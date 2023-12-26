@@ -1,0 +1,48 @@
+0,1,2,3,4,5,6,7,8,9,10
+"Viruses 2019, 11, 394",,,,,,,,,,13 of 22
+,"generated the most accurate alignment results using real data, where reads were aligned to species-",,,,,,,,,
+specific reference genomes.,HXB2,,,,,,,,,
+i),ii),,,iii),,Combined insertion deletion,,,,
+Substitution variation,Insertion deletion variation,,,,,,,,,
+,,,,,,and substitution variation,,,,
+,HXB2,,,,,,,,,
+1.00,,,,,,,,,,
+i),ii),,,iii),,Combined insertion deletion,,,,
+Substitution variation,Insertion deletion variation,,,,,,,,,
+,,,,,,and substitution variation,,,,
+1.00,,,,,,,,,,
+0.90,,,,,,,,,,
+0.90,,,,,,,,,,
+0.80,,,,,,,,,,
+0.80,,,,,,,,,,
+0.70,,,,,,,,,,
+0.70,,,,,,,,,,
+0.60,,,,,,,,,,
+0.60,,,,,,,,,,
+0.50,,,,,,,,,,
+0.50,,,,,,,,,,
+0.40,,,,,,,,,,
+0.40,,,,,,,,,,
+0.30,,,,,,,,,,
+,0%,,,,,,,,,
+"0%
+1%
+2%
+3%
+4%
+5%","1%
+2%
+3%",4%,5%,0%,2%,4%,6%,,8%,10%
+0.30,,,,,,,,,,
+BWA-MEM,"Bowtie2
+GraphMap
+Segemehl",DFT,,DWT,PAA,,,,,
+,0%,,,,,,,,,
+"0%
+1%
+2%
+3%
+4%
+5%","1%
+2%
+3%",4%,5%,0%,2%,4%,6%,8%,,10%

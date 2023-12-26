@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Table 4 Dromedary herd 2: Viral,,,,load and reciprocal antibody titers of,,,,the six animals with evidence of MERS-CoV infection,,,,,,
+Animal,ID,Age (years),,,,,,,,,,,February-March,,
+number,,and sex,,September 2014,,October 2014,,November 2015,,,January 2015,,2015,,May 2015
+,,,RT-,Antibody,RT-,Antibody,RT-PCR positive (viral,load genome,Antibody,RT-,Antibody,RT-,Antibody,RT-,Antibody
+,,,PCR,titers,PCR,titers,,copies per mL),titers,PCR,titers,PCR,titers,PCR,titers
+F2-3,,"2, F",NA,NA,NA,2560,Pos (2.2 × 103),,5120,NA,NA,NA,NA,NA,NA
+F2-33,,"2, M",NA,NA,Neg,40960,Pos (0.7 × 103),,40960,Neg,40960,NA,NA,Neg,20480
+F2-51,,"2, F",NA,NA,Neg,320,Pos (1.4 × 103),,320,Neg,640,NA,320,Neg,NA
+F2-26,,"8, F",Neg,320,Neg,1280,,,,Neg,2560,NA,ND,Neg,1280
+F2-34,,"2, F",NA,NA,Neg,320,Neg,,320,Neg,1280,NA,NA,Neg,1280
+F2-5,,"1, F",NA,NA,NA,NA,NA,,NA,NA,NA,Neg,160,Neg,640
+,"Abbreviation: specimen not available, NA.",,,,,,,,,,,,,,

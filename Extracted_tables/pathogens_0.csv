@@ -1,0 +1,41 @@
+0,1,2,3
+,Table 1. Humanized mouse strains used in virus research.,,
+Strain of immuno- deficient,Human cells,,
+,,Model of virus infection,Reference
+mouse,reconstituted,,
+Balb/c Rag2−/− IL-2rg−/− (BRG),,"EBV, HIV-1, Dengue,","[24,29,33,41,"
+,"T, B, dendritic cells",,
+transplanted with HSC,,"HSV-2, influenza, HTLV-1","42,45,50]"
+,"T, B, NK cells,",,
+NOD/scid transplanted with human,,,
+,"monocytes/ macrophages,","EBV, HIV-1,","[26,34]"
+"fetal liver, thymus and HSC (BLT)",,,
+,dendritic cells,,
+,"T, B, NK cells,",,
+NOD/Shi-scid IL-2rgnull (NOG),,,
+,"monocytes/ macrophages,","EBV, HIV-1, HTLV-1","[30,32,38,51–54]"
+transplanted with HSC,,,
+,dendritic cells,,
+,"T, B, NK cells,","HIV-1, EBV, CMV, Dengue,",
+NOD/LtSz-scid IL-2rg−/− (NSG),,,
+,"monocytes/ macrophages,","KSHV, adenovirus vector","[31,55–59]"
+transplanted with HSC,,,
+,dendritic cells,expressing HCV proteins,
+NOD/LtSz-scid IL-2rg−/− (NSG),"T, B, NK cells,",,
+"transplanted with human fetal liver,","monocytes/ macrophages,","HIV-1, Dengue, EBV",[60–63]
+thymus and HSC (NSG-BLT),dendritic cells,,
+Rag2−/− IL-2rg−/− Fah−/−,,,
+transplanted with human,hepatocytes,"HBV, HCV",[46]
+hepatocytes,,,
+uPa/scid mice transplanted with,,,
+,hepatocytes,"HBV, HCV","[47,48]"
+human hepatocytes,,,
+,"hepatocytes,",,
+Balb/c Rag2−/− IL-2rg−/− (BRG),,,
+,"T cells, NK cells,",,
+with a transgene encoding a fusion,,,
+,plasmacytoid dendritic,HCV,[49]
+protein of the FK506 binding,,,
+,"cells, myeloid dendritic",,
+protein (FKBP) and caspase 8,,,
+,cells,,

@@ -1,0 +1,30 @@
+0,1,2,3,4,5,6,7,8
+,,,,Age class,,Sex class,,
+Cause of death,n,%,Euthanasia,",1 Year",Adult,Female,Male,n.d.
+Trauma,145,33.5,54,41,104,55,87,3
+Unknown trauma cause,71,16.5,29,19,52,33,36,3
+Cat predation,66,15.3,23,19,47,18,47,-
+Roost destructiona,2,0.5,-,-,2,2,-,-
+Trapped in rain pipea,1,0.2,-,-,1,-,1,-
+Trapped in window,1,0.2,-,-,1,-,1,-
+Trapped in lamp,1,0.2,-,1,-,-,1,-
+Trapped in fly strip,1,0.2,-,1,-,1,-,-
+Barbed wire injury,1,0.2,1,1,-,1,-,-
+Smoke poisoning,1,0.2,1,-,1,-,1,-
+Disease,144,33.3,7,58,86,64,72,8
+Unknown etiology,81,18.7,3,35,46,35,38,8
+"Bacterial
+infection",54,12.5,2,20,34,27,27,-
+"Viral
+infectionb",5,1.2,1,1,4,1,4,-
+Parasitic infection,2,0.5,-,-,2,-,2,-
+Aspiration pneumonia,1,0.2,-,1,-,1,-,-
+Bone deformation,1,0.2,1,1,-,-,1,-
+Others,15,3.4,-,6,9,6,9,-
+Pulmonary edema,9,2.1,-,3,6,1,8,-
+Dehydration,2,0.5,-,-,2,1,1,-
+Anemiac,1,0.2,-,-,1,1,-,-
+Hyperthermiad,1,0.2,-,1,-,1,-,-
+Hypothermia,1,0.2,-,1,-,1,-,-
+Hypoglycemia,1,0.2,-,1,-,1,-,-
+No significant findings,129,29.8,1,45,84,33,70,26

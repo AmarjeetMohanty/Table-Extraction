@@ -1,0 +1,36 @@
+0,1,2,3,4
+,,Table 3. PLEX-ID analysis of cell lines.,,
+,Alpharetrovirus-related,Betaretrovirus-related,,Gammaretrovirus-related
+Cell Lines,,,,
+,"ALV 
+RAV-2 
+Unidentified","SRV-1 
+Unidentified",RD114,"BaEV 
+Undistinguishable"
+Human,,,,
+A549,"+ b 
++",+,,
+Raji,"+ 
++ 
++",+,,
+MRC-5,"+ 
+ 
++",+,,
+A204,"+ 
++ 
++","+ 
++",,
+HEK293,+,"+ 
++",,
+293T/17 a,"+ 
+ 
++",+,,
+HeLa,"+ 
++",+,,
+Simian,,,,
+VERO,,+,,+
+CV-1,,+,,+
+Canine,,,,
+MDCK,,,+,+
+Cf2Th,,,+,+
+,"a  Simian  virus  40  (SV40)  is  constitutively  expressed  in  293T/17  cells  and  was  detected,  but  not  listed  in  the  table;",,,

@@ -1,0 +1,39 @@
+0,1,2,3,4,5,6,7
+,"by histopathology alone, in combination with immunohistochemistry (IHC) or by immunostaining of",,,,,,
+,FCoV antigen in eﬀusion. Control cats were either healthy cats or cats with diseases other than FIP,,,,,,
+,(with or without clinical signs consistent with FIP).,,,,,,
+,,Number of,,,,Reference,
+Study,Sample Type,,Assay,Sensitivity,Speciﬁcity,,Control Cats
+,,Samples,,,,Standard for FIP,
+,,,RT-nPCR plus,,,,
+[170],Ascites,FIP (n = 15),S gene,83%,n. d.,n. d.,None
+,,,sequencing,,,,
+,"Ascites, pleural or",FIP (n = 20),RT-qPCR plus,,,,Diseases other
+[160],,,,60%,n. d.,Histopathology/IHC,
+,pericardial eﬀusion,Controls (n = 23),pyrosequencing,,,,than FIP
+,"CSF, aqueous",,,,,,
+,,,,,,,Healthy or
+,"humor, ascites,",FIP (n = 47),RT-qPCR plus,,,,
+[135],,,,60%,98%,Histopathology/IHC,diseases other
+,pleural or,Controls (n = 50),pyrosequencing,,,,
+,,,,,,,than FIP
+,pericardial eﬀusion,,,,,,
+,,,,,,"Histopathology,",
+,,,RT-nPCR plus,,,,
+,"Ascites, pleural or",FIP (n = 49),,,,IHC or detection of,Diseases other
+[156],,,S gene,65%,n. d.,,
+,pericardial eﬀusion,Controls (n = 51),,,,FCoV antigen in,than FIP
+,,,sequencing,,,,
+,,,,,,eﬀusion,
+,Ascites or pleural,FIP (n = 35),Real-time,,,Histopathology,Diseases other
+[157],,,,69%,96%,,
+,eﬀusion,Controls (n = 24),RT-PCR,,,and/or IHC,than FIP
+,,,RT-nPCR plus,,,,
+,Body cavity,FIP (n = 10),,,,,Diseases other
+[15],,,S gene,40%,83%,Histopathology/IHC,
+,eﬀusions,Controls (n = 6),,,,,than FIP
+,,,sequencing,,,,
+,Body cavity,,Real-time,,,,
+[141],,FIP (n = 14),,64%,n. d.,Histopathology/IHC,None
+,eﬀusions,,RT-PCR,,,,
+,CSF = cerebrospinal ﬂuid; n. d. = not determined; RT-PCR = reverse transcriptase polymerase chain reaction;,,,,,,

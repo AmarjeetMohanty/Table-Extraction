@@ -1,0 +1,28 @@
+0,1,2,3
+Table 2 Screening methods,,,
+Screening reagent,"Original
+type of protein",Screening method,References
+,,,"37–40,42,44–47,50,51,54–56"
+Proteins,Secretory,ELISA,
+,,,"36,57,58"
+,Intracellular,ELISA,
+,,,"21,22"
+,Single transmembrane,ELISA,
+,,,"19–21,23,24,26,27,29,30,34,35"
+Cells expressing immunogens,Transmembrane,FACS,
+,,,"33,43"
+,,Whole cell ELISA,
+,,,"48,49"
+,Viral envelope,Whole cell ELISA,
+,,,53
+,,Immunostaining,
+,,,28
+,Intracellular,In-cell western,
+,,,"25,31,32"
+,,IHC,
+,,,41
+Viral particles,Viral,Dot enzyme immunoassay,
+,,,52
+,,ELISA,
+"Abbreviation: enzyme-linked immunosorbent assay, ELISA; ﬂuorescence-activated cell sorting, FACS;",,"immunohistochemistry,
+IHC.",

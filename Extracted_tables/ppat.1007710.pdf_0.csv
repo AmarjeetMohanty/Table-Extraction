@@ -1,0 +1,11 @@
+0,1,2,3,4,5
+Table 1. Correlation of C12L and K1L with host range in human and rabbit cellsa.,,,,,
+Virusb,C12L,K1L,Monkey cells,Human cells,Rabbit kidney cells
+MVA,-,truncated,-,-,-
+v51.1,+,+,+,+,+
+v51.2,+,truncated,+,+,-
+v44.1,+,truncated,+,+,-
+v44.2,+,+,+,+,+
+v47.1,-,truncated,+,-,-
+v47.2,-,truncated,+,-,-
+v44/47.1,+,+,+,+,+

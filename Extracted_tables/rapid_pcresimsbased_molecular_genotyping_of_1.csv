@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6
+,Genotype,,Virulence/Toxin-encoding genes,,,Number of instances
+Clonal Complex,PCR/ESI-MS or ST Type2,LukD/E,PVL,PVL Type,TSST,
+CC8,1,-,-,-,-,1
+,,lukD/E+,-,-,-,6
+,,lukD/E+,-,-,TSST+,1
+,,lukD/E+,PVL+,R,-,11
+,7,lukD/E+,-,-,-,1
+CC5,2,lukD/E+,-,-,-,12
+CC30,3,-,-,-,-,2
+,,-,-,-,TSST+,2
+CC15,12,lukD/E+,-,-,-,4
+CC45,6,lukD/E+,PVL+,R,-,1
+,,-,-,-,TSST+,1

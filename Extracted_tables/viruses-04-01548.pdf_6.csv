@@ -1,0 +1,12 @@
+0,1,2
+Table  4.  Prediction  of  DL52  and  DL54  as  recombinant  strains  by  analysis  of  Levivirus,,
+,(family Leviviridae) genogroup I using Recombination Detection Program (RDP3).,
+,Confirmation Table of Recombination Events,
+Methods,Events,Average p-value
+RDP,2,2.199 × 10−15
+GENECONV,1,3.031 × 10−27
+Bootscan,2,7.867 × 10−19
+MaxChi,2,1.445 × 10−10
+Chimaera,2,3.536 × 10−11
+SiScan,1,1.168 × 10−13
+3Seq,1,4.486 × 10−8

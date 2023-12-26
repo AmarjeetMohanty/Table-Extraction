@@ -1,0 +1,27 @@
+0,1,2,3,4
+,Table 1.,lncRNA databases.,,
+Name,Link,Dataset,Organism,PMID
+,,transcriptional,,
+,,regulatory networks of,,
+ChIPBase v2.0,http://rna.sysu.edu.cn/chipbase/,,10 species,27924033
+,,ncRNAs and,,
+,,protein-coding genes,,
+,,miRNA-lncRNA,,
+DIANA-LncBase v2,http://www.microrna.gr/LncBase/,,human and mouse,26612864
+,,interactions,,
+,,annotated lncRNA,,
+LNCipedia 4.1,http://www.lncipedia.org/,,human,25378313
+,,transcripts,,
+lncRNAdb v2.0,http://www.lncrnadb.org/,functional lncRNAs,68 species,25332394
+,,lncRNA-disease,,
+LncRNADisease,http://www.cuilab.cn/lncrnadisease/,,human,23175614
+,,associations,,
+LncRNAWiki,http://lncrna.big.ac.cn/,lncRNA knowledgebase,human,25399417
+lncRNome,http://genome.igib.res.in/lncRNome/,lncRNA knowledgebase,human,23846593
+,,lncRNAs expressed in,,
+,,collaborative cross,,
+MONOCLdb,http://www.monocldb.org/,founder mice in,mouse,24922324
+,,response to respiratory,,
+,,virus infection,,
+NONCODE (v5.0),http://www.noncode.org/,lncRNA knowledgebase,17 species,26586799
+NRED,http://nred.matticklab.com/,lncRNA expression,human and mouse,18829717

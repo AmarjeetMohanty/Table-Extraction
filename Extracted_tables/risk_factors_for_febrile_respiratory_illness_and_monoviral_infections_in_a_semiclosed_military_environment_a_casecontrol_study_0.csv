@@ -1,0 +1,43 @@
+0,1,2,3,4,5
+"Table 1 Demographics of FRI cases, and non-FRI study controls",,,,,
+Characteristic,FRI cases (N = 7743),Percent,Non-FRI study controls (N = 1247),Percent,P-valuea
+Age:,,,,,
+Mean (SD),20.8,(3.12),21.0,(2.62),<0.001b
+Range,17-60,,18-55,,
+Gender:,,,,,
+Male,7723,99.7,1246,99.9,0.354
+Ethnic groups,,,,,
+Chinese,5834,75.4,972,77.9,
+Malay,1151,14.9,158,12.7,
+Indian,510,6.6,88,7.1,
+Others,248,3.2,29,2.3,0.344
+Camp,,,,,
+Non-recruit camp,2186,28.2,827,66.3,<0.001
+Recruit camp,5557,71.8,420,33.7,
+Pre-pdm TIV:,,,,,
+Yes,180,2.3,49,3.9,0.002
+Post-pdm TIV:,,,,,
+Yes,2400,31.0,279,22.4,<0.001
+Pdm-A(H1N1)V:,,,,,
+Yes,1335,17.2,222,17.8,0.629
+Smoking,,,,,
+Non-smoker,5388,69.6,877,70.3,
+Current-smoker,2094,27.1,346,27.7,
+Ex-smoker,257,3.3,24,1.9,0.028
+Asthma,,,,,
+Yes,1598,20.6,215,17.2,0.004
+Heart disease,,,,,
+Yes,83,1.1,15,1.2,0.763
+Diabetes,,,,,
+Yes,8,0.1,2,0.2,0.656
+Hypertension,,,,,
+Yes,45,0.6,6,0.5,0.700
+Travelled to community in last 14 days:,,,,,
+Yes,7670,99.1,1238,99.3,0.548
+Travelled to other camp in last 14 days:,,,,,
+Yes,471,6.1,177,14.2,<0.001
+Travelled overseas in the last 14 days:,,,,,
+Yes,227,2.9,49,3.9,0.057
+Camp stay,,,,,
+Stay-in,6928,89.6,1018,81.6,<0.001
+aChi-squared test; bunpaired t-test; Pdm- pandemic,,,,,

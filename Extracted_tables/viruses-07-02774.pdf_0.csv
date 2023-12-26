@@ -1,0 +1,21 @@
+0,1,2,3,4
+,"Table 1. Identification of immunodetected proteins (fractions M1, M2, M3) from purified",,,
+,CBPV samples using nano-HPLC coupled to MALDI-TOF/TOF.,,,
+,Approximate Molecu-,Viral,Number of Peptides,
+Fraction,,,,Sequence of Identified Peptides
+,lar Weight (kDa),Protein,(Confidence of Identity > 95%),
+,,pSP,1,FIGDFITEHPEQTIGAVAVSAAVLSSAR
+M1,18,,,
+,,hSP,2,"QIPIANFNEFLIK, LLEGPDEWLLVTAR"
+,,,,"FIGDFITEHPEQTIGAVAVSAAVLSSAR,"
+M2,29,pSP,4,
+,,,,"LQTVNALK, SILDR, SIVVTLGQK"
+,,,,"FIGDFITEHPEQTIGAVAVSAAVLSSAR,"
+,,pSP,3,
+,,,,"LQTVNALK, SIVVTLGQK"
+,,,,"QIPIANFNEFLIK, LFHYYPPLQLR,"
+M3,44,,,
+,,,,"IDTQATLSELR, LLEGPDEWLLVTAR,"
+,,hSP,7,
+,,,,"FFPLQPLAR, ADNPDSLLEVLPVLVSADIK,"
+,,,,YDWLGSGGSYCLVQPDR

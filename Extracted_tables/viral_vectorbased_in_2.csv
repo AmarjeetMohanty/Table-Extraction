@@ -1,0 +1,19 @@
+0,1,2,3,4,5
+2888,R. D. DE VRIES AND G. F. RIMMELZWAAN,,,,
+"Table 2.
+(Continued )",,,,,
+Vector,Model,Antigen,Modiﬁcation,Subtype,Reference
+,,,,,"147,158,159,167"
+NDV,,HA,n/a,"H1N1, H5N1",
+,,,,,158
+,,HA,Soluble,H5N1,
+,,,,,"149,150,152,153,155-166"
+,,HA,n/a,"H5N1, H5N2, H6, H7, H7N2, H7N9, H9N2",
+,,,,,158
+,,HA,Soluble,H5N1,
+,,,,,151
+,,HA,Ectodomain,H5N1,
+,,,,,155
+,,HA/NA,n/a,H5N1,
+,,,,,165
+,,HA,n/a,H6,

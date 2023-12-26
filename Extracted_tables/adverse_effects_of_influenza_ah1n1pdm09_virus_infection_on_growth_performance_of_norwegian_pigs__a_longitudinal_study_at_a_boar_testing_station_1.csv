@@ -1,0 +1,28 @@
+0,1,2,3,4,5,6
+,Table 5 Multilevel regression of average daily feed intake in pigs infected with influenza A(H1N1)pdm09 virus,,,,,
+,Average daily feed intake (ADFI),,,,,
+Predictors,,Coefficients,SE,P values,95% CI,
+Breed,,,,,,
+Landrace,,Reference,,,,
+Duroc,,−0.10,0.0157,<0.001,−0.13,−0.07
+Growth Phase,,,,,,
+GF1(33_60 kg),,Reference,,,,
+GF2(61_80 kg),,0.71,0.0136,<0.001,0.68,0.74
+GF3(81_100 kg),,1.08,0.0136,<0.001,1.05,1.10
+Birthdate,,−0.00002,0.00002,0.257,−0.00005,0.00001
+Interaction term:,INFGP*GF,,,,,
+SERONEG*GF(1–3),,Reference,,,,
+SEROPOS*GF1,,−0.003,0.016,0.851,−0.034,0.028
+SEROPOS*GF2,,0.022,0.016,0.166,−0.009,0.053
+SEROPOS*GF3,,0.017,0.016,0.278,−0.014,0.049
+VIR1*GF1,,−0.024,0.032,0.444,−0.086,0.038
+VIR1*GF2,,0.071,0.032,0.025,0.009,0.133
+VIR1*GF3,,0.104,0.032,0.001,0.042,0.166
+VIR2*GF1,,0.077,0.057,0.176,−0.035,0.190
+VIR2*GF2,,0.032,0.057,0.574,−0.080,0.144
+VIR2*GF3,,0.070,0.057,0.223,−0.042,0.182
+VIR3*GF1,,0.059,0.055,0.283,−0.049,0.167
+VIR3*GF2,,0.077,0.055,0.164,−0.031,0.184
+VIR3*GF3,,−0.085,0.055,0.122,−0.193,0.023
+Constant (β0),,1.897,0.3107,<0.001,1.288,2.506
+,"Abbreviations: SERONEG Seronegative pigs, SEROPOS Seropositive pigs (not tested for virus), VIR1 pigs viral positive between bodyweight 33 kg and 60 kg,",,,,,

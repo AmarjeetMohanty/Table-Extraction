@@ -1,0 +1,17 @@
+0,1,2,3
+,,,Amyloid formers
+,Amyloid formers,,
+,,Germline,SQSVLYSSNNKNY
+Germline,SQSVLYSSNNKNY,Derivative 1,SQNLLDSSFDTNT
+Derivative 1,SQNLLDSSFDTNT,Derivative 2,SQSVLYSSNSKNY
+Derivative 2,SQSVLYSSNSKNY,Derivative 3,SRSVLSDSNSRNL
+Derivative 3,SRSVLSDSNSRNL,Derivative 4,SQSVLYSSNNKNY
+Derivative 4,SQSVLYSSNNKNY,Derivative 5,SLSVFFSPNNKNY
+Derivative 5,SLSVFFSPNNKNY,Derivative 6,SQSVLYNSNNKNF
+Derivative 6,SQSVLYNSNNKNF,Derivative 7,SQSVLLSFKNDNY
+Derivative 7,SQSVLLSFKNDNY,,
+,,,Non-amyloid formers
+Non-amyloid formers,,,
+,,Germline,SQSVLYSSNNKNY
+Germline,SQSVLYSSNNKNY,Derivative 1,SQSVLFSSNNKNY
+Derivative 1,SQSVLFSSNNKNY,Derivative 2,SQSVLYSSNNKNY

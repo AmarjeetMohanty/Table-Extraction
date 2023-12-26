@@ -1,0 +1,13 @@
+0,1,2,3,4
+Table 2 Recovery values of NoV GII seeded in LMA plates,,,,
+Sample ID,NoV GII added GC/plate,NoV GII recovered GC/plate,Recovery,Mean recovery
+,,,(%),(%)
+exp1,1 × 104,"0,94 × 104",93,"90,3"
+exp2,1 × 104,"1,06 × 104",106,
+exp3,1 × 104,"0,72 × 104",72,
+exp4,1 × 103,"0,91 × 103",91,"93,3"
+exp5,1 × 103,"1,07 × 103",107,
+exp6,1 × 103,"0,82 × 103",82,
+exp7,1 × 102,"0,93 × 102",93,"63,3"
+exp8,1 × 102,"0,68 × 102",68,
+exp9,1 × 102,"0,29 × 102",29,

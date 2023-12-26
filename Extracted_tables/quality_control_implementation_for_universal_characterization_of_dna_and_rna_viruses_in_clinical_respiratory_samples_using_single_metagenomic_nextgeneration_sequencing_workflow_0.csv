@@ -1,0 +1,43 @@
+0,1,2,3,4,5,6,7
+,Table 1 Metagenomic NGS results for,,,the validated respiratory samples tested positive with viral,,real-time PCR.,
+Sample,Real-time PCR,,Viral genome type,mNGS results for targeted virusesa,,,
+No.,Ct values,,,,,,
+,,,,Identification,"No. of
+reads",RPKM,Coverage(%)
+1,HRV/EV,25,linear ssRNA,HRV-A19,"13,061",5.5E + 06,97.6
+2,,24,,HRV-A19,"29,743",8.2E + 06,98.2
+3,,29,,HRV-A63,2672,1.4E + 06,58.1
+4,,34,,HRV-A56,453,1.4E + 04,75.2
+5,RSV,27,,RSV-B,"14,218",1.9E + 06,91.2
+6,,36,,RSV-A,187,1.5E + 03,22.0
+7,MPV,33,,HMPV-A,"44,556",9.1E + 05,100.0
+8,HCoV,20,,HCoV NL63,"73,878",2.4E + 06,94.2
+9,,24,,HCoV 229E,"19,615",1.1E + 06,99.8
+10,,28,,HCoV 229E,"20,666",2.4E + 05,100.0
+12,,36,,HCoV NL63,1815,1.3E + 04,9.6
+13,MV,23,,Measles Virus,"289,019",9.1E + 06,98.1
+14,IBV,23,fragmented ssRNA,Influenza B,"42,212",1.1E + 06,97.2
+15,IAV,27,,Influenza A(H3N2),"24,234",1.9E + 05,78.6
+16,,34,,Influenza A(H3N2),1559,1.9E + 04,21.2
+17,,35,,Influenza A(H3N2),258,1.8E + 03,26.5
+18,HBoV,24,linear ssDNA,HBoV-1,"79,504",2.7E + 06,100.0
+20,AdV,17,linear dsDNA,HAdVC-1,"245,2476",1.6E + 07,99.8
+21,,36,,HAdVD-51,18,8.0E + 01,0.6
+22b,,30,,HAdVC-6,284,1.0E + 03,6.2
+,HHV-6,28,,HHV-6B,"18,411",1.4E + 04,54.8
+23b,HBoV,15,linear ssDNA,HBoV-1,"9,470,426",1.6E + 08,100.0
+,CMV,31,linear dsDNA,CMV,653,2.5E + 02,5.3
+24b,HBoV,17,linear ssDNA,HBoV-1,"7,966,089",1.1E + 08,100
+,MPV,29,linear ssRNA,HMPV-A,"10,629",5.9E + 04,95.7
+"25b, c",AdV,26,linear dsDNA,HAdVC-2,2165,6.8E + 03,12.4
+,HPIV,26,linear ssRNA,HPIV-3,"17,576",1.3E + 05,66.7
+,HRV/EV,34,,HRV-C,446,7.0E + 03,9.2
+,CMV,27,linear dsDNA,CMV,"34,577",1.7E + 04,24.8
+26b,HRV/EV,26,linear ssRNA,HRV-A78,"114,684",1.4E + 07,99.9
+,AdV,30,linear dsDNA,HAdVC-2,65,1.6E + 03,9.6
+,RSV,30,linear ssRNA,RSV-A,586,3.5E + 04,68.7
+27b,AdV,32,linear dsDNA,HAdVC-2,24,1.3E + 02,3.2
+,HPIV,37,linear ssRNA,HPIV-2,50,6.3E + 02,2.3
+28b,HRV/EV,31,,HRV-A71,1309,3.5E + 04,61.3
+,EBV,23,linear dsDNA,EBV,2556,3.0E + 03,39.3
+,"HRV: human rhinovirus, EV: enterovirus, RSV: respiratory syncytial virus, HCoV: human coronavirus, HMPV: human metapneumovirus, HPIV: human parainfluenza",,,,,,

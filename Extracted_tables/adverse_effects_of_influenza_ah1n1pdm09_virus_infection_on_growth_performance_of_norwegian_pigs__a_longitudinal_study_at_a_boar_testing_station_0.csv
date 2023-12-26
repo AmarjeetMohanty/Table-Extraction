@@ -1,0 +1,33 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+Table 1 Akaike information criterion (AIC) and the parsimony principle were used to select the best model for,,,,,,,,,,,
+each outcome,,,,,,,,,,,
+Outcome,,Predictors (fixed effects),,,,,,,Random,AIC,ΔAIC
+,,,,,,,,,effects,,
+,Infection status,Breed,Growth,,Ave daily feed,Interaction,Interaction,,,,
+,,,,Birthdate,,,,Pig,Herd,,
+,group (INFGP),(Br),Phase (GF),,intake (ADFI),term INFGP*GF,,term INFGP*Br,,,
+ADG,x,x,x,x,x,x,x,x,x,-7157.8,-1.7
+,x,x,x,x,x,x,x,,x,-7132.5,23.6
+,x,x,x,x,x,x,x,x,,-7147.8,8.3
+→,x,x,x,x,x,x,,x,x,-7156.1,0
+,x,x,x,x,x,,x,x,x,-7150,6.1
+,x,x,x,x,x,,,x,x,-7149,7.1
+FCE,x,x,x,x,x,x,x,x,x,-1889,3.7
+,x,x,x,x,x,x,x,,x,-1769,123.7
+,x,x,x,x,x,x,x,x,,-1878,14.7
+→,x,x,x,x,x,x,,x,x,-1892.7,0
+,x,x,x,x,x,,x,x,x,-1864,28.7
+,x,x,x,x,x,,,x,x,-1867,25.7
+ADFI,x,x,x,x,x,x,x,x,x,3299.8,2.8
+,x,x,x,x,x,x,x,,x,3564,267
+,x,x,x,x,x,x,x,x,,3307,10
+→,x,x,x,x,x,x,,x,x,3297,0
+,x,x,x,x,x,,x,x,x,3304,7
+,x,x,x,x,x,,,x,x,3302,5
+Age 100 kg,x,x,,x,x,,x,,x,13111,5
+,x,x,,x,x,,x,,,13205.5,99.5
+→,x,x,,x,x,,,,x,13106,0
+OFI,x,x,,x,x,,x,,x,15281,3
+,x,x,,x,x,,x,,,15362,84
+→,x,x,,x,x,,,,x,15278,0
+"Abbreviations: ADG average daily growth in kg/day, FCE feed conversion efficiency in kg feed/kg weight gain, ADFI average daily feed intake in kg/day, Age 100 kg",,,,,,,,,,,

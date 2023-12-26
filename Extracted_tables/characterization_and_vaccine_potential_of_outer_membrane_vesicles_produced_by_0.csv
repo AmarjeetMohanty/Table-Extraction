@@ -1,0 +1,47 @@
+0,1,2,3,4,5,6,7,8,9,10
+"Nagasaki plate isolated OMV (NPO), D74 plate isolated OMV (DPO), Nagasaki liquid isolated OMV (NLO) and D74 liquid isolated OMV (DLO).",,,,,,,,,,
+Nagasaki,D74 Locus,Protein Description,Mol wt,NPO,DPO,NLO,DLO,Localization,Similarity,Ref.
+Locus,,,(kDa),NSAF,NSAF,NSAF,NSAF,,,
+HPSNAG_0042,HPSD74_0020,peptidoglycan-associated,38,0.0297,0.0116,0.0288,0.0233,O,89%,"[70,"
+,,lipoprotein,,,,,,,,71]
+HPSNAG_2308,HPSD74_2216,outer membrane protein P5,39,0.0276,0.0191,0.0218,0.0345,O,81%,"[43,"
+,,,,,,,,,,"70,"
+,,,,,,,,,,71]
+HPSNAG_1095,HPSD74_1165,heme-binding protein A,59,0.0270,0.0162,0.0135,0.0124,P,96%,"[43,"
+,,,,,,,,,,72]
+HPSNAG_1298,HPSD74_1320,L-cystine-binding protein,28,0.0265,0.0239,0.0055,0.0125,P,98%,[43]
+,,tcyA,,,,,,,,
+HPSNAG_0439,HPSD74_0534,D-galactose-binding,35,0.0230,0.0076,0.0244,0.0061,P,96%,[43]
+,,periplasmic protein,,,,,,,,
+HPSNAG_0730,HPSD74_0873,superoxide dismutase,19,0.0192,0,0.0259,0,P,88%,[70]
+HPSNAG_1330,HPSD74_1964,outer membrane lipoprotein,34,0.0179,0.0109,0.0270,0.0044,O,83%,-
+,,A,,,,,,,,
+HPSNAG_0784,HPSD74_0959,DNA-binding protein HU-,9,0.0175,0.0384,0,0,C,81%,-
+,,alpha,,,,,,,,
+HPSNAG_0889,HPSD74_1113,peptidase M16 inactive,110,0.0143,0.0128,0.0314,0.0148,P,95%,-
+,,domain protein,,,,,,,,
+HPSNAG_1000,HPSD74_1053,Tat (twin-arginine,58,0.0135,0.0070,0.0212,0.0103,P,97%,"[70,"
+,,translocation) pathway,,,,,,,,72]
+,,signal sequence domain,,,,,,,,
+,,protein,,,,,,,,
+HPSNAG_2167,HPSD74_2051,cytochrome b562 family,14,0.0134,0.0014,0.0230,0,P,84%,-
+,,protein,,,,,,,,
+HPSNAG_0978,HPSD74_1047,periplasmic solute binding,33,0.0085,0.0023,0.0203,0,P,94%,[70]
+,,family protein,,,,,,,,
+HPSNAG_1121,HPSD74_1362,translation elongation factor,43,0.0081,0.0065,0.0140,0.0206,C,91%,-
+,,Tu,,,,,,,,
+HPSNAG_0723,HPSD74_0866,penicillin-binding protein,64,0.0076,0.0101,0.0200,0.0151,O,94%,[43]
+,,activator LpoA,,,,,,,,
+HPSNAG_0211,HPSD74_0260,maltose-binding periplasmic,42,0.0059,0.0018,0.0224,0.0043,P,99%,-
+,,protein,,,,,,,,
+HPSNAG_0140,HPSD74_0186,outer membrane protein P2,39,0.0054,0.0114,0.0132,0.0251,O,75%,"[43,"
+,,,,,,,,,,"70,"
+,,,,,,,,,,71]
+HPSNAG_2042,HPSD74_1917,chaperonin GroL,58,0.0039,0.0106,0.0103,0.0581,C,89%,-
+HPSNAG_0493,HPSD74_0594,pyruvate dehydrogenase,99,0.0020,0.0022,0.0070,0.0206,C,99%,-
+,,"(acetyl-transferring),",,,,,,,,
+,,homodimeric type,,,,,,,,
+HPSNAG_0727,HPSD74_0870,outer membrane,91,0.0024,0.0222,0.0012,0.0222,O,68%,[72]
+,,autotransporter barrel,,,,,,,,
+,,domain protein (aidA),,,,,,,,
+doi:10.1371/journal.pone.0149132.t002,,,,,,,,,,

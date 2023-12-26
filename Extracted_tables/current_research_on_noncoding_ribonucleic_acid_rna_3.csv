@@ -1,0 +1,27 @@
+0,1,2,3,4
+,Table 5. Cont.,,,
+Name,Link,Description,Organism,PMID
+RepTar,http://reptar.ekmd.huji.ac.il,predicted miRNA target,human and mouse,21149264
+,,cancer somatic mutations in,,
+SonamiR DB v2.0,http://compbio.uthsc.edu/SomamiR/,miRNAs and their target,human,26578591
+,,sites,,
+,,RNA-RNA and,,
+,,protein-RNA interaction,"human, mouse and",
+StarBase v2.0,http://starbase.sysu.edu.cn/,,,24297251
+,,networks from CLIP-Seq,worm,
+,,data,,
+,,,"human, mouse and",
+STarMirDB,http://sfold.wadsworth.org/starmirDB.php,miRNA binding sites,,27144897
+,,,worm,
+,,,"human, mouse,",
+TargetScan v7.1,http://www.targetscan.org/vert_71/,miRNA targets,,26267216
+,,,"worm, ﬂy and ﬁsh",
+,,transcription factor and,,
+TMREC,http://bioinfo.hrbmu.edu.cn/TMREC/,miRNA regulatory cascades,human,25932650
+,,in human diseases,,
+,,transcription,,
+TransmiR,http://cmbi.bjmu.edu.cn/transmir,,14 species,19786497
+,,factor–microRNA regulation,,
+,,experimental viral miRNA,,
+VIRmiRNA,http://crdd.osdd.net/servers/virmirna,,68 viruses,25380780
+,,and their targets,,

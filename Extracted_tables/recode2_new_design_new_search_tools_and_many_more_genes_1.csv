@@ -1,0 +1,21 @@
+0,1,2,3
+,Comments,Analyses,
+UserRights,,,
+,id [PK],id [PK],
+rights [PK],id recode [FK],id recode [FK],
+name,author,program,
+code,comments,version,
+tasks,date,parameter,
+,reviewed,date,
+Users,,,
+,,Recode2,
+username [PK],,,
+password,,id recode [PK],
+,,,Structures
+email,,recode1,
+name,,organism [FK],structure [PK]
+address,,kingdom [FK],name
+url,,locus,description
+task,,description [FK],
+rights [FK],,status [FK],
+activated,,,

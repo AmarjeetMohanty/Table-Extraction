@@ -1,0 +1,18 @@
+0,1,2,3,4,5
+Table 1 Pathogens used and RT-LAMP assay results,,,,,
+,,Source,,RT-LAMP result,
+,,,Agarose gel electrophoresis,,Color change after adding dye
+Bovine rotavirus (BRV),genotype,,,,
+NCDV,G6P[1],CVCC,+,,+
+BRV014,G6P[5],CVCC,+,,+
+GX-BRV-1,G6P[11],GVRI,+,,+
+GX-BRV-2,G6P[5],GVRI,+,,+
+GX-BRV-3,G10P[11],GVRI,+,,+
+GX-BRV-4,G6P[11],GVRI,+,,+
+GX-BRV-5,G6P[11],GVRI,+,,+
+GX-BRV-6,G6P[5],GVRI,+,,+
+GX-BRV-7,G6P[5],GVRI,+,,+
+GX-BRV-8,G10P[11],GVRI,+,,+
+Other bovine pathogens,,,,,
+Bovine virus diarrhea (BVDV),,CVCC,-,,-
+Mycobacterium bovis (MB),,GVRI,-,,-

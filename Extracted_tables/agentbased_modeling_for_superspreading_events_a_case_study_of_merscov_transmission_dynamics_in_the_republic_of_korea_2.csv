@@ -1,0 +1,17 @@
+0,1,2,3,4,5
+λ = 10%. SSM3 shows the highest level of heterogeneity while No-SS shows the least heterogeneity.,,,,,
+,,(a) MERS-CoV,,,(b) Fitted
+,180,,,,
+,,MERS-CoV,,,SSM1
+,160,Fitted,,,SSM2
+,,,,,SSM3
+,140,,,,
+,,,,,No-SS
+,,,,10 2,MERS-CoV
+,120,,,,
+Frequency,100,,log(Frequency),,
+,80,,,,
+,,,,10 1,
+,60,,,,
+,40,,,,
+,20,,,,

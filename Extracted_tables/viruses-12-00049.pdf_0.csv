@@ -1,0 +1,39 @@
+0,1,2,3,4,5,6
+,Table 1. Host protein interactors with Lassa virus (LASV) and Mopeia virus (MOPV) Z proteins,,,,,
+,identiﬁed by yeast two-hybrid (Y2H) and validated by gap repair.,,,,,
+,,Gene Functional,HT-Y2H Screening Hits,,,Validation by Gap Repair
+Gene Name,Gene ID,,,,,
+,,Classiﬁcation,,,,
+,,,Z MOPV,Z LASV,Z MOPV,Z LASV
+,,,,,+,
+UBQLN4,56893,Autophagy,9,0,,
+,,,,,+,
+UBQLN2,29978,Autophagy,28,0,,
+,,,,,+,
+UBQLN1,29979,Autophagy,11,0,,
+,,,,,+,
+CALCOCO2,10241,Autophagy,65,0,,
+,,,,,+,
+OPTN,10133,Autophagy,7,0,,
+,,,,,+,
+TAX1BP1,8887,Autophagy,60,0,,
+,,,,,+,+
+CAPRIN2,65981,Protein processing,4,13,,
+,,,,,+,
+GRIPAP1,56850,Protein processing,12,0,,
+,,,,,+,+
+AP1G2,8906,Protein processing,1,5,,
+,,,,,,+
+RINT1,60561,Protein processing,0,8,,
+,,,,,+,+
+GOLGA1,2800,Protein processing,0,2,,
+,,,,,+,
+HSP90AA1,3320,Protein processing,1,0,,
+,,,,,+,+
+WWP1,11059,Ubiquitination,2,1,,
+,,,,,+,+
+ITCH,83737,Ubiquitination,4,2,,
+,,,,,+,
+CINP,51550,Miscellaneous,8,0,,
+,,,,,+,+
+ECD,11319,Miscellaneous,8,0,,

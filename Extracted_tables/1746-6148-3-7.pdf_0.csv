@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6,7,8
+Table 4: Canine ligament tissue reference genes ranked in order of increasing expression stability (Increases from top to bottom).,,,,,,,,
+Combined,M Value,V Value,Healthy,M Value,V Value,Ruptured,M Value,V Value
+,,,Ligament,,,Ligament,,
+YWHAZ,1.39,0.15,GAPDH,1.28,0.16,RPL13A,1.10,0.17
+RPL13A,1.33,0.16,ACTB,1.17,0.19,YWHAZ,0.94,0.16
+GAPDH,1.28,0.17,HMBS,1.02,0.25,B2M,0.80,0.15
+HMBS,1.22,0.20,B2M,0.71,0.15,GAPDH,0.69,0.14
+ACTB,1.15,0.26,HPRT,0.60,0.17,HMBS,0.59,0.11
+HPRT,0.98,0.28,TBP,0.41,0.12,TBP,0.57,0.15
+SDHA,0.75,0.27,RPL13A,0.31,0.10,ACTB,0.48,0.17
+B2M/TBP,0.59,,SDHA/,0.26,,HPRT/SDHA,0.33,
+,,,YWHAZ,,,,,

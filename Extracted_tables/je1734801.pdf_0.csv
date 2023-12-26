@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6,7
+Table,1.,BN and Lewis Astrocyte TNF-a Production,in,the,Presence of Indomethacin,,
+,,,,Indomethacin,,,Fold
+Rat,strain,"Cell
+treatment",,(1,FAg/ml),"TNF-a activity""",increaset
+,,,,,,pg/ml,
+BN,,LPSS,,,-,816 .0 ± 30,
+,,LPS,,,+,"1,126 .0 ± 84",1 .4
+,,IFN-y/LPSII,,,-,"1,233 .0 ± 18",
+,,IFN-y/LPS,,,+,"3,546 .0 ± 55",2.8
+Lewis,,LPS,,,-,36 .2 ± 4,
+,,LPS,,,+,45 .0 ± 4,1 .2
+,,IFN-y/LPS,,,-,602 .5 ± 36,
+,,IFN-y/LPS,,,+,"2,137.5 ± 77",3.5

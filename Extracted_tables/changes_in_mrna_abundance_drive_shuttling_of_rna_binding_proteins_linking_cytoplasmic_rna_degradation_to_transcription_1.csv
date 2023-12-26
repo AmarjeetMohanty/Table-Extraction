@@ -1,0 +1,37 @@
+0,1,2,3,4
+,,Materials and methods,,
+Key resources table,,,,
+Reagent type,,,,Additional
+(species) or resource,Designation,Source or reference,Identifiers,information
+"Strain, strain",MHV68,PMID: 10888635,NCBI_refseq ID:,Koszinowski
+background,,,NC_001826.2,Lab
+(murine herpesvirus 68),,,,
+"Strain,",R443I MHV68,PMID: 21811408,,Glaunsinger
+strain background,,,,Lab
+(murine herpesvirus 68),,,,
+"Cell
+line",HEK293T,American Type,Cat# CRL-11268;,
+(Homo sapiens),,Culture Collection,RRID: CVCL_1926,
+"Cell
+line",NIH3T3,American Type,Cat# CRL-1658;,
+(Mus musculus),,Culture Collection,RRID: CVCL_0594,
+Transfected,Xrn1 knockout,This paper,,HEK293T clone
+"construct
+(synthesized)",(KO) cells,,,stably expressing Cas9
+,,,,and Xrn1 single-guide RNA.
+Transfected,Cas9-expressing,This paper,,HEK293T clone
+"construct
+(synthesized)",WT cells,,,stably expressing
+,,,,Cas9 alone with
+,,,,no guide RNA.
+Recombinant DNA,GFP-muSOX,This paper,,Progenitors:
+reagent,(plasmid),,,pcDNA3-HA-muSOX (
+,,,,"Covarrubias et al., 2009);"
+,,,,Gateway vector peGFP-C1
+Recombinant D,Thy1.1-muSOX,This paper,,Progenitors:
+NA reagent,(plasmid),,,GFP-muSOX
+Recombinant,Thy1.1-muSOX D219A,This paper,,Progenitors:
+DNA reagent,(plasmid),,,Thy1.1-muSOX
+Recombinant,Thy1.1-GFP (plasmid),This paper,,Progenitors:
+DNA reagent,,,,Thy1.1-muSOX
+Continued on next page,,,,

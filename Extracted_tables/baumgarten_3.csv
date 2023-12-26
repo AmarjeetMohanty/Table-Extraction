@@ -1,0 +1,15 @@
+0,1,2,3
+,,VIRAL IMMUNODIAGNOSIS,
+,,TABLE 5,
+,Causes of Aberrant Results in Immunoassays,,
+Methodological,,,Biological
+Inappropriate method is used,,,Subject is immunologically unresponsive
+Procedure is not observed,,,Material is inappropriately collected
+,,,"source,
+(time,
+procedure)"
+Incorrect or inactive,reactants are employed,,Material lacks specificity
+Range of effective concentration,of reactants,is,
+exceeded,,,Prior vaccination
+Inhibitors are present,,,Multiple infection
+Contaminants are present,,,

@@ -1,0 +1,21 @@
+0,1,2,3,4,5,6,7,8,9,10
+equivalent weight,,in the cost,function:,,,,,,,
+,,,,,,,"called regularization, and it",,is widely used in statistics and machine,
+,,,,,,,"learning. Denoting the coupling parameters by the (7261) vector,",,,
+,Table 2. Concentration Coefficients of,,,,"the Fully Coupled Cytokine Model, CC.",,,,,
+,,TNF,IFN,IL10,IL8,IL6,IL4,IL2,IL1,IL12
+TNF99,,"2
+26.413",0.345,20.383,20.186,20.632,20.680,20.206,0.672,20.818
+IFN99,,20.554,218.641,0.078,1.576,1.542,0.128,0.184,0.696,20.903
+IL1099,,20.487,0.846,23.320,0.145,20.727,20.111,20.030,20.017,0.617
+IL899,,0.992,20.207,1.566,213.571,0.058,20.823,20.316,0.046,23.356
+IL699,,0.412,21.688,20.303,0.042,22.784,0.640,0.769,0.955,0.065
+IL499,,"2
+21.129",21.072,20.278,0.271,0.101,216.305,0.776,0.778,20.237
+IL299,,20.503,20.775,0.422,0.506,20.242,20.022,215.226,20.181,20.957
+IL199,,0.053,20.090,20.376,0.891,20.575,0.227,0.289,27.571,0.604
+IL1299,,"2
+20.877",20.075,0.275,20.228,0.320,0.343,1.554,20.271,219.448
+,Positive off-diagonal elements represent inductive acceleration of one cytokine by another; negative coefficients represent inhibitive acceleration.,,,,,,,,,Input cytokines are
+listed in the first,row.,(.)’’,represents d2(.)/dt2 in the first column of,,the table.,,,,,
+,doi:10.1371/journal.pone.0045027.t002,,,,,,,,,

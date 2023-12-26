@@ -1,0 +1,14 @@
+0,1,2,3,4
+,Table 1. Eﬀects of disclosure of hospital list.,,,
+,,,Laboratory-Conﬁrmed Cases,
+,,Estimate,Standard Error,p-Value
+Intercept,,−0.406,1.743,0.817
+Time,,0.316,0.180,0.087
+Disclosure of the hospital name list,,9.632,2.057,<0.001
+Time after Disclosure,,−0.699,0.198,0.001
+Quarantinet-8,,−0.001,0.0004,0.012
+R-square,,,0.64,
+,,,†,
+DW,,,2.13,
+,†,,,
+,,p > 0.05.,,

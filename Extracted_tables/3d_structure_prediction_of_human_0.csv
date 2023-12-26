@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6,7,8
+,,,basis of threading method. Stereochemical properties of each sub-model were evaluated and,,,,,
+Table 1. Top-ranked template sequences obtained by BLAST results.,,,,,,,,
+Ranking No.,PDB ID,LIG ID*,Total Score,Query Coverage,Max.,Identity,Positives,e-Value
+1,2Y00,Y00,473,73%,68%,,75%,3×10-165
+2,2VT4,P32,466,73%,68%,,75%,1×10-162
+3,2R4R,N/A,412,79%,54%,,66%,1×10-140
+4,3KJ6,N/A,412,79%,54%,,66%,1×10-140
+5,2R4S,N/A,408,74%,56%,,66%,3×10-139
+6,3SN6,P0G,410,74%,56%,,66%,1×10-137
+7,4GBR,CAU,291,43%,67%,,81%,4×10-94
+8,3P0G,P0G,418,79%,54%,,75%,5×10-92
+9,2RH1,CAU,418,79%,54%,,76%,5×10-92
+10,3PDS,ERC,410,72%,60%,,78%,1×10-90

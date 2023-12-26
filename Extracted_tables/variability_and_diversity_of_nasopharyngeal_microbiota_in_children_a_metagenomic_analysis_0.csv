@@ -1,0 +1,40 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12
+,Table 1. Thirty most common OTUs or,,,"‘species-level’ phylotypes (ranked by predominance,",,i.e. absolute presence among the approx. 1 100 000 reads).,,,,,,
+PLoS ONE,,,,,,,,,,Relative,,
+,,,,,,,,Overall,Relative,,presence,
+,,,,,,,OTU level,presence,presence,,(.0.1% of,Core
+,Phylum,Class,Order,Family,Genus,Species,classified,(% of reads),(n = ),reads),(n = ),microbiome
+"| www.plosone.org
+1",Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Moraxella,NA,genus,38.11,95,91,,All
+2,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,influenzae,species,19.16,84,61,,All
+3,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,NA,genus,12.98,96,88,,All
+4,Bacteroidetes,Flavobacteria,Flavobacteriales,Flavobacteriaceae,Flavobacterium,NA,genus,10.07,80,47,,Spring
+5,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Dolosigranulum,NA,genus,4.80,86,75,,All
+6,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Moraxella,NA,genus,2.22,39,28,,
+7,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,propinquum,species,1.65,80,57,,All
+8,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,meningitidis,species,1.19,62,22,,
+9,Fusobacteria,Fusobacteria,Fusobacteriales,Fusobacteriaceae,Fusobacterium,necrophorum,species,0.96,8,4,,
+10,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,influenzae,species,0.77,16,10,,
+11,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,polysaccharea,species,0.65,16,7,,
+12,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Helcococcus,NA,genus,0.57,31,23,,
+13,Firmicutes,NA,NA,NA,NA,NA,phylum,0.57,49,23,,
+4,,,,,,,,,,,,
+14,Actinobacteria,Actinobacteria,Actinomycetales,Dermabacteraceae,Brachybacterium,NA,genus,0.56,16,11,,
+15,Fusobacteria,Fusobacteria,Fusobacteriales,Fusobacteriaceae,Fusobacterium,NA,genus,0.40,21,2,,
+16,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Enhydrobacter,NA,genus,0.37,95,73,,All
+17,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,NA,genus,0.34,14,8,,
+18,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,catoniae,species,0.27,29,9,,
+19,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,NA,genus,0.24,17,9,,
+20,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,catoniae,species,0.21,23,9,,
+21,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Parvimonas,NA,genus,0.19,8,5,,
+22,Cyanobacteria,NA,NA,NA,NA,NA,phylum,0.18,83,46,,Fall/Winter
+23,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,NA,genus,0.17,25,5,,
+24,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus,brevis,species,0.16,43,34,,Spring
+"February 2011 | Volume 6 |
+25",Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,shahii,species,0.15,1,1,,
+26,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,NA,genus,0.14,42,33,,Spring
+27,Actinobacteria,Actinobacteria,Actinomycetales,Propionibacteriaceae,Propionibacterium,NA,genus,0.13,90,43,,Fall/Winter
+28,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,NA,genus,0.12,80,31,,
+29,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,NA,NA,family,0.12,15,7,,
+"Issue 2 |
+30",Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Acidovorax,NA,genus,0.11,86,31,,

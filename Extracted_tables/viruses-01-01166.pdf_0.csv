@@ -1,0 +1,15 @@
+0,1,2,3,4,5
+"nucleotides 69 and 70, which is different from other Ark-like strains.",,,,,
+,,Table 1. Structural genome organization of Md27*.,,,
+,,,,Size,Size
+Gene,Frame,Start,Stop,,
+,,,,(nucleotides),(amino acids)
+S,+1,1,3507,3507,1168
+3a,+3,3507,3680,174,57
+3b,+2,3680,3874,195,64
+3c(E),+3,3855,4178,324,107
+M,+1,4156,4827,672,223
+5a,+3,5178,5375,198,65
+5b,+2,5372,5620,249,82
+N,+1,5563,6792,1230,409
+3’ UTR,,6793,7276,483,

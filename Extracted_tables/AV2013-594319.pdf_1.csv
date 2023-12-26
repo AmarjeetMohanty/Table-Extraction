@@ -1,0 +1,8 @@
+0,1,2,3,4,5
+Sector,Bait,Prey,Sector,Bait,Prey
+1,N1,N,7,N2,M
+2,N1,P,8,N2,G
+3,N1,M,9,N3,N
+4,N1,G,10,N3,P
+5,N2,N,11,N3,M
+6,N2,P,12,N3,G

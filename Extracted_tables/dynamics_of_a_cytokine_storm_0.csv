@@ -1,0 +1,38 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+,,,,,,,,,,,,,,,Cytokine Storm Dynamics,,,
+0,1,0,0,(cid:3) (cid:3) (cid:3),0,0,,,,,,,"X2
+,
+0",,,,,
+"a2,1","a2,2",0,0,(cid:3) (cid:3) (cid:3),0,0,,,,,,qii~1,"z2
+tkð","Þ,","i~1,9",,,ð17Þ
+,,,,,,,,,,,,,i,,,,,
+0,0,0,1,(cid:3) (cid:3) (cid:3),0,0,,,,,,,k~0,,,,,
+"2 666666666664
+0
+A~",0,"a4,1","a4,1",(cid:3) (cid:3) (cid:3),0,"3 777777777775
+0",¼D,AUC ; dim Að,"Þ~ 18|18
+ð",Þ,ð13Þ,,,,,,,
+,,,,,,,,,,,ð13Þ,,,,,,,
+(cid:3) (cid:3) (cid:3),(cid:3) (cid:3) (cid:3),(cid:3) (cid:3) (cid:3),(cid:3) (cid:3) (cid:3),(cid:3) (cid:3) (cid:3),(cid:3) (cid:3) (cid:3),(cid:3) (cid:3) (cid:3),,,,,,,,,,,,
+0,0,0,0,(cid:3) (cid:3) (cid:3),0,1,,,,,,,,,,,,
+0,0,0,0,(cid:3) (cid:3) (cid:3),"a18,17","a18,18",,,,,,,,,,,,
+,,,,,,,,,,,,,The approach is confirmed by applying the search algorithm to,,,,,
+,,,,,,,,,,,,"identify
+the
+uncoupled","eighteenth-order model, AUC. The",,,,,27-
+,,,,,,,,,,,,parameter minimization,reproduces,the,18,eigenvalues,and,9
+,,,,,,,,,,,,,initial rates of change of Table 1 to at,,least 3 significant digits.,,,
+"The corresponding state transition matrix, W Dt",,,,,,,ð,"Þ,","is,",,,,,,,,,
+,,,,,,,,,,,,Coupled Stability Matrix,,,,,,
+,,"w1,1",,"w1,2",(cid:3) (cid:3) (cid:3),"w1,18",,,,,,,"With cytokine coupling, each of the 72 off-diagonal",,,,(262) blocks,
+,,"2 6664
+w2,1",,"w2,2",(cid:3) (cid:3) (cid:3),"3 7775
+w2,18",,,,,,,of A contains a concentration sensitivity coefficient in its lower-left,,,,,
+"W Dt
+ð",Þ~eADt~,,,,,;,"dim W Dt
+½
+ð",Þ,"(cid:2)~ 18|18
+ð",Þ,ð14Þ,,,,,,,
+,,,,,,,,,,,ð14Þ,,,,,,,
+,,(cid:3) (cid:3) (cid:3),,(cid:3) (cid:3) (cid:3),(cid:3) (cid:3) (cid:3),(cid:3) (cid:3) (cid:3),,,,,,element:,,,,,,
+,,"w18,1",,"w18,2",(cid:3) (cid:3) (cid:3),"w18,18",,,,,,,,,,,,

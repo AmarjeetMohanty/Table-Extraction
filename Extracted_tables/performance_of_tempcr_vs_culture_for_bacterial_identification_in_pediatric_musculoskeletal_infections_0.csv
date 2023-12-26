@@ -1,0 +1,35 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13
+,,,,,,,Antibiotic Resistance,,,,Antibiotic Resistance Gene Detection,,
+,,Presample,,,,,(Culture-Based Method),,,,(TEM-PCR Method),,
+,,Antibiotic,,,Culture,,,,TEM-PCR,,,,
+,"Age, y",Exposure,Diagnosis,Specimen Type,Result,Methicillin,Clindamycin,Erythromycin,Result,Methicillin,Clindamycin,Erythromycin,PVL
+1,13,Yes,Septic arthritis +,Synovial tissue +,S. aureus,-,+,+,S. aureus,-,+,+,-
+,,,osteomyelitis,synovial fluid,,,,,,,,,
+2,7,Yes,Pyomyositis,Abscess swab,S. aureus,-,-,-,S. aureus,-,-,-,-
+3,4,Yes,Septic arthritis,Synovial fluid,No growth,,,,Negative,,,,
+4,9,Yes,Septic arthritis,Synovial fluid,S. aureus,+,-,-,S. aureus,+,-,-,+
+5,12,No,Osteomyelitis,Bone biopsy,S. aureus,+,-,+,S. aureus,+,-,-,+
+6,1,No,Septic arthritis,Synovial fluid,No growth,,,,Negative,,,,
+7,11,Yes,Septic arthritis,Synovial fluid,S. aureus,-,-,-,S. aureus,-,-,-,+
+8,8,No,Septic arthritis +,Synovial fluid,S. aureus,-,-,-,S. aureus,-,-,-,-
+,,,osteomyelitis,,,,,,,,,,
+9,4,Yes,Septic arthritis,Synovial fluid,S. aureus,-,-,-,S. aureus,-,-,-,-
+10,14,Yes,Osteomyelitis,Bone biopsy,S. aureus,-,-,+,S. aureus,-,-,-,-
+11,9,Yes,Septic arthritis +,Synovial fluid +,S. aureus,+,-,+,S. aureus,+,-,-,+
+,,,osteomyelitis,bone biopsy,,,,,,,,,
+12,12,No,Septic arthritis,Synovial fluid,S. aureus,-,-,-,S. aureus,-,-,-,+
+13,3,Yes,Osteomyelitis,Bone biopsy,S. aureus,-,+,+,S. aureus,-,+,+,-
+14,1,Yes,Osteomyelitis,Bone biopsy,S. aureus,-,-,+,S. aureus,-,-,-,+
+15,6,No,Septic arthritis,Synovial fluid,No growth,,,,Negative,,,,
+16,8,No,Septic arthritis,Synovial fluid,S. aureus,-,-,-,S. aureus,-,-,-,-
+17,14,Yes,Septic arthritis,Synovial fluid,S. aureus,-,-,-,S. aureus,-,-,-,-
+18,8mo,Yes,Septic arthritis +,Synovial fluid,No growth,,,,K. kingae,,,,
+,,,osteomyelitis,,,,,,,,,,
+19,1,Yes,Septic arthritis,Synovial fluid,No growtha,,,,K. kingae,,,,
+20,1,Yes,Osteomyelitis,Bone biopsy,No growthb,,,,S. aureus,-,-,-,+
+21,8,Yes,Osteomyelitis,Bone biopsy,S. aureus,+,-,+,S. aureus,+,-,-,-
+22,2,No,Osteomyelitis,Bone biopsy,S. aureus,+,-,+,S. aureus,+,-,-,+
+23,14,No,Septic arthritis,Synovial fluid,No growthc,,,,Negative,,,,
+24,10,No,Septic arthritis,Synovial fluid,No growthc,,,,Negative,,,,
+25,12,No,Septic arthritis,Synovial fluid,S. aureus,-,-,-,S. aureus,-,-,-,-
+,"Abbreviations: PVL, Panton-Valentine leucocidin; TEM-PCR, target-enriched multiplex polymerase chain reaction.",,,,,,,,,,,,

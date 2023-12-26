@@ -1,0 +1,38 @@
+0,1,2,3,4,5
+SARS PLpro disrupts STING-TRAF3-TBK1 complex,,,,,RESEARCH ARTICLE
+A,C,,,,
+Flag-STING,,Signal peptide,RYR,RIR,
+Flag-IKKε,,"1
+12","8473
+76","211
+571851531",973
+Flag-TBK1,,,,,
+,,N SP,"TM1
+TM2","TM3
+TM4","C
+CT"
+Flag-TRAF3,,,,,
+PLpro-TM,,,,,
+,,SP,"TM1
+TM2","TM3
+TM4",HA-STINGΔCT
+"-PLpro-TM
+IP: Flag  IB: V5",,,,,
+,,,"TM1
+TM2","TM3
+TM4","CT
+HA-STINGΔSP"
+"*
+IP: Flag  IB: Flag",,,,,
+,,,,,"CT
+HA-STINGΔNT"
+,,SP,,"TM3
+TM4","CT
+HA-STINGΔ1–2"
+WCL: Flag,,,,,
+,,SP,"TM1
+TM2",,"CT
+HA-STINGΔ3–4"
+WCL: V5,,,,,HA-STINGΔ1–4
+,,SP,,,CT
+1        2      3       4        5,,,,,

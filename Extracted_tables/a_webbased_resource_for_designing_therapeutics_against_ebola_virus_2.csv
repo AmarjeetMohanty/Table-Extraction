@@ -1,0 +1,13 @@
+0,1,2,3,4,5
+,,Number of siRNA suppressors in different,,,
+,,,ebolaviruses,,
+Genes (variants),SUDV,RESTV,EBOV,TAFV,BDBV
+NP,436,523,480,541,487
+VP35,226,232,183,218,224
+VP40,205,239,151,206,235
+GP (Spike),366,392,385,416,388
+sGP (Soluble GP),173,194,209,230,195
+ssGP (Small Secreted GP),–,–,145,184,157
+VP30,232,234,226,217,237
+VP24,195,164,198,194,163
+L,1859,1995,2021,1901,1869

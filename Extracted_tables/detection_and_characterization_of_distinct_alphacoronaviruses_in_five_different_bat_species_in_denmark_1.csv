@@ -1,0 +1,20 @@
+0,1,2,3
+"fourth sample, collected at a different location, tested negative.",,,
+,Table 2. Coronavirus prevalence in the samples from different bat species in Denmark.,,
+,Total No. Sampled,Observed Coronavirus,95% Conﬁdence Interval of
+Bat Species,,,
+,(No. Positive),Prevalence in Samples,Sample Mean
+M. daubentonii,187 (43),23%,[0.17; 0.29]
+M. dasycneme,19 (5),26%,[0.07; 0.46]
+M. nattereri,11 (1),9%,[0.00; 0.26]
+M. bechsteinii,11 (0),0%,NA 1
+M. mystacinus,2 (0),0%,NA
+M. brandtii,3 (0),0%,NA
+N. noctula,4 (0),0%,NA
+"P
+. pygmaeus",28 (6),21%,[0.06; 0.37]
+"P
+. auritus",2 (0),0%,NA
+E. serotinus,4 (3),75%,[0.33; 1.00]
+Total (all species),271 (58),21%,[0.17; 0.26]
+,,1 NA: not applicable.,

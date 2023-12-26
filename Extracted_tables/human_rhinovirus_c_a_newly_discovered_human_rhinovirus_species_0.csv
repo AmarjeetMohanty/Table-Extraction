@@ -1,0 +1,54 @@
+0,1,2,3,4,5,6,7,8,9
+Table 1,Published reports on detection of HRV-C from clinical samples,,,,,,,,
+References,Country/region,Age range of study,Clinical,Method of detection,Target(s) for,Type of sample,No. of tested,No. (%) of,Designated virus
+,,population (median),syndromes,,species,,samples,samples positive,strain/clade
+,,,,,classification,,,for HRV-C,name
+Arden et al.21,Australia,1 day to 80.3 years,Acute RTI,RT–PCR,VP4/VP2,92.4% NPA,315,9 (2.9),HRV-A2
+,,(1.2 years),,,,,,,
+Lamson et al.22,USA,4 months to,Influenza-like,MassTag PCR,VP4,"Oropharyngeal,",151,8 (5.3),HRV-NY
+,,98 years (25 years),illness,,,"NP, nasal swabs",,,
+McErlean et al.23,Australia,1 day to 80 years,Acute RTI,Real-time,"VP4, VP2, VP1",92% NPA,1244,17 (1.4),HRV-QPM
+,,(1.3 years),,RT-PCR,,,,,
+Lau et al.24,Hong Kong,o18 years,Acute RTI,RT–PCR,VP4,NPA,203,21 (10.3),HRV-C
+Kistler et al.25,USA,Adults,RTI7asthma,Virochip,VP4/VP2,"Nasal
+lavage",82,5 (6.1),HRV ‘X’
+,,,,microarray,,,,,
+Renwick et al.27,Germany,14 days to 5 years,Acute RTI,MassTag PCR,VP4/VP2,NPA,97,30 (30.9),HRV X
+,,(10 months),,,,,,,
+Lee et al.28,USA,p1 year,Frequent,Respiratory,50-NCR,"Nasal
+lavage",181,9 (5.0),HRVC
+,,,respiratory,Multicode,,,,,
+,,,illnesses,Assay,,,,,
+Briese et al.29,"South Africa,",0.4 months to,Acute RTI,MassTag PCR,VP4/VP2,Respiratory,326,23 (7.1),Novel
+,"Coˆte d’lvoire,",56 years,,,,specimens,,,genotype
+,"Nepal,
+India,",,,,,,,,
+,"Australia, Denmark,",,,,,,,,
+,Spain,,,,,,,,
+Dominguez et al.30,USA,Mean 40.1733.4,Respiratory,MassTag PCR,VP4/VP2,NP washes,44,9 (20.5),HRV-CO
+,,months,symptoms,,,,,,
+Savolainen-Kopra,Finland,o2 years,Acute otitis,RT–PCR,VP4/VP2,"NPA, middle",92 in 38 AOM,16 (17.4),HRV-C PNC
+et al.31,,,media,,,ear fluid,events,,
+Kiang et al.32,USA,Pediatric and adult,Acute RTI,RT–PCR,50-NCR,"NPS, NPA, ETA,",24 positive,5 (20.8),Genogroup C
+,,patients,,,,"BAL, Pleural",for HRV,,
+,,,,,,fluid,,,
+Xiang et al.33,China,1 month to 15 years,LRTI,RT–PCR,VP4/VP2,NPA,258,14 (5.4),HRV-C BCH
+,,(10 months),,,,,,,
+Miller et al.34,USA,o5 years,Acute RTI,RT–PCR,VP4/VP2,Nasal/throat,1052,77 (7.3),HRVC
+,,,or fever,,,swab,,,
+Khetsuriani et al.35,USA,X2 years,Asthma,Seminested,VP1,NPS,142 (65 cases+77,8 (5.6),Genogroup C
+,,,,RT-PCR,,,controls),,
+Tapparel et al.36,Switzerland,14 months,LRTI with,Real-time,VP1,"Plasma, BAL,",NA,NA,HRV-C
+(case report),,,pericarditis,RT-PCR,,pericardial,,,
+,,,,,,"effusion, stool",,,
+Han et al.37,South Korea,1 month to 158,LRTI,RT–PCR,50-NCR,NPA,470,17 (3.6),HRV-C KR
+,,months (14 months),,,,,,,
+Piralla et al.38,Italy,Pediatric and adult,Acute RTI,Real-time,"50-NCR,",NPA,301,28 (9.3),HRV-C PV
+,,patients,,RT-PCR,VP4/VP2,,,,
+Linsuwanon et al.39,Thailand,Pediatric patients,Acute RTI,RT–PCR,VP4/2,NPA,289,50 (17.3),HRV-C
+Lau et al.40,Hong Kong,Pediatric and adult,Acute RTI,RT–PCR,VP4,NPA,1200,91 (7.6),HRV-C
+,,patients,,,,,,,
+Huang et al.41,Shanghai,Pediatric patients,LRTI,RT–PCR,"50-NCR, VP4/VP2",NPS,827,34 (4.1),HRV-C
+,"Abbreviations: HRV-C, human rhinovirus C; RTI,",respiratory tract,"infections; LRTI,","lower
+respiratory tract","infections; NA, not applicable; NPA, nasopharyngeal aspirate; NPS, nasopharyngeal swab, ETA,",,,,
+,"endotracheal aspirate; BAL, bronchoalveolar",,"lavage; RT–PCR, reverse transcription–PCR.",,,,,,

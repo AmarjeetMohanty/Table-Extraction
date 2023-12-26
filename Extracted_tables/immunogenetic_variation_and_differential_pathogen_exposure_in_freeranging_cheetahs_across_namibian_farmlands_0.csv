@@ -1,0 +1,24 @@
+0,1,2,3,4,5,6
+,,,,,,MHC and Pathogen Exposure in Cheetahs
+Table 1. MHC class I exon 2 and class II-DRB exon 2 genotypes detected in Namibian cheetahs.,,,,,,
+,Locus A,Locus B,,Locus D,,
+MHC I,,,,,,"No.
+Indiv."
+,AJUMHCAJUI3,Acju-MHCI*041,Acju-MHCI*02,Acju-MHC*05,Acju-MHC*07,
+I,X,X,X,X,,28 (32%)
+II,X,X,X,X,X,2 (2%)
+III,X,,X,X,,14 (16%)
+IV,X,,X,X,X,10 (11%)
+V,X,X,,X,,28 (32%)
+VI,X,X,,X,X,4 (5%)
+VII,X,X,,,X,2 (2%)
+,Locus A,Locus B,,Locus C,,
+MHC II,,,,,,
+,AcjuFLA-DRB1*ha17,AcjuFLA-DRB1*ha16,,AcjuFLA-DRB1*ha14,AcjuFLA-DRB1*ha15,
+I,X,X,,X,,17 (19%)
+II,X,X,,X,X,50 (57%)
+III,X,X,,,X,21 (24%)
+X indicates presence of a given allele; 1 refers to either allele Acju-MHCI*04 or AJUMHCAJUI1. Genbank accession numbers for each allele are given in parenthesis as,,,,,,
+,"follows: AJUMHCAJUI3 (U07666), Acju-MHCI*02 (GU971407), Acju-MHCI*041 (GU971408 or U07665), Acju-MHCI*05 (GU971409), Acju-MHCI*07 (GU971411), AcjuFLA-",,,,,
+,"DRB1*ha14 (AY312960), AcjuFLA-DRB1*ha15 (AY312961), AcjuFLA-DRB1*ha16 (AY312962), and AcjuFLA-DRB1*ha17 (AY312963).",,,,,
+doi:10.1371/journal.pone.0049129.t001,,,,,,

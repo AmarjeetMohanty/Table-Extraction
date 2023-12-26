@@ -1,0 +1,51 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+,,Table 3. Cont.,,,,,,,,,
+Gene,,,,,,,,,,,
+,Putative Product Identity,Start,Stop,,+/−,Size,,,% Id.,to EPTV,Orthologs
+Name,,,,,,,,,,,
+,,,,,−,,,,,,
+HYPV-140,Hypothetical protein,"140,538","140,954",,,417,,,,70.5,EPTV-154
+,,,,,+,,,,,,
+HYPV-141,BTB kelch-domain protein,"141,056","142,690",,,1635,,,,76.8,EPTV-155
+,,,,,+,,,,,,
+HYPV-142,Hemagglutinin,"142,737","143,477",,,741,,,,70.2,EPTV-156
+,,,,,+,,,,,,
+HYPV-143,Ser|Thr protein kinase,"143,532","144,467",,,936,,,,91.0,EPTV-157
+,,,,,+,,,,,,
+HYPV-144,IL-1 receptor antagonist,"144,505","145,470",,,966,,,,71.5,EPTV-158
+,,,,,+,,,,,,
+HYPV-145,"RING ﬁnger protein, host range","145,503","146,378",,,876,,,,68.4,EPTV-159
+,,,,,+,,,,,,
+HYPV-146,Partial schlafen-like protein,"146,424","147,011",,,588,,,,81.1,EPTV-160
+,,,,,+,,,,,,
+HYPV-147,EEV type-1 membrane glycoprotein,"147,108","147,815",,,708,,,,75.3,EPTV-161
+,,,,,+,,,,,,
+HYPV-148,Anti-apoptotic Bcl-2-like protein,"147,851","148,294",,,444,,,,73.5,EPTV-162
+,,,,,+,,,,,,
+HYPV-149,Serpin 1,"149,551","150,555",,,1005,,,,76.9,EPTV-164
+,,,,,+,,,,,,
+HYPV-150,Hypothetical protein,"150,662","151,132",,,471,,,,69.4,EPTV-165
+,,,,,+,,,,,,
+HYPV-151,Tyrosine protein kinase-like protein,"151,173","152,036",,,864,,,,77.7,EPTV-166
+,,,,,+,,,,,,
+HYPV-152,IL-1 beta-receptor,"152,065","153,093",,,1029,,,,71.9,EPTV-167
+,,,,,+,,,,,,
+HYPV-153,Ankyrin repeat protein,"153,125","155,104",,,1980,,,,68.2,EPTV-168
+,,,,,+,,,,,,
+HYPV-154,Ankyrin repeat protein,"157,276","157,827",,,552,,,,60.6,EPTV-169
+,,,,,+,,,,,,
+HYPV-155,Alpha-amanitin target protein,"158,306","159,013",,,708,,,,82.3,EPTV-170
+,,,,,+,,,,,,
+HYPV-156,NFkB inhibitor,"159,072","159,752",,,681,,,,81.1,EPTV-171
+,,,,,+,,,,,,
+HYPV-157,Endothelin precursor,"159,796","160,020",,,225,,,,64.9,EPTV-172
+,,,,,+,,,,,,
+HYPV-158,NFkB inhibitor,"160,059","160,712",,,654,,,,65.0,EPTV-173
+,,,,,+,,,,,,
+HYPV-159,Secreted complement binding protein C3b|C4b,"160,747","161,529",,,783,,,,74.6,EPTV-174
+,,,,,+,,,,,,
+HYPV-160,IL-18 binding protein,"162,096","162,521",,,426,,,,83.2,EPTV-175
+,,,,,+,,,,,,
+HYPV-161,Ankyrin repeat protein,"164,706","166,571",,,1866,,,,60.3,EPTV-179
+,,,,(cid:48),(cid:48),,(cid:48),(cid:48),,,
+,,+/−: direction of open reading frame (ORF) (“+” (5,,–3,,) or “−” (3,,–5,)).,,

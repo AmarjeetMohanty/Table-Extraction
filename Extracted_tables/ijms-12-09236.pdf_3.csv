@@ -1,0 +1,22 @@
+0,1,2,3,4
+"compounds to verify the quality of Hypo1. In this validation process, a confidence level of 95% was",,,,
+selected and thus 19 spreadsheets (Table 4) were generated.,,,,
+,Table 4. Results of cross-validation by Fischer randomization using DS.,,,
+Trial No.,Total cost,Fixed cost,RMSD,Correlation (r)
+Hypo1,89.663,75.791,1.176,0.942
+Results after randomization,,,,
+1,114.486,77.911,1.821,0.858
+2,108.259,72.031,1.796,0.863
+3,98.26,74.85,1.529,0.9
+4,113.25,77.605,1.851,0.851
+5,112.27,77.909,1.729,0.874
+6,108.84,75.77,1.749,0.869
+7,141.304,78.861,2.463,0.717
+8,109.86,72,1.857,0.852
+9,112.265,77.915,1.849,0.851
+10,113.941,77.584,1.774,0.867
+11,101.143,72.068,1.593,0.894
+12,116.666,74.077,1.959,0.834
+13,114.356,69.48,1.97,0.834
+14,98.277,77.638,1.433,0.913
+15,108.878,72.047,1.753,0.872

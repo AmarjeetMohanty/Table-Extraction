@@ -1,0 +1,31 @@
+0,1,2,3,4
+,Table 1. Alterations detected in the K22 resistant variants of HCoV-229E.,,,
+,Alterationa,,,
+Viral variant,Nucleotide,Amino acid (protein),K22 sensitivity,GenBank accession no.
+Initialb,None,None,0.7c,KF293664
+K22 passage 10,a10455t,H121L (Nsp6),9.8 (14)d,KF293666
+,c19463t,"T281I
+(Nsp15)",,
+,c26667t,P328S (Nucleocapsid),,
+A,a10455t,H121L (Nsp6),8.2 (12),KF285470
+B,a10455t,H121L (Nsp6),8.2 (12),KF285471
+D,a10455t,H121L (Nsp6),7.6 (11),KF285472
+G,a10455t,H121L (Nsp6),6.9 (10),KF285473
+K,c19463t,"T281I
+(Nsp15)",1.6 (2),KF285481
+,c26667t,P328S (Nucleocapsid),,KF293662
+L,c19463t,"T281I
+(Nsp15)",2.2 (3),KF285482
+,c26667t,P328S (Nucleocapsid),,KF293663
+K22 passage 13 - Me,a10568g,M159V (Nsp6),6.7 (10),KF285474
+,a23130c,N854T (Spike),,KF285480
+N,a10568g,M159V (Nsp6),7.1 (10),KF285475
+O,a10568g,M159V (Nsp6),7.7 (11),KF285476
+P,a10568g,M159V (Nsp6),8.5 (12),KF285477
+Q,a10568g,M159V (Nsp6),7.7 (11),KF285478
+R,a10568g,M159V (Nsp6),6.8 (10),KF285479
+HCoV-229Ef,,,0.6,
+gHCoV-229EH121L,a10455t,H121L (Nsp6),7.2 (12),
+gHCoV-229EM159V,a10568g,M159V (Nsp6),6.3 (11),
+gHCoV229EH121L/M159V,a10455t,H121L (Nsp6),8.2 (14),
+,a10568g,M159V (Nsp6),,

@@ -1,0 +1,20 @@
+0,1,2,3,4,5,6,7,8
+Overlapping regions of predicted B cell BepiPred linear,,Overlapping regions of Sequence-based B cell linear epitope prediction,,,,,Overlapping regions of Structure-based,
+Epitope and epitopes predicted by other protein,,,,,,,B cell linear epitope prediction,
+sequence and Structure-based methods,Chou & fasman,Emini surface,Karplus & schulz,Kolaskar & Tongaonkar,Parker hydrophilicity,Disco Tope: discontinous,,ElliPro
+,Beta-turn,accessibility,flexibility,,,,,
+,,,,anitgenicity,,epitopes,,
+,,,,,,,Linear,Discontinous
+ORF1a–4rsp,95–113,95–113,95–113,"95–100, 103–113","95–105, 107–113",,95–105,95–103
+ORF1a–4rsp,224–231,224–231,224–231,225–231,224–231,,224–231,224–231
+ORF1a–4p16,77–84,77–83,77–84,77–84,77–84,,,
+ORF1ab–4wur,,,,,,,,
+ORF1ab–5wwp,,364–370,364–370,,364–370,,,
+ORF3,49–54,49–54,46–54,46–54,46–54,,46–47,46–48
+ORF4b,61–64,61–64,61–64,61–63,61–64,61–64,61–64,62–64
+ORF4b,82–92,82–92,82–92,82–92,82–92,,83–86,83–85
+ORF5,36–39,36–38,,36–39,36–39,,,
+ORF5,18–26,18–26,18–26,18–21,20–26,,,
+Spike,122–140,122–140,122–140,122–140,122–140,,122–140,122–140
+Spike,1091–1094,,1091–1094,1091–1094,1091–1094,1091–1094,,
+Spike,153–161,153–161,153–161,153–161,153–161,,,

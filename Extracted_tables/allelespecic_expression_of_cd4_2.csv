@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6
+"72
+× 63 N_2",,"561,954","184,962",,"73,707",
+,,,Table 3. Number of ASE SNPs.,,,
+,,SNPs for,,No. of ASE SNPs,,No. of ASE
+Group,,,,,,
+,,Chi-Square Test,,(False Discovery Rate (FDR) < 0.05),,Genes
+"63
+× 72 I vs 63",× 72 N,"15,105",,61,,39
+"72
+× 63 I vs 72",× 63 N,"22,067",,123,,132
+"63
+× 72 I vs 72",× 63 I,"18,229",,62,,66
+"63
+× 72 N vs 72",× 63 N,"20,310",,79,,96

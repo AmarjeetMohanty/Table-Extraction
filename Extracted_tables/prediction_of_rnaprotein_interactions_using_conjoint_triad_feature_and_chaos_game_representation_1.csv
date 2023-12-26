@@ -1,0 +1,43 @@
+0,1,2,3,4,5,6,7
+"248
+H. WANG AND P. WU",,,,,,,
+,"four
+vertexes",representing,,"A,","C,","G,",U
+,(Figure 5).,,,,,,
+,,"Mathematically, the coordinates of four vertexes",,,,,
+,,"are denoted as V1ð0; 0Þ,V2ð1; 0Þ,V3ð1; 1Þ,V4ð0; 1Þ,",,,,,
+,and the,coordinates of,successively-drawn points,,,,
+Figure 4. CTF picture of RNA.,,,,,,,
+,can be given by:,,,,,,
+,(cid:1),,,,,,
+,CGRiðxÞ ¼ 1,ðCGRi(cid:3)1ðxÞ þ ViðxÞÞ,,,,,
+,2,,;,,,,
+,,,,,i ¼ 1; 2; 3; (cid:2) (cid:2) (cid:2) N:,,
+,CGRiðyÞ ¼ 1,ðCGRi(cid:3)1ðyÞ þ ViðyÞÞ,,,,,
+"Similar
+to the
+algorithm of protein, CTF of
+a",2,,,,,,
+"RNA chain considers all
+the successive four bases",,,,,,,
+,"Finally, we divide",the whole,square,,,into 16 seg-,
+"in a given RNA sequence and counts
+the occur-",,,,,,,
+,,"ments, as is shown in Figure 5, and then CGR-16",,,,,
+rence frequencies of all 4 × 4 × 4 × 4 = 256 4-mer,,,,,,,
+,counts,the occurrence,frequencies of,,,all 16 seg-,
+"types
+(Figure
+4). Mathematically, we
+denote
+a",,,,,,,
+,,"ments. More precisely, all 16 segments are denoted",,,,,
+RNA sequence ω with N bases as,,,,,,,
+,"k ¼ 1; 2; (cid:2) (cid:2) (cid:2)
+by Sk;","; 16,",and also,,denote Lk; k ¼,,
+,1; 2; (cid:2) (cid:2) (cid:2),; 16 to be the number of points,,,,that,fall
+"(1)
+ω ¼ R1R2R3 (cid:2) (cid:2) (cid:2) RN:",,,,,,,
+,into Sk. Then set,,,,,,
+"Then, we consider all the successive four bases in ω,",,,,,,,
+,,Lk,,,,,

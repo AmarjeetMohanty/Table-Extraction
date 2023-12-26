@@ -1,0 +1,32 @@
+0,1,2,3,4,5
+,,,,,Alphavirus Mutators Are Attenuated In Vivo
+,Table 1. Characterization of CHIKV 483 polymerase variants.,,,,
+Mutation,Genetic Stability,Hydrophobicitya,Plaque Sizeb,Ribavirin Sensitivityc,Mutation Frequencyd
+Cys (WT),Stable,0.04,1.686,N/A,4.3
+C483I,Stable,0.73,2.038,WT,ND
+C483F,Stable,0.61,2.319,WT,ND
+C483V,Stable,0.61,1.348,WT,ND
+C483L,Stable,0.53,0.387*,WT,ND
+C483W,Stable,0.37,1.072*,Sensitive,6.4**
+C483M,Stable,0.26,2.032,Resistant,4.9
+C483A,Stable,0.25,0.785*,Sensitive,6.0*
+C483G,Stable,0.16,0.513*,Sensitive,8.3***
+C483Y,Stable,0.02,2.083,Resistant,4.1
+C483P,"Not
+recovered",20.07,ND,ND,ND
+C483T,Stable,20.18,0.532*,Sensitive,5.0
+C483H,Reverted to Y,20.4,ND,ND,ND
+C483E,Reverted to V,20.62,ND,ND,ND
+C483N,Stable,20.64,0.771*,Resistant,3.8
+C483Q,Stable,20.69,0.169*,Sensitive,4.6
+C483D,Reverted to Y,20.72,ND,ND,ND
+C483K,Reverted to T,21.1,ND,ND,ND
+C483R,Reverted to L,21.8,ND,ND,ND
+C483S,"Not
+recovered",20.26,ND,ND,ND
+,"aHydrophobicities from Eisenberg et al., 1982 [94].",,,,
+bUnit of measurement,"is mm2, * P-value,0.01, Student’s t-test.",,,,
+cDetermined in HeLa cells;,,resistance or sensitivity is noted where percent survival,is significantly different,from WT at either concentration tested.,
+,"dper 10,000 nucleotides, *P,0.05, **P,0.01, ***P,0.001, x2 test.",,,,
+"ND, not determined.",,,,,
+doi:10.1371/journal.ppat.1003877.t001,,,,,

@@ -1,0 +1,32 @@
+0,1,2
+,Table 2. Maturation time (t1/2) of selected ﬂuorescent protein variants.,
+Fluorescent Protein,t1/2 (min),References
+Blue,,
+mTagBFP2,12,[116]
+Cyan,,
+SCFP3A,82,[117]
+,a,
+"mCerulean3, mTurquoise2",,[118]
+Green,,
+wild-type Aequorea GFP,37–83 b,"[119,120]"
+"EGFP, mEGFP",10–65 b,"[120,121]"
+Emerald,8,[120]
+mNeonGreen,<10,[122]
+TagGFP2,18,[123]
+Yellow,,
+"Venus, mVenus",28–72 b,"[117,120]"
+SYFP2,55,[117]
+Orange,,
+mKO2,108,[124]
+mOrange2,270,[125]
+Red,,
+DsRed,~600,[9]
+mRFP1,<60,"[9,125]"
+mCherry,15–40 b,"[9,125,126]"
+mStrawberry,50,
+TagRFP-T,100,[125]
+FusionRed,130,[127]
+Far-Red,,
+mKate2,<20,[126]
+mNeptune,35,[128]
+a similar kinetics as SCFP3A in vivo; b different values are reported in the literature based on different methods.,,

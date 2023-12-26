@@ -1,0 +1,19 @@
+0,1,2,3
+18,,,Interdisciplinary Perspectives on Infectious Diseases
+,Table 1: Common notation.,,
+Concept/Measure,Other common names,Our notation,Other common notation
+Network,Graph,G,
+Node,"Vertex, point, site, actor",n,v
+Edge,"Link, tie, bond",l,e
+Adjacency matrix,Connectivity matrix,Gi j,"ai j, Ai j"
+Number of nodes,Size of network,N,"n, S"
+Number of edges,Graph size,L,"e, l"
+Centrality,,C,
+Degree,Connectivity,k,"d, Cd"
+Betweenness,,Bi,"beti, Cb"
+Degree distribution,Connectivity distribution,P(k),"Pk,pk"
+Shortest path distance,Geodesic distance,"Di, j","di, j"
+Clustering,transitivity,φ,"c, Φ"
+Number of nodes of type A,,[A],"nA, NA"
+Number of A − B pairs,,[AB],"nAB, NAB"
+Diameter,Maximal shortest path,Diam(G),"max(Di, j)"

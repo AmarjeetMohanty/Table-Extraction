@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6,7,8
+Table 4.,Characteristics of,,the 70 false ELISA-negative samples,,,,(FIV WB-positive and FIV-TM,
+ELISA-negative).,,,,,,,,
+,,,Year of,Origin of,,,,
+Sample,Age of Cat,Sex of,,,SNAPTM,WITNESSR,ELISA,
+,,,Sample,Sample,,,,RT-PCR
+ID,(Years),Cat,,,POCT,POCT,(% of pc),
+,,,Collection,(Country),,,,
+1343,unk,unk,1999,CH,neg,neg,1.5,neg
+1359,1,m,1999,CH,neg,neg,1.7,neg
+1537,4,mc,2002,DE,neg,neg,0.0,neg
+1554,8,fs,2003,CH,neg,neg,3.1,neg
+1574,7,mc,2003,CH,neg,neg,1.3,neg
+1599,5,f,2004,DE,neg,neg,0.0,neg

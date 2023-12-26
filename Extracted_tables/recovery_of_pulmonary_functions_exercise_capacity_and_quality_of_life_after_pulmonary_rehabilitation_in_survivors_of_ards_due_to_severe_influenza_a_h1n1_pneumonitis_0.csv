@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7,8
+TA B L E   1  Demographic data of survivors with ARDS due to severe influenza A (H1N1) pneumonitis,,,,,,,,
+,,Age,BMI,ECMO,MV days,ICU days,Hospital days,
+,,(mean ± SD),(Kg/M2),days,(mean ± SD),(mean ± SD),(mean ± SD),
+Cases,Gender,45.11 ± 5.48,23.62 ± 4.76,,14.88 ± 2.38,16.89 ± 2.51,33.56 ± 4.23,Comorbidities
+1,Male,29,22.49,11,23,24,32,None
+,,,,,*,,,
+2,Male,28,28.73,-,,6,16,None
+3,Male,47,20.07,-,9,19,37,None
+4,Male,35,21.47,-,8,9,14,None
+5,Male,40,28.09,-,13,14,29,None
+6,Male,54,24.21,-,11,12,34,Hypertension
+7,Male,37,31.16,12,27,29,43,None
+8,Male,80,18.29,-,13,23,45,Hypertension
+9,Male,56,18.07,-,15,16,52,Diabetes mellitus
+,"*High flow oxygen mask, FiO2 = 80%.",,,,,,,

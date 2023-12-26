@@ -1,0 +1,19 @@
+0,1,2
+,Align sequence reads against,
+,"the 80F de novo assembled,",
+Input raw data FASTQ files,,
+,corrected target genome using,
+,Bowtie2,
+Trinity de novo assembly into,,Use IGV viewer to extract
+components,,consensus sequence from
+,,the mapped reads. Correct
+,,the consensus genome
+,,sequence
+Assemble Trinity components in,80F and 27C,
+MacVector assembly project,,
+into single genome,,
+,,"65F, 67F, 26M, 28O"
+Align sequence reads against,,
+the de novo-assembled target,Display target genome and,
+genome using Bowtie2,aligned reads in IGV and correct,
+,the target genome sequence.,

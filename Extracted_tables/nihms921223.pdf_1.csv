@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+,,,,,,,,Table 2,,,
+,,"Sporadic Middle East Respiratory Syndrome (MERS) Coronavirus Cases Reported in Saudi Arabia During February, 2015",,,,,,,,,
+,Patient,Interview,Clade (GenBanka),Region,"Age, y",Sex,Saudi Nationality,Survived,Underlying Illness,Ever Smoker,Occupation
+,1,Proxy,NRC-2015G (KT806053),Riyadh,56,F,Yes,No,Yes,Unknown,Unemployed
+,2,Self,NRC-2015G (KT806052),Riyadh,26,M,Yes,Yes,Yes,Yes,Security
+,3,Proxy,NRC-2015G (KT806048),Eastern,49,M,Yes,No,Yes,Yes,Sales
+J,,,,,,,,,,,
+,4,Proxy,NRC-2015G (KT806044),Jeddah,73,F,No,No,Yes,No,Unemployed
+,5,Proxy,NS,Madinah,70,M,Yes,No,Yes,No,Retired
+,6,Proxy,NS,Riyadh,79,M,Yes,No,Yes,Yes,Unemployed
+,7,Proxy,NRC-2015S (KT806050),Riyadh,49,F,Yes,Yes,Yes,No,Unemployed
+,8,Proxy,NRC-2015G (KT806054),Najran,47,M,No,No,Yes,No,Blacksmith
+,9,Proxy,NS,Eastern,41,M,Yes,Yes,No,No,Unemployed
+,10,Proxy,OtherS (KT805966),Riyadh,51,M,Yes,No,Yes,Yes,Retired
+Infect Dis. Author manuscript; available in PMC 2017 December 03.,11,proxy,NRC-2015G (KT806045),Jeddah,65,F,No,No,Yes,No,Unemployed
+,12,Proxy,NS,Qasim,45,M,No,No,Yes,No,Joiner/blacksmith
+,13b,Self,NRC-2015S (KT806002),Qasim,42,M,No,Yes,No,Yes,Driver

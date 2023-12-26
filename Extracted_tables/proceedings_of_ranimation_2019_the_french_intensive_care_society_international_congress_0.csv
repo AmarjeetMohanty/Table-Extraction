@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6,7,8
+,Organism,Correct identification,,False positive,Sensitivity,Specificity,Positive,Negative
+,,"(Unyvero 
+ / Culture",),"(Unyvero 
+ /",(%),(%),predictive,predictive
+,,+,+,+,,,,
+,,,,"Culture 
+)",,,value (%),value (%)
+,,,,−,,,,
+Gram‑positive,Staphylococcus aureus,4/7,,0,57,100,100,96
+bacteria,,,,,,,,
+,Streptococcus pneumoniae,0/2,,0,0,100,‑,97
+Enterobacte‑,Escherichia coli,13/13,,1,100,98,93,100
+riaceae,,,,,,,,
+,Enterobacter cloacae,4/7,,2,57,97,67,95
+,complex,,,,,,,
+,Proteus spp.,5/5,,0,100,100,100,100
+,Klebsiella pneumonia,8/12,,0,67,100,100,94
+,Klebsiella oxytoca,2/2,,2,100,97,50,100
+,Serratia marcescens,3/3,,0,100,100,100,100
+,Morganella morganii,1/3,,0,33,100,100,97
+Non‑fermenting,Pseudomonas aeruginosa,22/22,,1,100,98,96,100
+bacteria,,,,,,,,
+,Actinetobacter baumanii,2/2,,0,100,100,100,100
+,complex,,,,,,,
+,Strenotrophomonas,0/0,,2,‑,97,0,100
+,maltophilia,,,,,,,
+Others,Legionella pneumophila,1/1,,0,100,100,100,100
+,Haemophilus influenzae,1/2,,0,50,100,100,99
+Total*,,69/84,,9,82,99,88,99
+*Total including all organisms in the panel,,,,,,,,

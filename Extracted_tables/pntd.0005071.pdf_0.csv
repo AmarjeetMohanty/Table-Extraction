@@ -1,0 +1,12 @@
+0,1,2,3,4,5,6,7,8,9
+Table 1. Dengue specific monoclonal antibodies.,,,,,,,,,
+Mab,M/H,Binding,Neutralization (W/M/S),Binding region,,Binding DENV serotypes,,,Ref
+,,,,,DV1,DV2,DV3,DV4,
+4G2,M,F-CR,W.,DII FL,++,++,+++,+++,[35]
+3H5,M,DV2,S/DV2,DIII LR,-,+++,-,-,[36]
+DV2-46,M,DV2,M/DV2,DI and DII,-,++,-,-,[37]
+DVC-3.7,H,DV2,S/DV2,DIII LR,-,++,-,-,[38]
+1M7,H,D-CR,M.,DII,+++,++,+++,+++,[39]
+DVC-10.16,H,D-C,S.,DIII AS,+,+++,+,+,[38]
+2D22,H,DV2,S/DV2,DI/DII Q,-,++,-,-,[40]
+8A1,M,DV3,S/DV3,DIII LR,-,-,+++,-,[41]

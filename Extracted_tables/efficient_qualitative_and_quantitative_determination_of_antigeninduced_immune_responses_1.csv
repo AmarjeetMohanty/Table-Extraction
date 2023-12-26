@@ -1,0 +1,19 @@
+0,1,2,3,4,5,6,7,8,9
+TABLE 4,,,,,,,,,
+Evaluation of cross-species binding affinity and epitope mapping of serum antibodies from mice of A/J strain immunized with human BAFF,,,,,,,,,
+NM means not measured.,,,,,,,,,
+,,Apparent KD,% human,Apparent KD to,% cyno,Epitope,Epitope,Epitope,Epitope
+Mouse ID,Vaccine,to hu BAFF,BAFF-specific IgG,cyno-BAFF,BAFF-specific IgG,(17–38),(68 –90),(128 –136),(137–145)
+,,pM,,pM,,,,,
+P5801-01,Particle vaccine A,38,23%,117,25%,(cid:5),(cid:7),(cid:7),(cid:7)
+P5801-02,Particle vaccine A,23,31%,53,36%,(cid:5),(cid:7),(cid:7),(cid:7)
+P5804-01,Particle vaccine A,53,12%,263,11%,(cid:7),(cid:7),(cid:7),(cid:7)
+P5804-02,Particle vaccine A,66,8%,345,6%,(cid:7),(cid:7),(cid:7),(cid:7)
+P5811-01,Particle vaccine B,13,18%,26,19%,(cid:5),(cid:7),(cid:7),(cid:7)
+P5811-02,Particle vaccine B,39,24%,90,27%,(cid:7),(cid:7),(cid:7),(cid:7)
+P5814-01,Particle vaccine B,Insignificant binding,3%,Insignificant binding,3%,NM,NM,NM,NM
+P5814-02,Particle vaccine B,(cid:4)20,10%,68,11%,(cid:7),(cid:7),(cid:7),(cid:7)
+P5821-01,Particle vaccine C,(cid:4)20,20%,(cid:4)20,23%,(cid:5),(cid:5),(cid:5),-
+P5821-02,Particle vaccine C,(cid:4)20,18%,(cid:4)20,20%,(cid:5),(cid:7),(cid:7),(cid:7)
+P5824-01,Particle vaccine C,(cid:4)20,6%,(cid:4)20,6%,(cid:7),(cid:7),(cid:7),(cid:7)
+P5824-02,Particle vaccine C,(cid:4)20,8%,(cid:4)20,9%,(cid:7),(cid:7),(cid:7),(cid:7)

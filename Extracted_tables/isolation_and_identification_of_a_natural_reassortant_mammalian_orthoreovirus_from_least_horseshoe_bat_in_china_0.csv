@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6
+,,,,,Natural Reassortant Bat Mammalian Orthoreovirus in China,
+Table 2. Lengths of the coding and untranslated regions of each of the 10 genomic segments of RpMRV-YN2012.,,,,,,
+,,,,50UTR,,30UTR
+Segment,Length (bp),Protein (aa),Length (bp),Terminal sequence,Length (bp),Terminal sequence
+L1,3854,1267,18,50-GCUAC—,32,-CUCAUC-30
+L2,3915,1289,12,50-GCUAU—,33,-UUCAUC-30
+L3,3900,1275,13,50-GCUAA—,59,-UUCAUC-30
+M1,2304,736,13,50-GCUAU—,80,-UUCAUC-30
+M2,2203,708,29,50-GCUAA—,47,-AUCAUC-30
+M3,2240,721,18,50-GCUAA—,56,-CUCAUC-30
+S1,1437,455,13,50-GCUAU—,57,-UUCAUC-30
+S2,1331,418,18,50-GCUAU—,56,-UUCAUC-30
+S3,1198,366,27,50-GCUAA—,70,-AUCAUC-30
+S4,1196,365,32,50-GCUAU—,66,-UUCAUC-30
+doi:10.1371/journal.pone.0118598.t002,,,,,,

@@ -1,0 +1,43 @@
+0,1,2,3,4,5,6
+,"mortality rate was 70% [6, 12].",,,,,
+𝑑𝑆,,,,,,
+"𝑆 𝑁
+= −𝛽 (
+) 𝐼 + 𝛼𝑅 + 𝜇 (𝑁 − 𝑆)",,,,,,
+,,There were few assumptions for this model related to this,,,,
+𝑑𝑡,,,,,,
+,study:,,,,,
+𝑑𝐸,,,,,,
+"𝑆 𝑁
+= 𝛽 (
+) 𝐼 − 𝜀𝐸 − 𝜇𝐸",,,,,,
+,"(i) At
+the",very beginning of,,"the
+epidemic",there was,
+𝑑𝑡,,,,,,
+,"𝑁(𝑡)
+=",,,,,
+(1),𝑆(𝑡);,that,"is,",total population of,India,is
+𝑑𝐼,,,,,,
+,"susceptible
+as",there was no previous,,,incidence of,
+= 𝜀𝐸 − (𝛾 + 𝜇 + 𝜖 + 𝛿) 𝐼,,,,,,
+𝑑𝑡,Ebola case.,,,,,
+𝑑𝑅,,,,,,
+,"(ii) Initially,",there was a constant number of,,,infectious,
+= 𝛾𝐼 − 𝛼𝑅 − 𝜇𝑅.,,,,,,
+,,,=,,,
+𝑑𝑡,individuals. 𝑑𝐼/𝑑𝑡,,,0. For,"simulation purpose,",it
+,,was assumed that one EVD case was reported at New,,,,
+"Epidemiological
+profile
+of
+Ebola
+virus,
+that
+transmitted",,,,,,
+,,Delhi on 01.01. 2017.,,,,
+"throughout
+the West Africa in 2014–2016, was fitted into",,,,,,
+the SEIR deterministic compartment model. Different model,(iii) No specific,intervention was,,,initiated to stop the,
+parameters described in Table 1 are derived on the basis of,spread of EVD.,,,,,

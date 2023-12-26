@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6,7
+,,,,,,Novel Astroviruses and Picornaviruses in Pigeons,
+,Table 4. Pairwise percent amino acid identities between the predicted pigeon picornavirus (PiPV-A/PiPV-B) proteins and the,,,,,,
+,corresponding proteins in different sapeloviruses and enteroviruses.,,,,,,
+PiPV-B versus:,L,P1,VP1,VP2,VP3,VP4,"P2
+2A"
+DPV,NS,36,27,41,40,42,"28
+NS"
+SPV-1,NS,37,30,49,43,41,"24
+NS"
+PEV-A,NS,39,31,48,44,39,"28
+NS"
+HEV-A,NS,33,27,39,34,36,"29
+NS"
+HRV-A,NS,30,21,33,36,35,"28
+NS"
+Length of PiPV-B,112,840,306,193,227,114,"636
+191"
+PiPV-B versus:,2B,2C,P3,3A,3B,3C,3D
+DPV,30,43,46,17,45,46,52
+SPV-1,22,41,43,22,45,40,49
+PEV-A,16,41,42,16,45,40,48
+HEV-A,23,39,41,24,41,37,42
+HRV-A,17,41,39,20,36,35,47
+Length of PiPV-B,115,330,755,92,22,184,457
+PiPV-A versus:,,,P3,3A,3B,3C,3D
+PiPV-B,,,76,63,95,79,77
+DPV,,,46,22,45,45,52
+SPV-1,,,46,23,41,39,53
+PEV-A,,,44,22,45,41,50
+HEV-A,,,41,18,41,37,46
+HRV-A,,,40,15,36,34,49
+Length of PiPV-A,,,754,92,22,184,456
+,Accession numbers of the sequences used for the alignment and calculation of amino acid identities are listed in Table 3. Lengths of proteins as number of amino acids,,,,,,
+are noted for PiPV-B (and PiPV-A). NS = no significant alignment.,,,,,,,
+doi:10.1371/journal.pone.0025964.t004,,,,,,,

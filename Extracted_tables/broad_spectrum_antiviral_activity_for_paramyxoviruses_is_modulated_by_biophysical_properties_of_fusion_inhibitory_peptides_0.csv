@@ -1,0 +1,13 @@
+0,1,2,3
+,Cytotoxicity in,,Efficacy in plaque reduction
+,monolayer culture,,assay vs. HPIV3
+Peptide,CC50 (nM)a,IC90 (nM)b,IC50 (nM)b
+VG,"> 10,000",280 ±  247,1
+VG-Chol,"10,000",0.7 ±  0.26,0.015 ±  0.07
+VG-PEG4-Chol,"4,500",0.7 ±  0.007,0.03 ±  0.04
+VG-PEG24-Chol,"1,300",0.1 ±  0.0003,0.007 ±  0.007
+Chol-VG,"9,000",1.7 ±  0.42,0.06 ±  0.035
+Chol-PEG4-VG,"> 10,000",0.1 ±  0.0001,< 0.0007
+HRCFIV PEG 24 Chol,"9,000","> 9,000","> 9,000"
+HRCMV PEG 24 Chol,"2,000","> 2,000","> 2,000"
+HAFLU PEG 24 Chol,"3,000","> 3,500","> 3,500"

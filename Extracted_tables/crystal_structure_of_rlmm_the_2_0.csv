@@ -1,0 +1,44 @@
+0,1,2,3,4,5,6
+,Table 1. Summary of crystallographic data and reﬁnement,,statistics,,,
+Dataset,,Apo,,Apo,AdoMet,K2PtCl4
+Data collection,,,,,,
+Space group,,P31,,P3121,P3121,P3121
+Unit-cell parameters,,,,,,
+"a, b, c (A˚
+)",,"132.8, 132.8, 41.5",,"92.1, 92.1, 83.1","92.3, 92.3, 83.6","92.9, 92.9, 86.4"
+"a, b, g ((cid:2))",,"90, 90, 120",,"90, 90, 120","90, 90, 120","90, 90, 120"
+"Resolution range (A˚
+)a",,20.1–1.9 (2.0–1.9),,30.0–1.95 (2.05–1.95),30.0–2.6 (2.7–2.6),30.0–2.2 (2.3–2.2)
+"Wavelength (A˚
+)",,1.041,,1.041,1.041,1.072
+Unique reﬂections,,64 294,,30 029,12 983,42 258
+"Completeness
+(%)",,99.8 (98.2),,99.8 (98.0),99.8 (99.9),99.8 (99.5)
+Redundancy,,4.9 (4.6),,7.3 (6.8),7.4 (7.5),11.9 (11.7)
+"(%)
+Rmeas",,7.1 (49.0),,6.1 (61.0),15.7 (71.3),22.3 (71.5)
+I/(cid:2) (I),,19.7 (4.4),,25.0 (4.3),16.4 (3.3),19.4 (3.3)
+Reﬁnement,,,,,,
+"Resolution range (A˚
+)",,20.1–1.9,,28.8–1.95,28.9–2.6,
+"Reﬂections
+(test
+set)",,61 052 (3212),,28 520 (1502),12 333 (650),
+Number of atoms,,,,,,
+Protein,,5808,,2916,2888,
+Water,,552,,195,87,
+Other,,157,,134,103,
+"(%)
+Rwork/Rfree",,16.4/20.6,,16.9/20.6,16.3/19.6,
+Average B-factor (A˚ 2),,,,,,
+Protein,,21.4,,33.0,28.6,
+Water,,28.0,,39.1,26.8,
+Other,,30.7,,52.1,49.7,
+RMSD from ideal bond length (A˚,),0.016,,0.008,0.008,
+RMSD from ideal bond angle ((cid:2)),,1.567,,1.072,1.134,
+Ramachandran plot,,,,,,
+Preferred (%),,98.3,,98.3,97.2,
+Allowed (%),,1.53,,1.66,2.80,
+"Outliers
+(%)",,0.14,,0.00,0.00,
+PDB ID,,4AUK,,4ATN,4B17,

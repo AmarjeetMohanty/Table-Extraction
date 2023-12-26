@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6,7,8
+,Table 4 Comparison of reference gene expression stability* as determined by four different software packages,,,,,,,
+,geNorm,,BestKeeper,,,NormFinder,,hkgFinder
+Gene,,Mean M,Gene,r,Gene,Stability value,Gene,Fold change
+RDN18,,0.042,UBC7,0.983,UBC7,0.425,RDN18,1.2
+RDN25,,0.050,UBC13,0.978,PGK1,0.459,RDN25,1.3
+RDN5.8,,0.055,PGK1,0.974,UBC13,0.460,RDN5.8,1.4
+UBC13,,0.357,RDN5.8,0.915,PPIA,0.534,UBC13,2.5
+PGK1,,0.478,RDN25,0.908,RDN5.8,0.922,PGK1,2.9
+UBC7,,0.500,RDN18,0.901,RDN25,0.935,UBC7,3.0
+PPIA,,0.849,PPIA,0.864,RDN18,0.961,PPIA,8.7
+RPL13A,,1.103,RPL13A,0.857,RPL13A,0.993,RPL13A,18.0
+ACT1,,1.167,SDHA,0.856,ACT1,1.200,ACT1,21.8
+SDHA,,1.258,ACT1,0.836,SDHA,1.480,SDHA,32.7
+,*Genes are listed from most to least stable for all,,,four methods.,,,,

@@ -1,0 +1,47 @@
+0,1,2,3
+Table 2 Specificity of SVV real-time RT-PCR (rRT-PCR) and SVV RT-insulated isothermal PCR (RT-iiPCR),,,
+Sample #,Virus,SVV rRT-PCR CT,SVV RT-iiPCR Results
+1,Seneca Valley virus,16.6486,Pos
+2–21,FMDV A24,Neg,Neg
+,FMDV A SUD 1,Neg,Neg
+,FMDV A22,Neg,Neg
+,FMDV SAT2 i,Neg,Neg
+,FMDV SAT1 i,Neg,Neg
+,FMDV SAT1 ii,Neg,Neg
+,FMDV ASIA1 PAK,Neg,Neg
+,FMDV C PHI,Neg,Neg
+,FMDV SAT3 BEC,Neg,Neg
+,FMDV SAT2 SAU,Neg,Neg
+,FMDV SAT2 ZIM,Neg,Neg
+,FMDV O VIT 7/2006,Neg,Neg
+,FMDV ASIA1 PAK 29,Neg,Neg
+,FMDV SAT1 BOT 12/2006,Neg,Neg
+,FMDV SAT3 SAR 1/2006,Neg,Neg
+,FMDV SAT3 UGA 10/97,Neg,Neg
+,FMDV C KEN 1/2004,Neg,Neg
+,FMDV ASIA1 PAK 20/2003,Neg,Neg
+,FMDV O UKG 11/2001,Neg,Neg
+,FMDV O MAY 1/2005,Neg,Neg
+22–27,VSV NJ UNA 82,Neg,Neg
+,VSV IND 85 CLB,Neg,Neg
+,VSV IND 94 GUB,Neg,Neg
+,VSV NJ 0804 COE3,Neg,Neg
+,VSV 0804 COE1,Neg,Neg
+,VSV IND,Neg,Neg
+28–29,SVDV SWI 1/74,Neg,Neg
+,SVDV HKN 1/80,Neg,Neg
+30–31,VESV i,Neg,Neg
+,VESV C421,Neg,Neg
+32–35,CSFV ALFORT 187,Neg,Neg
+,CSFV 104,Neg,Neg
+,CSFV 906,Neg,Neg
+,CSFV 410,Neg,Neg
+36,PEDV,Neg,Neg
+37,PDCoV,Neg,Neg
+38,TGEV,Neg,Neg
+39,"porcine rotaviruses (A, B, C)",Neg,Neg
+40,porcine parvovirus 1,Neg,Neg
+41,porcine circovirus 2,Neg,Neg
+42,PRRSV-2 (NA type),Neg,Neg
+43,PRRSV-1 (EU type),Neg,Neg
+44,IAV-S H1N1,Neg,Neg

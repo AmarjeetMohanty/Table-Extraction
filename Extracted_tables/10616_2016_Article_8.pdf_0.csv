@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6
+Table 2,Concentrations of the test amino acids in the cell media,,,,,
+,,Dose amino acids (mg/L),,,,
+,Without,0.25 x blood,0.5 x blood,1 x blood,2 x blood,8 x blood
+,(0),concentration,concentration,concentration,concentration,concentration
+Arginine,0,4.13,8.25,16.50,33.00,132.00
+Glutamine,0,24.25,48.50,97.00,194.00,776.00
+Isoleucine,0,2.07,4.13,8.26,16.52,66.08
+Leucine,0,4.80,9.60,19.20,38.40,153.60
+Threonine,0,5.15,10.30,20.60,41.20,164.80
+Tryptophan,0,3.08,6.15,12.30,24.60,98.40
+Valine,0,4.80,9.60,19.20,38.40,153.60
+Lysine,0,4.93,9.85,19.70,39.40,157.60

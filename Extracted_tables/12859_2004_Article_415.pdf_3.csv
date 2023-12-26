@@ -1,0 +1,36 @@
+0,1,2,3,4,5
+"BMC Bioinformatics 2005, 6:90",,,,,http://www.biomedcentral.com/1471-2105/6/90
+100,,,,,
+,,,,,A
+,,,,,DSS length
+,,,,,"6
+nts"
+,,,,,10 nts
+,,,,,14 nts
+50,,,,,
+0,,,,,
+"cumulative%(unbroken)andrelative%(broken)
+numberofpairsofsequencesdistinguished
+0",,10,,,"20
+30"
+"bysuccessivelyselectedDSSs
+100",,,,,
+,B,,,,
+,,DSS length,,,
+,,6,nts,,
+,,,14 nts,,
+,,,22 nts,,
+50,,,,,
+0,,,,,
+0,4,,,8,"16
+12"
+,position of distinguishing sub-sequence,,,,
+,,in selection series,,,
+"The cumulative and relative percentages of pairs of (A) the CO1-animal sequences and (B) the CO1-moth sequences, distin-
+guished by successively selected DSSs
+Figure 4",,,,,
+,"The cumulative and relative percentages of pairs of (A) the CO1-animal sequences and (B) the CO1-moth sequences, distin-",,,,
+,guished by successively selected DSSs. The 'relative efficiency' of each DSS is the number of pairs it distinguishes as a percent-,,,,
+age of the pairs remaining to be distinguished.,,,,,
+,,,,,Page 8 of 11
+,,,,,(page number not for citation purposes)

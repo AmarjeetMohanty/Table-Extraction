@@ -1,0 +1,16 @@
+0,1,2,3
+,,,REVIEW
+,"Table 1. Comparison of ambient PM2.5, UFPs and NPs.",,
+Particle type,PM2.5,UFPs,NPs
+Size,"<2.5 μm, containing UFP","<100 nm, exist alone or as a",<100 nm for at least one dimension
+,component,component of PM2.5,
+Sources,Incidental (combustion),Incidental (combustion),Engineered (controlled synthesis)
+Morphology,Irregular (chain-like structure),Irregular (chain-like structure),"Regular (sphere, tube, cube, rod,"
+,,,"wire, plate, etc.)"
+Homogeneity,No,No,Yes
+Organic chemical,Low (compared with UFPs),High (compared with PM2.5),None to very low levels
+content,,,
+Metal impurity,High,High,Varies
+ROS generation,Yes,Yes,Varies
+Exposure route,Inhalation,Inhalation,"Inhalation, dermal, ingestion, injection"
+Adverse health effects,Yes,Yes,Largely unknown

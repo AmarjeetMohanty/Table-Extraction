@@ -1,0 +1,44 @@
+0,1,2,3,4,5,6,7,8
+,,,Table 4. HIV-1 protein inhibitors selected by phage display.,,,,,
+,,Target,,Affinity,Inhibition,,,
+Target,Library,,Phagotopes,,,Virus isolates/clades,Additional,Reference
+,,presentation,,(KD),(IC50),,,
+gp120 (CD4 BS),LTNP Fab,Recombinant gp120,b12,<10 nM,~20 nM,"MN, IIIb",NA,"[41,42,70]"
+,Fab (CDR walking of,,,,,,3B3 ScFv engineered,
+gp120 (CD4 BS),,Recombinant gp120,3D3,15 pM,~0.1–0.9 nM,"MN, IIIb",,[71–73]
+,b12 Fab),,,,,,as fusion immunotoxin,
+,,,,,,,epitope-masking,
+gp120 (CD4 BS),LTNP Fab,Recombinant gp120,L78,4–300 nM,~2 ug/mL,"MN, IIIb",,[74]
+,,,,,,,strategy,
+,(1) ScFv (lupus,,,,,,,
+,,,,,(1) 0.1–25.6,"(1) 23135, SF-162,",,
+,patients),,JL413,,,,gp120-hydrolyzing,
+gp120 (CD4 BS),,Recombinant gp120,,NA,µg/mL,"ZA009, BR004, Ug246",,"[75,76]"
+,(2) Light chains (lupus,,SKL6,,,,Abs,
+,,,,,(2) NA,(2) NA,,
+,patients),,,,,,,
+,,,A12,,,,,
+,VHH (immunized,,,,,"A, B, C, D, CFR02_AG",sublibrary engineered,
+gp120 (CD4 BS),,Recombinant gp120,D7,0.1–1 nM,0.003–38 µg/mL,,,"[77,78]"
+,llamas),,,,,and CRF07_BC,to increase potency,
+,,,C8,,,,,
+,CD4 V1 and V1-V2,,"E6, B6, 22, F8,",,,,,
+gp120 (CD4 BS),,Recombinant gp120,,NA,0.2–1 µg/mL,BH10,NA,[79]
+,variants,,D11,,,,,
+,,,,,,,VL shuffling and,
+,MAb 447-52D-derived,,,0.28–3.1,,,,
+gp120 (V3 loop),,V3 loop peptide,402P5H7,,NA,MN,HCDR3 ―spiking‖ of,[80]
+,ScFv,,,nM,,,,
+,,,,,,,MAb 447-52D,
+,,,DO142-10,11 nM,0.2–8 µg/mL,,epitope-masking,
+gp120 (V3 loop),LTNP Fab,Recombinant gp120,,,,"MN, IIIb",,"[70,81]"
+,,,Fab loop 2,1.9 nM,1–5 µg/mL,,strategy,
+,"7-mer, 9-mer-c and",,,,,,,
+gp120 (CD4-i epitope),,Recombinant gp120,12p1,NA,1.1–1.6 µM,YU2,NA,[82]
+,12-mer RPL,,,,,,,
+,HIV-1 infected FDA-2,gp120-CD4-CCR5,,,,,,
+gp120 (CD4-i epitope),,,X5,nanomolar,0.29–125 µg/mL,"A, B, C, D, F and G",NA,[83]
+,patient FAb,complexes,,,,,,
+,"7-mer, 7-mer-c and",sCD4-89.6 Env on,,,,,,
+gp120 (CD4-i epitope),,,XD3,NA,50 µM,"NL4-3, D117III",NA,[84]
+,12-mer RPL,retroviral particles,,,,,,

@@ -1,0 +1,34 @@
+0,1,2,3,4,5
+,,TABLE 2. Fusion activity and cell surface expression of,,leucine zipper mutant S glycoproteins,
+,,,,Endo H,
+Name,Substitutiona,Fusion activityb,Oligomerizationc,,Surface expressione
+,,,,resistanced,
+,,,1,1,
+Wild type,LLLILL,100 6 19,,,100 6 16
+,,91 6 15,,1,
+L1217A,ALLILL,,ND,,ND
+,,81 6 12,,1,
+L1224A,LALILL,,ND,,ND
+,,89 6 17,,1,
+L1231A,LLAILL,,ND,,ND
+,,84 6 9,,1,
+I1238A,LLLALL,,ND,,ND
+,,87 6 16,,1,
+L1245A,LLLIAL,,ND,,ND
+,,96 6 11,,1,
+L1252A,LLLILA,,ND,,ND
+,,,1,1,
+L1217A-L1224A,AALILL,64 6 11,,,94 6 12
+,,,2,1,
+L1224A-L1231A,LAAILL,8 6 3,,,78 6 15
+,,,2,1,
+L1224A-I1238A,LALALL,19 6 5,,,75 6 10
+,,,2,1,
+L1224A-L1245A,LALIAL,7 6 3,,,83 6 14
+,,,1,1,
+L1224A-I1252A,LALILA,81 6 18,,,80 6 13
+,,,2,1,
+I1231A-L1245A,LLAIAL,9 6 2,,,73 6 11
+,,,1,1,
+I1238A-L1252A,LLLALA,103 6 21,,,69 6 14
+,a Heptadic leucine and isoleucine residues in the leucine zipper domain of MHV-A59 S protein are shown. Alanine substitutions are indicated for each leucine zipper,,,,

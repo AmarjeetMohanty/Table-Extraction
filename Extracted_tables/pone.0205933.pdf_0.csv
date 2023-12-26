@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7
+,,,,A comprehensive in silico analysis for identification of hrHPV therapeutic epitopes,,,
+Table 2. MHC alleles used for molecular docking analysis against the selected peptides in the first step.,,,,,,,
+,Human MHC-I,,Human MHC-II,,Mouse MHC-I,,Mouse MHC-II
+Allele,PDB ID,Allele,PDB ID,Allele,PDB ID,Allele,PDB ID
+HLA-A�02:01,4UQ3,HLA-DRB1�01:01,4AH2,H-2-Db,1JUF,H-2-IAb,4P23
+HLA-A�24:02,5HGA,HLA-DRB1�03:01,2Q6W,H-2-Dd,5IVX,H-2-IAd,2IAD
+HLA-A�01:01,4NQV,HLA-DRB1�04:01,5LAX,H-2-Kb,4PV9,H-2-Ag7,1ESO
+HLA-A�03:01,3RL2,HLA-DRB1�11:01,6CPL,H-2-Kd,5GSV,H-2-IEk,1FNG
+HLA-A�11:01,1X7Q,HLA-DRB1�15:01,5V4M,H-2-Kk,1ZTV,,
+HLA-B�07:02,5EO1,HLA-DRB5�01:01,1FV1,H-2-Ld,1LDP,,
+HLA-B�08:01,3SPV,,,,,,
+HLA-B�27:05,1OGT,,,,,,
+HLA-B�35:01,3LKN,,,,,,
+HLA-B�27:05,4UQ3,,,,,,
+,https://doi.org/10.1371/journal.pone.0205933.t002,,,,,,

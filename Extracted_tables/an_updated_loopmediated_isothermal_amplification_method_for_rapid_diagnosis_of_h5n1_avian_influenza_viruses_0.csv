@@ -1,0 +1,28 @@
+0,1,2,3,4,5
+Table 2: Limit of detection of H5N1 virus strains calculated by Plaque Forming Unit (PFU) titers.,,,,,
+,,,RT - LAMP,,
+Virus strain,Year of,Clade/,,,RT - PCR
+,,,NIID,Nagasaki,
+(Accession no.),isolation,Subclade,,,WHO primers
+,,,primers,primers,
+HN 3040,,,,,
+,2004,1,0.01,0.01,0.01
+(HM 114481.1),,,,,
+HN 30408,,,,,
+,2005,1,0.01,0.001,0.001
+(HM 114529.1),,,,,
+BM 196,2005,2/2.3,1,0.01,0.01
+HN 30850,,,,,
+,2005,2/2.3,0.001,0.001,0.001
+(HM 114537.1),,,,,
+HN 31203,,,,,
+,2007,2/2.3,1,1,0.1
+(HM 114545.1),,,,,
+HN 31242,2007,2/2.3,1,1,1
+HN 31244,,,,,
+,2007,2/2.3,1,0.1,0.1
+(HM 114561.1),,,,,
+HN 31312,,,,,
+,2007,2/2.3,1,0.1,0.01
+(HM 114577.1),,,,,
+HN 31323,2007,2/2.3,1,1,1

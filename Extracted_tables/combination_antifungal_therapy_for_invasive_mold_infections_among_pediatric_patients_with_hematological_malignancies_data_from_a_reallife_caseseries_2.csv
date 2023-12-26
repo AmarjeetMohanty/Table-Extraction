@@ -1,0 +1,49 @@
+0,1,2,3,4,5,6,7
+,,,,Duration of,,Duration of,
+,Monotherapy,Duration of,,,,,
+,,,Combination,Combination,Maintainance,Maintainance,
+Patient,Before,Monotherapy,,,,,Surgery
+,,,Therapy,Therapy,Therapy,Therapy,
+,Combination,(Days),,,,,
+,,,,(Days),,(Months),
+,,,,,Voriconazole;,,
+,,,L-AMB +,,,,
+1,L-AMB,11,,37,L-AMB,12,No
+,,,caspofungin,,,,
+,,,,,posaconazole§,,
+,,,L-AMB +,,,,
+2,L-AMB,12,,48,L-AMB,> 18,No
+,,,caspofungin,,,,
+,,,L-AMB +,,,,
+3,L-AMB,2,,11,[NA],[NA],No
+,,,voriconazole,,,,
+,,,L-AMB +,,,,
+4,L-AMB,21,,41,Voriconazole,10,No
+,,,caspofungin,,,,
+,,,L-AMB +,,,,
+5,L-AMB,11,,49,Voriconazole,15,No
+,,,voriconazole,,,,
+,,,L-AMB +,,,,
+6,voriconazole,3,,92,Posaconazole,48,Yes
+,,,posaconazole,,,,
+,,,L-AMB +,,L-AMB,,
+7,L-AMB,12,,98,,4,Yes
+,,,posaconazole,,posaconazole§,,
+,,,L-AMB +,,,,
+8,L-AMB,6,,10,Voriconazole,"1,5",No
+,,,voriconazole,,,,
+,,,L-AMB +,,,,
+9,No,-,,28,[NA],[NA],No
+,,,posaconazole,,,,
+,,,L-AMB +,,,,
+10,No,-,,5,[NA],[NA],No
+,,,voriconazole,,,,
+,,,L-AMB +,,,,
+11,No,-,,36,Voriconazole,12,No
+,,,caspofungin,,,,
+,,,L-AMB +,,,,
+12,L-AMB,24,,17,Voriconazole,48,No
+,,,voriconazole,,,,
+,,,L-AMB +,,,,
+13,L-AMB,unknown,,50,[NA],[NA],Yes
+,,,caspofungin,,,,

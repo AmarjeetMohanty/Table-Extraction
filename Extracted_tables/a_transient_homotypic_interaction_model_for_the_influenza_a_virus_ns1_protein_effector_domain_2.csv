@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6,7,8
+,Table 5. Bioinformatic analysis of,,isolated NS1 RBD dimer characteristics.,,,,,
+,,,Interface,Interface,,,,
+,,,accessible,accessible,,,,
+,,Symmetry,surface area,surface area,,,Gap Volume,Gap Volume
+Strain,Dimer,relationship,(A˚ 2)*,(%)*,Planarity (A˚ )*,Local density**,(A˚ 3)*,Index (A˚ )*
+PR8,2ZKO_AB1,asymmetric,1054,19.9,3.22,35.8,3527,1.67
+Ud/72,1AIL_AA,symmetric,1019,20.3,4.08,35.3,4330,2.12
+Cal/09,3M8A_AG,asymmetric,1152,22.4,3.60,39.4,3419,1.48
+,3M8A_BH,asymmetric,1115,21.8,3.58,38.1,3540,1.59
+,3M8A_CF,asymmetric,1192,22.3,4.01,40.0,3466,1.45
+,3M8A_DE,asymmetric,1115,21.4,3.39,39.1,3378,1.52
+,3M8A_IL,asymmetric,1181,21.8,4.22,39.2,3679,1.56
+,3M8A_JK,asymmetric,1081,20.2,3.62,39.7,3466,1.60
+VN/04,3F5T_AARBD{,symmetric,715,14.0,4.37,27.2,4691,3.28
+Mean,,,1122,21.4,3.79,38.7,3611,1.62
+Standard,,,60,0.9,0.31,1.6,332,0.23
+deviation,,,,,,,,

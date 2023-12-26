@@ -1,0 +1,37 @@
+0,1,2,3
+these FPs are the best choice.,,,
+,Table 4. pH sensitivity (pKa) of selected ﬂuorescent protein variants.,,
+Fluorescent Protein,pKa,Notes,Reference
+Blue,,,
+mTagBFP2,2.7,,[116]
+Cyan,,"as a class, cyan FPs are relatively pH insensitive",
+"ECFP, mCerulean",4.7,,[133]
+mTFP1,4.3,,[134]
+mCerulean3,3.2,,[135]
+mTurquoise2,3.1,,[118]
+Green,,"as a class, green FPs are moderately pH sensitive",
+"mEGFP, mEmerald",6.0,,[136]
+mNeonGreen,5.7,,[122]
+mTagGFP2,5.0,,[123]
+T-Sapphire,4.9,a UV-excited green FP,
+superecliptic pHluorin,7.2,purposely optimized to be very pH sensitive,[137]
+,,"as a class, modern yellow FPs are",
+Yellow,,,
+,,moderately pH sensitive,
+,,"very pH sensitive, newer variants are",
+EYFP,6.9,,
+,,somewhat improved,
+"mVenus, SYFP2",6.0,,"[117,138]"
+mCitrine,5.7,,[136]
+Orange,,,
+mKO2,5.0–5.5,,[125]
+"mOrange, mOrange2",6.5–7.5,very pH sensitive,[125]
+Red,,"as a class, red FPs are relatively pH insensitive",
+"mRFP1, mCherry,",,,
+,ď4.5,,[9]
+mStrawberry,,,
+TagRFP-T,4.0,,[125]
+FusionRed,4.6,,[127]
+Far-Red,,,
+mKate2,5.4,,[126]
+mNeptune,5.8,,[128]

@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7,8,9
+,MIP-1b,,,,,,,,
+,,,,,,0,,,
+1,2,,13,,21,,1,,36
+,,Days after treatment,,,,,,Days after treatment,
+,HMBG1 (×10−2),,,IL-1β,,,HMBG1 (×10−2),,IL-1β
+,IL-2,,,IL-5,,,IL-2,,IL-5
+,IL-4,,,IL-7,,,IL-4,,IL-7
+,IL-6,,,IL-12,,,IL-6,,IL-12
+,IL-8,,,IL-13,,,IL-8,,IL-13
+,IL-10,,,IL-17,,,IL-10,,IL-17
+,GM-CSF,,,G-CSF,,,GM-CSF,,G-CSF
+,IFN-γ,,,MCP-1,,,IFN-γ,,MCP-1
+,TNF-α,,,MIP-1b,,,TNF-α,,MIP-1b
+,TGF-β,,,,,,TGF-β,,
+,,(a),,,,,,(b),

@@ -1,0 +1,54 @@
+0,1,2,3,4,5,6,7,8,9
+10,,,,,,,,,BioMed Research International
+,,,,,,,,,Conventional soy
+,,,,,,,,RR1 soy,
+,,,,,,,,RR2Y soy,
+,,,,,,,,"Control line
+Test line",
+,,,,,,,,(a),"Waste
+reservoir"
+,,,Lateral-flow device,,,,,,"ConjugateAnti-POIAnti-IgG
+test line
+control line"
+,,Protein-based detection,,,,,,,
+,,,,,,,,,"Control line
+Test line"
+,,,,,Add water,,Shake 10–20,Transfer liquid,"Read
+Place LFD in"
+,,,,,,,times,to small reaction vessel,the lysate
+,,,Sample,,,,,,
+,,,ground,,,,,,
+,,,seed,,,,,,
+,,,RPA assay,,,,,,
+,,,,DNA-based detection,,,,,
+,,,,,Add lysis,,Shake for 5 sec,Transfer 1 loop of,"Read
+Add buffer/lysate"
+,,,,,buffer,,and let settle,lysate to 50 𝜇l of,to reaction pellet
+,,,,,,,for 1 min,rehydration buffer,
+,,,,,,,,(b),
+,,,,,,,,lec,
+,,RR2Y,,,,,,,
+,,,,,,,,3000,
+,7500,,,,,,,,
+,,,,,,,,2500,
+,,,,,,,,2000,
+,5500,,,,,,,,
+,(AU),,,,,,,"(AU)
+1500",
+,3500,,,,,,,,
+,,,,,,,,1000,
+,1500,,,,,,,,
+,,,,,,,,500,
+,,,,,,,,0,
+,−500,0,3,6,9,12,15,"0
+3","6
+9
+12
+15"
+,,,,,Time (min),,,,Time (min)
+,,,,100% conventional soy,,5% RR2,,100% conventional soy,5% RR2
+,,,100% RR1,,,,100% RR2,100% RR1,100% RR2
+,,,0.5% RR2,,,NTC,,0.5% RR2,NTC
+,,,1% RR2,,,,,1% RR2,
+,,,,,,,,(c),
+,,,,,,,Figure 5: Continued.,,

@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6
+,,,"model 1, respectively (Fig 3B).",,,
+Table 3.,Identification and comparison of conserved residues of class A GPCRs located within TM helices in template MgβADR1 and modeled,,,,,
+hsβADR1.,,,,,,
+TM,Conserved Residues,Conserved Identiﬁer,Amino Acid,Amino Acid,Amino Acid,Amino Acid
+Helices,of Class A GPCRs,of Class A GPCRs,Positions in,Positions in,Identiﬁers in,Identiﬁers in
+,,,MgβADR1,hsβADR1,MgβADR1,hsβADR1
+TM 1,Asn,N1.50,29,26,N1.50(29),N1.50(26)
+TM 2,Asp,D2.50,57,54,D2.50(57),D2.50(54)
+TM 3,Arg,R3.50,109,106,R3.50(109),R3.50(106)
+TM 4,Trp,W4.50,136,133,W4.50(136),W4.50(133)
+TM 5,Pro,P5.50,189,186,P5.50(189),P5.50(186)
+TM 6,Pro,P6.50,247,289,P6.50(247),P6.50(289)
+TM 7—,"Pro, Phe","P7.50, F8.50","282,289","324, 333","P7.50(282), F8.50","P7.50(324), F8.50"
+Helix 8,,,,,(289),(333)
+doi:10.1371/journal.pone.0122223.t003,,,,,,
+PLOS ONE | DOI:10.1371/journal.pone.0122223,,"April 10, 2015",,,,7 / 19

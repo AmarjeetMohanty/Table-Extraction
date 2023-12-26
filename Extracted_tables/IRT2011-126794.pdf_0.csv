@@ -1,0 +1,14 @@
+0,1,2,3,4,5
+,,,Table 2: Overview of immunization regimen.,,
+Group,Dose (μg),Inoculum,Adjuvant,Vaccination,Challenge
+,,,−,,
+G1,75,Mono-M2e,,+,+
+G2,75,Mono-M2e,+,+,+
+,,,−,,
+G3,75,Tetra-M2e,,+,+
+G4,75,Tetra-M2e,+,+,+
+,,,−,−,
+G5,—,PBS,,,+
+,,,−,−,−
+G6,—,Nonvaccinated,,,
+Complete Freund’s adjuvant was used for the priming vaccine followed by incomplete Freund’s adjuvant for boosters. Challenge with LPAI subtype H5N2,,,,,

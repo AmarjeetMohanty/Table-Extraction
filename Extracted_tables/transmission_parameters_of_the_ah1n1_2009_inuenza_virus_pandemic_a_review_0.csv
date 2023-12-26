@@ -1,0 +1,69 @@
+0,1,2,3,4,5,6,7,8,9
+"(Continued)
+Table 2.",,,,,,,,,
+,,,Reproduction,Mean,,Data description (type; spatial,,,
+Date published,Date collected,Country,number,GT (days),,resolution; description),,Method,Author
+March 2010,May–August 2009,Hong Kong,"1Æ7 [1Æ6, 1Æ8]",3,Onset,dates;,"city;
+daily
+number
+of","to ini-
+S ⁄ E ⁄ I ⁄ R type model ﬁt",Wu60
+,,,,,,cases in before June 11,,tial epidemic curve,
+May 2010,June–July 2009,VietNam,"1Æ5 [1Æ5, 1Æ6]",1Æ9,Onset,dates;,"country;
+daily
+con-",Exponential growth rate,Hien61
+,,,"2Æ0 [1Æ9,2Æ2]",3Æ6,,ﬁrmed cases,,,
+June 2010,September 2009,China,"1Æ7 [1Æ5, 1Æ9]",4Æ3,,Onset dates; province; daily number,,"to ini-
+S ⁄ E ⁄ I ⁄ R type model ﬁt",Tang62
+,,,,,,of hospitalized cases,,tial epidemic curve,
+Europe,,,,,,,,,
+July 2009,May–June 2009,NL,0Æ5,3,Onset,dates;,"country;
+daily
+con-","Average
+empirical
+growth",Hahne´ 32
+,,,,,,ﬁrmed cases,,rate,
+November 2009,May–June 2009,UK,"1Æ4 [1Æ3, 1Æ6]",2Æ5,Onset,dates;,"country;
+daily
+labora-","Exponential
+growth
+rate;",Ghani31
+,,,,,,tory-conﬁrmed cases,,"transmission
+chain
+recon-",
+,,,,,,,,struction,
+January 2010,June–October 2009,UK,"1Æ3 [1Æ2, 1Æ5]",2Æ5,Onset,dates;,"country;
+estimated","SEIR model
+ﬁtting
+using
+by",Baguelin47
+,,,,,weekly,number,"of H1N1
+cases
+by",maximum likelihood,
+,,,,,age class,,,,
+Oceania,,,,,,,,,
+July 2009,June 2009,New Zealand,"2Æ0 [1Æ8, 2Æ2]",2Æ8,Onset,dates;,"country;
+daily
+con-",Exponential growth rate,Nishiura63
+,,,,,,ﬁrmed or probable cases,,,
+July 2009,May–June 2009,Australia,"2Æ4 [2Æ3, 2Æ4]",2Æ9,,Onset dates; province; daily,labora-,"Exponential
+growth
+rate;",McBryde33
+,,,"1Æ6 [1Æ5, 1Æ8]",3,,tory-conﬁrmed cases,,Model accounting for under-,
+,,,,,,,,reporting,
+January 2010,July–October 2009,Reunion Island,"1Æ3 [1Æ1, 1Æ5]",1Æ9–2Æ8,Onset,dates;,"province; weekly
+esti-",Exponential growth rate,Renault64
+,,,,,,mated number of A ⁄ H1N1 infections,,,
+,,,,,,in general practice,,,
+June 2010,June–September 2009,New Zealand,"1Æ6 [1Æ2, 1Æ9]",2Æ8,Onset,dates;,"country;
+daily
+con-","Bayesian
+sequential
+determi-",Paine65
+,,,,,,ﬁrmed or probable cases,,"nation
+of
+R
+from epidemic",
+,,,,,,,,curve,
+June 2010,May 2009,Australia (Victoria),1Æ5–2Æ5,2Æ8,,Onset dates; province; daily number,,Iterated Bayesian update of R,Kelly66
+,,,,,of,laboratory-conﬁrmed cases,,value,

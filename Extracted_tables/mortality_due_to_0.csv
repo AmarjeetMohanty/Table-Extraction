@@ -1,0 +1,24 @@
+0,1,2,3,4,5,6,7,8,9,10
+,,,,Sero-,,Minimum inhibitory concentration (µg/mL),,,,
+Study,,,Molecular,Mating,,,,,,
+number,Sample,Species,type,type,Amphotericin B,Fluconazole,Voriconazole,Itraconazole,Posaconazole,Flucytosine
+,,Cryptococcus,,,,,,,,
+2,CSF,,VNI,A α,1,8,0.12,0.12,0.25,8
+,,neoformans var. grubii,,,,,,,,
+,,Cryptococcus,,,,,,,,
+3,CSF,,VNI,A α,1,4,0.06,0.03,0.06,4
+,,neoformans var. grubii,,,,,,,,
+4,CSF,Cryptococcus gattii,VGI,B α,1,4,0.12,0.03,0.06,1
+7,Blood,Cryptococcus gattii,VGIV,C α,1,16,0.25,0.06,0.06,4
+,,Cryptococcus,,,,,,,,
+8,CSF,,VNI,A α,1,4,0.06,0.06,0.06,4
+,,neoformans var. grubii,,,,,,,,
+,,Cryptococcus,,,,,,,,
+9,CSF,,VNI,A α,0.5,8,0.06,0.03,0.06,16
+,,neoformans var. grubii,,,,,,,,
+,,Cryptococcus,,,,,,,,
+10,CSF,,VNI,A α,1,8,0.06,0.03,0.12,4
+,,neoformans var. Grubii,,,,,,,,
+,,Cryptococcus,,,,,,,,
+11,CSF,,VNI,A α,0.5,8,0.06,0.06,0.12,4
+,,neoformans var. Grubii,,,,,,,,

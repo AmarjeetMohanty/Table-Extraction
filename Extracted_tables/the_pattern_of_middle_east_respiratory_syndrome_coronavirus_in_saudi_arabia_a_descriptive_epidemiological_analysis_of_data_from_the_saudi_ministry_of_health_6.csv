@@ -1,0 +1,33 @@
+0,1,2,3,4,5,6,7,8
+"Low
+ High",,,,,,,"Low
+ High",
+C,Average temperature in Jeddah,,,,,,D,Average relative humidity in Jeddah
+50,,,,,,,100,
+45,,,,,,,90,
+40,,,,,,,80,
+35,,,,,,,70,
+30,,,,,,,60,
+25,,,,,,,"%
+50",
+"Centigrade
+20",,,,,,,40,
+15,,,,,,,30,
+10,,,,,,,20,
+,,,,,,,10,
+5 0,,,,,,,0,
+"Jan
+Feb Mar","Apr
+May
+Jun
+Jul",Aug,Sep,Oct,Nov,Dec,"Jan
+Feb Mar","Apr May
+Jun
+Jul
+Aug
+Sep Oct
+Nov Dec"
+,Month,,,,,,,Month
+"Low
+ High",,,,,,,"Low
+ High",

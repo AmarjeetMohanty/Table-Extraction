@@ -1,0 +1,49 @@
+0,1,2,3,4,5,6
+Table 1 | Continued,,,,,,
+Host,Antigen,Antibody format,Production,Yield,Reference,
+,,(clone),system,,,
+Proteus mirabilis,FAP,scFv (OS4),50 mL shake ﬂask,∼12 mg/L,Rippmann et al. (74),
+Proteus mirabilis,Phosphorylcholine,scFv-dHLX,n. d.,10–18 mg/L,"Kujau et al.
+(30)",
+Pseudomonas,Lysozyme,scFv (D1.3),200 mL shake ﬂask,"1
+.5 mg/L",Dammeyer et al.,(75)
+putidas,,,,,,
+Pseudomonas,MUC1,scFv (HT186-D11),200 mL shake ﬂask,3.6 mg/L,,
+putidas,,,,,,
+Pseudomonas,CRP,scFv (TOB5-D4),200 mL shake ﬂask,2.9 mg/L,,
+putidas,,,,,,
+GRAM-POSITIVE BACTERIA,,,,,,
+Bacillus brevis,uPA,Fab,2 L shake ﬂask,100 mg/L,"Inoue et al.
+(76)",
+Bacillus megaterium,Lysozyme,scFv (D1.3),400 mL shake ﬂask,0.41 mg/L,Jordan et al. (84),
+Bacillus megaterium,CRP,scFv (LA13-IIE3),300 mL shake ﬂask,0.39 mg/L,"Jordan et al.
+(83)",
+Bacillus megaterium,Lysozyme,scFab (D1.3),300 mL shake ﬂask,3.5 µg/L,Jordan et al. (83),
+Bacillus subtilis,Digoxin,scFv,n. d.,12 mg/L,"Wu et al.
+(78)",
+Lactobacillus,Rotavirus,VHH,n. d.,∼1 mg/L,Pant et al. (35),
+paracasei,,,,,,
+Streptomyces,Lysozyme,Fv,n. d.,∼1 mg/L,"Ueda et al.
+(261)",
+lividans,,,,,,
+EUKARYOTES,,,,,,
+Yeast,,,,,,
+"Yarrowia lipolytica,",Ras,scFv,Shake ﬂasks,10–20 mg/L,"Swennen et al.
+(262)",
+Kluyveromyces lactis,,,,,,
+Pichia pastoris,Muc1,VHH,Bafﬂed ﬂasks,10–15 mg/L,Rahbarizadeh et al.,(263)
+Pichia pastoris,TNFα,VHH-Fc,Shake ﬂasks,5 mg/L,Ji et al. (264),
+Pichia pastoris,AaHI,VHH,Shake ﬂasks,17 mg/L,Ezzine et al. (265),
+Pichia pastoris,B-type natriuretic,scFv,Shake ﬂasks,150 mg/L,Maeng et al. (266),
+,peptide,,,,,
+Pichia pastoris,Atrazine,Fab-HRP,Shake ﬂasks,3–10 mg/L,Koliasnikov et al.,(267)
+Pichia pastoris,Muc1,"Bibody, tribody",Shake ﬂasks,12–36 mg/L,Schoonooghe et al.,(268)
+Saccharomyces,71 Different,VHH,Shake ﬂasks,<1 to,Gorlani et al.,"(269, 270)"
+cerevisiae,,,,>100 mg/L,,
+Pichia pastoris,HER2,scFv,Shake ﬂasks,15–20 mg/L,Sommaruga et al.,(271)
+Pichia pastoris,n. d.,scFv,n. d.,300 mg/L,"Khatri et al.
+(272)",
+Pichia pastoris,Keratin 8,sc (Fv)2,Bafﬂed shake ﬂasks,4–5 mg/L,Jafari et al. (273),
+Pichia pastoris,n. d.,IgG,0.5 L bioreactor,0.5–1 g/L,Barnard et al. (274),
+Pichia pastoris,Rabies virus,scFv-Fc,80 L fermenter,60 mg/L,Wang et al. (275),
+Pichia pastoris,HER2,IgG,3 L bioreactor,148–227 mg/L,Chen et al. (276),

@@ -1,0 +1,15 @@
+0,1,2,3,4
+"TABLE 1 | Hepatitis E virus (HEV) genotypes, natural hosts, and zoonotic infection to humans.",,,,
+Genus,Species,Genotype,Natural hosts,Infection to humans
+Orthohepevirus,Orthohepevirus A,1,Human,Yes
+,,2,Human,Yes
+,,3,"Human, pig, rabbit, deer, mongoose, wild boar",Yes
+,,4,"Human, pig, yak, wild boar",Yes
+,,5,Wild boar,Unknown
+,,6,Wild boar,Unknown
+,,7,Camel,Yes
+,Orthohepevirus B,,Chicken,No
+,Orthohepevirus C,C1,Rat,No
+,,C2,Ferret,No
+,Orthohepevirus D,,Bat,No
+Piscihepevirus,Piscihepevirus A,,Trout,No

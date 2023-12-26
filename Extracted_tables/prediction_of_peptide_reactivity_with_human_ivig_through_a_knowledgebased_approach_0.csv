@@ -1,0 +1,24 @@
+0,1,2,3,4,5,6
+Table 3. Results of,,the classifiers evaluated by leave-one-out cross-validation.,,,,
+Features,Classifiers,Acc,Sens,Spec,Prec,F-measure
+Subset A,"Lin.Reg.
+reactivity",85.01%,70.12%,90.00%,70.12%,70.12%
+,Lin.Reg.,85.21%,70.64%,90.09%,70.46%,70.55%
+,Log. Reg.,85.15%,70.41%,90.09%,70.39%,70.40%
+,Naive Bayes,83.84%,67.81%,89.21%,67.77%,67.79%
+,Decision tree (J48),81.32%,64.56%,86.94%,62.32%,63.42%
+,Rules learner (PART),80.75%,63.22%,86.61%,61.25%,62.22%
+Subset B,"Lin.Reg.
+reactivity",84.92%,69.94%,89.94%,69.94%,69.94%
+,Lin.Reg.,85.17%,70.47%,90.10%,70.43%,70.45%
+,Log.Reg.,85.51%,71.23%,90.29%,71.06%,71.15%
+,Naive Bayes,83.47%,67.08%,88.96%,67.04%,67.06%
+,Decision tree (J48),81.40%,63.71%,87.32%,62.71%,63.21%
+,Rules learner (PART),77.64%,57.43%,84.40%,55.20%,56.29%
+Subset C,"Lin.Reg.
+reactivity",84.95%,70.00%,89.96%,70.00%,70.00%
+,Lin.Reg.,85.19%,70.59%,90.08%,70.42%,70.50%
+,Log.Reg.,85.54%,71.17%,90.35%,71.17%,71.17%
+,Naive Bayes,83.02%,66.14%,88.67%,66.14%,66.14%
+,Decision tree (J48),81.42%,65.50%,86.75%,62.33%,63.87%
+,Rules learner (PART),81.47%,63.28%,87.56%,63.00%,63.14%

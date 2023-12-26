@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7,8,9
+,,,TABLE 1. Enterotoxicity of STh chimerasa,,,,,,
+,,,,Solid medium,,,,,
+,,,,,,,,Liquid medium,
+E. coli strain with or,,,,,,,,(supernatants),
+,,Supernatants,,,Whole cells,,,,
+without plasmid,,,,,,,,,
+,G/C ratio,Score (%),MU/1010 CFUb,G/C ratio,Score (%),MU/1010 CFU,G/C ratio,Score (%),MU/1010 CFU
+B41c,0.120,7/7 (100),7.5,0.130,5/5 (100),22.2,0.138,14/15 (93),329
+DH5a,,,,,,,,,
+pEH524d,0.059,0/5 (0),NDe,0.076,0/4 (0),ND,0.054,0/4 (0),ND
+pEHSTN24,0.124,8/8 (100),8.8,0.145,7/7 (100),14.7,0.138,8/8 (100),575
+pEHSTC22,0.152,8/8 (100),8.4,0.140,8/8 (100),5.9,0.134,8/9 (89),379
+pEHProSTC28,0.145,9/9 (100),18.5,0.152,3/3 (100),25.0,0.127,6/8 (75),513
+pSTC171pDSPH524,0.157,9/9 (100),6.4,0.128,3/3 (100),1.1,0.109,3/4 (75),221
+,a Enterotoxicity of supernatant and whole-cell,,fractions from plate (solid medium)- and broth (liquid medium)-grown cultures was tested by the in vivo suckling,,,,,,

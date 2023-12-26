@@ -1,0 +1,11 @@
+0,1,2,3,4
+and ﬁve weeks post immunization.,,,,
+,,Table 2. The mouse vaccination protocols.,,
+Group,n,Immunization Route,Antigen,Adjuvant
+SBLP + 2 + P,8,intramuscular,10 µg eGP-PA-GEM,201VG + Poly(I:C)
+SBLP + 201,8,intramuscular,10 µg eGP-PA-GEM,201VG
+SBLP + PolyI:C,8,intramuscular,10 µg eGP-PA-GEM,Poly (I:C)
+SBLP + Alum,8,intramuscular,10 µg eGP-PA-GEM,Alum
+SBLP,8,Intramuscular,10 µg eGP-PA-GEM,-
+GEM,8,intramuscular,GEM,-
+PBS,8,intramuscular,PBS,-

@@ -1,0 +1,30 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12
+,Patient,,,,,CD3−,,,,,,
+,No. (Age,,,,,CD56+,,,,,,
+,,,,,,,,,,,,Status at Last Follow-
+,at Gene,,,,,Cell,,,,,,
+,Therapy),IL2RG Mutation,Maternal T-Cell Engraftment,CD3+ Cell Count,CD19+ Cell Count,Count,Medical History,Busulfan Cumulative AUC,CD34+ Cell Dose,VCN of Graft,Follow-up Duration,up†
+,,,% of T cells,,cells/mm3,,,mg × hr/liter,no. × 10−6/kg,copies/cell,mo,
+,1 (6 mo),c.720G→A p. Trp240X,100,3916,1210,40,"Neutropenia, CMV, coronavirus",20.0,4.46,,24.9,CMV and coronavirus
+N,,,,,,,,,,0.16‡,,
+,,,,,,,,,,,,"resolved, autoimmune"
+,,,,,,,,,,,,cytopenia had developed
+,,,,,,,,,,,,but resolved
+,2 (3 mo),c.270(−15)A→G IVS2 branch,0,0,2340,13,Rhinovirus,22.5,8.67,1.13,23.1,No longer receiving IV
+,,point A splice,,,,,,,,,,"immune globulin,"
+,,,,,,,,,,,,immunized§
+,3 (4 mo),c.876(−1)G→A IVS5 splice,0,10,1138,18,Rhinovirus,20.7,9.26,0.80,20.1,No longer receiving IV
+,,,,,,,,,,,,"immune globulin,"
+,,,,,,,,,,,,immunized§
+,4 (14 mo),c.562C→T p. Gln188X,0,0,190,4,"Disseminated BCG, legionella,",23.0,6.93,0.35,17.1,Disseminated BCG and
+,,,,,,,rhino‑ virus,,,,,"legionella resolved, no"
+,,,,,,,,,,,,longer receiving IV
+Engl J Med. Author manuscript; available in PMC 2019 October 18.,,,,,,,,,,,,"immune globulin,"
+,,,,,,,,,,,,immunized
+,5 (3 mo),c.677G→A p. Arg266His,0,0,5832,1094,None,22.8,6.02,0.44,15.7,Outpatient
+,6 (11 mo),c.903_910del p. Glu302Argf‑sX11,0,41,1376,19,Disseminated BCG,22.9,4.60,0.17,14.6,Disseminated BCG
+,,,,,,,,,,,,"resolved, no longer"
+,,,,,,,,,,,,receiving IV immune
+,,,,,,,,,,,,"globulin, immunized§"
+,7 (2 (mo),c.548delT p. Leu183Trpf‑sX90,42,15,1178,11,Neutropenia,20.4,15.10,1.10,11.1,Outpatient
+,8 (3 mo),c.326_340del p.Glu109_ Ser113del,1,4,2590,2,Aphthous ulcers,22.2,6.52,0.36,6.7,"Outpatient, ulcers resolved"

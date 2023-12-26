@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6,7,8
+inoculation.,,,,,,,,
+,,,,,,Microscopic lesions,,
+Group designation,No. of pigs,,Appearance of the intestinal content,,PEDV IHC,,,
+,,,,,,,,Presence of adherent
+,,,,,,Villus Atrophy,Colitis,"E
+.coli"
+,,Normal,Semi-solid,Fluid,,,,
+NEG-CONTROL,3,1,2,0,0/3 (0)1,0/3,0/3,0/3
+SDPP-CONTROL,3,3,0,0,0/3 (0),0/3,0/3,0/3
+PEDV-CONTROL,3,0,0,3,3/3 (3),3/3 (3),1/3 (1),2/3
+SDPP-PEDV,3,2,0,1,2/3 (1.5),2/3 (1.7),0/3,0/3
+EGG-PEDV,3,0,1,2,1/3 (0.3),2/3 (1.3),2/3 (0.7),2/3

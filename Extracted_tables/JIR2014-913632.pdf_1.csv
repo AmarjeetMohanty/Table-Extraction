@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13
+,,,Total cells or parent type (%),,,,,,Total cells or parent type (%),,,,
+,,,"20
+40
+60
+80",100,,,,,"20
+40
+60
+80",100,,,0
+,,0,,,,,,0,,,,,
+,,,,,,,,,,,,B cells,
+,B cells,,,,,,B cells,,,,,,
+,,,,,,,,,,,,T cells,
+,T cells,,,,,,T cells,,,,,,
+,,,,,,,,,,,,CD8,
+,CD8 (%T),,,,,,CD8 (%T),,,,,,
+,,,,,,,,,,,,CD8 CD56,
+,CD8 CD56,,,,,,CD8 CD56,,,,,,
+,,,,,,,,,,,,CD8 CD69,
+,CD8 CD69,,,,,,CD8 CD69,,,,,,
+,,,,,,,,,,,(a),NK cells,
+(e),NK cells,,,,,(c),NK cells,,,,,,
+,,,,,Spleen aerosol,,,,,,,NK CD69,
+,NK CD69,,,,,,NK CD69,,,Lung systemic,,,
+,,,,,,,,,,,,Neutrophils,
+,Neutrophils,,,,,,Neutrophils,,,,,,
+,,,,,,,,,,,,CD16 Ns,
+,CD16 Ns,,,,,,CD16 Ns,,,,,,
+,,,,,,,,,,,,CD54 Ns,
+,CD54 Ns,,,,,,CD54 Ns,,,,,,
+,,,,,,,,,,,,Macrophages,
+,Macrophages,,,,,,Macrophages,,,,,,
+,,,,,,,M0 CD16,,,,,M0 CD16,
+,M0 CD16,,,,,,,,,,,,
+,,,,,,,M0 MHCii,,,,,M0 MHCii,
+,M0 MHCii,,,,,,,,,,,,

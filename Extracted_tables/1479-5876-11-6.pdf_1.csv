@@ -1,0 +1,33 @@
+0,1,2,3,4,5,6,7,8
+,Table 4 Univariate and multivariate analyses of stage I/II disease-free survival and stage III/IV overall survival,,,,,,,
+,Univariate Analysis,,Multivariate Analysis,,Univariate Analysis,,Multivariate Analysis,
+Clinical Factors,Recurrences/No. of Patients (stage I/II),Log-Rank P,Risk Ratio (95% CI),Wald P,Deaths/No. of Patients (stage III/IV),Log-Rank P,Risk Ratio (95% CI),Wald P
+Sex,,0.314,1.0,NS,,0.337,1.0,NS
+Female,9/37,,,,42/71,,,
+Male,9/54,,,,43/64,,,
+"Age, years",,0.999,1.0,NS,,<0.001,3.753,<0.001
+<70,13/65,,,,58/99,,(1.746-8.070),
+≥70,5/26,,,,27/36,,,
+TNM stage,,0.222,1.0,NS,,0.084,1.0,NS
+p I,0/8,,,,,,,
+p II,18/83,,,,,,,
+p III,,,,,82/127,,,
+p IV,,,,,3/8,,,
+"Tumor
+invasion",,0.408,1.0,NS,,0.842,1.0,NS
+pT1,0/1,,,,,,,
+pT2,0/7,,,,3/4,,,
+pT3,18/77,,,,79/125,,,
+pT4,0/6,,,,3/6,,,
+Lymph node NO. /metastasis,,0.006,1.0,NS,,<.001,4.450,<.001
+0-7/pN0,9/25,,,,2/8,,(2.675-7.401),
+8–12/pN1,4/48,,,,65/105,,,
+>12/pN2,5/18,,,,18/22,,,
+Grade,,0.329,1.0,NS,,0.132,1.0,NS
+Well,6/28,,,,18/29,,,
+Moderate,8/50,,,,55/90,,,
+Poor,4/13,,,,12/16,,,
+"Tumor size, cm",,0.049,1.0,0.099,,0.249,1.0,NS
+<2,2/20,,,,25/37,,,
+2-5,12/63,,,,42/72,,,
+>5,4/8,,,,18/26,,,

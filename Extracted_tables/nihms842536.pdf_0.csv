@@ -1,0 +1,25 @@
+0,1,2,3,4
+,,Table 1,,
+Comparison of studies in the literature comparing efficacy of unmodified and PseudoU mRNA’s in mice,,,,
+Publication,"Kariko et al.12, 2008","Kariko et al.21, 2012","Thess et al.22, 2015","Present, 2016"
+Delivery Vehicle,Lipofectin,TransIT,TransIT,LNP
+Route of,i.v.,i.p.,i.p.,i.v.
+Administration,,,,
+Primary Organ of,Spleen,Spleen,Spleen,Liver
+Expression,,,,
+mRNA Codon-,No,Yes,Yes,No
+Optimized,,,,
+mRNA HPLC-,No,Yes,No,No
+purified,,,,
+mRNA 5’ UTR,Xen. β-globin,TEV,HSD17B4,CMV
+mRNA 3’ UTR,Xen. β-globin,Xen. β-globin,ALB,hGH
+Efficacy Findings,PseudoU more,PseudoU more,Unmodified more,Equal efficacy
+,efficacious,efficacious,efficacious,
+Innate,Unmodified is,Unmodified is,Unmodified is non-,Equal immunogenicity (high
+Immunogenicity,immunogenic;,immunogenic;,immunogenic,doses); equally non-
+Findings,PseudoU is non-,PseudoU is non-,(PseudoU not,immunogenic (low doses)
+,immunogenic.,immunogenic.,tested),
+Criteria for,1 cytokine tested,3 cytokines tested,3 cytokines tested,"30+ cytokines tested,"
+Determining Innate,(IFN-α),"(TNF-α, IL-6, IFN-","(TNF-α, IL-6, IFN-","blood/spleen neutrophilia,"
+Immunogenicity,,γ),γ),blood/ spleen myeloid cell
+,,,,activation

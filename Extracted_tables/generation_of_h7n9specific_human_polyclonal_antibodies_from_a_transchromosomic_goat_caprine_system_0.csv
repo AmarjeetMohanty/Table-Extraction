@@ -1,0 +1,10 @@
+0,1,2,3,4,5,6
+Somatic,No. of,,,No. of pregnancies (% of recipients),,No. of live
+cell donor,embryos,No. of,,,,offspring (% of
+colonies,transferred,recipients,Day 40,Day 60,Day 90,recipients)
+#4,22,2,0 (0),0 (0),0 (0),0 (0)
+#10,60,5,2 (40),1 (20),1 (20),1 (20)
+#13,46,3,0 (0),0 (0),0 (0),0 (0)
+#18,33,2,2 (100),1 (50),1* (50),0 (0)
+#35,33,2,0 (0),0 (0),0 (0),0 (0)
+Total,194,14,4 (28.6),2 (14.3),2 (14.3),1 (7.1)

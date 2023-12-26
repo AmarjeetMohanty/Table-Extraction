@@ -1,0 +1,23 @@
+0,1,2,3,4,5
+Table 1. Results from MEGA6 DNA-DNA homology cluster analyses.,,,,,
+Cluster,Estimated time of,Bootstrap Value (%),Identity (nt/nt) (%)�,Accession,Geographic
+,Origin,,,Number,Origin
+A,2014.94,0.75,645/648,KM246714,Wanluan
+,,,(99%),,
+,,,,KM246730,Wanluan
+B,2014,0.94,647/648,KM246693,Sinpi
+,,,(99%),,
+,,,,KM246726,Daliao
+,,,,KM246728,Jiouru
+C,2013.98,0.93,646/648,KM246713,Jiouru
+,,,(99%),,
+,,,,KM246715,Jiouru
+D,2014.05,1,645/648,KM246722,Wanluan
+,,,(99%),,
+,,,,KM246724,Wanluan
+E,2014.13,0.82,647/648,KM246718,Linluo
+,,,(99%),,
+,,,,KM246723,Sinpi
+F,2013.88,0.8,646/648,KM246677,Jhutian
+,,,(99%),,
+,,,,KM246678,Jiouru

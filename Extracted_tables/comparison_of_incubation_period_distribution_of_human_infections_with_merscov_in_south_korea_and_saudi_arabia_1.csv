@@ -1,0 +1,25 @@
+0,1,2
+Information Criterion.,,
+Factors,Coefficient exp(β) (95% CrI)1,Coefficient exp(β) (95% CrI)1
+,Approach 1: continuous incubation period using exact likelihood,
+Age,,
+0–45 years old,—,1.00
+46–59 years old,—,1.19 (0.99–1.43)
+> 59 years old,—,1.13 (0.94–1.40)
+Sex,,
+Female,—,1.00
+Male,—,0.89 (0.76–1.04)
+Location,,
+Saudi Arabia,1.00,1.00
+South Korea,1.42 (1.18–1.71),1.40 (1.18–1.68)
+Approach 2: continuous incubation period2,,
+Age,,
+0–45 years old,—,1.00
+46–59 years old,—,1.20 (0.98–1.47)
+> 59 years old,—,1.13 (0.93–1.40)
+Sex,,
+Female,—,1.00
+Male,—,0.89 (0.76–1.04)
+Location,,
+Saudi Arabia,1.00,1.00
+South Korea,1.40 (1.15–1.71),1.41 (1.17–1.72)

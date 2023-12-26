@@ -1,0 +1,25 @@
+0,1,2,3
+"Molecules 2010, 15",,,7205
+,Table 1. Primers used in RT-PCR analysis.,,
+"Gene name 
+GenBank ID",Forward primer,Reverse primer,"Size 
+of"
+,,,product
+,,,(bp)
+BC009275,5-cacactgtgcccatctacga-3,5-ctgcttgctgatccacatct-3,600
+"-actin     
+   
+",,,
+NM_002046,5’-tcttcaccaccatggagaag-3’,5’-ctgcttcaccaccttcttga-3’,489
+GAPDH,,,
+NM_002176,5-atgaccaacaagtgtctcct-3,5-ttcagtttcggaggtaacct-3,564
+INF,,,
+AY278491,,,686
+,5-tatagaattctggcagacaacggtactatt-3,5-tataggtaccgtcacttactgtactagcaaagc-3,
+SARS-M ,,,
+BC009275,,,
+,5-tccatcatgaagtgtgacgt-3,5-ctcaggaggagcaatgatct-3,161
+"-actin-R 
+",,,
+AY278491,,,
+SARS-M-R,5-tgctgtgatcattcgtggtc-3,5-tacggtagcggttgtatgca-3,178

@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6,7,8
+,Cell number,,SG number,,Cells with SGs,,SGs per cell,
+Treatment,,,,,,,,
+,Manual,BUHO,Manual,BUHO,Manual,BUHO,Manual,BUHO
+basal,18,18,0,0,0,0,0,0
+basal,16,16,0,0,0,0,0,0
+basal,21,21,0,0,0,0,0,0
+stress 1,20,20,56,52,12,11,4.7,4.3
+stress 2,20,20,40,40,11,11,3.6,3.6
+stress 3,24,24,40,42,12,12,3.3,3.3
+stress 4,18,18,12,12,5,5,2.4,2.4
+stress 5,16,16,47,47,8,8,5.4,5.4
+stress 6,27,27,87,89,17,17,5.1,5.2
+Summary 1–6,125,125,282,280,65,64,4.3,4.4

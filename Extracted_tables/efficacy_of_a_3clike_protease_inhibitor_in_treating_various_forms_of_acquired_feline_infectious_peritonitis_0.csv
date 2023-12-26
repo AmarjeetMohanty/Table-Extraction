@@ -1,0 +1,33 @@
+0,1,2,3,4,5,6,7,8
+"Table 1  Signalment, environmental origin, major presenting clinical signs and principal lesions found at necropsy",,,,,,,,
+following treatment with GC376 protease inhibitor,,,,,,,,
+ID/name,Age,Weight,Sex,Breed,Origin,Presenting signs,,
+,,,,,,,,Clinical status/necropsy lesions
+,(months),(kg),,,,,,
+,,,,,,,Gross,Histologic
+CT01 (Echo),5.6,1.64,FS,DSH,KR,"Peritonitis, stunted",–,"B, Int"
+CT02 (Cate),6,2.67,FS,DLH,KR,"Peritonitis, stunted",–,"B, E, Int, L, MLN"
+CT03 (Pancake),7.86,3.18,MC,Him,Cattery,Dry (Col) to wet,+,"Int, L, MLN, S, Om, P"
+CT04 (Kratos),82,4.8,MC,DSH,KR,Dry (MLN),,Remission
+CT05 (Scooter),10,4.25,MC,DSH,KR,"Dry (E, MLN, K)",–,"B, E, L, K, MLN"
+CT07 (Mac),6.6,2.6,MC,DSH,KR,Dry (Col),+,"E, Int, L, MLN, S, K, A,"
+,,,,,,,,Lu
+CT08 (Phoebe),4.2,2.18,FS,DSH,KR,Dry (E),–,"B, E, K, MLN, S"
+CT09 (Sammy),10.5,2.89,MC,DSH,KR,"Dry (MLN, K)",?*,B*
+CT10 (Bandit),17.9,4.06,MC,Him,Cattery,Dry (Col) to wet,+,"B, E, Int, L, MLN, K,"
+,,,,,,,,"Om, P, Lu"
+CT12 (Daisy),7.5,2.5,FS,DSH,KR,"Peritonitis, stunted",–,"B, Int, L, S"
+CT13 (Leo),7.4,1.97,MC,Sphynx,Cattery,"Dry (E, K)",+,"B, E, Int, L, MLN, S, K"
+CT14 (Muffin),8,2.94,FS,DSH,KR,Dry (Col) to wet,+,"E, Int, L, MLN, K, Om, P"
+CT15 (Flora),4.3,2.39,F,DSH,FC,Peritonitis,,Remission
+CT16 (Bean),4,1.4,FS,DSH,KR,"Peritonitis, stunted",+,"B,† E, Int, L, MLN, S,"
+,,,,,,,,"Om, P"
+CT17 (Peanut),4.4,2.3,M,DSH,KR,Peritonitis,,Remission
+CT18 (Smokey),4,1.84,MC,DSH,KR,Peritonitis,,Remission
+CT20 (Cloud),3.3,1.55,M,RM,Cattery,Pleuritis (MLN),,Remission
+CT21 (Phoebe),4.8,1.92,F,DSH,KR,Peritonitis,,Remission/relapse/
+,,,,,,,,retreat
+CT22 (Pepper),3.3,1.6,F,Siberian,Cattery,Peritonitis,+,"B, E, Om, MLN, Lu, Dia"
+CT23 (Oakely),3.9,3.1,FS,DSH,KR,Peritonitis,,Remission
+Mean,10.28,2.59,,,,,,
+SD,17.22,0.94,,,,,,

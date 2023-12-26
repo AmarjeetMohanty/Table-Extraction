@@ -1,0 +1,50 @@
+0,1,2,3,4,5,6,7,8,9
+,,,,,,,,structured treatment with DIs,
+,,,,,,,,permanent treatment with DIs,
+B,,,structured treatment,,C,,,permanent treatment,
+,3500,,,,,1800,,,
+,,PR-619,,not infected,,,PR-619,,not infected
+,,,,,,1600,,,
+,3000,,,,,,,,
+,,,,no treatment,,,,,no treatment
+,,,,,,1400,,,
+,2500,,,2.5 µM,,,,,2.5 µM
+,,,,,,1200,,,
+,,,,5 µM,,,,,5 µM
+,2000,,,,,1000,,,
+RT activity[ccpm],,,,10 µM,RT activity[ccpm],,,,10 µM
+,1500,,,,,800,,,
+,,,,,,600,,,
+,1000,,,,,,,,
+,,,,,,400,,,
+,500,,,,,,,,
+,,,,,,200,,,
+,0,,,,,0,,,
+,,"dpi 1
+dpi 3","dpi 6
+dpi 8
+dpi 10","dpi 13
+dpi 15",,,dpi 1,"dpi 3
+dpi 6
+dpi 8
+dpi 10","dpi 13
+dpi 15"
+D,,,structured treatment,,E,,,permanent treatment,
+,3500,,,,,1800,,,
+,,P22077,,not infected,,,P22077,,not infected
+,,,,,,1600,,,
+,3000,,,,,,,,
+,,,,no treatment,,,,,no treatment
+,,,,,,1400,,,
+,2500,,,3.75 µM,,,,,3.75 µM
+,,,,,,1200,,,
+,,,,7.5 µM,,,,,7.5 µM
+,2000,,,,,1000,,,
+RT activity[ccpm],,,,15 µM,RT activity[ccpm],,,,15 µM
+,1500,,,,,800,,,
+,,,,,,600,,,
+,1000,,,,,,,,
+,,,,,,400,,,
+,500,,,,,,,,
+,,,,,,200,,,
+,0,,,,,0,,,

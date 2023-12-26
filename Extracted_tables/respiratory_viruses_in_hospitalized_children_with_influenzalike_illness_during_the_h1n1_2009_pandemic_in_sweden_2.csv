@@ -1,0 +1,23 @@
+0,1,2,3
+,Table 3. Severity of disease and underlying conditions in children admitted with influenza-like illness.,,
+,H1N1 single infection (n = 71),H1N1 coinfection (n = 12),
+,median/n (%),median/n (%),p-value
+Age,3.5,2.7,0.25
+Male sex,41 (57.7),8 (66.7),0.75
+UNDERLYING DISEASE,,,
+Healthy,40 (56.3),6 (50.0),0.68
+Asthma,11 (15.5),0 (0.0),0.35
+Neuromuscular disease,6 (8.5),3 (25.0),0.12
+Immunosuppression,5 (7.0),1 (8.3),1.00
+Prematurity/VOC/chronic respiratory disease,4 (5.6),2 (16.7),0.21
+Othera,5 (7.0),0 (0.0),1.00
+SEVERITY OF DISEASE,,,
+Uncomplicated,34 (47.9),3 (25.0),0.21
+Respiratory problems,14 (19.7),3 (25.0),0.70
+"Bacterial
+infections",8 (11.3),4 (33.3),0.07
+Seizures,4 (5.6),1 (8.3),0.55
+Otherb,9 (12.7),1 (8.3),1.00
+Intensive care,7 (9.9),2 (16.7),0.61
+Days admitted (range),2 (1–23),3 (1–12),0.45
+Deaths,2 (2.8),0 (0.0),1.00

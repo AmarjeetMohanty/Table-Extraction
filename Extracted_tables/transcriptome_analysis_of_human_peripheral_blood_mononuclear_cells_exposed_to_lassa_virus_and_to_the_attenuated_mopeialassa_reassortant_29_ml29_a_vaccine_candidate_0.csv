@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6,7,8
+,"for the activation of IFN-b, which in turn, primes the expression",,described,that mediate,"the
+interaction","of
+SP110",and,viral
+of most IFN-a genes by IFN-induced IRF-7 through the STAT-1,,,,proteins during viral,"infections
+[52].",,,
+,Table 1. Validation of expression patterns of selected genes by quantitative RT-PCR.,,,,,,,
+,,,,,,Fold changes in gene expression qRT-,,
+,,,Fold changes in gene expression DNA microarray,,PCR,,,
+GenBank accession no.,Gene symbol,,,,,,,
+,,LASV,ML29,,LASV,ML29,,
+NM_005101,ISG15,28.95,14.82,,17.58,2.09,,
+NM_002038,IFI6,44.70,4.59,,101.43,3.08,,
+NM_005533,IFI35,16.78,6.38,,9.75,1.76,,
+NM_006417,IFI44,29.96/18.52a,20.31/9.24a,,11.64,2.19,,
+NM_006820,IFI44L,172.96,81.41,,35.64,2.72,,
+NM_022168,IFIH1,4.66/4.68a,4.69/2.92a,,3.45,1.60,,
+NM_001548,IFIT1,146.9,140.1,,45.58,3.24,,
+NM_001547,IFIT2,25.60/27.30a,35.30/25.25a,,5.35,2.42,,
+NM_001549,IFIT3,43.09,27.81,,19.86,2.86,,
+NM_003641,IFITM1,6.48/4.84a,2.48/1.91a,,4.6,1.50,,
+NM_001572,IRF7,7.51,2.92,,5.81,1.75,,
+NM_002462,MX1,34.45,17.98,,16.80,22.73,,
+NM_002534,OAS1,28.90/39.28a,8.13/9.63a,,12.39,1.56,,
+NM_004509,SP110,6.33,2.48,,2.99,1.43,,
+NM_000575,IL1A,23.57,1.28,,2.33,21.31,,
+NM_003810,TNFS10,6.18/5.33a,4.20/5.21a,,3.38,2.21,,
+NM_007315,STAT1,7.98/5.82a,2.22/2.11a,,4.14,1.36,,
+,There was 76% correlation between microarray and qRT-PCR.,,,,,,,
+aTwo different,readings for a particular gene in the same chip.,,,,,,,
+doi:10.1371/journal.pntd.0002406.t001,,,,,,,,

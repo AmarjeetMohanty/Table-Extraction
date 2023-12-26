@@ -1,0 +1,11 @@
+0,1,2,3,4
+Table 4.,"Statistics of the parameters selected in the ARIMA (3, 0, 4) model",,,
+Parameter,Coefficient,Standard error,t-statistics,P-value
+AR (1),1.44,0.026,54.8,<0.001
+AR (2),–1.37,0.042,–32.4,<0.001
+AR (3),0.91,0.025,36.8,<0.001
+MA (1),–1.52,0.033,–45.5,<0.001
+MA (2),1.51,0.05,30.2,<0.001
+MA (3),–1.07,0.038,–28.2,<0.001
+MA (4),0.18,0.023,7.6,<0.001
+,AR: Auto-regressive; MA: Moving average.,,,

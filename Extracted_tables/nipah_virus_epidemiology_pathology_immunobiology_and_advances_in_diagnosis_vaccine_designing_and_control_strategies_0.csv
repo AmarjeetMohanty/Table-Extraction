@@ -1,0 +1,30 @@
+0,1,2,3,4,5,6,7,8
+Table 1. Different vaccine strategies available for Nipah virus (NiV).,,,,,,,,
+,,,,Route of,Administration,Challenge with,,
+Vector,Antigen used,"Dose for
+immunization",Animal model,vaccination,frequency,virus titer,Route of challenge,References
+Vesicular stomatitis,rVSV expressing NiV G,105 plaque forming,Hamsters,Intraperitoneal,Single,6.8 (cid:5) 104 TCID50,Intraperitoneal,DeBuysscher et al. 2014
+virus (VSV),,units (PFU),,,,(1000 LD50),,
+,rVSV-ZEBOV-GP-NiVG,107 PFU,African Green monkey,intramuscular,Single,105 TCID50,Intratracheal,Prescott et al. 2015
+,,,,,,(Malaysian strain),,
+,rVSV-DG-NiVB/G,107 PFU,Ferrets,Intramuscular,Single,(cid:3)5 (cid:5) 105 PFU,Equally divided between,Mire et al. 2013
+,,,,,,,intratracheal and,
+,,,,,,,"intranasal
+routes",
+,Replication-defect-,106 infectious particles,Female Syrian,Intramuscular,Single,105 TCID50 per hamster,Intraperitoneal,Lo et al. 2014
+,ive VSV,,golden hamsters,,,(>1000 times LD50-,,
+,,,,,,Malaysian strain),,
+Canarypox virus,"vCP2199, carrying the",108 PFU,Landrace female pigs,Intramuscular,Boosted 14 days,2.5 (cid:5) 105 PFU,Intranasal challenge,Weingartl et al. 2006
+(ALVAC),"NiV-G and vCP2208,",,,,postvaccination,,,
+vaccine vector,carrying the NiV F,,,,,,,
+Adeno-associated virus,NiV G,2.1010/1.1010 gen-,Balb/c male mice,Intra muscular,One Booster,104 PFU,Intraperitoneal,Ploquin et al. 2013
+(AAV),,ome particles,,or,,,,
+,,,,intra-dermal,,,,
+,,6.1011 genome particles,Golden hamsters,Intra muscular,,,,
+Vaccinia virus,NiV G and NiV F,107 PFU,BALB/c female mice,Subcutaneously,Boosted with the,"1,000 PFU",Intraperitoneal,Guillaume et al. 2004b
+,,,,,same dose,,,
+Measles virus based-,NiV G,1 (cid:5) 105 TCID50,African green monkeys,Subcutaneously,One booster,1 (cid:5) 106 TCID50,Intraperitoneal,Yoneda et al. 2013
+vectors (HL strain or,,2 (cid:5) 104 TCID50,Hamsters,Intraperitoneal,,1 (cid:5) 108 TCID50,Intranasal,
+Edmonston B strain),,,,,,,,
+Venezuelan equine,NiV G,3.1 (cid:5) 105 IU,C3H/He mice,Foot pad,Single,Serum neutralization,–,Defang et al. 2010
+encephalitis virus,,,,inoculation,,assay with pNL4-,,

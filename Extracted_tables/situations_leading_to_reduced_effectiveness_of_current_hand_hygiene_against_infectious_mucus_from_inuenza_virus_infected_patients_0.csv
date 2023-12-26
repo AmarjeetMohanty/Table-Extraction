@@ -1,0 +1,28 @@
+0,1,2,3,4,5,6
+,,,IAV log reduction by conditiona,,,
+,,Nondrying,,,Drying,
+,Disinfection,,,,,
+Sample,time (s),AHR,P,AHW,AHR,AHW
+Saline,30,(cid:6)5,,(cid:6)5,(cid:6)5,(cid:6)5
+,60,(cid:6)5,,(cid:6)5,(cid:6)5,(cid:6)5
+,120,(cid:6)5,,(cid:6)5,(cid:6)5,(cid:6)5
+,240,(cid:6)5,,(cid:6)5,(cid:6)5,(cid:6)5
+Mucus,,,,,,
+All samples,30,0.84 (cid:4) 0.28,0.002,(cid:6)5,(cid:6)5,(cid:6)5
+,60,1.87 (cid:4) 0.33,0.002,(cid:6)5,(cid:6)5,(cid:6)5
+,120,2.95 (cid:4) 0.36,0.002,(cid:6)5,(cid:6)5,(cid:6)5
+,240,(cid:6)5,,(cid:6)5,(cid:6)5,(cid:6)5
+Each sample,,,,,,
+No. 1,30,0.70 (cid:4) 0.49,0.002,(cid:6)5,(cid:6)5,(cid:6)5
+,60,1.55 (cid:4) 0.55,0.002,(cid:6)5,(cid:6)5,(cid:6)5
+,120,3.00 (cid:4) 1.14,0.008,(cid:6)5,(cid:6)5,(cid:6)5
+,240,(cid:6)5,,(cid:6)5,(cid:6)5,(cid:6)5
+No. 10,30,0.66 (cid:4) 0.30,0.002,(cid:6)5,(cid:6)5,(cid:6)5
+,60,1.86 (cid:4) 0.82,0.002,(cid:6)5,(cid:6)5,(cid:6)5
+,120,2.57 (cid:4) 0.62,0.002,(cid:6)5,(cid:6)5,(cid:6)5
+,240,(cid:6)5,,(cid:6)5,(cid:6)5,(cid:6)5
+No. 19,30,1.17 (cid:4) 0.38,0.002,(cid:6)5,(cid:6)5,(cid:6)5
+,60,2.21 (cid:4) 0.67,0.002,(cid:6)5,(cid:6)5,(cid:6)5
+,120,3.29 (cid:4) 0.75,0.004,(cid:6)5,(cid:6)5,(cid:6)5
+,240,(cid:6)5,,(cid:6)5,(cid:6)5,(cid:6)5
+"aIAV,","inﬂuenza A virus; AHR, antiseptic hand rubbing; AHW, antiseptic hand washing. Statistics are presented",,,,,

@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+Sector Bait,,Prey,Sector,Bait,Prey,Sector,Bait,Prey,Sector,Bait,Prey
+1,N1,N,10,N3,P,19,M,N2,28,Empty,N1
+2,N1,P,11,N3,M,20,G,N2,29,Empty,N2
+3,N1,M,12,N3,G,21,N,N3,30,Empty,N3
+4,N1,G,13,N,N1,22,P,N3,31,p53,SV40 T antigen
+5,N2,N,14,P,N1,23,M,N3,32,Lamin,SV40 T antigen
+6,N2,P,15,M,N1,24,G,N3,,,
+7,N2,M,16,G,N1,25,N1,Empty,,,
+8,N2,G,17,N,N2,26,N2,Empty,,,
+9,N3,N,18,P,N2,27,N3,Empty,,,

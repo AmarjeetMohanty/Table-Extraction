@@ -1,0 +1,16 @@
+0,1,2,3,4
+,,,,miR-181b Inhibits Mink Enteritis Virus Replication
+Table 2. Expression level of,,the predicted miRNAs that changed more than 2-fold on MEV infection of,,the two libraries.
+,Rds numa in mock,Rds num in MEV,TPMb in mock,TPM in MEV
+miRNAs,infected cells,infected cells,infected cells,infected cells
+miR-130a,72,332,12.67,59.23
+miR-130b,264,584,46.44,104.18
+miR-148a,510,163,89.72,29.08
+miR-362,857,149,150.77,26.58
+miR-454,76,1,13.37,0.18
+miR-181b,3305,1393,581.44,248.50
+miR-181c,1,2,0.18,0.36
+miR-181d,386,142,67.91,25.33
+aRds mum: Reads number.,,,,
+bTPM: Tags per million.,,,,
+doi:10.1371/journal.pone.0081515.t002,,,,

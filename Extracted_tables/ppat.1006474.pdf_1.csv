@@ -1,0 +1,44 @@
+0,1,2,3,4
+,tance from Zn3 to Zn2 is ~6.4Å shorter in EAV nsp10 than the corresponding distance in,,,
+Table 1. Data collection and refinement statistics.,,,,
+,,MERS-CoV nsp13,,MERS-CoV nsp13
+,,,,(PDB ID: 5WWP)
+Data collection,,MAD phasing,,native data
+Space group,,P6122,,P6122
+Cell dimensions,,,,
+"a, b, c (Å)",,186.19 186.19 185.44,,185.68 185.68 185.09
+"α, β, γ (˚)",,90.00 90.00 120.00,,90.00 90.00 120.00
+X ray source,,SLS X06DA,,SSRF BL19U1
+Wavelength (Å),1.2827 (Peak),1.2831 (Inﬂ),1.2810 (Hrem),0.9784
+,,,,(native)
+Data range (Å),49.06–3.12,49.09–3.12,49.05–3.12,48.95–3.00
+Reﬂections unique,63859,64027,63771,71207
+"a (last shell)
+Rsym",0.29 (1.89),0.29 (2.01),0.30 (1.98),0.08 (0.75)
+CC(1/2),99.7 (61.6),99.7 (59.6),99.3 (47.7),99.8 (57.1)
+I / σI,13.80 (1.76),13.64 (1.67),10.66 (1.31),12.27 (1.57)
+Completeness (%) (last shell),99.9 (99.7),99.9 (99.8),99.9 (99.7),99.4 (98.4)
+Redundancy (last shell),21.15 (19.79),21.14 (19.77),12.91,3.38 (3.36)
+,,,(12.08),
+Reﬁnement,,,,
+Resolution range (Å),,,,48.95–3.00
+% reﬂections in cross validation,,,,4.81
+"c (last shell)
+Rwork
+b/ Rfree",,,,"0.23, 0.28 (0.38, 0.41)"
+Atoms,,,,
+All atoms,,,,8571
+Protein,,,,8540
+Zinc,,,,6
+Solvent,,,,25
+B-factors average (Å2),,,,68.1
+Protein (Å2),,,,68.1
+Ligands (Å2),,,,68.5
+Solvent (Å2),,,,90.2
+r.m.s.d,,,,
+Bond lengths (Å),,,,0.015
+Bond angles (˚),,,,0.950
+Validation,,,,
+MolProbity score,,,,"2.75, 88th percentile d"
+"Clashscore, all atoms",,,,"15.39, 97th percentile d"
+"% residues in favored regions, allowed regions, outliers in Ramachandran plot",,,,"91.8, 7.5, 0.7"

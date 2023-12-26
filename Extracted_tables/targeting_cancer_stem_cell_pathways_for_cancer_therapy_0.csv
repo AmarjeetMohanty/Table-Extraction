@@ -1,0 +1,50 @@
+0,1,2,3,4,5,6
+Table 2.,Agents targeting CSC-associated surface markers in ongoing clinical trials,,,,,
+Drug name,Antibody target,Condition,Sample size,Highest status,NCT number,Current status
+Surface antigens,,,,,,
+"Catumaxomabr
+(emovab)",EpCAM/CD3,Ovarian cancer,II,44,NCT00189345,Completed
+Tagraxofusp,CD123,Acute myeloid leukemia,I,36,NCT03113643,Recruiting
+SL-401,,,,,,
+KHK2823,,,I,39,NCT02181699,Terminated
+Talacotuzumab,,,III,326,NCT02472145,"Completed, has results"
+SGN-CD123A,,,I,17,NCT02848248,Terminated
+IMGN632,,,II,155,NCT03386513,Recruiting
+XmAb14045,CD123/CD4,,II,105,NCT02730312,Recruiting
+MGD006,CD123/CD3,,II,179,NCT02152956,Recruiting
+JNJ-63709178,,,III,326,NCT02472145,"Completed, has results"
+CSL362,CD124,,I,30,NCT01632852,Completed
+TTI-621,CD47,Solid tumor,I,260,NCT02663518,Recruiting
+Hu5F9-G4,,Solid tumor,I,88,NCT02216409,Completed
+IBI188,,Advanced malignancies,I,42,NCT03763149,Recruiting
+CC-90002,,Hematologic neoplasms,I,28,NCT02641002,Terminated
+AO-176,,Solid tumor,I,90,NCT03834948,Recruiting
+SRF231,,Solid tumor,I,148,NCT03512340,Recruiting
+Bivatuzumab mertansine,,Metastatic breast cancer,I,24,NCT02254005,Completed
+Vadastuximab talirine (SGN-CD33A),CD33,Acute myelogenous leukemia,I,195,NCT01902329,Completed
+IMGN779,,,I,62,NCT02674763,Completed
+Mylotarg (gemtuzumab ozogamicin),,ECG,IV,56,NCT03727750,Recruiting
+RO5429083,CD44,Malignant solid tumors,I,65,NCT01358903,Completed
+SPL-108,,Ovarian cancer,I,18,NCT03078400,Recruiting
+Salazosulfapyridine,CD44V4,"Non-small-cell
+lung cancer",I,,UMIN000017854,
+AMC303,CD44V6,Solid tumor,I,55,NCT03009214,Recruiting
+Immune checkpoints,,,,,,
+Ipilimumab,CTLA-4,"Non-small-cell
+lung cancer",II,24,NCT01820754,"Completed, has results"
+Nivolumab,PD-1,Glioblastoma multiforme,II,29,NCT02550249,Completed
+Pembrolizumab,,,II,80,NCT02337491,"Completed, has results"
+Cemiplimab,,,II,30,NCT04006119,Recruiting
+Idarubicin,,Acute myeloid leukemia,II,51,NCT01035502,Completed
+Sym021,,"Solid tumor
+lymphomas",I,102,NCT03311412,Recruiting
+Durvalumab,,Solid tumors,II,124,NCT02403271,"Completed, has results"
+Atezolizumab,PD-L1,"Non-small-cell
+lung cancer",III,1225,NCT02008227,"Completed, has results"
+Avelumab,,Recurrent glioblastoma,II,52,NCT03291314,Completed
+Sym023,Tim3,Solid tumor,I,48,NCT03489343,Recruiting
+ARGX-110,CD70,Acute myeloid leukemia,II,36,NCT03030612,"Active, not
+recruiting"
+Varlilumab (CDX-1127),,Solid tumors,II,175,NCT02335918,Completed
+Sym022,LAG3,Solid tumor,I,30,NCT03489369,Recruiting
+MGD013,CD70/LAG3,Solid tumors,I,255,NCT03219268,Recruiting

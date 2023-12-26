@@ -1,0 +1,47 @@
+0,1,2,3,4,5
+,TABLE 3 | GO and KEGG annotations of possibly related genes for SONFH in this research.,,,,
+Genes,Gene name,Biological process,Molecular function,Cell component,KEGG
+ABCB1#,ATP-binding,lipid localization;,lipid transporter activity;,Apical part of cell,ABC transporters; Bile
+,cassette subfamily,regulation of membrane lipid,drug transporter activity,,secretion
+,B member 1,distribution,,,
+APOB#,Apolipoprotein B,Macromolecular complex,Lipid transporter activity;,Endoplasmic reticulum,Vitamin digestion and
+,,remodeling;,Lipoprotein particle receptor,lumen;,absorption; Fat
+,,Lipid localization;,binding,Protein-lipid complex;,digestion and
+,,Foam cell differentiation;,,Cell body;,absorption
+,,Protein-lipid complex,,Vesicle lumen,
+,,subunit organization;,,,
+,,Response to inorganic,,,
+,,substance;,,,
+,,Regulation of plasma,,,
+,,lipoprotein particle levels,,,
+BAZ2A,Bromodomain,NA,Ligand-dependent nuclear,Transcriptional,NA
+,adjacent to zinc,,receptor binding,repressor complex,
+,ﬁnger domain 2A,,,,
+KLF12,Kruppel-like factor,NA,,,
+,12,,,,
+GRIN3A,Glutamate,NA,Glutamate receptor activity;,Transporter complex;,Nicotine addiction;
+,ionotropic receptor,,"Metal
+ion transmembrane",Cell body,Cocaine addiction;
+,NMDA type,,transporter activity; Passive,,Amphetamine
+,subunit 3A,,transmembrane transporter,,addiction
+,,,activity,,
+COL22A1,Collagen type XXII,NA,NA,Endoplasmic reticulum,NA
+,alpha 1 chain,,,lumen;,
+,,,,collagen trimer,
+FAT1,FAT atypical,NA,NA,NA,NA
+,cadherin 1,,,,
+CABIN1,Calcineurin-,NA,Phosphatase regulator,Inclusion body,NA
+,binding protein,,activity,,
+,1,,,,
+AMPD1,Adenosine,Cellular metabolic,Deaminase activity; Myosin,NA,NA
+,monophosphate,compound salvage,binding,,
+,deaminase 1,,,,
+KCNMA1,Potassium,Renal system process;,"Metal
+ion transmembrane",Transporter complex;,"Renin secretion;
+Insulin"
+,calcium-activated,Response to inorganic,transporter activity; Passive,Apical part of cell,secretion; Salivary
+,channel subfamily,substance;,transmembrane transporter,,secretion
+,M alpha 1,Excretion,activity,,
+PCSK5,Proprotein,Renal system process,NA,"Golgi
+lumen",NA
+,convertase,,,,

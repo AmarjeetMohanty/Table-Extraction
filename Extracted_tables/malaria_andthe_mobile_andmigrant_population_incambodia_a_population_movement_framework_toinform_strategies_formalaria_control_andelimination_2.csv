@@ -1,0 +1,17 @@
+0,1,2,3,4,5
+Table 4  Exposure index,,,,,
+,Forest workers,Construction workers,Security personnel,Seasonal workers,Visitors
+,(FW),(CW),(SP),(SW),(V)
+Main activities,Gathering forest prod‑,"Dam or road construction,",Patrolling,"Farming‑chamkar,",
+,"ucts, fishing, hunting,",mining,,plantation,
+,logging,,,,
+Population type,"Local, Mobile, Migrant","Mobile, Migrant","Mobile, Migrant","Local, Mobile, Migrant",Mobile
+Work area,"Upland forest, forested","Upland forest, forested hills",Border forest,"Foot hills, plains, valleys",
+,hills,,,,
+Forest location Score,3,3,3,2,2
+Housing type,"Tents, none","Huts, barracks, tents","Huts, barracks, tents","Tents, huts",Wooden or
+,,,,,concrete
+,,,,,house
+Housing type Score,3,2,2,2,1
+Prevention measures,Very low,Low,Low to medium,Low,Medium
+use,,,,,

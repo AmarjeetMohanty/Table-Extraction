@@ -1,0 +1,30 @@
+0,1,2,3,4,5,6,7,8
+Table 2. Relative abundance of microbiota in samples from subjects without and with AOM in the first year.,,,,,,,,
+,,,,,Samples,Samples,Samples,
+,,,,,from,from,from,
+Phylum,Class,Order,Family,Genus,all,subjects,subjects,P-value
+,,,,,subjects a,without,with AOM,(Age-
+,,,,,,AOM,,adjusted)
+,,,,,(N = 948),(N = 516),(N = 432),
+Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,17.8%,19.7%,15.5%,0.0071*
+Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Moraxella,9.7%,9.1%,10.4%,0.4309
+Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Dolosigranulum,6.8%,7.8%,5.7%,0.0811
+Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,5.7%,6.0%,5.4%,0.8723
+Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,4.1%,4.6%,3.6%,0.2243
+Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,3.7%,2.6%,5.0%,0.0072*
+Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,3.5%,4.0%,2.9%,0.0103*
+Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,3.5%,3.3%,3.7%,0.2990
+Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,2.9%,2.1%,3.9%,0.0316
+Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Enterobacter,2.5%,1.9%,3.1%,0.0019*
+Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,Micrococcus,1.6%,1.6%,1.7%,0.5602
+Proteobacteria,Gammaproteobacteria,Chromatiales,Ectothiorhodospiraceae,Arhodomonas,1.5%,1.9%,1.1%,0.6486
+Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,1.3%,1.0%,1.6%,0.1554
+Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Incertae Sedis,1.0%,0.7%,1.3%,0.4470
+Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Ralstonia,0.9%,0.9%,0.9%,0.2199
+Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Myroides,0.8%,1.1%,0.5%,0.0202
+Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Pantoea,0.6%,0.5%,0.8%,0.8054
+Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Yersinia,0.6%,0.6%,0.7%,0.0051*
+Firmicutes,Clostridia,Clostridiales,Clostridiaceae 1,Clostridium,0.6%,0.6%,0.6%,0.0688
+,,,,sensu stricto 1,,,,
+Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas,0.6%,0.6%,0.6%,0.6080
+Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingobium,0.6%,0.6%,0.6%,0.1464

@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6,7,8
+"Viruses 2020, 12, 26",,,,,,,,14 of 24
+,Table 2.,,Information on 8–11mer peptides used for H2-b-restricted epitope screening.,,,,,
+Peptide,,,,,Start,End,MHC,
+,,Peptide ID,Sequence,Length,,,,
+Name,,,,,Position,Positions,Restriction,
+G-1,,#1,YTRSTDNQAVIKDAL,15,73,87,H2-b,
+G-9.3,,9.3 1,RSTDNQAVI,9,75,83,H2-Db,
+G-49,,#49,LFMTNVWTPPNPNTV,15,265,279,H2-IAb,
+G-50,,#50 2,NVWTPPNPNTVYHCS,15,269,283,H2-IAb,
+,1 Peptide chosen as the most promising H2-b-restricted peptide of NiV-G; 2 Peptide chosen as the most promising,,,,,,,

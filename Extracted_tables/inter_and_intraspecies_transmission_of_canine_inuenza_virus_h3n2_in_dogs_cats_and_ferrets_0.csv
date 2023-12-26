@@ -1,0 +1,9 @@
+0,1,2,3,4,5
+Table 1.,Infected animals’ clinical symptoms and seroconversion,,,,
+,,,No. of positive animals ⁄ no. tested,,
+,,Clinical signs*,,Seroconversion,
+Group,Transmission route,Infected,Contacted,Infected,Contacted
+Dog** to cat,AE,4 ⁄ 4,2 ⁄ 2,4 ⁄ 4,2 ⁄ 2
+Dog to ferret,AE,,0 ⁄ 2,,0 ⁄ 2
+Cat** to cat,DC,2 ⁄ 2,2 ⁄ 2,2 ⁄ 2,2 ⁄ 2
+Ferret*** to ferret,DC,3 ⁄ 3,0 ⁄ 3,3 ⁄ 3,2 ⁄ 3

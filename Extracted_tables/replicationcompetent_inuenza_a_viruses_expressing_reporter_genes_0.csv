@@ -1,0 +1,17 @@
+0,1,2,3,4,5
+"duplicated after the protein stop transcription signal, before the 3’ NCR terminus.",,,,,
+,,Table 4. Reporter-expressing recombinant inﬂuenza viruses in the viral PA.,,,
+,Virus,,Insertion,,
+Gene,,Transgene (2),,Application,Ref.
+,Backbone (1),,Mechanism (3),,
+,,,,Virus biology,"[50,"
+PA,WSN,Nluc,2A site,,
+,,,,and transmission,52]
+,,,,Virus biology,
+PA,pH1N1,Nluc,2A site,,[69]
+,,,,and transmission,
+,"PR8, Neth602,","eGFP, fRFP, iRFP,",,,
+PA,,,2A site,Virus biology,[73]
+,"Ind5, Anh1","Gluc, FFluc",,,
+PA,WSN,GFP,Fusion,Virus biology,[87]
+,(1) WSN: A/WSN/1933 (H1N1); pH1N1: A/California/04/2009 (pH1N1); PR8: A/Puerto Rico/8/1934 (H1N1);,,,,

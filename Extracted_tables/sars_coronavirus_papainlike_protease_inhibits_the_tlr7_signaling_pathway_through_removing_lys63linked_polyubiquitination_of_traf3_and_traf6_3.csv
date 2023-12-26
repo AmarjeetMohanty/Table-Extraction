@@ -1,0 +1,19 @@
+0,1,2,3,4,5
+,IP:TRAF3,,,,
+,,,,,IP:TRAF6
+,IB:TRAF3,,,,
+,,,,,IB:TRAF6
+,,,,,1.6
+C.,,,,,
+,,IMQ,,D.,
+,,,,,1.4
+,,,,,1.2
+,,0                           30                        60          min,,,
+,,,,,1
+,Vector   PLPro,Vector   PLPro,Vector  PLPro,,
+,,,,p-TBK1/TBK1,0.8
+,,,,,0.6
+p-TBK1,,,,,
+,,,,,0.4
+,,,,,0.2
+TBK1,,,,,0

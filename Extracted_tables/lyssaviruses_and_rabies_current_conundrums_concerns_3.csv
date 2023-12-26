@@ -1,0 +1,20 @@
+0,1,2,3,4,5,6
+Geographic,WHO region,Country,Human,Percentage,Human/,Dog population
+area,,,population,rural,dog ratio,(estimated)
+,,,(estimated),,,
+,AFR,Burundi,"10,162,532",,16.8,"604,913"
+,AFR,Republic of,"4,447,632",,9.5,"468,172"
+,,Congo,,,,
+,AFR,Ethiopia,"94,100,756",,31.2,"3,016,050"
+,AFR,Mauretania,"3,889,880",,31.2,"124,676"
+,AFR,Kenya,"44,353,691",,9.5,"4,668,810"
+,EMR,Somalia,"10,495,583",,31.2,"336,397"
+,AFR,Central,"4,616,417",,16.8,"274,787"
+,,African,,,,
+,,Republic,,,,
+,AFR,Eritrea,"6,333,135",,31.2,"202,985"
+,AFR,Cameroon,"22,253,959",,16.8,"1,324,640"
+,Total other,,,,,"27,458,959"
+,Africa,,,,,
+Total Africa,,,,,,"77,416,599"
+excluding,,,,,,

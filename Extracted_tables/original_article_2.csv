@@ -1,0 +1,62 @@
+0,1,2,3,4
+Table 4. Continued,,,,
+"Substrate
+UniProt",P1,"Peptidase [MEROPS ID]
+(total
+substrates)",Replacements,"Possible
+Ref."
+accession,,,,cause
+"Cathepsin E
+P43159",53,"Cathepsin E [A01.010]
+(64)",KVDMVQYT (14),(35)
+,,,-Y------ (11),a
+,,,-F------ (2),h
+,,,-H------ (3),a
+,,,---G---- (2),a
+,,,---T---- (2),h
+,,,----H--- (5),a
+,,,------H- (1),g
+"40S ribosomal protein S25
+P62852",51,"Granzyme B,",LFDKATYD (9),(55)
+,,"rodent-type [S01.136]
+(231)",--XXXXX- (2),"b, d"
+"Hemoglobin subunit alpha
+P69905",37,"Cathepsin D [A01.009]
+(145)",FLSFPTTK (42),(34)
+,,,-----W-- (1),h
+"Hemoglobin subunit alpha
+P69905",109,"Cathepsin D [A01.009]
+(145)",LLVTLAAH (36),(34)
+,,,------C- (6),h
+"Hemoglobin subunit alpha
+P69905",110,"Cathepsin D [A01.009]
+(145)",LVTLAAHL (36),(34)
+,,,-----C-- (6),h
+"ABC transporter periplasmic-binding protein yphF
+P77269",26,"Signal peptidase I
+[S26.001]
+(294)",FARAAEKE (22),(47)
+,,,---T---- (1),g
+"Tyrosine-protein phosphatase non-receptor
+type 18
+Q61152",424,"Caspase-1 [C14.001]
+(60)",EVTDGAQT (4),(58)
+,,,---G---- (4),h
+,,,----R--- (1),g
+"Cartilage intermediate layer protein 2
+Q8IUL8",810,"ADAMTS5 peptidase [M12.225]
+(38)",ALVTATLG (14),(53)
+,,,-H---N-- (1),h
+,,,-----N-- (2),h
+,,,------M- (2),h
+"Cartilage intermediate layer protein 2
+Q8IUL8",811,"ADAMTS5 peptidase [M12.225]
+(38)",LVTATLGG (14),(53)
+,,,H------- (1),g
+,,,Y------- (5),h
+,,,Y---IM-- (2),h
+"Cartilage intermediate layer protein 2
+Q8IUL8",813,"ADAMTS5 peptidase [M12.225]
+(38)",TATLGGEE (12),(53)
+,,,M------- (3),h
+,,,--S----- (5),h

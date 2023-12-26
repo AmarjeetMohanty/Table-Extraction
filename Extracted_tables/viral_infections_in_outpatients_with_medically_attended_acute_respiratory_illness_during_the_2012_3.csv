@@ -1,0 +1,48 @@
+0,1,2,3,4,5
+,"Table 4 Baseline comparisons using unadjusted odds ratios, between single viral",,,infections (n = 563) and co-detections,
+(n = 85) in 2012-2013 (Continued),,,,,
+,Good,86.0,14.0,0.76 (0.43-1.34),
+,Very good,90.4,9.6,0.49 (0.28-0.86),
+,Excellent,82.3,17.7,Referent,
+Ability to perform usual activities,,,,,0.190
+,"Not at all
+(0–5)",84.8,15.2,2.21 (0.85-5.81),
+,Somewhat (6–8),87.9,12.1,1.71 (0.64-4.57),
+,Able to perform (9),92.5,7.5,Referent,
+Current employment,,,,,0.170
+,Yes,89.0,11.0,Referent,
+,No,93.8,6.2,0.53 (0.21-1.32),
+,Child attends school outside home (for those <18 years old),,,,0.090
+,Yes,85.1,14.9,Referent,
+,No,73.8,26.2,2.02 (0.88-4.67),
+Anti-viral medication prescribed,,,,,0.840
+,Yes,86.8,13.2,Referent,
+,No,87.7,12.3,0.92 (0.40-2.13),
+Fever,,,,,0.660
+,Yes,86.4,13.6,1.11 (0.69-1.80),
+,No,87.7,12.3,Referent,
+Fatigue,,,,,0.370
+,Yes,87.5,12.5,0.78 (0.46-1.33),
+,No,84.5,15.5,Referent,
+Wheezing,,,,,0.350
+,Yes,85.3,14.7,1.24 (0.78-1.98),
+,No,87.8,12.2,Referent,
+Sore throat,,,,,0.010
+,Yes,89.2,10.8,0.51 (0.32-0.82),
+,No,81.0,19.0,Referent,
+Nasal congestion,,,,,0.640
+,Yes,87.1,12.9,0.85 (0.43-1.68),
+,No,85.1,14.9,Referent,
+Shortness of breath,,,,,0.600
+,Yes,87.7,12.3,0.88 (0.56-1.40),
+,No,86.3,13.7,Referent,
+Continuous variables,,,,,
+"Age, years (units = 5)",,34.6 (22.8),26.3 (20.9),0.92 (0.87-0.97),0.002
+BMI,(units = 2),20.2 (14.4),15.3 (14.5),0.95 (0.92-0.98),0.004
+Temperature (°F),,99.2 (1.4),99.3 (1.1),1.03 (0.85-1.26),0.740
+Severity of,"illness at enrollment (VAS),","range = 1–100 (units = 5)
+59.2 (18.6)",56.7 (19.1),0.96 (0.91-1.02),0.240
+Number of days between onset and enrollment,,3.2 (1.4),3.3 (1.3),1.05 (0.90-1.24),0.520
+,Number of days between enrollment and return of,"follow-up survey
+14.8 (10.9)",15.9 (10.6),1.04 (0.94-1.16),0.440
+(units = 5),,,,,

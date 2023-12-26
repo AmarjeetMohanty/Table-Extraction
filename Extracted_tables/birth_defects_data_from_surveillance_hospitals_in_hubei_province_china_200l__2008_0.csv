@@ -1,0 +1,18 @@
+0,1,2,3,4,5
+,"Table 1: Prevalence of BD by different characteristics of infants in 2008, Hubei Province",,,,
+Characteristic,Number of,Total,"Total prevalence per 10,000",χ2,P
+variable,BDs †,births,births (95% CI†),value,value
+Residence,,,,,
+Urban,589,"42,342",139.1 (127.9 to 150.3),0.03,0.855
+Suburb,372,"27,066",137.4 (123.6 to 151.3),,
+Sex of infant,,,,,
+Male,542,"37,566",144.3 (132.2 to 156.3),5.24,0.022*
+Female,395,"31,818",124.1 (112 to 136.3),,
+Unclear‡,24,24,–,,
+"Maternal age, y",,,,,
+<20,14,"1,004",139.4 (67 to 212),5.69,0.224
+20-,336,"22,583",148.8 (133 to 164.6),,
+25-,380,"29,146",130.4 (117.4 to 143.4),,
+30-,157,"12,106",129.7 (109.5 to 149.9),,
+35-,74,"4,569",162 (125.4 to 198.6),1.98,0.160
+* P<0.05 (significant difference).,,,,,

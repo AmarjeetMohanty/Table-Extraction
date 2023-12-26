@@ -1,0 +1,19 @@
+0,1,2,3,4,5,6,7
+,,HSV-1 protein BLAST versus  human proteins:  filter = lipoprotein,,,,,
+,,,,,,,Proteins  Chromosome
+,Distribution of 171264 BLAST hits on the query sequence,,,,,,
+,"Mouse-over to show defline and scores, click to show alignments",,,,,LRP1,12q13-q14
+,,Color key for alignment scores,,,,LRP1B,2q21.2
+,<40,40–50,50–80,80–200,(cid:2)200,,
+Query,,,,,,LRP2,2q24-q31
+0,30000,60000,90000,120000,150000,,
+,,,,,,LRP3,19q13.11
+,,,,,,LRP4,11p11.2
+,,,,,,LRP5,11q13.4
+,,,,,,LRP6,12p13.2
+,,,,,,LRP8,1p34
+,,,,,,LRP11,6q25.1
+,,,,,,SORL,11q23.2-q24.2
+,,,,,,SORL1,11q23.2-q24.2
+,,,,,,LDLR,19p13.3
+,,,,,,VLDLR,9p24

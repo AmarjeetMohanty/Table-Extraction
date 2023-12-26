@@ -1,0 +1,21 @@
+0,1,2,3,4,5,6,7,8,9,10
+,,,,,,Number of clones obtained from each gene,,,,
+ID,Location,FIP,Sample,mRNA,E,M,3a,3b,3c,Total
+,,,,,249nt,792nt,213nt,222nt,714nt,
+USP2,1,Absent,Faeces,Pos,4,6,6,6,4,26
+,,,Stomach,Pos,10,11,10,9,6,46
+USP6,7,Noneffusive,,,,,,,,
+,,,Faeces,Neg,0,3,8,7,5,23
+,,,Cerebrum,Neg,5,5,5,5,2,22
+USP7,3,Noneffusive,,,,,,,,
+,,,Faeces,Pos,3,7,10,10,5,35
+,,,Stomach,Pos,1,1,1,1,1,5
+USP8,6,Effusive,,,,,,,,
+,,,Urinary bladder,Pos,0,0,3,3,2,8
+,,,Cerebrum,Neg,3,5,8,8,8,32
+USP17,2,Effusive,,,,,,,,
+,,,Large intestine,Pos,3,1,4,4,2,14
+USP14,4,Absent,Faeces,Pos,1,1,12,12,9,35
+USP16,5,Effusive,Cerebrum,Pos,6,0,9,9,9,33
+USP18,2,Effusive,Cerebrum,Pos,2,3,3,3,2,13
+Total of clones (𝑛 = 292),,,,,38,43,79,77,55,292

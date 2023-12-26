@@ -1,0 +1,45 @@
+0,1,2,3,4,5,6,7,8,9
+,"Table 1. Primer pools, amplicons and probes for",,the URI assay.,,,,,,
+,. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .,,,,,,,,
+Pool,Target,Forward,Reverse,Gene,Amplicon,A,B,C,Probes
+1,B. pertussis,Bp_For_1,Bp_Rev_1,LysR TR,427,*,,,8
+1,"""",Bp_For_2,Bp_Rev_2,ABC T,476,*,*,*,18
+1,"""",Bp_For_3,Bp_Rev_3,ADH,769,*,,,14
+1,"""",Bp_For_4,Bp_Rev_4,LysR TR,569,*,,,21
+1,"""",Bp_For_5,Bp_Rev_5,tfdA,552,*,,,10
+1,"""",Bp_For_6,Bp_Rev_6,CAIB,534,*,*,,15
+1,M. pneumoniae,Mp_For_1,Mp_Rev_1,dnaK,564,*,,,29
+1,"""",Mp_For_2,Mp_Rev_2,pdhA,284,*,*,*,18
+1,"""",Mp_For_3,Mp_Rev_3,tuf,604,*,*,,33
+1,S. pyogenes,Sp_For_1,Sp_Rev_1,3-oxoacyl,510,*,,,19
+1,"""",Sp_For_2,Sp_Rev_2,23S rRNA,463,*,*,,26
+1,"""",Sp_For_3,Sp_Rev_3,ABC T,421,*,*,*,24
+1,C. pneumoniae,Cp_For_1,Cp_Rev_1,clp endop,491,*,,,23
+1,"""",Cp_For_2,Cp_Rev_2,HB-2,528,*,*,*,25
+1,"""",Cp_For_3,Cp_Rev_3,29 kDa lip,475,*,,,23
+1,"""",Cp_For_4,Cp_Rev_4,RNA pol S,526,*,,,22
+1,"""",Cp_For_5,Cp_Rev_5,R-Isomer,526,*,*,,20
+1,Adenovirus 4,Adv_For_1,Adv_Rev_1,gp 12,531,*,*,,55
+1,"""",Adv_For_2,Adv_Rev_2,gp 12,606,*,*,*,**
+"..........................................................................................................................................................................
+2",Coronavirus 229E,CV229E_F_1,CV229E_R_1,Matrix,299,*,*,,20
+2,Coronavirus HK,CV HK_F_1,CV HK_R_1,HE,767,*,*,,22
+2,Coronavirus OC43,CVOC43_F_1,CVOC43_R_1,HE,528,*,,,28
+2,"""",CVOC43_F_2,CVOC43_R_2,N,507,*,*,,33
+2,Influenza A,InfA_For_1,InfA_Rev_1,Matrix,500,*,*,,20
+2,"""",InfA_For_2,InfA_Rev_2,Matrix,339,*,,,13
+2,Influenza B,InfB_For_1,InfB_Rev_1,NP,516,*,*,,29
+2,"""",InfB_For_2,InfB_Rev_2,Matrix,506,*,,,28
+2,PIV 1,PIV1_For_1,PIV1_Rev_1,Matrix,488,*,*,,28
+2,"""",PIV1_For_2,PIV1_Rev_2,HN,532,*,,,23
+2,PIV 2,PIV2_For_1,PIV2_Rev_1,Matrix,576,*,,,28
+2,"""",PIV2_For_2,PIV2_Rev_2,NP,592,*,*,,34
+2,PIV 3,PIV3_For_1,PIV3_Rev_1,Matrix,840,*,*,,35
+2,"""",PIV3_For_2,PIV3_Rev_2,HA,517,*,,,24
+2,RSV,RSV_For_1,RSV_Rev_1,Matrix 2,440,*,,,18
+2,"""",RSV_For_2,RSV_Rev_2,Matrix 2,496,*,,,22
+2,"""",RSV_For_3,RSV_Rev_3,Phos,412,*,,,23
+2,"""",RSV_For_4,RSV_Rev_4,Fusion,474,*,*,,18
+Cont.,Arabidopsis,RCA For,RCA Rev,RCA,508,*,*,*,32
+Cont.,"""",Cab For,Cab Rev,caB,501,*,*,*,23
+Cont.,"""",rbcL For,rbcL Rev,rcbL,515,*,,,12

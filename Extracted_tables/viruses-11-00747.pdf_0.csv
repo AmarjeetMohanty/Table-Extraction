@@ -1,0 +1,12 @@
+0,1,2,3,4,5
+,,Table 1. Overview of primary antibodies used in the current study.,,,
+◦,,,,,
+"1
+Antibody",Target,Dilution,Host,Clone,Supplier
+Anti-β-Tubulin,Cilia,1:200,Mouse,ONS 1A6,
+Anti-ZO-1,Tight junctions,1:200,Goat,Ab99462,
+,Green,,,,Abcam
+Anti-GFP,ﬂuorescent,1:200,Mouse,Ab1218,
+,protein (GFP),,,,
+Anti-mCherry,mCherry,1:200,Chicken,Ab205402,
+Anti-ZO-1,Tight Junctions,1:200,Rabbit,61-7300,Thermoﬁsher

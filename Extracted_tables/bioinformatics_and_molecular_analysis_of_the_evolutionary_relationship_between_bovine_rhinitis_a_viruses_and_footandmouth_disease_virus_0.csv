@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6,7,8
+Table 1. distribution of positively or negatively selected sites among aphthoviruses.,,,,,,,,
+ANALYSIS,,NEgATIVE SITES,,,PoSITIVE SITES,,,
+,No.,CoDoN SITE,AVg.,P-VALUE,No.,CoDoN SITE,AVg.,P-VALUE
+,,,dN/dS,,,,dN/dS,
+slac,363,n.a.,7.65015e-05,0.004–0.05,0,n.a.,n.a.,$0.05
+fEl,425,n.a.,0.001946,0.002–0.05,3,"489, 832, 1958",Infinite,0.038–0.045
+ifEl,3,"1119, 2001,",0.0003,0.002–0.05,14,"393, 431, 465,",Infinite,0.008–0.05
+,,2439,,,,"993, 1123, 1471,",,
+,,,,,,"1742, 1880, 1901,",,
+,,,,,,"1914, 1920, 2055,",,
+,,,,,,"2059, 2331",,
+mEmE,n.a.,n.a.,n.a.,n.a.,6,"49, 735, 884, 2054,",n.a.,0.015–0.048
+,,,,,,"2331, 2394",,

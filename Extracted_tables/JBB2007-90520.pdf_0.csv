@@ -1,0 +1,40 @@
+0,1,2,3,4,5,6
+Eric Dumonteil,,,,,,3
+,,,Table 1: DNA vaccines tested against murine leishmaniasis.,,,
+Antigen,,Dose,Challenge,Immune response,Protection,Reference
+GP63,,2 × 100 μg IM,L. major,Th1,+++,[14–17]
+LACK,,2 × 100 μg IM,L. major,"Th1, IFNγ",+++,[18–21]
+LACK,,2 × 30 μg IN,L. amazonensis,,+++,[22]
+,,2 × 100 μg IM,,,−,
+LACK,,,L. mexicana,,,[23]
+,,2 × 100 μg IM or SC,,"Th1, IFNγ",−,
+LACK,,,L. chagasi,,,[24]
+,,2 × 100 μg ID or SC,,,−,
+LACK,,,L. chagasi,Th1,,[25]
+LACK,,Prime/boost,L. major,Th1,+++,[26]
+LACK,,Prime/boost,L. major,Th1,+++,[27]
+LACK,,Prime/boost,L. major,"Th1, IFNγ",+++,[28]
+LACK,,Prime/boost,L. infantum,IFNγ,+++,[29]
+TRYP,,Prime/boost,L. major,IFNγ,+++,[30]
+LiP0,,2 × 100 μg im,L. major,Th1,++,[31]
+SP1,,2 × 100 μg SC or prime/boost,L. major,IFNγ,++,[32]
+"Histones mix: H2A, H2B,",,,,,,
+,,3 × 200 μg IM,L. major,"Th1, IFNγ",+++,[22]
+"H3, H4",,,,,,
+"LmSTI1,TSA",,3 × 100 μg IM,L. major,Th1,+++,[33]
+"LACK, LmSTI1, TSA",,1 × 300 μg SC,L. major,Th1,+++,[13]
+CPb/CPa,,2 × 100 μg IM,L. major,Th1,+++,[34]
+PSA-2,,2 × 20–50 μg IM,L. major,Th1,+++,[35]
+"LACK, PSA2, Gp63,","LeIF,",,,,,
+,,1 × 50 μg IM,L. major,,− to +++,[36]
+p20 Ribosomal like protein,,,,,,
+,,3 × 100 μg IM,,,−,
+Meta 1,,,L. major,Th2,,[37]
+P4,,3 × 100 μg various sites,L. amazonensis,Th1,+++,[38]
+"CPb, GP63, GP46",,2 × 100 μg IM,L. mexicana,,+ to +++,"[23, 39]"
+NH36,,2 × 100 μg IM,L. domovani,,+++,[40]
+,,,L. mexicana,,++,
+"NH36, GP63",,2 × 20 μg IM,L. mexicana,IFNγ,+++,[41]
+CPa/CPb,,Prime/Boost,L. infantum,"Th1, IFNγ",+++,[42]
+ORFF,,3 × 100 μg IM,L. donovani,,+++,[43]
+,IM: intramuscular; IN: intranasal; SC: subcutaneous; −: no protection; +: little protection; ++: fair protection; +++: very good protection.,,,,,

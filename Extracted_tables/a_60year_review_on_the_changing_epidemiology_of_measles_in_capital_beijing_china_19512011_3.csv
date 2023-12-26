@@ -1,0 +1,11 @@
+0,1,2
+,incidence of measles,antibody positive
+incidence(/100 000),,
+,antibody positive rate of measles,rate(%)
+300,,120
+,moving average of antibody positive rate of measles,
+250,,100
+200,,80
+150,,60
+100,,40
+50,,20

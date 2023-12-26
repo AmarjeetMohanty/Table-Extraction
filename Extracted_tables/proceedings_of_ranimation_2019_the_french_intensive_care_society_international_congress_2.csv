@@ -1,0 +1,33 @@
+0,1,2,3,4,5
+,"impairment 
+is  major  particularly",in  those  with  previous  CKD  and,,,
+,,severe  AKI  during  ICU  stay.  ESRD  is  rare  and  occurs  in  patient  with,,,
+,recurrent AKI.,,,,
+,Parameter,OR,95% CI,,p
+,Baseline eGFR,0.981,0.966,0.996,0.0128
+,AKI KDIGO stage at canulation time,,,,
+,No AKI (ref ),1,,,0.8252
+,Stage 1,0.904,0.166,4.913,0.9070
+,Stage 2,0.728,0.091,5.821,0.7651
+,Stage 3,0.385,0.047,3.118,0.3708
+,Worst AKI KDIGO stage in ICU,,,,
+,No AKI (ref ),1,,,0.0052
+,Stage 1,4.396,0.662,29.189,0.1253
+,Stage 2,4.428,0.762,25.732,0.0975
+,Stage 3,67.190,6.477,696.951,0.0004
+,SOFA without hemodynamic and renal,0.820,0.650,1.034,0.0930
+,score,,,,
+,Indication of ECMO,,,,
+F‑71,Medical cause,4.177,0.842,20.728,0.0802
+High risk of Chronic Kidney Disease after VA‑ECMO ‑ Results,,,,,
+,Post‑operative with CBP < 140 min,0.889,0.159,4.977,0.8931
+of one year follow‑up of a monocentric cohort of 132 patients,,,,,
+"Camille Vinclair (speaker)1, Romain  Sonneville1, Jean  Reuter1, Radj  Cally1,","Post‑operative with CBP 
+ 140",1,,,0.0834
+,≥,,,,
+"Mathilde  Neuville1, Jordane  Lebut1, Claire  Dupuis1, Stéphane  Ruckly2,",,,,,
+,Number of RBC transfusion,1.041,0.983,1.104,0.1708
+"Jean‑François  Timsit1, Lila  Bouadma1",,,,,
+,Activated Partial Thromboplastin Time,1.727,0.732,4.075,0.2120
+"1HUPNVS ‑ Hôpital Bichat ‑ Claude‑Bernard, Paris, FRANCE; 2UMR 1137 ‑",,,,,
+"IAME Inserm. Paris‑Diderot University, Paris, FRANCE",,,,,

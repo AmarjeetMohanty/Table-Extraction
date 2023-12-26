@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6,7
+Table 4,,,,,,,
+GC-MS analysis from P.,,tomentosa acetone extract.,,,,,
+S.,Peak,Compound name,Nature of the,Molecular,Molecular,Biological activities,References
+No,area,,compound,weight,formula,,
+1,18.12,"3,7,11,15- Tetramethyl- 2-",Terpene alcohol,296,C20H40O,"Cancer preventive, Antimicrobial and","Sharmila et al. (2016),"
+,,Hexadecen-1-OC,,,,Fragrance compound,Venkatesh et al. (2014)
+2,20.04,N-Hexadecanoic acid,Palmitic acid,256,C16H32O2,"Potent mosquito larvicide, Antioxidant,","Vanitha et al. (2018),"
+,,,,,,"Antiinﬂamatory, pesticide, ﬂavour and","Sharmila et al. (2016),"
+,,,,,,"Nematicide,",Venkatesh et al. (2014)
+3,21.50,Octadecanoic acid,Stearic acid,284,C20H36O2,"Antimicrobial, Cancer preventive and",Ananthi and Ranjitha
+,,,,,,Insectifuge,"Kumari (2013),"
+,,,,,,,Abubakar and Majinda
+,,,,,,,(2016)
+4,22.54,"Hexanedioic acid, Bis(2-",Diisooctyl adipate,370,C22H42O4,-,-
+,,Ethylhexyl) Ester,(DEHA),,,,
+5,25.33,"2,6,10,14,18,22-","Squalene, Organic",410,C30H50,"Antibacterial, Antioxidant, Antitumor,",Sharmila et al. (2016)
+,,"Tetracosahexane,","compound,",,,"Antiinﬂammatory, Hypocholesterolemic",
+,,"2,6,10,15,19,23-",Triterpene,,,and Immunostimulant,
+,,"Hexamethyl-,(ALL-E)-",,,,,
+6,27.07,Vitamin E,Vitamin,430,C29H36O2,"Antidermatitic, Antileukemic,",Santhosh Kumar et al.
+,,,compound,,,Antispasmodic,(2014)
+7,30.08,"1-Naphthalenepropanol, Alpha-",-,308,C20H36O2,-,-
+,,Ethydecahydro- 5-,,,,,
+,,(Hydroxymethyl)-,,,,,

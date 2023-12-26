@@ -1,0 +1,39 @@
+0,1,2,3,4,5
+Table 1 | Continued,,,,,
+Host,Antigen,Antibody format,Production,Yield,Reference
+,,(clone),system,,
+CHO,n. d.,IgG,Electroporation,4 g/L,Kober et al. (291)
+NS0,n. d.,IgG,"5 L bioreactor,",800 mg/L,Spens and Häggström (292)
+,,,fed-batch,,
+NS0,n. d.,IgG,2–100 L bioreactor,2.64 g/L,Burky et al. (293)
+per.C6,n. d.,IgG,Hollow ﬁber,1 g/L,Jones et al. (147)
+,,,bioreactor,,
+per.C6,n. d.,IgG,Roller bottle culture,50–100 mg/L,Jones et al. (147)
+per.C6,n. d.,IgM,Shake ﬂasks,0.5–2 g/L,Tchoudakova et al. (294)
+CHO,n. d.,VHH-Fc,Shake ﬂasks,100 mg/L,"Agrawal et al.
+(295)"
+CHO,HER2,IgG,Orbital shaking,152 mg/L,"Huang et al.
+(296)"
+,,,bioreactor,,
+Transgenic plants,,,,,
+Chlamydomonas,CD22,"Immunotoxin,",Particle,0.2–0.4% of,Tran et al. (297)
+reinhardtii,,exotoxin A,bombardement,chloroplasts,
+Nicotiana tabacum,BoNT/A,scFv,Agrobacterium,20–40 mg/kg,"Almquist et al.
+(298)"
+,,,tumefaciens,,
+Nicotiana,HIV,IgG,CPMV,105.1 mg/kg,Sainsbury et al. (299)
+benthamiana,,,,,
+Nicotiana tabacum,HCC,scFv-RNase,Agrobacterium,0.75–1.99 µg/g,"Cui et al.
+(300)"
+,,,tumefaciens,,
+Nicotiana,Ebola virus GP1,IgG,Agrobacterium,0.4–0.5 mg/g,"Huang et al.
+(301)"
+benthamiana,,,tumefaciens,,
+Transgenic animals,,,,,
+Mouse,HBV,IgG,Milk,17.8 mg/mL,"Zhang et al.
+(302)"
+Mouse,CD147,Chimeric IgG,Milk,"1
+.1–7.4 mg/mL",Wei et al. (303)
+Mouse,Hepatitis A virus,IgG,Milk,32 mg/mL,Zhang et al. (304)
+Mouse,HER2,scFv-Fc,Milk,∼120 ng/mL,Yuskevich et al. (305)
+Chicken,"CD2, prion peptide",Chimeric IgG,Egg white,<150 µg/mL,Kamihira et al. (306)

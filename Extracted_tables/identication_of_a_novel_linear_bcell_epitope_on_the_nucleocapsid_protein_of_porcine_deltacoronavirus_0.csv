@@ -1,0 +1,36 @@
+0,1,2,3,4
+,Table 3. Deltacoronavirus strains used for EP-4E88 sequence alignment.,,,
+,,Collection,Accession,Lengths of N-Protein
+Strains,Country,,,
+,,Date,Number,(Amino Acid)
+PDCoV-HKU15,China,2009,YP_005352835.1,342
+Asian leopard cat coronavirus,,,,
+,China,2006,ABQ39962.1,342
+(ALCCoV) Guangxi/F230/2006,,,,
+Bulbul-CoV-HKU11-934,China,2007,ACJ12039.1,349
+Thrush-CoV-HKU12-600,China,2007,ACJ12057.1,343
+Munia-CoV-HKU13-3514,China,2007,ACJ12066.1,352
+White-eye-CoV-HKU16,China,2007,YP-005352842.1,347
+Sparrow-CoV-HKU17,China,2007,YP-005352850.1,342
+Night-heron-CoV-HKU19,China,2007,YP-005352867.1,342
+Wigeon-CoV-HKU20,China,2008,YP-005352875.1,350
+Common-moorhen CoV-HKU21,China,2007,YP-005352885.1,351
+Falcon-CoV-UAE-HKU27,China,2013,BBC54826.1,344
+Pigeon-CoV-UAE-HKU29,China,2017,BBC54846.1,344
+Quail-CoV-UAE-HKU30,China,2017,BBC54865.1,341
+Magpie-robin-CoV-HKU18,China,2007,YP-005352858.1,346
+Sparrow-deltacoronavirus,USA,2017,AWV67111.1,341
+,Table 4. Porcine coronavirus strains used for EP-4E88 sequence alignment.,,,
+,,Collection,Accession,Lengths of N-Protein
+Strains,Country,,,
+,,Date,Number,(Amino Acid)
+PEDV-CV777,Belgium,1977,AF353511,441
+PEDV-AJ1102,China,2011,JX188454,441
+TGEV-Purdue P115,USA,2006,DQ811788,382
+TGEV-Miller M6,USA,2006,DQ811785,382
+PRCV-ISU-1,USA,2006,DQ811787,382
+PHEV-VW572,Belgium,2005,DQ011855,449
+PHEV-CC14,China,2014,MF083115,449
+SADS-CoV/CN/GDWT/2017,China,2017,MG557844,375
+PEAV-GDS04,China,2017,MH697599,375
+SeACoV-p10,China,2018,MK977618,375

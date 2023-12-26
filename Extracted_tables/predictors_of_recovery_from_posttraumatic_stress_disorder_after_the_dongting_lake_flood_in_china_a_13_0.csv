@@ -1,0 +1,34 @@
+0,1,2,3,4,5,6
+"Table 2 Univariable logistic regression analyses of the effects of demographics,",,,,,"trauma exposure, social support, and coping style",
+on the odds of PTSD at,follow-up,,,,,
+,,PTSD at follow-up,,,,
+Variable,,,Number,(%),OR (95 % CI),P
+Overall,,,39 (19.4),,,
+Gender,,Female,23 (25.6),,1,
+,,Male,16 (14.4),,0.49 (0.24–0.99),0.050
+Marital status,,Married,34 (18.7),,1,
+,,Unmarried,5 (26.3),,0.64 (0.22–1.91),0.426
+Age,,21–60,29 (20.4),,1,
+,,61–88,10 (16.9),,0.79 (0.36–1.76),0.571
+"Educational
+level",,≤Primary school,24 (22.6),,1,
+,,>Primary school,15 (15.8),,0.64 (0.31–1.31),0.222
+"Loss of
+relative",,No,30 (16.0),,1,
+,,Yes,9 (69.2),,11.85 (3.43–40.98),0.000
+Bodily injury,,No,16 (12.4),,1,
+,,Yes,23 (31.9),,3.32 (1.61–6.82),0.001
+Loss of property,,No,11 (10.7),,1,
+,,Yes,28 (28.6),,3.35 (1.56–7.18),0.002
+"Loss of
+livelihood",,No,14 (13.9),,1,
+,,Yes,25 (25.0),,2.07 (1.01–4.27),0.049
+Damage to home,,No,19 (14.5),,1,
+,,Yes,20 (28.6),,2.36 (1.16–4.80),0.018
+Post-flood stressors,,Negative,28 (17.9),,1,
+,,Positive,11 (24.4),,1.48 (0.67–3.27),0.334
+Social support,,High,2 (4.8),,1,
+,,Medium,24 (30.0),,3.94 (0.85–18.37),0.081
+,,Low,13 (16.5),,8.57 (1.92–38.36),0.005
+Coping style,,Positive,16 (10.9),,1,
+,,Negative,23 (42.6),,6.08 (2.87–12.84),0.000

@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6,7,8
+,"Table 6. Significant allele, genotype and haplotype frequencies of cytokine SNPs in individuals allergic to dust mite 3 (Blomia tropicalis) and controls.",,,,,,,
+,Patients,,Controls,,,,,
+"I
+L22330,+166",n = 103,%,n = 116,%,p,pc,OR,95%CI
+GG/GG,7,6.8,10,8.6,ns,ns,,
+GG/TT,18,17.5,9,7.8,0.0387,ns,2.52,1.08–5.89
+TG/GG,22,21.4,23,19.8,ns,ns,,
+TG/GT,1,1.0,0,0,ns,ns,,
+TG/TG,18,17.5,32,34.4,ns,ns,,
+TG/TT,25,24.3,36,42.9,ns,ns,,
+TT/TT,12,11.6,6,7.1,ns,ns,,
+G/G2330,7,6.8,10,8.6,ns,ns,,
+G/T,41,39.8,32,27.6,ns,ns,,
+T/T,55,53.4,74,63.8,ns,ns,,
+G,55,26.7,52,22.4,ns,ns,,
+T,151,73.3,180,77.6,ns,ns,,
+G/G+166,47,45.6,65,56.0,ns,ns,,
+G/T,44,42.7,45,38.8,ns,ns,,
+T/T,12,11.6,6,5.2,ns,ns,,
+G,138,67.0,175,75.4,ns,ns,,
+T,68,33.0,57,25.6,ns,ns,,

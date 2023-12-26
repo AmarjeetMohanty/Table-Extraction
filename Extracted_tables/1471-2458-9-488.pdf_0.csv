@@ -1,0 +1,11 @@
+0,1,2,3,4
+"with crude model B, in",,using bootstrapped,,estimate (in italics)
+Table 2),,variance estimate,,
+,,(in italics),,
+,,,Lower limit,Upper limit
+Quarantine (v. no),0.3524498,0.046,0.1266103,0.9811279
+,,0.550,0.0048919,20.14694
+Total contacts,0.9999988,0.657,0.9999937,1.000004
+(continuous†),,0.090,0.9999816,1.000017
+Total close contacts,1.061969,0.005,1.018544,1.107246
+(continuous),,0.009,1.015351,1.107246

@@ -1,0 +1,20 @@
+0,1,2,3,4,5,6,7,8,9,10
+,Scientiﬁc literature,,,,,ProMED reports,,,,
+,No. reporting,Mean no.,Median no.,Lowest no.,Highest no.,No. reporting,Mean no.,Median no.,Lowest,Highest
+Pathogen,no. deaths#,deaths*,deaths,deaths,deaths,no. deaths#,deaths*,deaths,no. deaths,no. deaths
+Viruses,1,1,1,1,1,1,127,127,127,127
+Enterovirus,1,1,1,1,1,0,—,—,—,—
+Hepatitis E virus,0,—,—,—,—,1,127,127,127,127
+Bacteria,11,24,41,1,276,130,18,14,0,70 000
+Vibrio cholera,6,70,52,41,276,90,24,19,1,70 000
+Non-choleragic,0,—,—,—,—,7,3,4,0,5
+Vibrio spp.,,,,,,,,,,
+Leptospira,4,4,4,1,15,23,17,17,0,182
+Salmonella typhi,0,—,—,—,—,1,2,2,2,2
+Shigella spp.,1,51,51,51,51,0,—,—,—,—
+E. coli,0,—,—,—,—,4,3,4,1,6
+B. pseudomallei,0,—,—,—,—,5,6,7,1,15
+Protozoa,0,—,—,—,—,0,—,—,—,—
+Multiple pathogens,4,26,44,2,500,0,—,—,—,—
+Not stated,1,42,42,42,42,14,35,54,2,1350
+All,16,20,28,1,500,145,186,234,134,71 687

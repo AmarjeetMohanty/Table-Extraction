@@ -1,0 +1,53 @@
+0,1,2,3,4,5,6,7
+,,,"Product-Limit Survival Estimates
+Product-Limit Survival Estimates",,,,"Product-Limit Survival Estimates
+Product-Limit Survival Estimates"
+"1.0
+1.0",,,,,,"1.0
+1.0",
+,,,,,,,Logrank p=0.0001
+"0.8
+0.8",,,,,,"0.8
+0.8",
+"SurvivalProbability
+SurvivalProbability
+0.6
+0.6",,,,,,"SurvivalProbability
+SurvivalProbability
+0.6
+0.6",
+"0.4
+0.4",,,,,,"0.4
+0.4",
+"0.2
+0.2",,,,,,"0.2
+0.2",
+,Logrank p <.0001,,,,,,
+"0.0
+0.0",,,,,,"0.0
+0.0",
+,"0.0
+0.0","0.5
+0.5","1.0
+1.0
+1.5
+1.5
+2.0
+2.0","2.5
+2.5","3.0
+3.0","0.0
+0.0","0.5
+0.5
+1.0
+1.0
+1.5
+1.5
+2.0
+2.0
+2.5
+2.5
+3.0
+3.0"
+,,,"Time to death
+Time to death",,,,"Time to death
+Time to death"

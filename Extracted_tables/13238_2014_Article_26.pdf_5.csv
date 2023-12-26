@@ -1,0 +1,25 @@
+0,1,2,3,4
+SARS PLpro disrupts STING-TRAF3-TBK1 complex,,,,RESEARCH ARTICLE
+A,B,,,
+,Flag-TRAF3,,,
+Flag-RIG-I,,,,
+,HA-Ub-K63,,,
+HA-Ub-K63,,,,
+,PLpro-TM,,,
+PLpro-TM,,,,
+,IP: Flag,,,
+Ub-conjugated,,,,
+"IP: Flag
+RIG-I",IB: HA,,,
+,,,,Ub-conjugated
+"IB: HA
+*",,,,
+,,,,TRAF3
+,,,,*
+,IP: Flag  IB: Flag,,,TRAF3
+"- -
+RIG-I 
+IP: Flag  IB: Flag",,,--,
+"PLpro-TM
+WCL: V5",WCL: V5,,,PLpro-TM
+1   2    3   4,,1    2   3   4,,

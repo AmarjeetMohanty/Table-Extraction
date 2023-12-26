@@ -1,0 +1,12 @@
+0,1,2,3,4,5
+,Table 2. Percentage amino acid identity values between NS4,,,,
+,"of BTV, EHDV, AHSV, GIV, PHSV and YUOV.",,,,
+,BTV-,EHDV-,,,
+,8(NET2006/04),1(NJ),,AHSV-3 GIV,PHSV
+BTV-,,,,,
+8(NET2006/04),,,,,
+EHDV-1(NJ),50,,,,
+AHSV-3,20,16,,,
+GIV,15,18,17,,
+PHSV,15,12,11,10,
+YUOV-1,9,11,10,5,30

@@ -1,0 +1,32 @@
+0,1,2,3,4,5,6,7,8,9
+"Table 1. Leading Causes of Death by Sex, Kingdom of Saudi Arabia, 1990, 2005, and 2010",,,,,,,,,
+,,1990,,,2005,,,2010,
+Rank,Male (%),Female (%),Total (%),Male (%),Female (%),Total (%),Male (%),Female (%),Total (%)
+1,Ischemic heart,Cerebrovascular,Ischemic heart,Ischemic heart,Ischemic heart,Ischemic heart,Ischemic heart,Ischemic heart,Ischemic heart
+,disease,disease,disease,disease,disease,disease,disease,disease,disease
+,(17.19%),(14.24%),(16.04%),(19.56%),(16.84%),(18.65%),(19.25%),(17.94%),(18.77%)
+2,Road traffic,Ischemic heart,Cerebrovascular,Road traffic,Cerebrovascular,Cerebrovascular,Road traffic,Cerebrovascular,Cerebrovascular
+,injury (13.64%),disease,disease,injury (15.08),disease,disease,injury (16.08%),disease,disease
+,,(14.20%),(11.39%),,(15.35%),(12.81%),,(16.93%),(13.20%)
+3,Cerebrovascular,Preterm birth,Preterm birth,Cerebrovascular,Preterm birth,Road traffic,Cerebrovascular,Lower respiratory,Road traffic
+,disease (9.62%),complications,complications,disease,complications,injury (11.71%),disease,infections,injury (11.75%)
+,,(11.24%),(10.12%),(11.54%),(6.91%),,(11.05%),(5.97%),
+4,Preterm birth,Congenital,Road traffic,Lower respiratory,Lower respiratory,Preterm birth,Lower respiratory,Preterm birth,Lower respiratory
+,complications,anomalies,injury (9.99%),infections,infections,complications,infections,complications,infections
+,(9.43%),(6.89%),,(5.12%),(5.39%),(5.24%),(5.01%),(5.05%),(5.36%)
+5,Lower respiratory,Lower respiratory,Lower respiratory,Preterm birth,Road traffic,Lower respiratory,Chronic kidney,Road traffic,Preterm birth
+,infections,infections,infections,complications,injury (5.02%),infections,diseases (3.90%),injury (4.22%),complications
+,(5.73%),(6.52%),(6.03%),(4.40%),,(5.21%),,,(4.11%)
+6,Congenital,Road traffic,Congenital,Chronic kidney,Congenital,Chronic kidney,Diabetes mellitus,Chronic kidney,Chronic kidney
+,anomalies,Injury (4.11%),anomalies,diseases (3.50%),anomalies,diseases (3.52%),(3.65%),diseases (4.15%),diseases (3.99%)
+,(4.46%),,(5.39%),,(4.41%),,,,
+7,Hypertensive,Diarrheal,Diarrheal,Diabetes mellitus,Chronic kidney,Diabetes mellitus,Preterm birth,Diabetes mellitus,Diabetes mellitus
+,heart disease,diseases (2.82%),diseases (2.22%),(3.24%),diseases (3.55%),(3.27%),complications,(3.79%),(3.70%)
+,(1.90%),,,,,,(3.56%),,
+8,Neonatal,Neonatal,Neonatal,Hypertensive,Diabetes mellitus,Congenital,Hypertensive,Congenital,Hypertensive
+,encephalopathy,encephalopathy,encephalopathy,heart disease,(3.34%),anomalies,heart disease,anomalies,heart disease
+,(1.90%),(2.32%),(2.06%),(2.42%),,(3.06%),(2.37%),(3.04%),(2.37%)
+9,Diarrheal,Sepsis and other,Hypertensive,Congenital,Other,Hypertensive,Congenital,Other,Congenital
+,diseases (1.84%),infectious,heart disease,anomalies,cardiovascular,heart disease,anomalies,cardiovascular,anomalies
+,,disorders of,(1.88%),(2.39%),and circulatory,(2.37%),(1.91%),and circulatory,(2.32%)
+,,newborn (1.97%),,,diseases (2.40%),,,diseases (2.60%),

@@ -1,0 +1,45 @@
+0,1,2,3,4,5,6,7,8
+Singleton et al.,,,,,,,Management of Acute Canine Diarrhoea,
+,"TABLE 6 | Parameter estimates from a ﬁnalised mixed effects logistic regression model, modelling on a case-level the presence of endoparasiticide/endectocide",,,,,,,
+,prescription and dispensing of gastrointestinal nutraceuticals against a range of risk factors.,,,,,,,
+Random effect,Variance,SDa,Variable,Category,β,SEb,ORc (95% CI)d,P
+,ENDOPARASITICIDE/ENDECTOCIDE PRESCRIPTION,,,,,,,
+Practice,0.28,0.53,,Intercept,−2.38,0.19,0.09 (0.06–0.14),
+Site,0.21,0.46,Vomit,No vomit,-,-,1.0,-
+,,,,Without blood,−0.69,0.18,0.50 (0.36–0.71),<0.01
+,,,,With blood,−1.04,0.74,0.35 (0.08–1.50),0.16
+,,,Weight loss,Absent,-,-,1.0,-
+,,,,Present,1.22,0.50,3.37 (1.27–9.00),0.02
+,,,Severity,Mild,-,-,1.0,-
+,,,,Moderate & severe,−0.83,0.27,0.44 (0.26–0.74),<0.01
+,,,Vaccination status,Unvaccinated,-,-,1.0,-
+,,,,Vaccinated,−0.59,0.15,0.55 (0.42–0.74),<0.01
+,,,Age (years),Age—linear,0.07,0.18,1.07 (0.76–1.51),0.70
+,,,,Age—quadratic,0.57,0.14,1.77 (1.35–2.32),<0.01
+,,,,Age—cubic,−0.36,0.11,0.70 (0.57–0.87),<0.01
+,GASTROINTESTINAL NUTRACEUTICAL DISPENSING,,,,,,,
+Practice,0.64,0.80,,Intercept,0.93,0.16,2.52 (1.85–3.43),
+Site,0.21,0.45,Diarrhoea,Without blood,-,-,1.0,-
+,,,,With blood,−0.31,0.09,0.74 (0.62–0.88),<0.01
+,,,Vomit,No vomit,-,-,1.0,-
+,,,,Without blood,−0.57,0.09,0.57 (0.47–0.68),<0.01
+,,,,With blood,−1.34,0.29,0.26 (0.15–0.46),<0.01
+,,,Other signs,Absent,-,-,1.0,-
+,,,,Present,−0.99,0.33,0.37 (0.19–0.71),<0.01
+,,,Severity,Mild,-,-,1.0,-
+,,,,Moderate & severe,−0.48,0.12,0.62 (0.49–0.78),<0.01
+,,,Diarrhoeic pattern,Large intestinal,-,-,1.0,-
+,,,,Mixed,0.29,0.13,1.33 (1.04–1.71),0.02
+,,,,"Small
+intestinal",0.21,0.11,1.23 (1.00–1.51),0.05
+,,,,Unknown,−0.20,0.16,0.82 (0.60–1.12),0.22
+,,,Body temperature,Normal/<39◦C,-,-,1.0,-
+,,,,Not recorded,−0.50,0.10,0.61 (0.50–0.74),<0.01
+,,,,39.0◦C ≤ 39.4◦C,−0.15,0.13,0.86 (0.67–1.11),0.25
+,,,,39.5◦C ≤ 39.9◦C,−0.66,0.22,0.52 (0.34–0.80),<0.01
+,,,,40.0◦C ≤,−0.57,0.42,0.57 (0.25–1.28),0.17
+,,,Vaccination status,Unvaccinated,-,-,1.0,-
+,,,,Vaccinated,0.15,0.10,1.16 (0.96–1.40),0.13
+,,,Age (years),Age—linear,0.03,0.08,1.03 (0.89–1.20),0.70
+,,,,Age—quadratic,0.26,0.08,1.29 (1.11–1.51),<0.01
+,,,,Age—cubic,−0.14,0.05,0.87 (0.80–0.95),<0.01

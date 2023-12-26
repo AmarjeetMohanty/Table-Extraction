@@ -1,0 +1,32 @@
+0,1,2,3,4,5,6,7,8
+Table 1: Risk ratios of infectious diseases by exposure to high enplanement or international air travel in Ohio from 2010 through 2014 (total,,,,,,,,
+"population = 11,544,225) with 95% confidence intervals.",,,,,,,,
+,,Exposed,Exposed,Unexposed,Unexposed,,,
+Status,Exposure,,,,,Risk ratio,Lower,Upper
+,,cases,controls,cases,controls,,,
+"Any hepatitis A,",,,,,,,,
+influenza,International,,,,,,,
+,,141,"1,676,131","13,369","9,854,584",0.062,0.03,0.07
+"hospitalization, or",travel,,,,,,,
+malaria,,,,,,,,
+,International,,,,,,,
+Malaria,,72,"1,676,200",155,"9,867,798",2.735,2.07,3.62
+,travel,,,,,,,
+"Any hepatitis A,",,,,,,,,
+,International,,,,,,,
+influenza,,69,"1,676,203","13,214","9,854,739",0.031,0.02,0.04
+,travel,,,,,,,
+hospitalization,,,,,,,,
+"Any hepatitis A,",,,,,,,,
+influenza,High,,,,,,,
+,,"8,821","6,592,812","4,689","4,937,903",1.408,1.36,1.46
+"hospitalization, or",enplanement,,,,,,,
+malaria,,,,,,,,
+,High,,,,,,,
+Malaria,,187,"6,601,446",40,"4,942,552",3.500,2.49,4.92
+,enplanement,,,,,,,
+"Any hepatitis A,",,,,,,,,
+,High,,,,,,,
+influenza,,8634,"6,592,999","4,649","4,937,943",1.390,1.34,1.44
+,enplanement,,,,,,,
+hospitalization,,,,,,,,

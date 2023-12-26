@@ -1,0 +1,17 @@
+0,1,2,3
+,"demic outcomes were not consistent over different choices of f(S, E, I, R), and we suggested",,
+"that models that include a mass media compartment, that better represents population interac-",,,
+"tions with mass media, should be considered [33]. For example,",,,
+_,,,
+S,¼,l (cid:2) bSI (cid:2) dS (cid:2) gðMÞS,
+_,,,
+SM,¼,gðMÞS (cid:2) dSM,
+_,,,
+E,¼,bSI (cid:2) sE (cid:2) dE,
+,,,ð2Þ
+_,,,
+I,¼,sE (cid:2) gI (cid:2) dI,
+_,,,
+R,¼,gI (cid:2) dR,
+_,,,
+M,¼,f ðS; E; I; RÞ (cid:2) mM ;,

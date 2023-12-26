@@ -1,0 +1,13 @@
+0,1,2,3,4,5
+"turns,","exposed surface,",,,good population coverage.,
+Table 4 Features of,,,immunogenic hotspots of CPA and CPB,,
+CP,Supertype,Position,Score,Threshold,Length
+CPA,A2,1–39,57.38,55,39
+,A2,174–224,56.20,55,51
+,A3,61–93,45.46,45,33
+,A3,230–279,45.21,45,50
+CPB,A2,1–38,55.65,55,38
+,A2,188–221,55.04,55,34
+,A3,18–138,46.51,45,121
+,A3,151–193,45.19,45,43
+,A3,228–270,45.42,45,43

@@ -1,0 +1,48 @@
+0,1,2,3,4,5
+Table 2.,Speciﬁcity of ELVIRA(cid:2) Flu A* (A) or Flu B** (B) cell,"lines following infection with inﬂuenza A,",,"inﬂuenza B, or unrelated respiratory",
+viruses,,,,,
+Virus,Strain/sample,Source,Ave RLU (n = 3),STDEV,S/B
+A,,,,,
+Parainﬂuenza 1,"Clinical
+isolate",Health alliance,195,10,1Æ3
+Parainﬂuenza 2,"Clinical
+isolate",Health alliance,280,6,1Æ9
+Parainﬂuenza 3,"Clinical
+isolate",Health alliance,222,15,1Æ3
+hMPV***,"Clinical
+isolate (A1)",Italy,135,25,0Æ8
+hMPV,"Clinical
+isolate (A2)",Italy,217,8,1Æ3
+hMPV,"Clinical
+isolates (B1)",Italy,126,8,0Æ7
+Parainﬂuenza 3,C-243,ATCC VR-93,141,20,0Æ9
+Parainﬂuenza 1,C-35,ATCC VR-94,182,20,1Æ2
+Parainﬂuenza 4b,CH 19503,ATCC VR-1377,166,12,1Æ1
+Parainﬂuenza 2,Greer,ATCC VR-92,193,11,1Æ3
+RSV(cid:2),Long,ATCC VR-26,151,16,0Æ5
+Parainﬂuenza 4a,M25,ATCC VR-1378,143,17,1
+Adenovirus,"Clinical
+isolate (MHIA-0021)",Methodist Hospital,160,18,1Æ1
+Adenovirus,Type 5,ATCC VR-5,114,13,0Æ8
+RSV,WC-192,West Chester,134,10,0Æ5
+Coronavirus,229E,ATCC VR-740,147,38,1Æ1
+Coronavirus,OC34,ATCC VR-1558,139,5,1
+Inﬂuenza B,B ⁄ Massachusetts,ATCC VR-523,154,10,0Æ5
+Inﬂuenza B,"Clinical
+isolate B ⁄ MHIA-0023",Methodist Hospital,160,18,1Æ1
+Inﬂuenza B,B ⁄ Taiwan,ATCC VR-295,5247,222,16Æ7
+Inﬂuenza A,A ⁄ ODH 0023,Ohio Department of Health,455481,26225,1098
+Inﬂuenza A,A ⁄ Hong Kong ⁄ 8 ⁄ 68 (H3N2),ATCC VR-544,541988,18149,240
+Inﬂuenza A,A ⁄ MaI ⁄ 302 ⁄ 54 (H1N1),ATCC VR-98,922701,17436,409
+B,,,,,
+Adenovirus,Type 5,ATCC VR-5,27,2,2Æ1
+Parainﬂuenza I,C-35,ATCC VR-94,10,1,0Æ8
+Parainﬂuenza II,Greer,ATCC VR-92,12,1,0Æ9
+RSV,Long,ATCC VR-26,22,2,1Æ7
+Inﬂuenza A,A ⁄ Denver ⁄ 1 ⁄ 57 (H1N1),ATCC VR-546,38,7,2
+Inﬂuenza A,A ⁄ PortChalmers ⁄ 1 ⁄ 73(H3N2),ATCC VR-810,1004,27,41
+Inﬂuenza A,A ⁄ WS ⁄ 33 (H1N1),ATCC VR-1520,270,74,11
+Inﬂuenza B,"Clinical
+isolate B ⁄ ODH0149",Ohio Department of Health,245825,2140,18910
+Inﬂuenza B,B ⁄ Malaysia2506 ⁄ 04,CDC,134920,6839,9637
+Inﬂuenza B,B ⁄ GL ⁄ 1739 ⁄ 54,ATCC VR-823,151492,8412,10821

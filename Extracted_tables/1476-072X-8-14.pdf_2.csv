@@ -1,0 +1,10 @@
+0,1,2,3,4
+Table 2: Results of Monte Carlo simulations on the Nnh clustering method,,,,
+,Criteria,,,
+Threshold distance,,Minimum points per cluster,Number of Observed Clusters,Numbers of clusters identified at the 95% confidence interval
+50 m,,3 points,15,14
+,,4 points,11,11
+,,5 points,6,6
+100 m,,3 points,18,15
+,,4 points,11,10
+,,5 points,11,10

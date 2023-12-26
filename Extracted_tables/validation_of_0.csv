@@ -1,0 +1,14 @@
+0,1,2,3
+Table-2: Scheme for FMDV strains inactivation time.,,,
+Inactivation,,Time for inactivation FMDV strain,
+factor,,,
+,O,A,SAT-2
+Heat,15 min at 57°C,,
+γ-radiation,Dose of,Dose of,Dose of
+,irradiation,irradiation,irradiation
+,55 KGy,60 KGy,45 KGy
+UV ray,252.7 nm,252.7 nm,252.7 nm
+,for 60 min,for 65 min,60 min
+Binay,20 h at 37°C,24 h at 37°C,16 h at 37°C
+Binay and,18 at 37°C,19 h at 37°C,11 h at 37°C
+formaldehyde,,,

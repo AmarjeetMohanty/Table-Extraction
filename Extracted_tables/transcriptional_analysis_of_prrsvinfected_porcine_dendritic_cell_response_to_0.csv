@@ -1,0 +1,34 @@
+0,1,2,3,4
+Table 2. Validation of microarray gene expression using real-time qPCR in porcine bone-marrow derived dendritic cells (BMDCs) and monocytes,,,,
+"infected with PRRSV, S. suis, or co-infected with both PRRSV and S. suis.",,,,
+Gene,Quantiﬁcation method,,Fold increase in expression,
+,,PRRSV,S. suis,PRRSV & S. suis
+BMDCs,,,,
+Il-6,Microarray,3.8,35.9,51.8
+,qPCR,6.6 ± 2.2,117.8 ± 63.2,150.5 ± 67.2
+CXCL8,Microarray,1.5,6.6,7.0
+,qPCR,1.9 ± 0.4,11.6 ± 4.0,10.1 ± 2.4
+IL-12p40,Microarray,1.9,3.3,5.7
+,qPCR,2.7 ± 0.4,2.9 ± 0.7,7.1 ± 2.4
+IL-23p19,Microarray,1.8,26.4,29.2
+,qPCR,2.6 ± 0.4,3.9 ± 1.5,4.2 ± 0.6
+IL-15,Microarray,3.1,2.1,4.9
+,qPCR,4.7 ± 1.6,2.4 ± 0.6,8.3 ± 3.6
+TNF,Microarray,8.6,26.5,45.1
+,qPCR,10.6 ± 3.1,19.7 ± 5.6,42.5 ± 11.8
+IFN-β,Microarray,300.9,10.9,308.7
+,qPCR,853.1 ± 286.1,17.1 ± 6.3,696.8 ± 240.9
+CCL20,Microarray,6.5,37.3,47.5
+,qPCR,8.2 ± 1.8,40.0 ± 16.2,57.4 ± 18.9
+COX-2,Microarray,6.5,5.3,11.0
+,qPCR,10.2 ± 3.7,5.7 ± 1.1,14.0 ± 3.2
+NOD-2,Microarray,2.4,1.9,3.1
+,qPCR,2.9 ± 0.5,1.8 ± 0.3,3.1 ± 0.5
+Monocytes,,,,
+Il-12p40,Microarray,-1.3,19.4,25.8
+,qPCR,1.0 ± 0.3,7.4 ± 2.2,7.5 ± 2.2
+IL-23p19,Microarray,-1.3,10.1,16.5
+,qPCR,-1.1 ± 0.4,6.6 ± 1.9,12.9 ± 2.3
+CCL20,Microarray,1.4,5.0,9.6
+,qPCR,1.6 ± 0.7,4.6 ± 1.0,11.7 ± 3.2
+doi:10.1371/journal.pone.0156019.t002,,,,

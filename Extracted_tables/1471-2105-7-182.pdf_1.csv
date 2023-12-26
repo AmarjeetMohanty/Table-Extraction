@@ -1,0 +1,12 @@
+0,1,2,3,4,5,6,7
+,,,,H2-Db,,,
+,Outliers determined by Additive method,,,,Outliers determined by SVRMHC method,,
+,True pIC50,Predicted pIC50,Predicted pIC50,,True pIC50,Predicted pIC50,Predicted pIC50
+,,(Additive),(SVRMHC),,,(Additive),(SVRMHC)
+QLPPNSLLI,3.53,6.19,7.06,QLPPNSLLI,3.53,6.19,7.06
+GFKSNFNKI,3.36,6.30,5.28,TAGANPMDL,4.66,4.84,7.30
+IKPSNSEDL,5.54,7.70,6.33,CKGVNKEYL,7.41,7.13,5.14
+TALANTIEV,8.44,5.75,7.02,,,,
+TGKLNLENL,4.75,7.10,6.47,,,,
+AEDTNVSLI,3.36,5.73,4.62,,,,
+,,,,H2-Kb,,,

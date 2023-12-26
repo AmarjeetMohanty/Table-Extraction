@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6
+,Table 6. Data on mammalian viruses detected in the pig faecal sample.,,,,,
+,,Reads,,contigs,,
+,,,,,,sequence identity*
+,,number of reads,% of mammalian,number of contigs,% of mammalian,(length of compared
+virus,genome type,(% of reads),viruses,(% of contigs),viruses,sequence)
+Kobuvirus,ssRNA,330 (5.8),25.7,19 (15.4),21.6,87% (200aa)
+Rotavirus C,dsRNA,207 (3.6),16.1,16 (13.0),18.2,93% (271aa)
+ChiSCV,ssDNA,174 (3.0),13.6,11 (8.9),12.5,68% (271aa)
+Astrovirus,ssRNA,152 (2.7),11.9,13 (10.6),14.8,52% (182aa)
+Enterovirus,ssRNA,134 (2.3),10.5,9 (7.3),10.2,94% (135aa)
+Sapovirus,ssRNA,98 (1.7),7.6,3 (2.4),3.4,87% (158aa)
+Picobirnavirus,dsRNA,87 (1.5),6.8,3 (2.4),3.4,49% (49aa)
+Rotavirus A,dsRNA,28 (0.5),2.2,1 (0.8),1.1,79% (76aa)
+Bocavirus,ssDNA,27 (0.5),2.1,3 (2.4),3.4,61% (46aa)
+Poxvirus,dsDNA,15 (0.3),1.2,2 (1.6),2.3,100% (42aa)
+Parvovirus,ssDNA,8 (0.1),0.6,1 (0.8),1.1,55% (77aa)
+Teschovirus,ssRNA,7 (0.1),0.5,/,/,/
+Circovirus,ssDNA,7 (0.1),0.5,5 (4.1),5.7,41% (85aa)
+Herpesvirus,dsDNA,5 (0.1),0.4,2 (1.6),2.3,22% (95aa)
+Picornavirus,ssRNA,3 (0.1),0.2,/,/,/
+total,,1282 (22.5),100.0,88 (7.5),100.0,/

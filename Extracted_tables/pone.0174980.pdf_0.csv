@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6,7
+Table 2. Species Distribution Model (SDM) evaluation results.,,,,,,,
+,,Model characteristics,,,,Model evaluation results,
+Model,Subtype,Study,Environmental,Mean AUCa for,Mean AUCa for,Mean standard deviation,Wilcoxon rank sum test
+name,,area,variables,Test data,Training data,of Test AUCa,(overﬁtting)
+SDM 1,H5N1,All,All,0.924,0.971,0.023,"W = 7445, p < 0.001"
+SDM 2,H7N9,All,All,0.952,0.975,0.020,"W = 8030.5, p < 0.001"
+SDM 3,H5N1,All,Subset,0.920,0.965,0.023,
+SDM 4,H7N9,All,Subset,0.960,0.972,0.018,
+SDM 5,H5N1,Subset,All,0.885,0.957,0.029,"W = 5394, p = 0.336"
+SDM 6,H7N9,Subset,All,0.961,0.977,0.014,"W = 5394, p = 0.336"
+SDM 7,H5N1,Subset,Subset,0.883,0.950,0.030,
+SDM 8,H7N9,Subset,Subset,0.960,0.975,0.014,

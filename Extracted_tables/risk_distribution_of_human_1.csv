@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6,7
+,,,Cumulative incidence of,,,,
+,,,,,,No.,
+,,,human infection,,,,
+Type of,,,,No. of,No. of,of live,No. of
+high risk,Total area,H7N9,H5N1,poultry,swine,poultry,important
+areas,"(1,000 km2)","(1/100,000)","(1/100,000)",(millions),(millions),markets,bird areas
+HRA-Ia,9.5,0.217,0.011,21.3,1.6,494,40
+HRA-IIb,83.2,0.276,0.016,83.4,6.8,1351,49
+HRA-IIIc,249.0,0.105,0.003,239.8,25.8,726,69
+HRA-IVd,82.6,0.002,0.012,48.9,8.0,653,85

@@ -1,0 +1,25 @@
+0,1
+"Table 3
+Input parameters for two hypothetical contrasting diseases.",
+"Parameter
+Disease 1",Disease 2
+"Type
+Name",
+"2
+R0",2
+β,
+0.031,0.25
+"Biological
+ρ",
+0.1,0.01
+γ,
+0.015,0.125
+"Recovery Time (1/γ )
+65",8
+δ,
+0,0
+"κ
+Behavioral",
+1,1
+"{1,0.95,0.1,0.95}
+{uS,uP,uI,uR}","{1,0.95,0.6,1}"

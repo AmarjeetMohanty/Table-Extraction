@@ -1,0 +1,13 @@
+0,1,2,3,4,5
+"forest. Considering the expected classiﬁcation cost, 11 appears to be a suitable value.",,,,,
+,,Table 5. RF hyperparameter tuning results.,,,
+,Features,Trees,Depth,Accuracy (%),AUC
+,default (7),14,7,87.50,0.842
+EEG-GSR,2,14,7,87.50,0.842
+,3,14,7,87.50,0.842
+,default (6),18,no limit,76.79,0.780
+EEG,default (6),18,11,76.79,0.780
+,default (6),18,12,76.79,0.780
+,default (3),18,no limit,76.79,0.780
+GSR,default (3),18,11,76.79,0.780
+,default (3),18,12,76.79,0.780

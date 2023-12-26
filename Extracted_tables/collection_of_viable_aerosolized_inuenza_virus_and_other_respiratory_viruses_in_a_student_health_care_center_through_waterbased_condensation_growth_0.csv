@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6
+TABLE 1 Viable viruses in aerosols collected on 11 March 2016,,,,,,
+,,,Virus isolated,,,
+Sampling,,,,,,
+interval,HEPA ﬁlter,Air sampler,Inﬂuenza A H1N1,Inﬂuenza A H3N2,Inﬂuenza B Victoria,RSV-A
+1,No,BioSampler,,,(cid:4),
+,No,VIVAS,(cid:4),(cid:4),(cid:4),(cid:4)
+2,Yes,BioSampler,,,,
+,Yes,VIVAS,,,,
+3,No,BioSampler,,,,(cid:4)
+,No,VIVAS,(cid:4),(cid:4),(cid:4),(cid:4)
+4,Yes,BioSampler,,,,
+,Yes,VIVAS,,,,
+5,No,BioSampler,(cid:4),,,
+,No,VIVAS,(cid:4),(cid:4),(cid:4),(cid:4)
+6,Yes,BioSampler,,,,
+,Yes,VIVAS,,,,

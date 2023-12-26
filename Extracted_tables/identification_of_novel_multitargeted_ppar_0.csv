@@ -1,0 +1,54 @@
+0,1
+"dynamics  simulations  were  performed  on  PPARs–apo,",became more stable after binding Cpd#1.
+,1.40
+1.00,Apo PPARα
+,1.20
+,PPARα – AZ242
+0.80,"1.00
+PPARα – Cpd#1"
+0.60,0.80
+"RMSD (nm)
+Apo PPARα","RMSF (nm)
+0.60"
+0.40,
+PPARα – AZ242,0.40
+0.20,
+PPARα – Cpd#1,0.20
+0.00,0.00
+"0
+2,000
+4,000
+6,000
+8,000","10,000
+198
+249
+301
+355
+409
+459"
+Time (ps),Residues
+1.00,Apo PPARγ
+,PPARγ – rosiglitazone
+0.80,PPARγ – Cpd#1
+,0.80
+0.60,
+RMSD (nm),0.60
+"Apo PPARγ
+0.40",
+,"RMSF (nm)
+0.40"
+PPARγ – rosiglitazone,
+"0.20
+PPARγ – Cpd#1",0.20
+0.00,0.00
+"8,000
+10,000
+0
+2,000
+4,000
+6,000","206
+258
+310
+365
+417
+467"

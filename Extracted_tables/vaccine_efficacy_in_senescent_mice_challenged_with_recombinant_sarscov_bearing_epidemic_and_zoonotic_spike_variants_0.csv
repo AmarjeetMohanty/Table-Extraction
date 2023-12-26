@@ -1,0 +1,35 @@
+0,1,2,3,4,5,6,7,8,9
+Table 1.,Summary of Vaccine Groups and Select Results for Mouse Experiments,,,,,,,,
+Experiment,n,Vaccine,Age,Age,Challenge,Age,Lungs Harvested,Lung Titer,Positive for
+,,,Vaccinated,Boosted,Virus,Challenged,(days Post Challenge),(log10 pfu/g),Viral Replication
+,,,(wk),(wk),,(wk),,,
+1,6,VRP-S,4,8,icSARS,16,2,0,0/6
+,6,VRP-HA,4,8,icSARS,16,2,6.7 6 0.5,6/6
+2,8,VRP-S,5,10,icSARS,64,4,0,0/8
+,8,VRP-N,5,10,icSARS,64,4,5.3 6 0.6,7/7
+,8,VRP-SþN,5,10,icSARS,64,4,0,0/8
+,7,VRP-HA,5,10,icSARS,64,4,5.8 6 0.6,8/8
+3,8,VRP-S,7,10,icGDO3-S,17,2,0,0/8
+,8,VRP-N,7,10,icGDO3-S,17,2,6.3 6 0.1,8/8
+,8,VRP-SþN,7,10,icGDO3-S,17,2,0,0/8
+,8,VRP-HA,7,10,icGDO3-S,17,2,7.0 6 0.1,8/8
+4,8,VRP-S,.26,.30,icGDO3-S,.62,4,5.0 6 0.9,3/8
+,7,VRP-N,.26,.30,icGDO3-S,.62,4,4.4 6 0.5,8/8
+,8,VRP-SþN,.26,.30,icGDO3-S,.62,4,3.7 6 1.2,8/8
+,8,PBS,.26,.30,icGDO3-S,.62,4,4.9 6 0.6,8/8
+5,3,VRP-N,8,15,icSARS,19,2,7.5 6 0.2,3/3
+,3,VRP-HA,8,15,icSARS,19,2,8.1 6 0.1,3/3
+,3,VRP-N,8,15,icSARS,19,4,5.5 6 0.3,3/3
+,3,VRP-HA,8,15,icSARS,19,4,5.7 6 0.1,3/3
+,3,VRP-N,8,15,icSARS,19,7,0,0/3
+,3,VRP-HA,8,15,icSARS,19,7,3.2 6 0.5,2/3
+,3,VRP-N,8,15,icSARS,19,14,0,0/3
+,2,VRP-HA,8,15,icSARS,19,14,0,0/2
+6,3,VRP-N,53,60,icSARS,64,2,8.2 6 0.2,3/3
+,2,VRP-HA,53,60,icSARS,64,2,8.5 6 0.1,2/2
+,3,VRP-N,53,60,icSARS,64,4,5.4 6 0.6,3/3
+,3,VRP-HA,53,60,icSARS,64,4,5.7 6 0.5,3/3
+,2,VRP-N,53,60,icSARS,64,7,3.7,1/2
+,2,VRP-HA,53,60,icSARS,64,7,3.7 6 0.5,2/2
+,3,VRP-N,53,60,icSARS,64,14,0,0/3
+,2,VRP-HA,53,60,icSARS,64,14,0,0/2

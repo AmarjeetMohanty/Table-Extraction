@@ -1,0 +1,29 @@
+0,1,2,3,4,5,6
+Sample No.,Year,Age,Sample,CanineCV,Other viruses,Accession no.
+,,,Lung,+,,
+,,,Liver,+,,
+,,,Kidney,NSA,,
+15P105D,2014,7 m,Brain,−,"CIVb, CRCoVb",MG737378
+,,,Tonsil,+,,
+,,,Lymph node,+,,
+,,,Othersa,N/A,,
+,,,Lung,+,,
+,,,Liver,+,,
+,,,Kidney,NSA,,
+14P112N,2014,1 m,Brain,−,CPIVc,MG737386
+,,,Tonsil,+,,
+,,,Lymph node,+,,
+,,,Othersa,N/A,,
+,,,Lung,+,,
+,,,Liver,+,,
+,,,Kidney,+,,
+15P106D,2015,4 y,Brain,−,,MG737379
+,,,Tonsil,NSA,,
+,,,Lymph node,+,,
+,,,Othersa,N/A,,
+CP28,2014,9 m,Swab,+,,MG737380
+CP134,2014,3 m,Swab,+,,MG737381
+CP144,2015,2 Y,Swab,+,,MG737382
+CP182,2015,3 m,Swab,+,,MG737383
+CP188,2014,2 m,Swab,+,,MG737384
+CP191,2014,6 m,Swab,+,,MG737385

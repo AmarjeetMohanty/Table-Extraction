@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6,7,8,9,10
+NORTH,,,,,,,,,,
+KOREA,,,,,,,,,,
+,,,,Sampling,Collected,,,% of positive for each virus,,
+,Gangwon,,,,,,,,,
+,,,,sites,samples,PEDV,TGEV,RV,PDCoV,KV
+Gyeonggi,,,1,Gyeonggi,90,1.25,0.00,0.47,0.00,1.56
+,,,2,Gangwon,63,0.47,0.00,0.00,0.00,1.25
+,Chungbuk,,,,,,,,,
+,,,3,Chungnam,78,0.78,0.00,0.31,0.31,1.25
+Chungnam,,,,,,,,,,
+,,,4,Chungbuk,63,0.62,0.00,0.62,0.00,0.93
+,Gyeongbuk,,,,,,,,,
+,,,5,Gyeongbuk,88,1.71,0.31,0.00,0.31,0.00
+,,,6,Gyeongnam,81,0.47,0.00,0.00,0.00,0.00
+Jeonbuk,,,7,Jeonbuk,63,0.62,0.00,0.31,0.00,2.65
+,,,8,Jeonnam,64,0.47,0.00,0.00,0.31,1.87
+,Gyeongnam,,,,,,,,,
+,,,9,Jeju,52,0.31,0.00,0.00,0.00,0.62
+Jeonnam,,,,,,,,,,
+,,,Total,,642,6.70,0.31,1.71,0.93,10.12
+,,Jeju,,,,,,,,

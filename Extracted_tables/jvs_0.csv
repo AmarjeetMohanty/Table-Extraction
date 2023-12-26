@@ -1,0 +1,13 @@
+0,1,2,3,4
+,,,Detection limit (CT),
+Assay,Agent,,,
+,,Simplex,Multiplex,Unit
+A,Canine distemper virus,0.38,3.8,
+,Borrelia burgdorperi,3.7,3.7,
+B,Bartonella spp.,3.7,3.7,
+,Ehrlichia canis,3.7,3.7,
+,,,,Molecules/L
+C,Cryptococcus neoformans/gatti,3.7,3.7,
+,Toxoplasma gondii,3.7,3.7,
+D,Neospora caninum,38,38,
+,Blastomyces dermatitidis,3.7,3.7,

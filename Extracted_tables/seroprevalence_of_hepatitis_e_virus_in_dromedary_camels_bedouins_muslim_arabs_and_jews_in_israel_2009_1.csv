@@ -1,0 +1,22 @@
+0,1,2,3,4,5
+"Table 2. Single variable analysis of human serum samples in Israel of anti-Hepatitis E IgG positive, by population group",,,,,
+Population group,Variable,Category,OR,95% CI,P-value
+Bedouins,Age group (years),20–29,Ref.,–,–
+,,30–39,18.82,2.44–144.89,0.005
+,,⩾40,90.74,12.19–675.42,<0.001
+,Gender,Male,1.12,0.65–1.93,0.685
+,,Female,Ref.,–,–
+Non-Bedouin Arabs,Age group (years),20–29,Ref.,–,–
+,,30–39,8.58,1.05–69.79,0.044
+,,⩾40,54.98,7.39–408.93,<0.001
+,Gender,Male,0.74,0.40–1.38,0.349
+,,Female,Ref.,–,–
+,Socio-economic status,1–5,0.60,0.12–2.99,0.534
+,,6–10,Ref.,–,–
+Jews,Age group (years),20–29,Ref.,–,–
+,,30–39,<0.01,<0.01->999.99,0.958
+,,⩾40,1.88,0.21–16.56,0.572
+,Gender,Male,0.38,0.07–2.14,0.275
+,,Female,Ref.,–,–
+,Socio-economic status,1–5,1.25,0.20–7.74,0.810
+,,6–10,Ref.,–,–

@@ -1,0 +1,24 @@
+0,1,2,3,4,5
+(Table 5).,,,,,
+,Table 5. List of consensus or speciﬁc primers used for the detection of FBoVs.,,,,
+,,"(cid:48)
+(cid:48)",,,
+Genus/Species,Primer,"Nucleotide Sequence (5
+to 3
+)",Lenght (bp),Target,References
+,BoVF,GCCAGCACNGGNAARACMAA,,,
+BoVs,,,141,NS1,[12]
+,BoVR,CATNAGNCAYTCYTCCCACCA,,,
+,FBoV1F,TCTACAAGTGGGACATTGGA,,,
+FBoV,,,133,NS1,[12]
+,FBoV1R,GAGCTTGATTGCATTCACGA,,,
+,FBoV2F,TCGTTCGTCTTGGAACATAGC,,,
+FBoV2,,,301,NS1,[16]
+,FBoV2R,CAGAGCGTGGATCTGTCTGA,,,
+,FBD1L1,TGACTCGTCTGTGGCGGGCT,,,
+,,,546,VP1,[17]
+,FBD1R1,TCGTTCGTGAGACGCTGCCA,,,
+FBoV3,,,,,
+,FBD1L2,CAAAGGATCGGGAGCGGGCG,,,
+,,,388,VP1,[17]
+,FBD1R2,TGCCCATGGTGTTGTGATTCCTATCCA,,,

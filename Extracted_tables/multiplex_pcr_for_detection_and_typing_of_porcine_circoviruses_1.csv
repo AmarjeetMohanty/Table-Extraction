@@ -1,0 +1,29 @@
+0,1,2,3,4,5,6
+,,,,,,Speciﬁcity for
+,,,,,% Homology,
+,,,Genomic,Amplicon,,strain:
+mPCR,Primer,Sequence (59–39),Template,,between PCV-1,
+,,,position,(bp),,
+,,,,,and PCV-2,
+,,,,,PCV-1,PCV-2
+,,,,,1,2
+1,ORF1.PCV1.S3,CGGAGAGGAAGGTTTGGAAG,"172–191
+ORF1",375,60,
+,ORF1.PCV1.AS2,GTGTACAGCTGTCTTCCAATC,"527–547
+ORF1",,86,
+,,,,,1,1
+,ORF2.PCV1.S,ATGACGTGGCCAAGGAGGCGTTAC,"1723–1700
+ORF2",488,92,
+,ORF2.PCV.1AS,GTGAAGTACCTGGAGTGGTAGG,"896–916
+ORF2",,91,
+,,,,,1,1
+2,ORF1.PCV1.S2,GAGGTGGGTGTTCACCCT,"82–97
+ORF1",646,94,
+,ORF1.PCV1.AS6,GGATGATCTACTGAGACTGTGTG,"706–728
+ORF1",,100,
+,,,,,1,2
+,ORF2.PCV1.S1,GGGTTACAAAGTTGGCATCCAAG,"1327–1350
+ORF2",407,70,
+,ORF2.PCV1.AS1,CACTTTTATAGGATGACGTGG,"1714–1734
+ORF2",,52,
+,a Nucleotide sequences and their localization on the PCV-1 genome were given in reference to those of the sequence of the prototype ATCC CCL-33 strain of PCV-1,,,,,

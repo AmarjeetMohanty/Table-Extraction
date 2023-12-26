@@ -1,0 +1,20 @@
+0,1,2,3,4,5,6,7,8,9
+,,,Table 2: Comparison of positive and negative results in two methods in viral detection.,,,,,,
+,,Number of specimens (+: positive; −: negative),,,,,,,
+Virus,,,,,Sensitivity (%),Specificity (%),PPV (%),NPV (%),Kappa
+,PCR−/FA−,PCR+/FA+,PCR+/FA−,PCR−/FA+,,,,,
+ADV,71,0,0,3,0,95.9,0,100,0
+229E,74,0,0,0,0,100,0,100,1
+OC43,67,7,0,0,100,100,100,100,1
+HKU1,73,1,0,0,100,100,100,100,1
+NL63,73,1,0,0,100,100,100,100,1
+MPV,72,2,0,0,100,100,100,100,1
+HRV,65,3,0,6,100,91.5,33.3,100,0.468
+FluA,66,8,0,0,100,100,100,100,1
+FluB,72,2,0,0,100,100,100,100,1
+PIV1,74,0,0,0,0,100,0,100,1
+PIV2,74,0,0,0,0,100,0,100,1
+PIV3,69,4,1,0,80,100,100,98.6,0.882
+PIV4,74,0,0,0,0,100,0,100,1
+RSV,59,10,2,3,83.3,95.2,76.9,96.7,0.752
+"FA, FilmArray RP; PPV, positive predictive value; NPV, negative predictive value.",,,,,,,,,

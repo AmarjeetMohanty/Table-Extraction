@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6
+"tive; N, negative.",,,"tive; N, negative.",,,
+,"Table 3. Agreement rates of ICA with ELISA, ELFA, mRT-PCR, real-time RT-PCR assays for the detection of rotavirus and adenovirus using",,,,,
+clinical stool specimens,,,,,,
+,,,,ICA,,
+Virus,Assay,,,,,
+,,Positive agreement,Negative agreement,,Total agreement,Kappa coefficient (95% CI)
+Rotavirus,ELISA,100% (64/64),94.9% (319/336),,95.8% (383/400),0.857 (0.791–0.924)
+"(91.5%, 366/400)*",,,,,,
+,ELFA,92.7% (51/55),91.3% (315/345),,91.5% (366/400),0.701 (0.605–0.798)
+,mRT-PCR,100% (64/64),94.9% (319/336),,95.8% (383/400),0.857 (0.791–0.924)
+Adenovirus,ELISA,48.0% (12/25),95.2% (357/375),,92.5% (369/400),0.395 (0.191–0.600)
+"(85.5%, 342/400)*",,,,,,
+,Real-time PCR,36.6% (15/41),95.8% (344/359),,89.8% (359/400),0.368 (0.184–0.551)
+,mRT-PCR,71.4% (10/14),94.8% (366/386),,94.0% (376/400),0.427 (0.205–0.649)
+*Overall agreement rate among four assays.,,,,,,

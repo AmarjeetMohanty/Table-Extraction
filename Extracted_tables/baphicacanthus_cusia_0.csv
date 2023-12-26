@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12
+,TABLE 3 | Candidate genes ranked according to their expression stability as determined by NormFinder.,,,,,,,,,,,
+Rank,,MeJA-treatment,,ABA-treatment,,UV-treatment,,Different organs,,"MeJA, ABA,UV-treatment",,All samples
+,Gene,Stability,Gene,Stability,Gene,Stability,Gene,Stability,Gene,Stability,Gene,Stability
+1,18S,0.039,MDH,0.015,CYP,0.001,UBC,0.034,EFa,0.080,UBQ,0.090
+2,EFa,0.039,GAPDH,0.017,MDH,0.001,EFa,0.067,UBQ,0.094,18S,0.095
+3,UBC,0.137,TUBa,0.022,GAPDH,0.009,18S,0.079,18S,0.101,EFa,0.097
+4,CYP,0.186,CYP,0.029,ACT,0.016,CYP,0.088,GAPDH,0.111,GAPDH,0.113
+5,UBQ,0.211,UBQ,0.038,UBQ,0.068,MDH,0.097,ACT,0.119,ACT,0.136
+6,ACT,0.261,EFa,0.039,18S,0.114,UBQ,0.098,CYP,0.154,CYP,0.148
+7,MDH,0.300,18S,0.050,EFa,0.117,TUBb,0.098,TUBb,0.182,TUBb,0.152
+8,TUBa,0.337,ACT,0.066,UBC,0.199,GAPDH,0.136,UBC,0.182,MDH,0.169
+9,TUBb,0.353,UBC,0.101,TUBb,0.254,ACT,0.164,MDH,0.191,TUBa,0.189
+10,GAPDH,0.524,TUBb,0.162,TUBa,0.336,TUBa,0.197,TUBa,0.202,UBC,0.205

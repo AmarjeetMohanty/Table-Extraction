@@ -1,0 +1,13 @@
+0,1,2,3,4,5
+EEG-GSR,,EEG,,GSR,
+Algorithm,Accuracy (%),Algorithm,Accuracy (%),Algorithm,Accuracy (%)
+RF,83.93,RF,80.36,MLP (t),75.00
+PART,80.36,MLP (a),78.57,Simple Logistic,73.21
+IBk,80.36,MLP (i),78.57,MLP (a),71.43
+J48,80.36,KStar,78.57,MLP (i),71.43
+NB,80.36,MLP (o),73.21,SVM (Radial Kernel),71.43
+RT,78.57,NB,71.43,MLP (o),69.64
+Hoeffding Tree,78.57,Hoeffding Tree,71.43,KStar,69.64
+MLP (o),76.79,MLP (t),71.43,PART,69.64
+MLP (a),76.79,IBk,71.43,Decision Stump,69.64
+MLP (t),76.79,Logistic,69.64,J48,69.64

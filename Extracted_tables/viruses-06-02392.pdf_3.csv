@@ -1,0 +1,24 @@
+0,1,2,3,4,5
+"Viruses 2014, 6",,,,,2400
+,,Table 3. Cont.,,,
+Target,Gene,Vector/Delivery,Immunization,Response,Reference
+,IL-12,SFV/Particles,Mouse,Tumor eradication,[96]
+,,SFV/Encapsulated,,5-fold IL-12,
+,IL-12,,Human Phase I,,[95]
+,,particles,,expression,
+,MUC18/MCAM,SIN/DNA,Mouse,Tumor protection,[97]
+,,,,"CEA Abs, extended",
+Metastatic,CEA,VEE/Particles,Human Phase I,,[98]
+,,,,survival,
+,PSMA,VEE/Particles,Human Phase I,PSMA Abs,[99]
+Prostate cancer,PSMA,VEE/Particles,Mouse,Tumor response,[100]
+,STEAP,VEE/DNA,Mouse,Anti-tumor response,[101]
+,PSCA,VEE/Particles,Mouse,Tumor protection,[102]
+Tumor,β-galactosidase,SFV/RNA,Mouse,Tumor protection,[74]
+,IL-12,SFV/Particles,Mouse,Tumor protection,[103]
+Tumor antigen,MHC class II,SFV/Particles-DNA,Mouse,Immunogenicity,[104]
+,,,,"CTL, tumor",
+,P815,SFV/Particles,Mouse,,[105]
+,,,,protection,
+,trp-1,SIN/DNA,Mouse,Antitumor activity,[91]
+,"Abbreviations: CEA, carcinoembryonic antigen; CRT, calreticulin; CTL, cytotoxic T-lymphocyte activity; DCs, dendritic",,,,

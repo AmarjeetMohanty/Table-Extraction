@@ -1,0 +1,23 @@
+0,1,2,3,4
+,,Table 3. circRNA databases.,,
+Name,Link,Dataset,Organism,PMID
+,,merged and uniﬁed data,"Human, Mouse, Worm,",
+circBase,http://www.circbase.org/,,,25234927
+,,sets of circRNAs,"ﬂy, and coelacanth",
+,http://202.195.183.4:,,,
+circRNADb,,exonic circRNAs,Human,27725737
+,8000/circrnadb/circRNADb.php,,,
+,,disease-circRNA,,
+Circ2Traits,http://gyanxet-beta.com/circdb/,,Human,24339831
+,,association,,
+,,tissue-speciﬁc circRNA,,
+,,expression proﬁles and,,
+CircNet,http://circnet.mbc.nctu.edu.tw/,,Human,26450965
+,,circRNA–miRNA-gene,,
+,,regulatory networks,,
+circRNABase (in,,miRNA-circRNA,"Human, Mouse, and",
+,http://202.116.90.187/mirCircRNA.php,,,24297251
+starBase v2.0),,interactions,worm,
+,,plant circular RNA,"Rice, Mouse-ear cress,",
+PlantcircBase,http://ibi.zju.edu.cn/plantcircbase/,,,28315753
+,,Database,"corn, Tomato, and Barley",

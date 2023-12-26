@@ -1,0 +1,26 @@
+0,1,2,3,4
+Table 1 Protein peaks identified by SELDI-TOF MS in the discovery phase of the study,,,,
+Fraction,Surface,Acquisition focus mass,Number of peaks detected,Number of significant peaks (p < 0.05)
+1,CM10,Low,67,22
+1,CM10,High,56,38
+1,IMAC30,Low,58,20
+1,IMAC30,High,"None, bad signals and CV > 30%",
+1,H50,Low,"None, bad signals and CV > 30%",
+1,H50,High,"None, bad signals and CV > 30%",
+,,Total F1,181,80
+4,CM10,Low,51,18
+4,CM10,High,37,10
+4,IMAC30,Low,73,9
+4,IMAC30,High,29,7
+4,H50,Low,"None, bad signals and CV > 30%",
+4,H50,High,33,5
+,,Total F4,223,49
+6,CM10,Low,70,7
+6,CM10,High,36,12
+6,IMAC30,Low,108,16
+6,IMAC30,High,34,6
+6,H50,Low,85,18
+6,H50,High,48,12
+,,Total F6,381,71
+,,TOTAL,785,200
+The 785 total number of peaks detected and the 200 statistically significant (p < 0.05) discriminatory peaks associated with PRRS infection that were identified by,,,,

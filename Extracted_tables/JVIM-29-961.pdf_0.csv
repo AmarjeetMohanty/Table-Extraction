@@ -1,0 +1,40 @@
+0,1,2,3,4,5
+,,,tered bovine plasma IV (PL).,,
+,Y ¼ ðY0 (cid:1) PlateauÞ (cid:3) eð(cid:1)K(cid:3)XÞ þ Plateau,,,,
+,,,,,Group
+"is
+where, Y is
+the response variable; Y0",the value of Y when X is,,Time,CL (g/dL),PL (g/dL)
+"equal
+zero; Plateau is
+the Y value at",inﬁnite,"times; K is
+the
+rate",,,
+,,,0 h,4.0 (3.8–5.2),4.2 (3.8–5.6)
+"constant; X is
+the
+independent
+variable;",e,"is
+the
+exponential",,,
+,,,6 h,5.0 (4.6–6.0),5.0 (4.8–5.2)
+function.,,,,,
+,,,12 h,5.5 (4.4–6.4),4.9 (4.6–5.2)
+"Tau was
+calculated
+as
+1/K and
+half-life",,"(days)
+for
+IgG was",,,
+,,,24 h,5.4 (5.0–6.7),5.3 (4.8–6.6)
+"calculated as ln(2)/K, where ln is the natural",logarithm function.,,,,
+,,,48 h,5.8 (4.8–6.6),5.2 (4.3–7.0)
+"Estimates of
+the probability of",survival as a function of,entry,,,
+,,,5 d,5.1 (5.0–6.6),4.4 (4.2–5.0)
+"into study between the
+2",groups were performed using,survival,,,
+,,,7 d,5.0 (4.4–6.6),4.2 (3.8–4.6)
+,analysis. Survival analysis was performed using the Cox propor-,,,,
+,tional hazard model.13 The proportional hazard assumption was,,,,

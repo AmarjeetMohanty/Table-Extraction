@@ -1,0 +1,21 @@
+0,1,2,3,4,5,6,7
+60,,,,,,,
+,0,4,8,12,16,"20
+24",
+,,,Days (post infection),,,,
+C,,,,,,,
+,,,,,,,Control
+,,,,,##,,Oseltamivir
+22,,,,,,,
+,,,,,***,,Rolipram 15mg/kg
+20,,,,,,,
+,,,,***,,,Sertraline
+18,,,,,,***,
+,,,***,,,,
+16,,,,,,,Oseltamivir + Rolipram
+14,,,,,,,Oseltamivir + Sertraline
+"Days (mean day to death)
+12",,,,,,,
+10,,,,,,,
+,,,,,###,,
+,,,,,,,*** P <0.001 compared to control

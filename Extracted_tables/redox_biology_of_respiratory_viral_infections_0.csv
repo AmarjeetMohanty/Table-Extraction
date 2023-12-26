@@ -1,0 +1,39 @@
+0,1,2,3,4,5,6,7,8
+,Table 1. Antiviral activity of antioxidants and antioxidant enzymes towards respiratory viral infections.,,,,,,,
+,,,Inﬂuenza Virus,,,,Human Respiratory Syncytial Virus,
+Antioxidant,Model,Antiviral,Synergism,,Model,Antiviral,Synergism,
+,,,,Ref,,,,Ref
+,System,Activity,with,,System,Activity,with,
+,Cells,,,,,,,
+,,,"Ribavirin,",,,,,
+N-acetylcysteine (NAC),Mice,Yes,,[185–188],Cells,? *,NA,"[31,32,143,189]"
+,,,oseltamivir,,,,,
+,Human,,,,,,,
+,Cells,,,,,,,
+Pyrrolidine dithiocarbamate (PDTC),,Yes,ND **,"[132,190]",ND,ND,ND,ND
+,Mice,,,,,,,
+,Cells,,,,,,,
+Glutathione,,Yes,ND,"[108,109]",Cells,Yes,ND,[32]
+,Mice,,,,,,,
+,,,,,Cells,,,
+Butylated hydroxyanisole (BHA),-,-,-,-,,No,ND,"[31,191]"
+,,,,,Mice,,,
+,Cells,,,,,,,
+SOD1,,No,Rimantadine,"[74,95,192]",Rats,Yes,ND,[193]
+,Mice,,,,,,,
+SOD2,Mice,No,Ribavirin,[194],Rats,Yes,ND,[193]
+SOD3,Mice,No,ND,[195],ND,ND,ND,ND
+Roﬂumilast,-,-,-,-,Cells,Yes,NA,[196]
+Carbocisteine,Cells,Yes,ND,[197],Cells,Yes,NA,[198]
+,Cells,,,,,,,
+Ascorbic acid,,Yes,ND,[199–201],ND,ND,ND,ND
+,Mice,,,,,,,
+Ambroxol,Mice,Yes,ND,[202],ND,ND,ND,ND
+,Cells,,,,Cells,,,
+Resveratrol,,Yes,ND,[203],,Yes,ND,"[204,205]"
+,Mice,,,,Mice,,,
+,Cells,,,,,,,
+Vitamin E or Trolox,,? ***,ND,[206–208],ND,ND,ND,ND
+,Mice,,,,,,,
+Catalase,Mice,Yes,ND,"[209,210]",Cells,No,ND,[32]
+,"* No antiviral activity [31]; antiviral activity was reported [32,143,189]. ** No data. *** Not studies, ND [206,207]; antiviral activity was reported [208].",,,,,,,

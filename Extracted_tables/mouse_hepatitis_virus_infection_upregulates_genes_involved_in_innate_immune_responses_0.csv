@@ -1,0 +1,23 @@
+0,1,2
+Table 2. List of upregulated genes previously not known to be associated with MHV infection and inflammation.,,
+Gene Group,Gene Symbol,Fold Change
+Microglia Specific Genes,Aif1,4.141
+,Mpeg1,4.32
+Guanylate Binding Proteins,GBP1,7.116
+,GBP2,29.653
+,GBP3,16.972
+,GBP4,10.455
+,GBP5,9.826
+,GBP6,12.627
+,GBP8,9.426
+,GBP10,27.316
+GTPases,Gvin1,6.266–6.986
+Interferon Activated and Induced Genes,ifi204,10.786
+,ifi205,5.784
+,ifi27,14.414
+,ifi30,5.789
+,iigp1,31.259
+,IRGM1,17.216
+,IRGM2,28.333
+NLR Card Domain,nlrc5,7.803–9.208
+T cell specific GTPase,Tgtp1,28.285–38.589

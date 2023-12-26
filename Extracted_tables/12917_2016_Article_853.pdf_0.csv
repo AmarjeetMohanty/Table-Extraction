@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6,7,8
+,"Table 2 Detection of viral RNA,",,IgG and antigen,,,,,
+No. of,ID of,Degree of,FmoPV RNA,,Antibody,IHC,Accession,Strain
+cases,cat,lesions,,,"titer
+in IF",,no.,
+,,,urine,tissue,,,,
+1a,N010,++,P1,P,">20,480",***,LC080842,N010U
+2a,N101,++,P,P,5120,***,LC080851,N101U
+3a,N153,+++,P,P,640,***,LC080858,N153U
+4,N007,+,P,P,"10,240",**,LC080841,N007U
+5,N110,+,P,P,1280,**,LC080854,N110U
+6,N134,++,P,P,160,**,LC080855,N134U
+7,N141,+,P,P,2560,*,LC080856,N141U
+8,N020,+,P,N2,5120,*,,
+9,N050,+++,P,N,640,**,LC080846,N050U
+10,N104,none,P,N,1280,**,LC080852,N104U
+11,N028,+++,N,P,5120,**,LC080843,N028K
+12,N040,++,N,P,1280,**,LC080844,N040K
+13†,N055,++,P,P,<40,***,LC080847,N055U
+14,N001,++,P,P,<40,**,AB924120,OtJP001
+15,N003,+,P,P,<40,**,AB924121,MiJP003
+16,N073,+++,P,P,<40,*,AB924122,ChJP073
+17,N076,none,P,P,<40,**,LC080850,N076U
+18,N109,++,P,P,<40,*,LC080853,N109U
+19,N140,+,N,N,640,*,,
+20,N045,++,N,P,2560,none,LC080845,N045K
+21,N144,+++,N,P,640,none,LC080857,N144K
+22,N063,+,N,P,<40,none,LC080848,N063K
+23,N065,+,P,N,<40,none,LC080849,N065U
+24,N024,+,N,N,2560,none,,
+25,N064,+++,N,N,2560,none,,
+26,N131,+,N,N,320,none,,
+27,N136,++,N,N,640,none,,
+28,N138,none,N,N,320,none,,
+29,N148,++,N,N,2560,none,,
+,a IHC-positive in inflammatory lesions,,,,,,,

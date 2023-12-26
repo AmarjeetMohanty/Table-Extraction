@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7
+,Table 2 Virucidal activity of povidone-iodine 7% oral,,"solution against SARS-CoV, MERS-CoV,",,inﬂuenza virus A subtype H1N1 and rotavirus,,
+Virus,Povidone-iodine,,Log10 reduction factor with 95% conﬁdence interval,,,,
+,concentration (%),,,,,,
+,,Clean conditionsa,,,,Dirty conditionsb,
+,,15 s,30 s,60 s,120 s,15 s,30 s
+Inﬂuenza virus A subtype H1N1,0.23,5.67 – 0.43,5.67 – 0.42,n.d.,n.d.,6.00 – 0.47,6.00 – 0.47
+,0.023,4.50 – 0.54,4.83 – 0.68,n.d.,n.d.,0.33 ± 0.63,0.50 ± 0.65
+,0.0023,0.83 ± 0.54,1.00 ± 0.70,n.d.,n.d.,0.17 ± 0.58,0.17 ± 0.58
+SARS-CoV,0.23,4.60 – 0.80,n.d.,n.d.,n.d.,4.40 – 0.79,n.d.
+MERS-CoV,0.23,4.40 – 0.79,n.d.,n.d.,n.d.,4.40 – 0.87,n.d.
+Non-enveloped human rotavirus,0.23,"‡
+4.67 – 0.42",‡ 4.67 – 0.42,‡ 4.67 – 0.42,‡ 4.67 – 0.42,n.d.,n.d.
+strain Wa,,,,,,,
+,0.023,1.83 ± 0.54,2.00 ± 0.60,2.00 ± 0.60,2.17 ± 0.61,n.d.,n.d.
+,0.0023,- 0.33 ± 0.42,0.00 ± 0.60,0.17 ± 0.61,0.67 ± 0.42,n.d.,n.d.

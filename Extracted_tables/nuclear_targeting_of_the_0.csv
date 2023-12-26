@@ -1,0 +1,12 @@
+0,1,2
+localization. Scale bar = 10 μM. (b) Comparison of different nuclear targeting signal sequences.,,
+,Localizations,
+Constructions,Nucleus,Cytoplasm
+EYFP,++,+++
+EYFP-B1,+++,—
+ΔA,+++,—
+ΔB,++,+
+ΔC,++,+++
+ΔD,+++,—
+ΔBC,+,+++
+ΔAD,+++,—

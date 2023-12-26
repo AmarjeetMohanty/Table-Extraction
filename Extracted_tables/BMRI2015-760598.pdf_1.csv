@@ -1,0 +1,30 @@
+0,1,2,3,4,5,6,7
+"CFSE FITC-H
+103",,,,,,,
+,50,,,,,,
+102,,,,,,,
+,0,,,,,,
+"50
+100
+150
+200
+250",,,,,,,
+,,,102,"103
+104",,105,
+"FSC-A
+FSC-A
+(×1000)
+(×1000)",,,,,,,
+,,,,"CFSE FITC-H
+CFSE FITC-H",,,
+,,(b),,,,,
+IM AcNPV-LC3 protected,,,,,,,
+,,,,∗,,,
+IM AcNPV-LC3 partially protected,,,,,∗∗∗,,
+,,,,,,∗∗∗,
+IM AcNPV-LC3 not protected,,,,,,,
+IM AcNPV-WT protected,,,,,,,∗∗∗
+IM AcNPV-WT partially protected,,,,,,,
+IM AcNPV-WT not protected,,,,,,,
+Infected,,,,,,,
+Sham,,,,,,,

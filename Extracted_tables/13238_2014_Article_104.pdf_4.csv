@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6,7,8
+A,,,,,,C,,
+,,+,+,+,,,+,
+Vector,,,,,,,"+ +
+HA-STING",
+,,,+,"+ + +
+-",,,,+ + +
+Myc-Belcin1,,--,,,,,"- -
+Myc-Beclin1",
+PLP2-TM-V5,,,-,+,,,"-
+PLP2-TM",
+,,,,,,,IP: HA,
+IB: V5,,,,,PLP2-TM,,,Myc-Beclin1
+IP: Myc,,,,,,,IB: Myc,
+IB: Myc,,,,,,,,
+,,,,,Myc-Beclin1,,,
+,,,,,,,IP: HA,
+,,,,,,,,PLP2-TM
+,,,,,,,IB: V5,
+IB: Myc,,,,,Myc-Beclin1,,,
+IP: V5,,,,,,,,
+,,,,,,,IP: HA,
+IB: V5,,,,,,,,HA-STING
+,,,,,PLP2-TM,,,
+,,,,,,,IB: HA,
+WCL: Myc,,,,,Myc-Beclin1,,,
+,,,,,,,WB: V5,PLP2-TM
+WCL: V5,,,,,,,,
+,,,,,PLP2-TM,,,
+,,,,,,,WB: Myc,Myc-Beclin1
+,,1        2       3        4,,,,,,
+B,+,,,,,,,
+Vector,,,,,,,,HA-STING
+,,,- +,,,,WB: HA,
+PLP2-TM,-,,,,,,,
+,,,,,,,1         2        3,

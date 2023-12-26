@@ -1,0 +1,28 @@
+0,1,2
+Table 3: Residues in the binding pocket of NS3 of JEV and DEN-2. Active site residues are underlined and variations are shown in bold.,,
+Binding pocket,JEV,DEN2
+S2,H51,H51
+,D75,D75
+,G151,G151
+,N152,N152
+,G153,G153
+S1,L115,V115
+,S131,P131
+,S135,S135
+,G136,G136
+,Y150,Y150
+,S163,S163
+S1',Q35,Q35
+,I36,A36
+,H51,H51
+,V52,T52
+,S135,S135
+S2',Q35,Q35
+,I36,A36
+,P132,R132
+,G133,G133
+Hydrophobic cluster,L115,V115
+,F116,F116
+,V126,V126
+,A160,S160
+,Y161,Y161

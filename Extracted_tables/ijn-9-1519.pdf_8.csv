@@ -1,0 +1,48 @@
+0,1,2,3,4,5,6
+,,PRRSV RNA load in the lungs,,,,
+C,BAL fluid,G,Lung homogenate,,,
+,100 µg/pig groups,,,,ii Mock+Chal,v NP- KAg+NP-WCL+Chal
+2.0,,,100 µg/pig groups,,,
+,,2.0,,,,
+1.5,,,,,,
+,,1.5,,,,
+1.0,,1.0,,,,
+"RNA copies/mL (x105)
+0.5",,0.5,,,,
+0,,"RNA copies/gm (x106)
+0",,,,
+,"1
+2
+3
+4
+5
+6",,"1
+2
+3
+4
+5
+6",,,
+,BAL fluid,,Lung homogenate,,,
+,500 µg/pig groups,,500 µg/pig groups,,,
+D,,H,,,,
+2.0,,2.0,,,,
+,*,,,,,
+,,,*,,iii KAg+Chal,vi NP-KAg+WCL+Chal
+1.5,,1.5,,,,
+1.0,,1.0,,,,
+,,0.5,,,,
+0.5,,,,,,
+0.02,,,,,,
+,,0,,,,
+,"1
+2
+3
+4
+5
+6",,"1
+2
+3
+4
+5
+6",,,
+,,,,1. Mock,3. KAg+Chal,5. NP-KAg+NP-WCL+Chal

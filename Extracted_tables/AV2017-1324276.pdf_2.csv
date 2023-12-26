@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6,7,8
+,,"Table 3: Analytical sensitivity of NxTAG RPP, xTAG RVP, and FilmArray RP for detecting influenza A, avian- or swine-origin subtypes.",,,,,,
+,,,Limit of detection [viral load (log10 copies/ml); log10 TCID50/ml] of influenza A subtype,,,,,
+,Influenza A,,,,,,,
+,,NxTAG RPP,,,xTAG RVP,,,FilmArray RP
+Subtype,Strains,Viral load,TCID50,Viral load,,TCID50,Viral load,TCID50
+H1N1pdm09,A/HK/415742/09/H1N1,3.0,0.1,3.0,,0.1,3.0,0.1
+H2N2,A/Asia/57/3,3.7,3.2,3.7,,3.2,2.7,0.32
+H3N2v,A/Wisconsin/12/2010,2.0,0.1,4.0,,10,3.0,1
+H5N1,A/Vietnam/3028/04,4.2,0.56,4.2,,0.56,4.2,0.56
+H5N6,A/H5N6/HK/2016,3.0,1,5.0,,100,3.0,1
+H7N9,A/Anhui/1/2013,3.4,0.178,6.4,,178,4.4,1.78
+H9N2,A/HK/1073/99,1.8,0.0056,3.8,,0.56,3.8,0.56
+Mean,,3.0,0.7,4.3,,41.8,3.4,0.8

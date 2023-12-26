@@ -1,0 +1,48 @@
+0,1,2,3,4,5,6,7,8,9,10
+,,,3 months,,,6 months,,,84 months,
+Case,,Age at,,,,,,,,
+,Gender,,,,,,,,,
+number,,onset,Predominant,Segments,Predominant,,Segments,Predominant,Segments,
+,,,,,,,,,,PFT
+,,,HRCT findings,involved,HRCT findings,,involved,HRCT findings,involved,
+,,,,,Reticulation,,,,,
+,,,,,,,,Reticulation,,
+,,,,,and,,,,,
+1,F,30,GGO,15,,,15,and interlobular,15,Mild
+,,,,,interlobular,,,,,
+,,,,,,,,thickening,,
+,,,,,thickening,,,,,
+2,M,35,GGO,3,GGO,,2,GGO,1,Mild
+,,,,,,,,Reticulation,,
+,,,Consolidation,,,,,,,
+3,M,54,,8,GGO,,6,and interlobular,4,N
+,,,and GGO,,,,,,,
+,,,,,,,,thickening,,
+,,,,,,,,Reticulation,,
+4,F,38,Diffuse GGO,9,GGO,,3,and interlobular,3,Mild
+,,,,,,,,thickening,,
+,,,,,Reticulation,,,,,
+,,,,,,,,Reticulation,,
+,,,Consolidation,,and,,,,,
+5,F,42,,13,,,7,and interlobular,5,Mild
+,,,and GGO,,interlobular,,,,,
+,,,,,,,,thickening,,
+,,,,,thickening,,,,,
+,,,,,,,,Reticulation,,
+6,F,32,–,–,GGO,,14,and interlobular,11.5,Mild
+,,,,,,,,thickening,,
+,,,,,,,,Reticulation,,
+7,M,31,–,–,GGO,,18,and interlobular,9.5,Mild
+,,,,,,,,thickening,,
+,,,,,Reticulation,,,,,
+,,,,,,,,Reticulation,,
+,,,,,and,,,,,
+8,F,31,–,–,,,5,and interlobular,3.5,Mild
+,,,,,interlobular,,,,,
+,,,,,,,,thickening,,
+,,,,,thickening,,,,,
+,,,,,,,,Reticulation,,
+9,F,40,–,–,GGO,,9,and interlobular,6.5,Moderate
+,,,,,,,,thickening,,
+10,F,48,–,–,GGO,,18,GGO,16,Mild
+11,F,36,–,–,GGO,,9,Normal,0,N

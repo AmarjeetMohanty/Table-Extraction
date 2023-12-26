@@ -1,0 +1,79 @@
+0,1,2,3
+,"Jong-Han Lee, et al.",,
+Table 2. Comparison Results of Multiplex PCR Positive Cases,,,
+,Multiplex PCR,Multiplex PCR,Total no.
+,,R-Mix culture,
+,(SeeplexTM),(LabopassTM),(103 cases)
+Consistent (50),AdV,"AdV
+AdV",10
+,IFV B,"IFV B
+IFV B",2
+,RSV A,"RSV
+RSV",38
+Inconsistent (36),AdV,AdV + IFV A + RhV AdV + IFV A,1
+,AdV,"hMPV + PIFV 3
+PIFV 3",1
+,AdV,"Negative
+AdV",1
+,IFV A,"Negative
+IFV A",4
+,IFV A,"Negative
+IFV B",1
+,IFV A,"Negative
+No growth",1
+,IFV A,"Negative
+No growth",1
+,IFV A,"Negative
+No growth",1
+,IFV B,"Negative
+IFV B",5
+,IFV B + RSV A,"Negative
+RSV + IFV B",1
+,IFV B + RSV A,"RSV 
+RSV",1
+,hMPV + RSV B,"hMPV
+No growth",1
+,Negative,"IFV A
+IFV A",1
+,Negative,"MPV + PIFV 1
+No growth",1
+,Negative,"RSV
+RSV A + RSV B",2
+,PIFV 3,"AdV
+AdV",1
+,PIFV 3 + RhV A/B,"Negative
+No growth",1
+,PIFV 3 + RhV A/B,"PIFV 1
+PIFV 3",1
+,PIFV 3 + RhV A/B + RSV B AdV,AdV,1
+,RSV A,"Negative
+No growth",2
+,RSV A,"Negative
+RSV",4
+,RSV A,"RSV
+No growth",1
+,RSV A + RSV B,"Negative
+RSV",1
+,RSV B,"RSV
+No growth",1
+Indeterminate (17),AdV + HCoV OC43,"AdV + HCoV OC43
+AdV",1
+,HCoV 229E/NL63 + RSV B,"RSV
+RSV",3
+,HCoV OC43 + RSV A,"RSV
+RSV",1
+,HCoV OC43 + RSV B,"RSV
+RSV",1
+,HCoV 229E/NL63 + RSV A,"RSV
+RSV",1
+,RhV A/B + RSV A,"RSV
+RSV",2
+,RSV A,"hMPV + RSV
+RSV",3
+,RSV A + RSV B,"RSV + HBoV
+RSV",1
+,RSV B,"hMPV + RSV
+RSV",2
+,RSV B,"RSV + hMPV
+RSV",2
+"PCR, polymerase chain reaction; AdV, adenovirus; HCoV, human coronavirus; IFV, influenza virus; PIFV, parainfluenza virus; hMPV, human",,,

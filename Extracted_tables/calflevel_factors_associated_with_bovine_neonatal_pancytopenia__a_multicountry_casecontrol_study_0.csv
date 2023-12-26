@@ -1,0 +1,31 @@
+0,1,2,3,4,5
+,,,,,Bovine Neonatal Pancytopenia Risk Factors
+,"Table 2. Results of univariable analysis of colostrum and milk management variables showing variables with p,0.02 (n = 1296).",,,,
+,,,Matched odds ratio,95% confidence,Wald test p
+Variable (n),,Variable category,(mOR),interval,value
+Total colostrum received by,,0–5,1.00,,
+"calf,
+litres (916)",,5.5–10,1.83,"0.86, 3.88",0.12
+,,10.5–20,4.00,"0.89, 18.00",0.07
+,,20.5–30,6.90,"0.45, 106.20",0.17
+,,Ad lib,4.18,"0.41, 42.95",0.23
+Colostrum obtained from,,No,1.00,,
+cow(s) different,from dam (1296),Yes,1.91,"1.19, 3.05",0.007
+Pooled colostrum (from,,No,1.00,,
+multiple cows),(1070),Yes,2.82,"1.31, 6.09",0.008
+Pooled colostrum includes,,No,1.00,,
+colostrum of dam (1061),,Yes,2.20,"0.95, 5.10",0.066
+Frozen colostrum (1133),,No,1.00,,
+,,Yes,1.75,"0.83, 3.69",0.14
+Milk powder,(1296),No,1.00,,
+,,Yes,0.36,"0.20, 0.66",0.001
+Raw milk from dam (1296),,Other milk,1.00,,
+,,Raw milk from dam,1.94,"0.91, 4.14",0.085
+Type of milk fed to calf,,Milk powder,0.60,0.27. 1.31,0.20
+(1296),,Raw milk mixed,1.00,,
+,,Raw milk mixed & milk powder,0.34,"0.11, 1.06",0.062
+,,Raw milk dam only,2.89,"1.20, 6.97",0.018
+,,Raw milk dam only & milk powder,0.32,"0.10, 1.06",0.062
+Raw milk from dam only,,No,1.00,,
+(1296),,Yes,4.13,"1.78, 9.62",0.001
+doi:10.1371/journal.pone.0080619.t002,,,,,

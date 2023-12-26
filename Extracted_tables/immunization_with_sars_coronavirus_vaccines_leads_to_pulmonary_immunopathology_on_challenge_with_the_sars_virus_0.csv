@@ -1,0 +1,24 @@
+0,1,2,3
+,Table 1. Experimental Groups for Evaluation of SARS Coronavirus Vaccines.,,
+,Exp 11,Exp 21,"Exp 31,3"
+Group,Vaccine Comparisons,Higher SV Dosage plus DIV and BPV Comparisons,Mouse and Vaccine Specificity
+1,DIV/1 mg2,PBS,PBS-PBS
+2,DIV/0.5 mg,Live virus,PBS
+3,DIV/0.25 mg,SV/9 mg,Live virus
+4,DIV/0.125 mg,SV/3 mg,Flu vaccine
+5,DIV/1 mg + alum,SV/1 mg,DIV/1 mg
+6,DIV/0.5 mg + alum,SV/9 mg + alum,DIV/1 mg + alum
+7,DIV/0.25 mg + alum,SV/3 mg + alum,BPV/undil + alum
+8,DIV/0.125 mg + alum,SV/1 mg + alum,PBS-PBS
+9,SV/2 mg2,DIV/1 mg,PBS
+10,SV/1 mg,DIV/0.25 mg (50 ml),Live virus
+11,SV/0.5 mg,DIV/1 mg + alum,Flu vaccine
+12,SV/0.25 mg,DIV/0.25 mg + alum (50 ml),DIV/1 mg
+13,SV/2 mg + alum,BPV/undil + alum2,DIV/1 mg + alum
+14,SV/1 mg + alum,BPV/undil + alum (25 ml),BPV/undil + alum
+15,SV/0.5 mg + alum,,
+16,SV/0.25 mg + alum,,
+17,VLP/2 mg2,,
+18,VLP/2 mg + alum,,
+19,Alum,,
+20,PBS,,

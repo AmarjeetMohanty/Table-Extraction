@@ -1,0 +1,52 @@
+0,1,2,3,4,5
+,"Table 1 The genome, ﬁber, hexon, and E1A sequences of adenovirus species A–G used in this study",,,,
+Type,Strain,"Year
+isolated",Country,Sequence,GenBank accession no.
+HAdV-A12,Huie,1954,USA,Genome,AC_000005
+HAdV-B3,GB,1953,USA,Genome,AY599834
+HAdV-B7,Gomen,1952,USA,Genome,AY594255
+HAdV-B11p,Slobitski,1956,USA,Genome,NC_011202
+HAdV-B11a,273,1969,Spain,E1A,FJ841916
+,,,,Fiber,FJ841908
+,,,,Hexon,FJ841900
+HAdV-B11a,6380,1997,USA,E1A,FJ841919
+,,,,Fiber,FJ841907
+,,,,Hexon,FJ841899
+HAdV-B11a,2474,2001,Taiwan,E1A,FJ841922
+,,,,Fiber,FJ841914
+,,,,Hexon,FJ841906
+HAdV-B11a,760,2002,Taiwan,E1A,FJ841921
+,,,,Fiber,FJ841913
+,,,,Hexon,FJ841905
+HAdV-B11a,RKI-2797-04,2004,Turkey,Fiber,AY972816
+,,,,Hexon,AY972815
+HAdV-B11a,SNG1222,2005,Singapore,E1A,FJ841920
+,,,,Fiber,FJ841912
+,,,,Hexon,FJ841904
+HAdV-B14p,de Wit,1955,Netherlands,Genome,AY803294
+HAdV-B14p,16845,1974,Netherlands,E1A,FJ841917
+,,,,Fiber,FJ841910
+,,,,Hexon,FJ841902
+HAdV-B14p1,2971,2007,USA,E1A,FJ841915
+,,,,Fiber,FJ841909
+,,,,Hexon,FJ841901
+HAdV-B14p1,Dublin,2009,Ireland,Fiber,HQ163916
+,,,,Hexon,HQ265808
+HAdV-B14p1,303600,2007,USA,Genome,FJ822614
+HAdV-B14p1,BJ430,2010,China,Genome,JN032132
+HAdV-B14p1,GZ01,2010,China,Genome,JQ824845
+HAdV-B14p1,CHN2012,2012,China,Genome,JX892927
+HAdV-B14,Gansu2011-01,2011,China,Hexon,JX310315
+HAdV-B16,ch.79,1955,USA,Genome,AY601636
+HAdV-B21,AV-1645,1956,Saudi Arabia,Genome,AY601633
+SAdV-21,Bertha,1954,USA,Genome,AC_000010
+HAdV-B34p,Compton,1972,USA,Genome,AY737797
+HAdV-B35p,Holden,1973,USA,Genome,AY128640
+HAdV-B50,Wan,1988,USA,Genome,AY737798
+HAdV-B55,QS-DLL,2006,China,Genome,FJ643676
+HAdV-C1,Adenoid 71,1953,USA,Genome,AF534906
+HAdV-D9,Hicks,1954,USA,Genome,AJ854486
+HAdV-E4,RI-67,1952,USA,Genome,AY594253
+HAdV-F40,Dugan,1979,Netherlands,Genome,NC_001454
+HAdV-G52,T03-2244,2003,USA,Genome,DQ923122
+The genome of HAdV-B14p1 GZ01 is shown in boldface.,,,,,

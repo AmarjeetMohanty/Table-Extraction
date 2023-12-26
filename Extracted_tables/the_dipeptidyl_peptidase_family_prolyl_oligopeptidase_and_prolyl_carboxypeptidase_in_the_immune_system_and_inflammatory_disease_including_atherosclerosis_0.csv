@@ -1,0 +1,20 @@
+0,1,2,3,4,5,6,7,8
+TABLE 1 | Overview of commonly used inhibitors within the DPP family and the ratio of,,,,,inhibitor needed to inhibit,,the respective DPP family member,
+compared to what is needed to inhibit DPPIV.,,,,,,,,
+Inhibitors,,DPPII,DPP8,DPP9,FAP,PREP,PRCP,Reference
+Clinical,Alogliptin,">14,000",">14,000",">14,000",">14,000",">14,000",ND,(16)
+,Linagliptin,">100,000","40,000",">10,000",89,">100,000",ND,(17)
+,Saxagliptin,">50,000",390,77,">4,000",ND,ND,(18)
+,Sitagliptin,">5,550",">5,550",">2,660",">5,550",">5,550",ND,(19)
+,Talabostat,4,8,4,3,44,ND,
+,Vildagliptin,">100,000",270,32,285,"60,000",ND,"(20, 21)"
+,,,(cid:0)3,(cid:0)3,,,,
+Experimental,1G244,1,<10,<10,1,ND,ND,(21)
+,,,,,,(cid:0)4,,
+,KYP2047,1,ND,1,1,<10,1,"(12, 22)"
+,,,,,(cid:0)4,,,
+,UAMC01110,1,ND,0.5,<10,0.1,ND,(23)
+,,(cid:0)5,,,,,,
+,UAMC00039,<10,1,2,>10,ND,ND,"(24, 25)"
+,,,,,,(cid:0)2,,
+,Z-Pro-Prolinal,ND,ND,ND,ND,<10,*,"(26, 27)"

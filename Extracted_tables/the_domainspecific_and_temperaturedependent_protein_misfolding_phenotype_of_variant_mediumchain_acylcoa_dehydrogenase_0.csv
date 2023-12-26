@@ -1,0 +1,13 @@
+0,1,2,3,4,5
+,Table 3. Mean transition midpoints of,,"thermal denaturation (CD spectroscopy, FAD fluorescence, ANS fluorescence).",,
+,CD a,ANS-DSF b,,FAD-DSF c,
+,Tm1/2 (6C),Tm1/2 (6C),SEM,Tm1/2 (6C),SEM
+WT,56.5,56.4,0.53,58.3,0.53
+p.Ala52Val,52.0,52.2,0.37,54.2,0.37
+p.Tyr67His,52.5,52.2,0.32,55.7,0.32
+p.Tyr158His,44.5,44.9,0.43,46.3,0.43
+p.Arg206Cys,50.0,49.1,0.30,52.2,0.30
+p.Asp266Gly,53.5,51.4,0.70,56.4,0.70
+p.Lys329Glu,54.0,55.1,0.29,59.0,0.29
+p.Arg334Lys,53.5,55.5,0.33,57.4,0.33
+p.Arg413Ser,52.0,52.1,0.52,56.1,0.52

@@ -1,0 +1,18 @@
+0,1,2,3,4,5
+,,,,PEDV Minimum Infectious Doses in Pigs at Different Ages,
+Table 1.,"Infectious titers, PCR Ct values and genomic copies/ml of serial dilutions of PEDV stock.",,,,
+Dilution of stock virus,TCID50/ml (Theoretical),TCID50/ml (Back titrated),PFU/ml (Back titrated),Ct*,Genomic Copies/ml*
+Stock Virus,"562,000","562,000","680,000",12.2,2.10E+10
+10−1,"56,200","31,600","49,000",16.76,9.54E+08
+10−2,"5,620","5,620","6,600",20.21,9.20E+07
+10−3,562,316,430,24.22,6.07E+06
+10−4,56.2,56.2,23,28.22,4.03E+05
+10−5,5.62,0,5,31.37,4.77E+04
+10−6,0.562,0,0,35.28,3.37E+03
+10−7,0.0562,0,0,37.62,6.89E+02
+10−8,0.00562,0,0,>45,0
+10−9,0.000562,0,0,>45,0
+10−10,0.0000562,0,0,>45,0
+Neg Ctl,0,0,0,>45,0
+* Average values of,triplicate PCR reactions for each dilution.,,,,
+doi:10.1371/journal.pone.0139266.t001,,,,,

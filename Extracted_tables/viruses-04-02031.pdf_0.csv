@@ -1,0 +1,44 @@
+0,1,2,3,4,5
+,,,,,2033
+,,Table 1. Arenaviridae family (adapted from reference [9]).,,,
+Virus,Acronym,Distribution,Reservoirs,Human,Mortality
+,,,,Pathogen,Rate
+Old World arenaviruses,,,,,
+Ippy,IPPYV,Central African,Arvicanthis sp.,not reported,
+,,Republic,,,
+Lassa,LASV,West Africa,Mastomys sp.,Yes,High
+Lymphocytic,LCMV,"Europe, Americas",Mus musculus,Yes,Low
+choriomeningitis,,,,,
+Mobala,MOBV,Central African,Praomys sp.,not reported,
+,,Republic,,,
+Mopeia,MOPV,"Mozambique,",Mastomys natalensis,not reported,
+,,Zimbabwe,,,
+New World arenaviruses,,,,,
+Allpahuayo,ALLV,Peru,"Oecomys bicolor,",not reported,
+,,,Oecomys paricola,,
+Amapari,AMAV,Brazil,"Oryzomys capito,",not reported,
+,,,Neacomys guianae,,
+Bear Canyon,BCNV,USA,Peromyscus californicus,not reported,
+Chapare,CHPV,Bolivia,unknown,Yes,unknown
+Cupixi,CPXV,Brazil,Oryzomys sp.,not reported,
+Flexal,FLEV,Brazil,Oryzomys spp.,Yes,non-fatal
+Guanarito,GTOV,Venezuela,Zygodontomys brevicauda,Yes,High
+Junin,JUNV,Argentina,Calomys musculinus,Yes,High
+Latino,LATV,Bolivia,Calomys callosus,not reported,
+Machupo,MACV,Bolivia,Calomys callosus,Yes,High
+Oliveros,OLVV,Argentina,Bolomys obscurus,not reported,
+Parana,PARV,Paraguay,Oryzomys buccinatus,not reported,
+Pichinde,PICV,Colombia,Oryzomys albigularis,not reported,
+Pirital,PIRV,Venezuela,Sigmodon alstoni,not reported,
+Sabia,SABV,Brazil,unknown,Yes,unknown
+Tacaribe,TACV,Trinidad,Artibeus spp.,Yes,non-fatal
+Tamiami,TAMV,USA,Sigmodon hispidus,not reported,
+Whitewater Arroyo,WWAV,USA,Neotoma albigula,Yes,Low
+Status remains pending,,,,,
+Lujo,LUJV,"Zambia, South",unknown,Yes,High
+,,Africa,,,
+Luna,LUNV,Zambia,Mastomys natalensis,not reported,
+Lunk,LNKV,Zambia,Mus minutoides,not reported,
+Kodoko,KODV,Africa,Mus minutoides,not reported,
+Dandenong,DANV,unknown,unknown,not reported,
+Merino Walk,MWV,South Africa,Myotomys unisulcatus,not reported,

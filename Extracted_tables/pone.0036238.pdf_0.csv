@@ -1,0 +1,13 @@
+0,1,2,3
+,,,Transcriptome of Sogatella furcifera
+,Table 1. Summary statistics for Sogatella furcifera genes resulting from Illumina deep sequencing.,,
+,Viruliferous WBPH,Non-viruliferous WBPH,Combined
+Contigs,144204,136031,280235
+Length of all contig (nt),"31,007,772","29,013,298","60,021,070"
+Mean length of contigs,228,201,-
+GC percentage,45.99%,44.94%,-
+Scaffolds,"132,907","108,473","241,380"
+Mean length of scaffolds,304 bp,281 bp,295 bp
+All unigene,69890,61376,81388
+Length of unigene,433 bp,408 bp,555 bp
+doi:10.1371/journal.pone.0036238.t001,,,

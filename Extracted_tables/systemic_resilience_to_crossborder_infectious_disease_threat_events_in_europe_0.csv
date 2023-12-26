@@ -1,0 +1,31 @@
+0,1,2,3,4,5
+TA B L E   3  Association	of	IHR	core,,,,,
+,,,IRR,IRR,
+capacities	with	infectious	disease	threat,,,,,
+,IHR core capacity,IRR,95% CI Lower,95% CI Upper,p‐value
+"events,	Europe,	2010–2016",,,,,
+,Composite	measure,0.806,0.675,0.962,0.017
+,(mean),,,,
+,Core	capacity	1:	National,0.903,0.836,0.975,0.009
+,"legislation,	policy	&",,,,
+,financing,,,,
+,Core	capacity	2:,0.879,0.801,0.963,0.006
+,Coordination	and	NFP,,,,
+,communications,,,,
+,Core	capacity	3:,0.811,0.665,0.991,0.040
+,Surveillance,,,,
+,Core	capacity	4:,0.790,0.706,0.885,<0.001
+,Response,,,,
+,Core	capacity	5:,0.903,0.838,0.972,0.007
+,Preparedness,,,,
+,Core	capacity	6:	Risk,0.875,0.780,0.970,0.011
+,communication,,,,
+,Core	capacity	7:	Human,0.901,0.835,0.973,0.008
+,resource	capacity,,,,
+,Core	capacity	8:,0.771,0.696,0.854,<0.001
+,Laboratory,,,,
+,Points	of	Entry,0.993,0.960,1.027,0.688
+,IHR	Potential	hazard	1:,0.946,0.813,1.101,0.475
+,zoonotic	events,,,,
+,IHR	Potential	hazard	2:,1.040,0.802,1.347,0.769
+,food	safety,,,,

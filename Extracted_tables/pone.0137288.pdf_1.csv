@@ -1,0 +1,45 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+"Table 2. Characteristics of the CPV-2 positive dogs, the genotypes of CPV-2 strains, and amino acid substitution of the VP2 protein in northeast China.",,,,,,,,,,,,,,,,,
+,No.,Strain,Accession,Collection,Location,Breed,Gender,Age,Vaccine,Other enteric,CPV,,Substitution of amino acid,,,,
+,,,No.,date,,,,,,viruses,type,,residues in VP2 protein of CPV,,,,
+,,,,,,,,,,(Accession No.),,,,,,,
+,,,,,,,,,,,,297,324,370,419,426,440
+Reference,1,CPV-b,M38245,1996,USA,NA,NA,NA,NA,NA,2,Ser,Tyr,Gln,Asn,Asn,Thr
+strains,,,,,,,,,,,,,,,,,
+,2,YB8301,GU569943,1983,China,NA,NA,NA,NA,NA,2,Ser,Try,Gln,Asn,Asn,Thr
+,3,CPV-15,M24003,1984,USA,NA,NA,NA,NA,NA,2a,Ser,Tyr,Gln,Asn,Asn,Thr
+,4,CC8601,GU569948,1986,China,NA,NA,NA,NA,NA,2a,Ser,Tyr,Gln,Asn,Asn,Thr
+,5,CPV-39,M74849,1984,USA,NA,NA,NA,NA,NA,2b,Ser,Tyr,Gln,Asn,Asp,Thr
+,6,56/00,FJ222821,2009,Italy,NA,NA,NA,NA,NA,2c,Ala,Tyr,Gln,Asn,Glu,Thr
+,7,06/09,GU380303,2009,China,NA,NA,NA,NA,NA,2c,Ala,Ile,Gln,Asn,Glu,Thr
+,8,G1,KF482468,2009,China,NA,NA,NA,NA,NA,2c,Ala,Tyr,Gln,Asn,Glu,Thr
+,9,CPV-435,AY742953,2005,USA,NA,NA,NA,NA,NA,New2a,Ala,Tyr,Gln,Asn,Asn,Thr
+,10,Wh-6,GQ169542,2009,China,NA,NA,NA,NA,NA,New2a,Ala,Ile,Gln,Asn,Asn,Thr
+,11,CPVSH-,JX121626,2011,China,NA,NA,NA,NA,NA,New2a,Ala,Ile,Gln,Asn,Asn,Ala
+,,2/2011,,,,,,,,,,,,,,,
+,12,CPV-436,AY742955,2005,USA,NA,NA,NA,NA,NA,New2b,Ala,Tyr,Gln,Asn,Asp,Thr
+,13,GZ0201,GU569944,2002,China,NA,NA,NA,NA,NA,New2b,Ala,Tyr,Gln,Asn,Asp,Thr
+,14,CPV-2b-,KC881278,2010,China,NA,NA,NA,NA,NA,New2b,Ala,Ile,Gln,Asn,Asp,Ala
+,,wuhan2,,,,,,,,,,,,,,,
+Strains in,1,MDJ-1,KT074258,Dec-2014,MDJ,SH,F,2M,Yes,CCoV (KT192642),New2a,Ala,Ile,Gln,Asn,Asn,Ala
+this study,,,,,,,,,,,,,,,,,
+,2,MDJ-22,KT074265,Oct-2014,MDJ,GM,F,6M,Yes,—,New2a,Ala,Ile,Gln,Asn,Asn,Ala
+,3,MDJ-28,KT074267,Dec-2014,MDJ,JS,M,3M,Yes,—,New2a,Ala,Ile,Gln,Asn,Asn,Ala
+,4,MDJ-29,KT074268,May-2015,MDJ,MX,M,5M,No,—,New2a,Ala,Ile,Gln,Asn,Asn,Ala
+,5,MDJ-32,KT074269,Jan-2015,MDJ,NA,NA,NA,Yes,—,New2a,Ala,Ile,Gln,Asn,Asn,Ala
+,6,MDJ-40,KT074272,May-2015,MDJ,PD,F,NA,Yes,—,New2a,Ala,Ile,Gln,Asn,Asn,Ala
+,7,DQ-,KT074273,Dec-2014,DQ,NA,F,3M,No,CCoV (KT192660),New2a,Ala,Ile,Gln,Asn,Asn,Ala
+,,alpha1,,,,,,,,,,,,,,,
+,8,DQ-,KT074274,May-2015,DQ,PD,NA,3M,Yes,—,New2a,Ala,Ile,Gln,Asn,Asn,Ala
+,,beta1,,,,,,,,,,,,,,,
+,9,HRB-A5,KT074278,Sep-2014,HRB,MX,M,NA,NA,—,New2a,Ala,Ile,Gln,Asn,Asn,Ala
+,10,HRB-A8,KT074280,Oct-2014,HRB,BF,M,4M,NA,CCoV,New2a,Ala,Ile,Gln,Asn,Asn,Ala
+,,,,,,,,,,"(KT192655),",,,,,,,
+,,,,,,,,,,CaKV (KT210398),,,,,,,
+,11,HRB-B0,KT074279,Oct-2014,HRB,PM,F,3M,Yes,CCoV,New2a,Ala,Ile,Gln,Asn,Asn,Ala
+,,,,,,,,,,"(KT192665),",,,,,,,
+,,,,,,,,,,CaKV (KT210404),,,,,,,
+,12,HRB-B7,KT074283,Oct-2014,HRB,MI,F,3M,Yes,CCoV (KT192668),New2a,Ala,Ile,Gln,Asn,Asn,Ala
+,13,HRB-b9,KT074318,Sep-2014,HRB,NA,M,3M,Yes,—,New2a,Ala,Ile,Gln,Asn,Asn,Ala
+,14,HRB-C2,KT074285,Oct-2014,HRB,TM,F,NA,No,CCoV,New2a,Ala,Ile,Gln,Asn,Asn,Ala
+,,,,,,,,,,"(KT192678),",,,,,,,

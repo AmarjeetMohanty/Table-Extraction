@@ -1,0 +1,19 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+,,,,Table 2. Putative anti-Kawasaki disease etiology antibodies.,,,,,,,
+Monoclonal,Clonal,Exact,IG,VH ˆ CDR3,Nucleotide,VH R/S *,VH R/S *,VL & CDR3,Nucleotide,VL R/S *,VL R/S *
+Antibody Clones,Members,Replicants,Isotypes,Length,Substitutions (%),CDR1,CDR2,length,substitutions (%),CDR1,CDR2
+24-01,10,5,G1,19,97.8,0,1/0,11,97.7,7,0
+24-02,4,4,M; G1,19,93.8,2/0,5,9,95.0,3/0,0
+24-25,6,2,"G1,3",17,94.4,5/0,3/0,9,95.3,2/0,2/0
+24-29,6,2,"G1,2,3",11,85.6,4.5,14/0,8,85.8,5,4
+24-39,5,2,G1,15,90.6,2.3,2.1,11,94.6,2,8/0
+24-49,3,2,G2,20,93.4,1.5,5,13,96.5,0,2/0
+24-67,5,,G1,18,93.5,4.3,19.5,9,97.0,9/0,5
+24-377,4,,G1,14,92.3,8.0,6.0,9,96.2,9.0,0.5
+24-439,2,,M; G2,11,91.5,4.0,2.0,11,94.4,2/0,2/
+24-441/659,15,,M; G1,11,93.1,31.0,30.0,9,97.6,6.5,18/0
+24-595,5,,"M; G1,2",15,93.0,9.5,13/0,9,95.6,2.7,0
+24-815,8,,M; G1,15,95.4,5.5,9.0,10,97.7,4,9/0
+24-893,4,,G1,12,91.7,2.3,2.4,10,94.4,19/0,8
+24-908,3,,"M; G1,3",20,96.5,4.0,2.5,9,98,5,2
+,,,"ˆ VH- heavy chain variable region, & VL light chain variable region, * Replacement to silent nucleotide mutation ratios (R/S).",,,,,,,,

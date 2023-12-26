@@ -1,0 +1,9 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+,Table 4 Biomarker values in different etiologic groups of CAP,,,,,,,,,,,,,,,,,
+,,Bacterial,,,Mixed,,,Viral,,,Unknown,,,,,p,,
+,N,Median,Interquartile,N,Median,Interquartile,N,Median,Interquartile,N,Median,Interquartile,Bacterial,Bacterial,Mixed,,Mixed vs,Mixed vs
+,,,range,,,range,,,range,,,range,vs Mixed,vs Viral,vs Viral,,Overall bacterial,Unknown
+,,,,,,,,,,,,,,,,,and viral,
+PCT (ng/mL),59,"1,37","4,635",45,"1,978","8,324",65,"0,38","1,756",92,0.18,0.899,"0,416","0,02","0,007",,"0,044",0.002
+CRP (mg/dL),59,18,"21,64",46,"28,19","28,15",66,"14,535","15,14",92,17.10,18.165,"0,027","0,614","0,005",,"0,004",0.001
+WBC (cells/mm3),59,"13,4","7,2",46,"12,05","8,7",66,"11,6","8,1",92,11.90,7.900,"0,235","0,109","0,866",,"0,588",0.676

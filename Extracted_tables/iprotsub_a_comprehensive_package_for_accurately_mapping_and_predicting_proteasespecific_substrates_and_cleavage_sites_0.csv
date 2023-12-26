@@ -1,0 +1,38 @@
+0,1,2,3,4,5,6,7
+"652
+|",Song et al.,,,,,,
+Table 3. Statistical summary of the predicted substrates and cleav-,,,,"enriched
+for",caspase-3,"substrates
+(small","cell
+lung
+cancer),"
+age sites with the 100% speciﬁcity at the proteome scale,,,,caspase-6,"substrates
+(hypertrophic",,"cardiomyopathy), MMP-3"
+,,,,substrates,(both small,"and non-small
+cell","lung
+cancer)
+and"
+MEROPS ID,Protease,Number of,Number of,,,,
+,,,,"MMP-6
+substrates",(endometrial,cancer,and chronic myeloid
+,name,predicted,predicted,,,,
+,,,,,leukemia). These results highlight the functional roles of these,,
+,,substrates,cleavage,,,,
+,,,,protease–substrate,interactions,"in
+cancer-related",biological
+,,,sites,,,,
+,,,,"processes [1, 4, 5].",,,
+C14.003,Caspase-3,10 645,26 929,,,,
+C14.004,Caspase-7,12 288,34 355,,,,
+C14.005,Caspase-6,5936,10 156,Case study,,,
+C14.009,Caspase-8,18 532,152 609,,,,
+,,,,,To illustrate the predictive power of,,"iProt-Sub, we performed a"
+M10.003,MMP-2,9805,22 985,,,,
+,,,,,case study where the targeted cleavage of the protein calpastatin,,
+M01.005,MMP-3,402,425,,,,
+,,,,by caspase-3,[131] and MMP-2,[132] was,examined in detail.
+S01.010,Granzyme B,13 995,47 092,,,,
+,,,,Calpastatin (UniProt,ID: P20810),,is an endogenous calpain (cal-
+,(human-type),,,,,,
+,,,,,cium-dependent cysteine protease),,"inhibitor, which is encoded"
+,,,,,by the CAST gene in humans. It consists of an N-terminal domain,,

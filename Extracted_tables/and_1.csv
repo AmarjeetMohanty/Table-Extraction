@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7,8
+,Base Model,,BCV data added,,IBRV data added,,,Mdis and
+,,,,,,,,Mbov data added
+BVDV-A,0.70b,0.53b,0.68b,0.56b,0.70c,0.58c,0.39,0.25
+BVDV-D,-0.44,_o.45c,-0.36c,-0.42,-0.34,-0.39,-0.57c,-0.58c
+BRSV-A,0.63,0.51C,0,0.04,0.05,0.09,0.37,0.47
+BRSV-D,-0.08,-0.05,-0.52c,-0.52,-0.49c,-0.38,-0.14,0
+BCV-A,NA,NA,1.39b,1.37b,1.41c,1.39b,1.09b,1.17b
+BCV-D,NA,NA,0.24,0.31,0.25,0.32,0.02,0.23
+IBRV-A,NA,NA,NA,NA,2.45C,2.19,2.40,2.02
+IBRV-D,NA,NA,NA,NA,-1.04b,-1.05b,-1.09,-1.13b
+Mbov-A,NA,NA,NA,NA,NA,NA,-0.02,0.02
+Mbov-D,NA,NA,NA,NA,NA,NA,-0.64c,-0.68c
+Mdis-A,NA,NA,NA,NA,NA,NA,-0.15,-0.33
+Mdis-D,NA,NA,NA,NA,NA,NA,-0.85b,-0.79b
+NA - Not available,,,,,,,,

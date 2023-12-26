@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6,7
+,,,,,,Anti-DENV,
+,,,Routes of,Infective,Detectable,,
+Species,Immune status,Name,,,,immune,DENV-induced disease
+,,,infection,dose,viremia,,
+,,,,,,responses,
+Mouse,Immunocompetent,BALB/c,IP,105,-/+,"Ab (-/+), T cell",-
+,Humanized,,,,,,
+,,hNOD/SCID,SC,104,+,Ab (-/+),"Fever, rash, thrombocytopenia"
+,,hNOD/SCID/IL2Rγnull,SC,105,+,Ab (-/+),"Fever, rash, thrombocytopenia"
+,,-/-,,,,,
+,,hRAG2-/-γc,"IP, SC",106,+,Ab,"Fever, rash, shock"
+,,SCID-HuH7,IP,105,+,-,-
+Swine,Immunocompetent,Yucatan miniature pig,"SC, IV",107,+ (SC),Ab,Rash (+/-)
+Non-human primate Immunocompetent,,Rhesus macaque,"SC, ID",105,+,"Ab, T cells","Ly mphadenopathy, splenomegaly,"
+,,,,,,,"hepatomegaly, mild dehydration,"
+,,,,,,,"mild rash, increased viremia (+/-)"
+,Immunocompetent,Chimpanzee,"SC, ID",103-106,+,Ab,-

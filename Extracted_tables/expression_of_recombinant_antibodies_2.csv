@@ -1,0 +1,57 @@
+0,1,2,3,4,5,6
+Table 1 | Continued,,,,,,
+Host,Antigen,Antibody format,Production,Yield,Reference,
+,,(clone),system,,,
+Filamentous fungi,,,,,,
+Aspergillus niger var.,ErbB2,"IgG, Fab",Shake ﬂasks,0.9 g/L; 0.2 g/L,"Ward et al.
+(118)",
+awamori,,,,,,
+Aspergillus niger var.,Lysozyme,scFv,7 L fermenter,108.9 mg/L,Sotiriadis et al. (277),
+awamori,,,,,,
+Aspergillus oryzae,EGFR,VHH,Shake ﬂasks,73.8 mg/L,Okazaki et al. (123),
+Protozoa,,,,,,
+Leishmania,16 Different scFv,scFv,Shake ﬂasks,0.04–,Klatt and Konthur (128),
+tarentolae,,,,3.38 mg/L,,
+Insect cells,,,,,,
+"Trichoplusia ni
+larvae",Rotavirus,VHH,Living larvae,257 mg/L,Gómez-Sebastián et al.,(278)
+Spodoptera,Blood coagulation,scFv,Shake ﬂasks,3.2–10 mg/L,"Kurasawa et al.
+(279)",
+frugiperda,factor VIII,,,,,
+"Drosophila, S2",Glycoprotein H,Fab,Spinner ﬂasks,16 mg/L,Backovic et al. (280),
+"Drosophila, S2",HIV,IgG,n. d.,5–35 mg/L,"Johansson et al.
+(281)",
+"Drosophila, S2",Bovine viral diarrhea,scFv,n. d.,5–12 mg/L,Gilmartin et al. (282),
+,"virus, hepatitis C virus",,,,,
+Spodoptera,gp41,IgG,"T
+-ﬂasks",3 mg/L,Palmberger et al. (283),
+"frugiperda, SF-9",,,,,,
+Trichoplusia ni,gp41,IgG,"T
+-ﬂasks",12 mg/L,Palmberger et al. (283),
+Sf SWT-1 Mimic,gp41,IgG,"T
+-ﬂasks",3 mg/L,Palmberger et al. (283),
+MAMMALIAN CELLS,,,,,,
+Transient,,,,,,
+HEK293T,"CD200, SIRPγ",Fab,"Genejuice, roller",4 mg/L,Nettleship et al. (284),
+,,,bottles,,,
+HEK293T,n. d.,IgG,"HEKfectin, tissue",1–14 mg/L,"Li et al.
+(155)",
+,,,culture plates,,,
+CHO,n. d.,"IgG1,
+IgG4",Lipofectamine,140 mg/L,Codamo et al. (285),
+HEK293F,n. d.,IgG,293fectin,100–400 mg/L,"Van Berkel et al.
+(286)",
+CHO DG44,RhD,IgG,"PEI, square-shaped",90 mg/L,Wulhfard et al. (287),
+,,,bottles,,,
+HEK293E,n. d.,IgG,"PEI, square-shaped",200 mg/L,Backliwal et al. (288),
+,,,bottles,,,
+CHO,n. d.,IgG,"PEI, square-shaped",60–80 mg/L,Wulhfard et al. (289),
+,,,bottles,,,
+HEK293E,RhD,IgG,"PEI, square-shaped","1
+.1 g/L",Backliwal et al. (177),
+,,,bottles,,,
+Stable,,,,,,
+CHO-K1,n. d.,IgG,Lipofectamine,0.05–,Li et al. (155),
+,,,,0.45 mg/L,,
+CHO,HIV-1,scFv-Fc,PEI,5.78–,Mader et al. (290),
+,,,,45.49 mg/L,,

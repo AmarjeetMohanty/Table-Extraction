@@ -1,0 +1,13 @@
+0,1,2,3,4,5
+Outcome:,2 Secondary outcome: all adverse events,,,,
+Study or subgroup,Nasal decongestant,Placebo,Odds Ratio,Weight,Odds Ratio
+,n/N,n/N,"IV,Random,95% CI",,"IV,Random,95% CI"
+1 Oral,,,,,
+Bye 1980,19/72,15/68,,21.4 %,"1.27 [ 0.58, 2.75 ]"
+Eccles 2005,5/119,5/119,,8.0 %,"1.00 [ 0.28, 3.55 ]"
+Eccles 2006,5/77,4/76,,7.0 %,"1.25 [ 0.32, 4.84 ]"
+Eccles 2014,14/121,28/237,,27.7 %,"0.98 [ 0.49, 1.93 ]"
+Latte 2007,13/105,20/107,,22.5 %,"0.61 [ 0.29, 1.31 ]"
+Sperber 1989,2/10,4/23,,3.6 %,"1.19 [ 0.18, 7.84 ]"
+Subtotal (95% CI),504,630,,90.2 %,"0.95 [ 0.65, 1.39 ]"
+"Total events: 58 (Nasal decongestant), 76 (Placebo)",,,,,

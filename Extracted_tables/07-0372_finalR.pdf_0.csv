@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6,7,8
+"different geographic areas. In the Netherlands, higher risk",,,,,the low participation rate in some regions did not bias the,,,
+,"Table 4. Results of regression analysis (marginal effects) of precautionary behavior for hypothetical influenza pandemic, Europe and",,,,,,,
+Asia,,,,,,,,
+,,,,,Keep,,,
+,,,,Take,children,Limit contact,Avoid,
+,Avoid public,Avoid,Limit,absence,from,with family/,seeing,Stay
+Variable,transportation,entertainment,shopping,from work,school,friends,doctor,indoors
+Sex (male),0.005,–0.048,–0.054*,0.042,0.017,–0.021,–0.018,0.013
+Age,–0.001,0.003*,0.001,–0.003*,–0.004,0.001,–0.001,0.001
+Education medium,0.039,0.113*,0.175,–0.023,–0.223*,–0.015,–0.015,–0.033
+Education high,0.033,0.139*,0.185*,–0.030,–0.189,0.010,–0.036,–0.055
+Urban area,–0.044,–0.071*,–0.108*,0.004,–0.064,0.015,–0.061,0.009
+European region,0.038,0.422*,0.072*,–0.139*,0.186*,–0.077*,–0.130*,–0.120*
+High-risk scenario,0.000,0.018,0.056*,0.036,–0.056,–0.013,0.040,0.002
+Risk for influenza,0.025*,0.004,0.012,0.009,–0.051,0.001,–0.006,0.014
+Health,0.017,–0.009,–0.008,–0.013,–0.071*,–0.009,0.016,–0.011
+Vaccinated,0.019,0.011,0.041,0.025,0.045,0.002,0.003,0.022
+Employed,–0.051*,–0.059,–0.081*,–0.070*,0.053,–0.059,–0.033,–0.113*
+Observation,"1,341","1,263","1,355","1,307",349,"1,293","1,310","1,316"
+Log likelihood,–710.699,–687.188,–843.241,–863.953,–226.204,–887.342,–744.488,–747.710
+*Significant at 0.05.,,,,,,,,

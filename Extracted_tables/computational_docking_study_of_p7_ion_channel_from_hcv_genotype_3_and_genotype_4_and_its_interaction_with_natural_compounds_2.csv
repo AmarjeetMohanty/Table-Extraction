@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6
+,Table 9. Phenol compounds and their interactions with modeled p7 proteins from both genotypes as,,,,,
+,obtained from molecular docking studies.,,,,,
+PhenolCompounds,,HCV p7 GT3,,,HCV p7 GT4,
+,Docking,No of H,Interacting,Docking,No of H,Interacting
+,Score(kcal/,bonds,proteins,Score(kcal/,bonds,proteins
+,mol),,,mol),,
+HonokiolNobelitin,-36.25,3,"Leu45,Ser44",-73.84,0,-
+,,,"(2),Trp30(2)",,,
+,-48.32,5,"Leu45(2),",-60.31,1,His31
+,,,"Trp30,Ser44",,,
+,,,(2),,,
+doi:10.1371/journal.pone.0126510.t009,,,,,,

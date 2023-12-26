@@ -1,0 +1,8 @@
+0,1,2
+0-1,2,≥ 3
+Low,Intermediate,High
+mortality,mortality,mortality
+1.5%,9.2%,22%
+Candidate for,Consider,Inpatient treatment;
+outpatient,inpatient,severity scores 4-5:
+treatment,treatment,consider ICU

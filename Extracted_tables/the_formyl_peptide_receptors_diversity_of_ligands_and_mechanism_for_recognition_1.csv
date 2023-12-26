@@ -1,0 +1,40 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+Ligands Representatives,,Sequence/Structure,,,,,,,,Selectivity,Reference
+,,,,,,,,O,,,
+,,Cl,,O,,,,,,,
+f.,N-phenylureas AG-26,,,,,,,,,"FPR2 
+FPR2","[76] 
+[76]"
+,,,NH2,,NH,,,,,,
+,,,,,NN,,,,Br,,
+,,O,,,,,,,,"FPR1, FPR2",[81]
+g.,Chiral pyridazines,,,,,NH,,,,"FPR1, FPR2",[81]
+,,,,O,,,,,,,
+,,,,,R,,,,,,
+,,,,"R = n-C3H7, i-C3H7, n-C4H9",,,,,,,
+,,,"R = n-C3H7, i-C3H7, n-C4H9",,,,,,,,
+,,,,O,,,,,,,
+h.,2-(N-Piperazinyl) acetamide derivatives,Br,,,O,N,,,,FPR2,[76]
+,,Br,,,,N,,,,"FPR2 
+FPR2","[76] 
+[76]"
+,AG-09/73,,,,,N,,,,,
+,,,,NH,,N,,,,,
+,,,,NH,,,,,,,
+,,,,,,,N,,,,
+,,,NH,,,,N,,O,,
+,,,,NH,,,N,,,,
+,,,NH,,,NH,,,O,,
+,,,NH,NH,,,,,O,,
+,,,,NH,,NH,,,,,
+,,,,,,NH,,,,,
+i.,chiral 3-(1H-indol-3-yl)-2-[3-(4-,,,,,,,,,,
+,,"+
+O",O,,,,,,,FPR2,"[82,83]"
+,,,O,,,,,,,,
+,nitrophenyl)ureido]propanamides,N,,,,,,,,"FPR2 
+FPR2","[82,83] 
+[82,83]"
+,,,,,,NH,,,,,
+,PD176252,,,,,NH,,,,,
+,,O,,,,,,,,,

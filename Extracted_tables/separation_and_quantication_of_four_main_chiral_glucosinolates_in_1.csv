@@ -1,0 +1,12 @@
+0,1,2,3,4,5,6,7
+,"Table 3. The results of precision, repeatability, stability, and recovery for ﬁve analytes.",,,,,,
+,Precision (RSD %),,,,,Recovery,
+,,,Repeatability,Stability,,,
+Glucosinolates,Intra-Day,Inter-Day,(RSD %),(RSD %),(Mean %),,
+,,,,,,,RSD (%)
+,n = 6,n = 3,n = 6,n = 6,n = 9,,
+Progoitrin,1.23,0.15,1.56,0.37,99.1,,2.53
+Epiprogoitrin,1.98,0.16,1.41,0.05,99.3,,2.58
+"R,S-goitrin",1.24,0.53,1.21,0.82,103.3,,2.89
+R-goitrin,1.35,0.96,1.28,0.64,101.5,,2.95
+S-goitrin,1.05,0.58,2.82,1.42,99.1,,2.53

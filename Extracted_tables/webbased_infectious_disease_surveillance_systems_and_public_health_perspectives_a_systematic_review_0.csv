@@ -1,0 +1,47 @@
+0,1,2,3,4,5,6,7,8
+Table 2 Organization of,,the surveillance systems by various characteristics,,,,,,
+System,Country,Area of Service,Language,Data Source,,Data access,"User
+Interface",Format
+,(Year started),,,,,,,
+ProMED-Mail,USA (1994),Worldwide [21],7 languages [26],News/Media Report,,Public,None,E-mail alert [37]
+GPHIN,Canada,Worldwide,8 languages [26],News/Media Report,,Restricted/,Boolean and metadata,Website/e-mail
+,"(1997, 2004a)",,,(Factiva and Al Bawaba),[41],Subscription [22],query system [35],alert [22]
+GOARN,Multipleb,Worldwide,"English,",News/Media Report,,Restricted [26],None,Network-based
+,(2000),,"multilingual
+[26]",,,,,
+MedISys,EU (2004),European Union member states [42],43 languages [26],News/Media Report [42],,Restricted/Limited to,Text extraction [43],RSS feed/E-mail
+,,,,,,EU member states,,and SMS alerts [44]
+,,,,Europe Media Monitor,,,,
+,,,,,,[42],,
+EpiSimS,USA (2005),United States,English,US Census data [45],,Restricted,"Graphical user
+interface;",XML-based format
+,,,,,,,simulation pre-processing,
+,,,,Transformation infrastructure,,,,
+,,,,,,,[45–48],
+,,,,data,,,,
+BioCaster,Japan (2006),Priority to Asia-Pacific region [33],8 languages [26],Query,,Public [49],Mapping interface [13],RSS feed [13]
+,,,,Text mining [13],,,,
+EpiSPIDER,USA (2006),"North America, Europe, Australia, Asia",English [26],News/Media Report,,Public,Timeline visualization,"RSS, JSON, KM"
+,,,,,,,mapping and word,"feeds [6, 50]"
+,,,,Social Media,,,,
+,,,,,,,cloud [33],
+,,,,CIA [51],,,,
+Health Map,USA (2006),Worldwide,5 languages [26],Query,,Public,"Mapping,
+faceted",RSS feed [18]
+,,,,,,,"browsing (native)
+[52]",
+,,,,News/Media Report [52],,,,
+,,,,"ProMED, WHO, Euro",,,,
+,,,,Surveillance [53],,,,
+Google Flu,United,28 countries [54],39 languages [54],Query [55],,Public [56],Mapping features [18],RSS feed [18]
+Trends,States (2008),,,,,,,
+,,,,CDC [57],,,,
+GET WELL,Sweden,Sweden,Swedish,"Query [24, 58]",,Restricted [24],Time-series graphs [24],HTML page [36]
+,(2010),,,,,,,
+Influenzanet,Europe,"The Netherlands, Belgium, Portugal,","Italy, the UK,
+10 languages",Self-report from volunteer,,Public [60],None,RSS feed [61]
+,(2008),"France, Sweden, Spain,
+Ireland, Denmark,",,(online questionnaire,,,,
+,,Switzerland [59],,"response)
+[39]",,,,
+,"aGPHIN was first established in 1997 but a new, robust multilingual GPHIN system was developed and launched on November 17, 2004 at the United Nations [22]",,,,,,,

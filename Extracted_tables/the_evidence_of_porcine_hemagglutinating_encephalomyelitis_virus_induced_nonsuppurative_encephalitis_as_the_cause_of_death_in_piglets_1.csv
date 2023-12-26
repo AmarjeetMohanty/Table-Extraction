@@ -1,0 +1,31 @@
+0,1,2,3
+Figure 6,,"The growth curves of PHEV strains. Neuro-2a cells were, respectively, inoculated with PHEV-",
+"CC14 and HEV 67N. The TCID50 was measured at different time points, and the growth curves were plot-",,,
+ted. There was no significant difference in replication or proliferation between the PHEV-CC14 strain and,,,
+HEV-67N strain (p > 0.05).,,,
+Table 3,Sequences of the oligonucleotides for gene-walking RT-PCR.,,
+Primers,Primers sequence (5(cid:48)–3(cid:48)),Gene,Fragment (bp)
+,TACTGAAACCATTACCACT,,
+P1/P2,,I,"1,275"
+,CTATAACTATGACCGCGAC,,
+,GAAATAACCAGGGTCGTGGA,,
+P3/P4,,II,"1,614"
+,GCTCACGAACAGCCACA,,
+,GATGGCGACCAGATAGAAGT,,
+P5/P6,,III,"1,674"
+,GCAATAGGGTTGCTTGTACC,,
+,CGCGTAATCGTGTGATCTATGT,,
+P7/P8,,IV,"1,390"
+,CCGGCCTTTGAAGTGGTTAT,,
+,CCGGCCTTTGAAGTGGTTAT,,
+P9/P10,,V,256
+,CGACCTGGCGTTTATTAACCGAGA,,
+,ATGAGTAGTCCAACTACAC,,
+P11/P12,,VI,685
+,TATTTCTCAACAATGCGGTGTC,,
+,TCAGGCATGGACACCGCATT,,
+P13/P14,,VII,"1,463"
+,AGAGTGCCTTATCCCGACTTT,,
+,TTACAGCACTTAGATCACGTAGAT,,
+P15/P16,,VIII,"2,195"
+,TAAACTCTGGCTTCGCCAGGTAAT,,

@@ -1,0 +1,21 @@
+0,1,2,3,4,5,6
+Table 5 Results for CPV and for vector-borne infections in 13 rescue dogs,,,,,,
+Dog1,Date of sampling,"CPV2,3",Babesia spp.2,Ehrlichia canis2,Leishmania infantum2,Dirofilaria immitis2
+Dog 1,28.10.13,neg,neg 5,neg 8,neg 10,neg 12
+Dog 2,05.11.13,neg,neg 5,neg 8,neg 10,neg 12
+Dog 3,25.10.13,,pos4,,,
+,06.11.13,neg,pos5,neg 8,neg 10,neg 12
+Dog 4,22.10.13,,neg 4,neg 9,pos11,
+Dog 5,5.11.13,neg,neg 5,neg 8,neg 10,neg 12
+Dog 6,5.11.13,neg,neg 5,neg 8,neg 10,neg 12
+Dog 7,5.11.13,neg,neg 5,neg 8,neg 10,neg 12
+Dog 8,23.10.13,,pos6,,,
+,6.11.13,neg,pos5,neg 8,interm10,neg 12
+Dog 9,6.11.13,neg,neg 5,neg 8,neg 10,neg 12
+Dog 10,7.11.13,neg,neg 5,neg 8,neg 10,neg 12
+Dog 11,6.11.13,neg,neg 5,neg 8,neg 10,neg 12
+Dog 12,24.10.13,,interm7,neg 8,neg 10,neg 13
+,12.11.13,neg,,,,
+Dog 13,12.11.13,neg,neg 4,neg 8,neg 10,"pos12,14"
+Total positive (%),,0/12 (0 %),2/13 (15 %),0/13 (0 %),1/13 (8 %),1/13 (8 %)
+Positive results are shown in bold,,,,,,

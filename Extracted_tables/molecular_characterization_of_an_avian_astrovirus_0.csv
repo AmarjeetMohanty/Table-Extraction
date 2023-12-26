@@ -1,0 +1,18 @@
+0,1,2,3
+,TABLE 1. Pairwise similarities of previously reported,,
+,,sequences to TAstVa,
+,,% Similarity of:,
+Virus,,,
+,Last 476 nt,Last 114 a.a.,Predicted protein
+HAstV-1,22.9,11.4,17.4
+HAstV-2,23.3,12.3,NDb
+HAstV-3,26.5,12.3,18.1
+HAstV-4,ND,12.3,18.1
+HAstV-5,20.6,12.3,17.5
+HAstV-6,24.8,10.5,18.2
+HAstV-8,22.5,12.3,17.8
+FAstV,22.9,16.7,18.1
+PAstV,23.9,15.8,NAc
+SAstV,20.4,12.3,NA
+TAstV-1,23.5,21.9,NA
+,"a Pairwise similarities of sequences of HAstV isolates, FAstV, porcine astro-",,

@@ -1,0 +1,30 @@
+0,1,2,3,4,5
+,Table 7. Recombinant inﬂuenza A viruses expressing reporter genes from the NS viral segment.,,,,
+,,,Insertion,,
+Gene,Virus Backbone (1),Transgene (2),,Application,Ref.
+,,,Mechanism (3),,
+,,,Caspase,,
+NS,PR8,GFP,,Virus biology,[90]
+,,,recognition site,,
+NS,PR8,GFP,Stop/start,Vaccine,[100]
+NS,PR8,maxGFP,2A site,Virus pathogenesis,"[71,101–104]"
+,,"maxGFP,",,Antiviral and virus-host,
+NS,PR8,,2A site,,[48]
+,,"turboRFP, Gluc",,interaction,
+,,,,"Antivirals, neutralizing",
+NS,PR8 pH1N1,mCherry,2A site,"antibodies, virus",[41]
+,,,,pathogenesis,
+NS,pH1N1,Timer,2A site,Virus propagation,[68]
+,,"Venus, eGFP,",,Virus-host interaction,
+NS,PR8 VN1203,,2A site,,[38]
+,,"eCFP, mCherry",,and virus pathogenesis,
+NS,PR8 WSN,GFP,2ˆ 2A site,Virus pathogenesis,"[105,106]"
+(1),,,,,
+,"PR8:
+A/Puerto","Rico/8/1934
+(H1N1);",pH1N1:,"A/California/04/2009
+(H1N1);",VN1203:
+,A/Vietnam/1203/2004,"(H5N1);
+(2) GFP: Green",ﬂuorescent,"protein; maxGFP:
+advanced","version
+of"

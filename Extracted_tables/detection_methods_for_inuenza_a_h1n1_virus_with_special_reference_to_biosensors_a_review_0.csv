@@ -1,0 +1,21 @@
+0,1,2,3,4,5,6
+Table 2 Various biosensors for detection of A (H1N1) virus,,,,,,
+S.N.o,Sensor type,Gene/protein,Sensitivity/L.O.D,Sample type,Detection time,References
+1,AuNP immunosensor,"HA, NA antibody",50.5 pg/ml,H1N1 virus,–,[54]
+2,Fluorescent,HA/fusion antibody,Not reported,H1N1 Virus,–,[73]
+,immunosensor,,,,,
+3,Surface plasmon,HA,"4.5 pmol
+l-1",H1N1 Virus,–,[74]
+,resonance,,,,,
+4,Immunosensor /SPR,HA /antibody,30 PFU/ml,labelled anti-HA,20 min,[75]
+5,Immunosensor,M1/polyclonal,80–100 virions/μl,H1N1 virus,30 min,[79]
+,,antibody,,,,
+6,PEDOT with galatcose,HA binding,"0.12, 0.013 HAU",H1N1 virus,–,[80]
+7,BDD,M1 antibody,1 fg/ml,antibody-M1,5 min,[83]
+8,SiO2-IO,HA antibody,103–105 PFU,H1N1 virus,–,[84]
+9,SWCNT immunoassay,anti- HIN1,180 TCID50ml,H1N1 Virus,–,[88]
+10,Impedance aptasensor DNA aptamer,,0.9 pg/μl,H1N1 virus,–,[89]
+11,DPM-coated gold,His6-H1 HA,1 × 109 to 1 × 108,HA antibody in sera,–,[90]
+,electrode,,fold,,,
+12,QCM immunosensor,Anti-MA,1 × 103 pfu/ml,H1N1 virus,>100 min,[95]
+13,FET Biosensor,HA binding,6000 HA mol/20 μl,HA protein,–,[112]

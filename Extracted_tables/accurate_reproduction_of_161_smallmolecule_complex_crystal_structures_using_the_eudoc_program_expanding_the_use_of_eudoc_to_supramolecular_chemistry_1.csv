@@ -1,0 +1,47 @@
+0,1,2,3,4,5,6,7,8,9,10
+,,,,,,,,,,The EUDOC Program
+,Table 3. cont.,,,,,,,,,
+,. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .,,,,,,,,,
+,,2,3,4,,,2,3,4,
+,,Etotal,Evdw,Eele,mwRMSD,,Etotal,Evdw,Eele,mwRMSD
+,CSD code1,(kcal/mol),(kcal/mol),(kcal/mol),(A˚ ),CSD code1,(kcal/mol),(kcal/mol),(kcal/mol),(A˚ )
+,DUGGUH10,235.0,25.8,229.2,0.20,SAKTII,257.2,232.2,225.0,0.31
+,DUKHUM,249.8,29.6,240.2,0.32,SEPKON,256.3,229.5,226.8,0.24
+,EBASEF,234.7,226.6,28.1,0.26,SEPNEG,265.6,230.1,235.5,0.09
+,EGIRIV,2241.4,26.3,2235.2,0.16,SOVJIW,241.3,212.8,228.6,0.13
+,EGIROB,2245.3,24.2,2241.1,0.25,SOVJOC,238.2,210.0,228.2,0.09
+,EMOZOV,263.5,29.7,253.8,0.22,TONFOR,227.7,215.1,212.6,0.39
+,EMOZUB,228.7,212.8,215.9,0.22,UBESOJ,244.8,236.7,28.1,0.06
+,EZAVOQ,237.6,234.4,23.2,0.41,UBETAW,246.4,235.5,210.9,0.39
+,EZUMER,216.1,215.3,20.8,0.23,UBETEA,239.2,233.3,25.9,0.12
+,FADCAP,245.9,20.5,245.4,0.07,UBEVAY,252.8,232.9,219.9,0.05
+,FAHDOH,239.4,226.4,213.0,0.26,UFIWAH,219.0,218.3,20.6,0.06
+,FANJAG,229.0,218.0,211.1,0.16,UJEFIY,252.4,267.4,15.0,0.15
+,FIKVIE,254.7,229.8,224.9,0.43,VAFRUP5,226.5,222.8,23.6,0.00
+,FIRXOT,248.0,230.7,217.3,0.02,VAKJEX,244.7,235.9,28.7,0.25
+,FODTIB,253.6,236.0,217.5,0.14,VAVLUZ,236.1,223.3,212.8,0.16
+,FUCVAA,2100.9,0.1,2101.0,0.66,VOHVIX,232.4,218.1,214.2,0.30
+.............................................................................................................................................................,GAMBIF,2136.3,26.1,2130.2,0.70,VOTNEX,250.9,230.3,220.6,0.38
+,GIGKEM,277.4,234.6,242.9,0.22,VOTNOH,284.2,247.2,237.0,0.05
+,GIKKEQ,2135.2,24.5,2130.7,0.00,XAGLOG,232.0,231.4,20.6,0.33
+,GIXNOQ,227.1,216.4,210.7,0.27,XAGMAT,236.2,236.9,0.6,0.07
+,GIYKOO,230.7,222.7,27.9,0.33,XAQJAA,2143.7,25.0,2138.8,1.65
+,GOBYOL,238.5,227.2,211.3,0.19,XAQJEE,2145.3,215.3,2130.0,1.89
+,GOKQUS5,216.7,215.8,20.9,0.28,XIVVAZ,279.7,220.0,259.7,0.45
+,GUGGUK,2223.9,23.5,2220.5,0.66,XOFSUG,237.6,234.4,23.2,0.05
+,GUQHUV5,224.0,220.1,24.0,0.02,XUGPUK,218.5,217.8,20.7,0.31
+,GUQJEH,230.9,225.4,25.5,0.02,XUTBET,228.7,223.3,25.4,0.84
+,GUQJIL,250.7,241.0,29.7,0.05,YACVEE,230.8,219.7,211.1,0.14
+,HASWUT,2215.3,216.1,2199.2,0.22,YACVII,218.0,218.1,0.1,0.27
+,HIWNIK,228.5,225.2,23.3,0.36,YAWJIP,233.0,217.8,215.1,0.16
+,HUNWUI,235.6,221.5,214.1,0.08,YOCLUX,247.0,226.2,220.9,0.39
+,HUNXAP,233.7,218.5,215.2,0.13,YONVAY,228.6,220.6,28.0,0.46
+,HUNXIX,242.1,214.4,227.7,0.13,ZESFEI,238.1,29.2,228.9,0.33
+,HUNXOD,239.7,216.7,223.0,0.28,,,,,
+,,1Cambridge Structural Database code;,,,,,,,,
+,2Intermolecular,interaction energy calculated by the EUDOC program;,,,,,,,,
+,3The van der Waals component of,,the intermolecular,interaction energy;,,,,,,
+,4The electrostatic component of,,the intermolecular,interaction energy.,,,,,,
+,,5EUDOC identified one alternative binding mode that,,,is energetically indistinguishable from the binding mode of,,,the crystal structure.,,
+,,6EUDOC identified three alternative binding modes that are energetically indistinguishable from the binding mode of,,,,,,the crystal structure.,,
+,,doi:10.1371/journal.pone.0000531.t003,,,,,,,,

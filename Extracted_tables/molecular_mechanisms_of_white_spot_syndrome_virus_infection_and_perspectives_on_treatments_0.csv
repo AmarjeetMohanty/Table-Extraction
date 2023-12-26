@@ -1,0 +1,52 @@
+0,1,2,3
+is also a series of interacting proteins for which the functions are not well established.,,,
+,Table 1. Established WSSV–host protein interactions.,,
+Viral Protein,Host Protein,Species,Reference
+"VP24, VP32, VP39B,",,,
+"VP41A, VP51B, VP53A,",Chitin-binding protein,,
+,,Penaeus monodon,"[89,90]"
+"VP53B, VP60A, VP110,",(PmCBP),,
+"VP124, VP337",,,
+VP53A,Glut1,"P
+. monodon",[91]
+"VP15, VP26, VP28",gC1qR (PlgC1qR),Pacifastacus leniusculus,[92]
+"VP95, VP28, VP26, VP24,",,,
+,C-type lectin (LvCTL1),Litopenaeus vannamei,[93]
+"VP19, VP14",,,
+VP28,C-type lectin (FcLec3),Fenneropenaeus chinensis,[94]
+,"C-type lectins (MjLecA,",,
+"VP26, VP28",,Marsupenaeus japonicus,[95]
+,"MjLecB, MjLecC)",,
+VP28,C-type lectins (MjsvCL),M. japonicus,[96]
+,"C-type lectins (LdlrLec1,",,
+VP28,,M. japonicus,[97]
+,LdlrLec2),,
+,,"P
+. japonicus",
+VP187,β-Integrin,,[98]
+,,"P
+. clarkii",
+"VP26, VP31, VP37, VP90,",,,
+,β-Integrin,L. vannamei,[99]
+VP136,,,
+,"α-integrin, β-integrin,",,[100] (Bioinformatic
+WSSV-CLP,,F. chinensis,
+,Syndecan,,prediction)
+"VP15, VP28",Calreticulin (PlCRT),"P
+. leniusculus",[101]
+VP466,Rab (PjRab),"P
+. japonicus",[102]
+VP28,Rab7 (PmRab7),"P
+. monodon",[103]
+,,,[104] (Bioinformatic
+ORF514,PCNA (lvPCNA),L. vannamei,
+,,,prediction)
+WSSV PK1,Ferritin (lvFerritin),L. vannamei,[105]
+Wsv083,FAK (MjFAK),M. japonicus,[106]
+AAP1 (WSSV449),Caspase (PmCaspase),"P
+. monodon",[107]
+"WSSV134, WSSV332",Caspase (PmCasp),"P
+. monodon",[108]
+WSSV249,Ubc (PvUbc),L. vannamei,[109]
+ICP11,Histones,"P
+. monodon",[110]

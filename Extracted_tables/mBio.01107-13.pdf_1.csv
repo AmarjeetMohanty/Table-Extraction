@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12
+,TABLE 3 DMV and intracellular virion (IV) prevalence in infected cells,,,,,,,,,,,
+,,,,,Prevalence of intracellular signs,,,,,,,
+,,,,of infection,,,,,No. per cell section when present,,,
+,,,No. of,,,,,,,,,Rel. DMV
+Conditions,Virus,ts,cells,DMV (%),Pa,IV (%),P,DMV,P,IV,P,capacity (%)b
+"DBT, 33°C, 5.5 hpi",Wild type,,323,6,,7,(cid:4),18 (cid:3) 20,,3 (cid:3) 4,(cid:4),100 (cid:3) 60
+,Brts31,nsp3,753,2,8 (cid:5) 10(cid:4)4,7,NSc,6 (cid:3) 6,1 (cid:5) 10(cid:4)2,3 (cid:3) 4,NS,20 (cid:3) 12
+"17Cl-1, 33°C, 10 hpi",Wild type,,161,40,,29,,9 (cid:3) 9,,4 (cid:3) 3,,100 (cid:3) 48
+,Brts31,nsp3,238,24,4 (cid:5) 10(cid:4)4,25,NS,7 (cid:3) 8,4 (cid:5) 10(cid:4)4,4 (cid:3) 6,NS,35 (cid:3) 18
+,Albts16,nsp5,120,37,NS,19,NS,9 (cid:3) 8,NS,4 (cid:3) 4,NS,53 (cid:3) 28
+,Brts105,nsp14,230,22,1 (cid:5) 10(cid:4)4,32,NS,9 (cid:3) 13,NS,4 (cid:3) 4,NS,49 (cid:3) 25
+,Wüts18,nsp16,140,36,NS,20,NS,9 (cid:3) 10,NS,2 (cid:3) 1,7 (cid:5) 10(cid:4)3,71 (cid:3) 36
+,Albts22d,nsp12,320,13,1 (cid:5) 10(cid:4)5,9,1 (cid:5) 10(cid:4)5,6 (cid:3) 5,NS,1 (cid:3) 0.4,1 (cid:5) 10(cid:4)5,16 (cid:3) 10
+a Calculated by Fisher’s exact test.,,,,,,,,,,,,

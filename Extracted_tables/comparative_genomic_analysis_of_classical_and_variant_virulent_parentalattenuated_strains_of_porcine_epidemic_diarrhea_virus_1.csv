@@ -1,0 +1,12 @@
+0,1,2,3,4,5,6,7,8
+,,,,Table 1. Cont.,,,,
+Gene,aa position,1,15,30,60,90,144,200
+E,53,I,I,I,I,V,V,V
+,70,P,P,P,S,S,S,S
+M,187,V,V,V,V,V,F,F
+,214,A,S,S,S,S,S,S
+,226,V,V,V,V,V,V,F
+N,112,V,V,V,V,V,F,F
+,379,V,V,V,V,V,A,A
+,391,S,S,R,R,R,S,S
+,,,,*: termination codon.,,,,

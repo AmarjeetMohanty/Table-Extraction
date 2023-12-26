@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6
+,"Table 6 In vitro activity of cyadox, quinocetone and mequindox in combination with various antibacterials against Mycobacterium",,,,,
+tuberculosis complex,,,,,,
+Drug combination,M. bovis ATCC 19210,,,M.,tb H37Rv ATCC 27294,
+,FICA + FICB,FIC,Combined effect,FICA + FICB,FIC,Combined effect
+CYA + Rifampicin,0.5 + 0.25,0.75,additive,0.5 + 0.25,0.75,additive
+CYA + Isoniazide,1 + 0.5,1.5,indifferent,1 + 0.25,1.25,indifferent
+CYA + Streptomycin,0.5 + 0.25,0.75,additive,0.5 + 0.5,1,additive
+CYA + Kanamycin,1 + 0.5,1.25,indifferent,1 + 0.5,1.5,indifferent
+CYA + Ethambutol,1 + 0.5,1.5,indifferent,1 + 0.25,1.25,indifferent
+CYA + Amikacin,1 + 0.5,1.5,indifferent,1 + 0.25,1.25,indifferent
+QCT + Rifampicin,0.5 + 0.5,1,additive,0.5 + 0.25,0.75,additive
+QCT + Isoniazide,1 + 0.5,1.5,indifferent,1 + 0.25,1.25,indifferent
+QCT + Streptomycin,0.5 + 0.5,1,additive,1 + 0.25,1.25,indifferent
+QCT + Kanamycin,1 + 0.5,1.25,indifferent,1 + 0.5,1.5,additive
+QCT + Ethambutol,1 + 0.5,1.5,indifferent,1 + 0.25,1.25,indifferent
+QCT + Amikacin,0.5 + 0.5,1,additive,1 + 0.5,1.5,indifferent
+MEQ + Rifampicin,0.5 + 0.5,1,additive,0.5 + 0.25,0.75,additive
+MEQ + Isoniazide,1 + 0.5,1.5,indifferent,1 + 0.25,1.25,indifferent
+MEQ + Streptomycin,1 + 0.5,1.55,additive,1 + 0.5,1.5,additive
+MEQ + Kanamycin,1 + 0.5,1.5,indifferent,0.5 + 0.5,1,additive
+MEQ + Ethambutol,1 + 0.5,1.5,indifferent,1 + 0.5,1.5,indifferent
+MEQ + Amikacin,1 + 0.5,1.55,indifferent,1 + 0.5,1.5,indifferent

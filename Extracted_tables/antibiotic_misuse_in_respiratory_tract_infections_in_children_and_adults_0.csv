@@ -1,0 +1,18 @@
+0,1,2,3,4
+,on expert panel diagnoses. Mixed infection was considered as bacterial.,,antibiotics. RSV respiratory syncytial virus,
+a.,,,,
+Paediatric,Viral N = 209,,Bacterial N = 75,
+,Viruses detecteda,Antibiotic usec,Viruses detected,Antibiotic use
+Adenovirus,28,12(43),2,2(100)
+Bocavirus,22,7(32),5,5(100)
+Influenza virus,30,10(33),6,6(100)
+Rhinovirus,45,16(36),17,16(94)
+RSV,75,32(43),23,22(96)
+Otherb,26,11(42),8,8(100)
+b.,,,,
+Adult,Viral N = 89,,Bacterial N = 143,
+,Viruses detected,Antibiotic usec,Viruses detected,Antibiotic use
+Influenza virus,35,30(86),17,16(94)
+Rhinovirus,16,12(75),6,6(100)
+RSV,14,13(93),4,4(100)
+Otherd,11,10(91),8,8(100)

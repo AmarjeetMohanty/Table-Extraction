@@ -1,0 +1,9 @@
+0,1,2,3,4,5,6
+Table 4: Expression of microarray analysis compared with Real-time RT-PCR analysis,,,,,,
+Gene name,,Microarray,,,Realtime RT-PCR,
+,Mean expression*,,Fold increase,mRNA conc.(ng)*,,Fold increase
+LTF,12403.95/83.78,,148.05,1204/13,,92.6
+Lipocalin,9788/135.94,,72,1455/25,,58.2
+FCGR3A,6202.81/1885.35,,3.29,650/205,,3.17
+S100P,7496.57/292.49,,25.63,475/45,,10.5
+TLR2,3459.33/1141.69,,3.03,563/200,,2.8

@@ -1,0 +1,18 @@
+0,1,2,3,4,5
+Table 3. Patient and GVHD outcomes.,,,,,
+Case,Start ETNa,Best response,Outcome,FUb,COD
+1,13,PR,Dead,179,AML relapse
+2,30,CR,Dead,141,GVHD
+3,31,PD,Dead,41,GVHD
+4,9,PR,Dead,47,GVHD
+5,24,PR,Dead,267,Infection
+6,11,PD,Dead,12,Infection
+7,9,PD,Dead,6,Infection
+8,20,PD,Dead,17,Infection
+9,36,PR,Dead,89,GVHD
+10,5,PD,Dead,48,GVHD
+11,13,PR,Dead,87,GVHD
+12,28,CR,Dead,109,Cardiac
+13,19,PD,Dead,66,Infection
+14,12,CR,Dead,89,Infection
+15,5,PD,Dead,5,GVHD

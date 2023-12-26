@@ -1,0 +1,25 @@
+0,1,2,3,4
+,,,,MBL Is Not Associated with CMV Disease in HIV
+,Table 1. Patient characteristics for,,included and excluded cytomegalovirus (CMV) disease cases.,
+,,,Included cases,Excluded cases
+Characteristic,,Measure or category,,
+,,,(n = 105),(n = 674)
+"Age, years",,Median,37,37
+,,(IQR),(32–44),(32–45)
+"Gender, %",,Male,70,82
+,,Female,30,18
+"CMV disease1, %",,"Not
+liver, spleen or
+lymph nodes",49,43
+,,Retinitis,51,57
+Stage of,"infection2, %",CDC group A,13,11
+,,CDC group B,11,12
+,,CDC group C,75,77
+"Duration of HIV-infection3, years",,Median,4.9,3.0
+,,(IQR),(0.5–8.1),(1.3–6.1)
+"Other concurrent opportunistic infections4, %",,Yes,11,16
+,,No,89,84
+"History of cART use, %",,Naı¨ve,59,92
+,,New cART,18,5
+,,Stable cART,6,1
+,,Unstable cART,17,3

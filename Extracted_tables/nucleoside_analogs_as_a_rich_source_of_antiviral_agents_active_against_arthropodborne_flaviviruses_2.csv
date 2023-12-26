@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6,7
+Table 1. Continued,,,,,,,
+Structure,Virus,Strain,"Cell
+line",Assay,EC50 (mM),CC50 (mM),References
+Sofosbuvir,ZIKV,ND,"BHK-21, SH-sy5y,",CPE,0.12–1.9,>300,Sacramento et al.25
+,,,Huh-7,,,,
+,ZIKV,ND,-,RdRp inhibition,0.38,ND,Sacramento et al.25
+,ZIKV,PRVABC59,"Huh-7,
+Jan",PA,1–5,>200,Bullard-Feibelman
+,ZIKV,Paraiba,"Huh-7,
+Jan",qRT-PCR,1–5,>200,et al.69
+,ZIKV,Dakar 41519,"Huh-7,
+Jan",,1–5,>200,

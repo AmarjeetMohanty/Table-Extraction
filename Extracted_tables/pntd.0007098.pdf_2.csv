@@ -1,0 +1,20 @@
+0,1,2,3,4,5
+,,"nificant negative association with IL-1β, where a unit increment in IL-1β decreases the levels",,,
+"Table 3. Correlations between the serum levels of (IL-1β, IL-37, IL-12 and IL-35) by the duration of mycetoma infection and the control group.",,,,,
+Duration,Cytokine Levels pg/ml,IL-1β pg/ml,IL-37 pg/ml,IL-12 pg/ml,IL-35 pg/ml
+Control,IL-1β,1,,,
+,IL-37,0.115,1,,
+,IL-12,0.137,-0.023,1,
+,IL-35,-0.125,0.037,0.065,1
+�1 Years,IL-1β,1,,,
+,IL-37,-0.997��,1,,
+,IL-12,0.997��,-0.999��,1,
+,IL-35,-0.996��,0.997��,-0.995��,1
+2–4 years,IL-1β,1,,,
+,IL-37,-0.999��,1,,
+,IL-12,0.996��,-0.997��,1,
+,IL-35,-0.997��,0.997��,-0.994��,1
+�5 years,IL-1β,1,,,
+,IL-37,-0.999��,1,,
+,IL-12,0.986��,-0.986��,1,
+,IL-35,-0.998��,0.997��,-0.986��,1

@@ -1,0 +1,26 @@
+0,1,2,3,4,5,6
+,"Table 3 Overview of PEF biosensors for the detection of chemical and biological compounds with information on analyzed matrix, limit of detection,",,,,,
+"analysis time, and assay format",,,,,,
+Analyte,Plasmon mode,Matrix,Limit of detection,Detection time,Assay type,Ref.
+Model analytes,,,,,,
+DNA,SPP,Buffer,30 pM,10 min,Direct,[132]
+DNA,SPP,Buffer,1.57 pM,30 min,Direct,[89]
+RNA,LSP,Buffer,25 fM,30 min,Sandwich,[133]
+a-mouse IgG,LRSPP,Buffer,20 fM,20 min,Direct,[61]
+Streptavidin,SPP,Buffer,50 pM,10 min,Direct,[88]
+Human IgG,SPP,Buffer,1 pg/ml (6.7 fM),1 h,Sandwich,[106]
+Human IgG,LSP,Buffer,86 pg/ml (0.57 pM),1 h,Sandwich,[116]
+Human IgG,LSP,Buffer,0.3 fM,1 h,Direct,[107]
+Biomarkers,,,,,,
+f-PSA,LRSPP,Buffer/serum,34/330 fM,35 min,Sandwich,[92]
+Total PSA,LSP,Buffer/serum,0.4/1.8 pg/ml (12/52 fM),1 h,Sandwich,[111]
+TNF-α,LSP,n.a.,3 pM,2 h,Sandwich,[114]
+Troponin I,LSP,Buffer/blood,5/50 pg/ml (0.22/4.3 pM),1 min,Sandwich,[115]
+C-reactive protein,SPP,Buffer/serum,16/26 ng/ml (0.15/0.25 nM),30 min,Sandwich,[112]
+UL16-binding protein 2,LSP,Serum,18 pg/ml (0.75 pM),4.3 h,Sandwich,[113]
+Pathogens and toxins,,,,,,
+Aflatoxin M1,LRSPP,Buffer/milk,0.6 pg/ml (1.8 pM),53 min,Inhibition,[105]
+E. coli 157,LRSPP,Buffer,6 cfu/ml,20 min,Sandwich,[119]
+SARS-CoV,LSP,Buffer,13.9 pg/ml,n.a.,Sandwich,[120]
+S-OIV,LSP,Buffer/serum,0.1/1 pg/ml,n.a.,Sandwich,[121]
+Anthrax protective antigen,LSP,Buffer,0.1 pg/ml,40 min,Inhibition,[134]

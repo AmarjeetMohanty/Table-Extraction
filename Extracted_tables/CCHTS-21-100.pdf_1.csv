@@ -1,0 +1,51 @@
+0,1,2,3,4,5,6
+"from  this  table,  we  achieve  the  accuracy  (ACC)  of  89.65%,",,,,,"Table 6.
+Performance 
+of","different  methods 
+(trained 
+on"
+with MCC of 0.776 and F1M of 84.91%. This result shows,,,,,DNASet and tested on DNAiSet).,
+that our SVM model performs well on the benchmark dataset,,,,,,
+DNASet.,,,,,"Method
+ACC(%)","MCC
+F1M(%)
+Se(%)
+Sp(%)"
+Table 5.,The results of 5CV for 3 runs.,,,,,
+,,,,,"This work
+87.91","0.756
+86.07
+82.93
+92.00"
+,,,,,"79.00
+DNAbinder(PSSM-","0.61
+70.31
+54.87
+98.08"
+Test,1,2,3,Average,,
+,,,,,21),
+Se(%),78.77,78.77,79.45,79.00,"80.11
+DNAbinder(PSSM-","0.62
+72.73
+58.53
+97.97"
+,,,,,400),
+Sp(%),96.00,96.00,95.60,95.87,,
+,,,,,"DNA-Prot 
+84.61","0.69
+81.08
+73.17
+94.00"
+Acc(%),89.65,89.65,89.65,89.65,,
+,,,,,"iDNA-Prot 
+77.47","0.55
+75.73
+78.05
+77.00"
+MCC,0.7761,0.7761,0.7758,0.776,,
+,,,,,"enDNA-Prot 
+84.62","0.70
+84.62
+73.18
+94.00"
+F1M(%),84.87,84.87,84.98,84.91,,

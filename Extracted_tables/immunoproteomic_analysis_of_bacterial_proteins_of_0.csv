@@ -1,0 +1,32 @@
+0,1,2,3,4,5,6,7,8
+Table 1 Summary of,,,immunoreactive proteins identified with convalescent sera from swine naturally infected APP serotype 1 (Continued),,,,,
+APs16,gi|,GTP-binding protein typA/bipA,68.343/5.24,69.5/5.26,34 (42%),CytoplasmicMembrane,7.88,284
+,307244854,,,,,,,
+APs17,gi|,hypothetical protein appser1_12060,95.894/5.38,94.8/5.36,36 (45%),Cytoplasmic,9.97,322
+,307246005,,,,,,,
+APs18,,,,,43 (54%),,,379
+APs19,gi|,Asparagine synthetase A,37.397/5.91,76.1/5.53,21 (65%),Cytoplasmic,10,290
+,46143487,,,,,,,
+APs20,gi|,BioD-like N-terminal domain of phosphotransacetylase,77.017/5.50,74.9/5.55,40 (52%),Cytoplasmic,9.97,384
+,53729159,,,,,,,
+APs21,gi|,protective surface antigen D15 precursor,89.088/6.30,89.1/6.31,36 (47%),OuterMembrane,10,302
+,126207895,,,,,,,
+APs22,gi|,Protective surface antigen D15,89.172/6.30,89.2/6.22,21 (28%),OuterMembrane,10,152
+,307245243,,,,,,,
+APs23,gi|,DNA topoisomerase III,72.857/9.07,96.9/5.18,40 (72%),Cytoplasmic,9.97,385
+,303252337,,,,,,,
+APs25,gi|,ApxIIA,102.466/5.50,102.4/5.51,32 (35%),Extracellular,10,314
+APs26,60476777,,,102.4/5.24,13 (14%),,,117
+APBs1,gi|,Outer membrane protein P5,39.638/9.24,39.5/9.31,26 (72%),OuterMembrane,10,243
+APBs2,307246344,,,39.5/9.25,24 (61%),,,220
+APBs3,,,,39.7/9.18,22 (55%),,,229
+APBs8,,,,34.9/9.31,28 (72%),,,278
+APBs4,gi|,Outer membrane protein P5,38.778/9.51,39.2/9.52,26 (63%),OuterMembrane,10,260
+APBs5,307246787,,,39.2/9.56,25 (76%),,,262
+APBs6,,,,39.2/9.62,30 (68%),,,289
+APBs7,gi|,ABC-type transport system involved in resistance to organic,23.399/9.65,23.4/9.60,14 (34%),Unknown,,168
+,165976709,"solvents, auxiliary component",,,,,,
+APBs9,gi|,"Periplasmic component of
+the Tol biopolymer
+transport",44.768/8.97,48.8/8.56,26 (53%),Periplasmic,9.76,310
+,46143830,system,,,,,,

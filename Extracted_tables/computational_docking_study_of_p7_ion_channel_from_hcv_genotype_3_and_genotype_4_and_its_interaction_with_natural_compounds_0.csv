@@ -1,0 +1,28 @@
+0,1,2,3,4,5,6,7
+,,,,Computational Docking Study of HCVp7 Ion Channel from Genotype 3 and 4,,,
+,Table 5. QSAR predicted values and their applicability domain analysis for various models for active flavonoids.,,,,,,
+QSAR Models,Apigenin,EGCG,Ladanein,Luteolin,Naringenin,Silymarin,Quercetin
+Fathead minnow,4.42,6.42,4.95,4.95,4.58,4.58,4.58
+LC50 (96hr)-log,,,,,,,
+(mol/l),,,,,,,
+Daphnia Magna,2.61,1.76,4.46,3.25,2.61,2.61,2.61
+LC50 (48hr)-log,,,,,,,
+(mol/l),,,,,,,
+Mutagenicity,NON-Mutagen,NON-Mutagen,NON-Mutagen,NON-Mutagen,NON-Mutagen,NON-Mutagen,NON-Mutagen
+model (CAESAR),,,,,,,
+Carcinogenicity,NON-Carcinogen,NON-Carcinogen,NON-Carcinogen,NON-Carcinogen,Carcinogen,Carcinogen,Carcinogen
+model,,,,,,,
+Developmental,Toxicant,Toxicant,Toxicant,Toxicant,Toxicant,Toxicant,Toxicant
+Toxicity model,,,,,,,
+BCF modellog(l/,0.53,0.01,0.53,0.53,0.53,0.53,0.53
+kg),,,,,,,
+Ready,Ready,Non- Ready,Ready,Ready,Non- Ready,Non- Ready,Non- Ready
+biodegradability,Biodegradable,Biodegradable,Biodegradable,Biodegradable,Biodegradable,Biodegradable,Biodegradable
+model,,,,,,,
+LogP prediction,1.81,1.71,2.71,2.71,2.52,2.52,2.52
+[log units],,,,,,,
+Skin sensitization,Sensitizer,Non- Sensitizer,Sensitizer,Sensitizer,Sensitizer,Sensitizer,Sensitizer
+model (CAESAR),,,,,,,
+BCF read-,1.26,0.97,2.25,2.25,2.18,2.18,2.18
+acrosslog(l/kg),,,,,,,
+doi:10.1371/journal.pone.0126510.t005,,,,,,,

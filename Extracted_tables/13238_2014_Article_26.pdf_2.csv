@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6,7,8,9,10
+A,,,,B,,,C,,,
+,HA-STING,,,Flag-TBK1,,,,Flag-IKK,,
+,PLpro-TM,,,PLpro-TM,,,,PLpro-TM,,
+,,,,Native Gel,"-
+-
+-",Dimer,,,,
+,Native Gel,-,Dimer,,,,,Native Gel,"-
+-",Dimer
+,,,,WCL: IRF3,"-
+-
+-",IRF3,,WCL: IRF3,"-
+-",IRF3
+,,-,IRF3,,,,,,,
+,WCL: IRF3,,,,,,,,,
+,,,,,,,,WCL: pIRF3,"-
+-",pIRF3
+,,,,WCL: pIRF3,-,pIRF3,,,,
+,WCL: pIRF3,,pIRF3,,,,,,,
+,,,,,,,,,-,IRF3
+,,,,WCL: IRF3,,IRF3,,WCL: IRF3,,
+,WCL: IRF3,-,IRF3,,,,,,,
+,,,,WCL: Flag,- - -,TBK1,,WCL: Flag,"-
+-
+-",
+,WCL: HA,-,STING,,,,,,,
+,,,,WCL: V5,,PLpro-TM,,,,
+,,,,,,,,WCL: V5,"-
+-",PLpro-TM
+,WCL: V5,-,PLpro-TM,WCL: Actin,-,Actin,,,,
+,,,,,,,,WCL: Actin,"-
+-",Actin
+,,,,,1       2      3,,,,,
+,,,,,,,,,1       2      3,
+,WCL: Actin,-,Actin,,,,,,,
+,,1        2         3,,,,,,,,

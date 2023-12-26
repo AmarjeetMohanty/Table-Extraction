@@ -1,0 +1,28 @@
+0,1,2,3,4,5
+Table 3: Influenza virus detections by country and age group for sentinel and non-sentinel specimens.,,,,,
+,,Sentinel,,,Non-sentinel
+Country,Age group (years),Total number of,Number of,Percentage positive (%),Number of
+,,specimens tested,specimens tested,,specimens tested
+,,,positive for influenza,,positive for influenza
+England,0–4,49,12,24.5,260
+,5–14,63,33,52.4,81
+,15–64,307,51,16.6,143
+,> 65,45,2,4.4,45
+,NK,11,3,27.3,12
+,Total,475,101,21.3,541
+Scotland,0–4,29,0,0,64
+,5–14,67,16,23.9,53
+,15–64,444,13,2.9,108
+,> 65,58,2,3.4,31
+,NK,,,,1
+,Total,598,31,5.2,257
+France,0–4,426,82,19.2,
+,5–14,442,184,41.6,
+,15–64,557,109,19.6,
+,> 65,32,1,3.1,
+,Total,"1,457",376,25.8,243
+Netherlands,0–4,0,0,,
+,5–14,7,3,42.9,
+,15–64,42,8,19.0,
+,> 65,7,4,57.1,
+,Total,56,15,26.8,239

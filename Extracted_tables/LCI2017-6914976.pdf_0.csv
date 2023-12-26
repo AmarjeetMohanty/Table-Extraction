@@ -1,0 +1,37 @@
+0,1,2,3,4,5
+Table 2: Significance levels of differences in RAS and RAS-related protein gene expression in lung tumor and normal lung tissue based upon,,,,,
+log2 values.,,,,,
+,,,,∗,
+,,,,Significance level,Significance
+,,,Change in,,
+,,,,(uncorrected for,level (corrected
+GENE,Protein,,expression in,,
+,,,,multiple,for multiple
+,,,lung tumor,,∗∗
+,,,,comparisons),comparisons)
+AGT,Angiotensinogen,,↑,𝑝 = 0.0004,𝑝 < 0.01
+,,,=,NS 𝑝 = 0.66,
+REN,Renin,,,,NS
+ACE,Angiotensin-converting enzyme,,↓,𝑝 < 0.0001,𝑝 < 0.01
+AGTR1,AT1 Ang II receptor subtype,,↓,𝑝 < 0.0001,𝑝 < 0.01
+AGTR2,AT2 Ang II receptor subtype,,↓,𝑝 < 0.0001,𝑝 < 0.01
+ATP6AP2,Prorenin receptor,,↑,𝑝 = 0.045,
+,,,,,NS
+,,,=,NS 𝑝 = 0.89,
+CMA1,Chymase,,,,NS
+,,,=,NS 𝑝 = 0.76,
+LNPEP,"Ang IV receptor, insulin-regulated aminopeptidase",,,,NS
+ENPEP,Aminopeptidase A,,↓,𝑝 < 0.0001,𝑝 < 0.01
+,,,↓,𝑝 = 0.0037,
+ANPEP,Aminopeptidase N,,,,NS (𝑝 = 0.054)
+ACE2,Angiotensin-converting enzyme-2,,↑,𝑝 = 0.0087,
+,,,,,NS
+MME,Neprilysin,,↓,𝑝 < 0.0001,𝑝 < 0.01
+PRCP,Prolylcarboxypeptidase,,↓,𝑝 = 0.0001,𝑝 < 0.01
+,,,=,NS 𝑝 = 0.83,
+PREP,Prolylendopeptidase,,,,NS
+,,,=,NS 𝑝 = 0.35,
+MAS1,"Mas, Ang 1–7 receptor",,,,NS
+∗,∗∗,1/15,1/15,1/15,
+Unpaired 𝑡 test with Welch’s correction;,,Sidak’s correction: (1 − (1 − .05),) or (1 − (1 − .01),") or (1 − (1 − .001)
+; NS is nonsignificant.",

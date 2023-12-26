@@ -1,0 +1,22 @@
+0,1,2,3,4
+,,,,|  437
+T A B L E   1  Model parameters: their priors and posteriors,,,,
+Parameters,Definition,Priors,Source,Posteriors
+βI,Transmission coefficient,"Γ(1.5, 2.0) with mean = 0.75",17,"0.99 (95% CI: 0.74, 1.42)"
+,,SD = 0.61,,
+L,Incubation period,"Γ(4.44, 0.55) with",Estimated (Figure A1,"8.19 (95% CI: 5.49, 11.66)"
+,,mean = 8.07 SD = 3.83,in Appendix S1),
+D0,Delay from symptom onset to,"Γ(3.28, 0.48) with",Estimated (Figure A2,"9.26 (95% CI: 4.25, 18.03)"
+,confirmation before 28th May,mean = 6.83 SD = 3.77,in Appendix S1),
+D1,Delay from symptom onset to,"Γ(3.28, 0.48) with",Estimated (Figure A2,"4.05 (95% CI: 1.80, 6.93)"
+,confirmation after 28th May,mean = 6.83 SD = 3.77,in Appendix S1),
+ω,Self- protection coefficient,"Γ(2, 2) with mean = 0.50,",17,"0.091 (95% CI: 0.043, 0.235)"
+,,SD = 0.22,,
+η,Dispersion parameter,"Γ(3.125, 0.3125) with",29,"3.72 (95% CI: 2.89, 4.93)"
+,,"mean = 10.0, SD = 5.6",,
+,Serial interval,"Γ(9.83, 0.72) with",Estimated (Figure A3,"aΓ(8.33, 0.66)"
+,,"mean = 13.65, SD = 4.35",in Appendix S1),mean = 12.62 days
+,,,,SD = 4.37 days
+R0,Basic reproductive number,–,–,"9.11 (95% CI: 5.32, 15.92)"
+Rc,Reproductive number after effective,–,–,"0.368 (95% CI: 0.251, 0.508)"
+,intervention,,,

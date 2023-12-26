@@ -1,0 +1,41 @@
+0,1,2,3,4
+,Valoración PSI en el paciente con NAC en Urgencias,,,
+¿Es un varón > 50 años o mujer > 60 años?,,,,
+,,,Variables y características,Puntos
+,,,del paciente,asignados
+,,,Factores demográficos,
+,,,Edad varón,Nº años
+,,,Edad mujer,nº años-10
+NO,,SI,,
+,,,Institucionalizado en residencia,+10
+,,,Comorbilidad,
+,,,Neoplasia,+30
+,,,Hepatopatía,+20
+¿Presenta alguno de estos antecedentes?,,,,
+,,,Insuficiencia cardiaca,+10
+Neoplasias,,,,
+,,,Enfermedad cerebrovascular,+10
+Hepatopatía,,,Nefropatía,+10
+Insuficiencia cardiaca,SI,Calcular,,
+,,,Examen físico,
+Enfermedad cerebrovascular,,puntuación,,
+,,,Alteración nivel consciencia,+20
+Nefropatía,,y asignar al,,
+,,,FR ≥ 30 rpm,+20
+,,paciente a un,PA Sistólica <90 mmHg,+20
+,,grupo de riesgo,Temperatura <35º o ≥ 40ºC,+15
+¿Y alguno de estos hallazgos?,,,,
+,,,FC ≥ 125 lpm,+10
+Alteración del nivel de consciencia,,II-V,,
+PA Sistólica <90 mmHg,,,Pruebas complementarias,
+,SI,,,
+,,,"pH arterial < 7,35",+30
+FC ≥ 125 lpm,,,,
+,,,"Urea >65 mg/dl (Cr >1,5 mg/dl)",+20
+FR ≥ 30 rpm,,,,
+,,,Sodio < 130 mEq/L,+20
+,,,Glucemia > 250 mg/dl,+10
+NO,,,Hematocrito < 30%,+10
+,,,PaO2 <60 mmHg o SatO2 <90%,+10
+,,,Derrame pleural,+10
+Asignar al paciente al grupo de riesgo I,,,,

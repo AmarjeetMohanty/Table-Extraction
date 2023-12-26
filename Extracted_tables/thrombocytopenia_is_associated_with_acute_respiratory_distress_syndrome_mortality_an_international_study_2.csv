@@ -1,0 +1,22 @@
+0,1,2,3,4,5
+Table 3. Multivariable analysis of mortality predictors in Beijing and Boston cohorts.,,,,,
+,,Beijing cohort,,Boston cohort,
+,Covariate,AHR (95% CI),p,AHR (95% CI),p
+ARDS,,N = 75,,N = 851,
+,APACHE II,1.05 (1.00–1.10),0.04,1.05 (1.03–1.08),",0.0001"
+,Thrombocytopenia,2.20 (1.09–4.46),0.03,1.69 (1.23–2.32),0.001
+,Age,NS,,1.03 (1.02–1.04),",0.0001"
+,"Bilirubin, .2.0 mg/dL",NS,,1.45 (1.08–1.95),0.01
+Non-ARDS,,N = 103,,N = 1027,
+,APACHE II,1.08 (1.04–1.12),0.0002,1.07 (1.04–1.10),",0.0001"
+,Thrombocytopenia,1.29 (0.64–2.59),0.48,1.63 (1.14–2.34),0.008
+,Pneumonia,2.04 (1.02–4.09),0.04,NS,
+,Age,NS,,1.03 (1.02–1.04),",0.0001"
+,Aspiration,NS,,1.79 (1.18–2.73),0.006
+All patients,,N = 178,,N = 1878,
+,APACHE II,1.07 (1.03–1.10),",0.0001",1.07 (1.05–1.08),",0.0001"
+,Thrombocytopenia,1.89 (1.16–3.08),0.01,1.97 (1.56–2.48),",0.0001"
+,Pneumonia,2.01 (1.24–3.26),0.005,NS,
+,Age,NS,,1.02 (1.02–1.03),",0.0001"
+,Trauma,NS,,0.09 (0.01–0.67),0.02
+,Direct pulmonary injury,NS,,1.36 (1.12–1.65),0.002

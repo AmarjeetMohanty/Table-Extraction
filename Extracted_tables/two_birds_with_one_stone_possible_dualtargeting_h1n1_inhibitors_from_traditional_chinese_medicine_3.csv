@@ -1,0 +1,63 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22
+,,,,,,,,,,,,,,,H1N1 Inhibitors from Traditional Chinese Medicine,,,,,,,
+163,V,I,I,-,-,-,-,-,-,-,"354
+D",D,D,G,G,D,G,G,G,G,,
+149,V,I,I,-,-,-,-,-,-,-,"311
+D",E,E,-,-,-,-,-,-,-,,
+126,H,P,P,-,-,-,-,-,-,-,"307
+D",N,N,-,-,-,-,-,-,-,,
+105,G,S,S,-,-,-,-,-,-,-,"289
+M",T,T,-,-,-,-,-,-,-,,
+94,I,V,V,-,-,-,-,-,-,-,"288
+V",I,I,-,-,-,-,-,-,-,,
+86,T,A,A,-,-,-,-,-,-,-,"287
+K",E,E,-,-,-,-,-,-,-,,
+84,I,K,K,-,-,-,-,-,-,-,"286
+G",S,S,-,-,-,-,-,-,-,,
+81,T,V,V,-,-,-,-,-,-,-,"285
+T",S,S,-,-,-,-,-,-,-,,
+80,A,V,V,-,-,-,-,-,-,-,"275*
+H",H,H,H,H,H,Y,Y,H,Y,,
+79,D,S,S,-,-,-,-,-,-,-,"269
+L",M,M,-,-,-,-,-,-,-,,
+75,V,A,A,-,-,-,-,-,-,-,"267
+I",V,V,-,-,-,-,-,-,-,,
+74,V,F,F,-,-,-,-,-,-,-,"264
+T",V,V,-,-,-,-,-,-,-,,
+53,I,V,V,-,-,-,-,-,-,-,"263
+V",I,I,-,-,-,-,-,-,-,,
+46,P,I,I,-,-,-,-,-,-,-,"257
+K",R,R,-,-,-,-,-,-,-,,
+45,H,Q,Q,-,-,-,-,-,-,-,"256
+L",F,F,-,-,-,-,-,-,-,,
+40,T,L,L,-,-,-,-,-,-,-,"248
+N",N,D,-,-,-,-,-,-,-,,
+34,V,I,I,-,-,-,-,-,-,-,"241
+I",V,V,-,-,-,-,-,-,-,,
+21,S,N,N,-,-,-,-,-,-,-,"234
+V",V,V,V,M,M,M,M,M,M,,
+20,I,A,A,-,-,-,-,-,-,-,"222
+N",N,N,R,R,Q,Q,Q,Q,Q,,
+19,I,M,M,-,-,-,-,-,-,-,"194
+G",G,G,G,G,G,G,G,G,G,,
+"Aminoacidlocation
+17",V,I,I,-,-,-,-,-,-,"Aminoacidlocation
+-","189
+G",N,N,-,-,-,-,-,-,-,,
+16,V,T,T,-,-,-,-,-,-,-,"188
+M",I,I,-,-,-,-,-,-,-,[104].,
+"Table7.NAmutationpointsbetween1918H1N1andH1N1/09viruses.
+13",I,V,V,-,-,-,-,-,-,-,"166
+A",V,V,-,-,-,-,-,-,-,"(2011)
+[40]andMorlighemetal.
+(2011)
+research.
+Aminoacidmutationcontributingtooseltamivir-resistance(H275Y)arelocatedat275andshowninbold.",
+PLoS Computational Biology,A/Brevig_Mission/1/18(H1N1),"Japan_HA_Samples‘‘I’’
+| www.ploscompbiol.org",Japan_HA_Samples‘‘II’’,A/Taiwan/5515/2005(Clade1),A/Taiwan/2823/2008(Clade2A),A/Taiwan/10092/2007(Clade2B-1),A/Taiwan/9042/2008(Clade2B-2),A/Taiwan/0045/2006(Clade2),A/Taiwan/6566/2006(Calde2C-1),"A/Taiwan/2832/2008(Clade2C-2)
+14",A/Brevig_Mission/1/18(H1N1),Japan_HA_Samples‘‘I’’,Japan_HA_Samples‘‘II’’,A/Taiwan/5515/2005(Clade1),"A/Taiwan/2823/2008(Clade2A)
+December 2011 | Volume 7 |",A/Taiwan/10092/2007(Clade2B-1),A/Taiwan/9042/2008(Clade2B-2),A/Taiwan/0045/2006(Clade2),A/Taiwan/6566/2006(Clade2C-1),A/Taiwan/2832/2008(Clade2C-2),"DatacompiledfromYangetal.
+Informationnotprovidedinoriginal
+-:
+doi:10.1371/journal.pcbi.1002315.t007
+Issue 12 |",e1002315

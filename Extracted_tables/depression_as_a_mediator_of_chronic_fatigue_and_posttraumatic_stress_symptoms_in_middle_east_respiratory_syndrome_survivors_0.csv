@@ -1,0 +1,16 @@
+0,1,2,3,4,5
+,,,,95% CI (BC),
+,B,SE,,,
+,,,Lower,,Upper
+Direct effects,,,,,
+FSS T1 → PHQ T1,2.2628***,0.2807,1.6991,,2.8264
+PHQ T1 → PHQ T2,0.5478***,0.1448,0.2569,,0.8387
+FSS T1 → PHQ T2,0.6871,0.4379,-0.1924,,1.5667
+PHQ T1 → IES T2,0.6060,0.6205,-0.6411,,1.8530
+PHQ T2 → IES T2,1.7427**,0.5342,0.6690,,2.8163
+FSS T1 → IES T2,1.7808,1.6945,-1.6244,,5.1860
+Indirect effects,,,,,
+Path 1: FSS T1 → PHQ T1 → IES T2,1.3711b,1.6396,-1.8440,,4.6540
+Path 2: FSS T1 → PHQ T1 → PHQ T2 → IES T2,2.1601a,1.3268,0.4250,,6.1307
+Path3: FSS T1 → PHQ T2 → IES T2,1.1974b,0.8451,0.1141,,3.5656
+,"**p<0.01, ***p<0.001. CI (BC)=bias corrected confidence interval; a=significant; b=not significant. FSS: Fatigue Severity Scale, PHQ: Patient",,,,

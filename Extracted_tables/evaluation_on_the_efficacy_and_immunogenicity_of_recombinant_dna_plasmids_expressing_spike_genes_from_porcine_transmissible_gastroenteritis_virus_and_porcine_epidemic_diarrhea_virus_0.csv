@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6
+,Table 1. Experimental parameters and Cytokine levels in the blood of,,,immunized mice (2XA22XB 6s).,,
+,Number of,,,Number of,,
+Group,mice,Vaccine category,Immunizing dose,treatments,IFN-c(pg/ml),IL-4(pg/ml)
+A,28,PBS,100 ml,3,24.000365.7749,14.370663.3531
+B,28,pIRES,100 mg,3,20.2144614.9331,19.3230362.3205
+C,28,pIRES-(TGEV-S1-PEDV-S1),100 mg,3,72.726167.3722,1.01535362.4213
+D,28,pIRES-(TGEV-S1-PEDV-S),100 mg,3,101.4511618.9877,30.9286163.102
+,,,,,w,
+E,28,pIRES-(PEDV-S1),100 mg,3,61.0910611.1744,2.69945464.374
+F,28,pIRES-(PEDV-S),100 mg,3,68.2972613.0695,10.0880461.047
+G,28,pIRES-(TGEV-S1),100 mg,3,98.066366.4839,46.9472460.79
+H,28,Attenuated TGEV/PEDV vaccine,100 ml,3,139.392960.0126,52.1703363.027

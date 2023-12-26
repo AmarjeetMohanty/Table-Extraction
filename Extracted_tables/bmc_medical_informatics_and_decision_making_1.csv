@@ -1,0 +1,11 @@
+0,1,2,3,4
+,,,(specA - specB)(cFP·(1 - p) - cTN·(1 - p)).,
+,,,,(11)
+Table 2: Comparative detection delays,,,,
+Detection method,Mean specificity,Mean sensitivity,Mean detection lag (days),
+Autoregression,0.97,0.40,2.26,
+Serfling,0.97,0.36,2.37,
+Trimmed seasonal,0.97,0.42,2.26,
+Wavelet,0.98,0.38,2.43,
+Generalized linear,0.95,0.68,1.93,
+Expectation-variance,0.97,0.58,1.96,

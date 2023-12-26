@@ -1,0 +1,41 @@
+0,1,2,3,4,5,6
+Table 1  continued,,,,,,
+LAB,Application,Recombinant,Expression vector,Promoter,Protein display,References
+,,protein,,,,
+Streptococcus,Clostridium tetani,Tetanus toxin frag‑,pSMB158,(constitutive),Cell anchored,[111]
+gordonii,infection,ment C,,,,
+Lactobacillus acido-,Helicobacter pylori,Adhesin Hp0410,pMG36e,–,Cytoplasmatic,[76]
+philus,infection,,,,,
+Lactococcus lactis,Rotavirus infection,VP8,pNZ8048,PnisA (inducible),Secreted/cell,[112]
+,,,,,anchored/cyto‑,
+,,,,,plasmatic,
+Lactococcus lactis,Malaria,MSP‑119,pL2‑PSGT,–,Cytoplasmatic,[81]
+Lactococcus lactis,Peanut allergy,Ara h 2,pNZ8148,PnisA (inducible),Secreted/cell,[93]
+,,,,,anchored/cyto‑,
+,,,,,plasmatic,
+Lactococcus lactis,Dust mite allergy,Der p2,pNZ8148,PnisA (inducible),Secreted/cell,[94]
+,,,,,anchored/cyto‑,
+,,,,,plasmatic,
+Streptococcus,Giardia lamblia infec‑,cyst wall protein 2,pSMB104,(constitutive),Cell anchored,[73]
+gordonii,tion,(CWP2),,,,
+Lactobacillus zeae,Streptococcus,ScFv protein,pLP402‑scFv,–,Cell anchored,[68]
+,mutants infection,,,,,
+Lactococcus lactis,Streptococcus pneu‑,Pneumococcal sur‑,pTREX1,P1 (pH dependent),Cytoplasmatic,[113]
+,moniae infection,face protein A,,,,
+Lactobacillus casei,SARS‑associated,PgsA and spike,pHAT,PHCE (constitutive),Cell anchored,[114]
+,coronavirus infec‑,protein,,,,
+,tion,,,,,
+Lactobacillus acido-,Chiken anemia virus,VP1,pETacmA1,–,Cell anchored,[71]
+philus,,,,,,
+Lactococcus lactis,Avian influenza virus,hemagglutinin 1,pMG36e,–,Cytoplasmatic,[91]
+,,(HA1),,,,
+Lactococcus lactis,Leishmania major,LACK,pDL‑PnisA,PnisA (inducible),Secreted/cell,[88]
+,infection,"LACK 
+ IL12",,,anchored/cyto‑,
+,,+,,,,
+,,,,,plasmatic,
+Lactobacillus casei,Pancreatic necrosis,VP2/VP3,pG1/pG2,Pxylose (inducible),Secreted,"[89, 90]"
+,virus (IPNV),,,,,
+Lactococcus lactis,Body weight control,Leptin,pSEC:lep,PnisA (Inducible),–,[97]
+Saccharomyces,Hypercalcemia,Salmon calcitonin,pAGA2‑sCT,PGAL1 (inducible),Cell anchored,[115]
+cerevisiae,,,,,,

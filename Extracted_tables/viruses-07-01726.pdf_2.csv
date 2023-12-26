@@ -1,0 +1,44 @@
+0,1,2,3,4
+,,Table 7. Vaccine applications of attenuated avipoxvirus-based vectors.,,
+Poxvirus Strain,Target Pathogen or Disease,Heterologous Antigen,Status,References
+,,Viral infections,,
+,,,licensed for commercial,
+,AIV,HA,,"[153,405–408]"
+TROVAC,,,veterinary use (chickens),
+,NDV,F and HN,preclinical,[409]
+,,"SIVK6W Gag-Pol-Env, Gag-Pol",preclinical,"[118,410]"
+,,HIV-1IIIB Env,preclinical,[411]
+,,HIV-1MN gp160,clinical,[412–416]
+,,HIV-1MN gp120 linked to TM domain of HIV-1LAI,,
+,,,clinical,[417–424]
+,,"gp41, HIV-1LAI Gag and protease",,
+,HIV/AIDS,,,
+,,"HIV-1MN gp120 linked to TM domain of HIV-1IIIB gp41,",,
+,,"HIV-1IIIB Gag and protease, 3 CTL-dense regions of",clinical,[425]
+,,"HIV-1LAI pol, 2 CTL-dense regions of HIV-1LAI nef",,
+,,CRF01_AE gp120 (92TH023) linked to TM domain,,
+,,,clinical,"[404,426–432]"
+,,"of HIV-1LAI gp41, HIV-1LAI Gag and protease",,
+,,gB,clinical,"[433,434]"
+,CMV,,,
+,,pp65,clinical,[435]
+,,,licensed for commercial,
+,,,,[436]
+ALVAC,Rabies virus,Glycoprotein,veterinary use (cats),
+,,,clinical,"[437,438]"
+,,,licensed for commercial,
+,CDV,HA and F,,[439–442]
+,,,"veterinary use (dogs, ferrets)",
+,,,licensed for commercial,
+,West-Nile virus,PrM-E,,[443–447]
+,,,veterinary use (horses),
+,,"Env, Gag",preclinical,[448]
+,FeLV,,licensed for commercial,
+,,"Env, Gag/pol",,[448–450]
+,,,veterinary use (cats),
+,FIV,"FIV Ville Franche (subtype A) Env, Gag and Protease",preclinical,[451]
+,,,licensed for commercial,
+,EIV,HA,,[452–454]
+,,,veterinary use (horses),
+,EHV,"gB, gC and gD",preclinical,[455]
+,JEV,"prM, E, NS1",clinical,"[456,457]"

@@ -1,0 +1,15 @@
+0,1,2,3,4
+,,,,Spatial Analysis on HCV Infection in China
+,Table 1. Results of general spatial autocorrelation of,from 2005 to 2011.,,
+Year,Moran’sIndex,,"Z
+-value","P
+-value"
+2005,0.123,,9.497,",0.01"
+2006,0.134,,10.458,",0.01"
+2007,0.155,,11.983,",0.01"
+2008,0.163,,12.528,",0.01"
+2009,0.180,,13.771,",0.01"
+2010,0.180,,13.789,",0.01"
+2011,0.203,,15.460,",0.01"
+Total(2005–2011),0.178,,13.655,",0.01"
+doi:10.1371/journal.pone.0110861.t001,,,,

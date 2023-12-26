@@ -1,0 +1,24 @@
+0,1,2,3,4,5,6,7,8
+PLOS ONE,No. of positive,,,,,,,
+,specimens with the,,,,,,,
+,,,Evaluated kits,,,,,
+Pathogens tested,reference test,Performances,,,,,,
+| www.plosone.org,,,A,B,C,D,E,F
+,,kappa coefficient[95% confidence,0.82[0.69; 0.96],–,0.85 [0.75; 0.96],–,0.77[0.61; 0.92],0.57 [0.37; 0.76]
+,,interval],,,,,,
+Adenoviruses,22,sensitivity %,63.64,45.45,86.36,59.09,45.45,31.82
+,,specificity %,100,100,92.96,100,100,100
+,,accuracy,0.91,0.86,0.91,0.90,0.86,0.83
+,,kappa coefficient[95% confidence,0.72 [0.55; 0.90],0.56 [0.35; 0.77],0.77 [0.61; 0.92],0.68 [0.50; 0.87],0.56 [0.36; 0.77],0.41 [0.19; 0.63]
+,,interval],,,,,,
+Bocavirus,12,sensitivity %,50.00,25.00,75.00,58.33,33.33,16.67
+,,specificity %,100,100,97.44,98.70,100,100
+,,accuracy,0.93,0.90,0.94,0.93,0.91,0.89
+,,kappa coefficient[95% confidence,0.63 [0.37; 0.90],0.37 [0.06; 0.67],0.75 [0.54; 0.96],0.66 [0.42; 0.91],0.46[0.16; 0.76],0.26[0; 0.55]
+,,interval],,,,,,
+Overall,96,sensitivity %,79.17,54.17,91.67,81.25,76.04,56.25
+(except coronaviruses)c,,,,,,,,
+6,,specificity %,98.41,98.16,94.32,97.28,97.46,99.08
+,,accuracy,0.96,0.92,0.94,0.95,0.94,0.93
+,,kappa coefficient[95% confidence,0.81[0.75; 0.88],0.61[0.51; 0.70],0.77[0.70; 0.83],0.79[0.72; 0.86],0.76[0.69; 0.83],0.66[0.58; 0.73]
+,,interval],,,,,,

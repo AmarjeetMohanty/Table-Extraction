@@ -1,0 +1,45 @@
+0,1,2,3,4,5
+BioMed Research International,,,,,19
+,Table 8: Summary table of ssDNA MREs based biosensors for the detection of chemical toxins.,,,,
+Target,Detection methods,Enhancers,LOD,Relevant sample,Reference
+Bisphenol A,Fiber optic fluorescence,—,1.86 nM,Waste water,[233]
+Bisphenol A,Resonance light scattering,Gold nanoparticles,0.012–0.28 ng/mL,Supermarket ticket,[234]
+,Electrochemical,Gold nanoparticles,,,
+Bisphenol A,,,5 nM,Milk,[235]
+,redox current,dotted graphene,,,
+,,,0.1 ng/mL,,
+Bisphenol A,Colorimetric/fluorescent,—,,Water,[236]
+,,,0.01 pg/mL,,
+Bisphenol A,Colorimetric,—,0.1 ng/mL,Tap water,[237]
+,Colorimetric,,,,
+Bisphenol A,,Gold nanoparticles,76 pg/mL,Tap water,[238]
+,lateral flow,,,,
+,Resonance Rayleigh,,,,
+Bisphenol A,,Gold nanoparticles,83 pg/mL,Tap water,[239]
+,scattering,,,,
+,,Single-walled carbon,,,
+,Electrochemical,,,,
+Bisphenol A,,nanotubes field effect,10 fM to 1 pM,,[240]
+,electric current,,,,
+,,transistor,,,
+Bisphenol A,Plasmonic chirality,—,8 pg/mL,Tap water,[241]
+,,,,"Medical waste water,",
+,,Titanium oxide,,,
+17𝛽-estradiol (E2),Photoelectrochemical,,33 fM,"lake water, and tap",[242]
+,,nanotubes arrays,,,
+,,,,water,
+,Electrochemical,,,,
+17𝛽-estradiol (E2),,—,2.0 pM,Human urine,[243]
+,impedance,,,,
+17𝛽-estradiol (E2),Fluorescence,—,2.1 nM,Waste water,[244]
+Acetamiprid,Colorimetric,—,5 nM,Soil,[245]
+,Electrochemical,,,"Waste water,",
+Acetamiprid,,Gold nanoparticles,1 nM,,[246]
+,impedance,,,tomatoes,
+4 organophosphorus,,,,,
+pesticides,,,,,
+,,,"19.2, 13.4, 17.2,",,
+"phorate, profenofos,",Fluorescence polarization,—,,Chinese cabbage,[247]
+,,,23.4 nM,,
+"isocarbophos, and",,,,,
+omethoate,,,,,

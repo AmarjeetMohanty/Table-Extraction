@@ -1,0 +1,31 @@
+0,1,2,3,4,5
+,,,,,Quality of Immune Responses
+TABLE 5,,,,,
+Characterization of anti-BAFF subclones recovered from mouse P5801-02,,,,,
+Clone name,Subclone ID,Concenration,Subclass,mAb-BAFF binding EC50,TACI blocking IC50
+,,(cid:2)g/ml,,pM,pM
+715D12,A2,30,IgG1,(cid:4)10,300
+715D12,A7,30,IgG1,(cid:4)10,300
+727B10,A8,10,IgG1,(cid:4)10,500
+727B10,B6,15,IgG1,(cid:4)10,500
+730B7,A3,15,IgG1,(cid:4)10,500
+730B7,C5,20,IgG1,(cid:4)10,500
+741A6,B11,5,IgG1,20,(cid:9)2000
+741A6,E1,10,IgG1,15,(cid:9)2000
+743F3,A12,10,IgG1,(cid:4)10,700
+743F3,B8,15,IgG1,(cid:4)10,700
+745F10,A2,(cid:4)1,NDa,ND,ND
+745F10,D10,(cid:4)1,ND,ND,ND
+748A8,B11,5,IgG1,(cid:4)10,400
+748A8,B12,5,IgG1,(cid:4)10,400
+748B9,C1,10,IgG1,(cid:4)10,400
+748B9,E8,10,IgG1,(cid:4)10,400
+751D4,B9,10,IgG1,(cid:4)10,500
+751D4,H4,30,IgG1,(cid:4)10,600
+759F7,G10,10,IgG1,(cid:4)10,600
+759F7,H8,30,IgG1,(cid:4)10,400
+764C1,B2,5,IgG1,25,3000
+764C1,D8,25,IgG1,10,1000
+765B9,B9,15,IgG1,(cid:4)10,300
+765B9,H4,20,IgG1,(cid:4)10,300
+a ND means not determined.,,,,,

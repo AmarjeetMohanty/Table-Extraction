@@ -1,0 +1,41 @@
+0,1,2,3,4,5,6,7
+2586,,,,"J. Sajewicz-Krukowska, K. Domanska-Blicharz",,,
+Table 1 Evolutionary divergence between sequences,,,,,,,
+Virus,GenBank accession number,Percent,,identity to PL/G059/2014,,,
+,,,Genome (nt),ORF1a (aa),ORF1b (aa),,ORF2 (aa)
+CAstV 4175,JF832365,73.7,,93.8,93.2,32.7,
+CAstV GA2011,JF414802,71.7,,93.8,86.5,35.2,
+TAstV-2,EU143843,52.8,,47.4,61.8,44.3,
+TAstV-1,Y15936,49.9,,40.2,51.7,40.2,
+ANV-1,NC003790,43.7,,26.6,49.0,27.8,
+DAstV CPH,KJ020899,56.7,,53.3,68.1,41.9,
+DAstV SL5,KF753807,53.9,,48.0,65.1,49.4,
+DAstV C-NGB,NC012437,55.8,,58.6,62.3,43.8,
+DAstV YP2,JX624774,50.2,,43.1,56.4,41.2,
+BatAstV,EU847155,39.8,,12.8,37.1,18.1,
+HumanAstV VA1,FJ973620,37.0,,13.9,34.7,19.3,
+OvineAstV,NC002469,36.3,,15.0,34.9,18.9,
+MinkAstV,GU985458,36.3,,15.8,34.4,18.9,
+P22-18.8.00,JN582318,n/a,,n/a,n/a,80.8,
+VF08-36,JN582325,n/a,,n/a,n/a,82.1,
+Northern pintal AstV (MPJ1433 isolate),JX985651,n/a,,n/a,n/a,20.3,
+Table 2 Mean amino acid,,,,,,,
+,Ofﬁcial species/provisional group,,Virus strain,,,,p-dist
+genetic distances (p-dist) based,,,,,,,
+on the analysis of aa sequences,,,,,,,
+,Avastrovirus 3,,Tk/AK/98,,,,0.576
+"of ORF2 of
+the PL/G059/2014",,,,,,,
+,Avastrovirus 1,,DAstV C-NGB,,,,0.583
+strain and avian AstV strains of,,,,,,,
+the ofﬁcial species/provisional,,,TAstV-1,,,,0.600
+groups,Avastrovirus 2,,G4260,,,,0.725
+CAstV B,,,CAstV 4175,,,,0.644
+,,,CAstV GA2011,,,,0.613
+CAstV A,,,P22-18.8.00,,,,0.192
+,,,VF08-36,,,,0.178
+DAstV 3,,,DAstV CPH,,,,0.581
+DAstV 4,,,DAstV YP2,,,,0.587
+DAstV 2,,,DAstV SL5,,,,0.506
+DAstV 1,,,DAstV C-NGB,,,,0.583
+,Wild birds,,,Northern Pintal AstV (MPJ1433 isolate),,,0.797

@@ -1,0 +1,12 @@
+0,1,2,3,4
+Table 1. The binding properties of the purified IgG and IgM antibodies from 7 hybridoma clones,,,,
+,,Binding activity to 5 GP1s,Binding activity to cell-surface GP,The lowest GP-binding
+Name,Types,,,
+,,(by ELISA),(by flow cytometry),concentrations (by ELISA) (ng/mL)
+C36-1,"IgG2a, κ",No binding to 5 GP1s,-,1.593
+D11-3,"IgG1, κ",No binding to 5 GP1s,+,7.8
+D12-1,"IgG1, κ",GP1e (MLR),+,7.8
+D34-2,"IgG1, κ",No binding to 5 GP1s,-,1.593
+E12-10,IgM,ND,ND,ND
+E49-3,IgM,ND,ND,ND
+E140-2,"IgG1, κ",No binding to 5 GP1s,+,1.593

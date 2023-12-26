@@ -1,0 +1,12 @@
+0,1,2,3,4,5,6,7
+Table 3 Performances of the Flow-RM on a set of real instances of the MPPEP-SNP,,,,,,,
+Dataset,Haplotypes,SNPs,Block Size,Time (sec.),GAP (%),Nodes,MST Solution
+,,,10,1,|,|,yes
+f1,63,16569,13,56,3.11,1,no
+,,,15,10286.1,26.92,773521,no
+i2,40,977,10,781.85,20.00,37511,no
+,100,757,10,150,7.65,353,no
+k3,,,,,,,
+,,,13,588.38,14.29,11265,no
+m4,26,48,10,5,5.88,109,no
+p5,21,16548,10,22283.4,50.79,6125448,no

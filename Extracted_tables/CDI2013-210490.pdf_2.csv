@@ -1,0 +1,32 @@
+0,1,2,3
+Clinical and Developmental Immunology,,,5
+,Table 3: Viral co-infection from both URTIs and LRTIs.,,
+URTIs types,Number,IRTIs types,Number
+PIV + EV,2,PIV + EV,1
+HBoV + IFV,1,HBoV + IFV,2
+RV + hMPV,1,RV + hMPV,1
+PIV + RV,4,PIV + RV,16
+PIV + ADV,1,PIV + ADV,2
+PIV + hMPV,1,PIV + hMPV,2
+PIV + IFV,1,PIV + IFV,3
+RV + IFV,1,RV + IFV,3
+RV + RSV,1,RV + RSV,8
+CoV + ADV,1,HBoV + CoV,1
+CoV + IFV,1,HBoV + RSV,4
+CoV + RSV,1,HMPV + CoV,1
+EV + HBoV,1,PIV + CoV,2
+EV + RV,1,PIV + RV + CoV,2
+HMPV + IFV,1,PIV + RV + hMPV,2
+PIV + EV + RV,1,PIV + RV + RSV,5
+PIV + EV + ADV,1,PIV + RSV,1
+,21,,
+Total,,PIV + HBoV,1
+,,PIV + HBoV + ADV,1
+,,PIV + RV + HBoV,2
+,,PIV + RV + hMPV + RSV,1
+,,RV + CoV,2
+,,RV + HBoV,3
+,,RV + HBoV + IFV,1
+,,RV + CoV + ADV,1
+,,,68
+,,Total,

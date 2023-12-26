@@ -1,0 +1,16 @@
+0,1,2
+,TABLE 1. NS5B polymerase activity on homopolymeric templatesa,
+Template,Primer,Incorporation (103 cpm)
+,2,
+Poly(A),,35
+,(U)20,"1,807"
+,2,
+Poly(C),,46
+,(G)20,"1,402"
+,2,
+Poly(G),,15
+,(C)20,137
+,2,
+Poly(U),,15
+,(A)20,29
+,a RdRp activity of NS5B was measured by using 1 mg of homopolymeric RNAs,

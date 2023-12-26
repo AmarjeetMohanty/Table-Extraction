@@ -1,0 +1,14 @@
+0,1,2,3
+,,Survival functions,
+,,,Treatment
+,1.0,,
+,,,Immumax
+,,,Placebo
+,,,Immumax-
+,0.8,,censored
+,,,Placebo-
+,,,censored
+Cumulative survival,0.6,,
+,0.4,,
+,0.2,,
+,0.0,,

@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7
+Table 6 | Strain-speciﬁc co-evolution events between recognized domains of ORF1a identiﬁed by MirrorTree.,,,,,,,
+,L1,,L2,,MET,HEL,
+L2,Overall,0.862,,,,,
+,RB and T36,0.974,,,,,
+,T30,0.901,,,,,
+,VT,0.184,,,,,
+MET,Overall,0.884,Overall,0.89,,,
+,RB and T36,0.942,RB and T36,0.977,,,
+,T30,0.919,T30,0.111,,,
+,VT,0.994,VT,0.941,,,
+HEL,Overall,0.847,Overall,0.972,Overall,0.927,
+,RB and T36,0.936,RB and T36,0.971,RB and T36,0.976,
+,T30,0.732,T30,0.722,T30,0.45,
+,VT,0.986,VT,−0.196,VT,0.751,
+RDRP,Overall,0.865,Overall,0.765,Overall,"0.92
+Overall",0.832
+,RB and T36,0,RB and T36,0,RB and T36,"0
+RB and T36",0
+,T30,0.962,T30,−0.397,T30,"0.668
+T30",0.896
+,VT,0.992,VT,−0.556,VT,"0.967
+VT",0.992

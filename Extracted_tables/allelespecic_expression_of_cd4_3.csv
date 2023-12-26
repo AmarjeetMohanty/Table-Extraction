@@ -1,0 +1,16 @@
+0,1,2,3,4
+The detailed lists of ASE SNPs and genes responding to MDV infection are provided in Table S3.,,,,
+,Table 4. Classiﬁcation of ASE SNPs responding to Marek’s disease virus (MDV) infection.,,,
+,63 × 72 I_N,,72 × 63 I_N,
+SNP Type,,,,
+,SNPs,Genes,SNPs,Genes
+Exonic,19,17,29,24
+Intronic,16,13,52,43
+Intergenic,17,-,4,-
+Upstream,0,0,15,14
+Downstream,0,0,36,32
+5’ UTR,1,1,1,1
+3’ UTR,6,6,20,16
+Splicing,2,2,2,2
+Total,61,39,159,132
+,,UTR: Untranslated region.,,

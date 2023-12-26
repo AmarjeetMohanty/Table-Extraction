@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6,7
+0,,,,,,,
+,"0
+10
+20",30,40,50,,0,"10
+20"
+,,time (h),,,,,
+(c),,,,,(d),,
+,,,,,0.7,,
+1011,,deterministic solution (k = 3 000 000),,,,,lognormal
+,White et al. [31],,,,,,distribution
+,,deterministic solution (k = 600 000),,,0.6,,Saslaw et al. [32]
+,Eigelsbach et al. [30],,,,,,Sawyer et al. [33]
+,,,,,0.5,,
+109,,,,,,,
+no. extracellular bacteria,,,,,"probability density
+0.4",,
+,,,,,0.3,,
+107,,,,,,,
+,,,,,0.2,,
+,,,,,0.1,,
+105,,,,,,,

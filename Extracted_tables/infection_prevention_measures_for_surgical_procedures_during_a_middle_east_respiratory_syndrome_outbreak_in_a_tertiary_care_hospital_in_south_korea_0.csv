@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6,7
+,Sex/,,,,,PPE for,Negative
+Patient,age,Operation name/date,Type of MERS-relation,MERS-related symptoms,MERS-CoV PCR,HCWs,pressure OR
+A,F/67,Explore laparotomy/June 12,MERS-exposed (possibly),None,Not done,Standard,No
+,,Craniotomy and tumor,,,,,
+B,M/12,,MERS-exposed (directly),Fever,Negative twice,Enhanced,No
+,,removal/June 12,,,,,
+C,F/31,VA ECMO removal/June 12,MERS-exposed (directly),"Fever, persisting for 3 days",Negative twice,Enhanced,Yes
+,,,MERS-confirmed and,,"Converted to negative, 3 days",,
+D,F/39,Caesarean section/June 23,,"Myalgia, improving",,Enhanced,Yes
+,,,recovered,,before surgery,,
+,,Craniotomy and tumor,MERS-confirmed and,,"Converted to negative, 12 days",,
+E,M/16,,,None,,Enhanced,Yes
+,,removal/June 24,recovered,,before surgery,,
+F,F/59,Explore laparotomy/June 25,MERS-exposed (directly),"Fever, subsided",Negative once,Enhanced,Yes

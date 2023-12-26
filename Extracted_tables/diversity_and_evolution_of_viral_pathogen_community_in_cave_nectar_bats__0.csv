@@ -1,0 +1,30 @@
+0,1,2,3,4
+,,Table 1. Virus family alignments and sequence lengths.,,
+Virus Family,,Initial Sequence,Down Sampled,Down Sampled
+,Gene,,,
+(Genus),,Alignment,Sequence Alignment,Alignment Length (bp)
+Adenoviridae,DNA Polymerase,227,37,885
+,E–Envelope,398,45,333
+Flaviviridae,,,,
+,NS5–Non-structural protein 5,600,47,231
+Papillomaviridae,V3–minor capsid protein,368,36,969
+,N–Nucleoprotein,15,14,720
+Paramyxoviridae,,,,
+,L–Polymerase,743,32,471
+,VP1–Capsid,27,20,528
+Parvoviridae,,,,
+,VP2–Capsid,501,28,323
+,3D–RNA polymerase,1753,20,246
+Picornaviridae,,,,
+,Polyprotein,40,23,813
+Polyomaviridae,E1–major capsid protein,289,26,441
+,M2–viral outer capsid proteins,,,
+Reoviridae,,149,21,624
+,(σ1 and µ1c),,,
+(Orthoreovirus),,,,
+,L2–core spike protein λ2,30,22,318
+,VP1–RNA-dependent RNA,,,
+Reoviridae,,501,15,231
+,polymerase,,,
+(Rotavirus),,,,
+,VP7–outer capsid protein,536,25,291

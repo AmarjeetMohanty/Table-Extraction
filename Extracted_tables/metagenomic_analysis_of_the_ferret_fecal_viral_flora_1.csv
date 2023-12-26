@@ -1,0 +1,31 @@
+0,1,2,3,4,5
+PKoV,43.3,,,"with the Kimura-2 parameter, a transition/transversion (Ts/Tv)",
+,,,,"ratio of 3.0 and window and step sizes of 600 and 20 nucleotides,",
+doi:10.1371/journal.pone.0071595.t002,,,,,
+,,,respectively [33].,,
+Phylogenetic analysis,,,,,
+,,,,Genbank accession numbers,
+,Multiple alignments were created using ClustalX (2.0.10) [31].,,,,
+,,,The genomes of,,identified viruses described in detail here were
+,Phylogenetic analyses were carried out with Molecular Evolution-,,,,
+,,,deposited in GenBank under,the,"following
+accession numbers:"
+"ary Genetics Analysis
+(MEGA),
+version
+5",[32].,Picornavirus,,,
+,,,,"ferret kobuviruses MpKoV38, KF006985; MpKoV32, KF006987;",
+,cleavage sites were predicted by NetPicoRNA 1.0 server (http://,,,,
+,,,"MpKoV39,","KF006986;
+ferret","parechovirus
+(MpPeV1),"
+"www.cbs.dtu.dk/services/NetPicoRNA/)
+or",predicted,"based
+on",,,
+,,,KF006989;,"ferret
+papillomavirus","(MpPV1), KF006988;
+ferret"
+"alignments with
+other
+picornaviruses. The",similarity,between,,,
+,,,anellovirus,"(MpfTTV1), KF006990.",

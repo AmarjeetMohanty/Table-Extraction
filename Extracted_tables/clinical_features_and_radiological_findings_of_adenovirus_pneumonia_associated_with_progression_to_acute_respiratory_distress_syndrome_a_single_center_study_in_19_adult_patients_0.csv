@@ -1,0 +1,26 @@
+0,1,2,3,4,5,6,7,8,9,10
+Table1. Clinical Features and Radiological Findings of 19 Patients with Adenovirus Pneumonia,,,,,,,,,,
+,,,,Disease,,,,Time to,,Pneumonia-
+Patient,Age (yr),Premorbid,Initial,,CT,,Progression,,Antiviral,
+,,,,Course,,Diagnosis,,Progression,,Related
+No.,/Sex,Condition,Presentation,,Score,,to ARDS,,Treatment,
+,,,,on X-ray,,,,to ARDS,,Outcome
+1,67/M,Lung Cancer,"Dyspnea, C/S",Type 2,15,BAL culture,Y,3rd day of illness,No,
+2,47/M,AML,"Fever, chills, C/S",Type 4,6,"TBLB, BAL culture",Y,20th day of illness,Cidofovir,Expired
+3,36/F,AML,"Dyspnea, cough, BTS",Type 3,3,VATS,N,N/A,Ribavirin,
+4,75/F,No,"Dyspnea, fever",Type 4,21,VATS,Y,14th day of illness,Ganciclovir,Expired
+5,35/F,NHL,"Fever, chills, C/S",Type 4,10,VATS,Y,4th day of illness,Ribavirin,Expired
+6,67/F,No,Dyspnea,Type 2,12,VATS,Y,11th day of illness,Ribavirin,
+7,53/M,AML,"Fever, chills",Type 2,11,BAL culture,N,N/A,Cidofovir,
+8,55/M,MM,"Fever, chills",Type 2,7,BAL culture,N,N/A,No,
+9,20/M,No,"Dyspnea, fever, sputum",Type 4,12,BAL culture,Y,12th day of illness,Cidofovir,Expired
+10,38/F,AML,"Fever, dyspnea, C/S",Type 1,3,"RT-PCR, BAL culture",N,N/A,Cidofovir,
+11,20/M,No,"Fever, dyspnea, C/S",Type 1,13,RT-PCR,N,N/A,No,
+12,42/M,Liver transplant,"Fever, chills",Type 4,20,Real-time PCR,Y,5th day of illness,Cidofovir,Expired
+13,23/M,No,"Fever, chills, C/S",Type 2,15,Real-time PCR,Y,18th day of illness,Cidofovir,
+14,20/M,No,"Fever, dyspnea",Type 4,7,Real-time PCR,Y,9th day of illness,Cidofovir,Expired
+15,28/M,No,"Fever, chills, myalgia",Type 2,13,Real-time PCR,Y,7th day of illness,Cidofovir,
+16,19/M,No,"Fever, chills, C/S",Type 2,3,Real-time PCR,N,N/A,Cidofovir,
+17,20/M,No,"Fever, dyspnea",Type 2,11,Real-time PCR,Y,7th day of illness,Cidofovir,
+18,51/M,No,"Fever, chills, C/S",Type 2,5,Real-time PCR,N,N/A,No,
+19,75/M,"DM, COPD, ICMP","Dyspnea, C/S",Type 3,12,BAL culture,Y,12th day of illness,Cidofovir,

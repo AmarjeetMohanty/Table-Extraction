@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6
+Variable/Exacerbation,Total Studies*,Total Subjects#,Point Estimate,Study Data,,Significance Test‡
+Severity Level†,,,(95% CI),Distributions,,
+,,,,(± 2SD),,
+,,,,,Z Test,P Value
+Age (years),182,"27,930",,,Levels,
+Level I,71,"16,917",66.0 (64.6 – 67.4),51.2 – 80.8,I vs. II,0.067 (NS)
+Level II,70,"7,300",64.2 (62.9 – 65.5),52.1 – 76.3,II vs. III,0.002
+Level III,43,"3,713",68.0 (65.9 – 70.1),53.0 – 83.0,I vs. III,0.12 (NS)
+Height (cm),27,"3,154",,,Levels,
+Level I,14,"2,581",169.7 (166.4 – 173.0),155.1 – 184.3,I vs. II,0.25 (NS)
+Level II,9,247,167.1 (164.0 – 170.2),157.5 – 176.6,II vs. III,0.54 (NS)
+Level III,4,326,169.1 (163.4 – 174.7),157.3 – 180.9,I vs. III,0.85 (NS)
+Weight (kg),37,"4,168",,,Levels,
+Level I,15,"3,176",72.8 (67.5 – 78.1),46.9 – 98.7,I vs. II,0.36 (NS)
+Level II,12,290,69.3 (63.8 – 74.7),49.4 – 89.1,II vs. III,0.26 (NS)
+Level III,10,702,63.6 (55.3 – 71.9),35.5 – 91.7,I vs. III,0.067 (NS)
+Body-Mass Index (kg/m2),29,"4,250",,,Levels,
+Level I,6,"2,273",26.2 (23.8 – 28.7),18.5 – 34.0,I vs. II,0.037 (NS)
+Level II,19,"1,729",23.4 (22.4 – 24.4),19.5 – 27.3,II vs. III,0.84 (NS)
+Level III,7,248,23.6 (21.2 – 26.0),17.1 – 30.1,I vs. III,0.14 (NS)
+Disease Years,21,"8,606",,,Levels,
+Level I,15,"8,354",10.9 (7.8 – 14.1),0 – 26.4,I vs. II,0.65 (NS)
+Level II,5,228,12.9 (5.0 – 20.8),0 – 30.2,II vs. III,0.67 (NS)
+Level III,2,24,16.2 (3.9 – 28.4),0 – 33.5,I vs. III,0.42 (NS)

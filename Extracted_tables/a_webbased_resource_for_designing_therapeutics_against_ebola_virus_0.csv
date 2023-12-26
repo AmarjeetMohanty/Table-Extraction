@@ -1,0 +1,15 @@
+0,1,2,3,4,5
+,,Conserved in 4,Conserved in 3,Conserved in 2,Present in 1
+Prediction ID,Immune status,ebolaviruses,ebolaviruses,ebolaviruses,ebolavirus
+1,9mer peptides,812,1528,2835,14225
+2,nHLApred,126,253,461,2028
+3,MHC Class I,580,1083,2018,9758
+4 (2 +  3),CTL immunity,123,249,453,1989
+5,MHC Class II,138,286,502,2380
+6 =  (4 +  5),T-cell immunity,21,43,77,310
+7,B-cell immunity,45,82,154,1020
+8 =  (6 +  7),Both immunity,0,2,3,14
+9,IFN-gamma,233,511,986,4744
+10 =  (5 +  9),Th1 immunity,42,98,168,805
+11,Interleukin-4,599,1141,2137,10553
+12 =  (5 +  11),Th2 immunity,103,207,378,1762

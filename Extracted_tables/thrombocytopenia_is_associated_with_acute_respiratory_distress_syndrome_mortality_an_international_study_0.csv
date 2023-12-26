@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6,7,8,9
+,Table 2. Risk factors for 60-day mortality.,,,,,,,,
+,,ARDS,,,Non-ARDS,,,,All
+,,,,75%,,,75%,,
+,,Total,Death,survival,Total,Death,survival,,
+,,,,,p,,,p,p
+,,n,n (%),Day,n,n (%),Day,,
+Gender,,,,,0.362,,,0.945,0.461
+,Male,56,25 (45),29,69,25 (36),38,,
+,Female,19,6 (32),17,34,13 (38),14,,
+Age,,,,,0.053,,,0.023,0.004
+Smoking status,,,,,0.745,,,0.24,0.321
+,Non-smoker,55,23 (42),27,81,32 (40),25,,
+,Smoker,20,8 (40),17,21,5 (24),-,,
+Diabetes,,,,,0.707,,,0.988,0.717
+,Non-diabetic,59,22 (37),20,80,29 (36),17,,
+,Diabetic,16,9 (56),39,23,9 (39),28,,

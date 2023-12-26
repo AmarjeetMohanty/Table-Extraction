@@ -1,0 +1,26 @@
+0,1,2,3,4,5,6,7,8,9
+,Table 2. Source of divergent MERS-CoV strains and cross-neutralizing activity of MERS-CoV RBD-speciﬁc Nbs against these strains.,,,,,,,,
+Accession,,,,S Protein,,,"ND50 (nM, Mean Value)",,
+,Isolate Year,Host,Country,,,,,,
+No.,,,,RBD Mutation(s),,,,,
+,,,,,Mono-Nb,Di-Nb,Tri-Nb,MERS mAb,SARS mAb
+AFS88936,2012,Human,Saudi Arabia,—,2.14,0.24 **,0.03 **,0.57,ND
+AGV08379,2012,Human,Saudi Arabia,D509G,3.39,0.19 ***,0.06 ***,122,ND
+AGV08584,2012,Human,Saudi Arabia,V534A,6.64,0.38 *,0.08 *,2.02,ND
+AFY13307,2012,Human,UK,L506F,27.1,3.29 ***,0.37 ***,67.5,ND
+AHI48528,2013,Human,Saudi Arabia,"A431P, A482V",1.10,0.10 ***,0.02 ***,0.52,ND
+AHI48733,2013,Human,Saudi Arabia,A434V,6.67,0.11 *,0.05 *,2.11,ND
+AHC74088,2013,Human,Qatar,S460F,2.57,0.26 **,0.04 **,0.50,ND
+AKM76239,2013,Human,Oman,V514L,9.07,0.95 *,0.09 **,3.65,ND
+AID55090,2014,Human,Saudi Arabia,T424I,0.81,0.07 **,0.01 **,0.80,ND
+AID55087,2014,Human,Saudi Arabia,Q522H,1.49,0.09 ***,0.02 ***,0.28,ND
+ALX27228,2014,Human,Jordan,E536K,14.7,2.96 **,0.61 **,5.54,ND
+ALJ76277,2014,Human,Saudi Arabia,D537E,7.30,1.49 *,0.41 *,3.02,ND
+ALJ54518,2015,Human,Saudi Arabia,L507P,13.1,2.76 ***,0.43 ***,186,ND
+ALB08322,2015,Human,South Korea,D510G,2.28,0.23 *,0.04 **,8.92,ND
+ALB08289,2015,Human,South Korea,I529T,3.77,0.24 ***,0.08 ***,865,ND
+ATG84888,2016,Human,Saudi Arabia,S426R,12.6,1.60 **,0.34 ***,15.6,ND
+AHY22545,2013,Camel,Saudi Arabia,K400N,1.77,0.20 ***,0.02 ***,1.12,ND
+AHY22555,2013,Camel,Saudi Arabia,A520S,1.11,0.17 **,0.08 **,1.10,ND
+ASU90076,2015,Camel,UAE,S460T,6.84,1.26 ***,0.26 ***,3.36,ND
+Note: MERS-CoV strains were isolated in human and camel from 2012 to 2016 in different countries. EMC2012 (accession no. AFS88936) is the prototypic MERS-CoV strain. RBD mutations,,,,,,,,,

@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6
+,,,Table 9. Cont.,,,
+Pox,Target Pathogen,,Poxvirus,,,
+,,Heterologous Antigen,,Gene Function,Status,References
+Strain,or Disease,,Deleted Gene,,,
+,,"HIV-1 Env,",,,,
+,,,B8R,Secreted IFNγ binding protein,preclinical,[530]
+,,Gag-Pol-Nef (clade C),,,,
+,,"HIV-1 Env,",,,,
+NYVAC,HIV/AIDS,,B19R,Type I IFN binding protein,preclinical,[530]
+,,Gag-Pol-Nef (clade C),,,,
+,,"HIV-1 Env,",,,,
+,,,A46R,Inhibitor of TLR signaling,preclinical,[531]
+,,Gag-Pol-Nef (clade C),,,,
+,,,,C6L: IRF3 inhibitor,,
+MVA,Chikungunya,C-E1-E2-6K-E3,C6L/K7R/A46R,K7R: NF-кB/IRF3 inhibitor,preclinical,[327]
+,,,,A46R: Inhibitor of TLR signaling,,
+MVA,Smallpox,-,A35R,Inhibitor of MHC class II antigen presentation,preclinical,[517]
+MVA,Smallpox,-,A41L,Secreted chemokine-binding protein.,preclinical,[514]
+MVA,Smallpox,-,C6L,IRF3 inhibitor,preclinical,[518]
+MVA,Smallpox,-,B16R,Interleukin-1β binding protein,preclinical,[511–513]
+NYCBH,Smallpox,-,E3L,dsRNA-binding protein,,[538–540]
+,,,ORF73 or,,,
+FWPV,AIV,HA,,Suggested interleukin-18 binding proteins,preclinical,[541]
+,,,ORF214,,,

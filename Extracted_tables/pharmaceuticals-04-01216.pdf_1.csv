@@ -1,0 +1,46 @@
+0,1,2,3,4,5
+,,Table 3. SELEX directed against whole living systems.,,,
+Chemistry,Selection,Counter-selection,Targeted or identified targets,Number of cycles,Reference
+,,Mammalian Cells,,,
+DNA,YPEN-1,N9,Pigpen,8,[58]
+DNA,B lymphoma cells,No,ND,10,[71]
+DNA,Differenciated PC12,PC12,ND,6,[60]
+DNA,U251,No,Tenascin-C,21,[67]
+2’F-Py RNA,CHO-kinin B1 receptor,No,Kinin B1 receptor,8,[72]
+2’F-Py RNA,PC12-MEN2A,PC12/PC12-MEN2A,RET,15,[16]
+2’F-Py RNA,CHO-TbRIII,CHO,TbRIII,11,[73]
+DNA,aMSCs,No,ND,11,[74]
+DNA,CCRF-CEM,Ramos,PTK7,20,"[65,70]"
+DNA,Ramos,No,mmunoglobin heavy mu chain,23,"[69,75]"
+DNA,SAOS-2 osteoblasts,No,ND,10,[68]
+DNA,MEAR,BNL,Non-muscle myosin,16,[62]
+DNA,NCI-H69,NCI-H661,ND,25,[76]
+DNA,EPCs,No,ND,10,[77]
+DNA,iDC (mDC),mDC (iDC),Several (see reference),10,[66]
+DNA,Burkitt lymphoma cells,No,ND,10,[59]
+DNA,A549,HLAMP,ND,25,[78]
+DNA,HL60,NB4,ND,16,[64]
+2’F-Py RNA,U87MG,T98G,ND,14,[79]
+DNA,CT26-E2,CT26,Virus Glycoprotein E2,13,[80]
+DNA,Infected A549,Non-infected A549,ND,13,[63]
+RNA,SKBR3,SKBR3/siHER-2/MDAMB231,HER-2,20,[81]
+DNA,HEK293T-TLR2-Fc,No,TLR2,7,[82]
+DNA,Vaccinia virus-infected HeLa,Non-infected HeLa,Hemagglutinin,20,[61]
+2’F-Py RNA,HET-SR-1,HET-SR,ND,10,[83]
+DNA,Tov-21G/CAOV-3,HeLa,ND,22,[84]
+DNA,DLD-1/HCT 116,HCT 116/HT-29,ND,16,[85]
+DNA,NIH3T3,IL-17RA-deficient NIH3T3,IL-17RA,12,[86]
+,,Viruses,,,
+2’NH2-Py RNA,Human cytomegalovirus,No,Glycoprotein B and H,16,[57]
+RNA,Influenza A panama virus,Influenza A Aichi Virus,Haemagglutinin,10,[87]
+,,Bacteria,,,
+DNA,B. anthracis spores,No,ND,4,[55]
+DNA,M. Tuberculosis H37Rv,M. Tuberculosis BCG,ND,10,[88]
+DNA,L. Acidophilus,No,S-layer protein,8,[89]
+DNA,S. aureus,Streptococcus/S. epidermidis,ND,5,[90]
+DNA,C. Jejuni,Non relevant mix,ND,10,[91]
+DNA,P. aeruginosa,S. Maltophilia/A. Baumannii,ND,16,[92]
+,,Parasites,,,
+RNA,T. brucei,No,ND,12,[56]
+2’F-Py RNA,T. cruzi trypomastigote,Epimastigote,Several (see reference),8,[93]
+2’NH2-Py RNA,T. brucei,No,ND,13,[94]

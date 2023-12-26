@@ -1,0 +1,21 @@
+0,1,2,3,4,5
+Table 3. Rate of pandemic (H1N1),,influenza vaccination coverage among study population according to risk group.,,,
+,High risk,,Non–high risk,,
+,,,,,Pvaluea
+,Total,Vaccination (%),Total,Vaccination (%),
+Sex,,,,,",0.001"
+Male,151,72 (47.7),666,45 (6.8),
+Female,162,76 (46.9),671,62 (9.2),
+Age (years),,,,,",0.001"
+#59,82,12 (25.6),"1,247",90 (7.2),
+60+,231,127 (55.0),90,17 (18.9),
+Education levelc,,,,,",0.001"
+Elementary school,118,64 (54.2),42,10 (23.8),
+Middle school,53,20 (37.7),84,7 (8.3),
+High school,65,30 (46.2),415,43 (8.2),
+$College/university graduate,74,28 (37.8),767,53 (6.9),",0.001"
+Monthly incomed (million Korean won)e,,,,,
+#1.99,174,90 (51.7),239,24 (10.0),
+2.00–3.99,60,19 (31.7),501,43 (8.6),
+4.00+,45,17 (37.8),433,27 (6.2),
+All,313,148 (47.3),1337,107 (8.0),",0.001b"

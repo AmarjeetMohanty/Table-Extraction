@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6,7,8,9
+,TABLE 2 Mutations identiﬁed after serial passaging of EAV in the presence of,,,,increasing concentrations of CsA or ALV,,,,
+,Mutation in:,,,,,,,,
+Virus,5= UTR,nsp1,nsp2,nsp5,,,nsp10,GP2b,GP4/OR5a protein
+CsA-treated replicates,,,,,,,,,
+EAVwt P7,,,,,,,,,
+EAV CsA-1 P7,,,,Q21R (mixa),Y113H,A134V,,,
+,,,,(CAA¡CGA),(UAC¡CAC),(GCU¡GUU),,,
+EAV CsA-2 P7,nt 43 (A¡G),,,Y133H,,,Y387H,,
+,,,,(UAC¡CAC),,,(UAC¡CAC),,
+EAV CsA-3 P7,,,A199T,L8S,Q21R,,,,
+,,,(GCU¡ACU),(UUG¡UCG),(CAA¡CGA),,,,
+ALV-treated replicates,,,,,,,,,
+EAVwt P10,,,,,,,,,
+EAV ALV-1 P10,nt 45 (A¡G),,H114R,Y113H,A134V,,,,Y151C/I14V
+,,,(CAC¡CGC),(UAC¡CAC),(GCU¡GUU),,,,(TATC¡TGTC)b
+EAV ALV-2 P10,nt 47 (U¡C),T39N,H114R,Q21R,M62T,,,H11L,
+,,(ACC¡AAC),(CAC¡CGC),(CAA¡CGA),(AUG¡ACG),,,(CAT¡CTT),

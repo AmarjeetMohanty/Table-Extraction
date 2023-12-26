@@ -1,0 +1,26 @@
+0,1,2,3,4,5
+,Table 1. Correlations among antibody concentrations and BKC.,,,,
+Parameter 1,,Parameter 2,r,d.f,P
+,,"total
+IgM",0.344,27.000,0.068
+,,nAb IgG,0.421,23.000,0.036
+total,IgG,nAb IgM,-0.520,23.000,0.805
+,,ANA IgG,0.550,27.000,0.002
+,,ANA IgM,0.389,25.000,0.045
+,,BKC,-0.001,27.000,0.995
+,,nAb IgG,0.217,23.000,0.298
+,,nAb IgM,0.464,23.000,0.019
+total,IgM,ANA IgG,0.134,27.000,0.488
+,,ANA IgM,0.734,25.000,0.001
+,,BKC,0.113,27.000,0.558
+,,nAb IgM,0.131,23.000,0.533
+nAb IgG,,ANA IgG,0.332,23.000,0.105
+,,ANA IgM,0.614,21.000,0.002
+,,BKC,0.023,23.000,0.911
+,,ANA IgG,-0.008,23.000,0.971
+nAb IgM,,ANA IgM,0.488,21.000,0.018
+,,BKC,0.255,23.000,0.219
+ANA IgG,,ANA IgM,0.392,25.000,0.043
+,,BKC,0.075,27.000,0.698
+ANA IgM,,BKC,0.046,25.000,0.820
+doi:10.1371/journal.pone.0137679.t001,,,,,

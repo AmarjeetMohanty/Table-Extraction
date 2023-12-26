@@ -1,0 +1,46 @@
+0,1,2,3,4,5,6
+,Table 1. Associations of sociodemographic characteristics and AI risk perception with the recommended AI preventive behavior,,,,,
+(n = 352).a,,,,,,
+,,Adopted AI preventive behaviorb,,,,
+,No,,Yes,,,
+,,,,,x2 (df),p value
+Variable,No.,Row (%),No.,Row (%),,
+Gender,,,,,1.54 (1),.22
+Male,75,(56.8),57,(43.2),,
+Female,110,(50.0),110,(50.0),,
+"Region of
+residence",,,,,23.19 (1),",.0001"
+Northeastern Taiwan,53,(37.1),90,(62.9),,
+Central Taiwan,132,(63.2),77,(36.8),,
+Education,,,,,37.71 (2),",.0001"
+Junior high-school or below,99,(69.2),44,(30.8),,
+Senior high-school,67,(46.2),78,(53.8),,
+University or above,19,(29.7),45,(70.3),,
+Market worker,,,,,0.72 (1),.40
+Yes,97,(54.8),80,(45.2),,
+No,88,(50.3),87,(49.7),,
+Risk of AI by type of market work,,,,,2.16 (3),.54
+"Shopper
+(non-market worker)",88,(50.3),87,(49.7),,
+Low risk,41,(51.3),39,(48.8),,
+Medium risk,35,(54.7),29,(45.3),,
+High risk,21,(63.6),12,(36.4),,
+"Knowledge about AI
+transmissibility",,,,,1.54 (1),.22
+Correct,76,(48.7),80,(51.3),,
+Incorrect,109,(55.6),87,(44.4),,
+"Knowledge about AI
+fatality rate",,,,,23.16 (1),",.0001"
+Correct,29,(31.2),64,(68.8),,
+Incorrect,156,(60.2),103,(39.8),,
+Anticipated an AI epidemic in Taiwan,,,,,6.08 (1),.01
+Yes,70,(45.2),85,(54.8),,
+No,115,(58.4),82,(41.6),,
+Knew about AI severe cases,,,,,22.78 (1),",.0001"
+Yes,117,(45.0),143,(55.0),,
+No,68,(73.9),24,(26.1),,
+Knew about AI outbreaks in Kaohsiung,,,,,23.20 (1),",.0001"
+Yes,50,(36.5),87,(63.5),,
+No,135,(62.8),80,(37.2),,
+,Mean,SD,Mean,SD,t,p value
+Age (year),45.6,(11.3),42.0,(11.0),3.00,.003

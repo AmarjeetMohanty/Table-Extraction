@@ -1,0 +1,28 @@
+0,1,2,3,4,5
+Table 2: RSV detections by country and age group for sentinel and non-sentinel specimens.,,,,,
+,,Sentinel,,,Non-sentinel
+Country,Age group (years),Total number of,Number of,Percentage,Number of
+,,specimens tested,specimens tested,positive (%),specimens tested
+,,,positive for RSV,,positive for RSV
+England,0–4,49,20,40.8,"3,982"
+,5–14,63,16,25.4,13
+,15–64,307,77,25.1,60
+,> 65,45,13,28.9,11
+,NK,11,1,9.1,85
+,Total,475,127,26.7,"4,151"
+Scotland,0–4,29,3,10.3,"1,474"
+,5–14,67,0,-,24
+,15–64,444,13,2.9,56
+,> 65,58,3,5.1,19
+,NK,,,,15
+,Total,598,19,3.2,"1,588"
+France,0–4,426,52,12.2,
+,5–14,442,20,4.5,
+,15–64,557,14,2.5,
+,> 65,32,0,-,
+,Total,"1,457",86,5.9,"1,748"
+Netherlands,0–4,0,-,-,
+,5–14,7,0,-,
+,15–64,42,0,-,
+,> 65,7,1,14.3,
+,Total,56,1,1.8,"1,757"

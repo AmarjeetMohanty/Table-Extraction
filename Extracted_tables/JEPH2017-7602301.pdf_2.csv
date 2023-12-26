@@ -1,0 +1,12 @@
+0,1,2,3,4
+,,"Table 2: Number of effected districts, exposed individuals, infectious persons, and deaths.",,
+,,Total cumulative number,,
+Date,,,,
+,Effected district,Exposed,Infectious,Death
+01.01.2017,1,1,1,0
+01.05.2017,68,16544,3858,2315
+01.09.2017,113,107478,29952,14997
+01.01.2018,184,547244,167626,100576
+01.05.2018,232,3152055,904882,561027
+01.09.2018,282,18133878,5185008,3629506
+01.01.2019,328,106947760,30651674,18391005

@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6
+,,,,,,DISPATCHES
+"Table. Nucleotide base differences among the TW-1, TOR-2, HKU-39849, CUHK-W1, and the Urbani sequences of SARS-CoV",,,,,,
+,,,SARS-associated coronavirus sequence,,,
+Base,TW-1,TOR-2,HKU-39849,CUHK-W1,Urbani,A. a. changeb
+,,,,,,TW1/Urbani
+"2,601",T,T,C,T,T,Val/Val
+"3,165",G,A,A,A,A,Ser/Ser
+"7,746",G,G,T,T,G,Pro/Pro
+"7,919",C,C,C,C,T,Ala/Val
+"9,404",T,T,C,C,T,Val/Ala
+"9,479",T,T,C,C,T,Val/Ala
+"16,622",C,C,C,C,T,Ala/Ala
+"17,564",T,T,G,G,T,Asp/Glu
+"17,846",C,C,T,T,C,Arg/Arg
+"19,064",A,A,G,G,G,Glu/Glu
+"21,721",G,G,A,A,G,Gly/Asp
+"22,222",T,T,C,C,T,Ile/Thr
+"23,220",T,G,T,T,T,Ser/Ala
+"24,872",T,T,T,T,C,Leu/Leu
+"25,298",G,A,G,G,G,Gly/Arg
+26867,T,T,T,T,C,Ser/Pro
+"27,827",T,T,C,C,T,Cys/Arg
+,"aSARS, severe acute respiratory syndrome.",,,,,
+,bIndicates a base difference resulting in an amino acid change.,,,,,

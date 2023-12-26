@@ -1,0 +1,39 @@
+0,1,2,3,4
+cells respectively (Increased or decreased fold changes which <1.5 was not indicated).,,,,
+,,Non-carcinoma,Carcinoma,Non-carcinoma
+,GEO ID,GSE28546,GSE90,GSE3181
+,Organism,Homo sapiens,Homo sapiens,Mus musculus
+,Cell/Tissue,Mesenchymal,Colorectal,Cardiomyocyte
+,,Stem Cells,carcinoma-,
+,,,derived cell,
+,,,lines,
+,Treatment,p53 knock-down,p53 knock-out,SRF knockout
+LIUS-upregulated cell death,"BOK, CASP10, CYLD, DPP4, EZR,",,,
+regulators in cancer cells,"ATG3, ATG16L1, VAMP1, CXCL10,",,,
+(13),"ANXA1, FPR1, PANX1",,,
+,TP53,21.752,2.941,
+,,−,−,
+LIUS-downregulated gene,"HK2, CASP5, TLR7, MAP2K5,",,,
+in carcinoma cells (12),"CDC25C, TTK, SRC, PDGFRA,",,,
+,"ITGB1, ITGB3",,,
+,CD47,3.660,,
+,ATM,4.252,,
+LIUS-upregulated gene in,"MYC, NT5E, BAG6, NUMA1,
+IREB2,",,,
+non-carcinoma cells (9),"PTK2, PDGFRA, AKT3",,,
+,SRF,,,5.315
+,,,,−
+LIUS-downregulated gene,"BIRC5, BIK, CDK1, E2F1, E2F8,",,,
+in non-carcinoma cells (31),"CCND1, GCLC, PYCARD, NLRP3,",,,
+,"IL18, IL1B,
+IFNGR1, TLR7, MAP2K7,",,,
+,"ATG10, ENTPD1, TLR2, MYT1,",,,
+,"BUB1, BUB1B, TTK, KDR,
+ITGA6,",,,
+,"TLR4, TRADD",,,
+,CASP1,7.056,,
+,CASP4,3.559,,
+,CD47,3.660,,
+,ATM,4.252,,
+,HGF,,,1.678
+,BCL2,3.793,,

@@ -1,0 +1,27 @@
+0,1,2
+,B,
+WNV infected cells spiked into uninfected cells,,WNV infected cells spiked into unfected tissue
+10 7,,10 7
+Reads Mapped,,Spleen (mapped)
+"10 6
+Reads Unmapped",,"Spleen (unmapped)
+10 6"
+,,Brain (mapped)
+10 5,,10 5
+,,Brain (Unmapped)
+10 4,,
+,Sequencingreads,10 4
+10 3,,
+,,10 3
+10 2,,
+,,10 2
+10 1,,
+,,10 1
+10 0,,"100 
+10,000
+1,000,000"
+"10
+100 
+1,000 
+10,000",,
+,,Number of infected cells

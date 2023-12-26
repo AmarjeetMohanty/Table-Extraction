@@ -1,0 +1,29 @@
+0,1,2,3,4,5,6,7,8,9
+"Table 3 Associations of media use, health information seeking behaviors, and seasonal",,,,,,flu vaccination,,,
+Category,,Model 1,,Model 2,,Model 3,,Model 4,
+,,OR,95% CI,OR,95% CI,OR,95% CI,OR,95% CI
+Socio-demographic,Gender(Ref.: Male),1.692***,1.349-2.121,1.556**,1.202-2.015,1.619***,1.235-2.124,1.525**,1.157-2.009
+Characteristics,,,,,,,,,
+,Age,1.229***,1.133-1.332,1.103*,1.007-1.207,1.106,0.994-1.230,1.095,0.983-1.220
+,Education,1.141,0.947-1.335,1.109,0.945-1.301,1.114,0.943-1.316,1.034,0.870-1.229
+,"Annual
+Income",1.121*,1.015-1.239,1.121*,1.013-1.240,1.114,0.996-1.224,1.118*,1.006-1.241
+Health Behavior,"Drinking Alcohol
+(Ref.: None)",,,0.636**,0.463-0.872,0.642**,0.465-0.886,0.656,0.472-0.911
+& Diseases,,,,,,,,,
+,Smoking (Ref.: None),,,0.964,0.739-1.256,0.917,0.700-1.201,0.894,0.679-1.177
+,Underlying Diseases,,,2.124***,1.618-2.787,2.122***,1.609-2.798,1.691***,1.261-2.267
+Media Use,Television Watching,,,,,0.969,0.875-1.072,0.963,0.868-1.068
+,Radio Listening,,,,,1.176**,1.052-1.314,1.139*,1.016-1.277
+,Newspaper Reading,,,,,1.385***,1.159-1.655,1.319**,1.100-1.581
+,Smartphone Browsing,,,,,1.154,1.032-1.289,1.116,0.996-1.249
+,Computer Searching,,,,,0.868**,0.787-0.957,0.823***,0.743-0.911
+Health,Health Info. Seeking Behavior,,,,,,,1.227*,1.048-1.436
+Communication,,,,,,,,,
+,Own diseases,,,,,,,1.460*,1.097-1.944
+,General health,,,,,,,0.905,0.664-1.234
+,Hospitals and doctors,,,,,,,1.548***,1.185-2.023
+,Renounce smoking/drinking,,,,,,,1.050,0.802-1.374
+-2LL,,1750.494,,1712.467,,1674.987,,1632.365,
+Nagelkerke R2,,0.052,,0.088,,0.123,,0.161,
+"*: p < 0.05, **: p < 0.01, ***: p < 0.001",,,,,,,,,

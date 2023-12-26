@@ -1,0 +1,32 @@
+0,1,2,3,4,5,6,7,8
+Cysteine Proteases,,,,,,SARS-CoV PLpro and HCoV-NL63 PLP2,,
+,,,IC50 (μM)a,,,IC50 (μM),max I (%),
+,15g,3k,3e,3j,compd,"PLpro
+PLP2",PLpro,PLP2
+human DUB,,,,,15g,"0.67
+18",99,46
+,−,−,,−,,,,
+USP2,,,>100,,3k,"0.15
+33",100,57
+,−,−,,−,,,,
+USP7,,,>100,,5c,"0.35
+59",100,67
+USP8,>100,>100,>100,>100,3e,"0.39
+46",100,71
+,−,,,,,,,
+USP20,,>100,>100,>100,3d,"5.7
+37",94,42
+USP21,>31,>31,>31,>31,3i,"29
+44",78,48
+,−,−,−,−,,,,
+DEN1,,,,,,,,
+,−,−,−,−,,,,
+UCHL1,,,,,,,,
+,,,,,"relative
+to","the
+initial
+inhibitor","15g
+(tPSA = 50.8 Å2)",and
+,−,−,−,−,,,,
+caspase 3,,,,,,,,
+,,,,,therefore,is proposed to enhance,cell permeability,and thus

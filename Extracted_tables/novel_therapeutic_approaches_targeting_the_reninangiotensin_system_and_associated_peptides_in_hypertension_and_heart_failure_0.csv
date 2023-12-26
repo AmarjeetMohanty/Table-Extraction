@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6,7
+,,,TABLE 1,,,,
+,,Effects of antihypertensive drug classes on plasma vasoactive peptide levels and renin activity,,,,,
+Drug Class,Ang I,Ang II,Ang 1-7,BK 1-9,"ANP, BNP",PRC,PRA
+ARB,↑,↑↑,↑,5,5,↑↑,↑↑
+ACEi,↑↑,↓,↑↑,↑,5,↑↑,↑↑
+C-ACEi,↑↑,↓,↑,5,5,↑↑,↑↑
+NEPi,↑,↑,↓,↑,↑,5,5
+ACEi/NEPi,↑↑,↓,↑,↑↑,↑,↑↑,↑↑
+ARNI,↑,↑↑,5,↑,↑,↑↑,↑↑
+AGT-siRNA,↓↓,↓↓,↓↓,5,5,↑↑,↓↓
+DRI,↓↓,↓↓,↓↓,5,5,↑↑,↓↓
+APAi,5,5,5,5,5,5,5
+rhACE2,↑,↓↓,↑↑↑,5,5,↑↑,↑↑
+,"Upward arrows indicate upregulation, downward arrows indicate downregulation, and equal signs indicate no change. ACEi, ACE inhibitor; ACEi/NEPi, dual ACE and",,,,,,

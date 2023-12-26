@@ -1,0 +1,26 @@
+0,1,2,3,4,5
+"Table I. Serum antibody titers to BVDV types 1 and 2, PI-3V, and BRSV in",,,,,
+,120 calves at initial collection on day 0,,,,
+,,Virus,,,
+Dilutiona,BVDV type 1,BVDV type 2,PI-3V,,BRSV
+ob,98 (81.7%)c,104 (86.7%),86 (71.7%),,87 (72.5%)
+4,5,3,12,,21
+8,4,1,9,,8
+16,4,3,7,,3
+32,3,4,1,,1
+64,0,2,4,,0
+128,1,2,0,,0
+256,0,0,1,,0
+512,2,0,0,,0
+1024,3,0,0,,0
+2048,0,1,0,,0
+"a
+Reciprocal","dilution
+highest
+of","with
+complete",neutralization,of,"in
+both
+virus"
+wells,,,,,
+b No neutralization,,"at 1:4, the lowest dilution tested",,,
+c Number of animals,,,,,

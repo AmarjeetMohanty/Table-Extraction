@@ -1,0 +1,30 @@
+0,1,2,3,4,5,6,7
+Table 1. Virus prevalence in chimpanzees and gorillas.,,,,,,,
+,,,,Gorilla (n = 136),,,Chimpanzee(n = 23)
+Virus family or,Genus,Species,Abbr. Virus or group,Positives,Prevalence,Positives,Prevalence
+subfamily,,(abbr.),,,(%),,(%)
+Herpesviridae,,,,32,23.5,9,39.1
+Gammaherpesvirinae,,,,30,22.1,9,39.1
+,Lymphocryptovirus,GoHV-1,GgorLCV1,29,21.3,3,13.0
+,,*,GgorLCV2,2,1.5,0,0.0
+,,*,PtroLCV1,0,0.0,6,26.1
+,Rhadinovirus,*,GgorRHV1,1,0.7,0,0.0
+,,*,PtroRHV,0,0.0,1,4.3
+Betaherpesvirinae,Cytomegalovirus,,,17,12.5,2,8.7
+,,*,GgorCMV1.1 Group 1,5,3.7,0,0.0
+,,*,GgorCMV1.1 Group 2,3,2.2,0,0.0
+,,*,GgorCMV2.1,5,3.7,0,0.0
+,,*,GgorCMV2.2 Group 1,2,1.5,0,0.0
+,,*,GgorCMV2.2 Group 2,4,2.9,0,0.0
+,,*,PtroCMV1.1,0,0.0,1,4.3
+,,*,PtroCMV2.1,0,0.0,1,4.3
+Adenoviridae,,,,61,44.9,16,69.6
+,Mastadenovirus,HAdV-B,SAdVGroupOKNP,30,22.1,2,8.7
+,,HAdV-B,SAdVGroup27.1/28.2/29/46/,26,19.1,1,4.3
+,,,47,,,,
+,,HAdV-B,SAdVGroup27.2/28.1/32/,6,4.4,0,0.0
+,,,41.1/41.2,,,,
+,,HAdV-B,SAdVGroup35.1/35.2,2,1.5,1,4.3
+,,HAdV-C,SAdV31.2,1,0.7,10,43.5
+,,HAdV-C,SAdVGroup43/45,10,7.4,0,0.0
+,,HAdV-E,SAdVGroup39/25/26,9,6.6,8,34.8

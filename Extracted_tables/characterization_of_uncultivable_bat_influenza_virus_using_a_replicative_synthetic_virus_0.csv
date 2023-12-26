@@ -1,0 +1,19 @@
+0,1,2,3,4,5,6
+,"Table 1. Rescue efficiency of PB2, PB1, PA reassortants between Bat09:mH1mN1 and PR8.",,,,,
+,PB2,PB1,PA,"NP,M,NS","HA,NA",Rescue*
+1,Bat,Bat,Bat,Bat,"mH1,mN1",++++
+2,PR8,Bat,Bat,Bat,"mH1,mN1",Neg
+3,Bat,PR8,Bat,Bat,"mH1,mN1",Neg
+4,Bat,Bat,PR8,Bat,"mH1,mN1",Neg
+5,PR8,PR8,Bat,Bat,"mH1,mN1",Neg
+6,PR8,Bat,PR8,Bat,"mH1,mN1",Neg
+7,Bat,PR8,PR8,Bat,"mH1,mN1",Neg
+8,PR8,PR8,PR8,Bat,"mH1,mN1",Neg
+9,Bat,Bat,Bat,PR8,PR8,Neg
+10,PR8,Bat,Bat,PR8,PR8,Neg
+11,Bat,PR8,Bat,PR8,PR8,Neg
+12,Bat,Bat,PR8,PR8,PR8,Neg
+13,PR8,PR8,Bat,PR8,PR8,Neg
+14,PR8,Bat,PR8,PR8,PR8,Neg
+15,Bat,PR8,PR8,PR8,PR8,Neg
+16,PR8,PR8,PR8,PR8,PR8,++++

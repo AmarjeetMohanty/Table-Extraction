@@ -1,0 +1,17 @@
+0,1,2,3,4,5
+value was considered throughout,,this work.,,,
+Table 1. Molecular,,"interaction studies of papain (PDB: 1PE6) with 1-substituted pyridylimidazo[1,5-a]pyridine derivatives.",,,
+,Binding energy,Dock energy,Computational,,
+,,,,Residues Involved,
+Compounds,(Kcal/mol),(Kcal/mol),Kd (mM),,
+,,,,Hydrogen Bonding,Hydrophobic Interaction
+3a,26.12,27.32,32.48,"W177, Q19","Q19, S21, C22, G23, D158, H159,"
+,,,,,W177
+3b,25.76,27.04,59.89,No Hydrogen Bond,"C25, Y61, G66, Y67, W69, V133,"
+,,,,,"H159, A160"
+3c,26.84,28.57,9.64,No Hydrogen Bond,"C25, Y61, G65, Y67, P68, W69,"
+,,,,,"V133, D158, H159, S205"
+3d,25.62,27.03,75.48,No Hydrogen Bond,"C25, Y61, N64, G65, G66, Y67,"
+,,,,,"P68, V133, D158, H159, A160,"
+,,,,,W177
+,doi:10.1371/journal.pone.0069982.t001,,,,

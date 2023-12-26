@@ -1,0 +1,44 @@
+0,1,2,3,4,5
+,,Table 2. Select diagnostics for bacterial lower respiratory tract infections (LRTIs).,,,
+Diagnostic,Pathogens,Company,FDA Approved,Sample Type,Time
+Matrix-assisted laser desorption/ionisation time-of-ﬂight mass spectrometry (MALDI-TOF MS),,,,,
+MALDI Biotyper CA; microﬂex,,,,,
+,,,,,Within minutes of
+LT/SH MALDI-MS; IVD MALDI,"Bacterial, Fungal; 333",,,,
+,,Brukner Daltonics,Yes,"Induced or expectorated sputum,",analyzing a single colony
+Biotyper; MALDI Biotyper smart,species or species groups,,,,
+,,,,"nasal aspirates or washes,",from isolate
+System; MBT smart CA System [35],,,,,
+,,,,nasopharyngeal (NP) swabs or,
+,,,,"aspirates, throat washes or swabs,",
+,,,,bronchoscopic specimens,
+,"Bacterial, Fungal; 1316",,,,
+,,,,,Within minutes of
+,"species, includes Brucella,",,,,
+Vitek MS [36],,bio Mérieux,Yes,"Induced or expectorated sputum,",analyzing a single colony
+,"Candida auris,",,,,
+,,,,"nasal aspirates or washes, NP",from isolate
+,Elizabethkingia anophelis,,,,
+,,,,"swabs or aspirates, throat washes",
+,,,,"or swabs, bronchoscopic",
+,,,,specimens,
+Nucleic acid ampliﬁcation tests - Polymerase chain reaction,,,,,
+,>30,,,,
+,Gram-positive/Gram-negative,,,,
+Unyvero A50 System [37],bacteria and 10 antibiotic,Curetis AG,Yes,"Induced or expectorated sputum,",<5 h
+,resistance markers or,,,"nasal aspirates or washes, NP",
+,toxins,,,"swabs or aspirates, throat washes",
+,,,,"or swabs, bronchoscopic",
+,,,,specimens,
+,"11 Gram-negative, 4",,,,
+,Gram-positive and 3,,,,
+BIOFIRE FilmArray System,,,,,
+,"atypical bacteria, 9",bio Mérieux,Yes,Induced or expectorated sputum;,1 h
+Pneumonia Panel plus [38],,,,,
+,"viruses, 7 genetic markers",,,"endotracheal aspirates,",
+,of antibiotic resistance,,,bronchoscopic specimens,
+Multiplex one-step RT-PCR - FTD,"22 viruses, 11 bacterial",,,,
+,,Fast Track Diagnostics,Yes,Induced or expectorated sputum;,<2 h
+Respiratory pathogens 33 [39],pathogens,,,,
+,,,,"endotracheal aspirates,",
+,,,,bronchoscopic specimens,

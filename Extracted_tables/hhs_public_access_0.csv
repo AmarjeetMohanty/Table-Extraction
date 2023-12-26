@@ -1,0 +1,28 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+,"H1N1 pandemic influenza virus; Flu (H3), H3N2 influenza virus; Hosp, hospitalization; Prog, progressor; Rep, replication; 1000 G, 1000 genomes; Flu-",,,,,,,,,,
+"Neg, influenza virus-negative",,,,,,,,,,,
+SNP,Assoc w/disease,Study Pop.,Virus,Disease,Control Pop.,SNP A1.% controls,SNP A1.% cases,SNP,SNP,# cases,Ref
+,,,,,,,,Homo. %,Homo.,,
+,,,,,,,,controls,% cases,,
+rsl2252-C,Yes,Chin,Flu (S),Severe flu,Healthy,49.2,76.5,23,61.5,164,[52]
+,Yes,Chin,Flu (H7),Death,Survivors,51.6,65,22.6,50,10,[53]
+,Yes,Chin,Flu (HI),Death,Survivors,55.8,69.5,35,56.5,23,[53]
+,Yes,Chin,Flu (H7),Hosp,1000 G,52,59.4,26,37.5,16,[54]
+,Yes,Chin,Flu (H1),Severe flu,1000 G,50.2,81.2,25.3,68.7,52,[55]
+,Yes,Iran,Flu (S),Mild flu,Flu-Neg,2.4,9.49,0.8,3.8,79,[56]
+,Yes,Eur,Flu (H1),Severe flu,1000 G,3.4,9.4,0.3,5.7,53,[39]
+,Yes,Eur,Flu (S),Mild flu,Healthy,4,5.02,0.15,0.7,259,[57]
+,No,Eur,Flu (S),Severe flu,Healthy controls,4,4.4,0.15,0,34,[57]
+,No,Eur,Flu (S),Severe flu,1000 G,4.1,3.8,0,1.1,185,[58]
+,No,Afr,Flu (S),Severe flu,1000 G,26.1,25.8,7,7.1,56,[58]
+,No,Eur,Flu (S),Hosp,Healthy,2.9–3.5,2.9–1.2,0–0.1,0–0.9,238,[59]
+,No,Span,Flu (H1),Hosp,Healthy,3.5,5.8,0,0,60,[60]
+,No,Port,Flu (H1),Hosp,Infected non-Hosp,8.7,7.7,0,2.4,84,[61]
+,No,Port,Flu (H1),Severe flu,Healthy,6,9,0,0,22,[62]
+,Yes,Chin,Hantaan,Severe Hem Fever,1000 G,52.1,68.2,26.9,43.9,41,[63]
+,Yes,Chin,HIV-1,Rapid Prog,Normal Prog,52.7,60.8,35.2,29.7,74,[64]
+rs34481144-A,Yes,"19% Eur, 81%",Flu (H1),Severe flu,Infected mild cases,16.9,49.9,1.3,33.3,9,[65••]
+,,Afr,,,,,,,,,
+,Yes,Eur,Flu (H3),Early virus Rep,Infected controls,28.2,55.3,4.3,21.1,19,[65••]
+,Yes,"73% Eur, 17%",Flu (S),Death,Infected survivor,33.2,49.9,14.1,17.6,18,[65••]
+,,Afr,,,,,,,,,

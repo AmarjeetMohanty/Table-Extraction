@@ -1,0 +1,26 @@
+0,1,2,3,4,5,6,7
+Table 4 Comparison of Arapan-S with all the assemblers on Three Genomes Composed of eight Segments,,,,,,,
+Species,Assembler,Contigs ≥,Total,Mean,N50,Largest,Genome
+,,400 bp,Length,size (bp),(bp),contig (bp),coverage (%)
+Influenza A VirusA/Memphis/1/71(H3N2),Arapan-S,8,12598,1574.75,1584,2311,94.03
+,ABySS,14,12897,921.21,1280,1801,96.27
+,SSAKE,1,555,555.00,-,555,4.14
+,Velvet,14,10774,769.57,789,1781,80.42
+,QSRA,17,12570,739.41,700,1828,93.83
+,Minimus,9,13156,1461.78,,2242,98.20
+,Mira,14,14399,1028.50,1396,2080,107.48
+Influenza A VirusA/Swine/Colorado/1/77/(H3N2),Arapan-S,8,13120,1640,2151,2310,99.13
+,ABySS,9,12478,1386.44,1634,2262,93.79
+,SSAKE,6,4287,714.50,-,1409,32.22
+,Velvet,12,9783,815.25,494,1867,73.53
+,QSRA,16,9400,587.50,468,1200,70.65
+,Minimus,8,13325,1665.62,2199,2309,100.16
+,Mira,10,14678,1467.80,1780,2371,110.33
+Influenza A VirusA/Weiss/43/(H1N1),Arapan-S,8,13300,1662.50,2194,2313,99.47
+,ABySS,11,13108,1191.64,1716,2274,98.03
+,SSAKE,3,1616,538.67,-,572,12.09
+,Velvet,9,9764,1084.89,1006,1696,73.02
+,QSRA,16,11755,734.69,573,1916,87.91
+,Minimus,8,13369,1671.12,2194,2313,99.98
+,Mira,11,15139,1376.27,1583,2359,113.22
+Only contigs whose lengths ≥ 400 were selected. Each species has eight segments that constitute its genome.,,,,,,,

@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6
+"*Independent t-test. Group 1 – non-smokers, group 2 – resistant smokers, group 3 – COPD",,,,,,
+,"Table II. Statistical analysis of FEV1%, FEV1/FVC% and FEF25/75% of predicted between the 3 groups",,,,,
+"Parameter
+Group",N°,Mean,± SD,,ANOVA,
+,,,,F-ratio,Value of p,LSD
+"1
+FEV1%",15,86.6,22.43,81.128,< 0.0001,(2)
+2,25,93.1,10.12,,,"(1,3)"
+3,62,47.3,17.41,,,(2)
+"1
+FEV1/FVC%",15,85.4,3.70,62.446,< 0.0001,(2)
+2,25,87.7,5.98,,,"(1,3)"
+3,62,59.0,15.10,,,(2)
+"FEF25/75%
+1",15,81.8,14.25,109.09,< 0.0001,(2)
+2,25,84.4,21.22,,,"(1,3)"
+3,62,29.2,17.46,,,(2)

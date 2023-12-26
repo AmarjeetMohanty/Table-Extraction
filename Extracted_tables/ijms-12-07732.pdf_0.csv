@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6,7
+,their expression stability by the geNorm applet.,,,,,,
+,Control sheep,,,Disease-stressed sheep,,,Combined groups
+,(n = 18),,,(n = 10),,,(n = 10 + 10)
+,,Stability value,,,Stability value,,Stability value
+Gene symbol,,,Gene symbol,,,Gene symbol,
+,,(M),,,(M),,(M)
+SDHA,,0.316,YWHAZ,,0.624,SDHA,0.591
+YWHAZ,,0.342,GAPDH,,0.634,YWHAZ,0.593
+HPRT,,0.344,SDHA,,0.667,ACTB,0.596
+RPL19,,0.361,ACTB,,0.701,G6PD,0.666
+B2M,,0.362,B2M,,0.720,GAPDH,0.681
+ACTB,,0.377,G6PD,,0.740,GYPC,0.698
+GYPC,,0.412,GYPC,,0.848,RPL19,0.746
+TFRC,,0.455,RPL19,,1.000,B2M,0.760
+G6PD,,0.486,HPRT,,1.188,HPRT,0.882
+PGK1,,0.498,PGK1,,1.466,TFRC,1.158
+GAPDH,,0.579,TFRC,,1.485,PGK1,1.295

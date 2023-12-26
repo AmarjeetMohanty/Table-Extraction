@@ -1,0 +1,39 @@
+0,1,2,3,4,5
+,Table. Nucleotide identity of HoBi-like pestivirus strain Italy-1/10-1 with reference pestiviruses in different genomic regions*,,,,
+,,,"Nucleotide identity, %",,
+Pestivirus species and strain,GenBank accession no.,Full-length genome,E2,5(cid:397) UTR,Npro
+HoBi-like pestivirus,,,,,
+Th/04_KhonKaen,FJ040215,90.0,87.7,92.3,89.4
+D32/00_HoBi,AY604725 (E2); AY489116 (5(cid:397) UTR);,NA,94.2,98.3,95.2
+,AY735486 (Npro),,,,
+CH-KaHo/cont,EU385605 (E2); AY895011 (Npro),NA,93.4,NA,95.2
+Border disease virus,,,,,
+H2121 (Chamois-1),GU270877,66.7,58.1,61.8,64.6
+Gifhorn,GQ902940,66.7,58.2,65.5,64.2
+X818,NC_003679,66.9,59.3,60.7,66.2
+Reindeer,AF144618,66.3,58.6,65.0,63.2
+Classical swine fever virus,,,,,
+Brescia X,AY578687,66.9,58.5,66.6,66.6
+HCLV,AF531433,66.5,59.0,65.5,65.4
+Brescia,AF091661,66.8,59.0,66.1,65.4
+Alfort-A19,U90951,66.8,59.0,66.1,65.8
+Shimen/HVRI,AY775178,66.8,59.2,66.6,67.0
+Riems,AY259122,66.4,58.7,65.5,65.2
+"Pestivirus of giraffe, H138",AF144617,65.2,58.0,72.8,64.2
+Bovine viral diarrhea virus type 1,,,,,
+ILLNC,U86600,66.3,60.9,69.8,64.0
+ZM-95,AF526381,66.2,62.1,65.7,63.6
+Oregon-C24V,AF091605,66.4,61.1,68.8,66.2
+CP7-5A,AF220247,66.4,62.1,68.2,66.0
+SD1,M96751,66.3,60.1,68.8,66.2
+Singer_Arg,DQ088995,66.5,61.4,69.3,65.0
+KE9,EF101530,67.0,61.4,70.4,65.8
+NADL,M31182,65.3,62.0,69.3,66.2
+VEDEVAC,AJ585412,66.4,61.3,70.9,66.2
+Bovine viral diarrhea virus type 2,,,,,
+JZ05-1,GQ888686,67.4,59.5,75.0,63.8
+New York’93,AF502399,67.1,58.7,74.4,65.0
+XJ-04,FJ527854,67.1,59.3,74.4,64.2
+C413,NC_002032,67.1,58.5,74.4,63.8
+Hokudai Lab/09,AB567658,67.2,59.3,72.8,65.2
+"*UTR, untranslated region; NA, sequence not available.",,,,,

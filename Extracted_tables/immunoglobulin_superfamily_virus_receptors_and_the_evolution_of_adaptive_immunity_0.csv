@@ -1,0 +1,11 @@
+0,1,2,3,4,5
+,Table 2. Dali Search for JAM-A D1 Structural Homologs.,,,,
+Hit Number,Z-scorea,r.m.s.d. (A˚ )b,Percent Identical,Protein,PDB Code-Chain
+1–9,24.1–20.3,0.0–0.7,100–65,hJAM-A and mJAM-A,
+10,14.6,1.8,16,IgA Fab J539 light chain,2FBJ-L
+264,13.0,2.4,17,VCBP3,2FBO-J
+543,11.7,2.3,22,Dscam,2V5R-A
+572,10.5,2.1,19,NCAM,1IE5-A
+aA Z-score above ([number of,residues/10]–4),is considered significant.,,,
+"br.m.s.d.,",root mean square deviation.,,,,
+doi:10.1371/journal.ppat.1000481.t002,,,,,

@@ -1,0 +1,30 @@
+0,1,2,3,4,5,6
+"aggregation levels (postal code, county, and state levels). (b) Results from multivariable spatial Poisson regression modeling of potential",,,,,,
+"risk factors for FIV infection at three spatial aggregation levels (postal code, county, and state levels).",,,,,,
+,,,(a),,,
+,Postal code,,County,,State,
+,,𝑃 value,,𝑃 value,,𝑃 value
+,PRa (95% CI),,PRa (95% CI),,PRa (95% CI),
+% juvenile,,,,,,
+≤50,Ref,,Ref,,Ref,
+>50,0.66 (0.52–0.84),<0.01,0.78 (0.65–0.94),<0.01,0.74 (0.5–1.08),0.13
+% female intact,,,,,,
+≤50,Ref,,Ref,,Ref,
+>50,1.25 (0.97–1.61),0.09,1.18 (0.96–1.45),0.12,0.63 (0.36–1.09),0.10
+% male intact,,,,,,
+≤50,Ref,,Ref,,Ref,
+>50,1.05 (0.82–1.35),0.69,0.88 (0.72–1.07),0.19,2.06 (1.12–3.77),<0.05
+% indoors,,,,,,
+≤50,Ref,,Ref,,—,—
+>50,0.62 (0.48–0.81),<0.01,0.8 (0.63–1.02),0.07,—,—
+% healthy,,,,,,
+≤50,Ref,,Ref,,—,—
+>50,0.99 (0.74–1.32),0.93,1.07 (0.82–1.4),0.63,—,—
+% tested at clinics,,,,,,
+≤50,Ref,,Ref,,Ref,
+>50,1.79 (1.34–2.39),<0.01,1.26 (1.04–1.54),0.02,1.29 (0.86–1.92),0.22
+FIV seroprevalence,,,,,,
+<3.0,Ref,,Ref,,Ref,
+3.0–8.0,1.42 (1.12–1.80),<0.01,1.17 (0.98–1.4),0.08,1.11 (0.78–1.57),0.55
+>8.0,2.44 (1.80–3.33),<0.01,2.4 (1.87–3.09),<0.01,2.6 (1.27–5.32),<0.05
+,"Intercept: −4.86, −3.86, and −3.99 for postal code, county, and state levels respectively, with a 𝑃 value of <0.01.",,,,,

@@ -1,0 +1,27 @@
+0,1,2,3,4,5,6,7,8
+,Table 5. Nucleotide Sequence Comparison of New World Bat Coronavirus RNA in the RdRp region.,,,,,,,
+,,,,,,,,Trinidad
+,,RM-Bat CoV,RM-Bat CoV,RM-Bat CoV,,,Trinidad bat,bat CoV
+,RM-Bat CoV,433/2007/,09-07/2009,429/2007/,RM-Bat CoV,RM-Bat CoV,CoV 1FY2/BA/,1CO7/BA/
+,453/2007/EF,MV,MV,MV,CDPHE 15/ML,CDPHE 61/EF,2007,2007
+RM-Bat CoV,100 (309),99 (309),63 (182),"47.
+(309)",62 (182),91 (210),71 (309),70 (309)
+453/2007/EF,,,,,,,,
+(cluster A),,,,,,,,
+RM-Bat CoV,,100 (350),61 (182),52 (332),67 (182),96 (210),71 (309),70 (350)
+433/2007/MV,,,,,,,,
+(cluster A),,,,,,,,
+RM-Bat CoV,,,100 (182),83 (182),97 (182),56 (182),80 (182),72 (182)
+09-07/2009/MV,,,,,,,,
+(cluster B),,,,,,,,
+RM-Bat CoV,,,,100 (182),84 (182),73 (210),75 (332),70 (332)
+429/2007/MV,,,,,,,,
+(cluster C),,,,,,,,
+RM-Bat CoV,,,,,100 (3859),72 (3410),73 (1358),72 (182)
+15/2006/ML,,,,,,,,
+(cluster B),,,,,,,,
+RM-Bat CoV,,,,,,100 (4012),75 (1413),76 (210)
+61/2007/EF,,,,,,,,
+(cluster C),,,,,,,,
+Trinidad bat CoV,,,,,,,100 (5160),76 (3899)
+1FY2/BA/2007,,,,,,,,

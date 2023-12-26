@@ -1,0 +1,9 @@
+0,1,2,3,4
+,,mRT-LAMP-IRNHa,,Performance characteristics
+Target,Positive,Negative,Sensitivity,Specificity
+A/H5,6/6,82/82,100%,100%
+A/H7,18/18,70/70,100%,100%
+2009A/H1,27/28,60/60,96.4%,100%
+"Combined A/H5, A/H7",,,,
+,51/52,36/36,98.1%,100%
+and 2009A/H1,,,,

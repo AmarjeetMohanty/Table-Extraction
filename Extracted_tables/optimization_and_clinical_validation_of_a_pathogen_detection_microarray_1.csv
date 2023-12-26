@@ -1,0 +1,46 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+Binning of probes into specific pathogen signature probe sets,,,,,,,,,,,
+,Pathogen,Family,Genome,Total,Top 20%,GC,Human,No. of filtered,No. of predicted,,No. of probes in
+,,,size (nt),tiling,AES* (a),content,genome,probes left (d,cross-hybridizing,,pathogen r-
+,,,,probes,,filter (b),filter (c),= a - (b + c)),probes (HD ≤ 4 and,,signature (d + e)
+,,,,,,,,,MCM ≥ 18) (e),,
+1,LCMV,Arenaviridae,"10,056","1,283",348,2,8,338,,0,338
+2,Hantaan,Bunyaviridae,"6,533",834,156,5,5,146,,6,152
+3,Sin Nombre,Bunyaviridae,"6,562",837,182,1,2,179,,6,185
+4,229E,Coronaviridae,"27,317","3,495",494,11,11,472,,0,472
+5,OC43,Coronaviridae,"30,738","3,937",634,15,22,597,,3,600
+6,SARS,Coronaviridae,"29,711","3,805",575,8,2,565,,1,566
+7,Dengue serotype 1,Flaviviridae,"10,717","1,370",230,2,8,220,,8,228
+8,Dengue serotype 2,Flaviviridae,"10,722","1,370",241,0,9,232,,11,243
+9,Dengue serotype 3,Flaviviridae,"10,707","1,370",230,0,4,226,,13,239
+10,Dengue serotype 4,Flaviviridae,"10,649","1,361",229,1,7,221,,3,224
+11,Japanese encephalitis,Flaviviridae,"10,976","1,404",310,3,2,305,,12,317
+12,West Nile,Flaviviridae,"10,962","1,401",320,2,2,316,,9,325
+13,Yellow fever,Flaviviridae,"10,862","1,389",255,2,3,250,,2,252
+14,Hepatitis B,Hepadnaviridae,"3,215",409,147,14,0,133,,0,133
+15,Influenza A†,Orthomyxoviridae,"12,561","1,582",510,1,15,494,,0,494
+16,Influenza B,Orthomyxoviridae,"14,452","1,822",665,5,18,642,,2,644
+17,Human papillomavirus,Papillomaviridae,"7,919","1,011",287,16,9,262,,0,262
+,type 10,,,,,,,,,,
+18,hMPV,Paramyxoviridae,"13,335","1,705",322,44,17,261,,0,261
+19,Newcastle disease,Paramyxoviridae,"15,186","1,943",329,0,2,327,,3,330
+20,Nipah,Paramyxoviridae,"18,246","2,335",389,12,5,372,,0,372
+21,Parainfluenza 1,Paramyxoviridae,"15,600","1,995",330,8,13,309,,2,311
+22,Parainfluenza 2,Paramyxoviridae,"15,646","2,002",333,10,2,321,,0,321
+23,Parainfluenza 3,Paramyxoviridae,"15,462","1,979",409,28,23,358,,3,361
+24,RSV B,Paramyxoviridae,"15,225","1,948",383,28,4,351,,4,355
+25,Echovirus 1,Picornaviridae,"7,397",945,238,1,10,227,,22,249
+26,Enterovirus A,Picornaviridae,"7,413",946,193,3,0,190,,8,198
+27,Enterovirus B,Picornaviridae,"7,389",944,179,0,4,175,,22,197
+28,Enterovirus C,Picornaviridae,"7,401",945,183,0,0,183,,4,187
+29,Enterovirus D,Picornaviridae,"7,390",944,155,0,3,152,,8,160
+30,Foot and mouth,Picornaviridae,"8,115","1,036",194,14,3,177,,0,177
+,disease,,,,,,,,,,
+31,Hepatitis A,Picornaviridae,"7,478",955,163,1,6,156,,0,156
+32,Rhinovirus A (type 89),Picornaviridae,"7,152",913,191,6,6,179,,1,180
+33,Rhinovirus B,Picornaviridae,"7,212",920,197,2,2,193,,0,193
+34,HIV 1,Retroviridae,"9,181","1,174",191,4,0,187,,0,187
+35,Rubella,Togaviridae,"9,755","1,246",117,65,0,52,,0,52
+,,,"419,242","53,555",,,,9768,,,9921
+t,,,,,,,,,,,
+al,,,,,,,,,,,To

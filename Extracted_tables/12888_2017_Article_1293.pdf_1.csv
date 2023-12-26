@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7,8,9,10
+"Table 4 Psychiatric symptoms, defense mechanisms,",,,,,recovery styles and social,,functioning,,,
+Variables,,,Sample,,Women,,Men,,Statistics,p
+,,,N,(%),N,(%),N,(%),,
+Psychiatric symptoms,,,,,,,,,,
+BPRS-4.0,,No illnessa,0,(0.00),0,(0.00),0,(0.00),χ2 = 0.65 (df = 3),0.89
+,,Mild,6,(1.77),4,(1.17),2,(0.58),,
+,,Moderate,27,(7.95),15,(4.41),12,(3.52),,
+,,Severe,71,(20.88),44,(12.94),27,(7.94),,
+,,Extremely severe,236,(69.47),149,(43.82),87,(25.58),,
+SCL-90-R,,No distress,10,(3.65),4,(1.45),6,(2.18),χ2 = 5.92 (df = 4),0.21
+,,Mild,8,(2.92),6,(2.18),2,(0.73),,
+,,Moderate,16,(5.84),8,(2.92),8,(2.92),,
+,,Severe,32,(11.67),24,(8.76),8,(2.92),,
+,,Extremely severe,208,(75.91),132,(48.17),76,(27.73),,
+Recovery (RSQ),,Sealing over,54,(19.01),39,(13.73),15,(5.28),χ2 = 2.78 (df = 1),0.10
+,,Integration,230,(80.98),138,(48.59),92,(32.39),,
+,,,Mean,SD,Mean,SD,Mean,SD,,
+Defenses (DSQ-40),,Mature,5.24,1.31,5.21,1.32,5.28,1.32,Z = −0.25,0.80
+,,Neurotic,4.66,1.41,4.67,1.45,4.65,1.32,Z = −0.11,0.92
+,,Immature,4.24,1.07,4.18,1.04,4.32,1.11,Z = −0.54,0.59
+Global,functioning (GAF),,52.51,10.99,52.56,11.21,52.42,10.64,Z = −0.58,0.57
+"BPRS-4.0 Brief Psychiatric Rating Scale version 4.0, SCL-90-R Symptom Checklist – Revised, DSQ-40 Defense Style Questionnaire 40 items, RSQ Recovery Style",,,,,,,,,,

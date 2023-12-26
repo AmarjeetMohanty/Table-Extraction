@@ -1,0 +1,27 @@
+0,1
+Recoding,
+id [PK],Molecules
+id recode [FK],
+,id [PK]
+id product [FK],
+,id recode [FK]
+event [FK],
+,variant
+experimental,
+,ext databases
+position,
+,coordinates
+codon,
+,sequence
+upstream,
+,genetic code [FK]
+esite,
+,acid type
+asite,
+,length
+psite,
+,comments
+downstream,
+,annotations
+model,
+description,

@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6,7
+Table 4 Adjusted association between demographic and health-related variables and internalized and enacted stigma,,,,,,,
+,,internalized stigma,,,Enacted stigma,,
+Characteristics,Variables,AOR,95% CI,p-value,AOR,95% CI,p-value
+Religion,Islam,1,,0.021,,,
+,Christianity,2.51,1.15–5.49,,,,
+Perceived health status,Very /good,1,,0.003,,,
+,Fair/poor,2.58,1.39–4.77,,,,
+Region of country,Western Area,1,,,,,
+,North region,2.80,1.29–6.07,0.009,,,
+,Southern region,0.85,0.38–1.93,0.700,,,
+,Eastern region,1.14,0.51–2.56,0.749,,,
+Employment status,Employed,,,,2.16,0.88–5.31,0.093
+,Unemployed,,,,,,

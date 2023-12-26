@@ -1,0 +1,35 @@
+0,1,2,3,4
+6,,,,BioMed Research International
+,Table 3: The confirmed results for specimens with discordant results between the two-tube assay and the Luminex xTAG RVP Fast assay.,,,
+Case no.,Two-tube,Luminex xTAG RVP Fasta,Seeplex,Confirmed results
+43,HRV,"HEV/HRV, HBoV",HRV,HRV
+349,"HRV, RSVB","HEV/HRV, RSVB, and HBoV","HRV, RSVB","HRV, RSVB"
+352,"HRV, RSVB","HEV/HRV, RSVB, and HBoV","HRV, RSVB","HRV, RSVB"
+146,HMPV,"HMPV, HBoV",HMPV,HMPV
+149,HMPV,"HMPV, HEV/HRVb, and HBoV","HRV, HMPV","HRV, HMPV"
+,,HEV/HRV,,HRV
+16,None,,HRV,
+125,RSVB,"RSVB, HEV/HRV","HRV, RSVB","HRV, RSVB"
+262,"RSVB, PIV3, and HBoV","RSVB, PIV3, HBoV, and HEV/HRV","PIV3, RSVB","RSVB, PIV3, and HBoV"
+,,"PIV3, RSVB, HMPV, and",,
+270,"PIV3, RSVB, and HMPV",,"PIV3, RSVB, and HMPV","PIV3, RSVB, and HMPV"
+,,HEV/HRV,,
+142,RSVB,"RSVB, HEV/HRV",RSVB,RSVB
+21,PIV3,"PIV3, HEV/HRV",PIV3,PIV3
+66,,HEV/HRV,,
+,None,,None,None
+85,"FluA, sH1N1, and HBoV","FluA (H1), HBoV, and HEV/HRV",FluA,"FluA, sH1N1, and HBoV"
+87,,HEV/HRV,,
+,None,,None,None
+91,,HEV/HRV,,
+,None,,None,None
+114,,HEV/HRV,,
+,None,,None,None
+274,"HRV, RSVB","HEV/HRV, RSVB, and Adv","HRV, Adv","HRV, Adv, and RSVB"
+,,,,"FluA, sH1N1, HBoV, and"
+28,"FluA, HBoV, and Advc","FluA (H1c), HBoV",NDd,
+,,,,Adv
+,"FluA, Adv, RSVAc, RSVBc,","FluA (H1c), HEV/HRV, Adv, and","FluA, RSVA, Adv, and","FluA, sH1N1, Adv, RSVA,"
+118,,,,
+,and HBoV,HBoV,HBOV,"RSVB, and HBoV"
+aViruses with discordant results are shown in boldface.,,,,

@@ -1,0 +1,24 @@
+0,1,2,3,4,5,6,7,8
+,Table 6. Distribution of neonatal outcomes (live birth) of pregnant women hospitalized with influenza A(H1N1),,,,,,,
+,pdm09 associated with severe acute respiratory illness who died (cases) or recovered (controls) according to,,,,,,,
+"weight, gestational age and Apgar, State of São Paulo, 2009.",,,,,,,,
+Gestational Age,N,"Casesa,b",N,"Controlsa,b- delivery",,N,"Controlsa,b—delivery after",
+,,,,during hospitalization,,,discharge,
+,23,n (%),24,n (%),Pc,144,,n (%)
+,23,,24,,,144,,
+< 28 weeksd,,1 (4.3),,2 (8.3),,,,1 (0.7)
+28–31 weeksd,,4 (17.4),,3 (12.5),,,,6 (4.2)
+32–36 weeksd,,15 (65.2),,6 (25.0),,,,12 (8.3)
+> = 37 weeks,,3 (13.1),,13 (54.2),0.003,,,125 (86.8)
+Birth weight (grams),23,,24,,,144,,
+< 1500,,2 (8.7),,3 (12.5),,,,4 (2.8)
+1500–2499,,15 (65.2),,6 (25.0),,,,7 (4.9)
+> = 2500,,6 (26.1),,15 (62.5),0.019,,,133 (92.3)
+Birth weight Median,,"2,100 (1,730–",,"2,740 (2,229–",0.015,,,"3,015 (2,736–3,454)"
+(IQR),,"2,565)",,"3,084)",,,,
+APGR 1st Minutee Median,18,3.5 (1.75–8),21,9 (8–9),0.001,82,,9 (8–9)
+(IQR),,,,,,,,
+APGAR 5th Minutef,16,8 (3.5–9),22,9 (8.7–10),0.003,86,,9 (9–10)
+Median (IQR),,,,,,,,
+SGAg,22,6 (27.3),24,3 (12.5),,133,,10 (7.5)
+Intensive Care Unit,19,14 (73.7),20,7 (35.0),,-,,-

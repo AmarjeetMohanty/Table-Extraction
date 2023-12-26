@@ -1,0 +1,44 @@
+0,1,2,3,4,5,6
+Table 1: Differences between MG1655 and W3110 Kohara (CGSC # 7167),,,,,,
+Location1,Gene,b number,Mutation,CGS Detection,Reported as:2,Status3
+Small sequence differences,,,,,,
+555954,ybcJ,b0528,c>t,yes,SNP,new
+556858,folD,b0529,a>t,yes,SNP,new
+1092487,ycdT,b1025,c>t,yes,SNP,known
+1335418,acnA,b1276,a>g,yes,SNP,known
+1650355,intQ,b1579,t>c,yes,SNP,known
+2030447,yedJ,b1962,g>a,yes,SNP,known
+2865477,rpoS,b2741,g>a,yes,ROI,known
+3484227,crp,b3357,c>a,yes,ROI,known
+4210321,rrlE,b4009,g>a,undetected,,known
+4364615,dcuA,b4138,2 nt insertion,yes,ROI,known
+IS element insertions,,,,,,
+654214,dcuC,b0621,IS5 insertion,yes,ROI,known
+1104604,csgC-ymdA,b1043 – 1044,IS2 insertion,undetected,,known
+1298687,ychE-oppA,b1242 – 1243,IS2 insertion,undetected,,known
+1463456,ydbA,b1401,IS2 insertion,yes,ROI,new
+1976519,flhD-yecG,b1892 – 1895,IS5 insertion,undetected,,known
+2033459,yedS – hchA,b1966 – 1967,IS5 insertion,yes,ROI – 1 probe,new
+2172870,gatA,b2094,IS5 insertion,yes,ROI,known
+2315483,rcsC,b2218,IS2 insertion,yes,ROI,known
+2404811,lrhA-yfbQ,b2289 – 2290,IS1 insertion,yes,ROI – 1 probe,known
+2696426,yfhB,b2560,IS30 insertion,yes,ROI,new
+3260500,tdcD,b3115,IS5 insertion,yes,ROI – 1 probe,known
+3378961,degQ,b3234,IS2 insertion,yes,ROI,new
+3550943,malP-malT,b3417 – 3418,IS5 insertion,yes,ROI,new
+3681321,dctA,b3528,IS30 insertion,yes,ROI,new
+3886653,tnaA-tnaC,b3707 – 3708,IS5 insertion,yes,ROI – 1 probe,known
+3889134,tnaB,b3709,IS5 insertion,yes,ROI,known
+3891777,yieE-yidZ,b3711 – 3712,IS2 insertion,yes,ROI,known
+4229085,yjbC,b4022,IS2 insertion,yes,ROI,new
+4304907,alsK,b4084,IS5 insertion,yes,ROI,known
+Deletions/Inversions,,,,,,
+1395267 –,ynaJ-fnr,b1332 – 1334,deletion,yes,ROI,new
+1397616,,,,,,
+~2556721 –,intZ-yffS,b2442 – 2450,deletion,yes,ROI,known
+2563354,,,,,,
+3424826 –,,b3276 – 4008,Inversion,undetected,,known
+4207943,,,,,,
+,1. Location is given based on the MG1655 genome (GenBank accession # U00096.2),,,,,
+,2. Detected differences were reported by Nimblegen as Single Nucleotide Polymorphisms (SNPs) or in non-called Regions Of Interest (ROIs). Most,,,,,
+,"differences detected in ROIs were reported by multiple nearby probes, but were reported in only one probe in cases as noted.",,,,,

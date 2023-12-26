@@ -1,0 +1,30 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+,,,,,,,,,,,,Humanized mAb against Dengue Virus,,
+,"Table 1. Characterization of DENV-2 mAbs by IFA, ELISA, WB and PRNT50 (mg/ml).",,,,,,,,,,,,,
+,"Isotype, Light",,,,,,,,,,,,,PRNT50 (mg/
+,,,,,IFA,ELISA,,,,WB,,,,ml)
+mAbs,chain,,Specificity,,,,,,,,,,,
+,,,,,D2,D1,D2,D3,D4,D1,D2,D3,D4,D2
+DB2-3,"IgG1, k",,E-DI-II,,+,2,+,2,2,2,+,2,2,1.2
+DB3-4,"IgG1, k",,E,,+,2,+,2,2,2,+,2,2,3.7
+DB9-1,"IgG1, k",,E-DI-II,,+,2,+,2,2,2,+,2,2,3.7
+DB13-19,"IgG1, k",,E-DI-II,,+,+,+,+,+,+,+,+,+,33
+DB19-4,"IgG2b, k",,E,,+,2,+,2,2,2,+,2,2,3.7
+DB21-6,"IgG1, k",,E-DI-II,,+,+,+,+,+,2,2,2,2,.33
+DB22-4,"IgG2a, k",,E-DI-II,,+,2,+,2,2,2,2,2,2,.33
+DB23-3,"IgG2a, k",,E-DI-II,,+,2,+,2,2,2,+,2,2,0.41
+DB24-2,"IgG2a, k",,E,,+,2,+,2,2,2,+,2,2,3.7
+DB25-2,"IgG1, k",,E-DIII,,+,2,+,2,2,2,+,2,2,1.2
+DB27-3,"IgG1, k",,E-DI-II,,+,2,+,2,2,2,+,2,2,.33
+DB32-6,"IgG2b, k",,E-DIII,,+,2,+,2,2,2,+,2,2,0.14
+DB33-3,"IgG1, k",,E-DI-II,,+,+,+,+,+,+,+,+,+,.33
+DB36-2,"IgG1, k",,E,,+,2,+,2,2,2,2,2,2,n.d.
+DB37-1,"IgG1, k",,E,,+,2,+,2,+,2,+,2,+,.33
+DB39-2,"IgG1, k",,E-DI-II,,+,+,+,+,+,+,+,+,+,.33
+DB42-3,"IgG1, l",,E-DI-II,,+,+,+,+,+,+,+,+,+,3.7
+3H5,IgG1,,E-DIII,,+,2,+,2,2,2,+,2,2,0.41
+4G2,IgG2a,,E-DI-II,,+,+,+,+,+,+,+,+,+,11
+,"mAbs, monoclonal antibodies;","IFA,","immunofluorescence assay; ELISA, enzyme-linked immunosorbent assay; WB, Western blotting; PRNT, plaque reduction",,,,,,,,,,,
+,"neutralization test; D1, D2, D3, and D4, DENV-1 to -4;",,,"Ig,","immunoglobulin; E, envelope protein; E-DI-II, envelope protein domain I-II; E-DIII, envelope protein domain III.",,,,,,,,,
+(+) positive result,,"to DENV, A490.0.2;",,(2) negative result,,"to DENV, A490,0.2;",,(n.d.) not determined.,,,,,,
+,doi:10.1371/journal.pntd.0001636.t001,,,,,,,,,,,,,

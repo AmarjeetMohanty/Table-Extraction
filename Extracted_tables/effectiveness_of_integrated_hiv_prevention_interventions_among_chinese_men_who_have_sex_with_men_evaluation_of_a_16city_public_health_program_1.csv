@@ -1,0 +1,41 @@
+0,1,2,3,4,5
+,,,,,HIV Prevention Interventions among Chinese MSM
+,"Table 7. Logistic regression of HIV prevalence among MSM in 16 Chinese cities (surveys from all 4 years, 2006–2009).",,,,
+Variable,N,"HIV prevalence, %",Crude OR (95% CI),"P
+-value",Adjusted OR (95% CI)P-value
+"Age, every 5 years increase",20843,4.0,"1.15 (1.12, 1.19)",",0.001","1.21 (1.16, 1.26)
+,0.001"
+Marital status,,,,0.465,0.001
+Married or cohabitating,4934,4.2,1.00,,1.00
+Single or divorced,15907,3.9,"0.94 (0.80, 1.11)",,"1.37 (1.14, 1.65)"
+Ethnicity,,,,0.002,0.001
+Han,19164,4.1,1.00,,1.00
+Other,1679,2.6,"0.61 (0.45, 0.83)",,"0.60 (0.43, 0.82)"
+Education,,,,",0.001",0.11
+"Middle school or
+lower",5355,5.0,1.00,,1.00
+High school,8166,4.0,"0.79 (0.67, 0.93)",,"0.92 (0.77, 1.09)"
+Some college or higher,7322,3.2,"0.63 (0.53, 0.76)",,"0.81 (0.67, 0.99)"
+"Local
+residence",,,,",0.001",",0.001"
+No,6125,5.6,1.00,,1.00
+Yes,14718,3.3,"0.58 (0.51, 0.67)",,"0.56 (0.48, 0.65)"
+Occupation,,,,",0.001",0.007
+Non-students,17458,4.3,1.00,,1.00
+Students,3363,2.3,"0.51 (0.40, 0.65)",,"0.69 (0.53, 0.90)"
+Recruitment venue,,,,0.04,0.57
+"Bars,
+Internet or other",14165,3.8,1.00,,1.00
+Saunas or parks,6444,4.5,"1.17 (1.01, 1.35)",,"0.96 (0.82, 1.12)"
+"Age of
+first sex, every 1- year","increase
+20843",4.0,"1.14 (1.03, 1.26)",0.01,"0.98 (0.96, 1.01)
+0.15"
+Drug use in the past 6 months**,,,,0.002,0.001
+No,20471,4.0,1.00,,1.00
+Yes,337,7.4,"1.95 (1.29, 2.95)",,"2.07 (1.35, 3.18)"
+Intervention effect by year{,,,,",0.001",",0.001"
+2006,5076,2.3,"1.09 (0.81, 1.45)",,"1.08 (0.80, 1.45)"
+2007,4981,3.4,"0.80 (0.67, 0.97)",,"0.80 (0.66, 0.98)"
+2008,5460,4.9,"0.60 (0.50, 0.71)",,"0.60 (0.50, 0.71)"
+2009,5326,5.3,"0.44 (0.34, 0.57)",,"0.45 (0.34, 0.58)"

@@ -1,0 +1,9 @@
+0,1,2,3,4,5,6,7,8
+Table 1. Continued,,,,,,,,
+Structure,Virus,Strain,Cell,line,Assay,EC50 (mM),CC50 (mM),References
+20-C-methylguanosine,TBEV,Hypr,PS,,VTR,1.4,>50,Eyer et al.54
+,WNV,New York isol.,Vero,,CPE,30,>100,Migliaccio et al.49
+,DENV-2,New Guinea C,Vero,,CPE,13.6,>60,Migliaccio et al.49
+,YFV,17-D,Vero,,CPE,17,>50,Migliaccio et al.49
+,ZIKV,MR766,Vero,,VTR,22.25,>100,Eyer et al.23
+INX-08189,DENV-2,ND,Huh-7,,Replicon,0.0142,>1,Yeo et al.58

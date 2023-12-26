@@ -1,0 +1,12 @@
+0,1,2,3,4,5
+Table 2 Continued,,,,,
+Genus,Host Species,Lineages,Region,Position,Amino Acid
+,Type Comparison,,,(H77/NC_001837 References),(Derived Change)
+Pegivirus,Primate–Primate,K–N,NA,NA,NA
+,Human–Primate,L–N,E2,2512,E
+,,,NS5B,8230,I
+,,K–L–N,NS3,4174,T
+,Bat–Bat,M–O,NA,NA,NA
+,,M–Q,NA,NA,NA
+,,O–Q,NA,NA,NA
+,,M–O–Q,NA,NA,NA

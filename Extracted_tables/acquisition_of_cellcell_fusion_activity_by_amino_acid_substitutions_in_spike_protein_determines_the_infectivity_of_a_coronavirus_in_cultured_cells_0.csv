@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7,8
+,,,,,,,,Cell Culture-Adapted IBV
+Table 1. Summary of amino acid substitutions in S protein from the rescued IBV variants.,,,,,,,,
+,,,,,,,,Plaque purification
+Passage,S gene type,No. of clones (No./total),,Amino acid residue,,,,(No./total)
+,,,327,523,769,773,857,
+p0,FL,5/10,P,Q,I,T,L,ND
+,FLv1,2/10,P,Q,I,S,L,ND
+,FLv2,1/10,P,Q,V,T,L,ND
+,FLv3,2/10,P,L,V,T,L,ND
+p1,FLv3,4/4,P,L,V,T,L,ND
+p3,FLv3,4/10,P,L,V,T,L,0/10
+,FLv4,6/10,S,L,V,T,L,10/10
+p5,FLv3,2/10,P,L,V,T,L,0/10
+,FLv4,8/10,S,L,V,T,L,10/10
+,doi:10.1371/journal.pone.0006130.t001,,,,,,,

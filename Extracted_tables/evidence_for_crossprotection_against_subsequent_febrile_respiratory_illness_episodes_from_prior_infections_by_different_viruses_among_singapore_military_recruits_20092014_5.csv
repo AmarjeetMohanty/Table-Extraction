@@ -1,0 +1,41 @@
+0,1,2,3,4,5
+A,,,,,
+1.00,,,,,
+0.95,,,,,
+"Proportion without subsequent FRI episode
+0.90",,,,,
+,Log-rank test,,,,
+0.85,,Events,Events,,
+,Exposure status,observed,expected,,
+,- positive for any virus,230,267.3,,
+,- negative for all viruses,231,193.7,,
+0.80,,,P < .001,,
+,0,50,,100,150
+,,"Time after previous episode, d",,,
+B,,,,,
+1.00,,,,,
+0.95,,,,,
+"Proportion without subsequent FRI episode
+0.90",,,,,
+,Log-rank test,,,,
+0.85,,,,,
+,,Events,Events,,
+,Exposure status,observed,expected,,
+,- adenovirus positive,13,46.4,,
+,- adenovirus negative,448,414.6,,
+0.80,,,P < .001,,
+,0,50,,100,150
+,,"Time after previous episode, d",,,
+C,,,,,
+1.00,,,,,
+0.95,,,,,
+"Proportion without subsequent FRI episode
+0.90",,,,,
+,Log-rank test,,,,
+0.85,,,,,
+,,Events,Events,,
+,Exposure status,observed,expected,,
+,- inﬂuenza virus positive,47,76.0,,
+,- inﬂuenza virus negative,414,385.0,,
+0.80,,,P < .001,,
+,0,50,,100,150

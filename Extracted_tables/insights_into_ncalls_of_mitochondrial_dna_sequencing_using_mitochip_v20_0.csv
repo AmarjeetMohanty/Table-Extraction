@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6
+Table 3 mtDNA homoplasmic and heteroplasmic mutations identified in fibroblast sample 7 (mtDNA7),,,,,,
+mtDNA Gene Location,Nucleotide Position,Ref,MitoChip call,,Nucleotide change,Comment
+,,,mtDNA7,MitoChip GSEQ,Conventional sequencing,
+D-loop,146,T,N,T > N,T > C,N = point mutation (1)
+D-loop,315,C,C,C,insC,Insertion (1)
+D-loop,464,A,N,A > N,A > C,N = New point mutation (1)
+D-loop,523-524,AC,AC,AC,delAC,Deletion (1)
+16S rRNA,1814,A,R,A > G,-,Heteroplasmic mutation (2)
+16S rRNA,3107,C,-,delC,delC,Deletion
+MTND2,5264,C,T,C > T,C > T,New
+MTND4,11466,T,K,T > G,-,Heteroplasmic mutation (2)
+MTTL2,12307,A,R,A > G,-,Heteroplasmic mutation (2)
+MTTL2,12309,A,R,A > G,-,Heteroplasmic mutation (2)
+MTND5,13037,C,M,C > A,-,Heteroplasmic mutation (2)
+MTTT,15944,T,Y,T > C,delT,Deletion (3)
+MTTP,15977,C,T,C > T,C > T,New
+D-loop,16189,T,N,T > N,T > C,N = point mutation (1)
+D-loop,16192,C,C,C,insC,Insertion (1)
+D-loop,16193,C,C,C,delC,Deletion (1)
+D-loop,16343,A,N,A > N,A > G,N = point mutation (1)
+Homozygous for,the ITPA 94C > A I sequence variant,,"(ITPA -/-), using MitoChip v2.0 vs. conventional sequencing (dye-terminator sequencing). Abbreviations =",,,

@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6,7,8
+"Table 2 Clinical description of virus positive cases in the KD02, KS02 and RK01 clusters",,,,,,,,
+Site,Date enrolled,Virus detected,Age,Gender,Sore throat,Cough,Temperature,Site diagnosis
+KD02,25-Aug-2009,EV-D68,46,male,No,Yes,38.4,influenza
+KD02,26-Aug-2009,EV-D68,71,female,Yes,Yes,38.4,pharyngitis
+KD02,26-Aug-2009,EV-D68,36,male,No,No,38.8,typhoid fever
+KD02,27-Aug-2009,EV-D68,24,female,Yes,Yes,38.3,pharyngitis
+KD02,27-Aug-2009,EV-D68,38,male,No,Yes,38.7,pharyngitis
+KD02,31-Aug-2009,"EV-D68, RSV-B",51,male,Yes,Yes,38.7,pharyngitis
+KD02,24-Aug-2009,HRV-C,4,male,No,Yes,39.0,pharyngitis
+KD02,26-Aug-2009,HRV-C,11,female,Yes,Yes,38.6,pharyngitis
+KD02,26-Aug-2009,HRV-A,59,female,Yes,Yes,38.5,pneumonia
+KD02,26-Aug-2009,HRV-C,40,male,No,Yes,38.8,influenza
+KD02,31-Aug-2009,HRV-C,37,male,Yes,Yes,39.2,pharyngitis
+KS02,12-Oct-2009,RSV-B,8,male,No,Yes,39.0,influenza
+KS02,13-Oct-2009,RSV-B,3,female,No,Yes,38.8,URI^
+KS02,13-Oct-2009,"RSV-B, HRV-C",3,female,No,Yes,38.5,URI
+KS02,13-Oct-2009,RSV-B,12,male,Yes,Yes,39.5,pharyngitis
+KS02,15-Oct-2009,HRV-A,2,female,No,Yes,39.0,URI
+KS02,16-Oct-2009,EV-D68,60,female,No,Yes,38.6,influenza
+KS02,16-Oct-2009,RSV-B,4,female,No,Yes,38.6,influenza
+RK01,25-Jul-2011,RSV-A,3,female,Yes,Yes,38.5,pneumonia
+RK01,1-Aug-2011,RSV-A,2,male,NA*,Yes,40.0,pneumonia
+RK01,15-Aug-2011,RSV-A,5,female,NA,Yes,39.0,pneumonia
+RK01,15-Aug-2011,RSV-A,3,male,NA,Yes,40.0,pneumonia
+RK01,18-Aug-2011,"CV-B4, RSV-A",2,male,NA,Yes,39.0,pneumonia
+RK01,18-Aug-2011,"EV-D68, RSV-A",4,male,NA,Yes,38.5,pneumonia
+RK01,18-Aug-2011,"HRV-C, RSV-A",4,male,NA,Yes,39.8,pneumonia
+RK01,25-Aug-2011,"HCOV-OC43, RSV-A",5,female,NA,Yes,38.5,pneumonia
+RK01,12-Sep-2011,RSV-A,4,male,Yes,Yes,38.3,pneumonia
+^URI: Upper Respiratory Infection; NA* = Data not available.,,,,,,,,

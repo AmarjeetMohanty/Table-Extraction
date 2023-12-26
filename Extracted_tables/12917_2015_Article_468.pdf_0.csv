@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6,7
+,Table 2 Yearly and monthly networks in 2012,,,,,,
+Network,,Number of active holdings,,,,,
+,Total,Alp,Clinic,Farm,Market,SH,
+Yearly,48’728,6’451,5,41’484,189,599,907’539
+January,30’525,35,4,29’831,112,543,70’160
+February,29’674,34,3,28’997,112,528,59’860
+March,30’749,32,3,30’069,112,533,71’278
+April,31’047,109,4,30’280,118,536,68’306
+May,35’806,2’841,5,32’311,111,538,79’869
+June,39’512,5’506,5,33’369,111,521,90’880
+July,29’556,3’399,4,25’573,99,481,59’925
+August,32’401,4’174,3,27’629,105,490,72’844
+September,40’300,5’829,3,33’851,126,491,103’587
+October,36’190,2’763,2,32’782,121,522,89’693
+November,32’978,248,2,32’092,120,516,78’612
+December,28’770,27,4,28’130,111,498,62’525
+,The numbers of active holdings (nodes) are recorded as total and per holding type. The number of movements (arcs),,,,,is given as total,

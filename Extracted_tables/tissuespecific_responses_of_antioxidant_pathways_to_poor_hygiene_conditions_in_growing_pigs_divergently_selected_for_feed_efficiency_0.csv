@@ -1,0 +1,16 @@
+0,1,2,3,4
+,,,TBARS concentrations at W6,
+,,,in PRAT,
+,1400,,,
+,,Line**,,
+,,LxH*,,
+,1200,,,
+,,Time***,,
+,1000,,,
+,,,,good-LRFI
+,800,,,
+nM MDA/g tissue,,,,poor-LRFI
+,600,,,good-HRFI
+,,,,poor-HRFI
+,400,,,
+,200,,,

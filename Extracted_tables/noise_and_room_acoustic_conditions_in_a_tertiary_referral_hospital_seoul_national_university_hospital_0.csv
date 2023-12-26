@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6,7
+"Fig. 3. Photos of reception/waiting area (A: otorhinolaryngology, B: main reception) and patient rooms (C: single patient room, D: 6 pa-",,,,,,,
+tient room).,,,,,,,
+,,Office/nurse station,,,,,
+,,,,,,,Office/nurse station
+Meeting,,Corridor,,,,Office/nurse,
+,,,,,,station,Examination room
+rooms,,Patient room,,,,,
+,Construction,,Meeting,,Construction,,
+1%,,,,,,25%,Corridor
+,,Examination room,rooms,,,,
+,noise,,,,noise,,
+OR,,,,Lounge,,,Patient room
+ICU,4%,Lounge,5%,,3%,,
+4%,,,,5%,,,ER
+,,ER,,OR,,,
+"5%
+ER",,,,,,,
+,,,,,,,ICU
+,,ICU,,3%,,,
+7%,Office/nurse,,,,,,
+,,,,,,,OR
+,station,OR,,,,,
+,,,,,,,Meeting rooms
+,25%,Meeting rooms,,ICU 7%,,,
+Lounge,,,,,,,Lounge
+,,Construction noise,,ER,,,
+10%,,,,,,,Construction noise
+,,,,9%,,Examination,
+,,,,,,room,
+,Corridor,,,Patient room,,,

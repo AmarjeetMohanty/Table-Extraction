@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6,7,8
+,with either 1 or 2 ml of bovine coronavirus vaccine,,,,,,,
+,,Vaccine volume,,,Antibody titers at each day post first inoculation,,,
+Virus strain,Horse No.,,,,,,,
+,,(ml),0 b),7,14,28 b),42,56
+Bovine coronavirus,1,1,<8 c),<8,32,128,256,256
+(strain No. 66/H),2,,<8,<8,32,128,"1,024",512
+,3,,<8,8,32,64,"1,024",256
+,GMT a),,4,5,32 ** d),102 **,645 **,323 **
+Bovine coronavirus,4,2,<8,128,256,128,256,256
+(strain No. 66/H),5,,32,128,256,256,512,"1,024"
+,6,,<8,256,512,256,512,512
+,GMT,,8,161 **,323 **,203 **,406 **,512 **
+Equine coronavirus,1,1,<8,8,16,16,32,32
+(strain NC99),2,,<8,<8,16,32,64,64
+,3,,<8,8,32,32,32,64
+,GMT,,4,6,20 **,25 **,40 **,51 **
+Equine coronavirus,4,2,<8,16,16,8,32,32
+(strain NC99),5,,<8,16,64,64,128,128
+,6,,<8,16,32,32,64,64
+,GMT,,4,16,32 **,25 *,64 **,64 **
+a) Geometric mean titer. b) Horses were inoculated with the bovine coronavirus vaccine at 0 and 28 days post first inoculation. c) For calculation of,,,,,,,,

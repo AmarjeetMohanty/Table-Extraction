@@ -1,0 +1,15 @@
+0,1,2,3,4,5
+"to 109 copies, allowing a precise calculation of viral DNA",,,,,
+Table 3: Oligonucleotide sequences of primers and probes used in AHV-1 FQ-PCR detection,,,,,
+Name,Type,Sequences (5'to 3'),Length (nt),Position,Amplicon size (bp)
+Real-Fa,Forward,ttttcctcctcctcgctgagt,21,357–377,60
+Real-Pa,Probe,ccctgggtacaagcgc,16,383–398,
+Real-Ra,Reverse,ggccgggtttgcagaagt,18,399–416,
+Con-Fb,Forward,ggacagcgtaccacagataa,20,246–265,498
+Con-Rb,Reverse,acaaatcccaagcgtag,17,727–743,
+IC-Fc,Forward,acgagcgcaacccttga,17,1054–1070,92
+IC-Pc,Probe,cggtttgtcaccggcagtcacct,23,1103–1125,
+IC-Rc,Reverse,acgtcatccccaccttact,19,1127–1145,
+,a Based on the nucleotide sequence AF064639.,,,,
+,b Based on the nucleotide sequence AF064639.,,,,
+,c Based on the nucleotide sequence AJ971894.,,,,

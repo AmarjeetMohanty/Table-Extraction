@@ -1,0 +1,12 @@
+0,1,2,3,4
+dotted lines show possible stacking interactions.,,,,
+Interactions,KYN,GL,GA,CBX
+,"Asn202(B),",,Gly39(A),
+Hydrogen bond,,Ser77(A),,Ser77(A)
+,Arg399(B),,Tyr142(B),
+,,Leu40(A),Leu40(A),Leu40(A)
+,,Tyr74(A),Tyr74(A),Tyr74(A)
+Hydrophobic effects,Leu40(A) Tyr74(A),,,
+,,Pro76(A),Pro76(A),Pro76(A)
+,,Gln73(A),Gln73(A),Gln73(A)
+Stacking,Tyr74(A),Tyr74(A),Tyr74(A),Tyr74(A)

@@ -1,0 +1,36 @@
+0,1,2,3,4
+Research article,,,Chromosomes and Gene Expression Microbiology and Infectious Disease,
+Continued,,,,
+Reagent type,,,,Additional
+(species) or resource,Designation,Source or reference,Identifiers,information
+Antibody,Rabbit polyclonal,Abcam,ab5131,ChIP (10 mg)
+,anti-RNAPII,,,
+,phospho S5,,,
+Antibody,Rabbit polyclonal,Abcam,ab5095,ChIP (10 mg)
+,anti-RNAPII,,,
+,phospho S2,,,
+Antibody,Rabbit polyclonal,Abcam,ab96328,ChIP (10 mg)
+,anti-POLR3A,,,
+Sequence-based,siPABPC1,PMID: 20823266,,Custom siRNA;
+reagent (H. sapiens),,,,see Table S5 for
+,,,,sequence
+Sequence-based,siPABPC4,PMID: 20823266,,Custom siRNA;
+reagent (H. sapiens),,,,see Table S5 for
+,,,,sequence
+Sequence-based,siLARP4,Dharmacon,M-016523-00-0020,
+reagent (H. sapiens),,,,
+Sequence-based,siCHD3,Dharmacon,M-023015-01-0020,
+reagent (H. sapiens),,,,
+Sequence-based,siMSI1,Dharmacon,M-011338-01-0010,
+reagent (H. sapiens),,,,
+Sequence-based,siTRIM32,Dharmacon,M-006950-01-0010,
+reagent (H. sapiens),,,,
+Commercial assay or kit,Protein G dynabeads,Thermofisher,10004D,
+Commercial assay or kit,Protein A dynabeads,Thermofisher,10002D,
+Commercial assay or kit,10-plex TMT kit,Thermofisher,90113,
+"Chemical compound, drug","Alexa Fluor 594,",Thermofisher,A-11072,
+,goat anti-rabbit,,,
+"Chemical compound, drug","Alexa Fluor 594,",Thermofisher,A-11020,
+,goat anti-mouse,,,
+"Software, algorithm",Proteome,Thermofisher,v2.2.0.388,
+,Discoverer,,,

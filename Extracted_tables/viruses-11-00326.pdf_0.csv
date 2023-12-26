@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7,8
+,,Table 1. RNA polymerase selectivity values for remdesivir-TP nucleotide analogue.,,,,,,
+,RNA,,,,,,,
+,,,EBOV,,RSV,,,h-mtRNAP
+Polymerase,,,,,,,,
+,Substrate,ATP,Remdesivir-TP,ATP,,Remdesivir-TP,ATP,Remdesivir-TP
+Vmax,a (product,0.84 d ± 0.027 e,0.75 ± 0.039,0.76 ± 0.022,,0.82 ± 0.027,0.98 ± 0.018,0.81 ± 0.013
+,fraction),(3%) f,(5%),(3%),,(3%),(2%),(2%)
+,,1.5 ± 0.23,,0.17 ± 0.023,,0.50 ± 0.089,0.050 ± 0.0037,
+Km,b (µM),,5.7 ± 1.1 (19%),,,,,21 ± 0.096 (5%)
+,,(15%),,(14%),,(18%),(7%),
+Vmax/Km,,0.56,0.15,4.5,,1.6,19.6,0.039
+Selectivity c,,,,,,,,
+,,Ref. g,3.8,Ref.,,2.7,Ref.,508
+,(fold),,,,,,,
+a Vmax,,is a Michaelis–Menten parameter reﬂecting the maximal velocity of nucleotide incorporation.,,,,,,b Km is

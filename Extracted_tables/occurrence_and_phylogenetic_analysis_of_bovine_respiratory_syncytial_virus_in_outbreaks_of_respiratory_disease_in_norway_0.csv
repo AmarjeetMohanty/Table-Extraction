@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6
+Table 2 Serological results from animals in herds with outbreak of respiratory disease,,,,,,
+Herd size,Herd no.,Mean age of sampled animals,BRSV infection,BPIV3 infection,BCoV infection,Serological detection
+,,,No. pos/sampled,No. pos/sampled,No. pos/sampled,
+13,20,3.9 yrs,5/5,0/5,0/5,BRSV
+20,1,2.3 yrs,1/2,0/2,0/2,BRSV
+24,21,3.5 yrs,3/3,0/3,0/3,BRSV
+27,16,3.0 mo,4/5,0/5,0/5,BRSV
+51,6,2.2 mo,1/5,0/5,0/5,BRSV
+55,4,1.2 yrs,7/7,0/7,0/7,BRSV
+71,7,1.2 yrs,6/7,0/7,0/7,BRSV
+74,3,1.7 mo,0/4,0/4,4/4,BCoV
+83,11,7.3 mo,3/5,0/5,0/5,BRSV
+95,14,3.8 mo,1/3,0/3,0/3,BRSV
+136,13,4.8 mo,3/3,0/3,1/3,BRSV/BCoV
+171,8,10.5 mo,6/6,0/6,0/6,BRSV
+193,18,7.1 mo,4/5,4/5,2/5,BRSV/BPIV3/BCoV
+210,10,5.5 mo,5/5,0/5,0/5,BRSV
+210,15,3.7 mo,5/5,0/5,1/5,BRSV/BCoV
+220,19,2.7 mo,0/5,0/5,1/5,BCoV
+250,12,5.7 mo,0/3,2/3,0/3,BPIV3
+256,5,1.4 mo,0/5,0/5,0/5,-
+265,17,4.7 mo,5/6,2/6,5/6,BRSV/BPIV3/BCoV
+300,9,1.6 yrs,5/5,3/5,1/5,BRSV/BPIV3/BCoV
+Total,,,64/94,11/94,15/94,

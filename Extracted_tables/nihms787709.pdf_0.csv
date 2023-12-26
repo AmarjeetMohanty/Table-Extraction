@@ -1,0 +1,14 @@
+0,1,2,3,4
+,,Table 1,,
+Diseases with potential RNA vaccines,,,,
+Disease,RNA type,Delivery,Model,Reference
+Cancer,mRNA,Naked,N/A,1
+HIV,RNAi,Lipid Nanoparticles; Subcutaneous,Mouse,2
+Melanoma Cancer,mRNA,Gene Gun,Mouse,3
+Melanoma Cancer,mRNA,Naked; Intradermal injection,Human,4
+Type I Allergy,mRNA,Naked,Mouse,5
+Avian influenza virus,Self-amplifying RNA,Naked; intramuscular,Chicken,6
+Cytomegalovirus,Self-amplifying RNA,Naked; intramuscular or subcutaneous,Human,7
+Flavivirus,Self-replicating viral RNA,Gene gun,Mouse,8
+H7N9 Influenza,Self-amplifying RNA,Lipid Nanoparticles,Mouse,9
+Measles,Self-amplifying RNA,Naked; intradermal,Infant Macaques,10

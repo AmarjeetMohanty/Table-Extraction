@@ -1,0 +1,20 @@
+0,1,2,3,4
+6,,,,Mediators of Inﬂammation
+,,,Table 1: Continued.,
+,Virus/Virus protein,Host pathway,Function,Eﬀect
+,Epstein-Barr virus (EBV),,,
+,late protein,,Suppress NF-κB activation,Inhibit COX-2 activation
+,gp350/gp220,TLR2/CD21,Activate NF-κB,Induce MCP-1 production
+,,,Activate p38 MAPK,Suppress DC function by
+,LMP-1,,,
+,,,(TRAF6-dependent),induced IL-10
+,Human herpesvirus 8 (HHV8),,,
+,vFLIP,,Activate IKK,
+,,,(Bind to IKKγ),
+,,,Degrade IRF7 by,
+,RTA,,,Suppress IFN-α/β production
+,,,proteasome system,
+,Hepatitis B virus,,,
+,,,Activate NF-κB,Induce cytokine
+,e antigen,IL-1 pathway,,
+,,,(Bind to mIL-1RAcP),production

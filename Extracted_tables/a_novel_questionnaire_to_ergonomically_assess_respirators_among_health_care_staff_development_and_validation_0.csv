@@ -1,0 +1,8 @@
+0,1,2,3,4
+T,able 1. Relevance and reliability of the questionnaire data,,,
+Dimension,KMO index,Bartlett,Sig.,Cronbach's alpha
+Training,0.83,2198.6,<0.001,0.86
+Comfort,0.85,1458.4,<0.001,0.88
+Human performance,0.77,482.3,<0.001,0.77
+Mood,0.82,981.5,<0.001,0.86
+Entire questionnaire,0.84,4995.6,<0.001,0.89

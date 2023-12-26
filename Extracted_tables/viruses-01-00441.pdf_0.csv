@@ -1,0 +1,30 @@
+0,1,2,3,4,5,6,7
+,"B. The organism, dilution and the result of the specificity testing for BioT RNA multiplex",,,,,,
+assay.,,,,,,,
+,Concentration of,,,,Target,,
+Organisms,strains,Ebola,Hanta,Lassa,RVF,Dengue,IC
+Human parainfluenza viruses 1,103TCID50 /mL,Neg,Neg,Neg,Neg,Neg,Neg
+Human parainfluenza viruses 2,103TCID50 /mL,Neg,Neg,Neg,Neg,Neg,0.957
+Human parainfluenza viruses 3,103TCID50 /mL,Neg,Neg,Neg,Neg,Neg,Neg
+Influenza A,103TCID50 /mL,Neg,Neg,Neg,Neg,Neg,Neg
+Mycoplasma pneumoniae,104 cells /mL,Neg,Neg,Neg,Neg,Neg,Neg
+Respiratory syncytial virus A,103TCID50 /mL,Neg,Neg,Neg,Neg,Neg,Neg
+Respiratory syncytial virus B,103TCID50 /mL,Neg,Neg,Neg,Neg,Neg,Neg
+Varicella-Zoster virus,103TCID50 /mL,Neg,Neg,Neg,Neg,Neg,Neg
+Human Coronavirus OC43,103TCID50 /mL,Neg,Neg,Neg,Neg,Neg,Neg
+Enterovirus type 71,103TCID50 /mL,Neg,Neg,Neg,Neg,Neg,Neg
+Human Coronavirus 229E,103TCID50 /mL,Neg,Neg,Neg,Neg,Neg,Neg
+Adenovirus type 3,103TCID50 /mL,Neg,Neg,Neg,Neg,Neg,Neg
+Staph pneumoniae,104 cfu /mL,Neg,Neg,Neg,Neg,Neg,Neg
+Staph aureus,103 cfu /mL,Neg,Neg,Neg,Neg,Neg,Neg
+Legionella micdadei,104 cells /mL,Neg,Neg,Neg,Neg,Neg,Neg
+Ebola,104 copies/ml,1.786,Neg,Neg,Neg,Neg,Neg
+Hanta,104 copies/ml,Neg,3.796,Neg,Neg,Neg,Neg
+Lassa,104 copies/ml,Neg,Neg,2.651,Neg,Neg,Neg
+RVF,104 copies/ml,Neg,Neg,Neg,3.259,Neg,Neg
+Dengue 1,10-2 dilution,Neg,Neg,Neg,Neg,2.282,Neg
+Dengue 2,10-2 dilution,Neg,Neg,Neg,Neg,3.943,Neg
+Dengue 3,5x105 TCID50/ml,Neg,Neg,Neg,Neg,4.000,Neg
+Dengue 4,104TCID50 /mL,Neg,Neg,Neg,Neg,3.249,Neg
+Negative control,,Neg,Neg,Neg,Neg,Neg,Neg
+Detection control,,3.502,3.980,2.454,3.903,3.876,4.000

@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7,8
+PLOS ONE,"Table 2. Spring seasonal amplitude of pulmonary TB cases in Wuhan, 2004–2013.",,,,,,,
+Group,,Spring peak/trough month,Seasonal amplitude(%),SE(%),95%CI(%),lower,95%CI(%) upper,Pvalue
+All PTB cases,,Mar/Dec,56.81,6.29,41.93,,71.69,
+"| www.plosone.org
+Period",Year 2004–2008,Mar/Dec,73.17,5.00,59.29,,87.05,0.0011
+,Year 2009–2013,Mar/Dec,40.45,4.40,28.24,,52.66,
+Sex,Male,Mar/Dec,58.01,6.18,43.39,,72.63,0.8311
+,Female,Mar/Dec,55.88,7.65,37.79,,73.97,
+Age(years),0–14,Apr/Dec,91.05,21.73,39.66,,142.44,"0.081"""
+,15–24,Mar/Dec,74.55,6.14,60.03,,89.07,
+,25–44,Apr/Dec,54.74,6.35,39.72,,69.76,
+,45–64,Mar/Dec,56.52,6.34,41.53,,71.51,
+,65+,May/Dec,66.64,10.52,41.76,,91.52,
+Occupation,Peasant,May/Dec,59.37,9.10,37.85,,80.89,"0.003"""
+,Migrant worker,Apr/Dec,76.10,27.53,10.99,,141.21,
+,Worker,Mar/Dec,64.57,8.28,44.99,,84.15,
+,Student,Mar/Dec,113.22,11.39,86.28,,140.16,
+District,Center,Mar/Dec,54.76,6.10,40.33,,69.19,0.7021
+,Far,Mar/Dec,58.47,7.34,41.11,,75.83,
+7,,,,,,,,
+Sputum smear,Positive TB,Mar/Dec,62.22,6.20,47.56,,76.88,0.8481
+,Negative TB,Mar/Dec,60.22,8.22,40.78,,79.66,

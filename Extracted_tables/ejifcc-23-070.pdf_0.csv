@@ -1,0 +1,11 @@
+0,1
+Reaction step,Time / s
+Preincubation with buﬀer,90
+Sample,300
+Incubation,60
+Washing,60
+Secondary antibody,180
+Washing,60
+Detection antibody,180
+Washing,180
+Overall time,18.5 minutes

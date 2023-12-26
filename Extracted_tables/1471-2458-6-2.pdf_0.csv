@@ -1,0 +1,24 @@
+0,1,2,3
+Table 1: Survey response rate,,,
+,Number of samples,Number of responses,%
+Total,2000,1355,67.8
+Gender,,,
+Men,977,609,62.3
+Women,1023,746,72.9
+Age,,,
+20–29,284,175,61.6
+30–39,351,247,70.4
+40–49,369,257,69.6
+50–59,411,282,68.6
+60–69,349,228,65.3
+70≤,236,166,70.3
+Region,,,
+Hokkaido and Tohoku,245,169,69.0
+Kanto (Kanto and Keihin),646,425,65.8
+"Chubu (Koshinetsu, Hokuriku and Tokai)",366,261,71.3
+Kinki (Kinki and Hanshin),325,222,68.3
+"Chugoku, Shikoku and Kyushu",418,278,66.5
+City scale,,,
+14 metropolises*,458,325,71.0
+Other cities,1122,736,65.6
+Towns and villages,420,294,70.0

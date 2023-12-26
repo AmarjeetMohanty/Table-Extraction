@@ -1,0 +1,46 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+(Continued),,,,,,,,,,,,,,,,
+No.,Strain,Accession,Collection,Location,Breed,Gender,Age,Vaccine,Other enteric,CPV,,Substitution of amino acid,,,,
+,,No.,date,,,,,,viruses,type,,residues in VP2 protein of CPV,,,,
+,,,,,,,,,(Accession No.),,,,,,,
+,,,,,,,,,,,297,324,370,419,426,440
+15,HRB-C5,KT074286,Oct-2014,HRB,YT,M,NA,No,—,New2a,Ala,Ile,Gln,Asn,Asn,Ala
+16,HRB-C6,KT074287,Oct-2014,HRB,BF,F,4M,Yes,—,New2a,Ala,Ile,Gln,Asn,Asn,Ala
+17,HRB-C9,KT074289,Oct-2014,HRB,MX,F,3M,Yes,—,New2a,Ala,Ile,Gln,Asn,Asn,Ala
+18,HRB-b5,KT074290,Oct-2014,HRB,NA,NA,3M,No,—,New2a,Ala,Ile,Gln,Asn,Asn,Ala
+19,HRB-bb7,KT074281,Oct-2014,HRB,GM,NA,2M,NA,CCoV,New2a,Ala,Ile,Gln,Asn,Asn,Ala
+,,,,,,,,,"(KT192671),",,,,,,,
+20,HRB-bb8,KT074284,Oct-2014,HRB,SM,F,2M,No,CCoV,New2a,Ala,Ile,Gln,Asn,Asn,Ala
+,,,,,,,,,"(KT192672),",,,,,,,
+,,,,,,,,,CaKV (KT210406),,,,,,,
+21,HRB-dd2,KT074291,Nov-2014,HRB,BD,M,5M,NA,—,New2a,Ala,Ile,Gln,Asn,Asn,Ala
+22,HRB-D4,KT074294,Oct-2014,HRB,YT,F,4M,NA,CCoV (KT192683),New2a,Ala,Ile,Gln,Asn,Asn,Ala
+23,HRB-D8,KT074295,Nov-2014,HRB,YT,M,3.5M,No,—,New2a,Ala,Ile,Gln,Asn,Asn,Ala
+24,HRB-D9,KT074296,Nov-2014,HRB,NA,NA,3.5M,Yes,CaKV (KT210414),New2a,Ala,Ile,Gln,Asn,Asn,Ala
+25,HRB-E0,KT074297,Nov-2014,HRB,NA,F,3.5M,No,—,New2a,Ala,Ile,Gln,Asn,Asn,Ala
+26,HRB-E1,KT074298,Nov-2014,HRB,NA,M,3.5M,Yes,CCoV (KT192686),New2a,Ala,Ile,Gln,Asn,Asn,Ala
+27,HRB-e2,KT074299,Apr-2015,HRB,NA,M,3M,No,,New2a,Ala,Ile,Gln,Asn,Asn,Ala
+28,HRB-E8,KT074300,Nov-2014,HRB,GM,M,3M,Yes,CCoV,New2a,Ala,Ile,Gln,Asn,Asn,Ala
+,,,,,,,,,"(KT192687),",,,,,,,
+,,,,,,,,,CaKV (KT210415),,,,,,,
+29,HRB-F0,KT074301,Feb-2015,HRB,SM,F,4M,Yes,—,New2a,Ala,Ile,Gln,Asn,Asn,Ala
+30,HRB-F4,KT074302,Nov-2014,HRB,NA,M,NA,No,—,New2a,Ala,Ile,Gln,Asn,Asn,Ala
+31,HRB-G4,KT074305,Mar-2015,HRB,YT,F,4M,Yes,—,New2a,Ala,Ile,Gln,Asn,Asn,Ala
+32,HRB-H2,KT074307,Dec-2014,HRB,PD,F,3M,NA,CaKV (KT210423),New2a,Ala,Ile,Gln,Asn,Asn,Ala
+33,HRB-I1,KT074308,Sep-2014,HRB,NA,F,4M,NA,CCoV (KT192697),New2a,Ala,Ile,Gln,Asn,Asn,Ala
+34,HRB-I3,KT074309,Dec-2014,HRB,NA,F,3M,Yes,,New2a,Ala,Ile,Gln,Asn,Asn,Ala
+35,HRB-I4,KT074310,Sep-2014,HRB,SN,M,3.5M,NA,—,New2a,Ala,Ile,Gln,Asn,Asn,Ala
+36,HRB-I8,KT074312,Feb-2015,HRB,MI,M,3M,No,—,New2a,Ala,Ile,Gln,Asn,Asn,Ala
+37,HRB-J1,KT074313,Sep-2014,HRB,NA,M,3M,Yes,—,New2a,Ala,Ile,Gln,Asn,Asn,Ala
+38,HRB-K1,KT074316,Mar-2015,HRB,NA,M,3.5M,Yes,—,New2a,Ala,Ile,Gln,Asn,Asn,Ala
+39,HRB-K3,KT074317,Jan-2015,HRB,NA,F,3M,Yes,CaKV (KT210425),New2a,Ala,Ile,Gln,Ser,Asn,Ala
+40,HRB-G0,KT074304,Dec-2014,HRB,PK,M,4M,Yes,—,New2a,Ala,Ile,Gln,Ser,Asn,Ala
+41,HRB-F8,KT074303,Nov-2014,HRB,PD,M,3M,No,CCoV,New2a,Ala,Ile,Gln,Ser,Asn,Ala
+,,,,,,,,,"(KT192691),",,,,,,,
+,,,,,,,,,CaKV (KT210418),,,,,,,
+42,MDJ-7,KT074259,Nov-2014,MDJ,NA,M,6M,Yes,—,New2a,Ala,Ile,Gln,Asn,Asn,Thr
+43,MDJ-9,KT074260,Dec-2014,MDJ,RC,M,3M,No,—,New2a,Ala,Ile,Gln,Asn,Asn,Thr
+44,MDJ-15,KT074261,Nov-2014,MDJ,RC,F,1.5M,Yes,CBoV (KR998482),New2a,Ala,Ile,Gln,Asn,Asn,Thr
+45,MDJ-18,KT074262,Mar-2015,MDJ,MX,M,3M,Yes,—,New2a,Ala,Ile,Gln,Asn,Asn,Thr
+46,MDJ-20,KT074263,Mar-2015,MDJ,NA,F,3M,Yes,—,New2a,Ala,Ile,Gln,Asn,Asn,Thr
+,,,,,,,,,,,,,,,(Continued),

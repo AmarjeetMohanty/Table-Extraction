@@ -1,0 +1,27 @@
+0,1,2,3,4,5,6
+Influenza cases &,,,Universal sampling,,Targeted sampling,
+serosurvey,,,Viruses,,Bacteria,
+participants,,,,,,
+,,,Influenza real-time PCR,,Urinary antigen,Blood
+,,,,PCR,,
+Subset for,,,"A, B, AH1N1, AH3N2",,testing,culture
+,Sera,,,,,
+heparinised blood,,,,,,
+PBMC,,,,,,
+(Peripheral blood,,,,Pertussis,Legionella,Pneumococcus
+,,influenza PCR,influenza PCR,,,
+mononuclear,,,,,,
+,,negative,positive,,,
+cells),,,,,,
+,,,,Mycoplasma,,Staphylococcus
+,,,,pneumoniae,,Aureus
+,,,"influenza (isolation, HAI",,,
+Measurement of,,PCR:Non-flu resp.,,,,
+,HAI & NAI,,"typing, Sequencing,",Chlamydophila,,
+T-cells and,,"viruses: RSV,",,,,
+,& ELISA,,antiviral),pneumoniae,,Haemophilus
+monocyte,,"PIV1-3, Rhino,",,,,
+,& Serum,,"PCR: RSV, PIV1-3, Rhino,",,,influenza
+populations by,,"hMPV, Adeno",,,,
+,cytokines,,"hMPV, Adeno",,,
+flow cytometry,,,,Chlamydia,,

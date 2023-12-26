@@ -1,0 +1,24 @@
+0,1,2,3,4
+,H type3,A-di,βMan,Galα1-3Lac
+,Type A,Lac,Man-6P,Galα1-3LN
+,Type B,Lec,Inver,Galα1-4LN
+10,Lea,[3’S]Lec,Tn,Melibiose
+11,[3S]Lea,LN,Core 1,αGlc
+12,Leb,[3’S]LN,Core 2,βGlc
+13,Lex,[6S]LN,Core 3,Maltose
+14,Ley,[6’S]LN,Core 4,HA
+15,αNeu5Ac,βGalNAc,Forssman,CSA
+16,αNeu5Gc,di-GalNAcβ,Core 6,CSB
+17,Sia2,LDN,Core 8,HS
+,Sia3,GA2,[3’S]Core 1,HP
+18,,,,
+,3’SiaLec,Asialo-FET,Galβ-Core 3,KS
+19,,,,
+,3’SL,Asialo-AGP,Asialo-BSM,αRha
+20,,,,
+,3’SLN,Asialo-TF,Asialo-GP,Mannan (SA)
+21,,,,
+,sLea,Asialo-TG,STn,Mannan (CA)
+22,,,,
+23,sLex,βGlcNAc,STn(Gc),Zymosan
+24,6’SL,[6S]βGlcNAc,ST,Chitobiose

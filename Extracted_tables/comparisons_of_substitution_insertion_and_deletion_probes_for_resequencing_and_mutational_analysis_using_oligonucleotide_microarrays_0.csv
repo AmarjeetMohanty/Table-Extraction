@@ -1,0 +1,26 @@
+0,1,2,3,4,5
+,Table 2. ATM sequence tracts with lowest mismatch hybridization specificity,,,,
+Positiona,Sequence,Structureb,,,Miscalled
+,,Target,Probe,"Repeat
+type",Probe typec
+Sense,,,,,
+883–892,GCCAAAACCC,S,W,Homopolymer,DEL1
+2543–2552,AGGTGGAGGA,M,W,(TGGAGG)2,INS
+3589–3598d,GTTTCTGAAA,S,S,None,INS
+3699–3708d,TTTTCCTTTT,W,W,Homopyrimidine,INS
+3919–3928,GGGATGGCAC,M,W,None,INS
+4354–4363,GATATAAAAA,W,W,Homopolymer,DEL2
+5752–5761,AGACAAAAGA,M,W,Homopolymer,INS
+5972–5981,AAAAAAGTAA,W,W,Homopolymer,DEL1
+7261–7270,AAAGAGGAAG,M,W,Homopurine,INS
+8274–8283,TCCCCTCTCT,W,W,Homopyrimidine,DEL2
+8339–8348,TTGTTAACAA,M,W,None,DEL2
+8405–8414,AAAAGAAAAT,M,W,Homopurine,DEL1
+9122–9131,ACCCCAAAAA,S,W,Homopolymer,DEL1
+Antisense,,,,,
+633–642,GGAAAAAAAG,S,W,Homopolymer,INS
+822–831,TTCTTTTAAA,S,M,Homopolymer,INS
+2403–2412,CAGGAAAAAG,M,W,Homopurine,INS
+3589–3598d,TTTCAGAAAC,M,S,None,"SUB, DEL1, INS"
+3699–3708d,AAAAGGAAAA,W,W,Homopurine,INS
+8088–8097,TGGTAAATTT,M,W,Homopolymere,DEL1

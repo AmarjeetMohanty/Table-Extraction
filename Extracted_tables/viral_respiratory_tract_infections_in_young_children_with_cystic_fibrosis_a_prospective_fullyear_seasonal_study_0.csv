@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6
+,Table 3 RSV infected patient’s characteristics,,,,,
+Patient number,Age at inclusion (months),Age at RSV infection (months),Requirements for extra-care,,,
+,,,Hospitali-zation/ Oxygen supply,Antibiotics,SABDc,Oral steroids
+1,16.3,22.9,No/No,Yes,Yes,No
+2,8.1,19.6,No/No,Yes,Yes,Yes
+3,4.0,12.8,No/No,Yes,Yes,Yes
+4,2.0,14.1a,No/No,Yes,No,No
+5,2.7,4.5b,No/No,Yes,No,No
+6,3.2,12.3a,No/No,Yes,No,Yes
+aco-infected with RVh,,,,,,

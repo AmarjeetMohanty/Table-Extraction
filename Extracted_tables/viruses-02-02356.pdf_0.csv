@@ -1,0 +1,49 @@
+0,1,2,3,4,5
+,"this table are ubiquitin homologs encoded by poxviruses, as well as MARCH and p28 E3",,,,
+ubiquitin,"ligases,  BTB/kelch  and  Ank/PRANC  proteins",,,that  associate  with  cellular,
+,"ubiquitin ligases, and poxvirus APC/cyclosome regulators.",,,,
+Involvement in,,,,"Length,",VBRC
+,Genus,Virusa,Gene/Protein,,
+Ubiquitination,,,,aa,accessionb
+,Avipoxvirus,CNPV-VR111,96,85,VP0043569
+poxvirus-encoded,Betaentomopoxvirus,AMEV-Moyer,180,81,VP0037620
+ubiquitin homologs,Unclassified,,,,
+,,MSEV-Tuc,144,80,VP0038302
+,Poxviridae,,,,
+,Capripoxvirus,GTPV-Pellor,8,162,VP0044818
+MARCH Poxviral,,,,,
+,,LSDV-Nee,10,162,VP0040213
+E3 Ubiquitin Ligase,,,,,
+,,SPPV-A,8,162,VP0044517
+,Leporipoxvirus,MYXV-Lau,M153,206,VP0038581
+,,RFV-Kas,gp153R,201,VP0038747
+,Suipoxvirus,SWPV-Neb,9,155,VP0040564
+,Yatapoxvirus,TANV-COD,5,156,VP0067544
+,,YLDV-Davis,5,156,VP0040054
+,,YMTV-Amano,4,156,VP0043053
+,Avipoxvirus,CNPV-VR111,205,318,VP0043678
+p28 Poxviral E3,,,,,
+,,,197,275,VP0043670
+Ubiquitin Ligase,,,,,
+,,FWPV-Iowa,157,311,VP0037889
+,,,150,276,VP0037882
+,Capripoxvirus,LSDV-Nee,140,240,VP0040345
+,,SPPV-A,136,240,VP0044645
+,,GTPV-Pellor,127,240,VP0044947
+,Leporipoxvirus,MYXV-Lau,M143,234,VP0038572
+,,,gp143R,,
+,,RFV-Kas,,234,VP0038740
+,,,(N1R),,
+,Orthopoxvirus,CMLV-CMS,14R,242,VP0041112
+,,CPXV-GRI,C7R,242,VP0042678
+,,ECTV-Mos,12,241,VP0040932
+,,MPXV-ZAR,D5R,242,VP0040369
+,,VACV IHD-W,p28,243,c
+,,VARV-BGD75maj,D6Rd,242,VP0038767
+,,RPXV-Utr,8,242,VP0041370
+,Suipoxvirus,SWPV-Neb,138,246,VP0040694
+,Yatapoxvirus,TANV-COD,143R,234,VP0067759
+,,YMTV-Amano,143R,236,VP0043181
+,Unclassified,,,,
+,,DPV-W1170_84,154,245,VP0045437
+,Poxviridae,,,,

@@ -1,0 +1,47 @@
+0,1,2,3,4,5,6
+,,,,,,Anticipating Lab Test Results by Machine Learning
+,"Table 1. PPV, NPV, and key predictors for selected tests.",,,,,
+GLM,,,,,,
+Test,,,PPV,,NPV,Key predictors
+high,anion gap,,0.98,,0.58,anion gap
+high,Bicarbonate,,0.95,,0.76,"bicarbonate, creatinine, heart
+failure"
+high,total calcium,,0.99,,0.73,total calcium
+high,MCV,,0.98,,0.90,MCV
+high,potassium,,0.97,,0.32,potassium
+low,alkaline phosphatase,,0.99,,0.79,alkaline phosphatase
+low,MCV,,0.99,,0.84,MCV
+low,potassium,,0.96,,0.32,potassium
+low,BUN,,0.98,,0.74,"gender, BUN"
+low,WBC,,0.96,,0.84,WBC
+CART,,,,,,
+Test,,PPV,,NPV,,Key predictors
+high,anion gap,0.98,,0.64,,anion gap
+high,bicarbonate,0.95,,0.79,,bicarbonate
+high,total calcium,0.99,,0.67,,total calcium
+high,RDW,0.95,,0.95,,RDW
+high,sodium,0.98,,0.65,,sodium
+high,free T4,0.95,,0.80,,free T4
+high,transferrin,0.98,,0.39,,transferrin
+high,anti-cardiolipin IgG,0.95,,0.50,,"thrombin, PTT, WBC"
+high,free T3,0.96,,0.85,,free T4
+high,prealbumin,0.99,,1.00,,"albumin, PLT"
+high,SSM antibody,0.96,,0.50,,"C3, age"
+high,SSA antibody,0.98,,0.50,,"rheumatoid factor, diffuse diseases of connective tissue"
+low,chloride,0.96,,0.68,,chloride
+low,cortisol,0.96,,0.50,,"cortisol, age, PTT"
+low,MCV,0.99,,0.85,,MCV
+low,PTH,0.96,,0.57,,"PTH,
+total calcium, age"
+low,sodium,0.95,,0.72,,sodium
+low,WBC,0.96,,0.83,,WBC
+low,alpha-1 antitrypsin,0.99,,0.00,,"iron, AST"
+low,ceruloplasmin,0.96,,0.62,,"transferrin,
+INR, WBC"
+low,erythropoietin,0.97,,0.64,,"RBC, PLT,
+lymphocytes, HCT"
+low,"1,25 vitamin D",0.98,,0.14,,"creatinine, PTH, RBC"
+,"The most important key predictors are shown; specifically, those that accounted for at least two-thirds of the predictive power of the rule. Abbreviations: BUN, blood",,,,,
+"urea nitrogen; HCT, hematocrit;","INR,","international normalized ratio; MCV, mean corpuscular volume; PTT, partial",,,,"thromboplastin time; PLT, platelet count; PTH,"
+"parathyroid hormone; RBC,",,"red blood cell count; WBC, white blood cell count.",,,,
+doi:10.1371/journal.pone.0092199.t001,,,,,,

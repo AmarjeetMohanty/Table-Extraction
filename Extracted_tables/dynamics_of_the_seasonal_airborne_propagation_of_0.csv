@@ -1,0 +1,28 @@
+0,1,2,3,4,5,6,7
+,,Dynamics of the seasonal airborne propagation of Staphylococcus aureus in academic dental clinics,,,,,
+Enzyme,,,Compound,,,,
+,,,for staining,,,,
+EC number,Name,Symbol,Substrate,Buffer,Salt,Coenzyme,Dye and Catalyser
+1.1.1.1.,alcohol,ADH,Ethanol (3 mL),200 mM Tris-HCl,,1% NAD,1% PMS (500 mL)
+,dehydrogenase,,Isopropanol,pH 8.0,,(2 mL),1.25% MTT (1 mL)
+,,,(2 mL),(q.s.p. 50 mL)a,,,
+1.1.1.17,mannitol-1-,M1P,Mannitol,200 mM Tris-HCl,,1% NAD,1% PMS (500 mL)
+,phosphate,,1-phosphate,pH 8.0,,(2 mL),1.25% MTT (1 mL)
+,dehydrogenase,,(5 mg),(q.s.p. 50 mL)a,,,
+1.1.1.37.,malate,MDH,2M Malic acid,200 mM Tris-HCl,,1% NAD,1% PMS (500 mL)
+,dehydrogenase,,(6 mL)b,pH 8.0,,(2 mL),1.25% MTT (1 mL)
+,,,,(q.s.p. 50 mL)a,,,
+1.1.1.47,glucose,GDH,D-glucose,200 mM Tris-HCl,,1% NAD,1% PMS (500 mL)
+,dehydrogenase,,(500 mg),pH 8.0,,(2 mL),1.25% MTT (1 mL)
+,,,,(q.s.p. 50 mL)a,,,
+1.1.1.48,D-galactose,GLDH,Galactose,Tris-HCl 100mM,,1% NAD,1% PMS (500 mL)
+,dehydrogenase,,(450 mL),pH 8.4,,(1 mL),1.25% MTT (1 mL)
+,,,,(q.s.p. 50 mL)c,,,
+1.1.1.49,glucose-6-,G6PDH,Glicose-6-,200 mM Tris-HCl,100 mM MgCl2,1% NADP,1% PMS (500 mL)
+,phosphate,,phosphate,pH 8.0,(1 mL)d,(1 mL),1.25% MTT(1 mL)
+,dehydrogenase,,disodium salt,(q.s.p. 50 mL)a,,,
+,,,(100 mg),,,,
+1.11.1.6,catalase,CATe,,,,,
+3.1.1.1.,a- and b-,EST,a- and b-,50 mM Sodium,,,Fast Blue RR salt
+,esterase,,Naphthyl,phosphate pH 6.0,,,(25 mg)
+,,,acetate (1%,(q.s.p. 50 mL)f,,,

@@ -1,0 +1,41 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12
+,Table 1 Characteristics and thermocycling conditions for 11 polymorphic microsatellites in the African leaf-nosed bat,,,,,,,,,,,
+,Hipposideros aff. ruber,,,,,,,,,,,
+,,Repeat,,,,,,,,,,
+Locus,Accession #,,Primer sequences (5′ – 3′),MgCl2/PFR,Ta (°C),Size (bp),N,NA,HO,HE,HWE,PNULL
+,,motif,,,,,,,,,,
+,,,F:TGGCAAGGTTAACACGAACC,,,,,,,,,
+Hr1,KM370156,(GATA)13,,2.0 mM/0.5 μM,60-50,238-258,38,6,0.74,0.79,ns,0.028
+,,,R:TCTCCCTCCCGCTCTTATCT,,,,,,,,,
+,,,F:GAAGCACTGCTGGAAAGGTT,,,,,,,,,
+Hr2,KM370157,(TCTT)15,,2.0 mM/0.25 μM,60-50,311-339,34,8,0.77,0.76,ns,−0.009
+,,,R:GTTGAACTGGGTGGCCTTTA,,,,,,,,,
+,,,F:TGGGTGTTTCAGTTTCATGC,,,,,,,,,
+Hr5,KM370160,(GAAG)14,,2.0 mM/0.5 μM,65-55,186-234,34,9,0.82,0.82,ns,−0.006
+,,,R:TGGTCTATTTGTTTCCTTCCGTA,,,,,,,,,
+,,,F:GGGTTTCTTCAAATGTGTTTTC,,,,,,,,,
+Hr6,KM370161,(TCTT)13,,2.0 mM/0.5 μM,55-47,204-240,37,8,0.70,0.73,ns,0.012
+,,,R:GCCTCCAAGACAAACAGAGG,,,,,,,,,
+,,,F:AGCCAATGACAAGACTGCCTA,,,,,,,,,
+Hr7,KM370162,(ATTT)11,,2.0 mM/0.5 μM,65-55,144-172,33,8,0.42,0.68,***,0.173
+,,,R:CCAGTGAAGCAACGTCCTCT,,,,,,,,,
+,,,F:CTCAGCCCAAAGTCAAGGAG,,,,,,,,,
+Hr8,KM370163,(ATCT)12,,2.0 mM/0.5 μM,60-50,221-241,36,6,0.72,0.68,ns,−0.042
+,,,R:TGGCTATACGAATACAAAGATTAGACA,,,,,,,,,
+,,,F:TGCTATCTTCCATGAGGTCAGA,,,,,,,,,
+Hr9,KM370164,(TCTA)12,,2.0 mM/0.5 μM,60-50,218-234,38,5,0.63,0.73,ns,0.061
+,,,R:TCTCTGTTGCTGAAGGAAAACTT,,,,,,,,,
+,,,F:TCCACTGGAGTAAGAGATGTGTG,,,,,,,,,
+Hr10,KM370165,(TTAT)11,,2.0 mM/1.0 μM,65-55,258-282,38,7,0.79,0.74,ns,−0.040
+,,,R:GCACTGCAACAGTGAAAAGC,,,,,,,,,
+,,,F:CTCTTGCAATGAAGGCAATG,,,,,,,,,
+Hr11,KM370166,(TTTC)14,,2.0 mM/0.5 μM,65-55,106-154,37,12,0.87,0.86,ns,−0.018
+,,,R:CTGCCATGAGCTACCATGAG,,,,,,,,,
+,,,F:TTGGTTTTCAGATCTTCTGGTG,,,,,,,,,
+Hr12,KM370167,(GATA)12,,2.5 mM/0.5 μM,60-50,277-293,38,4,0.42,0.60,**,0.140
+,,,R:GAGTCTTCTGCCTGCTGGAC,,,,,,,,,
+,,,F:CCGAAGCCAATCTGGTTTTA,,,,,,,,,
+Hr13,KM370168,(TTTC)13,,2.0 mM/1.0 μM,65-55,321-329,34,2,0.00,0.06,ns,0.157
+,,,R:GGGTCCTGCAGAAACACACT,,,,,,,,,
+,"PFR forward and reverse primer concentration, Ta annealing temperatures of touchdown cycles (see Methods), N number of",,,,,,,"individuals, NA number of alleles,",,,,
+"HO observed heterozygosity, HE expected heterozygosity, HWE probability of deviation from Hardy-Weinberg equilibrium, PNULL null allele frequency estimate",,,,,,,,,,,,

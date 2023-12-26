@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6,7,8,9,10
+,,,,,,,,Respiratory Co-Infections in Shanghai Children,,
+,Table 4. Seasonal detection of,,five genre of viruses.,,,,,,,
+,hEV,,RSV A/B,,hRV,,IAV/IBV,,PIV1–4,
+Season,,,,,,,,,,
+,(+),(-),(+),(-),(+),(-),(+),(-),(+),(-)
+Spring,1,21,0,22,4,18,3,19,15,7
+Summer,14,75,6,83,21,68,25,64,44,45
+Fall,0,24,3,21,11,13,1,23,6,18
+Winter,0,29,10,19,1,28,8,21,5,24
+x2,9.477,,16.031,,13.999,,8.080,,18.473,
+P,0.012,,0.000,,0.003,,0.040,,0.000,
+"‘‘+’’: numbers for positive samples,",,,‘‘2’’: numbers for negative samples.,,,,,,,
+doi:10.1371/journal.pone.0044568.t004,,,,,,,,,,

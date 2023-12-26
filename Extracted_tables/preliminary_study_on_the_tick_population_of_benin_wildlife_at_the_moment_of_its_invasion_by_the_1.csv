@@ -1,0 +1,24 @@
+0,1,2,3,4,5,6,7,8
+Table-4: Average number of ticks and standard error per tick and animal species.,,,,,,,,
+Animal species,Statistics,,,,Tick species,,,
+,,Av,Bd,Rm,Bsp,Hsp,Rsa,Rsp
+wildcat,Avg.,-,-,-,-,-,-,6
+,SE,-,-,-,-,-,-,-
+Cane rat,Avg.,8,-,-,-,3,4,5
+,SE,-,-,-,-,-,-,1
+Doe,Avg.,-,-,-,-,-,6,-
+,SE,-,-,-,-,-,-,-
+Buffalo,Avg.,2,2,7,-,3.5,-,9
+,SE,-,0,2.08,-,0.5,-,-
+Buffon cobe,Avg.,-,2,-,-,-,-,3
+,SE,-,-,-,-,-,-,-
+Cricetoma,Avg.,-,-,-,6,3,3,4
+,SE,-,-,-,-,-,-,0
+Bushbuck,Avg.,-,-,4,3,-,-,3.5
+,SE,-,-,1.53,-,-,-,0.96
+Hare,Avg.,-,-,5,3,-,6.5,-
+,SE,-,-,1,-,-,2.9,-
+Warthog,Avg.,-,-,-,3,3,-,5
+,SE,-,-,-,-,1,-,-
+,Prob.,0.317,-,0.2101,0.391,0.654,0.199,0.495
+"SE=Standard error, Prob.=Probability of the significance of the Kruskal–Wallis test at only 5%. Av=Amblyomma",,,,,,,,

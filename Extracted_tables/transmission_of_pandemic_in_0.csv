@@ -1,0 +1,26 @@
+0,1,2,3,4,5
+Table 1.,"Characteristics of conﬁrmed 2009 H1N1 cases associated with train 1223, China, 2009",,,,
+Case No.,Sex/Age,Time of onset,Relationship,Car No.,Destination
+1,Female/20,6-9-09 11:00 AM,Passenger,12,Guangzhou
+2,Male/21,6-10-09 3:00 AM,Passenger,12,Guangzhou
+3,Female/36,6-10-09 5:00 AM,Crew,12,Liupanshui
+4,Female/22,6-10-09 11:00 AM,Crew,12,Liupanshui
+5,Female/21,6-10-09 11:30 AM,Passenger,12,Guangzhou
+6,Male/49,6-10-09 11:30 AM,Passenger,12,Guangzhou
+7,Female/23,6-10-09 4:00 PM,Crew,11,Chengdu
+8,Female/27,6-10-09 9:00 PM,Crew,Supervisor,Chengdu
+9,Female/23,6-11-09 12:00 PM,Crew,11,Chengdu
+10,Female/25,6-12-09 12:00 PM,Passenger,14,Liuzhou
+11,Male/40,6-12-09 12:00 PM,Passenger,11,Dujun
+12,Male/22,6-12-09 1:00 AM,Contact of Case 2,—,Guangzhou
+13,Male/18,6-13-09 12:00 PM,Contact of Case 5,—,—
+14,Female/34,6-13-09 12:00 PM,Passenger,11,Dujun
+15,Female/29,6-13-09 10:00 AM,Contact of Case 2,—,—
+16,Male/38,6-14-09 12:00 PM,Passenger,14,Liuzhou
+17,Male/17,6-15-09 12:00 PM,Contact of Case 13,—,—
+18,Male/18,6-15-09 12:00 PM,Contact of Case 13,—,—
+19,Female/36,6-16-09 12:00 PM,Contact of Case 15,—,—
+20a,Male/18,6-17-09 17:00 PM,Contact of Case 5,—,—
+21a,Male/18,6-17-09 17:00 PM,Contact of Case 13,—,—
+22a,Male/51,6-17-09 17:00 PM,Contact of Case 13,—,—
+aAsymptomatic case.,,,,,

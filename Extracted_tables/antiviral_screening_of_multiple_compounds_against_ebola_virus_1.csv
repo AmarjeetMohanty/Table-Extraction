@@ -1,0 +1,27 @@
+0,1,2,3,4,5,6,7
+,Table 2. Changes in EBOV RNA levels and cell health in MRC-5 and VeroE6 cells treated after infection,,,,,,
+,with compounds at the recommended concentrations.,,,,,,
+,,,MRC-5,,,VeroE6,
+Name,Concentration,,,,,,
+,,Ct Difference 1,,Cell Appearance 2,Ct Difference,,Cell Appearance
+Ouabain,20 nM,3.48 ± 0.21,,x,−3.73 ± 4.88,,x
+17-DMAG,5 µM,3.72 ± 0.18,,x,−0.63 ± 1.39,,x
+,,,,(cid:51),,,(cid:51)
+BGB324,3 µM,3.05 ± 0.75,,,−1.83 ± 1.13,,
+,,,,(cid:51),,,(cid:51)
+Zidovudine,5 µM,−3.12 ± 0.27,,,−7.91 ± 2.67,,
+,,,,(cid:51),,,(cid:51)
+Didanosine,5 µM,−0.43 ± 3.87,,,−2.52 ± 1.27,,
+,,,,(cid:51),,,(cid:51)
+Stavudine,5 µM,−2.87 ± 0.22,,,−3.93 ± 0.25,,
+,,,,(cid:51),,,(cid:51)
+Abacavir sulphate,5 µM,−1.54 ± 3.26,,,−3.95 ± 2.69,,
+,,,,(cid:51),,,(cid:51)
+Entecavir,5 µM,−3.08 ± 0.20,,,−4.44 ± 1.11,,
+,,,,(cid:51),,,(cid:51)
+JB1a,2 µg/mL,−4.02 ± 0.13,,,−5.48 ± 0.50,,
+Omeprazole,100 µM,1.35 ± 1.35,,x,2.21 ± 1.08,,x
+Esomeprazole,,,,,,,
+,75 µM,1.05 ± 0.79,,x,1.62 ± 0.36,,x
+magnesium,,,,,,,
+Gleevec,20 µM,3.60 ± 0.63,,x,3.49 ± 0.54,,x

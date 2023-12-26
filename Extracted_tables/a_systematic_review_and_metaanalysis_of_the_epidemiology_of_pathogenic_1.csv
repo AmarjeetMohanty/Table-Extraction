@@ -1,0 +1,10 @@
+0,1,2,3,4,5,6,7,8,9
+"TABLE 3 | Data about EPEC, STEC, EHEC.",,,,,,,,,
+Pathotype,,EPEC,,,STEC,,,EHEC,
+Group,Isolates,Isolates,Number of,Isolates,Isolates,Number of,Isolates,Isolates,Number of
+,tested,positive,publications,tested,positive,publications,tested,positive,publications
+Diarrheic,9448,709,27,3248,592,36,9014,545,31
+Healthy,2629,383,19,3147,610,28,4120,442,27
+Mixed,0,0,0,130,66,1,130,64,1
+Unknown,169,0,3,1528,386,10,562,146,5
+Total,12246,1092,37,8053,1654,61,13826,1197,50

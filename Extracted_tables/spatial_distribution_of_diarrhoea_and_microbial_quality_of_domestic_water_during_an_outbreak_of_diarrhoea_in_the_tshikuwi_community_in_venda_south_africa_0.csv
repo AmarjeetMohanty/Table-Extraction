@@ -1,0 +1,21 @@
+0,1,2,3,4,5
+Table. Microbial quality of domestic water collected from three sources used by residents of the Tshikuwi,,,,,
+,"community, South Africa, during an outbreak of diarrhoea",,,,
+,,Faecal coliform,Total coliform,Enterococci,Heterotroph
+,,(cfu/100 mL),(cfu/100 mL),(cfu/100 mL),(cfu/1 mL)
+,Date of water,,,,
+Water source,,*Limit for no,Limit for no,Limit for,Limit for no
+,sampling,,,,
+,,risk=,risk=,no risk= 0-5,risk=
+,,0 cfu/100 mL,0-5 cfu/100 mL,cfu/100 mL,0-100 cfu/mL
+Tank 1,6 July 2006,50.5±5.0,334.0±8.5,25.0±5.0,1.02x103
+,29 July 2006,5.5±2.1,30.0±5.7,8.5±2.0,3.8x102
+,2 October 2006,13.0±1.4,36.5±6,6.0±5.0,4.2x103
+Tank 2,6 July 2006,0,0,0,7.8x102
+,29 July 2006,0,0,0,5
+,2 October 2006,0,0,0,50
+Khandanama,,,,,
+river,6 July 2006,107.0±12.7,388.0±29.7,63.5±6.4,6.1x103
+,29 July 2006,112.0±11.3,397.0±23.3,45.0±4.2,2.4x104
+,2 October 2006,35.0±4.2,387.0±15.6,56.0±5.7,2.6x104
+,"Water samples were analyzed in duplicate. The values for faecal coliforms, total coliforms, and entero-",,,,

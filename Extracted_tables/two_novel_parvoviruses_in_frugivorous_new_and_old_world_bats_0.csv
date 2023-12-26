@@ -1,0 +1,37 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13
+,concentration,,ranging,from 8.3E+03,to,4.87E+08,,copies/ml.,,detected in the bat,species Artibeus,,lituratus belonged to the type 1
+Seven,of,the,Aj-BtPV-1-positive,,animals,belonged,,to,the,cluster.,,,
+,Table 2.,,Identity ranges (%) of,,the 3 ORFs both at amino acid (bold) and nucleotide level between species in the PARV4-like,,,,,,,,
+,virusesa.,,,,,,,,,,,,
+,,,Eh-BtPV-1,,PARV4-g1,,,PARV4-g2,,PARV4-g3,ChimpPTV,PHoV,BHoV
+,Eh-BtPV-1,,,,,,,,,,,,
+ORF1,,,-,41.4,,,41.1,,,41.3,41.8,43.8,42.4
+ORF2,,,-,50.7,,,50.3,,,50.5,49.7,50.2,48.6
+MARF,,,-,45.4,,,45.4,,,45.4,46.7,45.3,43.5
+,PARV4-g1,,,,,,,,,,,,
+ORF1,,,48.5,-,,,96.8,,,96.5,90.9,54,56.3
+ORF2,,,56.2,-,,,98.6,,,98.4,93.2,65.4,65.4
+MARF,,,59.4,-,,,100,,,100,97,48.2,47.6
+,PARV4-g2,,,,,,,,,,,,
+ORF1,,,48.8,90.9,,,-,,,97.1,91.5,54.3,56.5
+ORF2,,,55.1,93.4,,,-,,,98,93.2,65.2,65.4
+MARF,,,58.9,99.5,,,-,,,100,97,48.2,47.6
+,PARV4-g3,,,,,,,,,,,,
+ORF1,,,48,89.6,,,89.2,,,-,90.7,53.9,56.8
+ORF2,,,55.7,93.6,,,92.9,,,-,92.9,65.1,64.9
+MARF,,,59.4,100,,,99.5,,,-,97,48.2,47.6
+,ChimpPTV,,,,,,,,,,,,
+ORF1,,,48.5,81.2,,,82,,,79.8,-,54.6,56.3
+ORF2,,,54.9,85,,,84.7,,,84.5,-,64.5,64.9
+MARF,,,59.8,98.5,,,98,,,98.5,-,48.2,47.6
+PHoV,,,,,,,,,,,,,
+ORF1,,,46.5,55.1,,,55.3,,,54.7,55.6,-,67.7
+ORF2,,,53.1,62.9,,,62.9,,,63,63.4,-,66.1
+MARF,,,60.1,59.3,,,59.3,,,59.3,59.3,-,71.7
+BHoV,,,,,,,,,,,,,
+ORF1,,,47.6,57.1,,,57.7,,,56.7,57.9,62.4,-
+ORF2,,,52.6,63.8,,,63.5,,,63.4,63.3,64.2,-
+MARF,,,61.2,60.3,,,60.3,,,60.3,60,79.4,-
+,"aEh-BtPV-1 (Eidolon helvum Bat Parvovirus 1), PARV4-g1/3 (Human Parvovirus 4 genotypes 1, NC_007018, 2, DQ873391, 3, EU874248), ChimpPTV (Chimpanzee PARV4,",,,,,,,,,,,,
+,"HQ113143), PHoV (Porcine Hokovirus, EU200673), BHoV (Bovine Hokovirus, EU200670).",,,,,,,,,,,,
+,doi:10.1371/journal.pone.0029140.t002,,,,,,,,,,,,

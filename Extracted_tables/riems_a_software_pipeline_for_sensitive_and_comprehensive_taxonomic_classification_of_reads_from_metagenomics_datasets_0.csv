@@ -1,0 +1,38 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+Table 2 Results of RIEMS validation using our simulated sample dataset with original (upper half) and deviating (lower half) sequences,,,,,,,,,,,
+Input species,True,False,True,False,Unclassified,Sensitivity,Specificity,Positive predictive,Negative,Correct classification,False classification
+,positive,positive,negative,negative,,,,value,predicitive value,rate,rate
+Original,,,,,,,,,,,
+sequences,,,,,,,,,,,
+Bacillus anthracis,12774,731,76880,0,0,100,99.06,94.59,100,99.19,0.81
+Burkholderia,16092,102,74129,62,0,99.62,99.86,99.37,99.92,99.82,0.18
+mallei,,,,,,,,,,,
+Clostridium,12300,0,77649,436,0,96.58,100,100,99.44,99.52,0.48
+botulinum,,,,,,,,,,,
+Staphylococcus,12425,0,77678,282,0,97.78,100,100,99.64,99.69,0.31
+aureus,,,,,,,,,,,
+Escherichia coli,12289,0,77761,335,0,97.35,100,100,99.57,99.63,0.37
+Yersinia pestis,12551,0,77788,46,0,99.63,100,100,99.94,99.95,0.05
+Newcastle,418,0,89967,0,0,100,100,100,100,100,0
+disease virus,,,,,,,,,,,
+Akabane virus,119,0,90266,0,0,100,100,100,100,100,0
+Influenza A virus,1,0,90384,0,0,100,100,100,100,100,0
+Bos taurus,4906,0,85476,3,2,99.94,100,100,100,100,0
+Canis lupus,5346,0,85039,0,0,100,100,100,100,100,0
+Deviating,,,,,,,,,,,
+sequences,,,,,,,,,,,
+Bacillus anthracis,12762,633,76978,12,0,99.91,99.18,95.27,99.98,99.29,0.71
+Burkholderia,16055,79,74152,99,0,99.39,99.89,99.51,99.87,99.8,0.2
+mallei,,,,,,,,,,,
+Clostridium,12358,1,77648,378,0,97.03,100,99.99,99.52,99.58,0.42
+botulinum,,,,,,,,,,,
+Staphylococcus,12484,1,77677,223,0,98.25,100,99.99,99.71,99.75,0.25
+aureus,,,,,,,,,,,
+Escherichia coli,12400,0,77761,224,1,98.23,100,100,99.71,99.75,0.25
+Yersinia pestis,12529,0,77788,68,1,99.46,100,100,99.91,99.92,0.08
+Newcastle,418,0,89967,0,0,100,100,100,100,100,0
+disease virus,,,,,,,,,,,
+Akabane virus,119,0,90266,0,0,100,100,100,100,100,0
+Influenza A virus,1,0,90384,0,0,100,100,100,100,100,0
+Bos taurus,4887,0,85476,22,5,99.55,100,100,99.97,99.98,0.02
+Canis lupus,5346,0,85039,0,0,100,100,100,100,100,0

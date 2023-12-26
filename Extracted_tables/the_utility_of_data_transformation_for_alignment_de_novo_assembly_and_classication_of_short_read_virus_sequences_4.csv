@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+,data files. The plot depicts the F-measures obtained for each aligner on the mixed virus simulations.,,,,,,,,,,,,,
+"Viruses 2019, 11, 394",DFT:  discrete  Fourier  transform;  DWT:  discrete  wavelet  transform;  PAA:  piece-wise  aggregate,,,,,,,,,,,,,14 of 22
+,approximation.,,,,,,,,,,,,,
+i),,Norovirus,,,ii),,Ebola,,,iii),,Respiratory Syncytial Virus,,
+1.00,,,,,1.00,,,,,1.00,,,,
+0.80,,,,,0.96,,,,,,,,,
+,,,,,,,,,,0.80,,,,
+0.60,,,,,0.92,,,,,,,,,
+,,,,,,,,,,0.60,,,,
+0.40,,,,,0.88,,,,,,,,,
+,,,,,,,,,,0.40,,,,
+0.20,,,,,0.84,,,,,,,,,
+,,,,,0.82,,,,,0.20,,,,
+ERR225628,ERR225629,ERR225631,ERR225632,ERR225633,SRR3107337.1,SRR3107338.1,SRR3107340.1,SRR3107342.1,SRR3107343.1,,,,,
+,,,,,,,,,,ERR303259,ERR303260,ERR303261,ERR303262,ERR303264

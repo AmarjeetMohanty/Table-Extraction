@@ -1,0 +1,39 @@
+0,1,2,3,4,5,6
+,African,,Chagas,,,
+,,Babesiosis,,Leishmaniasis,Malaria,Toxoplasmosis
+,trypanosomiasis,,disease,,,
+,Trypanosoma,Babesia,Trypanosoma,Leishmania,Plasmodium,Toxoplasma
+,brucei,microti,cruzi,species,species,gondii
+MICROSCOPY,[23],[10],[11],[12],[13],—
+SEROLOGY-,,,,,,
+BASED,—,—,—,—,—,—
+ASSAYS,,,,,,
+ELISA,"[24, 25]",[26],[27–30],—,—,[31]
+FAST-ELISA,—,—,—,—,"[32, 33]",—
+Dot-ELISA or,,,,,,
+,[34],—,[35],"[2, 18]",—,—
+Dipstick,,,,,,
+RIPA-ELISA,—,—,"[36, 37]",—,—,—
+DHA or IHA,[38],—,—,[18],—,—
+DFA or IFA,[39],"[40, 41]",—,—,[42],[43]
+Immunoblot,—,—,"[44, 45]",—,—,[46]
+PRISM,—,—,[47],—,—,—
+RDT,—,—,[48],—,[49],—
+MOLECULAR-,,,,,,
+BASED,—,—,—,—,—,—
+ASSAYS,,,,,,
+PCR,[23],"[50, 51]",[52–54],[55],[56],"[57, 58]"
+RT-PCR,[59],—,—,[60–62],"[4, 56]",[63]
+QT-NASBA,—,—,—,[64],"[65, 66]",—
+RT-QB-NASBA,—,—,—,—,[67],—
+LAMP,[68],—,[69],—,[70–74],—
+Luminex,—,—,—,—,[75],—
+PCR-ELISA,—,—,—,"[62, 76]",[77–79],—
+OC-PCR,[80],—,—,[81],—,—
+PROTEOMICS,—,—,—,—,—,—
+Mass,,,,,,
+Spectrometry,,,,,,
+"(LDMS,","[82, 83]",—,—,—,[84–86],—
+"MALDI-TOF,",,,,,,
+SELDI-TOF),,,,,,
+FAST-ELISA: Falcon assay screening test; RIPA-ELISA: radioimmunoprecipitation assay; DHA or IHA: direct or indirect hemagglutination assay; DFA or,,,,,,

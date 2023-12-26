@@ -1,0 +1,48 @@
+0,1,2,3,4,5,6,7
+,,,Table 1: Continued.,,,,
+,Inpatient,,,,NYHA,Disease,Followup
+Author Name,,Course,Experiment group,Control group,,,
+,(Y/N),,,,classiﬁcation,duration,(month)
+,,,Conventional medicine,"Metoprolol 12.5 mg,",,,
+Fan [60],Y,21 d,"treatment plus SFI 60 mL, qd,","bid, po, +captopril",II–IV,Unclear,No
+,,,iv.gtt,"12.5 mg, tid, po",,,
+,,,Conventional medicine,,,,
+,,,,Conventional,,,
+Fan et al. [101],Unclear,14 d,"treatment plus SFI 40 mL, qd,",,II–IV,Unclear,No
+,,,,medicine treatment,,,
+,,,iv.gtt,,,,
+,,,Conventional medicine,,,,
+,,,,Conventional,,,
+Geng et al. [27],Both,12 d,"treatment plus SFI 60 mL, qd,",,III-IV,0.5–9 y,No
+,,,,medicine treatment,,,
+,,,iv.gtt,,,,
+,,,Conventional medicine,,,,
+,,,,Conventional,,,
+Gu et al. [69],Y,14 d,"treatment plus SFI 100 mL, qd,",,II–IV,1.5–12 y,No
+,,,,medicine treatment,,,
+,,,iv.gtt,,,,
+,,,Conventional medicine,,,,
+,,,,Conventional,,,
+Guo et al. [49],Unclear,14 d,"treatment plus SFI 60 mL, qd,",,III-IV,Unclear,No
+,,,,medicine treatment,,,
+,,,iv.gtt,,,,
+,,,Conventional medicine,Conventional,,,
+,,,"treatment plus SFI 20 mL, iv +",medicine treatment,,,
+Guo et al. [23],N,7 d,"50 mL, qd, iv.gtt plus non",plus non invasive,Unclear,Unclear,No
+,,,invasive positive pressure,positive pressure,,,
+,,,ventilation,ventilation,,,
+,,,Conventional medicine,Conventional,,,
+,,,"treatment plus SFI 40–60 mL,",medicine treatment,,,
+Guo et al. [102],Y,7 d,,,IV,Unclear,No
+,,,"qd, iv.gtt plus invasive",plus invasive,,,
+,,,respiratory support,respiratory support,,,
+,,,Conventional medicine,,,,
+,,,,Conventional,,,
+Han and Li [36],Y,15 d,"treatment plus SFI 50 mL, qd,",,III-IV,4.54 ± 2.1 y,No
+,,,,medicine treatment,,,
+,,,iv.gtt,,,,
+,,,Conventional medicine,,,,
+,,,,Conventional,,,
+He [70],Unclear,14 d,"treatment plus SFI 40 mL, qd,",,II–IV,1–14 y,No
+,,,,medicine treatment,,,
+,,,iv.gtt,,,,

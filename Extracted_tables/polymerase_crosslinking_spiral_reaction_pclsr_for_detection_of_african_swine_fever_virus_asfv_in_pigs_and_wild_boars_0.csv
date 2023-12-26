@@ -1,0 +1,23 @@
+0,1,2,3,4
+Case (C) or (O),Localisation,Localisation,Collection,Sample origin
+outbreak number,(nearest town),(county),date,"(D-dead, H-hunted wild boar)/tissue"
+C5,Słoja,Sokółka,24.06.2014,D/spleen
+C16,Straszewo,Białystok,22.09.2014,H/blood
+C17,Nowosady Kolonia,Białystok,04.10.2014,D/blood and kidney
+C21,Wiejki,Białystok,21.11.2014,D/blood and spleen
+C36,Wierzchlesie,Białystok,13.02.2015,D/bone
+C39,kolonia Bachury,Białystok,02.03.2015,D/bone
+C39,kolonia Bachury,Białystok,02.03.2015,D/bone
+C42,Bielewicze,Białystok,15.03.2015,D/blood and spleen
+C44,Kolonia Cisówka,Białystok,25.03.2015,D/bone
+C60,Dzierniakowo,Białystok,13.05.2015,D/lung
+C61,Nowosady,Białystok,20.05.2015,D/spleen
+C64,Planty,Białystok,1.06.2015,D/bone
+C66,Babia Góra,Hajnówka,25.06.2015,D/bone
+C69,Załuki,Białystok,02.07.2015,D/bone
+C72,Szudziałowo,Sokółka,14.07.2015,D/bone
+C73,Białowieża,Hajnówka,20.07.2015,H/blood
+C75,Pogorzelce,Hajnówka,13.08.2015,D/bone
+O1,Zielona,Białystok,19.07.2014,D/spleen
+O2,Józefowo,Białystok,06.08.2014,D/spleen
+O3,Puciłki,Sokółka,27.01.2015,D/spleen

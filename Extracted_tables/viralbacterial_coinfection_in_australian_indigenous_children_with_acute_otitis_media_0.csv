@@ -1,0 +1,24 @@
+0,1,2,3,4,5,6,7
+,"(FLUA and B, PIV 1,2 and 3, HMPV, RSV and EV)",,,greater when examined by presence or absence of any,,,
+Table 1 Data description by clinical ear state,,,,,,,
+Variable,Total,Normal,OME,AOM,AOMwiP,P,
+Number of kids,114,-,-,-,-,na,
+"Number of swabs (% of
+total)",366,18(5),175(48),115(31),58(16),na,
+Mean age months (median),8.0,5.4 (3.4),7.2 (6.6),"8.
+(7.7)",8.5 (8.1),<0.001,*
+Bacteria detection (% of total),,,,,,,
+Any bacteria,366(100),18(100),175(100),115(100),58(100),na,**
+Spn,327(89),11(61),155(89),109(95),52(90),<0.001,**
+Hinf,333(91),16(89),155(89),110(96),52(90),0.211,**
+Mcat,351(96),14(78),167(95),113(98),57(98),<0.001,**
+Virus detection (% of total),,,,,,,
+Any virus,228(62),12(67),102(58),78(68),36(62),0.416,**
+Total virus (virus:swab(+)ratio),312(1.37),14(1.17),134(1.31),117(1.51),47(1.31),0.120,**
+HBoV,28(8),0(0),14(8),10(9),4(7),0.627,**
+HPyV,50(14),6(33),20(11),19(17),5(9),0.034,**
+HAdV,49(13),1(6),13(7),22(19),13(22),0.003,**
+HRV,139(38),5(28),69(39),47(41),18(31),0.467,**
+HCoV,14(4),0(0),7(4),5(4),2(3),0.840,**
+Other,32(9),2(11),11(6),14(12),5(9),0.369,**
+P shows the significance of,the values across all ear states using either,the:,"(*) Kruskal-Wallis equality-of-populations rank test, or",,,the (**) Chi-square test.,

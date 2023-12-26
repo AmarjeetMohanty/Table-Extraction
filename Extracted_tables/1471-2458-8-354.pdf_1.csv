@@ -1,0 +1,9 @@
+0,1,2,3,4,5,6
+,,1st visit,,,2nd visit,
+Level of Health facility,Total(n = 109),Men(n = 56),Women(n = 53),Total(n = 34),Men(n = 17),Women(n = 17)
+,n (%),n (%),n (%),n (%),n (%),n (%)
+County hospital or upper level,14(12.8),9(16.1),5(9.4),6(17.6),6(35.3),0(0)
+County TB dispensary,0(0),0(0),0(0),1(2.9),0(0),1(5.9)
+Town hospital,30(27.5),17(30.4),13(24.5),9(26.5),4(23.5),5(29.4)
+Village clinic,51(46.8),25(44.6),26(49.1),14(41.2),6(35.3),8(47.1)
+Drugstore,14(12.8),5(8.9),9(17.0),4(11.8),1(5.9),3(17.6)

@@ -1,0 +1,46 @@
+0,1,2,3,4,5
+,,,,Linear Mixed Model,
+,,,Each Pathogen,Shedding of at,Shedding of at
+,Fecal IgA,,Evaluated,Least One Parasite,Least One
+,Concentration,Initial Unadjusted,Individually,or One Virus,Pathogen
+Variables,Median [Range],Analysis (P-Value),(P-Value),(P-Value),(P-Value)
+Age,,,,,
+5–6 weeks,2.3 [0.3–22.7],.003,–,–,–
+7–8 weeks,5.5 [0.1–24.2],,.971,.506,.489
+9–11 weeks,4.1 [0.2–27.2],,.375,.193,.176
+Breed size,,,,,
+Small,5.7 [0.14–19.2],.019,.091,.138,.197
+Large,3.9 [0.1–27.2],,,,
+Fecal score,,,,,
+Normal,4.4 [0.1–27.2],.891,–,–,–
+Abnormal,5.4 [0.3–21.9],,,,
+Giardia,,,,,
+No shedding,4.9 [0.1–27.2],.816,.127,–,–
+Shedding,4.3 [0.1–22.7],,,,
+Cystoisospora ohioensis,,,,,
+No shedding,4.5 [0.1–27.2],.126,.333,–,–
+Shedding,4.5 [0.1–20.8],,,,
+Cystoisospora canis,,,,,
+No shedding,4.4 [0.1–27.2],.048,.021,–,–
+Shedding,5.5 [0.2–22.7],,,,
+Toxocara canis,,,,,
+No shedding,4.8 [0.1–27.2],.165,.415,–,–
+Shedding,4 [0.1–20.8],,,,
+CPV2,,,,,
+No shedding,4.5 [0.1–27.2],.535,.373,–,–
+Shedding,3.8 [0.3–21.9],,,,
+CCV,,,,,
+No shedding,4.8 [0.1–27.2],.118,.802,–,–
+Shedding,3.3 [0.1–20.8],,,,
+"Infection by at
+least one virus",,.743,–,.864,–
+No shedding,4.8 [0.1–27.2],,,,
+Shedding,3.7 [0.1–21.9],,,,
+"Infection by at
+least one parasite",,.062,–,.058,–
+No shedding,5.5 [0.5–27.2],,,,
+Shedding,4.2 [0.1–22.7],,,,
+"Infection by at
+least one enteropathogen",,.072,–,–,.01
+No shedding,5.7 [0.5–27.2],,,,
+Shedding,4.1 [0.1–22.7],,,,

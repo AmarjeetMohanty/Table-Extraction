@@ -1,0 +1,10 @@
+0,1,2,3,4,5
+,Maximum,Mean Length,Error,Applications,Main source of errors
+,Throughput,(nucleotide),rate *,,
+,Mb/run,,,,
+454 FLX,700,~800,10−3–10−4,De novo genome,"Intensity cutoff,"
+,,(for shotgun,,sequencing and,"homopolymers, signal"
+,,experiments),,"resequencing, target",cross-talk interference among
+,,~400,,"resequencing,","neighbors, amplification,"
+,,(for amplicon,,"genotyping,",mixed beads
+,,experiments),,metagenomics,

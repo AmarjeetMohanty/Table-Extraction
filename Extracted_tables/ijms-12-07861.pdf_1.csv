@@ -1,0 +1,31 @@
+0,1,2,3,4,5
+,Maximum,Mean Length,Error,Applications,Main source of errors
+,Throughput,(nucleotide),rate *,,
+,Mb/run,,,,
+Illumina,"6,000",~100,10−2–10−3,"Genome resequencing,",Signal interference among
+,,,,quantitative,"neighboring clusters,"
+,,,,"transcriptomics,","homopolymers, phasing,"
+,,,,"genotyping,","nucleotide labeling,"
+,,,,metagenomics,"amplification, low coverage"
+,,,,,of AT rich regions
+SOLiD,"20,000",~50,10−2–10−3,"Genome resequencing,",Signal interference among
+,,,,quantitative,"neighbours, phasing,"
+,,,,"transcriptomics,","nucleotide labeling, signal"
+,,,,genotyping,"degradation, mixed beads,"
+,,,,,low coverage of AT rich
+,,,,,regions
+Helicos,"21,000–",~35,10−2,Non amplifiable,"Polymerase employed,"
+,"35,000",,,"samples, PCR free and","molecule loss, low intensities"
+,,,,unbiased quantitative,
+,,,,analyses,
+Ion,"1,000",~200,3 × 10−2,De novo genome,"Homopolymers,"
+Torrent,,,,sequencing and,amplification
+PGM,,,,"resequencing, target",
+,,,,"resequencing,",
+,,,,"genotyping, RNA-seq on",
+,,,,low-complexity,
+,,,,"transcriptome,",
+,,,,metagenomics,
+GS Junior,~35,~400,10−3–10−4,Target resequencing,"Intensity cutoff,"
+,,,,"(amplicons), genotyping","homopolymers, signal"
+,,,,,cross-talk interference among

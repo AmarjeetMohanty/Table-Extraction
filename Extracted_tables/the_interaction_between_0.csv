@@ -1,0 +1,26 @@
+0,1,2,3,4
+,Table 1. Summary of the current knowledge on autophagy contribution over the course of Arteriviruses,,,
+and Coronaviruses infections.,,,,
+,Autophagy Role,Strategy Used to Modulate,,
+Virus,,,Infected Cell/Organ,References
+,during Infection,Autophagy,,
+,,"rapamycin, wortmannin,",,
+,Antiviral,,Porcine ST cells,[54]
+,,ATG5/ATG7/LC3 knockdown,,
+TGEV,,,,
+,,"rapamycin, 3-MA, ATG5",,
+,Proviral,,Porcine IPEC-J2 cells,[55]
+,,knockdown,,
+,,"rapamycin, 3-MA,",Simian Vero,
+PEDV,Proviral,,,[56]
+,,ATG5/BECLIN1 knockdown,E6 cells,
+,,"rapamycin, 3-MA, BafA1,","Piglet thymus, simian",
+PRSSV,Proviral,,,[57–64]
+,,ATG7/BECLIN1 knockdown,Marc145 cells,
+,None (LC3,"ATG5/ATG7 knockout, LC3","MEFs, human HeLa",
+MHV,,,,[65–67]
+,unconventional use),knockdown,and HEK293 cells,
+,None (LC3,"ATG7 knockout, LC3","MEFs, simian",
+EAV,,,,[68]
+,unconventional use),knockdown,Vero E6 cells,
+,"Green shading indicates a pro-viral role for autophagy, grey shading indicates conﬂictual reports and blue shading",,,

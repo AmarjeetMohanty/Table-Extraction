@@ -1,0 +1,27 @@
+0,1,2,3,4,5,6
+,,0,,,,
+,,,1,51,"101
+151
+201",251
+2 3 4,,,,TE,Iso 2,
+,,,,Iso 1,Iso 3,
+"Figure 10: Koslicki method (topological entropy method, TE for",,,,,,
+,,,Figure 11: Our method compared with TE using test sequences.,,,
+short) example.,,,,,,
+,,1.4,,,Bovine spongiform encephalopathy,
+"Finally,
+the
+radius of","convergence, 𝑅, and complexity,",,,,,
+,,1.2,,,,
+=,,,,,,
+"𝐾0
+− ln 𝑅,","can be obtained from this
+formula. But,",,,,,
+,,1,,,,
+computing the 𝑧max,"directly is difficult, so we use iterations",,,,,
+,,0.8,,,,
+and region tests to approximate the complexity; details are as,,,,,,
+,,0.6,,,,
+follows.,,,,,,
+,,0.4,,,,
+,,0.2,,,,

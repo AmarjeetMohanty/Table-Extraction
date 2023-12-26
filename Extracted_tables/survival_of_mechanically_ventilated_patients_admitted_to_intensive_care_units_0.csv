@@ -1,0 +1,26 @@
+0,1,2,3,4
+ventilation between 2016-2018.,,,,
+,Mechanically ventilated,Mechanically ventilated,,
+Characteristics,,,Odds ratio,95% CI*
+,patient who survive,patients who die,,
+Age category (months),,,,
+First month,129 (88),28 (93),1.0,
+2-12 month,7 (5),2 (6),1.32,0.25-6.67
+>12 month,9 (6),0,-,-
+Gender,,,,
+Female (%),58 (40),13 (43),1.14,0.51-2.53
+Gestational week,,,,
+Extremely preterm,33 (22),10 (33),1.0,
+Very preterm,52 (35),5 (16),0.31,0.09-1.01
+Moderate to late preterm,27 (18),5 (16),0.61,0.18-2.00
+Full term,33 (22),10 (33),1.0,0.36-2.70
+Cause mechanical ventilators,,,,
+Prematurity with respiratory problems,78 (53),10 (33),1.0,
+Respiratory distress syndrome,50 (34),15 (50),2.34,0.97-5.61
+Post-operation,14 (10),0,-,-
+Congenital,3 (2),5 (16),13,2.68-62.83
+Diagnosis,,,,
+Prenatal disorder,112 (77),20 (66),1.0,
+Congenital,24 (16),7 (23),1.63,0.62 -4.29
+Combined,9 (6),3 (10),1.9,0.46-7.49
+,Values are presented as numbers and percentage (%). CI - confidence interval,,,

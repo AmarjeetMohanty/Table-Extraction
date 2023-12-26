@@ -1,0 +1,35 @@
+0,1,2,3,4,5,6
+TABLE 1 Samples provided by the diagnostic virology laboratorya,,,,,,
+Sample,,Virus detected in,,Cycle,,Additional virus(es)
+no.,Sample type,"clinical
+laboratory",Assayb,threshold,Other test(s) performedc,detected by MSSd
+1,Dermal swab,HSV-2,LDT,24.5,VZV,HPV 122
+2,CSF,HSV-1,Eragen ASR,30.8,"Enterovirus, Toxoplasma gondii, EBV",
+3,NP,Inﬂuenza B virus,RVP,NA,None,
+4,Urine,BKPyV,LDT,16.9,None,
+5,Plasma,HHV-6,LDT,NA,"Adenovirus, CMV, HSV, EBV",HPV 128
+6,CSF,JCPyV,LDT,NA,"VZV, HSV, CMV, EBV, Toxoplasma gondii",HIV-1
+7,NP,Rhinovirus/enterovirus,RVP,,None,HHV-7
+8,NP,None,NA,NA,None,"TTMV, HMPV, HRV-C"
+9,Plasma,Parvovirus B19,Focus ASR,33.1,None,TTMDV 1
+10,NP,RSV,RVP,NA,None,"HHV-7, HPV 107"
+11,CSF,Parechovirus,LDT,36,"Enterovirus, HSV",
+12,CSF,Enterovirus,GeneXpert,32.7,None,
+13,Stool,Norovirus G2,Focus ASR,18.3,Rotavirus antigen,HPV 45
+14,Whole blood,None,NA,NA,Ehrlichia/Anaplasma,EBV
+15,Whole blood,CMV,Qiagen ASR,27.3,None,"HCV 4g, TTV 10"
+16,NP,Parainﬂuenza virus 3,RVP,NA,None,
+17,NP,Coronavirus NL63,RVP,NA,None,
+18,NP,Human,RVP,NA,None,"HHV-6, HHV-7"
+,,metapneumovirus,,,,
+19,TA,Inﬂuenza A virus H3,RVP,NA,None,"HPV 23, HPV 48,"
+,,,,,,"EBV, TTV"
+20,Skin scraping,"VZV, wild type",LDT,17.9,Unknown,HPV 100
+21,Whole blood,CMV,Qiagen ASR,25.2,None,TTV
+22,Whole blood,EBV,LDT,34.1,None,"HHV-7, TTV 7"
+23,Whole blood,EBV,LDT,30.7,None,TTMDV
+24,NP,Adenovirus,RVP,NA,None,"HPV 13, HHV 6,"
+,,,,,,TTMV ALH8
+25,Stool,Rotavirus,Antigen assay,NA,Unknown,TTV 13
+26,Skin scraping,VZV vaccine strain,LDT,30.2,Unknown,TTMV
+"aAbbreviations: NP, nasopharyngeal; CSF, cerebrospinal ﬂuid; TA,",,,,"tracheal aspirate; LDT,","laboratory-developed test; ASR, analyte-speciﬁc reagent; RVP,",respiratory virus

@@ -1,0 +1,13 @@
+0,1,2,3,4,5
+Table 2 Identification of viruses in AFP patients by VIDISCA,,,,,
+S. NO.,Sample ID,No of colonies sequenced,No of viral sequences,% of viral sequences,VIDISCA-result
+1,PAK_NIH_VS1661A,24,2,8.3,Echovirus −21
+2,PAK_NIH_VS458A,24,7,29.1,Enteovirus-B97
+3,PAK_NIH_VS870,24,8,33.3,Echovirus-9
+4,PAK_NIH_VS4515A,24,10,41.6,Enterovirus-B100
+5,PAK_NIH_VS908,24,11,45.8,Human astrovirus type 3 and type 5
+6,PAK_NIH_VS926,12,1,8.3,Tetnovirus-1
+7,PAK_NIH_VS1123,12,1,8.3,Human Parechvirus type 3
+8,PAK_NIH_VS242,12,0,0,-
+9,PAK_NIH_VS3099,12,0,0,-
+10,PAK_NIH_VS7113,24,0,0,-

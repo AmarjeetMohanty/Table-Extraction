@@ -1,0 +1,44 @@
+0,1,2,3,4,5,6
+"R110.8 Genome Biology 2006,     Volume 7, Issue 11, Article R110       Zhu et al.",,,,,,http://genomebiology.com/2006/7/11/R110
+,,Testing slide design,,,Original signals,
+a),,,,b),,Normalized signals
+,c),,,,,
+,0.5,,,,"0.5
+0.5",
+Frequency,0.3,,,,"Frequency
+0.3
+0.3",
+,0.1,,,,"0.1
+0.1",
+,,"-1,750
+-250","1,250","2,750","-1,750
+Signal","-250
+1,250
+2,750
+Signal"
+,,,Original signals,,,Normalized signals
+d),"14,000",Myo4 1:1 dilution,,"1,600",Myo4 1:5 dilution,"300
+Myo4 1:25 dilution"
+,"10,000
+6,000",,,"1,200
+800",,"200
+100
+0"
+,,"Origin
+Norm",,,"Origin
+Norm","Origin
+Norm"
+,,31%,,,55%,42%
+,"25,000",Sla2 1:1 dilution,,"3,000",Sla2 1:5 dilution,"800
+600
+Sla2 1:25 dilution"
+,"15,000","Origin
+Norm",,"2,500
+2,000","Origin
+Norm","400
+200
+Origin
+Norm"
+,,86%,,,215%,90%
+,Figure 5 (see legend on next page),,,,,
+,,,,,"Genome Biology 2006, 7:R110",

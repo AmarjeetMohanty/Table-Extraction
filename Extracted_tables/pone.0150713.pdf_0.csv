@@ -1,0 +1,52 @@
+0,1,2,3,4,5
+,,,,Epidemiology and Treatment of Hospitalized Adults with Influenza,
+,"Table 2. Predictors for intensive care unit admission or death among adult patients with severe, acute respiratory infection (SARI) in Jingzhou,",,,,
+"China, April 5, 2010 –April 8, 2012.",,,,,
+Characteristics1,N,Adult SARI with ICU2 admission or,,Crude OR,Adjusted OR
+,,death outcome n (%),"p v
+alue",(95% CI),(95% CI)
+Sex,,,,,
+Male,"1,062",112 (11),0.054,"1.388 (0.994,",-
+,,,,1.938),
+Female,728,57 (8),,,
+Age,,,,,
+(cid:1)65 years,719,105 (15),<0.001,"2.691 (1.941,","2.128 (1.416,"
+,,,,3.730),3.197)
+<65years,"1,071",64 (6),,,
+At least one underlying medical condition3,,,,,
+Yes,866,110 (13),<0.001,"2.133 (1.532,",-
+,,,,2.970),
+No,924,59 (6),,,
+Obesity4,,,,,
+Yes,16,0 (0),0.261,-,-
+No,"1,721",126 (7),,,
+Currently smoke,,,,,
+Yes,259,24 (9),0.917,"0.976 (0.620,",-
+,,,,1.536),
+No,"1,531",145 (9),,,
+Temperature (cid:1)38.0°C at hospital admission,,,,,
+Yes,997,91 (9),0.610,"0.921 (0.670,",-
+,,,,1.265),
+No,793,78 (10),,,
+Abnormal breath sounds on auscultation at,,,,,
+hospital admission,,,,,
+Yes,"1,023",112 (11),0.012,"1.531 (1.097,",-
+,,,,2.138),
+No,767,57 (7),,,
+Shortness of breath at hospital admission,,,,,
+Yes,225,41 (18),<0.001,"2.502 (1.704,","1.971 (1.218,"
+,,,,3.672),3.189)
+No,"1,565",128 (8),,,
+Reported receiving antibiotics before hospital,,,,,
+admission†,,,,,
+Yes,806,52 (6),<0.001,"0.501 (0.345,","0.632 (0.423,"
+,,,,0.729),0.945)
+No,587,71 (12),,,
+Received oseltamivir during hospitalization†,,,,,
+Yes,5,0 (0),0.476,-,-
+No,"1,702",157 (9),,,
+Received seasonal trivalent inﬂuenza,,,,,
+vaccination in the past year†,,,,,
+Yes,2,0 (0),0.673,-,-
+No,"1,053",86 (8),,,
+,,,,,(Continued)

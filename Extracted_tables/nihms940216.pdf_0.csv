@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6
+,,,Table 1,,,
+,,Patient Characteristics and Pregnancy and Birth Outcomes in Confirmed Cases of Middle East Respiratory Syndrome Coronavirus in Saudi Arabia,,,,
+,Patient Characteristics and Outcomes,Patient 1,Patient 2,Patient 3,Patient 4,Patient 5
+,"Patient age, y",34,32,31,27,30
+,"Gravida (G), para (P)","G7, P6","G2, P1","G1, P0","G1, P0","G1, P0"
+,"Gestational age at illness onset, wk",34,38,24,22,23
+,ICU admission,Yes,Yes,Yes,Yes,Yes
+C,,,,,,
+l,,,,,,
+i,,,,,,
+n,,,,,,
+,Maternal comorbid conditions,Preeclampsia,None,"Asthma, pulmonary fibrosis, recurrent",None,None
+,,,,spontaneous pneumothoraces,,
+,Maternal outcome,Survived,Died,Died,Survived,Survived
+,Fetal outcome,Died,Survived,Died,Survived,Survived
+,Delivery details,Intrauterine fetal demise at 34 wk,Vaginal delivery at 38 wk,Surgical delivery at 24 wk gestation,Delivery at term,Delivery at term
+,,gestation,gestation,,,

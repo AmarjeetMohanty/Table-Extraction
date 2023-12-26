@@ -1,0 +1,24 @@
+0,1,2,3,4,5,6,7,8,9,10
+Table 1,"Breeder flocks examined for serological evidence of exposure to NDV, IBVor aMPV by ELISA and the presence of IBV, aMPV, Mg and Ms",,,,,,,,,
+by PCR,,,,,,,,,,
+House,Group,Breed,Age,Number of birds,NDV,,PCR detection in pooled,,,
+,,,(months),"examined for NDV,",vaccination,,OP swabs collected from,,,
+,,,,IBV and aMPV,index,,n of birds,,,
+,,,,ELISA antibodies,,,,,,
+,,,,,,n,IBV,aMPV,Mg,Ms
+Grandparent 1,1a,Dominant CZ,22.5,10,133.2,10,−,−,−,+
+,,Rhode Island Red,,,,,,,,
+Grandparent 2,2,Dominant CZ,22.5,10,278.1,15,+,−,−,−
+Grandparent,3b,Hubbard JV,9,10,43.5,10,−,−,−,+
+Breeder,4c,Hubbard JV,9,20,40.1,20,−,−,−,+
+Parent,5,Hybrid,7,3,12.3,5,−,−,+,+
+(multi-age in,,,,,,,−,−,−,
+,6,Kokok,23,3,15.1,7,,,,+
+single house),,,,,,,,,,
+,7,Hybrid,9,3,128.1,5,−,−,−,+
+,8,Fayoumi,7,3,34.9,6,−,−,+,+
+,9,Kokok,31,3,55.0,5,−,−,−,+
+,10,Fayoumi,31,5,5.8,8,−,−,−,+
+,11,Dominant CZ,28,3,64.5,6,−,−,−,+
+,,Rhode Island Red,,,,,,,,
+Chick,12,Hybrid,0.5,Not done,Not done,20,−,−,−,+

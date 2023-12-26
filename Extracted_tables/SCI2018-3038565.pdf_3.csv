@@ -1,0 +1,25 @@
+0,1,2,3,4,5
+"CBMSC#3
+Standard",,,"CBMSC#3
+Standard",,
+"EBV
+CBMSC#1",,,"EBV
+CBMSC#1",,
+CBMSC#2,,,CBMSC#2,,
+,CMV detection limit (lowest load),,,EBV detection limit (lowest load),
+Quantity,,Accuracy,Quantity,,Accuracy
+Samples,SD,,Samples,SD,
+(gEq/reaction),,error (EA),(gEq/reaction),,error (EA)
+"CMV
+35.78",3.32,,"EBV
+3.89",0.34,
+"CBMSC#1
+31.11",5.69,−4.67,"CBMSC#1
+1.92",0.57,−1.97
+"CBMSC#2
+46.02",10.00,10.24,"CBMSC#2
+2.71",0.66,−1.18
+"CBMSC#3
+44.41",8.00,8.63,"CBMSC#3
+2.74",0.17,−1.15
+(d),,,(e),,

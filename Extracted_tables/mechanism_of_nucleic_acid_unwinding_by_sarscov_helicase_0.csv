@@ -1,0 +1,21 @@
+0,1,2,3,4,5,6
+,,,,,,Mechanism of SARS-CoV Helicase
+,Table 4. Comparison of the effect of nsp12 on the unwinding parameters of GST-nsp13 and H6-nsp13 on RNA and DNA substrates,,,,,
+(31:18-mer).,,,,,,
+Enzyme,Substrate,Amplitude,kU(s21),m(bp),"(L0, corrected)b","b(bps21)
+mku"
+GST-nsp13,RNA,0.7260.02,24.1562.1,7.3,,176615
+GST-nsp13+nsp12,RNA,0.7360.02,51.0664.7,7.3,,373634
+GST-nsp13+FMDV pol,RNA,0.7260.02,24.5462.0,7.3,,179615
+GST-nsp13,DNA,0.7360.02,28.4162.2,7.3,,207616
+GST-nsp13+nsp12,DNA,0.7860.02,50.8963.9,7.3,,371629
+GST-nsp13+FMDV pol,DNA,0.7460.02,29.3062.9,7.3,,214621
+H6-nsp13,RNA,0.7860.01,0.0460.003,7.3,,0.360.02
+H6-nsp13+nsp12,RNA,0.8360.02,0.2060.02,7.3,,1.560.15
+H6-nsp13+GST,RNA,0.7660.02,0.0460.003,7.3,,0.360.02
+H6-nsp13,DNA,0.8760.01,0.1060.007,7.3,,0.760.05
+H6-nsp13+nsp12,DNA,0.8760.01,0.2460.01,7.3,,1.860.07
+H6-nsp13+GST,DNA,0.8660.01,0.1160.006,7.3,,0.860.04
+,bCorrection for bp separated without direct helicase action as described in Table 1 and reference 48.,,,,,
+Kinetic parameters were determined by nonlinear,,least-squares analysis of data from Figure 6. Experiments were performed three times.,,,,
+doi:10.1371/journal.pone.0036521.t004,,,,,,

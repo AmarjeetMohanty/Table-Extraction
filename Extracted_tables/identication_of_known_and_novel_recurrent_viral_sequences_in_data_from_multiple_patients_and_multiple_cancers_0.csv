@@ -1,0 +1,30 @@
+0,1,2,3
+,containing a dash had no hits with an e-value < 0.001. Cluster representative: Length of the sequence.,,
+,BLASTn and BLASTx: Organism name (accession) %-id / %-coverage. CCD: Domain name (accession).,,
+Cluster,,,
+,BLASTn,BLASTx,CCD
+representative,,,
+,,Prevotella veroralis,
+1789 bp,-,(WP_026284690.1),-
+,,92% / 42%,
+,,Prevotella veroralis,DUF4280 super family
+,Prevotella fusca JCM 17724,,
+3246 bp,,(WP_004384161.1),(cl16620) TauE super family
+,(CP012075.1) 76% / 18%,,
+,,90% / 56%,(cl21514)
+,,,Peptidase_M23 (pfam01551)
+,,,lysozyme_like super family
+,,Prevotella fusca,
+,Prevotella fusca JCM 17724,,(cl00222) DUF4280
+4661 bp,,(WP_050696472.1),
+,(CP012075.1) 91% / 87%,,(pfam14107) Fil_haemagg_2
+,,85% / 66%,
+,,,(pfam13332) Phage_base_V
+,,,(pfam04717)
+,,,Acyl_transf_3 super family
+,,Peptostreptococcus,
+,Eubacterium sulci ATCC,,(cl21495) ND5 (MTH00095)
+4720 bp,,anaerobius CAG:621,
+,35585 (CP012068.1) 71% / 21%,,rve (pfam00665) ND2 super
+,,(CCY47489.1) 72% / 36%,
+,,,family (cl10157)

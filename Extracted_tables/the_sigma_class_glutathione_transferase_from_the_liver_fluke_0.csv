@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12
+www.plosntds.org,,Table 1. Substrate specificities of,rFhGST-S1.,,,,,,,,,
+,SUBSTRATE,,[Substrate],[GSH],100 mM,,,l Max,,,,Assay
+,,,,,,,,,,rFhGST-S1,Sm28GST**,
+,CLASS,SUBSTRATE,(mM),(mM),KHPO4 (pH),Temp.,(6C),(nm),e (mM21cm21),,,Ref.
+,,,,,,,,,,Specific Activity,Specific Activity,
+,,,,,,,,,,(nmol min21mg21),(nmol min21mg21),
+,MODEL,"1-Chloro-2,4-dinitrobenzene",1,1,6.5,25,,340,9.6,47366292,72696218,[36]
+,SUBSTRATES,(CDNB),,,,,,,,,,
+,,"1,2-Dichloro-4-nitrobenzene",1,5,7.5,25,,345,9.6,"ND,5","ND,5",[36]
+,,(DCNB),,,,,,,,,,
+,,Ethacrynic Acid,0.08,1,6.5,25,,270,5,8986204,1580697,[70]
+,REACTIVE,4-hydroxynonenal,0.1,0.5,6.5,30,,224,13.75,6456129,287617,[68]
+,ALDEHYDES,,,,,,,,,,,
+,,Trans-2-nonenal,0.023,1,6.5,25,,225,219.2,333643,44766,[36]
+3,,,,,,,,,,,,
+,,"Trans,
+trans-2,4-decadienal",0.023,1,6.5,25,,280,229.7,5160.3,221,[36]
+,LIPID,Cumene hydroperoxide,1.2,1,7,25,,340,6.22,708161009,16267,[71]
+,PEROXIDES,,,,,,,,,,,
+,,,0.25,1,7,25,,340,6.22,22096122,-,[71]
+,,t-butyl hydroperoxide,0.25,1,7,25,,340,6.22,19361.8,"ND,10",[69]
+,,,2.5,1,7,25,,340,6.22,18276198,-,[69]
+,,Linoleic Acid,0.25,1,7,25,,340,6.22,430669,-,[51]
+,,,0.05,1,7,30,,340,6.22,-,"ND,10",[51]

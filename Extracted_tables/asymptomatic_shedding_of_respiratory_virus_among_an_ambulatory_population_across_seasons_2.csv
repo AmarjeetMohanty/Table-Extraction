@@ -1,0 +1,27 @@
+0,1,2,3,4,5,6,7
+TABLE 3 Best-ﬁt,,,logistic regression models describing virus-positive status as a function of demographic variables and self-reported,,,,
+symptomologya,,,,,,,
+,,All virus,,Rhinovirus,,Coronavirus,
+Characteristic,,Odds ratio (95% CI),P value,Odds ratio (95% CI),P value,Odds ratio (95% CI),P value
+Summer,,,,,,,
+,Symptom score,1.26 (1.19–1.34),(cid:3)0.001,1.25 (1.17–1.33),(cid:3)0.001,1.27 (1.13–1.42),(cid:3)0.001
+,Hispanic,,,,,,
+,No,Ref,Ref,Ref,Ref,,
+,Yes,1.67 (1.0–2.72),0.04,1.72 (0.95–3.03),0.06,,
+Winter,,,,,,,
+,Symptom score,1.14 (1.08–1.20),(cid:3)0.001,1.15 (1.05–1.25),(cid:3)0.001,1.1 (1.01–1.18),0.02
+,Hispanic,,,,,,
+,No,,,Ref,Ref,,
+,Yes,,,1.94 (0.82–4.36),0.11,,
+All,,,,,,,
+,Symptom score,1.19 (1.15–1.24),(cid:3)0.001,1.20 (1.14–1.27),(cid:3)0.001,1.15 (1.08–1.22),0.001
+,Hispanic,,,,,,
+,No,,,Ref,Ref,,
+,Yes,,,1.65 (1.02–2.63),0.04,,
+,Age category,,,,,,
+,18–29,,,Ref,,,
+,30–39,,,2.07 (1.2–3.54),0.008,,
+,40–49,,,1.1 (0.58–2.04),0.75,,
+,50–64,,,1.04 (0.41–2.3),0.93,,
+,65(cid:4),,,0.45 (0.02–2.15),0.43,,
+,"aSeparate models are presented for positivity for any virus, human rhinovirus (HRV) only, and coronavirus (CoV) only. CI, conﬁdence interval; Ref,",,,,,,reference value.

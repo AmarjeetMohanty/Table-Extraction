@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+Table 1: Clinical symptoms of HCoV-229E infected patients.,,,,,,,,,,,
+,,,,,,Symptoms,,,,,
+Patient,Age,Year of,Acute,Cough,Rhinorrhoea,Sore,Fever,Malaise,Other,Hospitalized,Diagnosis
+,,Sampling,start,,,Throat,,,,,
+RIVM 02-034,52,2002,Yes,No,Yes,No,No,Yes,Muscle/joint pain,No,"ARI, Pharyngitis"
+RIVM 02-041,54,2002,Yes,No,Yes,No,Yes,No,Hoarse,No,"Common Cold,"
+,,,,,,,,,,,Acute tonsillitis
+RIVM 03-224,68,2003,Yes,No,Yes,Yes,Yes,No,Respiratory,No,Common Cold
+,,,,,,,,,allergy,,
+RIVM 04-037,54,2004,Yes,Yes,Yes,Yes,Yes,Yes,-,No,ARI
+VS03-099*,81,2003,Yes,Yes,U,U,No,Yes,Dyspnoea,Yes,Exacerbation of
+,,,,,,,,,,,COPD
+CCU-T935†,U,1986,U,U,U,U,U,U,U,U,U

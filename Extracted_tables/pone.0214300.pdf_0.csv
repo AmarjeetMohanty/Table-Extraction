@@ -1,0 +1,19 @@
+0,1,2,3,4
+Table 3. Means and SDs of recall of the plant-disease pairs of words (phase I).,,,,
+Disease category,Mean general recall/,Plant-disease,M,SD
+,Disease category,,,
+Chronic diseases,2.17,Mororo´-Stroke,0.9,3.20
+,,Cumaru-Cancer,3.78,5.81
+,,Angico-Diabetes,1.85,4.47
+Infectious diseases,3.98,Mint-AIDS,7.95,6.66
+,,Cumaru-Tuberculosis,2.50,4.99
+,,Boldo-Measles,1.51,3.96
+Common conditions,4.74�,Mororo´-Cold,1.38,3.74
+,,Boldo-Colic,8.53�,6.39
+,,Mint-Diarrhea,4.31,5.94
+Emerging and Reemerging diseases,2.46,Cumaru-Dengue,2,4.46
+,,Angico-Zika,4.61,6.10
+,,Mororo´-Cholera,0.78,2.88
+Control,4.27,Boldo-Cellulitis,4.30,5.91
+,,Mint-Stretch marks,5.94,6.41
+,,Angico-Warts,2.58,5.06

@@ -1,0 +1,36 @@
+0,1,2,3,4
+Table 4: Overall statistics for biased di-nucleotides and tetra-nucleotides.,,,,
+Percentage of di-nucleotide that can,Percentage of tetra-nucleotide that,Virus,Percentage of biased di-,Percentage of biased tetra-
+be used to discriminate between vi,can be used to discriminate,,nucleotide (|z| > 3.29)/%,nucleotide (|z| > 3.29)/%
+ruses(|z| > 3.29),between vi ruses(|z| > 3.29),,,
+100%,96.09%,BCoV,93.8,29.7
+,,MHV,93.8,28.1
+,,SARS,81.3,34.4
+,,ABV,81.3,27.3
+,,HCoV,93.8,31.3
+,,PDV,81.3,28.5
+,,TGV,87.5,31.6
+,,LDV,93.8,19.5
+,,PRV,93.8,15.6
+,,SFV,93.8,16.0
+,,FCoV,75.0,11.7
+,,EV1,87.5,14.5
+,,TBV,75.0,21.9
+,,AEV,93.8,11.7
+,,PV1,87.5,11.7
+,,YFV,93.8,29.3
+,,BDV,87.5,17.6
+,,RHV,93.8,9.4
+,,FMV,87.5,12.1
+,,IOV,75.0,9.8
+,,HV1,62.5,12.5
+,,RSV,87.5,18.8
+,,HRV,87.5,19.1
+,,BRV,93.8,19.9
+,,TV2,81.3,15.2
+,,REV,87.5,18.4
+,,MV1,81.3,15.2
+,,CDV,75.0,16.0
+,,APV,93.8,11.7
+,,BFV,81.3,15.2
+,,IBV,87.5,23.4

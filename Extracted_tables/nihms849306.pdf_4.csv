@@ -1,0 +1,21 @@
+0,1,2,3,4,5,6,7,8
+,,,,,Univariate,,Multivariate,
+,Factor,Overall,Influenza Virus–Negative No. (%)a,"Influenza Virus–Positive, No. (%)",RRb (95% CI),P Value,aRRc (95% CI),P Value
+,,740 (33.1),688 (34.6),52 (20.9),1.6 (.9–2.8),.077,2.1 (1.2–3.6),.009
+,May–Aug (cool dry)d,,,,,,,
+,HIV statuse,,,,,,,
+,Negative,1973 (94.3),1747 (94.2),226 (95.4),Reference,,. . .,
+,Positive,119 (5.7),108 (5.8),11 (4.6),0.9 (.4–1.7),.677,. . .,
+J,,,,,,,,
+,Weight-for-age z score <2e,,,,,,,
+,No,1990 (93.2),1766 (93.2),224 (92.9),Reference,,. . .,
+,Yes,145 (6.8),128 (6.8),17 (7.1),1.2 (.8–1.6),.364,. . .,
+,Malaria,,,,,,,
+Infect Dis. Author manuscript; available in PMC 2017 March 08.,Negative,2160 (96.5),1913 (96.1),247 (99.2),Reference,,Reference,
+,Positive,79 (3.5),77 (3.9),2 (0.8),0.2 (.1–.9),.030,0.2 (.0–.8),.028
+,Hospitalized,,,,,,,
+,No,1750 (78.8),1549 (77.8),201 (80.7),Reference,,. . .,
+,Yes,489 (22.0),441 (22.2),48 (19.3),0.8 (.5–1.1),.180,. . .,
+,Blood oxygen saturation <90%,,,,,,,
+,No,2291 (93.1),2029 (96.8),262 (98.1),Reference,,. . .,
+,Yes,72 (6.9),67 (3.2),5 (1.9),0.7 (.3–1.8),.420,. . .,

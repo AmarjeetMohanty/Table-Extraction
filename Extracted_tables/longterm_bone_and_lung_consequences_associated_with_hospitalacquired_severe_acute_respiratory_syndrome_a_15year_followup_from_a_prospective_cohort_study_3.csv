@@ -1,0 +1,26 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+Table 3.,The ARCO stage of ﬁfteen patients with femoral head necrosis and progression,,,,,,,,,,,,,,,
+,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018
+Case1,IIA,IIA,IIA,,,IIA,,,,,IIA,,,,,IIA
+Case2,IIB,IIB,IIB,IIB,IIB,,,IIB,,,,,IIB,,,
+Case3-R,IIB,IIB,,IIB,,,,,IIB,IIB,,IIB,IIB,,,IIB
+Case3-L,IIB,IIB,,IIB,,,,,IIB,IIB,,IIB,IIB,,,IIB
+Case4-R,IIC,IIC,,IIC,,IIC,,IIC,,,IIC,,,,,IIC
+Case4-L,IIC,IIC,,IIC,,IIC,,IIC,,,IIC,,,,,IIC
+Case5-R,IIB,,,,,,,,,,,,,,,IIB
+Case5-L,IIB,,,,,,,,,,,,,,,IIB
+Case6,,,,IIA,,IIA,,IIA,,IIA,,,,,,
+Case7-R,IIC,IIC,,IIC,,,,,,IIC,,IIC,,IIC,,IIC
+Case7-L,IIC,IIC,,IIC,,,,,,IIC,,IIC,,IIC,,IIC
+Case8-R,IIB,IIB,IIB,IIB,,IIB,,,,IIB,,,,IIB,,IIB
+Case8-L,IIC,IIC,IIC,IIIC,,IIIC,,,,IIIC,,,,IIIC,,IIIC
+Case9,IIIC,IIIC,IIIC,IIIC,,,,,,IIIC,,IIIC,,,IIIC,
+Case10-R,IIC,IIC,,IIIC,,,,,,IV,,IV,,,,IV
+Case10-L,IIC,IIC,,IIIC,,,,,,IV,,IV,,,,IV
+Case11,IIB,,IIB,IIB,,,,,,,,,IIA,,,
+Case12-R,,IIIC,IIIC,IIIC,IV,,,,,,,,,,,IV
+Case12-L,,IIIC,IIIC,IIIC,IV,,,,,,,,,,,IV
+Case13-R,IIB,,,IIB,IIB,IIB,,,,,,,,,,
+Case13-L,IIB,,,IIB,IIB,IIB,,,,,,,,,,
+Case14,IIA,IIA,IIA,IIA,,IV,,,IIA,,,,,,,IIA
+Case15,IIC,IIC,,IIIC,,,,,,,,,,,,IV

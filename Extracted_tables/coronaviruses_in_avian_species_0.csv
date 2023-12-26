@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6
+Pyrosequencing/,,,,,,
+,RdRp,508,(21),-,Charadriiformes,-
+RT-PCR,,,,,,
+T,able 3. Primers aimed at the replicase gene used in monitoring studies of coronaviruses in wild birds,,,,,
+Method,Primer,Genome position*,,,Amplicon (bp),Reference
+,2Bp,13960–13982,,,,
+1,,,,,251,(37)
+,4Bm,14189–14210,,,,
+,Pol1,14188–14210,,,,
+2,,,,,440,(51)
+,Pol2,14604–14627,,,,
+,Pol1,14188–14207,,,,
+,,,,,600,
+,Pol2,14770–14789,,,,
+3,,,,,,(11)
+,Pol3,14188–14210,,,,
+,,,,,440,
+,Pol4,14605–14627,,,,
+,11-FW,14619–14642,,,,
+4,,,,,179,(33)
+,13-RW,14773–14797,,,,
+"* primer positions refer to the sequences of the gammacoronavirus representative, IBV M41 strain (GenBank",,,,,,

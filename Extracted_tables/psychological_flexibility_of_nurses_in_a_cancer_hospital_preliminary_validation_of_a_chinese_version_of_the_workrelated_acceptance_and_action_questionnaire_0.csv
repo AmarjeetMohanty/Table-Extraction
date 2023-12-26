@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6,7,8
+,Table 2: Fictitious ratings on a seven‑item scale by six experts: Items rated 3 or 4 on a four‑point relevance scale,,,,,,,
+Item,Expert 1,Expert 2,Expert 3,Expert 4,Expert 5,Expert 6,Number in agreements,I‑CVI
+1,X,X,X,X,X,X,6,1.00
+2,X,X,X,X,X,X,6,1.00
+3,X,X,X,X,X,X,6,1.00
+4,X,X,X,X,‑‑,X,5,0.83
+5,X,X,X,X,X,X,6,1.00
+6,X,X,X,X,X,X,6,1.00
+7,X,X,X,X,X,X,6,1.00
+Proportion relevant,1.00,1.00,1.00,1.00,0.86,1.00,S‑CVI/UA=0.86 S‑CVI/Ave=0.98,

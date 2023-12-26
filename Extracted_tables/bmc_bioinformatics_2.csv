@@ -1,0 +1,48 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+protein,1ab,1ab,1ab,1ab,1ab,1ab,1ab,1ab,1ab,1ab,1ab,1ab,1ab,,,,hyp,hyp,,,,hyp,hyp,hyp,
+,,,,,,,,,,,,,,S,S,S,,,E,M,M,,,,N
+Relative,,,,,,,,,,,,,,,,,,,,,,,,,
+scale,2562,3858,7930,8585,9417,9867,11461,11506,17590,18991,19090,19111,19865,21749,22250,24962,25329,26080,26233,26507,26630,27273,27843,27858,28328
+TWH scale,2557,3852,7919,8572,9404,9854,11448,11493,17564,18965,19064,19084,19838,21721,22222,24933,25299,26050,26203,26477,26600,27243,27812,27827,28268
+TWH,G,C,C,G,T,C,C,T,T,T,A,C,A,G,T,C,G,A,C,G,C,C,C,T,C
+TWC3,G,C,C,G,T,C,C,T,T,T,A,C,A,G,T,C,G,A,C,G,C,C,C,T,C
+TWK,G,C,C,G,T,C,C,T,T,T,A,C,A,G,T,C,G,A,T,G,C,C,T,T,C
+TWS,G,C,C,G,T,C,C,T,T,T,A,C,A,G,T,C,G,A,T,G,C,C,T,T,C
+TWY,G,C,C,G,T,C,C,T,T,T,A,C,A,G,T,C,G,A,T,G,C,C,T,T,C
+Urbani,G,T,T,G,T,C,C,C,T,T,G,C,A,G,T,C,G,A,C,T,C,C,C,T,C
+TWJ,G,C,C,G,T,C,C,T,T,T,A,C,A,G,T,C,G,A,T,G,C,C,T,T,C
+TWC,G,T,C,G,T,C,C,C,T,T,A,C,A,G,T,C,G,A,C,T,T,C,C,T,C
+WHU,G,T,C,G,T,C,C,C,T,T,A,C,A,G,T,C,G,A,C,T,C,C,C,T,C
+TW1,G,T,C,G,T,C,C,C,T,T,A,C,A,G,T,C,G,A,C,T,C,C,C,T,C
+Frankfurt1,A,T,C,G,T,C,T,T,T,A,A,T,A,G,T,T,G,A,C,T,T,C,C,T,T
+FRA,A,T,C,G,T,C,T,T,T,A,A,T,A,G,T,T,G,A,C,T,T,C,C,T,T
+HKU39849,G,T,C,G,T,C,C,T,T,T,A,C,A,G,T,C,G,A,C,T,T,C,C,T,C
+Tor2,G,T,C,G,T,C,C,C,T,T,A,C,A,G,T,C,G,A,C,T,C,C,C,T,C
+HSR1,G,T,C,G,T,C,C,C,T,T,A,C,A,G,T,C,G,A,C,T,C,C,C,T,C
+CUHK-Su10,G,T,C,G,T,C,C,C,T,T,A,C,A,G,T,C,G,A,C,G,C,C,C,T,C
+CUHK-W1,G,T,C,G,C,C,C,T,G,T,G,C,A,A,C,C,G,A,C,T,C,C,C,C,C
+GZ50,G,T,C,G,T,C,C,T,G,T,A,C,A,A,C,C,G,A,C,T,C,C,C,C,C
+AS,G,T,C,G,T,C,C,C,T,T,A,C,A,G,T,C,G,A,C,T,C,C,C,T,C
+Sin2500,G,T,C,G,T,C,C,C,T,T,A,T,A,G,T,C,G,A,C,T,C,C,C,T,C
+Sin2677,G,T,C,G,T,C,C,C,T,T,A,T,A,G,T,C,G,A,C,T,C,C,C,T,C
+Sin2679,G,T,C,G,T,C,C,C,T,T,A,C,A,G,T,C,G,A,C,T,C,C,C,T,C
+Sin2748,G,T,C,G,T,C,C,C,T,T,A,T,A,G,T,C,G,A,C,T,C,C,-,T,C
+Sin2774,G,T,C,G,T,C,C,C,T,A,A,T,A,G,T,C,G,A,C,T,C,C,C,T,C
+BJ02,G,T,C,T,C,T,C,T,G,T,A,C,G,A,C,C,A,A,C,T,C,T,C,C,C
+BJ01,G,T,C,T,C,T,C,T,G,T,A,C,G,A,C,C,G,C,C,T,C,T,C,C,C
+BJ03,G,T,C,G,C,T,C,T,G,T,A,C,G,A,C,C,A,C,C,T,C,T,C,C,C
+BJ04,G,T,C,G,T,T,C,T,G,T,A,C,G,G,C,C,G,A,C,T,C,C,C,C,C
+TaiwanTC1,G,C,C,G,T,C,C,T,T,T,G,C,A,G,T,C,G,A,C,G,C,C,C,T,C
+TaiwanTC2,G,C,T,G,T,C,C,T,T,T,G,C,A,G,T,C,G,A,T,G,C,C,T,T,C
+TaiwanTC3,G,C,C,G,T,C,C,T,T,T,G,C,A,G,T,C,G,A,T,G,C,C,T,T,C
+GD01,G,T,C,G,C,C,C,C,G,T,A,C,G,A,C,C,G,A,C,T,C,T,C,C,C
+SZ3,G,T,C,G,C,C,C,C,G,T,A,C,A,A,C,C,G,A,C,T,C,C,C,C,C
+SZ16,G,T,C,G,C,C,C,C,G,T,A,C,A,A,C,C,G,A,C,T,C,C,C,C,C
+ZJ01,G,T,C,G,T,C,C,C,T,T,A,C,A,G,T,C,G,A,C,T,C,C,C,T,C
+ZMY1,G,T,C,G,T,C,C,C,T,T,A,C,A,G,T,C,G,A,C,T,C,C,C,T,C
+A Ac,Ala(cid:5)Thr,Silent,Ala(cid:5)Val,Val(cid:5)Leu,Val(cid:5)Ala,Ala(cid:5)Val,Silent,Silent,Asp(cid:5)Glu,Silent,Silent,Thr(cid:5)Ile,Silent,Gly(cid:5)Asp,Ile(cid:5)Thr,Leu(cid:5)Phe,Gly(cid:5)Glu,Silent,Silent,Cys(cid:5) Phe,Ala(cid:5)Val,Silent,Silent,Cys(cid:5)Arg,Thr(cid:5)Ile
+changes,,,,,,,,,,,,,,,,,,,,,,,,,
+A Ac position,765,,2552,2770,3047,3197,,,5767,,,6274,,77,244,1148,Non-anotated,,,27,68,,,17,50
+A Ac,,,,,,,,,,,,,,,,,,,,,,,,,
+properties,Hp+S+T(cid:5) Hp+P+S,,Hp+S+T(cid:5)Hp+S+Ap,Hp+S+Ap(cid:5)Hp+Ap,Hp+S+Ap(cid:5) Hp+S+T,Hp+S+T(cid:5)Hp+S+Ap,,,P+NCh+S(cid:5)P+NCh,,,Hp+P+S(cid:5)Hp+Ap,,Hp+S+T(cid:5)P+NCh+S,Hp+Ap(cid:5) Hp+P+S,Hp+Ap(cid:5)Hp+Ar,Hp+S+T(cid:5) P+NCh,,,Hp+P+S+T(cid:5) Hp+Ar,Hp+S+T(cid:5)Hp+S+Ap,,,Hp+P+S+T(cid:5)P+PCh,Hp+P+S(cid:5) Hp+Ap
+changes,,,,,,,,,,,,,,,,,,,,,,,,,

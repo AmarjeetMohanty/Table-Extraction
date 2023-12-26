@@ -1,0 +1,28 @@
+0,1,2,3
+Table 2: LAB as vaccine vehicles,,,
+Vaccine strain,Foreign insert,Model,Ref.
+Lactococcus lactis,C. tetani TTFC,Mouse,"[23,96]"
+,TTFC+IL-2 or IL-6,Mouse,[97]
+,Human IL-10,Mouse,[39]
+,H. pylori ureB,Mouse,[98]
+,B. abortus L7/L12,Mouse,[99]
+,S. pneumonie CPS,Mouse,[100]
+,Rotavirus vp7,Mouse,[101]
+,B-lactoglobulin,Mouse,[102]
+,HIV-1 gp120,Mouse,[103]
+,Malaria MSP-1,Mouse,[104]
+,SARS Nucleocapsid protein,In vitro,[105]
+,E. rhusiopathiae SpaA,Mouse,[106]
+Lactobacillus plantarum,TTFC,Mouse,[107]
+,Allergen Der p1,Mouse,[36]
+,H. pylori (ureB),Mouse,[108]
+Streptococcus gordonii,Antibody,Rat,[34]
+,Hornet venom Ag5.2,Mouse,[109]
+,TTFC,Mouse,[110]
+Lactobacillus casei,B. anthracis (protective Ag),In vitro,[111]
+,SARS spike protein,Mouse,[112]
+,Human papillomavirus L1,In vitro,[113]
+,Coronavirus S glycoprotein,Mouse,[114]
+,S. pneumonie PsaA PspA,In vitro,[115]
+Lactobacillus zeae,Antibody,Rat,[33]
+Lactobacillus johnsonii,TTFC mimotope,Mouse,[116]

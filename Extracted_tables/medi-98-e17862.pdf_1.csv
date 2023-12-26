@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7,8,9
+,The Multivariate analysis of mortality prognostic factors of patients with liver cirrhosis complications (N = 263).,,,,,,,,
+,,,All,(N = 263),,High risk (MELD-Na ≥ 14),(N = 120),Low risk (MELD-Na < 14),(N = 143)
+Factors,,Categories,HR (95% CI),P,,HR (95% CI),P,HR (95% CI),P
+Gender,,Male,1.0,,<.001,1.0,<.001,,
+,,Female,0.39 (0.22–0.68),,,0.41 (0.21–0.81),,,
+Age (yr),,,,,,19.01 (3.98–90.85),<.001,,
+Cause of,liver cirrhosis,Hepatitis B,1.0,,<.001,,,,
+,,Hepatitis C,5.32 (2.58–10.96),<.001,,,,,
+,,Alcohol,1.44 (0.65–3.18),.375,,,,,
+,,Etc,1.62 (0.77–3.40),.202,,,,,
+Laboratory values,,AST (U/L),,,,,,2.01 (1.15–3.51),<.001
+,,Albumin (g/dL),,,,,,0.04 (0.00–0.37),<.001
+CTP class,,A (CTP score 5–6),1.0,,<.001,,,,
+,,B (CTP score 7–9),4.01 (2.07–7.78),<.001,,,,,
+,,C (CTP score ≥10),7.56 (3.81–15.01),<.001,,,,,
+Marital status,,Single,1.0,,<.001,,,,
+,,Married,7.34 (0.99–54.58),.052,,,,,
+,,Etc,2.00 (0.22–18.38),.540,,,,,
+Types of primary caregiver,,Spouse,1.0,,<.001,1.0,<.001,1.0,<.001
+,,Etc,3.95 (2.32–6.72),,,2.17 (1.10–4.27),,2.38 (1.07–5.29),
+Follow up,,Regular,,,<.001,,,,
+,,Irregular,0.46 (0.23–0.94),,,,,,

@@ -1,0 +1,94 @@
+0,1,2
+"Nucleic Acids Research, 2009, Vol. 37, Database issue
+D434",,
+ICTV,"We
+intend
+to
+update
+the
+database
+on
+at","least
+a"
+links,,
+,"6-monthly
+basis
+in
+order
+to
+include
+newly",discovered
+"name
+name",,"viruses, and are currently working to incorporate biologi-"
+viruses,,
+,,cal and epidemiological data. We also intend to release
+id,,
+,"soon
+a DNA virus
+database
+using
+the
+same",format.
+protein,,
+,,"As discussed in Introduction, we are keen to collaborate"
+"classification
+proteins",,
+virus_id,,
+,"with
+other
+groups
+over
+further
+developments
+of",our
+"id
+id
+function
+segments",,
+segment_id,database.,
+"protein_id
+id",,
+,SUPPLEMENTARY DATA,
+"id
+segment_id",,
+genome,Supplementary Data are available at NAR Online.,
+coordinates,,
+aligns,,
+id,,
+,ACKNOWLEDGEMENTS,
+acc,,
+,"We
+are
+also
+very
+grateful
+to Oli
+Pybus",and Alexei
+isolates,,
+,Drummond for their help.,
+"tables
+in the underlying mySQL database.
+Figure 3. Relationships of",,
+Table names are in large bold font and interlinking column names are,FUNDING,
+"in small
+regular
+font.",,
+,"Wellcome
+Trust
+(to R.B.);
+EU Marie Curie",Fellow-
+,"ship scheme (to T.d.O.);
+the Royal Society (to A.R.).",
+http://www.ncbi.nlm.nih.gov/genomes/VIRUSES/,"Conﬂict of
+interest statement. None declared.",
+10239.html.,,
+http://www.ncbi.nlm.nih.gov/sites/entrez?db=nucleotide,,
+,REFERENCES,
+"Species
+names,
+nucleotide
+sequences
+and
+accession",,
+numbers were downloaded directly from GenBank using,"1. Belshaw,R., Gardner,A., Rambaut,A. and Pybus,O.G.
+(2008)",

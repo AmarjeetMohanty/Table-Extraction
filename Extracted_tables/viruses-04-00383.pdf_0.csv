@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6
+,America.,,,,,
+,,Country / Geographical,,,No,%
+Reference,Year,,Technique,Felid species,,
+,,distribution,,,tested,Positive
+(43),1992,Brazil/Chile,Western Blot,Puma concolor,18,0
+(65),1994,Argentina,Western Blot,Felis catus,26,34.6
+(52),1997,Brazil—São Paulo,ELISA,Felis catus,401,11.7
+(9),2000,Brazil—Rio Grande do Sul,PCR,Felis catus,40,37.5
+(61),2002,Brazil—Rio de Janeiro,ELISA,Felis catus,126,16.6
+,,,,"Leopardus pardalis,",,
+,,,,"L. tigrinus, L. wiedii,",,
+(18),2003,Brazil—São Paulo,ELISA,,104,0
+,,,,"Herpaiturus yaguarondi,",,
+,,,,Oncifelis geoffroyi,,
+(12),2003,Brazil—Minas Gerais,PCR,Felis catus,450,2.66
+(64),2007,Brazil—Minas Gerais,PCR,Felis catus,145,4.14
+,,Brazil—Roraima; Acre;,,,,
+,,Mato Grosso; Mato Grosso,ELISA/Western,Puma concolor; Leopardus,,
+(19),2006,,,,21,4.76/9.52
+,,do Sul; São Paulo; Rio de,Blot,pardalis; Leopardus tigrinus,,
+,,Janeiro,,,,
+,,,,"Leopardus pardalis,",,
+(21),2007,Bolivia—Chaco,ELISA,"Oncifelis geoffroyi,",20,0
+,,,,Herpaiturus yaguarondi,,
+(31),2008,Brazil—São Paulo,PCR,Felis catus,454,14.7
+(36),2008,Ecuador—Galapagos,ELISA,Felis catus,52,0
+,,,ELISA/Western,Different species of,,
+(20),2011,Brazil—São Paulo,,,145,6.9 *
+,,,Blot,neotropic and exotic felids,,
+*9 lions and 1 Geoffroy’s cat.,,,,,,

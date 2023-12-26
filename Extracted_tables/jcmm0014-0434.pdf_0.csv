@@ -1,0 +1,17 @@
+0,1,2,3,4,5
+Table 3 Correlation between immunohistology and gene expression as measured by microarray. Spearman’s rank correlation coefficient was used,,,,,
+,,(cid:2),,,
+,"to correlate the density of CD3, CD45R/B220, IgG and CD107b",,"cells, and the myelin basic protein positive area with the respective mRNA level",,
+,measured by microarray analysis in the spinal cord,,,,
+Gene expression,Immunohistology,,,,
+,,,,,(cid:2)
+,CD3 (cells/mm2),CD45R/B220 (cells/mm2),IgG (cells/mm2),CD107b (cells/mm2),"MBP
+area (%)"
+CD3D,0.799*,0.739*,0.814*,0.792*,–0.415*
+CD3G,0.804*,0.655*,0.735*,0.830*,–0.435*
+PTPRC (CD45R/B220),0.818*,0.710*,0.844*,0.794*,–0.360*
+LAMP2 (CD107B),0.760*,0.572*,0.767*,0.718*,–0.486*
+IGH-1B,0.756*,0.753*,0.789*,0.731*,–0.570*
+IGH-4,0.775*,0.718*,0.808*,0.718*,–0.353*
+IGK-C,0.790*,0.705*,0.907*,0.815*,–0.452*
+MBP,–0.523*,–0.437*,–0.690*,–0.649*,0.518*

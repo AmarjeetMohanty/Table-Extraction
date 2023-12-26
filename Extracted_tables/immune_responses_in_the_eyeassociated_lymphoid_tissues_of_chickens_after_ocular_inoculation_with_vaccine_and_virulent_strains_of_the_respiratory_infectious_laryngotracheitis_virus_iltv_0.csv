@@ -1,0 +1,19 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+,Table 1. List of primers and the reaction conditions used for quantitation of host genes expression by,,,,,,,,,,
+,real-time PCR.,,,,,,,,,,
+,,,,,,Real Time PCR Reaction,,,,,
+Gene,,Primers (5’-3’),,Den c,,Ann d,,Ext e,Cycles,Eﬀ f,Reference
+,Fw a,CAACACAGTGCTGTCTGGTGGTA,◦,,,◦,,◦,,,
+β-actin,,,95,C (10 s) g,60,C (5 s),72,C (10 s),45,2,[23]
+,Rv b,ATCGTACTCCTGCTTGCTGATCC,,,,,,,,,
+,Fw,ACACTGACAAGTCAAAGCCGCACA,,◦,,◦,,◦,,,
+IFN-γ,,,95,C (10 s),60,C (5 s),72,C (10 s),45,1.98,[23]
+,Rv,GTCGTTCATCGGGAGCTTGGC,,,,,,,,,
+,Fw,TGGGTGTTAACAGCTGCTCATTGC,,◦,,◦,,◦,,,
+Granzyme,,,95,C (10 s),55,C (5 s),72,C (10 s),50,2.02,[24]
+,Rv,CACCTGAATCCCCTCGACATGAGT,,,,,,,,,
+,Fw,CCAAGACCTGGAGCACACCGAAG,,◦,,◦,,◦,,,
+IL-12p40,,,95,C (10 s),60,C (5 s),72,C (10 s),50,2.0,[25]
+,Rv,CGATCCCTGGCCTGCACAGAGA,,,,,,,,,
+,,,,,,,,,,,f
+,a Forward primer; b Reverse primers; c Denature temperature; d Annealing temperature; e Extension temperature;,,,,,,,,,,

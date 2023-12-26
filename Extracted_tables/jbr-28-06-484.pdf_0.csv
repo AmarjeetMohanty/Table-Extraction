@@ -1,0 +1,51 @@
+0,1,2,3,4,5,6,7,8,9
+"Table 1 Characteristics and IFN-c rs2430561, IL28B rs12979860 and ERa rs2077647 polymorphism genotype",,,,,,,,,
+,distributions in studies included in the meta-analysis,,,,,,,,
+,,,,,,,Sample size,,
+,,,,,,,,,HWE in
+Author,Year/countries,Ethnicity,Sources,SNPs,Genotypes,HC,SLC,PI,control
+Zhang PA[11],2006/China,Asian,Hospital-based,IFN-c rs2430561,TT/TA/AA,17/31/87,23/39/103,21/28/182,0.00 a
+,,,,,T vs A,65 vs 205,85 vs 245,70 vs 392,
+Gao QJ[10],2009/China,Asian,Population-based,IFN-c rs2430561,TT/TA/AA,7/53/14,-,9/35/25,0.00
+,,,,,T vs A,67 vs 81,,53 vs 85,
+Cheong JY[12],2006/South,Asian,Hospital-based,IFN-c rs2430561,TT/TA/AA,-,3/47/151,5/94/314,0.76
+,Korea,,,,T vs A,,53 vs 347,104 vs 722,
+Ribeiro CSS[33],2007/Brasil,"European,",Hospital-based,IFN-c rs2430561,TT/TA/AA,3/23/14,-,6/12/12,0.12
+,,African and,,,T vs A,29 vs 51,,24 vs 36,
+,,Amerindians,,,,,,,
+Arababadi,2011/ Iran,Caucasian,Population-based,IFN-c rs2430561,TT/TA/AA,25/47/28,-,14/25/18,0.55
+MK[34],,,,,T vs A,97 vs 103,,53 vs 61,
+Wu JM[35],2008/China,Asian,Hospital-based,IFN-c rs2430561,TT/TA/AA,-,23/30/7,32/50/36,0.55
+,,,,,T vs A,,76 vs 44,114 vs 122,
+Zhi LT[36],2006/China,Asian,Hospital-based,IFN-c rs2430561,TT/TA/AA,-,7/108/351,6/87/193,0.69
+,,,,,T vs A,,122 vs 810,99 vs 473,
+Peng XM[37],2007/China,Asian,Hospital-based,IFN-c rs2430561,TT/TA/AA,-,2/33/65,4/89/247,0.35
+,,,,,T vs A,,37 vs 163,97 vs 583,
+Liu MQ[8],2006/China,Asian,Hospital-based,IFN-c rs2430561,T vs A,253 vs 291,-,101/261,.0.05b
+Luz MC[14],2012/Spain,Caucasian,Hospital-based,IL28B rs12979860,CC/CT/TT,-,22/21/6,29/17/3,0.78
+,,,,,C vs T,,65 vs 33,75 vs 23,
+Martin MP[15],2010/United,Caucasian,Population-based,IL28B rs12979860,CC/CT/TT,-,157/175/52,99/94/33,0.77
+,States,,,,C vs T,,489 vs 279,292 vs 160,
+Shi XD[32],2011/China,Asian,Hospital-based,IL28B rs12979860,CC/CT/TT,19/0/0,-,114/23/0,.0.05b
+,,,,,C vs T,38 vs 0,,251 vs 23,
+Ren S[13],2012/China,Asian,Hospital-based,IL28B rs12979860,CC/CT/TT,43/4/0,33/7/3,177/46/16,0.01 a
+,,,,,C vs T,90 vs 4,73 vs 13,400 vs 78,
+Fabris C[38],2010/Italy,Caucasian,Population-based,IL28B rs12979860,CC/CT/TT,164/145/35,-,36/35/4,0.72
+,,,,,C vs T,473 vs 215,,107 vs 43,
+Chen J[39],2012/China,Asian,Population-based,IL28B rs12979860,CC/CT/TT,213/29/2,-,1043/152/10,0.37
+,,,,,C vs T,455 vs 33,,2238 vs 172,
+Peng LJ[40],2011/China,Asian,Population-based,IL28B rs12979860,CC/CT+TT,-,206/20,574/77,.0.05b
+Li WY[28],2011/China,Asian,Hospital-based,IL28B rs12979860,CC/CT+TT,179/24,180/23,178/25,.0.05b
+Lee DH[41],2013/Korea,Asian,Hospital-based,IL28B rs12979860,C vs T,381 vs 23,973 vs 62,-,.0.05b
+Deng GH[19],2004/China,Asian,Hospital-based,ERa rs2077647,TT/TC/CC,-,246/388/108,528/595/148,0.02
+,,,,,T vs C,,880 vs 604,1651 vs 891,
+Zhou N[42],2009/China,Asian,Hospital-based,ERa rs2077647,TT/TC/CC,23/35/22,-,96/57/19,0.26
+,,,,,T vs C,81 vs 79,,249 vs 95,
+Li ZX[43],2007/China,Asian,Hospital-based,ERa rs2077647,TT/TC/CC,21/33/16,-,73/49/15,0.66
+,,,,,T vs C,75 vs 65,,195 vs 79,
+Shan KR[44],2010/China,Asian,Population-based,ERa rs2077647,TT/TC/CC,26/26/8,-,20/23/2,0.71
+,,,,,T vs C,78 vs 42,,63 vs 27,
+Long L[45],2009/China,Asian,Population-based,ERa rs2077647,TT/TC/CC,71/79/36,-,70/94/7,0.10
+,,,,,T vs C,221 vs 151,,234 vs 108,
+Anghel A[46],2010/Romania Caucasian,,Hospital-based,ERa rs2077647,TT/TC/CC,48/57/9,-,4/7/1,0.16
+,,,,,T vs C,153 vs 75,,15 vs 9,

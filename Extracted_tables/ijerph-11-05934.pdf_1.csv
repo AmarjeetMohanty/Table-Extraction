@@ -1,0 +1,17 @@
+0,1,2
+"Int. J. Environ. Res. Public Health 2014, 11",,
+,Table 4. The fitness of the model.,
+Index,Criteria,Result
+χ2/df,<5,1.64
+GFI,>0.9,0.94
+AGFI,>0.8,0.91
+NFI,>0.9,0.98
+NNFI,>0.9,0.99
+CFI,>0.9,0.99
+IFI,>0.9,0.99
+RFI,>0.9,0.98
+PNFI,>0.5,0.77
+PGFI,>0.5,0.65
+RMSEA,<0.08,0.046
+RMR,<0.05,0.042
+SRMR,<0.05,0.032

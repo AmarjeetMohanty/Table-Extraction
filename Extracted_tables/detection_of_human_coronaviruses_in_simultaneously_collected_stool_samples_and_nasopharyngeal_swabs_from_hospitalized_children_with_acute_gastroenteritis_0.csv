@@ -1,0 +1,30 @@
+0,1,2,3,4,5,6,7
+Table 2 Patients with HCoVs demonstrated in stool samples and/or NP swabs at initial testing:,,,,,,,information on clinical
+"signs, viral species and results of follow-up testing",,,,,,,
+Patient,Clinical signs,HCoVs species in,Other viruses in,HCoVs species,Other viruses,Follow up,Follow up
+,,stool samples,stool samples,in NP swab,in NP swab,stool sample,NP swab
+1,AGE + RTI,OC43,neg,OC43,neg,neg,HKU1*
+2,AGE + RTI,OC43,Norovirus,OC43,neg,neg,neg
+3,AGE + RTI,OC43,"Rotavirus, AdV",OC43,AdV,AdV,"OC43, AdV"
+4,AGE + RTI,NL63,Rotavirus,NL63,hRV,neg,"NL63, hRV, PIV*"
+5,AGE,HKU1,SRV,OC43,"HBoV, hRV, PIV",neg,HKU1**
+6,AGE,229E,neg,neg,neg,neg,neg
+7,AGE + RTI,neg,neg,OC43,neg,neg,neg
+8,AGE + RTI,neg,neg,OC43,neg,NA,NA
+9,AGE + RTI,neg,neg,NL63,hRV,neg,neg*
+10,AGE + RTI,neg,Astrovirus,NL63,"RSV,
+INF A",neg,neg
+11,AGE + RTI,neg,Rotavirus,HKU1,neg,neg,"RSV,PIV*"
+12,AGE + RTI,neg,Rotavirus,HKU1,neg,NA,NA
+13,AGE + RTI,neg,AdV,HKU1,"AdV, RSV",NA,NA
+14,AGE + RTI,neg,"Rotavirus, AdV",HKU1,neg,neg,hRV
+15,AGE + RTI,neg,"Norovirus, AdV",HKU1,"AdV, HBoV",neg,neg
+16,AGE,neg,neg,OC43,neg,neg,neg
+17,AGE,neg,neg,229E,neg,neg,neg
+18,AGE,neg,Rotavirus,OC43,neg,neg,neg
+19,AGE,neg,"Rotavirus, AdV",OC43,neg,neg,NA
+20,AGE,neg,Rotavirus,HKU1,neg,neg,neg
+21,AGE,neg,"Norovirus, AdV",HKU1,neg,AdV**,HKU1
+22,AGE,neg,"Rotavirus, AdV",229E,neg,neg,RSV*
+23,AGE,neg,Rotavirus,229E,neg,neg,neg
+"Key: *RTI, respiratory tract infection; **AGE, acute gastroenteritis; OC43; human coronavirus OC43; NL63, human coronavirus NL63; HKU1, human coronavirus",,,,,,,

@@ -1,0 +1,12 @@
+0,1,2,3,4
+,"Table 2. Precision, reproducibility, stability, and recovery of the eight bioactive constituents.",,,
+Compound,Precision,Reproducibility,Stability,Recovery (%)
+,RSD (%) (n = 6),RSD (%) (n = 6),RSD (%) (n = 6),(n = 9) Mean ± RSD (%)
+Hypoxanthine,0.15,0.46,0.22,101.5 ± 1.63
+Uridine,0.18,0.10,0.39,101.2 ± 1.33
+Adenosine,0.07,0.61,0.49,101.1 ± 1.11
+Guanosine,0.12,1.24,1.30,100.9 ± 1.72
+Progoitrin,0.11,0.19,0.24,99.5 ± 1.81
+Epiprogoitrin,0.11,1.92,1.44,100.2 ± 1.73
+"R,S-goitrin",0.48,0.72,0.91,100.4 ± 0.73
+Gluconapin,0.31,0.33,0.48,103.0 ± 1.14

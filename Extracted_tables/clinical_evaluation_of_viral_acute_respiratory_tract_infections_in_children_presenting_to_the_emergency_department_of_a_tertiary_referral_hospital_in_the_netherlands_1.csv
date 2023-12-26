@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6,7,8
+Table 2 Outcomes associated with single respiratory virus infections in children aged < 3 years,,,,,,,,
+,Single virus ARTI,,,,,Statistical analysis,,
+,Total,RSV,HRV,FLU,Other,vs,Multivariate$,P
+,N (%),N (%),N (%),N (%),N (%),,OR (95%CI),value
+Diagnostics,,,,,,,,
+Chemistry/hematology,,,,,,,,
+CRP ≥ 35 mg/L,28/81 (35),11/32 (34),11/29 (38),2/9 (22),4/11 (36),?,?,NS
+WBC ≥ 15 x109/L,27/80 (34),11/32 (34),11/28 (39),2/9 (22),3/11 (27),?,?,NS
+Bacteriology,,,,,,,,NS
+PCR atypical bacteria,0/10 (0),0/2 (0),0/4 (0),0/1 (0),0/3 (0),?,?,NS
+"Culture, sterile site",2/45 (4),0/15 (0),1/17 (6),0/7 (0),1/6 (17),?,?,NS
+"Culture, non-sterile site",1/19 (5),0/7 (0),0/8 (0),0/1 (0),1/3 (33),?,?,NS
+Pulmonary imaging,,,,,,,,
+LRTI#,31/63 (37),15/24 (63),10/25 (40),3/6 (33),3/8 (38),?,?,NS
+Treatment,,,,,,,,
+Antibiotics,50/122 (41),24/53 (45),17/43 (40),3/11 (27),6/15 (40),?,?,NS
+Bronchodilators,31/113 (27),12/48 (25),15/39 (38),2/11 (18),2/15 (13),HRV vs Other,7.0 (1.2-42),.03
+,,,,,,HRV overall,3.0 (1.2-7.8),.02
+Steroids,26/117 (22),8/52 (15),13/39 (33),2/11 (18),3/15 (20),HRV vs RSV,3.5 (1.2-11),.03
+,,,,,,HRV overall,3.4 (1.2-9.3),.02
+Oxygen therapy,67/118 (57),38/52 (73),22/41 (54),1/10 (10),6/15 (40),RSV vs FLU,26 (3.0-225),< .01
+,,,,,,RSV vs Other,4.2 (1.3-14),.02
+,,,,,,HRV vs FLU,11 (1.2-97),.03
+,,,,,,RSV overall,3.6 (1.6-8.0),< .01
+,,,,,,FLU overall,.05 (.01-.40),< .01
+Adverse outcome,,,,,,,,
+Hospital admission,99/123 (80),46/53 (87),33/44 (75),8/11 (73),12/15 (80),?,?,NS
+Severe respiratory complication,15/123 (12),3/53 (6),9/44 (20),1/11 (9),2/15 (13),HRV vs RSV,5.0 (1.2-21),.03
+,,,,,,HRV overall,3.5 (1.0-11),.04
+,,,,,,RSV overall,.24 (.06-.92),.04
+Apnea,5/123 (4),1/53 (2),4/44 (9),0/11 (0),0/15 (0),?,?,NS
+Intubation,7/123 (6),1/53 (2),5/44 (11),0/11 (0),1/15 (7),?,?,NS
+ALTE,6/123 (5),1/53 (2),3/44 (7),1/11 (9),1/15 (7),?,?,NS
+Mortality ≤ 7 days,0/123 (0),0/53 (0),0/44 (0),0/11 (0),0/15 (0),?,?,NS
+"ARTI, Acute Respiratory Tract Infection, CRP, C-reactive protein; WBC, White Blood Cell count; LRTI,",,,,,"lower respiratory tract infection; ALTE, Apparent Life Threatening",,,

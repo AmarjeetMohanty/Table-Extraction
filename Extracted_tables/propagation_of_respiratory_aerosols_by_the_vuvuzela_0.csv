@@ -1,0 +1,28 @@
+0,1,2,3,4,5,6
+,,,,,,Respiratory Aerosols from the Vuvuzela
+,"Table 1. Exhale duration, peak air velocity, particle concentration and mean particle diameter",,,,,recorded during playing the
+,vuvuzela and shouting by four male and four,,female volunteers.,,,
+ID,Experiment,Duration,Peak velocity,Peak particle conc.,Average particle conc.,GM1 Diameter
+,,s,m/s,"1,000’s per L","1,000’s per L",microns
+F1,Shout,2.4(0.3),0.2(0.1),6.1(0.6),6.1(0.4),0.8(0.0)
+,Vuvu,1.5(0.2),0.7(0.3),606(223),351(74),1.3(0.1)
+F2,Shout,3.9(0.7),0.1(0.0),6.5(0.5),6.4(0.3),0.9(0.0)
+,Vuvu,3.1(0.9),0.4(0.1),1077(109),680(44),1.5(0.1)
+F3,Shout,1.8(0.7),0.1(0.0),1.2(0.1),1.3(0.1),0.9(0.1)
+,Vuvu,1.4(0.1),0.3(0.1),220(260),134(143),1.2(0.1)
+F4,Shout,2.4(1.2),0.2(0.1),1.9(0.1),1.8(0.1),1.0(0.1)
+,Vuvu,2.3(0.4),0.3(0.1),396(335),263(280),1.2(0.1)
+M1,Shout,1.7(0.6),0.2(0.1),6.0(0.1),6.0(0.3),0.8(0.0)
+,Vuvu,2.4(0.5),0.8(0.1),1197(245),669(235),1.5(0.3)
+M2,Shout,1.3(0.1),0.2(0.0),1.5(0.3),1.5(0.2),1.1(0.1)
+,Vuvu,2.2(0.1),0.4(0.1),178(140),114(81),0.9(0.1)
+M3,Shout,1.5(0.5),0.2(0.0),3.2(2.5),2.9(1.8),1.4(0.4)
+,Vuvu,2.0(0.7),0.3(0.1),645(120),401(185),1.7(0.1)
+M4,Shout,2.3(0.5),0.1(0.0),3.0(0.8),2.9(0.7),0.9(0.0)
+,Vuvu,2.0(0.1),1.5(0.4),944(225),602(181),1.3(0.1)
+Mean{,Shout,2.2(0.8),0.2(0.1),3.7(2.2),3.6(2.2),1.0(0.2)
+,Vuvu,2.1(0.5),0.6(0.4),658(386),402(228),1.3(0.2)
+,{Results presented here are means from three repetitions (the standard deviation of,,,the repetitions is in brackets).,,
+{Mean and standard deviation of,,the means presented.,,,,
+,1Geometric mean diameter of particles at peak concentration.,,,,,
+doi:10.1371/journal.pone.0020086.t001,,,,,,

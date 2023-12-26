@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7
+,Table A11. This table summarizes the data and variables obtained during the challenge experiment,,,,,,
+,shown in Figure 3E.,,,,,,
+,Litter,Pup Age at,Time until,Pup Age at,Mean Cq from,,
+Group,,,,,,DD50,DD50/mL
+,Size,Challenge (Days),Diarrhea (Days),Sampling (Days),Triplicates,,
+A,3,4,2.5,6.5,38.235,0.003,2.143
+A,3,3,2,5,36.055,0.014,8.685
+B,4,4,2,6,29.280,1.075,672.166
+B,4,4,2.5,6.5,34.810,0.031,19.313
+B,3,5,2,7,33.390,0.077,48.053
+B,4,4,2,6,30.410,0.521,325.433
+C,4,4,2.5,6.5,33.770,0.060,37.652
+C,6,4,2,6,31.110,0.332,207.645
+C,5,5,2,7,28.445,1.838,1148.821
+D,6,4,1.5,5.5,33.880,0.056,35.085

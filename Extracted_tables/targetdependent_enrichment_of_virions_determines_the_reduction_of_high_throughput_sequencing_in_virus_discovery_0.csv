@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6,7
+Table 1. Quantity of virus in complex control sample material.,,,,,,,
+,,,,Copy number of cells or virus per μl sample,,,
+Sample,"HIV-1, provirus","HPV-18,",integrated,HAdV,EV,MeV plasmid,aRNA
+1,"4,000",0,,0,0,700,5
+2,400,0.4,,2.5,12.5,700,5
+3,40,0.4,,2.5,12.5,70,5
+4,4,4,,25,125,70,5
+5,0.4,40,,25,125,7,5
+6,0.4,400,,250,"1,250",7,5
+7,0,"4,000",,"2,500","12,500",0,5

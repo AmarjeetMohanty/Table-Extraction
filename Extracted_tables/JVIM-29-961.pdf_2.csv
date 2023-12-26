@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6
+bovine plasma IV (PL).,,,,trum (CL) or administered bovine plasma IV (PL).,,
+,Group,,,,Group,
+Estimates (95%,,,,,,
+conﬁdence interval),CL,PL,Time,CL (mg/dL),,PL (mg/dL)
+Y0 (mg/dL),"1,980 (1,822–2,137)","1,042 (940.9–1,143)",0 h,17 (17),,17 (17)
+Plateau,0,0,6 h,17 (17),,17 (17)
+K (d),0.040 (0.014–0.067),0.158 (0.096–0.219),12 h,17 (17),,17 (17)
+Tau,24.73 (15.0–70.36),6.35 (4.57–10.39),24 h,17 (17),,17 (17)
+Half-life (d),17.1 (10.4–48.8),4.4 (3.2–7.2),48 h,54.6 (9–83.8),,22.2 (9–94.3)
+R2,0.11,0.36,5 d,68.3 (36.4–99.5)*,,22.0 (9–29.5)*
+,,,7 d,14.1 (9–67.6),,10 (9–37.2)
+,The plateau was constrained to zero after subtracting the precol-,,,,,

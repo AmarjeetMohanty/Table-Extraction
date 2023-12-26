@@ -1,0 +1,23 @@
+0,1,2,3,4,5
+Table 1,,,Table 2,,
+Genotype frequencies of TNF −308 in SLE cases compared to controls.,,,,Genotype frequencies of IFNG +874 in SLE cases compared to controls.,
+TNF −308 GNA,SLE,Controls,IFNG +874 ANT,SLE,Controls
+,% (n = 125),% (n = 112),,% (n = 125),% (n = 112)
+Genotypes,,,Genotypes,,
+GG,92 (73.6),98 (87.5),AA,66 (52.8),76 (67.9)
+GA,28 (22.4),13 (11.6),AT,52 (41.6),29 (25.9)
+AA,5 (4.0),1 (0.9),TT,7 (5.6),7 (6.2)
+HWE,"χ2 = 2.15, p N 0.05","χ2 = 0.66, p N 0.05",HWE,"χ2 = 0.62, p N 0.05","χ2 = 3.06, p N 0.05"
+Alleles,,,Alleles,,
+G,212 (84.8),209 (93.3),A,184 (73.6),181 (79.9)
+A,38 (15.2),15 (6.7),T,66 (26.4),43 (20.1)
+Statistics,p,OR (95% CI),Statistics,p,OR (95% CI)
+,⁎⁎,,,0.02⁎,
+AA + GA vs. GG (dominant),0.009,2.51 (1.26–4.99),TT + AT vs. AA (dominant),,1.89 (1.11–3.21)
+,⁎,,,0.01⁎⁎,
+GA vs. GG + AA (overdominant),0.04,2.20 (1.08–4.49),AT vs. AA + TT (overdominant),,2.04 (1.17–3.54)
+AA vs. GG + GA (recessive),0.22,4.63 (0.53–40.21),TT vs. AA + AT (recessive),1.0,0.89 (0.30–2.62)
+,⁎⁎,,,,
+A allele vs. G allele,0.003,2.50 (1.33–4.68),T allele vs. A allele,0.13,1.43 (0.93–2.20)
+⁎,,,⁎,,
+p b 0.05 = signiﬁcant.,,,p b 0.05 = signiﬁcant.,,

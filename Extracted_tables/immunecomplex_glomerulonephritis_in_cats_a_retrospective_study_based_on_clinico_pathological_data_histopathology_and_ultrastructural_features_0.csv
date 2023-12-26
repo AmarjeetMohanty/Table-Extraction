@@ -1,0 +1,39 @@
+0,1,2,3,4
+,"Table 1 Breed, sex, age, FIV and FeLV status, serum creatinine concentration, UPC ratio, SBP and IRIS stage in cats with different",,,
+morphological types of,ICGN,,,
+Variable,,ICGN subtype # of cats (%),,
+,,MGN,MPGN,MeGN
+Breed: DSH vs. purebred,,,,
+absolute number,,17 vs. 0,13 vs. 1,4 vs. 1
+(%),,(100 vs. 0),(92.9 vs. 7.1),(80 vs. 20)
+Sex: SF vs. NM,,,,
+absolute value,,7 vs. 11,6 vs. 8,3 vs. 2
+(%),,(38.9 vs. 61.1),(42.9 vs. 57.1),(60 vs. 40)
+Age (years),,,,
+mean ± sd,,8.7 ± 2.8,9.1 ± 3.6,11 ± 4.2
+"(median;
+range)",,(9; 4–14),(9; 4–15),(12; 4–15)
+"FIV status: + vs.
+-",,,,
+absolute value,,5 vs. 13,4 vs. 10,1 vs. 4
+(%),,(27.8 vs. 72.2),(28.6 vs. 71.4),(20 vs. 80)
+"FeLV status: + vs.
+-",,,,
+absolute value,,1 vs. 17,1 vs. 13,1 vs. 4
+(%),,(5.3 vs. 94.4),(7.1 vs. 92.9),(20 vs. 80)
+Creatinine (mg/dL),,,,
+mean ± sd,,3 ± 2.3,3.7 ± 2.6,3.3 ± 1.7
+"(median;
+range)",,(2.3; 1.2–11.1),(2.9; 1.1–9.5),(3.4; 0.6–5.2)
+UPC ratio,,,,
+mean ± sd,,7.6 ± 4,6.4 ± 1.9,7 ± 3.3
+"(median;
+range)",,(6.6; 2.4–18.6),(6.5; 3.9–10.5),(5.4; 3.4–11.4)
+SBP (mmHg),,,,
+mean ± sd,,155 ± 30,156 ± 19,147 ± 32
+"(median;
+range)",,(155; 120–200),(160; 120–190),(160; 110–170)
+IRIS stage: 1 vs 2 vs 3 vs 4,,3 vs 9 vs 4 vs 2,1 vs 6 vs 4 vs 3,1 vs 0 vs 3 vs 1
+absolute value,,(16.7 vs 50.0 vs,(7.1 vs 42.9 vs 28.6,(20 vs 0 vs 60 vs
+(%),,22.2 vs 11.1),vs 21.4),20)
+"ICGN,","immune-complex glomerulonephritis; MGN, membranous glomerulonephropathy; MPGN, membranoproliferative glomerulonephritis; MeGN,",,,

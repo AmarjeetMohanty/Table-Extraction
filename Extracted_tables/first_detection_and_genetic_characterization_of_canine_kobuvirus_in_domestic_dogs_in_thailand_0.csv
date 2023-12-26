@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6,7,8
+Table 1 Detail description of Thai CaKoVs characterized in this study,,,,,,,,
+Virus,Date,Location,Region,Age,Breed,Clinical signs,Sequencing,GenBank
+,,,,,,,,Accession number
+CU-53,Oct-16,Bangkok,Central,2 months,Pomeranian,Diarrhea,WGa,MK201776
+CU-101,Dec-16,Bangkok,Central,3 months,Pekingese,Diarrhea,WG,MK201777
+CU-249,May-17,Bangkok,Central,3 months,Pomeranian,Diarrhea,WG,MK201778
+CU-716,Jan-18,Bangkok,Central,12 years,Shizu,Diarrhea,WG,MK201779
+CU-83,Nov-16,Bangkok,Central,2 months,Pomeranian,Diarrhea,"3D, VP1b","MK201780, MK201788"
+CU-100,Dec-16,Ratchaburi,Central,6 months,Great Dane,Diarrhea,"3D, VP1","MK201781, MK201789"
+CU-125,Jan-17,Tak,Northern,2 months,Bang Keaw,Asymptomatic,"3D, VP1","MK201782, MK201790"
+CU-224,Feb-17,Bangkok,Central,9 years,Pomeranian,Diarrhea,"3D, VP1","MK201783, MK201791"
+CU-241,Apr-17,Bangkok,Central,3 months,Mixed,Diarrhea,"3D, VP1","MK201784, MK201792"
+CU-250,May-17,Bangkok,Central,3 months,Pomeranian,Diarrhea,"3D, VP1","MK201785, MK201793"
+CU-260,Jun-17,Nakhon Ratchasima,North- Eastern,2 months,German Shepherd,Diarrhea,"3D, VP1","MK201786, MK201794"
+CU-273,Aug-17,Bangkok,Central,2 months,Pomeranian,Diarrhea,"3D, VP1","MK201787, MK201795"
+aWG Whole genome sequencing,,,,,,,,

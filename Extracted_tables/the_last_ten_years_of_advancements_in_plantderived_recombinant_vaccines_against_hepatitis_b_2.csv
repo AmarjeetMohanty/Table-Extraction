@@ -1,0 +1,43 @@
+0,1,2,3,4,5,6
+,,,Table 3. Cont.,,,
+,Host Plant/,Binary Vector/,,,,
+Antigen,,,Promoter/Targeting,Maximum Yield,Application and Results,Reference
+,Expression System,Agrobacterium Strain,,,,
+,Tomato/transgenic,pCAMBIA1301/EHA105,35S/n.a.,n.a.,n.a.,[197]
+,,,,,"Oral, IgA and IgG antibodies in serum",
+,Tomato/transgenic,pBINPLUS-ARS/LBA4404,35S/n.a.,0.3 µg/g DW (fruit),,[193]
+,,,,,(maximum 300 mIU/mL),
+,Carrot cell/transgenic,pPCV812/n.a.,MAS/n.a.,25 ng/g FW,n.a.,[198]
+S-HBsAg,,,,,,
+,Laminaria,,,,,
+,,pCAT/n.a.,SV40/n.a.,0.05%–0.25% of TSP,n.a.,[199]
+,japonica/transgenic,,,,,
+,Peanut/transgenic,pCAMBIA1301/EHA105,35S/n.a.,240 ng/g FW (bud),Injection,[200]
+,,,,,"Injection, IgG antibodies in serum",
+,N. tabacum/transgenic,n.a.,n.a.,10 µg/g FW,,[177]
+,,,,,(maximum 1165 mIU/mL),
+,Tobacco/transgenic,pGPTV-BAR/EHA105,35S/n.a.,12–21 µg/g FW,n.a.,[201]
+,,,,,"Injection, IgA and IgG antibodies in serum",
+,N. benthamiana/transient,pIBT210/LBA4404,35S/n.a.,0.04% of TSP,,[182]
+,,,,,(maximum 1165 mIU/mL),
+,,,,,"Oral, IgG antibodies in serum",
+M-HBsAg,Potato/transgenic,pBI121/LBA4404,PAT/n.a.,0.012% of TSP (tuber),"(maximum 800 mIU/mL), Oral, IgA and IgG","[167,202]"
+,,,,,antibodies in serum (maximum 558 mIU/mL),
+,Lettuce/transgenic,pGPTV-BAR/EHA105,35S/n.a.,2–23 µg/g FW,n.a.,[201]
+,Tomato/transgenic,pBINPLUS-ARS/LBA4404,35S/n.a.,0.002% of TSP (fruit),n.a.,[203]
+,,,,0.003%–0.021% of,"Oral (freeze-dried material),",
+,Tomato/transgenic,pBINPLUS-ARS/AGLO,35S/n.a.,,,"[204,205]"
+,,,,TSP (fruit),IgG antibodies in serum,
+,Carrot/transgenic,pBINPLUS-ARS/n.a.,35S/ER,42 ng/g FW (leaf),n.a.,[206]
+,Tobacco/transgenic,pGPTV-BAR/EHA105,35S/n.a.,4–13 µg/g FW,n.a.,[201]
+L-HBsAg,Lettuce/transgenic,pGPTV-BAR/EHA105,35S/n.a.,3–20 µg/g FW,n.a.,[201]
+,Tomato/transgenic,pYPX143/LBA4404,2A11/n.a.,0.5 µg/g FW (Fruit),n.a.,[171]
+,N. tabacum/transgenic,pBIN19/LBA4404,E12Ω/n.a.,24 µg/g FW,n.a.,[207]
+,,,,,"Injection and Oral,",
+,N. tabacum/transient,pICH11599/GV3101,35S/n.a.,2.38 mg/g FW,,[208]
+,,,,,IgA and IgG antibodies in serum,
+Hepatitis B,,,,,,
+core antigen,N. benthamiana/transient,pBINPLUS/LBA4404,35S/n.a.,1 mg/g FW,n.a.,[209]
+,N. benthamiana/transient,pBY023/LBA4404,35S/n.a.,0.18 mg/g FW,n.a.,[210]
+,N. benthamiana/transient,pEAQ-HT/LBA4404,35S/n.a.,0.2–1 mg/g FW,n.a.,[211]
+,"* n.a.: Not available; TSP, total soluble protein; UBQ3, ubiquitin 3; ER, endoplasmic reticulum; FW, fresh weight; PAT, patatin; PBS, phosphate buffered saline; EFE, ethylene-forming",,,,,

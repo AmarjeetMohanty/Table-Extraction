@@ -1,0 +1,15 @@
+0,1,2,3,4,5
+,Research article,,,,Immunology Microbiology and Infectious Disease
+,"Table 3. Knockout of ADAR1 or ADAR1p150 from WT, MAVS KO, RNASEL KO, PKR KO, NS2-WT or NS2H126R –WT cells.",,,,
+Genotype of parent cells,,sgRNA,Resulting KO cells,,
+,,,Name,Number of clones screened,Number of KO clones obtained
+WT,,sgADAR1-6,p150 KO,24,12
+,,sgADAR1-4,NA*,17,0
+MAVS KO,,sgADAR1-6,MAVS-p150 KO,24,8
+,,sgADAR1-4,MAVS-ADAR1 DKO,23,8
+RNASEL KO,,sgADAR1-4,RNASEL-ADAR1 DKO,24,2
+PKR KO,,sgADAR1-4,NA,24,0
+WT NS2,,sgADAR1-4,NS2-ADAR1 KO,56,4
+WT NS2H126R,,sgADAR1-4,NA,54,0
+"*NA, Not available.",,,,,
+DOI: 10.7554/eLife.25687.010,,,,,

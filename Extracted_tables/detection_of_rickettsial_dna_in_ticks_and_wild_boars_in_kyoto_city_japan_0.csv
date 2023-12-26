@@ -1,0 +1,42 @@
+0,1,2,3,4,5,6,7,8,9
+Table 1.,Ticks collected in the area around Kyoto City,,,,,,,,
+Plants/,Area of,Collection point,,Tick species,,Numbers of ticks collected,,,Total
+,,,Collection date,,,,,,
+Wild bores,Kyoto City,(Altitude),,collected,Male,Female,Nymph,Larva,number
+Plants,I (North),A (Keihokuyuzuki),9 Aug,H. longicornis,3,6,3,147,159
+,,(232 m),,,,,,,
+,,B (Hanasetouge),30 Aug,H. longicornis,1,1,4,0,6
+,,(765 m),,,,,,,
+,,C (Hanasebessyo),30 Aug,H. longicornis,0,0,12,182,194
+,,(496 m),,,,,,,
+,,D (Seryoutouge),30 Aug,H. longicornis,0,0,1,367,368
+,,(428 m),,H. flava,0,0,0,4,4
+,,E (Sizuhara),30 Aug,H. longicornis,0,1,3,"1,564",1568
+,,(274 m),,H. flava,0,0,0,22,22
+,II (West),F (Himuro),"20 May,",H. longicornis,4,1,157,134,296
+,,(380 m),28 Jul,H. flava,0,0,15,14,29
+,,,,H. kitaokai,2,3,0,0,5
+,,,,A. testudinarium,0,0,0,1,1
+,,G (Sawaike),"20 May,",H. longicornis,8,8,72,0,88
+,,(370 m),"6 Jun,",H. flava,5,4,42,0,51
+,,,15 Jul,A. testudinarium,0,0,2,0,2
+,,H (Arashiyama kouen),25 Aug,H. longicornis,0,0,0,26,26
+,,(71 m),,H. flava,0,0,0,47,47
+,,I (Haikata),31 Aug,H. longicornis,0,0,0,166,166
+,,(392 m),,H. flava,0,0,0,51,51
+,,J (Jyurin-ji),31 Aug,H. longicornis,0,0,0,0,0
+,,(114 m),,H. flava,0,0,0,0,0
+,,K (Yoshimine-dera),31 Aug,H. longicornis,0,0,0,0,0
+,,(292 m),,H. flava,0,0,0,0,0
+,III (East),L (Daimonji-yama),12 Jul,H. longicornis,2,9,16,0,27
+,,(437 m),,H. flava,0,0,1,0,1
+,,,,A. testudinarium,0,0,4,0,4
+,,M (Bisyamonn-dou),26 May,H. longicornis,1,1,8,0,10
+,,(98 m),,H. flava,0,0,2,0,2
+,,,,A. testudinarium,0,0,2,0,2
+,IV (East),N (Syougunnzuka),8 Sep,D. taiwanensis,0,1,0,0,1
+,,(207 m),,,,,,,
+Wild boars,,O (Yamashina-ku),15 Jun,H. longicornis,10,9,2,0,21
+,,,,H. flava,5,14,0,0,19
+,,,,A. testudinarium,25,3,0,0,28
+Total number,,,,,66,61,346,2725,3198

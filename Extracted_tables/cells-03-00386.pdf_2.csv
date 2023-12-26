@@ -1,0 +1,17 @@
+0,1,2,3,4
+,accessory proteins with the respective target proteins and biological effects that have been,,,
+identified so far.,,,,
+Viral,Cullin-RING finger Ub,,,
+,,Target protein,Biological effects,References
+protein,ligase complex,,,
+,,,Prevention of A3s incorporation,
+Vif,CBF-β-ElonginB-,,into the budding virions,Guo et al.
+,,APOBEC3 (A3),,
+(HIV-1),ElonginC-Cullin5-Rbx,,Prevention of proviral,2014 [123]
+,,,DNA hypermutation,
+,,,Retention in the ER and delivery,
+,,,to the ER-associated degradation,Nomaguchi et al.
+,,CD4,,
+,,,(ERAD) pathway,2008 [124]
+,,,Prevention of superinfection,
+,,,,Goffinet et al.

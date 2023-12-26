@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6
+Missing values were replaced with averages and used in the ITT group data analysis.,,,,,,
+,,Table 8: Comparison (nonparametric statistical analysis) of serum cytokine levels.,,,,
+Variable,Group,Expected value under H0,Std. dev. under H0,Mean score,𝑍-value,𝑝 value
+,EAP group,"1,463",96.26,40.43,,
+IL-10,,,,,0.7584,0.2241
+,Placebo group,"1,463",96.26,36.57,,
+,EAP group,"1,463",96.24,39.86,,
+IL-6,,,,,0.5299,0.2981
+,Placebo group,"1,463",96.24,37.14,,
+,EAP group,"1,463",96.26,36.58,,
+IL-8,,,,,-0.7532,0.2257
+,Placebo group,"1,463",96.26,40.42,,
+,EAP group,"1,463",96.20,39.64,,
+TNF-𝛼,,,,,0.447,0.3275
+,Placebo group,"1,463",96.20,37.36,,
+A Wilcoxon’s rank-sum test was used for variables that do not follow normality.,,,,,,

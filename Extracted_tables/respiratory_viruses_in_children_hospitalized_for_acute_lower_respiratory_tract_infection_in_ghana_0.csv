@@ -1,0 +1,15 @@
+0,1,2,3,4,5
+,Table 2 Association between age groups and respiratory virus infection,,,,
+,,,,Age (months),
+,,≤ 5,6 to 23,24 to 60,p-value
+,,(n = 30),(n = 59),(n = 39),
+Infections,,,,,
+Patients infected with at,"least one virus, no.(%)",6(20.0),18(30.5),9(23.1),0.549
+"Respiratory syncytial virus, no (%)",,4(13.3),9(15.3),5(12.8),1.000
+"Adenovirus, no.
+(%)",,2(6.7),8(13.6),3(7.7),0.596
+"Parainfluenza 1, no.
+(%)",,0 (0.0),1(1.7),1 (2.6),1.000
+"Parainfluenza 3, no.
+(%)",,0 (0.0),2(3.4),1(2.6),0.798
+"Influenza B, no.(%)",,0 (0.0),1(1.7),0 (0.0),1.000

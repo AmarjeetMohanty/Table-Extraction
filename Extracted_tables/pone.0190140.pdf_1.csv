@@ -1,0 +1,15 @@
+0,1,2,3,4,5
+,Table 2. Shelter URI summary statistics.,,,,
+Shelter,Adult feline intakes,Cat days at risk,URI cat days,Adult URI cases,Avg. yearly URI rate
+,,,,(occurring >2 days in shelter),(URI cases divided by cat days at risk times 1000)
+1,3148,31396,1173,187,6.0
+2,747,18788,1297,124,6.6
+3,1733,20904,854,119,5.7
+4,996,13742,2255,183,13.3
+5,704,9286,718,88,9.5
+6,4137,52231,12324,1223,23.4
+7,4214,28353,11208,949,33.5
+8,652,29015,263,20,0.7
+9,2042,7272,1829,236,32.5
+Totals,18373,210987,31924,3129,14.8
+https://doi.org/10.1371/journal.pone.0190140.t002,,,,,

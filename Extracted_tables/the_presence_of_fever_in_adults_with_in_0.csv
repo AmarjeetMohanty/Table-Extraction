@@ -1,0 +1,26 @@
+0,1,2,3,4
+,,,Fever in inﬂuenza and viral,"infection
+151"
+,Table 3. Predictors of fever in cases with viral respiratory infections,,,
+,Cases with,,Univariate analysis,Multivariate analysis
+Variable,fever (n/N),Rate (%),"(RR, 95% CI)","(RR, 95% CI)"
+Country,,,,
+China (trials 1 and 2),15/90,16·7,Ref.,Ref.
+Vietnam (trial 3),22/68,32·4,2·39 (1·13–5·07),2·99 (1·24–7·20)
+Profession,,,,
+Doctors,12/56,21·4,0·84 (0·38–1·84),
+Nurses,25/102,24·5,Ref.,
+Age,,,0·96 (0·92–1·01),
+Gender,,,,
+Male,9/21,42·9,2·92 (1·12–7·62),
+Female,28/137,20·4,Ref.,
+Smoking status,,,,
+Current/ex-smoker,7/12,58·3,5·41 (1·60–18·26),4·65 (1·33–16·25)
+No,30/146,20·5,Ref.,Ref.
+Inﬂuenza vaccine,,,,
+Yes,6/22,27·3,1·27 (0·46–3·52),
+No,31/136,22·8,Ref.,
+Type of virus,,,,
+Inﬂuenza virus,3/13,23·1,1·09 (0·28–4·24),1·89 (0·43–8·31)
+All other viruses*,28/130,21·5,Ref.,Ref.
+Co-infection,6/15,40,2·43 (0·80–7·40),4·19 (1·21–14·52)

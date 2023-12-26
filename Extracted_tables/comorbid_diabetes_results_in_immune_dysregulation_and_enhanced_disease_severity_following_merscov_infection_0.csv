@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Table 1. Histological summary of lung pathology from male DPP4H/M mice infected with 1.5 × 105 PFU of MERS-CoV Jordan,,,,,,,,,,,,,,
+,,2 dpi,,,4 dpi,,,7 dpi,,10 dpi,,14 dpi,,,21 dpi
+Pathology metric,Ctrl,,Db,Ctrl,,Db,Ctrl,,Db,Ctrl,Db,Ctrl,Db,Ctrl,Db
+Overall inflammation,++,,+,++,,++,+++,,+++,+++,+++,++++,+++,++,++++
+Bronchiolar inflammation,+,,–,+,,+,++,,+++,+++,+++,++,++,+,+++
+Perivascular/arterial,++,,+,++,,++,++,,+++,+++,+++,++,++,++,+++
+inflammation,,,,,,,,,,,,,,,
+Pleuritis,–,,–,+,,–,+,,+,+,+,++,++,+,++
+Edema,–,,–,–,,–,++,,++,++,+++,++,+,–,+
+Hemorrhage,+,,+,+,,+,+,,+,++,+,–,+,+,–
+Eosinophils,–,,–,–,,–,–,,–,–,–,–,–,–,–
+Neutrophils,+,,–,+,,–,+,,+,–,–,–,–,–,–
+Macrophages,+,,–,+,,+,+++,,++,++++,+++,++++,+++,++,+++
+Lymphocytes,++,,+,++,,++,+++,,+++,+++,+++,++,++,++,+++
+Interstitial/alveolar,–,,–,–,,–,+,,–,–,–,–,–,–,–

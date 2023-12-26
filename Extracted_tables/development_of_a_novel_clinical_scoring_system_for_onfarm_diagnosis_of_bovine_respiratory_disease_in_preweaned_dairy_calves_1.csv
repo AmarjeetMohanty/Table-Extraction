@@ -1,0 +1,19 @@
+0,1,2,3,4,5,6
+,The decision rule used to classify calves as,,,"score positive for BRD if Stotal ≥ Scp, and score negative",,
+,otherwise. The greatest proportion of calves identiﬁed over all of the possible cut-points was 91.5% when,,,,,
+,the cut-point was set to 4.,,,,,
+Scp,Pr (Stotal,>= Scp|Case),Pr (Stotal,< Scp|Control),Total % correctly classiﬁed,LR+a
+2,96.2%,,74.3%,,83.7%,4
+3,95.9%,,81.4%,,87.6%,5
+4,95.4%,,88.6%,,91.5%,8
+5,91.1%,,90.0%,,90.5%,9
+6,85.9%,,92.4%,,89.6%,11
+7,78.8%,,93.3%,,87.1%,12
+8,59.3%,,95.4%,,80.0%,13
+9,56.4%,,95.5%,,78.8%,13
+10,32.7%,,97.2%,,69.6%,12
+11,26.4%,,98.0%,,67.3%,13
+12,16.9%,,98.7%,,63.7%,13
+13,7.9%,,99.2%,,60.2%,10
+14,7.7%,,99.3%,,60.1%,11
+16,0.4%,,99.9%,,57.3%,4

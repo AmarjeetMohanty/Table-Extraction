@@ -1,0 +1,40 @@
+0,1,2,3,4
+,,,,Hands–On/ Turnaround Times
+Assay,Manufacturer,Method,Virus Detected,
+,,,,(min)
+,,,"Flu A, Flu B, RSV, hMPV,",< 1 /20-120
+MariPOC® respi test,ArcDia,Antigen detection,,
+,,,"PIV1-3, ADV",
+,,Nucleic acid extraction,,1 / 60
+Xpert® Flu,Cepheid,Real-time multiplex RT-,"Flu A, Flu B, 2009 H1N1",
+,,PCR,,
+,,Nucleic acid extraction,,1 / 60
+SimplexaTM Flu A/B &,,,,
+,Focus Diagnostics,Real-time multiplex RT-,"Flu A, Flu B, RSV",
+RSV Direct kit,,,,
+,,PCR,,
+,,,"Flu A, Flu B, RSV A, RSV B,",5 / 150
+Verigene® Respiratory,,,"2009 H1N1, Flu A H1, Flu A",
+virus plus test,,,"H3, oseltamivir-resistant 2009",
+,,Nucleic acid extraction,,
+,,,H1N1 (H275Y mutation),
+,,RT-PCR,,
+,Nanosphere,,,
+,,,"FluA, FluB, RSV A, RSV B,",5 / 90
+,,Nanoparticle probe-based,,
+,,,"2009 H1N1, Flu A H1, Flu A",
+Verigene® Respiratory,,DNA-array hybridization,,
+,,,"H3, oseltamivir-resistant 2009",
+virus XP test,,,,
+,,,"H1N1 (H275Y mutation), PIV 1-",
+,,,"4, ADV, hMPV, HRV, HEV",
+,,Nucleic acid extraction,,2 / 60
+,,,"ADV, hBoV, HCoV (HKU1,",
+,,RT,"NL63, 229E, OC43), Flu A H1,",
+Filmarray® Respiratory,,,,
+,Idaho technology Inc.,Multiplex nested-PCR,"2009 H1N1, Flu A H3, Flu B,",
+Panel,,,,
+,,,"hMPV, PIV1-4, RSV,",
+,,Detection by end-point,,
+,,,HRV/HEV,
+,,melting curves,,

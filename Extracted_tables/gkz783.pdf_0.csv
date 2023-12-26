@@ -1,0 +1,28 @@
+0,1,2,3,4
+"1058 Nucleic Acids Research, 2020, Vol. 48, No. 3",,,,
+,Table 1. Examples of translational readthrough (RT) in genes from different kingdoms of life,,,
+,Protein,RT %,Function of RT isoform,References
+Viruses,,,,
+Coliphage Q(cid:2),Minor coat protein,5%,Formation of infectious particles,"(20,27)"
+,A1,,,
+Tobacco mosaic virus,Replicase,10–35%,RNA polymerase domain,"(18,142)"
+Sindbis virus,nsP4,10%,Viral replication,"(28,143–145)"
+"Luteoviruses (BYDV, BWYV)",Coat protein,,Virus transmission,
+MuLV,Gag-pol,5%,Replication by gag-pol fusion protein,"(146,147)"
+Bacteria,,,,
+B. subtilis,SacB levansucrase,,Modification of enzymatic properties,(148)
+Eukaryotes,,,,
+S. cerevisae,PDE2,0.5–2.2%,Proteasome dependent degradation,(149)
+U. maydis,PGK,,Peroxisomal Targeting Signal 1,(150)
+A. nidulans,GAPDH,,Peroxisomal Targeting Signal 1,
+Rabbit,(cid:2)-globin,,,(151–153)
+Vertebrates,MPZ,14%,Role in myelination,"(154,155)"
+Mammals,VEGFA,7–25%,Antiangiogenic activity,(8)
+,MTCH2,13%,,
+,AGO1,24%,,
+,OPRL1,31%,,(21)
+,OPRK1,13%,,
+,MAPK10,14%,,
+,AQP4,7%,,
+Human,LDHB MDH1,1.5–5%,Peroxisomal Targeting Signal 1,"(57,156)"
+,VDR,6.7%,Reduced transcriptional response to calcitriol,(157)

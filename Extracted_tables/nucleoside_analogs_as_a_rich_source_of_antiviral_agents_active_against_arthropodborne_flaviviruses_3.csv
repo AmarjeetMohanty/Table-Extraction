@@ -1,0 +1,9 @@
+0,1,2,3,4,5,6,7
+Table 1. Continued,,,,,,,
+Structure,Virus,Strain,"Cell
+line",Assay,EC50 (mM),CC50 (mM),References
+NITD203,DENV,New Guinea C,A549,CFI,0.54–0.71,ND,Chen et al.72
+,(1–4),MY10245,PBMC,CFI,<0.1,ND,Chen et al.72
+,,MY10340,PBMC,CFI,<0.1,ND,Chen et al.72
+,,MY22366,PBMC,CFI,<0.1,ND,Chen et al.72
+,,MY22713,PBMC,CFI,<0.1,ND,Chen et al.72

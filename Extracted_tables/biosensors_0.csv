@@ -1,0 +1,43 @@
+0,1,2,3,4,5
+"Biosensors 2013, 3",,,,,33
+,,Table 1. Summary of isothermal nucleic acid amplification methods.,,,
+Method,Amplification time,Reaction volume,Target,Detection limit a,Ref.
+,within 1 h,25 µL,hepatitis B virus (HBV) DNA,50 copies/25 μL,"[50,51]"
+,within 15 min,10 µL,prostate-specific antigen gene,23 fg/μL,[52]
+,within 1 h,5 µL,Pseudorabies virus (PRV) DNA,10 fg,[53]
+,,b,,,
+LAMP,within 1 h,,λDNA,two molecule,[54]
+,,,,24 colony forming,
+,1 h,,,,
+,,35 µL,E. coli genomic DNA,units (CFU)/mLl,[55]
+,35 min,,,48 CFU/mL,
+,,,N. gonorrhoeae genomic DNA,1 ng,
+,2 h,150 µL,Methicillin resistant S. aureus,,[74]
+,,,,250 pg,
+HDA,,,genomic DNA,,
+,0.5 h,~5 µL/192 nL,BNI-1 fragment of SARS cDNA,0.01 ng/μL,[76]
+,0.5 h,25 µL,E. coli genomic DNA,10 CFU,[78]
+,within 65 min,10 µL,Genomic DNA for V. cholerae,25 ng,[87]
+,4 h,2 pL,pIVEX2.2EM-lacZ plasmid,0.07 pg/μL,[90]
+RCA,,,,,
+,,,Human-malaria-causing,less than one,
+,2.5 h,pL,,,[91]
+,,,Plasmodium parasites,parasite/μL,
+,,,,b,
+MDA,10–16 h,60 nL,E. coli genomic DNA,,[99]
+,,,mecA gene of,less than,
+,within 20 min,10 µL,,,[102]
+,,,Staphylococcus aureus,10 copies,
+RPA,,,Methicillin-resistant,,
+,1 h,9 nL,Staphylococcus aureus,300 copies/mL,[106]
+,,,genomic DNA,,
+,within 2 h,10 nL,Human papillomavirus (HPV),1.0 ìM,[118]
+,,,Artificial human papilloma,,
+,,,,10−6 ìM,
+,"2,5 h",80 nL,virus (HPV) 16 sequences,,[119]
+NASBA,,,SiHa cell line samples,20 cells/μL,
+,,,,100 cells in,
+,"0,5 h",2 µL,E. coli tmRNA,,[121]
+,,,,100 ìL,
+,2–3 h,30 ìL,Water pathogens,105 CFU/mL,[122]
+,a The lowest detected concentration is shown when the detection limit is not reported; b Not available.,,,,

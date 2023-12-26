@@ -1,0 +1,26 @@
+0,1,2,3,4,5,6,7,8
+,,,a,,,,,
+Table 2. Selected Examples of Inorganic Nanoparticle-Based Signal Generation Probes,,,,,,,,
+signal generation probe/,,,,,,,assay,diagnostic
+method,biomarkers,"signal
+type",equipment,sample matrix,LOD,range,time,setting
+AgNPs,"YFV NS1, DENV NS1, and",colorimetric,lateral ﬂow assay (LFA),human serum,150 ng/mL,NR,NR,Level 1
+,ZEBOV glycoprotein229,,,,,,,
+,(a) MERS-CoV DNA,colorimetric,microﬂuidic paper,aqueous buﬀer,(a) 1.53 nM,(a) 20−10000 nM,NR,Level 1
+,,,analytical device (μPAD),,,,,
+,(b) MTB DNA,,,,(b) 1.27 nM,(b) 50−2500 nM,,
+,(c) HPV DNA231,,,,(c) 1.03 nM,(c) 20−2500 nM,,
+CdSe/ZnSQDs,(a) anti-HBV Abs,luminescent,microﬂuidic device,human serum,(a) 10 pM,10−10000 pM,∼1 h,Level 2−4
+,(b) anti-HCV Abs,,,,(b) 3 pM,,,
+,(c) anti-gp41 Abs253,,,,(c) 3 pM,,,
+dual (AuNP and QD) readout,EBOV glycoprotein257,colorimetric and,lateral ﬂow assay (LFA),"aqueous buﬀer/tap water,",AuNPs:,AuNPs: 20−1000 ng/mL,20 min,Level 1 or
+nanospheres (RNs),,luminescent,,"urine, and plasma",2 ng/mL,,,Level 2
+,,,,,QDs: 0.18 ng/,"QDs: 2−1,000 ng/mL",,
+,,,,,mL,,,
+Eu3+ chelate-loaded NPs,hemagglutinin (HA) 1289,ﬂuorescent,lateral ﬂow assay (LFA),spiked human,20 HAU/mL,10−160 HAU/mL,15 min,Level 2
+,,,,nasopharyngeal,,,,
+,,,,specimens,,,,
+,hepatitis B surface antigen,ﬂuorescent,lateral ﬂow assay (LFA),Aqueous buﬀer/Human,30 pg/mL,50−3130 pg/mL,30 min,Level 2
+,(HBsAg)305,,,serum,,,,
+"Y2O2S:Yb3+, Er3+ UCPs",circulating anodic antigen,ﬂuorescent,lateral ﬂow assay (LFA),human urine,0.03 pg/mL,0.03−100 pg/mL,∼4.5 h,Level 2
+,(CAA)317,,,,,,,

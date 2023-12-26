@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6
+,,,,A New Orthoreovirus Isolate from a Human Patient,,
+,"Table 4. Comparison of sequence identity and size (aa residues) of PRV7S S-encoded proteins to those of PRV6XR, PRV5HK, PRV4K,",,,,,
+"PRV3M, PRV2P and PRV1NB.",,,,,,
+,,Percentage sequence identity to cognate PRV7S protein (size in aa residues),,,,
+PRV7S segment/protein (size in aa residues),,,,,,
+,PRV6XR,PRV5HK,PRV4K,PRV3M,PRV2P,PRV1NB
+S1/p10 (95),71% (95),91% (89),94% (95),99% (95),98% (95),70% (95)
+S1/p17 (142),56% (147),87% (142),85% (142),98% (142),92% (142),52% (140)
+S1/sC (332),48% (323),66% (324),56% (331),97% (328),80% (327),42% (323)
+S2/s1 (416),NA*,93% (391),99% (416),99% (416),98% (416),97% (416)
+S3/sNS (367),99% (367),94% (347),99% (367),99% (367),99% (367),98% (367)
+S4/s2 (416),NA*,97% (357),97% (361),99% (361),94% (361),94% (361)
+*NA: sequence not available.,,,,,,
+doi:10.1371/journal.pone.0025434.t004,,,,,,

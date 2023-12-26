@@ -1,0 +1,26 @@
+0,1,2,3,4,5,6,7,8,9,10
+,,,,,,,,,A Putative Cross-Family Recombinant Bat Coronavirus,
+,"Table 1. Coding potential, transcription regulatory sequences and sequence comparisons of Ro-BatCoV GCCDC1 with Ro-BatCoV HKU9 strains,",,,,,,,,,
+"SARS-CoV, BatCoV HKU3 stains, MERS-CoV, BatCoV HKU4 strains and BatCoV HKU5 strains.",,,,,,,,,,
+ORFs,Nucleotide,Predicted,,Pairwise amino acid identity (%)a Ro-BatCoV GCCDC1 vs,,,,,Leader TRS region and,Distance (nt)
+,positions,size (aa) of,,,,,,,intergenic TRSb,from TRS to
+,,,HKU9sc,SARS-CoVd,HKU3se,MERS-CoVf,HKU4sg,HKU5sh,,
+,(start to end),protein,,,,,,,,ATG
+ORF,235–21155,6973,74.6–,47.1,47.3–,46.3,45.7–,46.1–,TCTAACGA ACTTAA,156
+1ab,,,75.4,,47.4,,45.8,46.2,,
+Spike,21121–24993,1290,58.8–,32.1,31.3–,27.9,28.4–,27.7–,CTGAACGAACTAGT,42
+,,,66.4,,31.4,,28.6,27.8,,
+NS3i,24990–25676,228,48.9–,NA,NA,NA,NA,NA,GAAAACGAACGGCA,3
+,,,50.7,,,,,,,
+E,25676–25906,76,61.8–,32.9,32.9,23.7,26.3,26.3,GATGTCGAACTGTG,4
+,,,69.7,,,,,,,
+M,25914–26579,221,75.6–,43.2,42.3–,41.1,41.1,43.6,TCTAACGA ACAGGA,27
+,,,80.5,,42.7,,,,,
+N,26627–27958,443,68.0–,39.1,39.5–,41.7,41.4–,38.4–,GGAAACGAACCTAT,5
+,,,71.7,,40.0,,41.7,38.7,,
+p10j,27994–29269,91,NA,NA,NA,NA,NA,NA,AATGACAAA CCCAA,97
+NS7a k,28287–28850,187,40.0,NA,NA,NA,NA,NA,TCTAACGA ACTCAT,5
+NS7b l,28863–29444,193,32.0–,NA,NA,NA,NA,NA,TCTAACGA ACTATG,1
+,,,42.0,,,,,,,
+NS7cm,29444–29893,149,30.0–,NA,NA,NA,NA,NA,GTAGACGAA CTTTG,4
+,,,53.0,,,,,,,

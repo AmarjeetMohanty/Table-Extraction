@@ -1,0 +1,12 @@
+0,1,2,3,4,5,6,7,8,9
+,,Table 12: The similarity distance for nine diﬀerent species of ND5 proteins calculated by the ClustalW.,,,,,,,
+,Human,Gorilla,P. chimp,C. chimp,F. whale,B. whale,Rat,Mouse,Opossum
+Human,0,10.7,7.1,6.9,41,41.3,50.2,48.9,50.4
+Gorilla,,0,9.7,9.9,42.7,42.4,51.4,49.9,54
+P. chimp,,,0,5.1,40.1,40.1,50.2,48.9,50.1
+C. chimp,,,,0,40.4,40.4,50.8,49.6,51.4
+F. whale,,,,,0,3.5,45.3,46.8,52.7
+B. whale,,,,,,0,45,45.9,52.7
+Rat,,,,,,,0,25.9,54
+Mouse,,,,,,,,0,50.8
+Opossum,,,,,,,,,0

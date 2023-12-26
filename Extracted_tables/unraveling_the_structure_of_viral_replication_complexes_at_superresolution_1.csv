@@ -1,0 +1,10 @@
+0,1,2,3,4,5
+,Sum of squares,df,Mean square,F,Sig.
+OUTER DIAMETER,,,,,
+Between groups,0.339,2,0.169,81.444,0.000
+Within groups,0.087,42,0.002,,
+Total,0.426,44,,,
+INNER DIAMETER,,,,,
+Between groups,0.085,2,0.043,51.153,0.000
+Within groups,0.035,42,0.001,,
+Total,0.120,44,,,

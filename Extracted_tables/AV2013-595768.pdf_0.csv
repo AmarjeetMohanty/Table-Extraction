@@ -1,0 +1,23 @@
+0,1,2,3,4,5
+,,,Modes of RSV inhibition,,
+,G protein,,,,
+F protein,,,,,
+,"+
++",,,,
+,,,,,No infection
+,,,,No binding,
+,,,,to the cell,
+RSV,,Gold nanoparticles,,,
+,,,,,Cell
+,"+
++",,,,No infection
+,,,,No binding,
+,,,,to the cell,
+RSV,,Antibodies,,,
+,,Drug,,,
+,,,,,No infection
+,+,,,,
+,,,,No binding,
+,,Peptide,,,
+,,,,to the cell,
+RSV,,Fusion inhibitors,,,

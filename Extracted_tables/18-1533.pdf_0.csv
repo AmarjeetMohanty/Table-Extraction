@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6
+,Table 2. Residue diversity between Zika virus isolate 31N from an Aedes aegypti larval pool and human- and mosquito-derived,,,,,
+,"genomes, Jojutla, Morelos, Mexico*",,,,,
+,Genome,,Human-derived sequences,,Mosquito-derived sequence,
+Position,region,"SNVs, %",Origin of minority variant,"SNVs, %",Origin of minority variant,p value
+1008,E,"TC, 3.65","Mexico, United States,","TC, 17.64","31N, Mexico",0.000253
+,,,Thailand,,,
+2071†,NS1,"CT, 0.26",French Polynesia,"CT, 2.94",31N,0.03
+2871,NS2A,"TC, 4.43","Mexico, United States","TC, 35.29","31N, Mexico, United States",<0.0001
+3176‡,NS2A,CS,,"AC, 2.94",31N,0.01022
+3286‡,NS2A,CS,,"AG, 2.94",31N,0.01022
+3333†,NS2A,"AG, 0.52",Mexico,"AG, 2.94",31N,>0.05
+3788,NS2A,"CT, 0.26",Brazil,"CT, 8.82","31N, Mexico",<0.0001
+4500,NS2A,"AG, 3.65","Mexico, United States,","AG, 17.64","31N, Mexico",0.003847
+,,,"Philippines, South Korea",,,
+4624,NS3,"GA, 3.39","United States, Mexico","GA, 17.64","31N, Mexico",0.002194
+4980,NS3,"TC, 6.00","Mexico, Puerto Rico,","TC, 17.64","31N, Mexico",0.01
+,,,"Colombia, United States",,,
+5636‡,NS3,CS,,"CT, 2.94",31N,0.01022
+7200,NS5,TA 0.26;,"Mexico, USA, Suriname","TC, 17.64","31N, Mexico",0.006182
+,,"TC, 3.91§",,,,
+9139,NS5,"CT, 0.52",Mexico,"CT, 11.76","31N, Mexico",<0.0001
+,"*CS, conserved site in human-derived sequences; SNV, single nucleotide variant.",,,,,

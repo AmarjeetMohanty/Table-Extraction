@@ -1,0 +1,55 @@
+0,1,2,3,4,5,6
+Wang et al.,,,,,,Small-Molecule Zika Virus Inhibitors
+TABLE 2 | Zika virus entry inhibitors.,,,,,,
+Number of,Inhibitor,Testing,"Cell
+lines",IC50 (µM),CC50(µM),References
+chemical,,model,,,,
+structures in,,,,,,
+Figure 3,,,,,,
+1,Tweezer CLR01,in vitro,Vero E6 cells,8.2,–,"Bavari et al.
+(2002),"
+,,,,,,Chazal and Gerlier
+,,,,,,"(2003), Brugger et al."
+,,,,,,"(2006), Lorizate et al."
+,,,,,,"(2013), Rocker et al."
+,,,,,,(2018)
+2,ZINC33683341,in vitro,Vero cells,–,–,Fernando et al. (2016)
+3,Baicalin,in vitro,Vero cells,14,553,Oo et al. (2019)
+4,EGCG,in vitro,Vero E6 cells,–,–,"Song et al.
+(2005),"
+,,,,,,"Isaacs et al.
+(2008),"
+,,,,,,"Nance et al.
+(2009),"
+,,,,,,"Calland et al. (2012),"
+,,,,,,Carneiro et al. (2016)
+5,Curcumin,in vitro,Huh-7 cells,1.90,11.6,"Song and Ni
+(1998),"
+,,,,,,"Mounce et al. (2017),"
+,,,,,,"Nitsche et al.
+(2017),"
+,,,,,,Roy et al. (2017)
+6,Nanchangmycin,in vitro,Human U2OS cells,0.1,7,"Liu et al.
+(2008),"
+,,,,,,Pierson and Kielian
+,,,,,,"(2013), Rausch et al."
+,,,,,,(2017)
+,,,Human HBMEC,0.4,>10,
+,,,cells,,,
+,,,Human JEG-3 cells,0.97,6.10,
+7,Chloroquine,in vitro,Huh-7 cells,1.72,–,Li et al. (2017b)
+,,in vivo,Vero cells; BALB/c,4.15,,
+,,,mice and A129,,,
+,,,mice,,,
+8,Suramin,in vitro,Vero cells,39.8,1900,"Albulescu et al.
+(2017),"
+,,,,,,Coronado et al. (2018)
+9,25-hydroxycholesterol,in vitro,Vero cells; BALB/c,0.188,–,Li et al. (2017a)
+,,in vivo,mice and A129,,,
+,,,mice,,,
+10,Niclosamide,in vitro,A549 cells,12.3 ± 0.6,4.8 ± 1.0,Baell and Holloway
+,,,SNB-19 cells,1.72,,"(2010), Li et al. (2017d),"
+,,,,,,"Xu et al. (2016), Li et al."
+,,,,,,(2017d)
+11,Cabozantinib,in vitro,Human U2OS cells,0.2,>10,Rausch et al. (2017)
+12,BMS-777607,in vitro,Human U2OS cells,0.6,>10,Rausch et al. (2017)

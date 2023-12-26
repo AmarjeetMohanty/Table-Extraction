@@ -1,0 +1,30 @@
+0,1,2,3,4
+,,,,Virus Discovery Tool Using Autologous Antibodies
+,Table 2. Reads of viruses after antibody capture.,,,
+Patient ID,Virus,% viral reads in input,% viral reads in capture,Enrichment indexa
+Patient 1,PIV-1,0.26%,0.38%,1.5
+Patient 2,PIV-2,0.07%,3.6%,54
+Patient 3,PIV-4,0.78%,15%,19
+Patient 4,HRV,42%,77%,1.9
+Patient 5,hMPV,1.4%,9.9%,7.2
+Patient 6,NL63,1.7%,33%,20
+Patient 7,RSV,18%,29%,1.6
+Patient 8,Inf B,0.61%,2.0%,3.3
+Patient 9,Inf A,3.0%,75%,25
+Patient 10,OC43,0.35%,59%,169
+Patient 11,NL63,0.14%,48%,343
+Patient 12,229E,0.55%,13%,23
+Patient 13,HRV,1.4%,4.5%,3.1
+Patient 14,Norovirus,0.16%,3.2%,20
+Patient 14,Adenovirus,3.9%,3.7%,0.9
+Patient 15,Norovirus,8.3%,88%,11
+Patient 16,Enterovirus,0.03%,0.18%,5.2
+Patient 17,Sapovirus,0.08%,0.40%,4.9
+Patient 18,Sapovirus,3.2%,4.5%,1.4
+Patient 18,Enterovirus,1.0%,0.00%,0.00
+Patient 19:,Hepatitis B virus,0.05%,2.50%,53
+Patient 15,Cucumber mosaic virusb,0.36%,0.03%,0.08
+Patient 19:,Caudoviralesb,63%,0.62%,0.01
+,aThe enrichment index is calculated by dividing the percentage of virus reads in the captured material by the number of virus reads in the input material.,,,
+"bControl, non pathogenic viruses.",,,,
+doi:10.1371/journal.pone.0078454.t002,,,,

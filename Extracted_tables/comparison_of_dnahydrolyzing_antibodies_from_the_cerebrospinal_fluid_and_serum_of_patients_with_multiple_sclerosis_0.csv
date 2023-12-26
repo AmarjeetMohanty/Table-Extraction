@@ -1,0 +1,18 @@
+0,1,2,3,4,5
+Table 1. Several different characteristics of MS patients.,,,,,
+Number of patient,Sex,"Age, years",Clinical course*,Clinical activity**,MRI activityj
+1,male,59,PP,yes,yes
+2,female,28,RR,no,no
+3,female,36,RR,yes,yes
+4,male,26,RR,yes,no
+5,male,49,RR,no,no
+6,female,20,RR,yes,no
+7,female,46,PP,yes,no
+8,female,51,RR,yes,yes
+9,female,31,RR,yes,no
+10,female,26,RR,no,no
+11,female,43,RR,yes,yes
+12,male,45,RR,yes,no
+13,female,30,RR,no,yes
+14,female,60,RR,yes,no
+15,female,34,RR,yes,yes

@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6
+,Table 1 Discovery of ﬁve novel full-length astrovirus genomes in sheep and goats.,,,,,
+,Full genome best,Full genome,ORF 1ab best hit,ORF1ab,ORF2 best hit,ORF2 Identity (%)
+,hit (fullgenome-,identity (%),non-structural,identity (%),capsid protein,capsid protein
+,accession),,protein (1ab-,non-stuctural,(2-BLASTP-accession),
+,,,BLASTP-accession),protein,,
+CapAstV-G2.1,Bovine astrovirus,76.6,BoAstV/JPN/,75.4,BoAstV/JPN/,73.7
+(MK404645.1),JPN/Hokkaido,,Hokkaido11-55/2009,,Hokkaido11-55/2009,
+,11-55/2009,,(BAS29607.1),,(BAS29609.1),
+,(LC047790.1),,,,,
+CapAstV-G3.1,Bovine astrovirus,69,Sichuan takin,71.7,Bovine astrovirus,63.9
+(MK404646.1),B170/HK,,astrovirus,,B170/HK,
+,(HQ916314.1),,(YP_009480536.1),,(YP_009010954.1),
+CapAstV-G5.1,Sichuan takin,70.9,Bovine astrovirus,75.1,Astrovirus deer/,57.7
+(MK404647.1),astrovirus,,B76-2/HK,,CcAstV-1/DNK/2010,
+,(NC_037655.1),,(YP_009010946.1),,(ADO67579.1),
+OvAstV-S5.1,Bovine astrovirus,70.5,Bovine astrovirus,73.8,Astrovirus deer/,59.0
+(MK404648.1),B76-2/HK,,B76-2/HK,,CcAstV-1/DNK/2010,
+,(HQ916317.1),,(YP_009010946.1),,(ADO67579.1),
+OvAstV-S6.1,Sichuan takin,70.8,BoAstV/JPN/,74.6,Astrovirus deer/,57.5
+(MK404649.1),astrovirus,,Ishikawa24-6/2013,,CcAstV-1/DNK/2010,
+,(NC_037655.1),,(BAS29598.1),,(ADO67579.1),
+Note:,,,,,,

@@ -1,0 +1,24 @@
+0,1,2,3
+"Table 3
+Summary table for estimates of R0 in literature.",,,
+Authors,Region/country,Time/Year,R (95% range)
+Chowell et al. (2016),Colombia,2016/01/17∼2016/04/07,2.2–10.3
+,French Polynesia,W41/2013∼W8/2014,1.8–2.0
+Nishiura et al. (2016a),,,
+,Yap Islands,W17/2007∼W30/2007,4.3–5.8
+Nishiura et al. (2016b),Colombia,W35/2015∼W49/2015,3.0–6.6
+Kucharski et al. (2016),French Polynesia,2013/10/11∼2014/03/28,2.6–4.8
+,"Girardot, Colombia",2015/10/19∼2016/01/22,1.41 (1.15–1.74)
+Rojas et al. (2016),,,
+,"San Andres Island, Colombia",2015/09/06∼2016/01/30,4.61 (4.11–5.16)
+Dinh et al. (2016),USA/ Florida,2016/05/01∼2016/09/23,0.16 (0.13–0.19)
+,,2015/05/31∼2016/04/16,Smoothed HealthMap:
+Majumder et al.,,,2.56 (1.42–3.83)
+,Colombia,,
+"(2016a), Majumder et",,,
+,,2015/8/22∼2016/04/16,Traditional (INS) data:
+al. (2016b),,,
+,,,4.82 (2.34–8.32)
+Funk et al. (2016),Yap Islands/ Micronesia,2007/04/15∼2007/07/15,4.8–14
+Towers et al. (2016),"Barranquilla, Colombia",2015/10/1∼2015/12/31,3.8 (2.4–5.6)
+Gao et al. (2016),"Brazil, Colombia, and El Salvador",2015/05∼2016/02/27,2.055 (0.523–6.300)

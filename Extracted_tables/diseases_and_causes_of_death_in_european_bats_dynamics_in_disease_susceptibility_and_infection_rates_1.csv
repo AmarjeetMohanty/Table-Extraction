@@ -1,0 +1,21 @@
+0,1,2,3,4,5,6,7,8
+Table 4. Result of,,the final model variables corresponding to 4 different analyses:,,,,(A) disease- vs.,,"trauma-related mortality, and"
+,presence-absence of,"(B) bacterial,",,(C) ecto- and (D) endoparasitic infection.,,,,
+,Analysis,DAIC*,Variable,Factor level,Estimate,SE,z-value,p-value
+(A),GLMM,23.13,Age class,,20.56,0.18,23.09,0.002
+,,,Sex (male),,20.62,0.28,22.19,0.03
+(B),GLMM,16.00,Cat predation,,1.20,0.28,4.32,",0.0001"
+(C),GLM,14.58,Bat species,Nyctalus noctula,20.30,0.30,21.02,0.3
+,,,,Myotis daubentonii,21.10,0.52,22.13,0.03
+,,,,Vespertilio murinus,21.56,0.55,22.83,0.005
+,,,,Eptesicus nilssonii,22.01,0.75,22.68,0.007
+,,,,Pipistrellus pipistrellus,22.04,0.27,27.42,",0.0001"
+,,,,Eptesicus serotinus,22.06,0.43,24.75,",0.0001"
+,,,,Plecotus auritus,22.40,0.74,23.25,0.001
+,,,,Pipistrellus nathusii,22.74,0.73,23.76,0.0002
+,,,,Myotis nattereri,22.77,1.03,22.69,0.007
+,,,,Myotis mystacinus,22.90,0.73,23.98,",0.0001"
+(D),GLM,24.95,Age class,,0.43,0.15,2.88,0.004
+,,,Bat size,Large species,20.18,0.18,20.99,0.3
+,,,,Medium-sized species,21.30,0.23,25.64,",0.0001"
+,,,,Small species,21.29,0.19,26.86,",0.0001"

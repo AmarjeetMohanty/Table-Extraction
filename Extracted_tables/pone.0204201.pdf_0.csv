@@ -1,0 +1,20 @@
+0,1,2,3,4,5
+,Table 2. Outbreak data extracted from [3].,,,,
+case,Date of onset,Suspected source of infection,Case,Date of onset,
+1,10 Mar 2011,–,17,29 May 2011,"7,8"
+2,23 Mar 2011,1,18,29 May 2011,"10,11,16"
+3,30 Mar 2011,1,19,29 May 2011,"12,14"
+4,10 Apr 2011,2,20,29 May 2011,"8,16"
+5,7 May 2011,3,21,29 May 2011,"1,5,8"
+6,14 May 2011,2,22,30 May 2011,"4,14"
+7,16 May 2011,1,23,30 May 2011,"9,16"
+8,20 May 2011,2,24,30 May 2011,11
+9,20 May 2011,unknown,25,2 Jun 2011,unknown
+10,23 May 2011,unknown,26,2 Jun 2011,"3,13,18"
+11,25 May 2011,unknown,27,4 Jun 2011,unknown
+12,25 May 2011,6,28,5 Jun 2011,7
+13,26 May 2011,"7,9",29,6 Jun 2011,25
+14,26 May 2011,12,30,7 Jun 2011,"13,18"
+15,27 May 2011,8,31,8 Jun 2011,"10,15"
+16,28 May 2011,7,32,8 Jun 2011,5
+https://doi.org/10.1371/journal.pone.0204201.t002,,,,,

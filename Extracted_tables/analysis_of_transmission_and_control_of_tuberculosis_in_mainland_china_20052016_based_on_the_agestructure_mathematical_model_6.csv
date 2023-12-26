@@ -1,0 +1,11 @@
+0,1,2
+Table 3. The PRCC of the estimated parameters with respect to R0,,
+Parameters,PRCC,p-Value
+A,0.9961,0.0005
+γ,−0.7482,0.0009
+λ3,0.6141,0.0017
+m2,−0.5265,0.0001
+λ1,0.5195,0.004
+λ2,0.4820,0.0022
+η,0.1808,0.0036
+m1,0.0175,0.0012

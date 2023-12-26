@@ -1,0 +1,33 @@
+0,1,2,3,4,5,6,7,8,9
+"that phylogeny did not
+explain any","nities’
+additional
+variation. A","of
+viral
+sharing within",orders,,(Figs,,3a,and,"4a),"
+(a),(b),(c),,,,,,,
+–log(citations),–log(citations),–log(citations),,,,,,,
+–diet,–gregariousness,–migration,,,,,,,
+None,–sympatry,None,,,,,,,
++gregariousness,–diet,+sympatry,,,,,,,
++IUCN status,None,+IUCN status,,,,,,,
++PC1,+latitude,+PC1,,,,,,,
++cave roosting,+IUCN status,+PC2,,,,,,,
++sympatry,+PC2,+latitude,,,,,,,
++area,+PC3,+cave roosting,,,,,,,
++PC3,+PC1,+PC3,,,,,,,
++PC2,+cave roosting,+area,,,,,,,
++latitude,+area,+torpor,,,,,,,
++migration,+migration,+gregariousness,,,,,,,
++torpor,+torpor,+diet,,,,,,,
+"–5
+0
+5","10
+20
+–4
+–2
+0","2
+4
+6",–8,–6,–4,–2,0,2,4
+(d),(e),(f),,,,,,,
+–log(citations),–sympatry,–sympatry,,,,,,,

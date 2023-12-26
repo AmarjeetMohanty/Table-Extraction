@@ -1,0 +1,28 @@
+0,1,2,3
+Table 6. Multivariate linear,"regression model,","reporting associations between virus group, participant characteristics and symptom score",
+Variables,Mean Score (95% CI),Adjusted coefﬁcient* (95% CI),P-value
+Virus Group (ref: None),,,
+None,"7Æ5 (7Æ1, 7Æ8)",Ref,–
+Picorna,"7Æ4 (6Æ8, 8Æ0)",")0Æ04 ()0Æ72, 0Æ65)",0Æ9
+Inﬂuenza,"10Æ2 (9Æ4, 10Æ9)","2Æ6 (1Æ6, 3Æ6)",<0Æ001
+Corona,"7Æ3 (6Æ2, 8Æ3)",")0Æ11 ()1Æ5, 1Æ3)",0Æ9
+Other,"7Æ7 (6Æ5, 8Æ9)","0Æ26 ()0Æ85, 1Æ4)",0Æ6
+Age (ref: 18–24 years),,,
+18–24 years,"7Æ9 (7Æ4, 8Æ3)",Ref,–
+25–34 years,"7Æ6 (6Æ9, 8Æ3)",")0Æ37 ()1Æ3, 0Æ55)",0Æ4
+35–44 years,"7Æ6 (7Æ0, 8Æ2)",")0Æ48 ()1Æ3, 0Æ34)",0Æ3
+45–54 years,"7Æ5 (6Æ9, 8Æ2)",")0Æ21 ()1Æ1, 0Æ69)",0Æ6
+55–64 years,"8Æ0 (7Æ1, 8Æ8)","0Æ14 ()0Æ83, 1Æ1)",0Æ8
+Sex (ref: male),,,
+Male,"7Æ7 (7Æ2, 8Æ1)",Ref,–
+Female,"7Æ7 (7Æ4, 8Æ1)","0Æ40 ()0Æ19, 1Æ0)",0Æ2
+Race (ref: Caucasian),,,
+Caucasian,"7Æ8 (7Æ5, 8Æ1)",Ref,–
+Asian,"6Æ3 (5Æ3, 7Æ3)",")1Æ4 ()2Æ5,
+-0Æ26)",0Æ02
+Other,"7Æ1 (5Æ5, 8Æ8)",")0Æ34 ()2Æ2, 1Æ5)",0Æ7
+Smoking status (ref: Current),,,
+Current,"7Æ6 (6Æ6, 8Æ7)",Ref,–
+Ever,"7Æ9 (7Æ4, 8Æ4)","0Æ07 ()1Æ0, 1Æ2)",0Æ9
+Never,"7Æ6 (7Æ2, 7Æ9)",")0Æ01 ()1Æ1, 1Æ0)",1Æ0
+Unknown,"9Æ6 (4Æ7, 14Æ5)",")0Æ43 ()3Æ4, 2Æ6)",0Æ8

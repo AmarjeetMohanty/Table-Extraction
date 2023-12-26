@@ -1,0 +1,17 @@
+0,1,2,3,4,5
+http://www.biomedcentral.com/1471-2334/11/65,,,,,
+,Table 2 Clinical profile of children admitted to hospital compared to those treated as an out-patient,,,,
+,,Hospitalized,Out-patient,OR (95% CI),r-value
+,,n = 71 (32.3%),n = 149 (67.7%),,
+Clinical symptoms n (%),,,,,
+Cough,,60(85),137(91),2.09(0.87-5-01),0.10
+Wheeze,,66(93),121(81),0.33(0.12-0.89),0.03
+Breathing difficulty,,35(49),76(51),1.07(0.61-1.88),1.07
+Rhinorrhea,,43(61),102(69),1.41(0.78-2.54),0.25
+Night waking,,38(54),89(60),1.29(0.73-2.27),0.38
+Fever >37.5C,,30(42),59(40),0.89(0.51-1.59),0.71
+Diarrhoea,,11(16),16(11),0.66(0.29-1.50),0.32
+Vomiting,,24(34),50(34),0.99(0.54-1.80),0.97
+Duration of symptoms (days),(median & IQR),3(1-4),4(2-7),0.94(0.90-0.99),0.02
+HRV positive status n (%),,45(63),83(56),1.38(0.77-2.46),0.28
+HRV = human rhinovirus;,IQR = interquartile range; OR = odds ratio; 95% CI = 95% confidence interval; r-value = probability value.,,,,

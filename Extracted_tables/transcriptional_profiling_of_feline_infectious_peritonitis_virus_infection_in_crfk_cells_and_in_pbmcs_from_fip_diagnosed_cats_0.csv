@@ -1,0 +1,21 @@
+0,1,2,3,4,5,6,7
+"Table 3 Fold changes of A3H, PD-1 and PD-L1 genes in",,,,,"Table 5 Fold changes of A3H, PD-1 and PD-L1 genes from",,
+CRFK cells at different time points following infection,,,,FIP diagnosed cats,,,
+with FIPV,,,,,,"Fold change ± SEM *,**",
+,"Fold change ± SEM *,**",,,,,,
+,,,,Cat ID,A3H,PD-1,PD-L1
+Time (Hours),A3H,PD-1,PD-L1,,,,
+,,,,1,1.11 ± 0.14,7.29 ± 1.56,18.88 ± 3.67
+3,5.23 ± 1.15,8.50 ± 1.06,3.97 ± 0.29,,,,
+,,,,2,1.51 ± 0.16,35.26 ± 6.59,20.79 ± 3.19
+6,−0.37 ± 0.03,−0.19 ± 0.01,0.97 ± 0.07,,,,
+,,,,3,3.44 ± 0.36,68.13 ± 19.45,96.94 ± 21.54
+9,−0.41 ± 0.11,−0.23 ± 0.08,−0.21 ± 0.02,,,,
+,,,,4,1.36 ± 0.11,40.73 ± 5.50,75.63 ± 3.73
+12,−0.23 ± 0.03,2.51 ± 0.27,−0.50 ± 0.07,,,,
+,,,,5,1.27 ± 0.08,2.49 ± 0.48,3.04 ± 0.23
+24,−0.09 ± 0.01,−0.38 ± 0.03,−0.46 ± 0.05,,,,
+,,,,6,2.70 ± 0.35,28.73 ± 6.30,45.50 ± 4.27
+48,991.94 ± 113.62,−0.24 ± 0.02,−0.13 ± 0.03,,*YWHAZ as sole reference gene.,,
+,,,,,**Three replicates of each reaction were performed.,,
+*GAPDH and YWHAZ as reference genes.,,,,,,,

@@ -1,0 +1,37 @@
+0,1,2,3,4,5
+Table 1. Description of the domains and regions associated with NC assembly of three commonly,,,,,
+,referenced alphaviruses.,,,,
+Virus,Domain,Region/Sub-Domain,Amino Acids,Proposed Function,References
+,,,,Initiating assembly and RNA,
+,,,1–114,,[33]
+,,,,speciﬁcity,
+,,Region I,1–81,Speciﬁcity of RNA packaging,[38]
+,N-terminal,,,,
+SINV,,Helix I,38–55,CP dimerization,[34–36]
+,,Region II—conserved sequence,81–114,Interaction with RNA PS,"[37,41,42]"
+,,,,"Protease domain, interaction",
+,C-terminal,,114–264,,"[14,25]"
+,,,,with cdE2,
+,,,,Initiating assembly and RNA,
+,,SD1,1–38,,"[40,43]"
+,,,,speciﬁcity,
+,,,,"CP dimerization, initiating",
+,,SD2,39–51,"assembly, binding replication","[40,43]"
+,,,,complex and RNA speciﬁcity,
+,N-terminal,,,,
+,,,,Negative regulator of,
+,,SD3,52–110,,[40]
+VEEV,,,,assembly,
+,,,,Initiating assembly and RNA,
+,,SD4—conserved sequence,111–126,,"[40,44]"
+,,,,speciﬁcity,
+,,,,Inhibition of host cell,
+,,Nuclear localization sequence,38–60,,"[45,46]"
+,,,,transcription,
+,,,,"Protease domain, interaction",
+,C-terminal,,127–275,,[13]
+,,,,with cdE2,
+,,RNA-binding region,1–104,Speciﬁcity of RNA interaction,"[47,48]"
+,N-terminal,,,,
+SFV,,Conserved linking peptide,105–118,Pre-formation of NCs,[48]
+,C-terminal,,119–267,Protease domain,

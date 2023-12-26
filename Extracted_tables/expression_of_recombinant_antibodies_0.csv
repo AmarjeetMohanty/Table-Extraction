@@ -1,0 +1,59 @@
+0,1,2,3,4,5,6
+Table 1 | Production of recombinant antibodies by host.,,,,,,
+Host,Antigen,Antibody format,Production,Yield,Reference,
+,,(clone),system,,,
+GRAM-NEGATIVE BACTERIA,,,,,,
+Escherichia coli,Digoxin,Fab (26–10),Shake ﬂask,0.8 mg/L/OD600,"Levy et al.
+(49)",
+Escherichia coli,CD18,F (ab(cid:48))2,Fermentor,2.5 g/L,Chen et al. (247),
+Escherichia coli,Lysozyme,scFv (D1.3),250/400 mL shake,0.3–1.0 mg/L,,"Jordan et al. (84), Monsellier and"
+,,,ﬂask,,"Bedouelle (248), Thie et al.",(70)
+Escherichia coli,CRP,scFv (LA13-IIE3),300 mL shake ﬂask,0.55 mg/L,"Jordan et al.
+(83)",
+Escherichia coli,Lysozyme,scFab (D1.3),300 mL shake ﬂask,9.5 µg/L,,
+Escherichia coli,MUC1,VHH,100 L shake ﬂask,10 mg/L,"Rahbarizadeh et al.
+(249)",
+Escherichia coli,Clostridium difﬁcile,VHH (14 different),Shake ﬂask?,"1
+.2–72.3 mg/L",Hussack et al. (250),
+,toxin A,,,,,
+Escherichia coli,MUC1,scFv (2 different),250 mL shake ﬂask,0.46/1.3 mg/L,"Thie et al.
+(70)",
+Escherichia coli,p815HER2,Fab,10 L fermenter,1–2 g/L,"Carter et al.
+(251)",
+Escherichia coli,Atrazine,Fab (K411B),2 L fermenter,13.8 mg/L,"Wiebe et al.
+(66)",
+Escherichia coli,PPL,VL dAb,"1
+.5 L fermenter",35–65 mg/L,"Cossins et al.
+(252)",
+Escherichia coli,phOx,scFv,50 mL shake ﬂask,16.2 mg/L,"Kipriyanov et al.
+(69)",
+Escherichia coli,phOx,scFv,3 L fermenter,"1
+.2 g/L",Sletta et al. (68),
+Escherichia coli,Scorpion toxin Cn2,scFv; Fab (BCF2),n. d.,0.3 mg/L;,Quintero-Hernández et al.,(253)
+,,,,"1
+.0 mg/L",,
+Escherichia coli,TNF alpha,scFv,Shake ﬂask?,45 mg/L,Yang et al. (254),
+Escherichia coli,HSP70,Fab (cmHsp70.1),8 L fermenter,>15 mg/L,"Friedrich et al.
+(64)",
+Escherichia coli,Tissue factor,IgG,10 L fermenter,130–150 mg/L,"Simmons et al.
+(73)",
+Escherichia coli,TAG-72,Fv (B72.3),Shake ﬂask;,40 mg/L;,King et al. (255),
+,,,fermentor,450 mg/L,,
+Escherichia coli,VEGF,scFv::SUMO,50 mL shake ﬂask?,50.3 mg/L,"Ye et al.
+(256)",
+Escherichia coli,HIV capsid,"Fab, engineered",Shake ﬂask,12 mg/L,Nadkarni et al. (257),
+Escherichia coli,Ovarian,scFv–scFv,250 mL shake ﬂask,"1
+.2 g/L","Zhao et al.
+(71)",
+,carcinoma/CD3,,,,,
+Escherichia coli,Fibroblast growth,VHH,Shake ﬂask,10–15 mg/L,Veggiani and de Marco (50),
+,factor receptor FGFR1,,,,,
+Escherichia coli,Human prion,scFv,Shake ﬂask,35 mg/L,Padiolleau-Lefevre et al. (258),
+Escherichia coli,Lysozyme,scFv (D1.3),LEX bioreactor (1.5 L),∼2 mg/L,Miethe et al. (67),
+Escherichia coli,MUC1,scFv (HT186-D11),LEX bioreactor (1.5 L),∼40 mg/L,,
+Escherichia coli,CD30,scFv (SH313-B5),LEX bioreactor (1.5 L),∼38 mg/L,,
+Escherichia coli,Crf2,scFv (MS112-IIB1),LEX bioreactor (1.5 L),∼4.5 mg/L,,
+Escherichia coli,Tubulin,scFv (different,Shake ﬂask,up to 50 mg/L,Philibert et al. (259),
+,,ones),(intracellular),,,
+Escherichia coli,n. d.,Fab,20 L; 75 L fed-batch,0.7 g/L; 0.5 g/L,Nesbeth et al. (260),
+,,,bioreactor,,,

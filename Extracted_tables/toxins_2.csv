@@ -1,0 +1,34 @@
+0,1,2,3,4,5,6
+"Toxins 2010, 2",,,,,,2535
+,,,Table 2. Cont.,,,
+,Transcription,,,,Clinical,
+Construct Name,,Toxin,Delivery Vector,Disease,,Reference
+,Regulatory Element,,,,Trial Phase,
+"pAF-DTA,",,,Cationic,,Preclinical,
+,AFP *,DTA,,HCC,,"[358,359]"
+pAF5.1DTA,,,liposomes,,phase,
+,Immunoglobulin,,Naked DNA-,B-Lymphoid,Preclinical,
+"pTHA45, pTHA17",,DTA,,,,[360]
+,heavy/κ-light chain *,,electroporation,Cells,phase,
+"pTyrIII/DT-A,",,,,,Preclinical,
+,"MIA, tyrosinase, *",DTA,Cationic lipids,Melanoma,,[361]
+pMIA III/DT-A,,,,,phase,
+"retro-1.3MBPppe,",,,,,Preclinical,
+,MBP *,PE/RTA,Retrovirus,Glioblastoma,,[362]
+retro-1.3MBPpri,,,,,phase,
+,,,,,Preclinical,
+pMSLN/DT-A,MSLN *,DTA,,Cationic polymer Pancreatic cancer,,[363]
+,,,,,phase,
+,,"DTA,",,,,
+,,attenuated,Cationic,,Preclinical,
+V3,Hsp70B' * + HSEs,,,Pancreatic cancer,,[364]
+,,DTA,liposomes,,phase,
+,,variants,,,,
+,,,,,Preclinical,
+,p34 responsive,,,,,
+,,,Cationic,BVL infected,phase,
+pLTR-DT,sequences (BLV-,DTA,,,,"[365,366]"
+,,,liposomes,cells,(veterinary,
+,LTR),,,,,
+,,,,,use),
+,Abbreviations:  DTA/DT-A:  the  catalytic  A  fragment  of  diphtheria  toxin;  PSA:  prostate-specific  antigen;,,,,,

@@ -1,0 +1,16 @@
+0,1,2,3,4
+,Table 2. The CAV infection type of China in 2015 of detected clinical samples.,,,
+,Infection type,Number of positive,Percentage of positive samples,Percentage of total samples
+Single infection,CAV,32,41.67%,5.58%
+Dual infection,CAV+MDV,18,25.00%,3.14%
+,CAV+REV,3,4.17%,0.52%
+,CAV+AGV2,1,1.39%,0.17%
+,CAV+ARV,1,1.39%,0.17%
+Subtotal,,23,31.94%,4.01%
+Triple infection,CAV+REV+MDV,10,13.89%,1.75%
+,CAV+AGV2+MDV,3,4.17%,0.52%
+,CAV+ARV+MDV,2,2.78%,0.35%
+Subtotal,,15,20.83%,2.62%
+Quadruple infection,CAV+AGV2 +REV+MDV,2,2.78%,0.35%
+Subtotal,,2,2.78%,0.35%
+https://doi.org/10.1371/journal.pone.0210696.t002,,,,

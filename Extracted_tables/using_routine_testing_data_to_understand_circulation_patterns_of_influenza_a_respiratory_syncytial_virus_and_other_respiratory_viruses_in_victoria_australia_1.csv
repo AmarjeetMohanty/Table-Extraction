@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6,7
+,,,Influenza A,,,RSV,
+Year,Lag (coefficient)a,Peak week,Timingb,Magnitudeb,Peak week,Timingb,Magnitudeb
+2002,1 (0.618),27,Early,,32,Late,Large
+2003,−7 (0.668),32,,Large,30,Late,
+2004,−15 (0.377),40,Late,Small,25,,
+2005,−1 (0.757),27,Early,,27,,
+2006,−1 (0.677),30,,,30,Late,
+2007,−3 (0.726),32,,Large,28,,Large
+2008,−10 (0.701),35,,Small,25,,Large
+2010,−11 (0.633),36,Early,Small,25,,Small
+2011,−10 (0.632),36,Late,,27,,Small
+2012,−3 (0.467),26,Early,,23,Early,
+2013,10 (−0.42),35,,,29,,Small
+2014,−12 (0.672),34,,Large,22,Early,Small
+2015,−7 (0.528),31,,Large,25,Early,Large
+Correlations considered moderate (>0.6) or strong (>0.7) are bolded.,,,,,,,

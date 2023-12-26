@@ -1,0 +1,20 @@
+0,1,2,3,4,5,6
+,"Table 2. Antimicrobial resistance pattern for Salmonella ser. Typhi (No. of isolates = 336), Paratyphi A",,,,,
+,"(No. of isolates = 88), 2015 (CDC-National Antimicrobial Resistance Monitoring System-2015).",,,,,
+,,Percentage Susceptible,,Percentage Intermediate,,Percentage Resistant
+Antibiotics,,,,,,
+,S. typhi,S. paratyphi A,S. typhi,S. paratyphi A,S. typhi,S. paratyphi A
+Gentamicin,100,100,0,0,0,0
+Streptomycin,84.5,90.9,N/A,N/A,15.5,9.1
+Amoxicillin-clavulanic acid,98.8,100,1.2,0,0,0
+Ceftiofur,100,100,0,0,0,0
+Ceftriaxone,100,100,0,0,0,0
+Azithromycin,99.7,100,N/A,N/A,0.3,0
+Ampicillin,89.6,98.9,0,0,10.4,1.1
+Ciproﬂoxacin,34.3,11.4,57.4,88.6,8.3,0
+Nalidixic acid,36.6,11.4,N/A,N/A,63.4,88.6
+Cefoxitin,99.4,96.6,0.6,2.3,0,1.1
+Sulﬁsoxazole,88.4,97.7,N/A,N/A,11.6,2.3
+Trimethoprim-sulfamethoxazole,88.1,98.9,N/A,N/A,11.9,1.1
+Chloramphenicol,90.5,94.3,0,5.7,9.5,0
+Tetracycline,96.1,94.4,1.2,4.5,2.7,1.1

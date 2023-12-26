@@ -1,0 +1,45 @@
+0,1,2,3
+,,Table 1. Search terms.,
+Public Health Event,Type of Measure,Population of Interest (Humans),Setting
+,,,Departure
+,,,Exodus
+,,,Debarkation
+,,,Decampment
+,,,Gateway
+Biological,,,Passageway
+Biochemical,,,Arrival
+Bacteriological,,,Embarkation
+Viral,,Patient,Checkpoint
+Microbiological,,Ill,Airport
+Pathogen,,Sick,Aerodrome
+Public health risk,,Unhealthy,Airdrome
+Public health hazard,,Unwell,Air station
+Public health danger,,Infected,Air terminal
+Hygiene,,Aﬀected,Flight terminal
+Threat,Exit/entry screening,Exposed,Aviation
+Exposure,Entry/exit screening,Symptomatic,terminal
+Pandemic,Entry and exit screening,Case,Airﬁeld
+Epidemic,Exit and entry screening,Human,Landing ﬁeld
+SARS,Entry screening,Person,Landing place
+H1N1,Exit screening,Individual,Seaport
+Flu,Border measure,People,Port
+Ebola,Border control,Consumer,Harbor
+Zika,Health assessment,Client,Harbour
+Plague,Health check,Passenger,Dock
+Disease,,Traveler,Pier
+Inﬂuenza,,Traveler,Marine
+Infection,,Crew,terminal
+Infectious,,Refugee,Anchorage
+Contagious,,Migrant,Port of
+Contagion,,Immigrant,embarkation
+Contamination,,Emigrant,Rail terminal
+Sick,,,Bus terminal
+Sickness,,,Taxi (van)
+Illness,,,Ground
+Ailment,,,crossing
+,,,Land crossing
+,,,Land-crossing
+,,,Border crossing
+,,,Frontier
+,,,Terminal
+,(Biological OR Biochemical OR Bacteriological OR Viral OR Microbiological OR Pathogen OR Public health,,

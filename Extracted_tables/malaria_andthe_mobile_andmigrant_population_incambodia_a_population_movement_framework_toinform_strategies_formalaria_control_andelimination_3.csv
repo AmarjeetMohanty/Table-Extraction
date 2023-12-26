@@ -1,0 +1,21 @@
+0,1,2,3,4,5
+Table 5  Access index,,,,,
+,Forest workers,Construction workers,Security personnel,Seasonal workers,Visitors
+,(FW),(CW),(SP),(SW),(V)
+Main activities,"Hunting, fishing, log‑",Dam or road construc‑,Patrolling,"Farming, plantation,",
+,"ging, non‑timber","tion, mining",,chamkar,
+,forest products,,,,
+Population type,"Local, Mobile, Migrant","Mobile, Migrant","Mobile, Migrant","Local, Mobile, Migrant",Mobile
+Work area,"Upland forest, forested","Upland forest, forested",Border forest,"Foot hills, plains, valleys",Variable
+,hills,hills,,,
+Remoteness work area,High,High to medium,High,Medium,Low
+Remoteness work area,3,3,3,2,1
+score,,,,,
+Work location,Mobile,Fixed,Semi‑mobile,Fixed,Fixed
+Mobility work location,High,Medium,Medium–high,Medium,Low
+Mobility work location,3,2,2,2,1
+score,,,,,
+Linkage,None or village for local,Company,Government; military,Farm owner/company,Village; guest houses/
+,population,,base,,hotels
+Access through linkage,Low,Low–medium,Medium,Medium–high,Medium–high
+Access through linkage,3,2,2,2,1

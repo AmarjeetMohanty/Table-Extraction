@@ -1,0 +1,20 @@
+0,1,2,3,4,5,6,7,8
+"Int. J. Mol. Sci. 2019, 20, x FOR PEER REVIEW",,,,,,,,
+a,,,,b,,,,
+,,BEAS-2B,,,,,,
+,,,,,,,BEAS-2B,
+,,,,,control,TNF,TAPI-1,TAPI-1+TNF
+,P-EGFR (Y1068),,,,,,,
+,,,,TUNEL,,,,
+,EGFR,,,,,,,
+,P-AKT,,,DAPI,,,,
+,AKT,,,,,,,
+,P-ERK1/2,,,,,,,
+,,,,c,15,,BEAS-2B,
+,ERK1/2,,,,,,,
+,,,,,,,,*
+,Actin,,,,10,,,
+,TNF,,,Apoptotic cells (%),,,,
+,EGF,,,,,,,
+,,,,,5,,,
+,,DMSO,TAPI-1,,,,,

@@ -1,0 +1,8 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+,,,,,Table 4: Comparison of the values of AUC.,,,,,,Journal of Oncology
+,+,,+,,,,,,,,
+,CD8,T cell variation,CD4,T cell variation,NK cell variation,Treg cell variation,NLR,PLR,PI,mGPS,
+OS,,0.816,,0.639,0.608,0.460,0.722,0.534,0.601,0.654,
+PFS,,0.773,,0.477,0.598,0.480,0.691,0.503,0.674,0.540,
+Abbreviations as in Table 3,,,,,,,,,,,
+,,,,,,,,,,,9

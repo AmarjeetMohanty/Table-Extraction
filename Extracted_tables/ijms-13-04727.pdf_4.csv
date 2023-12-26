@@ -1,0 +1,29 @@
+0,1,2,3,4,5,6,7,8
+,,,Table 3. Epitope mapping of monoclonal antibodies directed against host proteins.,,,,,
+,,,,,,Vaccination,,
+Target,Library,Target presentation,Mimotopes,Epitopes,Additional,,Results,Reference
+,,,,,,attempts,,
+,,,,CCR5 N-,,,,
+,,,,terminus (SIYD),Reactivities assessed,,,
+,,Phage-antibody,,and,against inserts,,,
+,"7-mer, 7-mer-c,",,,,,,,
+"MAbs 3A9,",,complexes captured on,"CHASIYDFGSC,",ECL1 (FG),"synthesized as peptides,",,,
+,"9-mer-c, 12-mer",,,,,NA,NA,"[62,63]"
+5C7,,beads coated with,CPHWLRDLRVC,CCR5,binding and competition,,,
+,RPL,,,,,,,
+,,anti-mouse IgG Ab,,"N-terminus (P),",assays with peptides.,,,
+,,,,ECL1 (HW) and,Entry inhibitor,,,
+,,,,ECL3 (DLR),,,,
+,,Ab coated onto,M23,,Neutralization of HIV-1,,,
+MAb 2D7,15-mer RPL,,,CCR5 ECL2,,NA,NA,[64]
+,,Petri dishes,(FCALDGDFGWLAPAC),,infection,,,
+,,Ab coated onto,,,,,NAbs with,
+MAb 2D7,12-mer RPL,,EWQKEGLVTLWL,CCR5 ECL2,NA,Rabbit immunization,,[65]
+,,microwells,,,,,2D7-like functions,
+,,Phages-Ab complexes,,,,,,
+,,,,,Inhibition of,,,
+,"9-mer, 9-mer-c",captured on,,CD18,,,,
+MAb MHM23,,,PPFxYRK,,HIV-1-induced,NA,NA,[66]
+,RPL,streptavidin-coated,,(AA 200–206),,,,
+,,,,,syncytium formation,,,
+,,dishes,,,,,,

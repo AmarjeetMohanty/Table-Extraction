@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6
+Table 2: Estimates of genetic divergence of FIV genes.,,,,,,
+,,,,FIV GENE,,
+,,Gag,Pol,Vif,OrfA1,Env
+Genetic distance,,,,,,
+,,,,Nucleotide % Genetic Distance (GTR),,
+Average Pairwise,,65.8,60.3,100*,100*,100*
+(N = 8),,,,,,
+Selected,,,,,,
+comparisons,,,,,,
+,FIVPle B vs FIVPle E,20.3,20.4,33.1,27.9,100*
+,FIVPle B vs FIVOma,28.8,29.3,44.3,55.8,42.7
+,FIVPle B vs FIVFca C,55.6,53.5,100*,100*,100*
+,FIVPle E vs FIVOma,32.9,28.1,36.7,61.3,100*
+,FIVPle E vs FIVFca C,61.4,51.4,79.3,100*,64.4
+,,,,Amino Acid % Genetic Distance (Pam-Dayhoff2),,
+Average Pairwise,,53.2,44.1,100*,100*,100*
+(N = 8),,,,,,
+,FIVPle B vs FIVPle E,9.4,10.5,36.2,24.4,100*
+,FIVPle B vs FIVOma,24.8,20.1,59.1,58.4,42.8
+,FIVPle B vs FIVFca C,47.6,38.2,100*,100*,100*
+,FIVPle E vs FIVOma,25.3,19.9,42.1,68.3,100*
+,FIVPle E vs FIVFca C,46.2,37.9,91.9,100*,79.7

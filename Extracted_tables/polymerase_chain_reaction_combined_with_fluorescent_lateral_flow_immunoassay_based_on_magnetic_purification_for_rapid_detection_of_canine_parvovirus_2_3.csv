@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7,8,9,10
+"Table 4 Clinical sample information and test result comparison for PCR-GE, PCR-LFIA and DNA sequencing (Continued)",,,,,,,,,,
+S. no.,Sample,Age,Sex,Breed,Clinical,PCR-GE,PCR- LFIA,Signals,Antigenic,Accession
+,,(months),,,suspicion,,,,type,number
+44,NJ-0622-29,4,F,Border Collie,–,–,–,0,,
+45,NJ-0622-30,5,M,Samoyed,–,–,–,23,,
+46,NJ-0622-31,3,M,Samoyed,–,–,–,0,,
+47,NJ-0622-32,2,F,Border Collie,–,–,–,3,,
+48,NJ-0622-33,2,F,Pug,–,–,–,41,,
+49,NJ-0622-34,2.5,F,Pug,–,–,–,0,,
+50,NJ-0622-35,1.5,M,Pembroke Welsh Corgi,–,+,+,"19,881",2c,MH614372
+51,NJ-0622-36,2,F,Pug,–,–,–,8,,
+52,NJ-0622-37,2.5,M,Pug,–,+,+,"22,607",2a,MH614373
+53,NJ-0622-38,3,M,Pug,–,+,+,"21,010",2c,MH614374
+54,XW-01,5,F,Samoyed,–,–,–,23,,
+55,XW-02,4,M,Samoyed,–,–,–,9,,
+56,JC-01,2.5,F,Teddy Bear,–,–,–,25,,
+57,JC-02,8,M,Miniature Schnauzer,–,–,–,113,,
+58,JC-03,10,M,Pembroke Welsh Corgi,–,–,–,21,,
+59,SG-0616,3.5,F,Golden Retriever,–,–,–,19,,
+60,SG-0618,2.5,F,Pug,–,–,–,0,,
+61,SG-0619,3,M,Samoyed,–,–,–,141,,
+62,SG-0619,3,M,Samoyed,–,–,–,35,,

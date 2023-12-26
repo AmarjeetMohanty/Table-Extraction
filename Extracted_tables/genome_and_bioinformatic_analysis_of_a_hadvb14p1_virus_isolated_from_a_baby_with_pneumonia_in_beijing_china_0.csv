@@ -1,0 +1,24 @@
+0,1,2,3,4,5,6,7,8,9,10
+,,,,,,,Genome Analysis of an HAdV-14p1 Strain from China,,,
+,Table 3. Percent identities of select HAdV-14p1 strain BJ430 proteins with representative HAdVs from all species and including all,,,,,,,,,
+species B viruses.,,,,,,,,,,
+,E1A 29.1-,E1B 20-kDa,,,L1 43-kDa,,,,,E4 34-kDa
+Protein,kDa protein,protein,DNA polymerase,pTP,protein,L2 penton,L3 hexon,pVIII,L5 fiber,protein
+HAdV-12 (A),44,44,70,76,75,72,77,77,31,53
+HAdV-11 (B2),97,98,99,99,99,97,92,99,92,99
+HAdV-14 (B2),98,100,99,99,100,99,99,100,99,100
+HAdV-34(B2),98,99,99,99,99,95,94,99,63,98
+HAdV-35 (B2),96,98,99,99,95,97,91,99,62,98
+HAdV-3(B1),77,88,90,93,98,85,85,94,57,98
+HAdV-7 (B1),78,89,90,93,92,85,86,94,91,97
+HAdV-16(B1),78,90,91,94,92,85,85,94,51,89
+HAdV-21 (B1),79,90,91,93,92,91,90,94,62,97
+HAdV-50 (B1),78,90,91,93,92,91,93,94,61,97
+SAdV-21 (B1),80,88,92,93,92,90,93,95,55,86
+HAdV-1(C),36,49,76,78,82,69,76,80,29,62
+HAdV-9 (D),41,54,80,79,80,77,82,80,29,69
+HAdV-4 (E),56,59,84,88,90,82,82,89,28,70
+HAdV-40 (F),37,47,70,74,78,72,78,79,35,47
+HAdV-52 (G),36,42,76,78,82,72,79,78,28,51
+The proteins span the entire genome.,,,,,,,,,,
+doi:10.1371/journal.pone.0060345.t003,,,,,,,,,,

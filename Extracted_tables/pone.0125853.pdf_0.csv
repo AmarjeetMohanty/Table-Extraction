@@ -1,0 +1,50 @@
+0,1,2,3,4
+,,,Evaluation of a Phylogenetic Marker Based on Genomic Segment B of IBDV,
+"Table 1.
+(Continued)",,,,
+Accession number,Lineage,Strain,Year of collection,Country
+DQ679811,vvIBDV,Hol,N/A,Netherlands
+AF362772,non-vvIBDV,Cu-1M,N/A,Germany
+AF362748,non-vvIBDV,Cu-1wt,1975,Germany
+X84035*,non-vvIBDV,P2,N/A,Germany
+AF092944,vvIBDV,HK46,1994,Hong Kong
+AF240687*,vvIBDV,D6948,1987,Netherlands
+D49707*,vvIBDV,OKYM,1991,Japan
+X92761*,vvIBDV,UK661,1989,United Kingdom
+AF133905*,non-vvIBDV,Del-E,1985,United States
+AY029165*,non-vvIBDV,IM,1967,United States
+AY368654*,non-vvIBDV,GLS,1987,United States
+AY459320*,non-vvIBDV,Edgar,1967,United States
+U30819*,non-vvIBDV,OH,1982,United States
+EU162090*,non-vvIBDV,D78,1978,Netherlands
+AF322445*,vvIBDV,Tasik,N/A,Indonesia
+EU184688*,vvIBDV,Cro-Po/00,N/A,Croatia
+AF083092*,non-vvIBDV,2512,N/A,United States
+AF194429*,non-vvIBDV,CEF94,N/A,Netherlands
+AJ310186*,non-vvIBDV,CT,N/A,France
+EU184690*,non-vvIBDV,Cro-Pa/98,N/A,Croatia
+AB368969*,non-vvIBDV,KZC-104,2004,Zambia
+JQ411013*,non-vvIBDV,903/78,1978,Hungry
+EU162095,non-vvIBDV,H30,2007,United States
+LK022343*,to be determined,117/96PiR96,1996,Cuba
+LK022327*,to be determined,BF3Hab97,1997,Cuba
+LK022328*,to be determined,BF26Hab97,1997,Cuba
+LK022329*,to be determined,61/98Hab98,1998,Cuba
+LK022330*,to be determined,69/98Hab98,1998,Cuba
+LK022331*,to be determined,135/00Hol00,2000,Cuba
+LK022332*,to be determined,BF11Hab00,2000,Cuba
+LK022333*,to be determined,45/02Hab02,2002,Cuba
+LK022334*,to be determined,BF12Hab02,2002,Cuba
+LK022335*,to be determined,BF29Hab04,2004,Cuba
+LK022336*,to be determined,BF31Hab04,2004,Cuba
+LK022337*,to be determined,BF14Cie08,2008,Cuba
+LK022338*,to be determined,BF16Hab08,2008,Cuba
+LK022339*,to be determined,BF19Hab09,2009,Cuba
+LK022340*,to be determined,BF24Hab11,2011,Cuba
+LK022341*,to be determined,BF25Hab11,2011,Cuba
+LK022342*,to be determined,Gumboro_labiofam,2011,Cuba
+,Accession number in boldface: sequences selected to assess the reliability of,the B-marker selected,,
+* Sequences used for the classiﬁcation study of,the Cuban sequences,,,
+,All sequences with an available year of collection were used in the time to the most recent common ancestors’ analysis.,,,
+N/A: not available.,,,,
+doi:10.1371/journal.pone.0125853.t001,,,,

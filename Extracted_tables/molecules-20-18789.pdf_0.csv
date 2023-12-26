@@ -1,0 +1,30 @@
+0,1,2,3
+,Table  1.  Inhibitory  effect  of  the  tested  compounds  against  the  proliferation  of  murine,,
+"leukemia (L1210), human T-lymphocyte (CEM) and human cervix carcinoma cells (HeLa).",,,
+,,IC50 a (µM),
+Compounds 16a–k and 17a–k,,,
+,L1210,CEM,HeLa
+17a,283 ± 17,≥250,≥250
+17b,≥250,>250,227 ± 32
+17c,227 ± 32,>250,≥250
+17d,>250,>250,≥250
+17e,>250,>250,>250
+17f,>250,>250,>250
+17g,>250,>250,>250
+17h,>250,≥250,>250
+17i,>250,>250,>250
+17j,>250,>250,>250
+"(1R,2S)-17k",21 ± 2,26 ± 8,90 ± 33
+"(1S,2S)-17k",16 ± 6,30 ± 16,84 ± 12
+16a,>250,>250,>250
+16b,>250,>250,>250
+16c,>250,>250,138 ± 52
+16d,>250,>250,148 ± 25
+16e,>250,>250,206 ± 49
+16f,>250,>250,195 ± 78
+16g,>250,>250,185 ± 35
+16h,>250,>250,≥250
+16i,>250,>250,210 ± 13
+16j,>250,>250,212 ± 54
+5-fluorouracil,0.33 ± 0.17,18 ± 5,0.54 ± 0.12
+,a 50% Inhibitory concentration or compound concentration required to inhibit tumor cell proliferation by 50%.,,

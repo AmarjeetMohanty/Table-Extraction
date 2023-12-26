@@ -1,0 +1,24 @@
+0,1,2,3,4
+"Table 4: Resistance prevalence for selected drug-bug pairs by patient type, U.S. 1999–2002",,,,
+,,unit: %,,
+Pair,Bacterium (resistant to) →,ICU patients,non-ICU inpatients,Outpatients
+,drug,,,
+A,PAE → Ciprofloxacin/,32,25,23
+,ofloxacin,,,
+B,PAE → Levofloxacin,37,28,25
+C,PAE → Imipenem,18,12,9
+D,PAE → Ceftazidime,13,8,5
+E,PAE → Piperacillin,16,11,6
+F,SAU → Methicillin,47,38,23
+G,Enterococcus spp →,13,11,4
+,Vancomycin,,,
+H,ECO → Cef3*,1,1,0
+I,ECO → Quinolone**,5,4,2
+J,KPN → Cef3,6,5,2
+K,Enterobacter spp → Cef3,26,21,10
+L,Enterobacter spp →,1,1,1
+,Carbapenum,,,
+M,CNS → Methicillin,75,63,46
+N,Pneumococcus → Penicillin,18,17,17
+O,Pneumococcus → Cef3,7,8,6
+,Mean,21,17,12

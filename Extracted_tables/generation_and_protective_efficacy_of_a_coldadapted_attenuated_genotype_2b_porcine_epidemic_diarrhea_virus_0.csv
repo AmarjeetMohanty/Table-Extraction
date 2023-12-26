@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6
+,Table 2. Changes of nucleotides and amino acids between the parental Aram-P5 and the cold adaptive P29-CA,,,,,
+,virus during in vitro serial passages,,,,,
+ORFs,Gene,,Position,,Aram strains,
+,,Nucleotide,,Amino acid,P5,P29-CA
+ORF1a,nsp3,4007,,1336,GAT (D),GGT (G)
+,nsp5,9625,,3209,ATT (I),TTT (F)
+ORF2,S,5,,2,AGG (R),AAG (K)
+,,628,,209,AAC (N),TAC (Y)
+,,1120,,374,GTG (V),TTG (L)
+,,1314,,438,ATA (I),ATG (M)
+,,2320,,774,ACG (T),GCG (A)
+,,2466,,822,CAG (Q),CAT (H)
+,,2492,,831,GAG (E),GTG (V)
+ORF4,E,209,,70,CCT (P),CTT (L)
+ORF5,M,149,,50,GCT (A),GTT (V)
+,,440,,147,GTT (V),GGT (G)
+The bold letters indicate mutated nucleotides based on P5 virus.,,,,,,

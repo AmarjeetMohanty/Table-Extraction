@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6,7
+Table 1. Continued,,,,,,,
+Structure,Virus,Strain,"Cell
+line",Assay,EC50 (mM),CC50 (mM),References
+BCX4430,TBEV,Hypr,PS,VTR,1.48,>100,Eyer et al.90
+,LIV,LI/31,PS,VTR,12.33,>100,Eyer et al.90
+,KFDV,W-377,PS,VTR,11.37,>100,Eyer et al.90
+,WNV,Eg101,PS,VTR,2.33,>100,Eyer et al.90
+,YFV,17-D,ND,ND,14.1,>100,Warren et al.89
+,JEV,SA14,,,43.6,>100,Warren et al.89
+,DENV-2,New Guinea C,,,32.8,>296,Warren et al.89
+,ZIKV,Various,"Vero, Huh-7, RD",CPE,3.8–11.7a,>100a,Julander et al.91
+,ZIKV,Various,"Vero, Huh-7, RD",VYR,5.4–18.2b,>100a,Julander et al.91
+"T
+-1106",YFV,17-D,Vero,Neutral red uptake,1800,>4000,Julander et al.94
+,YFV,17-D,Vero,CPE,2630,>4000,Julander et al.94
+,YFV,17-D,Vero,Luciferase based,1080,>4000,Julander et al.94

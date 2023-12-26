@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6,7,8
+,Table 1 association between LAMC2 expression level and the clinicopathologic characteristics of PsCC patients,,,,,,,
+Variables,,No. of,tLAMC2,,,sLAMC2,,
+,,patients,,,,,,
+,,,Low,High,P-value,Low,High,P-value
+age (years),<54,57,28,29,0.708,35,22,0.558
+,≥54,57,30,27,,38,19,
+Phimosis,no,33,15,18,0.460,18,15,0.178
+,Yes,81,43,38,,55,26,
+T stage,T1/a,37,22,15,0.204,31,6 3,0.002**
+,T2–4,77,36,41,,42,5,
+Pathologic grade,g1,70,43,27,0.004**,51,19,0.013*
+,g2–3,44,15,29,,22,22,
+n stage,n0/X,67,42,25,0.003**,57,10,<0.001***
+,n+,47,16,31,,16,31,
+sCC-ag (ng/ml),<1.5,50,25,25,0.911,39,11,0.002**
+,≥1.5,43,21,22,,20,23,
+CRP (mg/ml),<5.0,57,31,26,0.283,40,17,0.041*
+,≥5.0,22,9,13,,10,12,
+slaMC2 (ng/ml),<108,58,48,10,<0.001***,– –,– –,–
+,≥108,56,25,31,,,,
+Notes: *P<0.05; **P<0.01; ***P<0.001.,,,,,,,,

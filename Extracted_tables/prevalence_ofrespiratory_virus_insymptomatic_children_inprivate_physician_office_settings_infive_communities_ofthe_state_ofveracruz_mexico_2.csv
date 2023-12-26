@@ -1,0 +1,32 @@
+0,1,2,3,4,5,6,7,8,9,10
+Table 2  Virus coinfections,,,,,,,,,,
+,AdV,HuBoV,HuCoVc,HuCoVb,"EV
+Flu A",HuMPV,PIV-1,PIV-3,PIV-4,RV
+Positive for two virus,,,,,,,,,,
+CoV OC43,2,1,,,,,,,,
+CoV 229E/NL63,,,1,,,,,,,
+Enterovirus,4,1,,1,,,,,,
+Influenza A,3,1,,,,,,,,
+Metapneumovirus,,,1,3,1,,,,,
+PIV‑1,,,,,,1,,,,
+PIV‑2,1,,1,,"1
+1",,,,,
+PIV‑3,,,1,,"2
+1",,1,,,
+PIV‑4,,1,,,1,1,,,,
+Rhinoviurs,3,,,4,"1
+2",,3,1,3,
+RSV A,2,2,,3,,,1,1,1,3
+RSV B,,,,,1,,,,,
+Positive for three viruses,,,,,,,,,,
+Adenovirus,RV,HuMPV,2,,,,,,,
+CoV OC43,EV,HuCoVb,1,,,,,,,
+Metapneumovirus,EV,HuBoV,1,,,,,,,
+PIV‑1,AdV,RV,1,,,,,,,
+PIV‑3,HuCoVc,RV,1,,,,,,,
+Rhinoviurs,PIV‑3,PIV‑2,1,,,,,,,
+Rhinoviurs,RSV A,EV,1,,,,,,,
+Positive for four viruses,,,,,,,,,,
+Adenovirus,RV,RSV B,PIV‑4,1a,,,,,,
+Adenovirus,RV,RSV A,EV,1,,,,,,
+,a  Numbers indicate the number of samples with the indicated combination of viruses.,,,,,,,,,

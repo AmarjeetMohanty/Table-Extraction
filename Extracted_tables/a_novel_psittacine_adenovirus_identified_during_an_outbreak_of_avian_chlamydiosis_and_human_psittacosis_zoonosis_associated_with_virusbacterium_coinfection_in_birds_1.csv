@@ -1,0 +1,37 @@
+0,1,2,3,4,5
+Table 4. Predicted proteins in the Psittacine adenovirus HKU1.,,,,,
+,,,Coding sequence positions,,
+Open reading frame,Gene name,,,Frame,Size (aa)
+,,Start,Stop,,
+1,p32K,1210,293,23,305
+2,"E1B, small T-antigen",1177,1713,+1,178
+3,IVa2 protein,3033,1702,21,443
+4,DNA polymerase,6005,2772,22,1077
+5,Terminal protein precursor,7777,5978,23,606
+,,10540,10520,21,
+6,52K protein,7863,8837,+3,324
+7,IIIa protein,8840,10519,+2,559
+8,Penton protein/III,10550,11902,+2,450
+9,Core protein 1/pVII,11945,12406,+2,153
+10,Core protein 2 (mu protein)/pX,12426,12623,+3,65
+11,pVI protein,12671,13300,+2,209
+12,Hexon protein,13321,16062,+1,913
+13,Endopeptidase/protease,16059,16667,+3,202
+14,DNA-binding protein,17808,16672,21,378
+15,100K protein,17845,19812,+1,655
+16,22K protein,19616,19819,+2,67
+17,33K protein,19616,19811,+2,147
+,,19888,20135,+3,
+18,pVIII protein,20144,20896,+2,250
+19,U-exon,21073,20909,23,54
+20,Fiber-2 protein,21143,22345,+2,400
+21,Fiber protein,22356,23816,+3,486
+22,E4.3 protein,24648,23818,21,276
+23,E4.2 protein,25331,24648,22,227
+24,E4.1 protein,25922,25347,22,191
+25,Hypothetical protein,26401,26970,+1,189
+26,Hypothetical protein,27242,27622,+2,126
+27,Hypothetical protein,28029,28505,+3,158
+28,Hypothetical protein,29419,28859,23,186
+29,Hypothetical protein,30185,29445,22,246
+30,Hypothetical protein,30983,30255,22,242

@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6,7
+,TABLE 3. Overview of read counts of sequencing experiment replicates,,,,,,
+,DNA Replicate 1,,DNA Replicate 2,,RNA Replicate 1,RNA Replicate 2,RNA Replicate 3
+,(SQK-LSK108),,(SQK-LSK109),,(SQK-RNA001 +RT),(SQK-RNA001 +RT),(SQK-RNA002 −RT)
+Type,Poly(A),Poly(T),Poly(A),Poly(T),Poly(A),Poly(A),Poly(A)
+BC 10,4884,8572,578,2500,3148,"40,425",3463
+BC30,"11,953","13,898",1110,3189,7724,"28,557",9356
+BC40,6375,"11,294",571,2517,"12,044",279,"13,994"
+BC60,7293,7733,968,2339,"11,679","33,222","14,690"
+BC100,2619,2357,396,809,5439,"21,120",9831
+BC150,1502,1929,265,606,5219,"16,777",7271

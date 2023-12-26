@@ -1,0 +1,30 @@
+0,1,2,3
+,,,Virus Discovery Tool Using Autologous Antibodies
+,Table 3. Reads of viruses after antibody capture.,,
+Patient ID,Virus,Sequences in the enriched analysis-poola,% Viral sequences
+Patient 1,PIV-1,0,0%
+Patient 2,PIV-2,0,0%
+Patient 3,PIV-4,99,98%
+Patient 4,HRV,1945,100%
+Patient 5,hMPV,65,100%
+Patient 6,NL63,177,100%
+Patient 7,RSV,636,99%
+Patient 8,Inf B,13,100%
+Patient 9,Inf A,1634,100%
+Patient 10,OC43,71,100%
+Patient 11,NL63,249,100%
+Patient 12,229E,15,100%
+Patient 13,Rhino A,124,100%
+Patient 14,Norovirus,349,30%
+Patient 14,Adenovirus,349,50%
+Patient 15,Norovirus,3019,100%
+Patient 16,Enterovirus,121,0.00%
+Patient 17,Sapovirus,42,21%
+Patient 18,Sapovirus,246,65%
+Patient 18,Enterovirus,246,0.00%
+Patient 19:,Hepatitis B virus,21,62%
+Patient 15,Cucumber mosaic virusb,3019,0.00%
+Patient 19:,Caudoviralesb,21,0.00%
+,"aOnly enriched sequences with the potency to be viral are shown, so no known bacterial, human,",,"fungal, etc. or other sequences are included."
+"bControl, non pathogenic viruses.",,,
+doi:10.1371/journal.pone.0078454.t003,,,

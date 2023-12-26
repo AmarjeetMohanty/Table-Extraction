@@ -1,0 +1,21 @@
+0,1,2,3,4
+,,,,Proteomic Profiling in Neural Tube Defects
+,Table 1. Proteomic Features Showing Significantly Differences in Expression by Serum ProteinChip in Detection of Mothers with,,,
+,NTD-Affected Fetuses and Control Mothers.,,,
+Mass(Da),P value,NTDs (Mean ±SD),"Ctrl
+(Mean ±SD)",Fold
+4105,0.000163,59.3468.53,47.1865.73,1.26
+4297,0.000641,35.8263.62,22.8363.60,1.57
+4188,0.00196,40.2065.08,25.5664.52,1.57
+5497,0.00376,4.1960.20,7.9760.73,0.53
+28078,0.00483,5.4160.92,6.6160.89,0.82
+6650,0.00616,66.7565.72,55.3764.20,1.21
+8583,0.00695,47.2863.31,39.4762.63,1.20
+3282,0.0155,8.6461.06,5.0361.01,1.72
+2750,0.0172,18.2861.30,12.1961.76,1.50
+9155,0.0237,10.1662.35,13.5162.30,0.75
+3327,0.0390,7.2460.78,5.6560.08,1.28
+9434,0.0390,11.9161.84,15.9761.49,0.75
+NTDs: Neural Tube Defects.,,,,
+Mean6 SD refers to the peak intensities.,,,,
+doi:10.1371/journal.pone.0103276.t001,,,,

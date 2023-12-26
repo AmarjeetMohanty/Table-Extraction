@@ -1,0 +1,30 @@
+0,1,2,3
+,,,Risk of mortality from Middle East respiratory syndrome coronavirus
+Table 1. Risk factors analyzed in MERS-CoV mortality data with chi-square test.,,,
+Risk factors,Category‡,% Dead†,χ2 p − value
+Gender,Male (65.7%),28%,0.0259
+,Female (32.6%),36%,
+,NA (1.8%),,
+Comorbidity,Present (52.7%),46.7%,< 0.0001
+,Absent(47.3%),17.1%,
+Comorb-cat,None (47.3%),17.1%,< 0.0001
+,One (14.8%),14.8%,
+,More than one (37.9%),49.0%,
+Animal Contact,Yes (8.9%),38.8%,0.2215
+,No (91.1%),32.3%,
+Camel Contact,Yes (7%),37.3%,0.4228
+,No (93%),32.5%,
+Health Care Worker,Yes (13%),8.6%,< 0.0001
+,No (87%),36.6%,
+Clinical,Fatal (21.2%),94.6%,< 0.0001
+,Clinical (60.6%),20.6%,
+,Subclinical (15.8%),1.3%,
+,NA (2.2%),,
+Where-contracted,Family or Community 19.1%,40.4%,< 0.0001
+,Hospital (11.6%),44.6%,
+,HCW (2.7%),7.7%,
+,No Contact (23.4%),18.8%,
+,NA (38.2%),,
+Secondary Contact,Yes (40%),25.7%,0.0001
+,No (60%),37.6%,
+Ageat onset,Median = 52years (IQR = 37- 65),,< 0.0001

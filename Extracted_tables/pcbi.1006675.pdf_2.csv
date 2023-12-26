@@ -1,0 +1,20 @@
+0,1,2,3,4,5,6,7,8
+Table 3. Confusion matrix for the semi-parametric classifier for G4 structure.,,,,,,,,
+Single nucleotide assembling model,,,,,Predicted class,,,
+,,dsDNA,ssDNA,dsRNA,ssRNA (+),ssRNA (-),ssRNA (RT),Unclassified
+True class,dsDNA,33,0,0,1,4,1,0
+,ssDNA,2,0,0,5,0,1,0
+,dsRNA,0,0,13,0,5,0,0
+,ssRNA (+),4,0,0,45,13,0,0
+,ssRNA (-),3,0,8,18,48,0,0
+,ssRNA (RT),4,0,0,0,0,3,0
+,Unclassified,0,0,0,2,0,0,0
+G-island reshuffling model,,,,,Predicted class,,,
+,,dsDNA,ssDNA,dsRNA,ssRNA (+),ssRNA (-),ssRNA (RT),Unclassified
+True class,dsDNA,31,0,0,5,1,2,0
+,ssDNA,4,0,0,2,2,0,0
+,dsRNA,0,0,14,0,4,0,0
+,ssRNA (+),3,1,0,48,10,0,0
+,ssRNA (-),7,1,4,13,52,0,0
+,ssRNA (RT),3,0,0,3,1,0,0
+,Unclassified,0,0,0,2,0,0,0

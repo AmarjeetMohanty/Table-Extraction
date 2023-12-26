@@ -1,0 +1,40 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+,,,,Table 4. MAHLV genome characterization per segment.,,,,,,,
+,,,,,,,,,,,Public
+Genome,,,,,,,,,,,
+,,,Gene,,,,,,Gene Product,,Sequence
+Segment,,,,,,,,,,,
+,,,,,,,,,,,Database
+,Size of,5' End,3' End,,,,,Protein,,,Genbank
+,,,,5' UTR,3' UTR,Intergenic,,,Mw,,
+,Segment,Penta-Nucleotide,Penta-Nucleotide,,,,Protein,Size,,Proposed Function,Accession
+,,,,(nt),(nt),Region,,,(kDa),,
+,(nt),Sequence,Sequence,,,,,(aa),,,Numbers
+,,,,,,,,,,"Core structural protein,",
+L1,3950,5'-GGUCA,UCAUC-3',14,51,-,Lambda A,1294,143.7,"binds dsRNA,",
+,,,,,,,,,,"NTPase, helicase",
+,,,,,,,,,,"Guanylyl transferase, methyl",
+L2,3925,5'-GGUCA,UCAUC-3',16,33,-,Lambda C,1292,146.8,,
+,,,,,,,,,,transferase turret protein,
+,,,,,,,,,,"Core protein, RNA-dependent",
+L3,3846,5'-GGUCA,UCAUC-3',13,35,-,Lambda B,1265,142.7,,
+,,,,,,,,,,RNA polymerase,
+,,,,,,,,,,"Core protein, transcription factor;",
+M1,2341,5'-GGUCA,UCAUC-3',16,39,-,mu A,761,87.2,,
+,,,,,,,,,,ssRNA and dsRNA binding,
+,,,,,,,,,,"Outer capsid protein, membrane",KU198602
+M2,2145,5'-GGUCA,UCAUC-3',28,86,-,mu B,676,73.4,,
+,,,,,,,,,,penetration during infection,to
+,,,,,,,,,,,KU198621
+M3,2112,5'-GGUCA,UCAUC-3',34,77,-,mu NS,666,75.6,"Non-structural, virus inclusion",
+,,,,,,,,,,"Core protein, transcription factor;",
+S1,1322,5'-GGUCA,UCAUC-3',13,58,-,Sigma A,416,47.8,dsRNA binding;,
+,,,,,,,,,,blocks interferon pathway,
+S2,1282,5'-GGUCA,UCAUC-3',31,69,-,Sigma B,393,44.7,Outer capsid protein,
+,,,,,,,,,,ssRNA binding;,
+S3,1209,5'-GGUCA,UCAUC-3',27,63,-,Sigma NS,372,41.5,,
+,,,,,,,,,,virus inclusion formation,
+,,,,,,,,,,"Non-structural, membrane fusion",
+,,,,,,,p14,125,13.9,,
+S4,1068,5'-GGUCA,UCAUC-3',27,48,156,,,,(FAST),
+,,,,,,,p18,152,17.8,"Non-structural, unknown function",

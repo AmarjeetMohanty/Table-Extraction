@@ -1,0 +1,49 @@
+0,1,2,3,4,5
+,,,,,Cross-Species Transmission of a Novel Adenovirus
+,Table 1. PCR screening for TMAdV.,,,,
+Sample,,Sample Type,PCR Result,Date Presenting with Clinical Signs,Date of Necropsy
+"Affected,at-risktitimonkeys(died)",,,,,
+T1,,serum1,2,5/14/2009,5/19/2009
+T26,,"serum""",+,7/23/2009,7/30/2009
+T28,,"conjunctival swab""",+,7/16/2009,7/25/2009
+,,"nasal swab""",+,,
+,,"liver swab""",+,,
+,,"lung swab""",+,,
+T29,,"serum""",+,7/26/2009,7/31/2009
+T30,,"serum""",2,7/25/2009,7/30/3009
+T33,,"lung swab""",+,6/23/2009,6/29/2009
+,,"nasal swab""",+,,
+T36,,"lung swab""",+,7/7/2009,7/14/2009
+,,"lung swab""",+,,
+T60,,"serum""",2,7/15/2009,7/22/2009
+T63,,"serum""",2,6/20/2009,8/1/2009
+T67,,nasal swab#,2,7/7/2009,8/13/2009
+,,"nasal swab""",+,,
+"Affected,at-risktitimonkeys(survived)",,,,,
+T31,,serum*,2,7/10/2009,N/A
+T32,,serum*,2,7/12/2009,N/A
+T34,,serum*,2,6/23/2009,N/A
+T62,,serum*,2,7/8/2009,N/A
+Asymptomaticat-riskandminimal-risktitimonkeys,,,,,
+T27,,"throat swab (n = 1)""",2,N/A,N/A
+at-risk titi,,"stool
+from cages (n = 14)*",2,N/A,N/A
+at-risk titi,,serum (n = 29)*,2,N/A,N/A
+minimal-risk titi,,"oral swab (n = 3)""",2,N/A,N/A
+minimal-risk titi,,"stool
+from cages (n = 5)*",2,N/A,N/A
+minimal-risk titi,,serum (n = 8)*,2,N/A,N/A
+minimal-risk titi,,"stool
+from cages (n = 8)*",2,N/A,N/A
+minimal-risk titi,,serum (n = 8)*,2,N/A,N/A
+Other,,,,,
+rhesus,,rectal swabs (n = 26)*,2,N/A,N/A
+human,,serum (n = 15)‘,2,N/A,N/A
+rodent,,droppings (n = 2)*,2,N/A,N/A
+For,"titi monkey cage designations (TXX), please refer",to Fig. 1.,,,
+1initial case.,,,,,
+#collected prior,to outbreak.,,,,
+"""collected during outbreak.",,,,,
+,*collected 2 months after outbreak.,,,,
+,‘collected 4 months after outbreak.,,,,
+,doi:10.1371/journal.ppat.1002155.t001,,,,

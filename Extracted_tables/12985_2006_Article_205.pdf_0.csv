@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6,7
+Table 1: Patient profile,,,,,,,
+Patient #,Sex,Age,Etiology,Child-Pugh,Length of alcohol consumption,Quantity of alcohol consumed,ALT/AST
+1239,M,68,Alcohol,A,several years,> 100 g/day,28/37
+1240,M,70,Alcohol,A,several years,> 100 g/day,36/44
+1245,M,67,Alcohol,A,unknown,unknown,19/19
+1263,M,72,Alcohol,A,> 20 years,80 g/day,82/89
+1164,M,62,Alcohol,B,> 30 years,> 80 g/day,33/27
+1227,M,59,Alcohol,C,39 years active at OLT,> 100 g/day,28/54
+1228,M,44,Alcohol,C,18 years,> 100 g/day,18/27
+1015,M,47,HCV,A,N/A,none,96/45
+1019,M,66,HCV,A,N/A,none,77/99
+1022,M,61,HCV,A,N/A,none,113/143
+1023,M,67,HCV,A,N/A,none,90/115
+1037,F,54,HCV,B,N/A,none,57/78
+1038,M,55,HCV,B,N/A,none,69/108
+1035,M,59,HCV,C,N/A,none,87/100
+1039,M,66,HCV,C,N/A,none,90/35

@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+"Table 1: Resistance prevalence of ten common bacteria to Ciprofloxacin in China, 1994–2000",,,,,,,,,,,
+,,,,,,,,,,,unit: %
+Rank,Bacter.,,1994,1995,1996,1997,1998,1999,2000,Average,Average Growth
+,,,,,,,,,,Resistance*,Rate*
+1,Escherichia coli (ECO),,53,49,60,61,60,63,62,59,3
+2,Pseudomonas aeruginosa (PAE),,9,10,7,18,13,17,18,13,17
+3,Klebsiella pneumoniae (KPN),,2,4,7,8,14,17,18,10,40
+4,Staphylococci epidermidis (SEP),,22,33,34,35,41,40,46,36,9
+5,Staphylococci aureus (SAU),MRS,47,65,74,88,83,78,76,76,7
+,,A**,,,,,,,,,
+,,MSS,8,18,10,5,8,20,14,11,8
+,,A**,,,,,,,,,
+6,Enterococcus faecalis (EFA),,25,34,28,34,32,45,45,34,9
+7,Enterobacter cloacae (ECL),,12,9,13,14,22,31,30,18,26
+8,Acinetobacter baumannii (ABA),,7,7,19,20,23,31,37,20,29
+9,Citrobacter freundii (CFR),,10,21,20,17,22,26,26,20,10
+10,Proteus mirabilis (PMI),,8,2,13,2,5,14,12,7,10
+,,Mea,,,,,,,,28,15
+,,n,,,,,,,,,
+,,Med,,,,,,,,20,10
+,,ian,,,,,,,,,

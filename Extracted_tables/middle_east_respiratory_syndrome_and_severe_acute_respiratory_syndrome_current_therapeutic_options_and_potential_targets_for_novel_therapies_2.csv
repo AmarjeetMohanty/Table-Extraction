@@ -1,0 +1,77 @@
+0,1,2,3,4
+"Table 3
+continued",,,,
+"Drug class members
+Activity against",Activity against other viruses,Clinical status,Known safety issues,Comments
+coronavirusesa,,,,
+"Nilotinib
+MERS-CoV:",,,,
+5.5 lM [38],,,,
+SARS-CoV:,,,,
+2.1 lM [38],,,,
+"Selumetinib sulfate
+MERS-CoV:",,In Phase II/III trials for cancer treatment,"Well
+tolerated",MEK inhibitor
+C 95% inhibition,,,,
+at 10 lM [89],,,,
+"Sirolimus
+MERS-CoV: 61%",HIV-1 [270]; HHV-5 [271],"Approved immunosuppressant
+in","Well
+tolerated",mTOR inhibitor
+inhibition at,,transplant; reduced viral replication in,,
+10 lM [89],,HIV- or HCV-positive transplant,,
+,,patients [272–274],,
+"Sorafenib
+MERS-CoV: 93%",BKPyV [261]; HHV [275]; EV71,"Approved for
+treatment of cancers","Well
+tolerated",
+inhibition at,[276]; RVFV [277],,,
+10 lM [89],,,,
+"Trametinib
+MERS-CoV:",,"Approved for
+treatment of cancers","Well
+tolerated",
+C 95% inhibition,,,,
+at 0.1 lM [89],,,,
+"Wortmannin
+MERS-CoV: 40%",HSV-2 [269]; HIV-1 [278],"In development
+for
+treatment of cancer",Toxicity issues.,
+inhibition at,,,Derivatives are in,
+10 lM [89],,,Phase I clinical,
+,,,trials,
+"Neurotransmitter
+inhibitors",,,,
+"Astemizole
+MERS-CoV:",,Previously approved antihistamine,Withdrawn in 1999,
+4.9 lM [38],,,"because of
+rare",
+,,,arrhythmias,
+SARS-CoV:,,,,
+5.6 lM [38],,,,
+"Benztropine
+MERS-CoV:","HCV [102], EBOV, MARV","Approved anticholinergic for
+treatment","Well
+tolerated",
+"mesylate
+16.6 lM [38]","[100, 101, 104]",of Parkinson’s disease,,
+SARS-CoV:,,,,
+21.6 lM [38],,,,
+"Chlorphenoxamine
+MERS-CoV:",,Approved antihistamine and,"Well
+tolerated",
+12.7 lM [38],,"anticholinergic for
+treatment of",,
+,,Parkinson’s Disease,,
+SARS-CoV:,,,,
+20.0 lM [38],,,,
+"Chlorpromazine
+MERS-CoV:",EBOV [96]; JUNV [94]; SV40 [279],"Approved for
+treatment of","Well
+tolerated",CAD
+"hydrochloride
+4.9–9.5 lM",,schizophrenia,,
+"[36, 38]",,,,
+SARS-CoV:,,,,
+8.8–13.0 lM,,,,
+"[36, 38]",,,,

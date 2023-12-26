@@ -1,0 +1,26 @@
+0,1,2,3,4
+duplex PCR tests (Argene/bioMe´rieux) used as gold standard.,,,,
+,No. of positive specimens,,,
+,,,Evaluated kits,
+Pathogens tested,with the reference test,Performances,,
+,,,A,B
+Mycoplasma pneumoniae,10,sensitivity %,70.00,80.00
+,,specificity %,100,98.73
+,,accuracy,0.97,0.97
+,,kappa coefficient[.95% confidence,0.81 [0.59; 1],0.82 [0.63; 1]
+,,interval],,
+Chlamydophila pneumoniae,4,sensitivity %,50.00,50.00
+,,specificity %,100,100
+,,accuracy,0.98,0.98
+,,kappa coefficient[95% confidence,0.66 [0.21; 1],0.66 [0.21; 1]
+,,interval],,
+Bordetella pertussis,9,sensitivity %,11.11,11.11
+,,specificity %,100,98.75
+,,accuracy,0.91,0.90
+,,kappa coefficient[95% confidence,0.18 [0; 0.50],0.15 [0; 0.45]
+,,interval],,
+Overall,23,sensitivity %,43.48,47.83
+,,specificity %,100,99.21
+,,accuracy,0.95,0.95
+,,kappa coefficient[95% confidence,0.58 [0.38; 0.79],0.59 [0.39; 0.78]
+,,interval],,

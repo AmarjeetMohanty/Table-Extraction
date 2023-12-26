@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+,"Table 1 The annotations in GenBank and predictions by VIGOR, FLAN, GeneMarkS and ZCURVE_V of segmented RNA",,,,,,,,,,
+"viruses,",,influenza viruses (Flu) and rotaviruses (Rtv),,,,,,,,,
+,,No. of,No. of,No. of,Sp,No. of partial,Discrepancy*,No. of,No. of mis-,No. of,Geno-
+,,seq.,genes,correct,+(%)/Sn+,correct gene,,missing,predicted,new,typing
+,,,,pred.,+(%),,,genes,genes,genes,
+,Ref. Seq,2376,3177,,,,,,,,
+,VIGOR,,3178,3169,99.40/,3,5,0,1,0,Yes
+,,,,,99.9,,,,,,
+Flu,FLAN,,3149,3124,99.2/,6,57,N/A,9,0,Yes
+,,,,,98.33,,,,,,
+,GeneMarkS,,2754,1119,40.63/,1288,,770,347,0,No
+,,,,,35.22,,,,,,
+,ZCURVE_V,,2809,2296,81.74/,40,,841,473,0,No
+,,,,,72.27,,,,,,
+,Ref. Seq.,1166,1158,,,,,,,,
+,VIGOR,,1202,1199,99.75/,3,,0,0,44,Yes
+,,,,,99.75,,,,,,
+,GeneMarkS,,1208,378,31.29/,776,,5,54,1,No
+,,,,,32.64,,,,,,
+,ZCURVE_V,,1171,1113,95.05/,45,,1,13,1,No
+,,,,,96.11,,,,,,
+,+. Specificity;++ Sensitivity. *. Discrepancy cases between this prediction and GenBank annotation.,,,,,,,,,,

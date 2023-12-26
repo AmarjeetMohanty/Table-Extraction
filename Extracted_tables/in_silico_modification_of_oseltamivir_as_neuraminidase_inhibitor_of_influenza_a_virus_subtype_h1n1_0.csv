@@ -1,0 +1,11 @@
+0,1,2,3,4
+,,In silico modification of oseltamivir,,
+,Table 1 The properties of the three best ligands and standard ligand,,,
+Ligand,AD3BF2D,CA1G3B,F1G4B,OTV (standard)
+DG (kcal/mol),-7.8885,-7.6293,-7.5637,-4.2841
+"pKi
+(mmol/L)",15.636,12.689,13.630,10.745
+Molecular weight,489.542,462.496,481.475,313.418
+H Donor,6,3,8,4
+H Acceptor,7,11,3,1
+Binding to the catalytic site,10,10,5,0

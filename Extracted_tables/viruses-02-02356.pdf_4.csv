@@ -1,0 +1,34 @@
+0,1,2,3,4,5,6
+,,,Table 1. Cont.,,,
+Involvement in,,,,,"Length,",VBRC
+,Genus,,Virusa,Gene/Protein,,
+Ubiquitination,,,,,aa,accessionb
+,Parapoxvirus,,ORFV-NZ2,8,516,VP0047660
+,,,,123,525,VP0047777
+,,,,126,497,VP0047780
+,,,,128,500,VP0047782
+,,,,129,520,VP0047783
+,Suipoxvirus,,SWPV-Neb,141,635,VP0040697
+,,,,142,485,VP0040698
+,,,,143,430,VP0040699
+,,,,144,493,VP0040700
+,Yatapoxvirus,,YLDV-Davis,148R,476,VP0040200
+,,,,147R,491,VP0040199
+,,,,146R,473,VP0040198
+,,,,11L,637,VP0040060
+,,,YMTV-Amano,11L,637,VP0043056
+,,,,146R,356,VP0043184
+,,,,147R,497,VP0043185
+,,,,148R,483,VP0043186
+,Unclassified,,DPV-W1170_84,164,493,VP0045447
+,Poxviridae,,,,,
+,,,,163,483,VP0045446
+,,,,162,501,VP0045445
+,,,,160,641,VP0045443
+,,,,19,643,VP0045302
+poxvirus,Molluscipoxvirus,,MOCV-st1,026L,83,VP0038021
+APC/cyclosome,Parapoxvirus,,BSPV-AR02,13,93,VP0043354
+regulators,,,ORFV-NZ2,14,93,VP0047667
+,Unclassified,,CRV-ZWE,47,81,VP0066074
+,Poxvirdae,SPV,,A11L,86,DQ377804e
+"a   Representative strains were chosen for each individual virus, and the viruses are abbreviated: Canarypox",,,,,,

@@ -1,0 +1,20 @@
+0,1,2,3
+interactions between host proteins and viral genes is provided in Table 2.,,,
+,Table 2. Established WSSV–host gene expression interactions.,,
+Transcription Factor,,,
+,"Target (Host, Virus)",Species,Reference
+"(Host, Virus)",,,
+STAT (PmSTAT),ie1,Penaeus monodon,[136]
+PHB2 (Sf-PHB2),ie1,Spodoptera frugiperda,[137]
+"Nf-κB (LvRelish, LvDorsal)","ie1, WSSV303, WSSV371",Litopenaeus Vannamei,[138–140]
+,,,[141] (Bioinformatic
+c-JUN,ie1,L. vannamei,
+,,,prediction)
+XBP1 (LvXBP1),wsv083,L. vannamei,[142]
+ATF4 (LvATF4),wsv023,L. vannamei,[142]
+KLF (PmKLF),WSSV108,"P
+. monodon",[143]
+ATFβ (LvATFβ),"wsv059, wsv166",L. vannamei,[144]
+"VP38, VP41B",Caspase (PjCaspase),M. japonicus,[145]
+WSSV-miR-N24,Caspase 8,M. japonicus,[78]
+,Viral protein/gene/miRNA is underlined.,,

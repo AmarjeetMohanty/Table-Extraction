@@ -1,0 +1,20 @@
+0,1,2,3,4,5,6
+,Table 3 Difference-in-difference estimates for multinomial,,,logistic regression (unemployment reason),,
+Control,Treatment,Unemployment reason,,,,
+group,group,,,,,
+,,,Relative Risk Ratio,,Relative Risk Ratio,
+,,,"Pre-treatment: 2014, 6 ~ 7",,Time trends control,
+,,,Voluntary,Involuntary,Voluntary,Involuntary
+15–49,Over 50,Treated × post,1.0379b (0.0017),1.0512b (0.0022),1.0586b (0.0017),1.0727b (0.0023)
+,,post,,,0.9518b (0.0008),1.0616b (0.0015)
+,50s,Treated × post,1.0067b (0.0020),1.1536b (0.0029),1.0490b (0.0022),1.1694b (0.0030)
+,,post,,,0.9519b (0.0008),1.0623b (0.0016)
+30–49,Over 50,Treated × post,1.0410b (0.0019),1.0644b (0.0026),1.0263b (0.0020),1.0966b (0.0027)
+,,post,,,0.9836b (0.0013),1.0388b (0.0020)
+,50s,Treated × post,1.0087b (0.0016),1.1001b (0.0027),0.9605b (0.0015),1.1193b (0.0028)
+,,post,,,0.9849b (0.0013),1.0442b (0.0020)
+15–29,Over 50,Treated × post,1.0287b (0.0018),1.0363b (0.0029),1.0900b (0.0020),1.0468b (0.0031)
+,,post,,,0.9241b (0.0011),1.0865b (0.0027)
+,50s,Treated × post,0.9973 (0.0022),1.1355b (0.0036),1.0823b (0.0024),1.1415b (0.0037)
+,,post,,,0.9239** (0.0011),1.0862b (0.0027)
+,"a and b indicate that the estimate is significant at the 0.05 and 0.01 levels, respectively. Standard errors are reported in parentheses. Reported values are relative",,,,,

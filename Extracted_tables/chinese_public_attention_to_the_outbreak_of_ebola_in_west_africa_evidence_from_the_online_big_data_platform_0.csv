@@ -1,0 +1,35 @@
+0,1,2,3
+,Table 1. The public reaction of Internet users to the topic of “Ebola” through the BDI.,,
+Province/City,Centralized Tendency *,Netizen Number (1/100 Million),Average BDI (1/100 Million)
+Beijing,1917,1556,1.23
+Shanghai,1646,1683,0.98
+Guangdong,2849,6992,0.41
+Fujian,1224,2402,0.51
+Tianjin,792,866,0.91
+Zhejiang,1962,3330,0.59
+Liaoning,1078,2453,0.44
+Jiangsu,2214,4095,0.54
+Xinjiang,446,1094,0.41
+Shanxi,714,1755,0.41
+Qinghai,195,274,0.71
+Hebei,1442,3389,0.43
+Hainan,366,411,0.89
+Shaanxi,966,1689,0.57
+Shandong,1576,4329,0.36
+Chongqing,691,1293,0.53
+Inner Mongolia,499,1093,0.46
+Ningxia,210,283,0.74
+Hubei,1113,2491,0.45
+Jilin,579,1163,0.50
+Heilongjiang,661,1514,0.44
+Guangxi,863,1774,0.49
+Tibet,118,115,1.03
+Hunan,1135,2410,0.47
+Anhui,1167,2150,0.54
+Sichuan,1272,2835,0.45
+Henan,1294,3283,0.39
+Gansu,392,894,0.44
+Guizhou,515,1146,0.45
+Yunnan,557,1528,0.36
+Jiangxi,791,1468,0.54
+,"* If the available data met a normal distribution (p ě 0.05: Shapiro-Wilk test), the mean was used; If the available",,

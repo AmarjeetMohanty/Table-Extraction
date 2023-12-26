@@ -1,0 +1,14 @@
+0,1,2,3,4
+,Table 1. Relative levels of virus and rE protein binding antibody in immune sera.,,,
+,,,,rE antibody relative to
+,,End point binding titera,,
+Serum,Serotype,,,whole virus antibody (%)b
+,,Whole virus,rE protein,
+Serum 013 (primary DENV2),DENV1,"3,579",358,10
+,DENV2,"8,906","1,536",17
+,DENV3,"3,579","1,242",35
+,DENV4,"3,141",485,15
+Serum 033 (primary DENV3),DENV1,"13,164","1,338",10
+,DENV2,"8,906","2,050",23
+,DENV3,"20,768","6,931",33
+,DENV4,"12,334","1,815",15

@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6
+,Table 1  Amino acid substitutions that stabilize soluble native‑like trimers,,,,,
+,Hydrophobic,Aromatic,Proline/glycine,Disulfide bonds,Charged,Other
+C1,,,,E49C-L555Ca,E47Db,E106Tb
+,,,,H72C-H564Ca,K49Eb,
+,,,,A73C-A561Ca,E64Kc,
+,,,,,V65Kb,
+,,,,,H66Rc,
+,,,,,T106Ed,
+V1,L154Me,Y177We,,,S164Eb,
+V2,I165Lb,,,,Q171Kf,
+,I172Vf,,,,I192Rf,
+C2,A204Ig,I203Fh,,"I201C-A433Cm,n",,

@@ -1,0 +1,222 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12
+"BMC Infectious Diseases 2008, 8:23",,,,,,,,,,,,http://www.biomedcentral.com/1471-2334/8/23
+,,,,,,,,,,,,The death rates are obtained by requiring the size of each
+"US
+7
+US",,,,,,,,,,,,age class to remain constant over time (by balancing the
+"I j
+S
+US
+US
+S
+S
+dSi",,US,,,S,,,,S,S,,
+"iU
+=∑
+iU
+iU
+= −
+−
+−
++
+β
+τ
+S
+S
+g S",fV,,"−
+d",,"iU
+S
+S","+
+a",,S,"iU
+−","iU
+a S",,inflow and outflow for each age class). This is expressed
+"ij
+i end
+i
+,",,i,,i,,,i,"−
+1","−
+1",i,,
+"dt
+N j",,,,,,,,,,,,
+"1
+j",,,,,,,,,,,,
+,,,,,,,,,,,by the equations,
+"US
+7
+US",,,,,,,,,,,,
+"I j
+U
+US
+S
+S
+S
+US
+dEi",,S,,,,S,,,S,,,
+"iU
+=∑
+iU
+iU
+=
++
+−
+−
+β
+δ
+S
+S
+E
+τ ,","iU
+d E",+,a,,"iU
+E",−,a E,iU,,,,
+"ij
+i end",i,,i,"−
+1",−,1,,i,,,,
+"dt
+N j",,,,,,,,,,,,"US
+US
+US
+US
+US"
+"1
+j",,,,,,,,,,,,"=
++
+b
+N
+a N
+d
+N"
+,,,,,,,,,,,,"1
+1
+1
+1"
+US,,,,,,,,,,,,(B1)
+dIi,,,,,,,,,,,,"S
+S
+S
+S
+=
++
+="
+"S
+S
+S
+S
+S
+S
+= −
++
+−
++
+−",,,,,,,,,,,,"iU
+iU
+iU
+iU
+a N
+a
+N
+d
+N
+i
+1...66"
+"iU
+iU
+iU
+iU
+iU
+γ
+δ
+I
+E
+d I
+a
+I
+a I
+−
+−
+i
+i
+i
+1
+1
+i",,,,,,,,,,,,"+
++
++
++
+1
+1
+1
+1
+i
+i"
+dt,,,,,,,,,,,,
+US,,,,,,,,,,,,
+,,,,,,,,,,,,"Solving  these  equations  using  the  above  values  for  bUS,"
+"S
+S
+S
+S
+S
+dRi
+=
+−
++
+−",,,,,,,,,,,,
+"iU
+iU
+iU
+iU
+γ
+I
+d R
+a
+R
+a R
+−
+−
+−
+i
+1
+i
+i
+i
+1
+1",,,,,,,,,,,,
+dt,,,,,,,,,,,US,
+,,,,,,,,,,,", 
+N i","and 
+yields
+ai"
+US,,,,,,,,,,,,
+"S
+US
+US
+US
+dVi
+=
+−
+−
++
+−",US,,,,,,,,,,,"−
+−"
+"iU
+S
+fV
+d V
+a
+V
+a V
+g",,,,,,,,,,,"US
+US","US
+US
+US
+US
+1
+US
+−1"
+"−
+−",,,,,,,,,,,=,"=
+=
+=
+=
+=
+="

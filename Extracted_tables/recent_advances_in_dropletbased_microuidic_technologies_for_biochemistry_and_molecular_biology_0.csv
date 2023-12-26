@@ -1,0 +1,30 @@
+0,1,2,3,4
+Table 1.,Comparison of,throughput and sensitivity of droplet-based microﬂuidics and selected,,
+conventional approaches.,,,,
+Selected,Throughput,,,Limit of Detection
+Applications,,,,
+,Conventional Methods,DMF,Conventional Methods,DMF
+,,,10–20 kb templates [13],3 kb can be analyzed [13]
+Single-cell DNA,,,,
+,384 cells/assay [136],"50,000 cells/run [12]",(Minimum size of DNA,(Minimum size of DNA
+sequencing,,,,
+,,,that can be analyzed),that can be analyzed)
+,,,One mutation in,One mutation in
+,,2 million,,
+PCR,1 reaction/20 µL [21],,"20,000 wild-type of",5 million wild-type of
+,,reactions/nL [21],,
+,,,background DNA [151],background DNA [151]
+,96 or 384 reaction/assay,500 reaction/assay,,
+ELISA,,,0.1–0.2 µg/mL [74],0.01 µg/mL [74]
+,[74],[74],,
+,,"100,000 droplets/s",,
+Single-cell sorting,1536 cells/assay [152],,80 cells/mL [153],10 cell/mL [113]
+,,[113],,
+,,1 × 108 reactions/day,,
+Directed evolution,"73,000 reactions/day [81]",,NA,NA
+,,[81],,
+,,,1 × 105 cells [148],10–100 cells [148]
+,,"80,000 cells/screening",,
+Drug screening,3328 cells/screening [148],,(Minimum requirement of,(Minimum requirement
+,,[148],,
+,,,cells for screening),of cells for screening)

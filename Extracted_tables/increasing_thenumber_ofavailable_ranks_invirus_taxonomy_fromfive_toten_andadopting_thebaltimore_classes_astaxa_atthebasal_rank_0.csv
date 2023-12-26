@@ -1,0 +1,16 @@
+0,1,2
+Table 1,,
+,"Rank structure of Virus Taxonomy, currently used",
+and proposed,,
+Rank,Currently  used1,Proposed1
+1,,Domain
+2,,Kingdom
+3,,Phylum
+4,,Class
+5,Order,Order
+6,,Suborder
+7,Family,Family
+8,Subfamily,Subfamily
+9,Genus,Genus
+10,Species,Species
+1 Major ranks are left indented,,

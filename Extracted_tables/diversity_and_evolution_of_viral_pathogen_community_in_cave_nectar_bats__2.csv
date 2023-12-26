@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6,7,8
+,,,,Table 3. Cont.,,,,
+,Urine-MiSeq-25,Urine-MiSeq-27,Urine reads by,Feces-Hiseq,Feces-MiSeq,Fecal Reads by,,Consensus
+Virus Family,,,,,,,Total Reads,
+,Reads,Reads,Family (% of Total),Reads,Reads,Family (% of Total),,Reads/Unassembled Reads
+Leviviridae B,-,-,-,-,4,4,4,2/0
+Luteoviridae P,-,-,-,-,1,1,1,-
+Microviridae B,17,117,134 (3.34%),3016,438,3454 (3.07%),3588 (3.08%),39/8
+Mimiviridae PR,-,-,-,-,1,1,1,-
+Myoviridae B,1,-,1 (0.02%),4029,1688,5717 (5.08%),5718 (4.91%),525/346
+Narnaviridae F,-,-,-,16,345,361 (0.32%),361 (0.31%),42/6
+Nodaviridae A,-,-,-,-,117,117 (0.10%),117 (0.10%),13/10
+Nudiviridae A,-,-,-,28,63,91 (0.08%),91 (0.08%),32/16
+Papillomaviridae V,-,-,-,3,9,12 (0.01%),12 (0.01%),3/3
+Paramyxoviridae V,14,34,48 (1.20%),3,6,9 (0.01%),57 (0.05%),6/1
+Partitiviridae P/F,12,129,141 (3.52%),12,22,34 (0.03%),175 (0.15%),12/11
+Parvoviridae V,-,-,-,203,421,624 (0.55%),624 (0.54%),55/21
+Genus: Parvovirinae,-,-,-,187,370,557 (0.50%),557 (0.48%),-
+Genus: Denovirinae,-,-,-,8,51,59 (0.05%),59 (0.05%),-
+Permutotetraviridae A,-,-,-,55,933,988 (0.88%),988 (0.85%),92/7
+Phycodnaviridae P,3,1,4 (0.10%),-,2,2,6 (0.01%),1/3
+Picobirnaviridae V,-,-,-,-,3,3,3,0/3
+Picornaviridae V,-,-,-,45,114,159 (0.14%),159 (0.14%),33/17
+Podoviridae B,26,-,26 (0.65%),4002,"13,349","17,351 (15.42%)","17,377 (14.91%)",787/225
+Polydnaviridae A,-,-,-,4,6,10 (0.01%),10 (0.01%),3/4
+Polyomaviridae V,8,-,8 (0.20%),63,93,156 (0.14%),164 (0.14%),33/13
+Potyviridae P,-,-,-,44,15,59 (0.05%),59 (0.05%),13/12
+Poxviridae V,16,-,16 (0.40%),2,1,3,19 (0.02%),3/3
+Reoviridae V,1,-,1 (0.02%),95,76,171 (0.15%),172 (0.15%),42/22
+Genus: Orthoreovirus,1,-,1,53,25,78 (0.07%),103 (0.09%),-
+Genus: Rotavirus,-,-,-,24,39,63 (0.06%),102 (0.09%),-

@@ -1,0 +1,33 @@
+0,1,2,3,4,5
+Table 5. Examples of known and suspected cases of stop-codon readthrough,,,,,
+Taxon,Product,Type,Stop-codon context,RNA structure,References
+Alphavirus (species that,Replicase,II,"UGA-CGG, UGA-CUA",Extended stem–loop,Li & Rice (1993);
+utilize readthrough),,,,,Firth et al. (2011)
+Tobravirus RNA1,Replicase,II,UGA-CGG,Extended stem–loop*,Urban et al. (1996);
+,,,,,Firth et al. (2011)
+Pecluvirus RNA1,Replicase,II,UGA-CGG,Extended stem–loop?,
+Furovirus RNA1,Replicase,II,UGA-CGG,Extended stem–loop?,
+Pomovirus RNA1,Replicase,II,"UGA-CGG, UAA-CGG etc.",Extended stem–loop*,
+Tobamovirus,Replicase,I,A-UAG-CAA-UUA,,Skuzeski et al. (1991);
+,,,,,Zerfass & Beier (1992)
+Providence virus,Replicase,I,UAG-CAA-CUA,,Walter et al. (2010)
+Tombusviridae (except,Replicase,III,UAG-GGR,39-proximal structure+,Cimino et al. (2011)
+Dianthovirus),,,,long-distance 39 base,
+,,,,pairing,
+Gammaretrovirus,Reverse transcriptase,III,UAG-G,Compact pseudoknot,Wills et al. (1991);
+,,,,,Alam et al. (1999)
+Epsilonretrovirus,Reverse transcriptase,III,UAG-R,Extended stem–loopD,
+Furovirus RNA2,CP-extension,II,UGA-CGG etc.,Extended stem–loop?,
+Pomovirus RNA2,CP-extension,I,"UAG-CAA-UYA,",,
+,,,UAA-CAA-UUA,,
+"Luteovirus, Polerovirus",CP-extension,III,AAA-UAG-GUA,Long-distance 39 base,Brown et al. (1996);
+,,,,pairing?,Bruye`re et al. (1997)
+Rose spring dwarf-,CP-extension,II,UGA-CGG,,
+associated luteovirus,,,,,
+Enamovirus,CP-extension,,UGA-GGG,,Demler & de Zoeten
+,,,,,(1991)
+Benyvirus,CP-extension,I,UAG-CAA-UUA,Compact stem–loop*,
+Rice stripe necrosis,CP-extension,III,UAG-GGG,Compact stem–loop*,
+benyvirus,,,,,
+"Coltivirus, segment 9",VP99,II,UGA-CGG,Extended stem–loop,Jaafar et al. (2004);
+,,,,,Napthine et al.

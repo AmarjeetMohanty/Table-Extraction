@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6,7,8,9,10
+,Table 4. Murine and human MAb competition with MAb-hydrogen peroxidase (HRP) conjugates binding to Venezuelan equine,,,,,,,,,
+encephalitis virus TC-83.,,,,,,,,,,
+,,HRP,HRP,HRP,HRP,HRP,HRP,HRP,HRP,HRP
+CompetitorA,EpitopeB,a-E2a,a-E2c,a-E2d,a-E2e,a-E2f,a-E2g,a-E2h,a-E1b,a-hE2c
+5B4D-6,E2a,88C,,,,,,,,1
+1A4A-1,E2c,,94,,,,,,,92
+1A6C-3,E2d,,,92,,,,,,60
+1A3A-5,E2e,,,,91,,,,,0
+1A4D-1,E2f,,,,,90,,,,83
+1A3A-9,E2g,,,,,,94,,,0
+1A3B-7,E2h,,,,,,,94,,0
+3B2A-9,E1b,,,,,,,,86,0
+F5 nIgG,hE2c,59,20,82,56,68,0,30,8,92
+Hy4 IgGD,E2c,59,93,96,90,93,52,95,30,95

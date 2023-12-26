@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6
+Table 3 Conventional methods for detection of A(H1N1) virus,,,,,,
+,,Sample type for,,,,
+Serial No,Detection method,detection,Detection time,Gene/protein,Sensitivity/L.O.D,References
+1,Cell culture,H1N1 Virus,7days,-,86-94%,[33]
+2,ELISA,H1N1 Virus,4-5 hours,HA antibody,93.7%,[52]
+3,RIDT kits,H1N1 Virus,< 30min,NA/antibody,1.13 HAU,[62]
+4,RT-LAMP,Extracted RNA,3-4 hours,HA gene,93.8%,[70]
+5,Real-Time PCR,Extracted RNA,3-4 hour,HA gene,5copies/reaction,[107]
+6,HI assay,Sera,-,HA,92%,[110]
+7,Conventional RT-PCR,Extracted RNA,3-4 hour,HA gene,1.0104 TCID50,[111]

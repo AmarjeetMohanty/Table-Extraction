@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6,7,8,9
+Table 5.  The similarity matrix for the 9 ND5 protein sequences.,,,,,,,,,
+SPECIES,HUMAN,COMMON,PYGMY,GORILLA,FIN,BLUE,RAT,MOUSE,OPOSSUM
+,,CHIMPANZEE,CHIMPANZEE,,WHALE,WHALE,,,
+Human,0,0.03204,0.04244,0.04723,0.07263,0.07744,0.18081,0.21400,0.24337
+Common,,0,0.02842,0.04783,0.08253,0.08917,0.17555,0.21422,0.24196
+chimpanzee,,,,,,,,,
+Pygmy,,,0,0.05134,0.07250,0.07938,0.16509,0.20525,0.22669
+chimpanzee,,,,,,,,,
+Gorilla,,,,0,0.06761,0.07679,0.17006,0.20336,0.23017
+Fin whale,,,,,0,0.02457,0.16685,0.18642,0.20773
+Blue whale,,,,,,0,0.16515,0.18039,0.21064
+Rat,,,,,,,0,0.07539,0.11658
+Mouse,,,,,,,,0,0.12586
+Opossum,,,,,,,,,0

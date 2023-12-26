@@ -1,0 +1,20 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+,,,,,,,,,,,,Pro,2,8,5,9,9,4,1,4
+,,,,,,,,,,,,Gln,,9,1,5,1,,,10
+Table 1. Peptidase preference by amino acid type,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,Arg,8,1,2,52,5,3,,1
+Amino acid type,,S4,S3,S2,,S1,S10,S20,,S30,S40,Ser,8,,1,,8,3,2,1
+,,,,,,,,,,,,Thr,,,3,,,1,1,1
+Acidic,,5,7,5,,24,5,4,,2,5,,,,,,,,,
+,,,,,,,,,,,,Val,1,6,1,2,5,6,11,5
+Basic,,11,8,13,,67,11,9,,5,2,,,,,,,,,
+,,,,,,,,,,,,Trp,,,1,1,,,,
+Aliphatic,,22,24,32,,18,56,36,,23,7,,,,,,,,,
+,,,,,,,,,,,,Tyr,,,,11,1,5,,
+Aromatic,,2,2,8,,34,23,7,,1,0,,,,,,,,,
+Small,,35,34,31,,58,65,22,,26,20,,The number of peptidases,,,showing a preference for an amino,,,,
+Total,,75,75,89,,201,160,78,,57,34,,acid in a binding site is,,shown. Only those 312 peptidases with,,,,,
+,,,,,,,,,,,,,10 or more known substrate cleavages are included. An amino,,,,,,,
+"The
+number",of,peptidases with,,,a,preference,,for,a,particular,,,acid must occur at,,that position in 40% or more of,,,,,substrates.
+amino acid type for each binding pocket S4–S40,,,,,,,,is,"shown, where",,,"Therefore,",it,is possible for,,two amino acids,,,to be preferred in,

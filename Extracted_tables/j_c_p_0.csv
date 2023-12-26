@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13
+,Table 1  Summary of reported pediatric Middle East respiratory syndrome cases,,,,,,,,,,,,
+Age,Gender,Country,Sample source,Year of,Symptoms,Co-morbidity,Signs,Sample type,Viral load,Imaging,Intensive,Death,Ref.
+,,,,reporting,,,,,ct value,,care,,
+2,Male,KSA,Hospital inpatient,2013,"Fever, respiratory distress",Cystic fibrosis,Chest: Bilateral fine,NPS,36,Bilateral diffused infiltrate,+,Yes,[18]
+,,,,,,,crepitation,,,,,,
+14,Female,KSA,Hospital inpatient,2013,Fever,Down’s syndrome,,NPS,37,Bilateral diffused infiltrate,No,No,[18]
+7,Female,KSA,Family contact,2013,Asymptomatic,None,None,N + T,37,ND,No,No,[18]
+15,Female,KSA,Family contact,2014,Asymptomatic,None,None,NPS,35,ND,No,No,[18]
+14,Male,KSA,Family contact,2014,Asymptomatic,None,None,NPS,34,ND,No,No,[18]
+12,Female,KSA,Family contact,2014,Asymptomatic,None,None,NPS,35,ND,No,No,[18]
+16,male,KSA,Family contact,2013,Asymptomatic,None,none,NPS,36,ND,No,No,[18]
+7,Female,KSA,Family contact,2014,Asymptomatic,None,none,NPS,37,ND,No,No,[18]
+3,Female,KSA,Family contact,2013,Asymptomatic,None,none,NPS,38,ND,No,No,[18]
+13,Female,KSA,Contact,2014,Asymptomatic,None,none,NPS,34,ND,No,No,[18]
+14,Female,KSA,Family contact,2013,Asymptomatic,None,none,NPS,36,ND,No,No,[18]
+0.75,Male,KSA,Not known,2014,ICU,Nephrotic syndrome,Respiratory distress,Tracheal aspirate,NA,Diffuse bilateral haziness,Yes,Yes,[35]
+4,Male,KSA,NA,2013,Mild respiratory symptoms,None,NA,,NA,ND,No,No,[36]
+8,Male,KSA,NA,2013,Mild respiratory symptoms,None,NA,,NA,ND,NA,No,[37]
+17,NA,KSA,Contact,2014,Asymptomatic,NA,NA,NA,NA,NA,NA,NA,[22]
+11,NA,KSA,Contact,2014,Asymptomatic,NA,NA,NA,NA,NA,NA,NA,[22]
+16,NA,KSA,NA,2014,Symptomatic,NA,NA,NA,NA,NA,NA,NA,[22]
+13,M,KSA,NA,2014,Symptomatic,NA,NA,NA,NA,NA,NA,NA,[22]
+10,M,KSA,Hospital contact,2014,Symptomatic,NA,NA,NA,NA,NA,NA,NA,"[20,22]"
+2,NA,KSA,NA,2014,Symptomatic,Congenital anomalies,NA,NA,NA,NA,NA,NA,"[20,22]"
+11,M,KSA,Hospital contact,2014,Symptomatic,Brain tumor,NA,NA,NA,NA,NA,NA,"[20,22]"
+17,M,KSA,NA,2014,Symptomatic,NA,NA,NA,NA,NA,NA,NA,"[20,22]"
+16,M,South Korea,Hospital contact,2015,Symptomatic,NA,NA,NA,NA,NA,NA,NA,[22]
+2,M,KSA,Hospital contact,2015,Symptomatic,NA,NA,NA,NA,NA,NA,NA,"[20,22]"
+16,M,KSA,contact,2015,Symptomatic,NA,NA,NA,NA,NA,NA,NA,"[20,22]"
+7,F,Jordan,Contact,2015,Asymptomatic,None,NA,NA,NA,NA,NA,NA,[22]
+0.8,F,Jordan,Contact,2015,Symptomatic,None,NA,NA,NA,NA,NA,NA,[22]
+14,M,KSA,Contact,2015,Symptomatic,None,NA,NA,NA,NA,NA,NA,"[20,22]"
+4,M,UAE,NA,2014,NA,NA,NA,NA,NA,NA,NA,NA,[22]
+8,M,UAE,Family contact,2013,NA,NA,NA,NA,NA,NA,NA,NA,[22]
+11,M,UAE,Family contact,2015,Asymptomatic,None,NA,NA,NA,NA,NA,NA,[22]

@@ -1,0 +1,15 @@
+0,1,2,3,4,5
+,Table 1 | Comparison of two forms of peptide base kinetics assays,,,,
+Format,Sample,Data,Kon (1/Ms),Koff (1/s),KD (M)
+Peptide flow over captured antibody (500 RUs),16D7,Mean,4.80E105,2.41E-04,5.03E-10
+,,CV (%),3.14E-02,1.02E-01,1.06E-01
+,79E7,Mean,1.88E106,6.82E-04,3.65E-10
+,,CV (%),9.58E-02,4.25E-02,6.09E-02
+,MAB190,Mean,4.08E105,2.70E-04,6.56E-10
+,,CV (%),8.08E-02,3.02E-01,2.69E-01
+Antibody flow over captured peptide (15 RUs),16D7,Mean,7.08E105,4.59E-05,6.50E-11
+,,CV (%),3.24E-02,1.16E-01,1.40E-01
+,79E7,Mean,9.54E106,8.01E-04,8.43E-11
+,,CV (%),7.74E-02,1.63E-03,7.63E-02
+,MAB190,Mean,4.23E106,5.95E-04,1.41E-10
+,,CV (%),1.09E-01,4.33E-02,7.33E-02

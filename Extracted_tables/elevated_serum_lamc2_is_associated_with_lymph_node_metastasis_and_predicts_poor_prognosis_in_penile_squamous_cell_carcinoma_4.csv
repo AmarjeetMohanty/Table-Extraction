@@ -1,0 +1,109 @@
+0,1,2
+Dovepress,,slaMC2 predicts poor prognosis in PsCC
+Supplementary materials,,
+Table S1 Clinicopathologic characteristicsa,,
+Variables,"Number of patients
+%",
+age (years),"Median (range)
+54 (24–86)",
+,"57
+50.0
+<54",
+,"57
+50.0
+≥54",
+Phimosis,"no
+33
+28.9",
+,"Yes
+81
+71.1",
+T stage,"37
+33.5
+T1/a",
+,"58
+50.9
+T2",
+,"12
+10.5
+T3",
+,"7
+6.1
+T4",
+Pathology grade,"70
+61.4
+g1",
+,"31
+27.2
+g2",
+,"13
+11.4
+g3",
+n stage,"67
+58.8
+n0/X",
+,"11
+9.6
+n1",
+,"9 2
+7.9
+n2",
+,"7
+23.7
+n3",
+sCC-ag (ng/ml),"50
+53.8
+<1.5",
+,"43
+46.2
+≥1.5",
+CRP (mg/ml),"57
+72.2
+<5.0",
+,"22
+27.8
+≥5.0",
+slaMC2 (ng/ml),"73
+64.0
+<108",
+,"41
+36.0
+≥108",
+tlaMC2,"58
+50.9
+≤30%",
+,"56
+49.1
+>30%",
+"Notes: aat the end of the last follow-up, 37 patients died of PsCC or metastasis and",,
+1 patient died because of a non-tumor-related reason.,,
+"Abbreviations:  CRP,  C-reactive  protein;  laMC2,  laminin  gamma  2;  sCC-ag,",,
+"squamous  cell  carcinoma  antigen;  slaMC2,  serum  laMC2  level;  tlaMC2,  tissue",,
+laMC2 level.,,
+Table S2 sequences of the primers used in this paper,,
+Gene,"Direction
+Primer sequences",Usage
+LAMC2,"Forward
+5′-ggaaTTCaCCaTgCCTgCgCTCTggCTgggC-3′",cDna cloning
+,"Reverse
+5′-CgCggaTCCCTgTTgCTCaagagCCTgggT-3′",
+LAMC2,"Forward
+5′-gaTggCaTTCaCTgCgagaag-3′",Quantitative PCR
+,"Reverse
+5′-TCgagCaCTaagagaaCCTTTgg-3′",
+GAPDH,"Forward
+5′-gaCTCaTgaCCaCagTCCaTgC-3′",Quantitative PCR
+,"Reverse
+5′-agaggCagggaTgaTgTTCTg-3′",
+"Abbreviation: laMC2, laminin gamma 2.",,
+Table S3 Target sequences of siRnas and shRnas used in this,,
+paper,,
+Name,"Target genes
+Target sequence",
+sh1,"LAMC2
+5′-gCagaaTaCagTgTCCaTa-3′",
+sh2,"LAMC2
+5′-gCaggTgTTTgaagTgTaT-3′",
+shnC,"negative control
+5′-TTCTCCgaaCgTgTCaCgT-3′",
+"Abbreviation: laMC2, laminin gamma 2.",,

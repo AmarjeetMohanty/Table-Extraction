@@ -1,0 +1,27 @@
+0,1,2,3,4,5,6
+Pox,Target Pathogen,,Poxvirus,,,
+,,Heterologous Antigen,,Gene Function,Status,References
+Strain,or Disease,,Deleted Gene,,,
+,,"HIV-1 Env,",,A41L: Secreted chemokine-binding protein,,
+,,,A41L/B16R,,preclinical,[528]
+,,Gag-Pol-Nef (clade B),,B16R: Secreted interleukin-1β binding protein,,
+,,"HIV-1 Env,",,,,
+,,,C6L,IRF3 inhibitor,preclinical,"[527,529]"
+,,Gag-Pol-Nef (clade B),,,,
+,,"HIV-1 Env,",,C6L: IRF3 inhibitor,,
+,,,C6L/K7R,,preclinical,[527]
+,,Gag-Pol-Nef (clade B),,K7R: NF-кB/IRF3 inhibitor,,
+,,"HIV-1 Env,",,,,
+,,,N2L,IRF3 inhibitor,preclinical,[537]
+,,Gag-Pol-Nef (clade B),,,,
+MVA,HIV/AIDS,,,,,
+,,"HIV-1 Env,",,,,
+,,,F1L,Anti-apoptotic protein,preclinical,[532]
+,,Gag-Pol-Nef (clade C),,,,
+,,"HIV-1 Env,",,,,
+,,,C12L,IL-18 binding protein,preclinical,[516]
+,,Gag-Pol-Nef (clade C),,,,
+,,,,C12L: IL-18 binding protein,,
+,,"HIV-1 Env,",C12L/A46R/B7R,A46R: Inhibitor of TLR signaling,,
+,,,,,preclinical,[533]
+,,Gag (clade C),/B16R,B7R: Putative chemokine-binding protein,,

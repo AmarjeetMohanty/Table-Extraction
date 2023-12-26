@@ -1,0 +1,19 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+,,Table 3. Comparison of genome identities and amino acid identities between the predicted polyproteins of bat SaV and the selected SaV.,,,,,,,,,,,,,,,
+,,,Bat SaV/TLC34/HK,,,,,Bat SaV/TLC39/HK,,,,,Bat SaV/TLC58/HK,,,,
+,Viruses,Genogroup,,,,,,,,,,,,,,,
+,,,Pairwise nt,,,,,Pairwise nt,,,,,Pairwise nt,,,,
+,,,identity (%),,Pairwise amino acid identity (%),,,identity (%),,Pairwise amino acid identity (%),,,identity (%),,Pairwise amino acid identity (%),,
+,,,,Complete genome ORF1,,Pro-Pol VP1,VP2,,Complete genome ORF1,,Pro-Pol VP1,VP2,,Complete genome ORF1,,Pro-Pol VP1,VP2
+,SaV/Manchester,GI,44.7,36.3,47.2,36.3,16.9,44.8,36.4,47.5,35.8,16.9,44.8,36.4,47.5,36.1,16.9
+,SaV/Mc10,GII,45.2,37.1,48.1,37.5,17.4,45.2,37.1,48.2,37.5,17.4,45.2,37.1,48.2,37.3,17.4
+5,,,,,,,,,,,,,,,,,
+,PEC,GIII,45.3,36.5,45.4,36.3,15.5,45.3,36.7,45.7,36.6,15.5,45.3,36.6,45.7,36.3,15.5
+,SaV/Chiba/000671,GIV,46.1,37.3,48.2,38.5,19.9,46.0,37.4,48.4,38.2,19.9,46.0,37.4,48.4,38.3,19.9
+,SaV/Ehime475,GV,44.2,35.9,45.9,36.9,19.4,44.2,36.0,46.1,37.1,19.4,44.2,36.0,46.1,36.9,19.4
+,Canine SaV,N/A,N/A,N/A,46.7,39.3,16.5,N/A,N/A,47.0,39.2,16.5,N/A,N/A,47.0,39.2,16.5
+,California sea lion 1,N/A,N/A,N/A,45.2,38.9,17.9,N/A,N/A,45.3,38.9,17.9,N/A,N/A,45.3,38.9,17.9
+,SaV,,,,,,,,,,,,,,,,
+,Bat SaV/TLC34/HK,N/A,-,-,-,-,-,99.5,99.3,99.7,98.5,100,99.6,99.6,99.7,99.2,100
+,Bat SaV/TLC39/HK,N/A,99.5,99.3,99.7,98.5,100,-,-,-,-,-,99.8,99.6,100,99.0,100
+,Bat SaV/TLC58/HK,N/A,99.6,99.6,99.7,99.2,100,99.8,99.6,100,99.0,100,-,-,-,-,-

@@ -1,0 +1,44 @@
+0,1,2,3,4,5,6,7,8
+,,,,,Table 5. Cont.,,,
+,Aptamer,,,,Modification Enhancing,,,
+Virus,,Type,Target,Aptamer Application Method,,Inhibitory Effect,Kd/IC50,Refs.
+,Name,,,,Biostability,,,
+,,,,Huh7- JHF1 strain infected cells incubated with aptamer;,,reduction in virus mRNA levels (90%,Kd = 132.2 ± 20 nM,
+,ODN 27v,DNA,,,none,,,[74]
+,,,,aptamer enter cells without transfection reagent,,reduction at aptamer concentrations of 5 µM),IC50 = 196 ± 16 nM,
+,,,NSB5,,,,,
+,,,,,,,Kd = 1.5 ± 0.2 nM,
+,B.2,,,aptamer added to HCV-NS5B in vitro reaction,---,inhibition of NS5B polymerase activity,,[89]
+,,,,,,,IC50 = 10 ± 0.5 nM;,
+,,,,,,,protease/helicase,
+,,,,,,,NEO-35-s41,
+,NEO-35-s41,,,aptamer added to HCV-NS3 protease cleavage and,,Inhibition of NS3 helicase and,,
+HCV,,,,,---,,IC50 = 0.2 µM/20 nM,[90]
+,G925-s50,,,helicase unwinding in vitro reactions,,protease activity,,
+,,RNA,NS3,,,,G925-s50,
+,,,,,,,IC50 = 0.2 µM/15 nM,
+,NEO-III-,,,HeLa-NS3-expressing cells were transfected,,,,
+,,,,,---,protease activity inhibited in 60%,Kd = 4 nM,[91]
+,14U,,,with aptamer,,,,
+,,,(-)IRES,aptamer preincubated with template and,,genetic material replication inhibited,,
+,AP30,,,,---,,Kd = 36 nM,[92]
+,,,domain I,added to NS5B in vitro reaction,,by 50%,,
+,,,glycoprotein,,,,,
+,L13,,,,,infectivity reduction,IC50 = 125 ± 20 nM,
+,,,B,virus particles preincubated with aptamer used to infect,2'-amino-modified,,,
+HCMV,,RNA,,,,,,[93]
+,,,glycoprotein,HFF cells,pyrimidines,100-fold reduction in viral yield,,
+,L19,,,,,,IC50 = 35 ± 7 nM,
+,,,H,,,blockade of viral entry,,
+,,,glycoprotein,virus particles preincubated with aptamer used to infect,,,Kd = 109 nM,
+HSV,Aptamer-1,RNA,,,2'-fluoro modification,blockade of viral entry,,[75]
+,,,D,VERO cells,,,IC50 = 0.8 µM,
+,,,,HepG2.2.15 cells trasfected with plasmid,,reduction of replicative intermediates,,
+HBV,S9,RNA,P protein,,---,,n/d,[94]
+,,,,encoding aptamer,,by about 80%–85%,,
+,,,,aptamer added to SCV helicase unwinding,,,,
+SCV,ES15,RNA,NsP10,,---,helicase unwinding activity inhibited in 85%,IC50 = 1.2 nM,[95]
+,,,,in vitro reaction,,,,
+,1G8-14,,,,,inhibition of EBOV polymerase activity and,,
+Ebola,,RNA,eVP35 IID,n/d,---,,Kd = 30-50 nM,[96]
+,2F11-14,,,,,VP36-nucleoprotein interaction,,

@@ -1,0 +1,19 @@
+0,1,2,3,4,5,6
+,Table 3: Diagnostic tools for the detection of speciﬁc blood-borne parasitic diseases oﬀered by the CDC and the NRCP.,,,,,
+,African,,,,,
+,,Babesiosis,Chagas disease,Leishmaniasis,Malaria,Toxoplasmosis
+,trypanosomiasis,,,,,
+,Trypanosoma,,,Leishmania,Plasmodium,Toxoplasma
+,,Babesia microti,Trypanosoma cruzi,,,
+,brucei species,,,species,species,gondii
+CDC,,,,,,
+,,"Microscopy IFA,",Microscopy,"Microscopy,",Microscopy,"Microscopy IFA,"
+DIAGNOSTIC,Microscopy,,,,,
+,,PCR,"culture, IFA, EIA","Culture, IFA","PCR, IFA",EIA
+TOOLS,,,,,,
+NRCP,"Microscopy,",,"Microscopy,","Microscopy,",,
+,,,,,"Microscopy,",
+DIAGNOSTIC,"culture, CATT,","Microscopy, IFA","culture, EIA,","Culture, IFA,",,RT-PCR
+,,,,,"IFA, IB, PCR",
+TOOLS,PCR,,RT-PCR,RT-PCR,,
+"CDC: Centre for Disease Control, Atlanta, Georgia, USA. NRCP: National Reference Centre for Parasitology, Montreal General Hospital, Montreal, Quebec,",,,,,,

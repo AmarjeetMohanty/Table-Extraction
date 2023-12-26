@@ -1,0 +1,34 @@
+0,1,2,3,4,5,6,7,8
+TABLE 2 Commercial kits and immunologic reagents tested in the ferret model,,,,,,,,
+Product type,,,,,,,,
+and namea,Speciﬁcity,Clone,Isotype,Host,Vendor,,Application,Reference(s)
+Commercial kits,,,,,,,,
+LIVE/ DEAD Fixable Aqua dead,,,,,Thermo/Fisher,,Flow cyt,18
+cell stain,,,,,,,,
+IFN-(cid:3) ELISpot basic (HRP) kit,,,,,MabTech,,ELISpot,18
+Primary antibodies,,,,,,,,
+CD44,Mouse,IM7,"IgG2b, (cid:4) Rat",,BD Pharmingen,,Flow cyt,19
+IL-4,Bovine,CC303,IgG2a,Mouse,Bio-Rad,,Flow cyt,19
+IFN-(cid:3),Bovine,CC302,IgG1,Mouse,Bio-Rad,,Flow cyt,19
+IFN-(cid:3),Mouse,XMG1.2,"IgG1, (cid:4)",Rat,BD Pharmingen,,Flow cyt,19
+TNF,Mouse,MP6-XT22,IgG1,Rat,BD Pharmingen,,Flow cyt,19
+Thy1.1,Rat,OX-7,"IgG1, (cid:4)",Mouse,BD Pharmingen,,Flow cyt,19
+CD11b,Mouse/human,M1/70,"IgG2b, (cid:4) Rat",,,BD Pharmingen or BioLegend,Flow cyt,"18, 19"
+CD8a,Human,OK-T8,IgG2a,Mouse,eBioscience/Tonbo,,Flow cyt,"18, 19"
+CD4,Ferret,02,IgG1,Mouse,Sino Biological,,Flow cyt,"18, 19"
+MHC-II,Human,L243,"IgG2a, (cid:4) Mouse",,BioLegend,,Flow cyt,18
+"IgA,
+IgM,
+IgG",Ferret,,Poly,Goat,LSBio,,Flow cyt,18
+CD59,Mouse,AL-21,"IgM, (cid:4)",Rat,BD Pharmingen,,Flow cyt,18
+CD79a,Human,HM47,"IgG1, (cid:4)",Mouse,eBioscience,,Flow cyt,18
+CD20,Ferret,71,IgG,Rabbit,Sino Biological,,Flow cyt,18
+CD3,Human,IS5033,Poly,Rabbit,Dako,,IHC,44
+Lysozyme,Human,A0099,Poly,Rabbit,Dako,,IHC,44
+CD20,Human,RB-9013-P,Poly,Rabbit,Thermo (Fisher),,IHC,44
+CD79a,Human,HM57,"IgG1, (cid:4)",Mouse,Dako,,IHC,44
+MHC-II,Human,TAL 1B5,"IgG1, (cid:4)",Mouse,Dako,,IHC,44
+CD3,Human,PC3/188A,"IgG1, (cid:4)",Mouse,Santa Cruz Biotech,,Flow cyt,45
+IFN-(cid:3) (capture Ab),Cow,CC302,IgG1,Mouse,Bio-Rad,,ELISpot/ﬂow cyt,45
+IFN-(cid:3) biotinylated (detection Ab),Dog,,Poly,Goat,R&D Systems,,,"45, 46"
+"aAbbreviations: HRP, horseradish peroxidase conjugate; TNF,",,,"tumor necrosis factor; Ab, antibody; Flow cyt, ﬂow cytometry;",,,"IHC,",immunohistochemistry.,

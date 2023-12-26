@@ -1,0 +1,14 @@
+0,1,2,3,4,5
+,Table 6 Evaluation of RT-LAMP amplification using mismatched sequences,,,,
+Accession,Name,,,,Sensitivity (copies)
+JX869059,EMC,,,,15.8
+Representative sequence,,Nucleotide position*,Substitution,Region in primer,Sensitivity (copies)
+,England2,28862,C to T,F3,7.3
+KJ782550,Greece-Saudi Arabia_2014,28862,C to T,F3,15.8
+,,28880,T to C,FIP (F2),
+KJ650098,Camel/Qatar_2_2014,28880,T to C,FIP (F2),34.1
+KJ156905,Riyadh_7b_2013,28958,T to C,BIP (B1),15.8
+KF917527,Jeddah-Camel-1,29018,G to T,BIP (B2),73.4
+KJ477102,NRCE-HKU205,28982,C to T,LB,39.7
+KF961221,Qatar3,28996,C to T,LB,7.3
+*Based on EMC isolate (JX869059.2).,,,,,

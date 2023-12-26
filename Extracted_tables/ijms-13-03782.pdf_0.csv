@@ -1,0 +1,29 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+,,,,Table 1. Cont.,,,,,,,
+Protein crystal,Reference,Crystal precipitanta,Dehydrating agent,Dehydration treatment,Space,Solvent contentb,Solvent content b,RH,RH,Resolution,Resoluti
+,,,,,group,before,after,before,after,before(Å),on after
+,,,,,(SG),(%),(%),(%),(%),,(Å)
+XRCC4–XLF,[76],1.8 M TC,2.5 M AS,Transfer to 2.5 M AS 1 week +,C2,NR,NR,NC,NC,~20 d,3.9 d
+complex,,,,"over 4 M AS, 5 days + 0.5 mM",,,,,,,
+,,,,"TB and 60% PEG 8000, 3 h",,,,,,,
+lipase–foldase,[77],12% PEG 4K,30% PEG 8K,Transfer in var. steps to drop of,P3121,62,60,99.8,98.5,~15 d,2.9 d
+complex,,,,dehydr soln,,,,,,,
+F1-ATPase,[78],20% PEG 6K,20% PEG 6K,Serial transfer into dehydr soln,P212121,NR,62,NC,NC,6–8 d,3.1 d
+,,,20% PEG 400,,,,,,,,
+EF-Tu-Ts,[79],20% PEG 4K,"28%–40%, var","Serial transfer, 5 min each",P212121,61,55,NC,NC,4.0 e,2.7 e
+,,,PEGs,,,,,,,,
+NF-κB,[80],4–6% PEG 4K,Ppt,Serial transfer into dehydr soln,I212121,52,49,NC,NC,3.5 d,2.0 d
+P52-DNA,,,30% PEG 400,,,,,,,,
+,,,HA,,,,,,,,
+CBL1,[81],25% PEG 3.4K,7% MPEG 2K,"Transfer to dehydr soln, 5 min",P21212,NR,54,NC,NC,NR,2.9 d
+,,,0.7 M Li2SO4,,,,,,,,
+Cx26,[82],16–18%  PEG 200,25–30% TEG,Serial transfer into increasing,C2,NR,NR,NC,NC,~7 d,3.5 d
+,,,,"TEG, 1-2days",,,,,,,
+Nacetylglucosamine,[83],1.8 M AS,2.0 M AS,Serial transfer into dehydr soln,I432,Very high,82,93.0,<92.,3.8 e,3.4 e
+-1-phosphate,,,Na malonate,,,solvent content,,,1,,
+Uridyltransferase,,,5% glycerol,,,,,,,,
+SeMet YidC,[84],22% PEG 3350,30% PEG 3.4K,Serial transfer into dehydr soln,C2,50,47,NC,NC,3.5 e,1.8 e
+,,10% EG,5–15% PEG 400,,,,,,,,
+DENV 3 RdRp,[85],0.5% MPEG 5K,Var dehydr soln,Var procedures,C2221,NR,59,NC,NC,~20 d,1.8 d
+,,,"i.e., 30% PEG 4K",,,,,,,,
+,"AS, ammonium sulphate, BD, bad diffraction; Dehydr soln, dehydrating solution; EG, ethylene glycol; hang drop, hanging drop; HA, heavy atom;MPD, 2-methyl-2,4-pentanediol; MPEG,",,,,,,,,,,

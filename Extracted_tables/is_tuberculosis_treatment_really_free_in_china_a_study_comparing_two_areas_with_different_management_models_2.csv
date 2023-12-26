@@ -1,0 +1,30 @@
+0,1,2,3,4
+,,,,Economic Burden of TB
+,Table 5. Multivariate linear regression analysis on factors related to the total out-of-pocket costs*.,,,
+Variables,Coefﬁcient,95% CI,t,P
+Study setting,,,,
+ZJG,Ref.,,,
+TX,-0.382,"-0.624, -0.139",-3.10,0.002
+Age group,,,,
+<60,Ref.,,,
+(cid:1)60,-0.403,"-0.598, -0.207",-4.04,<0.001
+Clinical visits,,,,
+<7 times,Ref.,,,
+(cid:1)7 times,0.404,"0.226, 0.582",4.46,<0.001
+Residence,,,,
+Local patient,Ref.,,,
+Migrant patient,0.433,"0.166, 0.700",3.19,0.002
+Diagnosis delay,,,,
+<2 weeks,Ref.,,,
+(cid:1)2 weeks,0.341,"0.148, 0.534",3.47,0.001
+Hospitalization,,,,
+No,Ref.,,,
+Yes,1.672,"1.454, 1.891",15.04,<0.001
+Intake of second-line drugs,,,,
+No,Ref.,,,
+Yes,0.271,"0.079, 0.462",2.78,0.006
+Intake of liver protective drugs,,,,
+No,Ref.,,,
+Yes,0.289,"0.091, 0.488",2.87,0.004
+*Total out-of-pocket costs was logarithmically transformed,,,,
+doi:10.1371/journal.pone.0126770.t005,,,,

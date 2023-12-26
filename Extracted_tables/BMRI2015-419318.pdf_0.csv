@@ -1,0 +1,36 @@
+0,1,2,3,4,5
+14,,,,,BioMed Research International
+,,Table 5: Summary table of ssDNA MREs targeting chemical toxins.,,,
+Target,SELEX method,𝐾𝑑,Detection method,LOD,Reference
+17𝛽-estradiol (E2),Sepharose column,0.13 𝜇M,Electrochemical,0.1 nM,[156]
+,,,"Dynamic light scattering,",,
+17𝛽-estradiol (E2),Sepharose column,50 nM,,5 nM–100 nM,[157]
+,,,resistive pulse sensing,,
+Bisphenol A,Epoxy-activated resin,8.3 nM,Fluorescence,Nanomolar range,[158]
+,,Low micromolar,,,
+Polychlorinated biphenyls,FluMag-SELEX,,Fluorescence,0.1 to 100 ng/mL,[159]
+,,range,,,
+,,,—,—,
+Polychlorinated biphenyls,Magnetic beads,Nanomolar range,,,[160]
+,,,,—,[161]
+Atrazine,CE-SELEX,890 nM,Fluorescence polarization,,
+,,,Magnetic beads capturing,,
+Atrazine,Magnetic beads,0.62 ± 0.21 nM,,Nanomolar range,[14]
+,,,coupled with CE,,
+,,1.14 ± 0.7 nM,—,—,
+Malathion,Magnetic beads,,,,[15]
+,,9.6 ± 7.8 nM,—,—,
+Bromacil,Magnetic beads,,,,[16]
+Tebuconazole,,,,,
+Mefenacet,GO-SELEX,10–100 nM,Colorimetric,100–400 nM,[25]
+Inabenfide,,,,,
+4 organophosphorus,,,,,
+,Filtration,,,,
+"pesticides phorate,",,Low micromolar,,,
+,,,—,—,
+,column/immobilization,,,,[28]
+"profenofos, isocarbophos,",,range,,,
+,free,,,,
+and omethoate,,,,,
+,,4.98 𝜇M,—,—,
+Acetamiprid,Immobilization free,,,,[27]

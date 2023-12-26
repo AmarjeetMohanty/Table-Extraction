@@ -1,0 +1,27 @@
+0,1,2,3,4,5
+,,,,,DC-SIGN Contributes to HIV Vertical Transmission
+Table 2. Associations between child H4 and H6 DC-SIGN htSNPs and intrauterine (IU) HIV-1 transmission.,,,,,
+,,HIV-1 negative,IU,Crude OR (95% CI),Adjusted OR (95% CI)
+Child DC-SIGN htSNPsa,,,,,
+,,% (n),% (n),P valueb,P valuec
+p-336 T/C,,,,,
+TT,,64 (42),39 (7),1.0,1.0
+CT/CC,,36 (57),61 (44),4.63 (1.90–11.3),4.87 (1.91–12.4)
+,,,,0.0004,0.0008
+p-201 C/A,,,,,
+CC,,81 (80),63 (32),1.0,1.0
+CA/AA,,19 (19),37 (19),2.50 (1.73–5.62),2.76 (1.20–6.33)
+,,,,0.0160,0.0155
+R198Q,,,,,
+GG,,81 (80),57 (28),1.0,1.0
+AG/AA,,19 (19),43 (21),3.16 (1.48–6.72),3.32 (1.46–7.52)
+,,,,0.0032,0.0038
+L242V,,,,,
+CC,,96 (95),84 (41),1.0,1.0
+GC/GG,,4 (4),16 (8),4.63 (1.32–16.2),5.12 (1.36–19.2)
+,,,,0.0205,0.0146
+,"CI, Confidence interval; htSNPs, haplotype-tagged single nucleotide polymorphisms n, number; NA, non applicable, OR, odds ratio.",,,,
+aWild-type (referent category for all analyses) vs homozygote + heterozygote for each htSNPs.,,,,,
+bP-value as determined by Fisher’s exact,,test.,,,
+cAdjusted for,the maternal viral,load in logistic regression analysis.,,,
+,doi:10.1371/journal.pone.0040706.t002,,,,

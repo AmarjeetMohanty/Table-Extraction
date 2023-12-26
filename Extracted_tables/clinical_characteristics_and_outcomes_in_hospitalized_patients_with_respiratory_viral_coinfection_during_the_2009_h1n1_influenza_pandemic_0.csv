@@ -1,0 +1,26 @@
+0,1,2,3,4
+,Table 3. Age-adjusted treatments and outcomes in patients with respiratory viral co-infection compared to mono-infection.,,,
+,Co-infected (n = 49),Mono-infected (n = 617),Odds Ratio [95% CI],p-value
+Treatment,,,,
+Oseltamivir,80% (39),62% (385),3.3 [1.6–7.0],.001
+"Zanamivir
+(inhaled)",2.0% (1),0.2% (1),24 [1.4–400.5],.03
+Peramivira,0% (0),0.5% (3),,.7
+Ribavirina,0% (0),0.2% (1),,.9
+Antibiotics,76% (37),55% (337),3.1 [1.6–6.2],.001
+Steroids,53% (26),41% (252),1.9 [1.03–3.4],.04
+Admissions to any ICU,25% (12),17% (104),1.6 [0.8–3.2],.2
+ICU length of stayb,3.5 [2.1–5.7],2.9 [2.5–3.4],,.5
+Intubation,8.2% (4),3.7% (23),2.8 [0.9–8.8],.07
+Positive airway pressure,2.0% (1),3.6% (22),1.0 [0.1–7.9],1.0
+Hi-flow nasal cannula,16% (8),9.1% (56),1.4 [0.6–3.3],.4
+Vasopressor use,4.1% (2),1.8% (11),3.2 [0.7–15.5],.2
+"Nebulizers or
+inhalers",63% (31),53% (324),1.6 [0.9–2.9],.1
+Outcome,,,,
+"Hospital
+length of stayb",3.3 [2.7–4.0],2.8 [2.6–2.9],,.1
+Complications,37% (18),23% (142),3.5 [1.8–7.0],",.001"
+"Treatment
+for bacterial pneumonia alone",31% (15),9.2% (57),6.8 [3.3–14.2],",.001"
+Death,2.0% (1),1.1% (7),4.0 [0.4–35.2],.2

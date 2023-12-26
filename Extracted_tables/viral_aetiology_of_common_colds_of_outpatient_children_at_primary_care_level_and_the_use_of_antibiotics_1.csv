@@ -1,0 +1,18 @@
+0,1,2,3,4,5
+888,,,,,
+,,Age,,,
+,,(years),Virus,Antibiotic,Day of antibiotic introductiona
+,Cough,1.1,RV/EV/IFA,AMO,2
+,,7.2,NEG,AZI,2
+,,9.7,NEG,CEX,2
+,,0.4,NEG,CLAR,2
+,,0.5,RSV/AdV/RV,AMO,3
+,,7.3,NEG,CEX,3
+,,0.7,NEG,AMO,3
+,,0.5,RV,AMO,3
+,,3.8,NEG,AMO + SB,4
+,,3.8,IFA,AMO + SB,5
+,,1.1,IFA,AMO,6
+,,0.2,RSV/RV,AMO,7
+,Wheezing,0.8,RV,AMO,2
+,Pharyngitis,2.9,IFB/Cov,AMO,6

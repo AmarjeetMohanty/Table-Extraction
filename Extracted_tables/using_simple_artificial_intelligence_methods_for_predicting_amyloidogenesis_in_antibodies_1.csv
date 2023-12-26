@@ -1,0 +1,32 @@
+0,1,2,3,4,5,6,7,8,9
+,,,,,,"In general, however,","it
+is",imperative to increase the,
+,,,,,training set,,size - not only in terms of,the number of,
+Table 6 Decision tree classification accuracy*,,,,,,,,,
+,,,,,,"derivatives per germline, but",in terms of,,the number
+Germline,AM,,NAM,,,,,,
+,,,,,,"of germlines covered,",in order,to improve the perfor-,
+J00248,N.A.,N.A.,N.A.,N.A.,,,,,
+,,,,,mance of,,the classifier. A development of a program,,
+M30446,N.A.,N.A.,N.A.,N.A.,,,,,
+,,,,,,for automatically generating training sets,,,is a non-tri-
+X72813,1,2,N.A.,N.A.,,,,,
+,,,,,vial,"task, however,",and is beyond the,scope of,this
+X93620,9,11,N.A.,N.A.,,,,,
+,,,,,study.,,It could also be possible to consider other char-,,
+X93627,7,7,N.A.,N.A.,,"acteristics, such as the physico-chemical and structural",,,
+X93632,N.A.,N.A.,N.A.,N.A.,,"effects of a mutation, as",factors,for defining pAM or,
+X93640,3,6,N.A.,N.A.,,"pNAM . Nevertheless,",,the question of how such factors,
+,,,,,,would be incorporated in the calculation has to be jus-,,,
+Z22188,14,19,N.A.,N.A.,,,,,
+,,,,,"tified first,",,from both statistical and biological points-,,
+Z22191,N.A.,N.A.,N.A.,N.A.,,,,,
+,,,,,,of-view. Since our main interest,,is to provide a proof-,
+Z22197,13,18,9,11,,,,,
+,,,,,of-concept,,that a simple set of classification algorithms,,
+Z22208,19,22,3,4,,,,,
+,,,,,,"may be used for predicting amyloidosis, we opted to",,,
+Z73673,15,18,9,13,,,,,
+,,,,,complement,,"the Bayesian method with a decision tree,",,
+Average accuracy (%),,78.64 ± 17.44,78.64 ± 6.30,,,,,,
+,,,,,,where one could factor,,in additional effects of muta-,

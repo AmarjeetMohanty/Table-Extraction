@@ -1,0 +1,14 @@
+0,1,2,3,4
+,,,Gene,Mature peptide
+BLASTN each exon separately;,,,,TBLASTN
+if necessary extend the,,,,
+,No,Single exon,,The best hit is assumed
+first exon to a start codon and,,,,
+,,,,to be a mature peptide
+last exon to a stop codon,,,,
+,,Yes,,
+,,TBLASTN,,
+,,If necessary extend the best,,
+,,hit to start and stop codons,,
+,,Add all found proteins,,
+,,to list of annotations,,

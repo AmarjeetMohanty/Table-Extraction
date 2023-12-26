@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7
+,,,,,,Methyltransferase Mutants as Dengue Virus Vaccine,
+,Table 3. Reciprocal neutralizing antibody titer,,,in RMs immunized with DENV-2 E217A.,,,
+E217A dose,,,,,,,
+,,,,Reciprocal neutralizing antibody titer (PRNT50),,,
+(log10 PFU),Monkey,Gender,,,,,
+,,,,Day post immunization,,,Day post challenge*
+,,,21,15,30,15,30
+5.0,R0319,M,",10",33,106,218,597
+5.0,R0212,F,",10",122,90,400,378
+5.0,R0105,M,",10",55,170,339,348
+5.0,R0942,F,",10",87,122,187,301
+,GMT,,,66,119,273,392
+4.0,R0055,M,",10",46,447,411,386
+4.0,R0482,F,",10",31,283,400,371
+4.0,R0098,F,",10",29,80,190,405
+,GMT,,,35,216,315,387
+3.0,R0198,F,",10",56,77,344,534
+3.0,R0195,M,",10",17,154,597,542
+3.0,R0200,F,",10",15,66,406,640
+,GMT,,,24,92,437,570
+*All animals were challenged with 16105 PFU of WT DENV-2 on day 64 post-immunization.,,,,,,,
+,doi:10.1371/journal.ppat.1003521.t003,,,,,,

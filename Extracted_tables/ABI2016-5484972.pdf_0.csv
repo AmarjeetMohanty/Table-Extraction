@@ -1,0 +1,21 @@
+0,1,2,3,4
+,,,,2.0
+Table 1: Predicted antigenic B-cells linear epitopes within the S1,,,,
+,,,,1.5
+glycoprotein sequence of M41 IBV strains.,,,,
+,,,,1.0
+,,,,0.5
+Position,Peptides,Length,Antigenicity,
+,,,,0.0
+S33–44,AFRPGPGWHL,10,"Score
+0.1545",−0.5
+,,,,−1.0
+S52–66,SSESNNAGSSSGCT,14,0.0842,
+,,,,−1.5
+S83–92,MTAPSSGMAW,10,0.0728,−2.0
+S175–185,YTSNETTDVTS,11,0.6727,−2.5
+,,,,"20
+40
+0"
+S403–421,KSGGSRIQTATEPPVITQH,19,0.2319,
+Peptides in italic represent antigenic epitope considered.,,,,

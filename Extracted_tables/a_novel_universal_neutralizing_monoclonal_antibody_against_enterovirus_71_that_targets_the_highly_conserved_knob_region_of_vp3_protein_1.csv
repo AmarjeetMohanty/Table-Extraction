@@ -1,0 +1,22 @@
+0,1,2,3,4,5
+,Table 4. Escape mutations and neutralization titers against homologous and heterologous Mabs.,,,,
+Subgeno-group,Name,Description,VP3 Mutation,Neutralization Titer Mab 10D3,Neutralization Titer Mab 51
+A,A-wt,Wild-type virus,,2‘6,2‘10
+,E/A,Escape mutant,P59L,",2‘1",2‘10
+B2,B2-wt,Wild-type virus,,2‘6,2‘10
+,E1/B2,Escape mutant,A62D,",2‘1",2‘10
+,E2/B2,Escape mutant,A62P,",2‘1",2‘10
+,RG4/B4-A62D,Mutated RG virus,A62D,",2‘1",2‘10
+,RG5/B4-A62P,Mutated RG virus,A62P,",2‘1",2‘10
+B4,B4-wt,Wild-type virus,,2‘6,2‘10
+,E1/B4,Escape mutant,E67D,",2‘1",2‘10
+,E2/B4,Escape mutant,E67D,",2‘1",2‘10
+,E3/B4,Escape mutant,E67D,",2‘1",2‘10
+,RG/B4-wt,RG virus,,2‘6,2‘10
+,RG1/B4-P59L,Mutated RG virus,P59L,",2‘1",2‘10
+,RG2/B4-P59L,Mutated RG virus,E67D,",2‘1",2‘10
+,"RG3/B4-PE59,67LD",Double mutant,P59L+E67D,",2‘1",2‘10
+C2,C2-wt,Wild-type virus,,2‘8,2‘9
+,E/C2,Escape mutant,P59L,",2‘1",2‘9
+C4,C4-wt,Wild-type virus,,2‘8,2‘9
+,E/C4,Escape mutant,P59L,",2‘1",2‘9

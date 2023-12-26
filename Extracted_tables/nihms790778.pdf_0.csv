@@ -1,0 +1,43 @@
+0,1,2
+Genes associated with PCD.,,
+Gene name,Defect,Reference
+ARMC4,ODA,(50)
+C21orf59,ODA,(51)
+CCDC103,ODA,(52)
+CCDC114,ODA,(53)
+CCDC151,ODA,(54)
+CCDC164 (DRC1),Nexin-Dynein Regulatory Complex,(55)
+CCDC39,IDA,(56)
+CCDC40,IDA,(57)
+CCDC65 (DRC2),Nexin-Dynein Regulatory Complex,(51)
+CCNO,"C
+i
+l
+i
+ogenesis",(58)
+DNAAF1 (LRRC50),ODA + IDA,(59)
+DNAAF2 (KTU),ODA + IDA,(60)
+DNAAF3,ODA + IDA,(61)
+DNAAF5 (HEATR2),ODA + IDA,(62)
+DNAH1,IDA,(63)
+DNAH11,Normal Structure,(35)
+DNAH5,ODA,(64)
+DNAH8,ODA,(65)
+DNAI1,ODA,(7)
+DNAI2,ODA,(66)
+DNAL1,ODA,(67)
+DYX1C1 (DNAAF4),ODA + IDA,(68)
+GAS8 (DRC4),Nexin-Dynein Regulatory Complex,(69)
+HYDIN,Central Apparatus,(70)
+LRRC6,ODA + IDA,(71)
+MCIDAS,Ciliogenesis,(58)
+NME8 (TXNDC3),ODA,(72)
+OFD1,Ciliogenesis,(17)
+RPGR,Transitional Zone,(16)
+RSPH1,Radial Spoke Head,(73)
+RSPH3,Radial Spoke Head,(74)
+RSPH4A,Radial Spoke Head,(75)
+RSPH9,Radial Spoke Head,(75)
+SPAG1,ODA + IDA,(76)
+WDR35,Intraciliary Transport,(18)
+ZMYND10,ODA + IDA,(77)

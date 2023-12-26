@@ -1,0 +1,19 @@
+0,1,2,3,4
+Table A4. Optical density values of,,IgG isotype ELISA from serum samples (diluted 1:1000) of,,
+,sWaRV[VP2/6/7] or GFP control immunized animals.,,,
+Group,Animal,IgG1,IgG2a,IgG2b
+sWaRV[VP2/6/7],Dam 1,0.072,0.274,0.077
+sWaRV[VP2/6/7],Pups Dam 1,0.104,0.389,0.042
+sWaRV[VP2/6/7],Dam 2,0.086,0.122,0.018
+sWaRV[VP2/6/7],Pups Dam 2,0.201,0.367,0.033
+sWaRV[VP2/6/7],Dam 3,0.086,0.337,0.014
+sWaRV[VP2/6/7],Pups Dam 3,0.163,0.612,0.013
+sWaRV[VP2/6/7],Dam 4,0.035,0.114,0.011
+sWaRV[VP2/6/7],Pups Dam 4,0.075,0.370,0.010
+GFP,Dam 5,0.016,0.026,0.009
+GFP,Pups Dam 5,0.017,0.020,0.014
+GFP,Dam 6,0.024,0.018,0.013
+GFP,Pups Dam 6,0.033,0.025,0.012
+GFP,Dam 7,0.0096,0.014,0.010
+GFP,Dam 8,0.037,0.029,0.012
+GFP,Pups Dam 7/8,0.030,0.045,0.010

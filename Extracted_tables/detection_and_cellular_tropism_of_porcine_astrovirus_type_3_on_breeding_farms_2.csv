@@ -1,0 +1,21 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+,Table 3.,Summary of the pathology and RNAscope in situ hybridization of tissues collected from,,,,,,,,,,,,,,
+,subset of piglets from Sow Farm 1 Phase-II.,,,,,,,,,,,,,,,
+Pig,,Age,Litter,,PoAstV3,,,,,,,,In Situ Hybridization,,,
+,Group,,,GL,,GS,AE,CL,,,,,,,,
+ID,,(days),ID,,Cq,,,,,,,,,,,
+,,,,,,,,,GM,Duo,Jej,Ile,CM,SC,MSLN,MP
+1,Control,11,A,DU,17.96,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA
+2,Control,11,A,FF,25.42,0,1,0,ND,ND,ND,OE,ND,OC,GC;PLS;M,ND
+3,Control,11,B,DU,21.10,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA
+4,Control,11,C,DU,20.83,0,1,1,OGP,ND,RE-NE,ND,ND,RC;L;CL,GC;PLS;M,I;J
+5,Enteric,11,A,DU,UD,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+6,Enteric,15,A,FF,32.25,1,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+7,Enteric,11,B,FF,31.66,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+8,Enteric,15,B,FF,UD,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA
+9,Enteric,15,C,FF,UD,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA
+10,Enteric,11,C,DU,23.50,1,0,0,RGP,ND,RE,OE;LP;PP,ND,ND,GC;PLS;M,I
+11,Enteric,11,D,FF,UD,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA
+12,Enteric,19,D,DU,35.71,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA
+13,Enteric,15,E,FF,25.80,1,0,0,RGP,ND,ME;LP,RE;PP,ND,ND,PLS,I
+,GL = gross lesions; Cq = PoAstV3 cycle quantiﬁcation value; GS = gastritis; AE = atrophic enteritis; CL = colitis;,,,,,,,,,,,,,,,

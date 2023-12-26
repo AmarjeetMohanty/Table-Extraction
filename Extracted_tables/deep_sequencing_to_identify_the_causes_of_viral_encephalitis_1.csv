@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6,7
+,,,,,,,Deep Sequencing for Encephalitis
+,"Table 3. Comparison of deep sequencing, molecular and pathology results.",,,,,,
+,Collection,,,,,,
+,,,,,Molecular Followup,,
+Sample,Year,Neuropathology Diagnoses,Sequencing Call,,,,
+,,,,HSV1,VZV,MV,Comments
+CO-A,Unknown,SSPE,Measles Virus,-,-,+,Confirmed SSPE
+CO-B,unknown,SSPE,Measles Virus,-,-,+,Confirmed SSPE
+710,1983,"HSV encephalitis,
+leukemia",HSV1,+,-,-,Confirmed HSV Encephalitis
+924,1985,VZV encephalitis,HSV1,+,-,-,"Misdiagnosed as VZV encephalitis, actually"
+,,,,,,,HSV Encephalitis
+1418,1988,"Chronic encephalitis, unknown",None,-,-,-,No Pathogen Identified
+,,etiology,,,,,
+4403,2006,"HSV encephalitis, stroke",HSV1,+,-,-,Confirmed HSV Encephalitis
+4471,2007,Rasmussen’s encephalitis,None,-,-,-,No Pathogen Identified
+,doi:10.1371/journal.pone.0093993.t003,,,,,,

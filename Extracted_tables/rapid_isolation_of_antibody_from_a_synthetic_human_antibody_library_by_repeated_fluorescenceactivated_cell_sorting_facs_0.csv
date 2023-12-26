@@ -1,0 +1,12 @@
+0,1,2,3,4,5,6
+,,,,,,Rapid Isolation of Antibody by Repeated FACS
+Table 1. Overall,,results of antibody library screening by repeated FACS sorting.,,,,
+,N1 of H1N1,,PreS2 of HBV,,VP1 of FMDV,
+Round,,,,,,
+,Sort count,Sort %,Sort count,Sort %,Sort count,Sort %
+1st,"510,434",0.28,"1,531,233",5.53,"246,139",1.87
+2nd,"31,171",3.06,"13,271",16.72,"11,173",33.29
+3rd,"10,025",6.36,"2,722",16.87,"5,262",87.41
+4th,"3,620",49.84,"1,412",40.10,-,-
+5th,"1,561",46.30,-,-,-,-
+doi:10.1371/journal.pone.0108225.t001,,,,,,

@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6,7,8,9,10
+TABLE 1 | Properties of unusual viral RNA species produced by infections of the IFN-β-inducing SeVs.,,,,,,,,,,
+Type,SeV,Deﬁned as,,Detected by,,Colocalized with,,Encapsidated,Accumulated into,Viral protein responsible
+,,,,,,,,with N,cytoplasmic structures,for the production
+,,,J2,FISH,SG markers,SeV N,RIG-I,,,
+I,4C(-),dsRNA,+,−,−,−,−,No,"No,",C
+,,,,,,,,,dispersed in the cytoplasm,
+II,4C(-),Unknown,−,+,+,−,+,No,"Yes,",C
+,,,,,,,,,avSG-like structures,
+III,CNT,cbDI,−,+,−,+,−,"Yes,","Yes,",ND
+,,,,,,,,but not fully,"undeﬁned, non-avSG",
+,,,,,,,,,structures,
+"ND, not determined.",,,,,,,,,,

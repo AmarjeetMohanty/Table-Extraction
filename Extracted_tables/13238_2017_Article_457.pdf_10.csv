@@ -1,0 +1,42 @@
+0,1,2,3,4,5,6,7,8
+Table 11. Summary of bispeciﬁc antibody platforms currently represented by clinical candidate antibodies,,,,,,,,
+Bispeciﬁc,Subgroup,Group,Light chain,Number of clinical,Immune cell,Most,Company or,Reference for platform
+antibody,,in,solution,candidate,redirected,advanced,institute,
+platform,,Fig. 3,,antibodies,candidates,candidate,,
+Rat/mouse,Asymmetric,A,Species-,1,1,Approved,"Fresenius, Trion","Zeidler et al., 1999"
+Triomab,,,speciﬁc,,,in EU,,
+,,,LCs,,,,,
+ART-Ig,Asymmetric,A,CLC,1 (+ 1 IgG-scFv*),0,Phase 3,Chugai,"Sampei et al., 2013"
+Knobs-into-,Asymmetric,A,"CLC, CFS",5,1,Phase 2,Genentech,"Ridgeway et al., 1996;"
+holes,,,,,,,,"Merchant et al., 1998"
+Duobody,Asymmetric,A,Post-,3,1,Phase 1,Genmab,"Labrijn et al., 2013"
+,,,production,,,,,
+,,,assembly,,,,,
+Biclonics,Asymmetric,A,CLC,2,1,Phase 1,Merus,"Throsby et al., 2016"
+BiMab,Asymmetric,A,CLC,1,0,Phase 1,Oncomed,http://drugspider.com/drug/
+,,,,,,,,navicixizumab
+Azymetric,Asymmetric,A,LC,1,0,Phase 1,Zymeworks,"Von Kreudenstein et al., 2013"
+(ZW1),,,mutations,,,,,
+Xmab HA,Asymmetric,A,Fab plus,1,1,Phase 1,Xencor,"Moore et al., 2011"
+,,,scFv,,,,,
+BEAT,Asymmetric,A,Fab plus,1,1,Phase 1,Glenmark,"Moretti et al., 2013"
+,,,scFv,,,,,
+Protein A,Asymmetric,A,CLC,1,1,Phase 1,Regeneron,"Smith et al., 2015; Tustian"
+differential,,,,,,,,"et al., 2016"
+IgG-scFv,Appended,B,NA,6*,1*,Phase 2,"Eli Lilly,","Coloma and Morrison, 1997"
+,IgG,,,,,,"Merrimack,",
+,,,,,,,and others,
+DVD-Ig and,Appended,B,NA,3,0,Phase 2,Abbvie,"Wu et al., 2007"
+DVD-Ig-,IgG,,,,,,,
+like,,,,,,,,
+IgG-Fab,Appended,B,CFS,2,1,Phase 1,Roche,"Klein et al., 2016"
+,IgG,,,,,,,
+IgG-peptide,Appended,B,NA,3,0,Phase 1,Medimmune,"Konkar et al., 2016"
+,IgG,,,,,,,
+IgG-fusion,Appended,B,NA,3,0,Phase 1,"Roche,","Boado et al., 2007; 2012;"
+protein,IgG,,,,,,Armagen,2014
+or enzyme,,,,,,,,
+Chemically,Chemically,E,NA,4,4,Phase 2,Barbara Ann,"Brennan et al., 1985; Garrido"
+coupled,coupled,,,,,,Karmanos,"et al., 1990"
+IgGs,IgGs,,,,,,"Cancer
+Inst",

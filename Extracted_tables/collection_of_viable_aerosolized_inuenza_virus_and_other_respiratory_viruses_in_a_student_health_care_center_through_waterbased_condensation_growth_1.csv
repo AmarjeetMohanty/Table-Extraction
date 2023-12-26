@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12
+"TABLE 2 Viable viruses in aerosols collected on 28 March, 2016",,,,,,,,,,,,
+,,,,Virus isolateda,,,,,,,,
+Sampling,,,,,,,,,,,,
+interval,HEPA ﬁlter,Air sampler,AdV,CoV 229E,CoV NL63,IFV A H1N1,IFV A H3N2,IFV B,HPIV-2,HPIV-3,HPIV-4a,RSV-A
+1,No,BioSampler,(cid:4),,(cid:4),(cid:4),(cid:4),(cid:4),,(cid:4),(cid:4),(cid:4)
+,No,VIVAS,(cid:4),,(cid:4),(cid:4),(cid:4),(cid:4),(cid:4),(cid:4),(cid:4),(cid:4)
+2,Yes,BioSampler,,,,,,,,,,
+,Yes,VIVAS,,,,,,,,,,
+3,No,BioSampler,(cid:4),(cid:4),(cid:4),(cid:4),(cid:4),(cid:4),,(cid:4),(cid:4),(cid:4)
+,No,VIVAS,(cid:4),(cid:4),(cid:4),(cid:4),(cid:4),(cid:4),,(cid:4),(cid:4),(cid:4)
+4,Yes,BioSampler,,,,,,,,,,
+,Yes,VIVAS,,,,,,,,,,
+5,No,BioSampler,(cid:4),,(cid:4),(cid:4),(cid:4),(cid:4),,(cid:4),(cid:4),(cid:4)
+,No,VIVAS,(cid:4),(cid:4),(cid:4),(cid:4),(cid:4),(cid:4),,(cid:4),(cid:4),(cid:4)
+6,Yes,BioSampler,,,,,,,,,,
+,Yes,VIVAS,,,,,,,,,,
+"aAdV, adenovirus; CoV, coronavirus;",,"IFV,","inﬂuenza virus; HPIV, human parainﬂuenza virus; RSV,",,,,respiratory syncytial virus.,,,,,

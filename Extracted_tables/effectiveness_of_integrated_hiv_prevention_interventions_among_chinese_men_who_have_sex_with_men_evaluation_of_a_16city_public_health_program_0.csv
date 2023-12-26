@@ -1,0 +1,40 @@
+0,1,2,3
+,,,HIV Prevention Interventions among Chinese MSM
+Table 3. Logistic regression of,,receipt of any self-reported interventions{ among MSM in 16 Chinese cities (surveys from all 4,
+"years, 2006–2009).",,,
+Variable,N,Adjusted OR (95% CI),P-value
+"Age, every 5-year
+increase",17709,"0.97 (0.94, 0.99)",0.011
+Marital status,,,",0.001"
+Married or cohabitating,4000,1,
+Single or divorced,13707,"1.25 (1.14, 1.37)",
+Ethnicity,,,0.036
+Han,16291,1,
+Other,1418,"1.16 (1.01, 1.31)",
+Education,,,",0.001"
+"Middle school or
+lower",4512,1,
+High school,6991,"1.20 (1.09, 1.31)",
+Some college or higher,6206,"1.10 (1.00, 1.22)",
+"Local
+residence",,,",0.001"
+No,5417,1,
+Yes,12292,"1.17 (1.08, 1.27)",
+Occupation,,,",0.001"
+Non-students,14841,1,
+Students,2850,"0.77 (0.69, 0.85)",
+Recruitment venue,,,",0.001"
+"Bars,
+Internet or other.",12008,1,
+Saunas or parks,5487,"1.25 (1.15, 1.35)",
+"Age of
+first sex with a man, every 1- year",17530,"0.98 (0.97, 0.99)",",0.001"
+increase,,,
+Drug use in the past 6 months**,,,",0.001"
+No,17400,1,
+Yes,294,"1.78 (1.27, 2.51)",
+Intervention effect by year{,,,",0.001"
+2006,5076,1,
+2007,4981,"1.81 (1.74, 1.87)",
+2008,5460,"3.27 (3.04, 3.51)",
+2009,5326,"5.90 (5.31, 6.57)",

@@ -1,0 +1,20 @@
+0,1,2,3,4,5
+Table A1. This table shows all data used to generate Figure 3B as well as the number of animals,,,,,
+,included in this study and the p-values.,,,,
+Group,dpb,rIgG (%),SD,No. Animals,p-Value 1
+sWa[VP2/6/7],−19,1.449,1.213,6,
+,,,,,0.3025
+GFP,−19,0.693,0.227,4,
+sWa[VP2/6/7],0,3.570,0.730,6,
+,,,,,1.40 × 10−5
+GFP,0,0.846,0.264,6,
+sWa[VP2/6/7],10,54.852,13.770,7,
+,,,,,0.002028
+GFP,10,2.147,0.311,2,
+sWa[VP2/6/7],14,37.893,11.319,6,
+,,,,,0.00011
+GFP,14,1.383,0.775,5,
+sWa[VP2/6/7],20,23.777,8.309,2,
+,,,,,0.03876
+GFP,20,1.916,0.338,3,
+,1 p-values were calculated applying a two-way ANOVA. Measurements from sWa[VP2/6/7]-immunized versus,,,,

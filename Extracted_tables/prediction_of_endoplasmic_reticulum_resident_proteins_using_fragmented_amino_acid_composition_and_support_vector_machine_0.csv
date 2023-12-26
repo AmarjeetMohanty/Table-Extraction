@@ -1,0 +1,11 @@
+0,1,2,3,4,5
+Table 2,Performance of SVM-Models based on different input vectors during leave-one-out cross,,,,
+validation.,,,,,
+Input vector,Sensitivity,Specificity,Accuracy,MCC,AUC
+AAC,72.58,73.42,73.34,0.29,0.78
+Pseudo AAC,70.97,75.25,74.85,0.30,0.77
+Dipeptide Composition,69.35,72.58,72.28,0.26,0.76
+N-ter-SAAC,75.00,80.00,79.53,0.37,0.83
+C-ter-SAAC,72.58,70.92,71.07,0.27,0.77
+SAAC-3 parts,79.84,81.58,81.42,0.42,0.85
+Notes.,,,,,

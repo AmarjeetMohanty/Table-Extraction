@@ -1,0 +1,48 @@
+0,1,2,3,4,5,6,7,8,9,10
+"Table 1: Concise overview of the ontogenic, phenotypic, and functional features of the five main DC subtypes: cDC1, cDC2, pDC, LC, and",,,,,,,,,,
+moDC.,,,,,,,,,,
+,,cDC1,,,cDC2,,pDC,,LC,moDC
+,,"HSC + Flt3-L,",,"HSC + Flt3-L, RelB,",,,,,Blood residing,Fetal liver
+,,,,,,,HSC + Flt3-L and,,,
+Ontogeny,,"BATF3, NFIL3, and",,,"NOTCH2, RBP-J,",,,,monocytes +,monocytes +
+,,,,,,,E2-2,,,
+,,Id2,,,"IRF2, and IRF4",,,,inflammation,CSF1R
+,,,,,,,,,,+
+,,+,,,,+,+,,,"CD11b
+moDCs"
+Mouse,CD8𝛼+,/CD103,cDC,+,+,SiglecH,BST2,pDC,+,
+,,+,,CD4,"CD11b
+cDC",,+,,"Langerin
+LC","CD64, Fc𝛾R𝜀, and"
+Other markers,,DEC205,,,,,B220,,,
+,,,,,,,,,,Ly6c
+,,,,,,,,,,"+
++"
+,,,,,,,,,,"CD11b
+CD1a"
+,,+,,,+,,+,,+,moDCs
+Human,,"CD141
+cDC",,CD1c,cDC,CD123,pDC,,"Langerin
+LC","+
++"
+,,,,,,,+,+,,", CD206
+,
+CD24"
+Other markers,,CD162hi DEC205hi,,,CD11blo/+,BDCA-2,", BDCA-4",,"DEC205, CD1ahi",+
+,,,,,,,,,,", and
+CD16"
+,,,,,,,,,,DC-SIGN
+,,,,,,,,,+,
+Conserved,,+,+,,,,,,"E-cadherin
+,",
+,TLR3,CADM1,,,,,,,+,+
+(besides CD11c and,,+,+,MHCIIhi SIRP𝛼+,,,TLR7hi TLR9hi,,", and
+EpCAM",CD11b
+,XCR1,CLEC9A,,,,,,,+,
+MHC class II),,,,,,,,,langerin,
+,,,,,,,,,Adaptable,
+,,,,,,,,,MOUSE: Treg or TH17,Highly adaptable
+,,TH1,,,TH2 and TH17,,IFN-𝛼/𝛽 and IFN𝜆,,,
+Functions,,,,,,,,,HUMAN: IL-15,"(IL-12, IL-23,"
+,,Cross-presentation,,Cross-presentation,,,Humoral,,,
+,,,,,,,,,promoting CTLs +,"TNF𝛼, and iNOS)"

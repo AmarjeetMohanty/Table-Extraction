@@ -1,0 +1,65 @@
+0,1,2,3,4,5,6,7,8
+,TABLE 2 | Efﬁcacy of anti-SFTSV drugs in vivo animal model.,,,,,,,
+Agent,Animals,Dose of agent,"Route
+Treatment",Strain,Dose of virus,Route,Survival,References
+,,(times/day),,,,,(%),
+Ribavirin,STAT2−/−hamster,"75 mg/kg/day (twice)
+p.o.",Day 1–11,Chinese strain,50 PFU,s.c.,0,"Gowen et al., 2017"
+,,,,(HB29),,,,
+,IFNAR−/−C57BL/6,"25 mg/kg/day (once)
+i.p.",Day 0–5,Japanese strain,106 TCID50,s.c.,70,"Tani et al., 2016"
+,,,,(SPL010),,,,
+,,100 mg/kg/day (once),Day 0–5,,,,66,
+Favipiravir,IFNAR−/−C57BL/6,"60 mg/kg/day (once)
+i.p.",Day 0–5,Japanese strain,106 TCID50,s.c.,100,"Tani et al., 2016"
+,,,,(SPL010),,,,
+,,300 mg/kg/day (once),,,,,100,
+,,"60 mg/kg/day (once)
+p.o.",,,,,100,
+,,300 mg/kg/day (once),,,,,100,
+,,"300 mg/kg/day (once)
+p.o.",Day 1–6,,,,100,
+,,,Day 2–7,,,,100,
+,,,Day 3–8,,,,100,
+,,,Day 4–9,,,,83,
+,,,Day 5–10,,,,50,
+,,"120 mg/kg/day (twice)
+p.o.",Day 0–4,Japanese strain,106 TCID50,s.c.,100,"Tani et al., 2018"
+,,,,(SPL010),,,,
+,,,Day 1–5,,,,100,
+,,,Day 2–6,,,,100,
+,,,Day 3–7,,,,100,
+,,,Day 4–8,,,,67,
+,,,Day 5–9,,,,0,
+,,"200 mg/kg/day (twice)
+p.o.",Day 0–4,,,,100,
+,,,Day 1–5,,,,100,
+,,,Day 2–6,,,,100,
+,,,Day 3–7,,,,100,
+,,,Day 4–8,,,,100,
+,,,Day 5–9,,,,20,
+,,"100 mg/kg/day (twice)
+i.p.",Day 0–8,Chinese strain,3 PFU,s.c.,90,"Smee et al., 2018"
+,,,,(HB29),,,,
+,STAT2−/−hamster,"300 mg/kg/day (twice)
+p.o.",Day 1–11,Chinese strain,50 PFU,s.c.,100,"Gowen et al., 2017"
+,,,,(HB29),,,,
+,,150 mg/kg/day (twice),,,,,100,
+Benidipine,C57BL/6,"15 mg/kg/day (once)
+i.g.",Day 0–7,Chinese strain,105 TCID50,i.p.,100*,"Li et al., 2019"
+,Humanized mouse,,Day 0–10,,,,83.3**,
+Nifedipine,C57BL/6,"100 mg/kg/day (once)
+i.g.",Day 0–7,Chinese strain,105 TCID50,i.p.,100*,
+,Humanized mice,,Day 0–10,,,,100**,
+2′-FdC***,IFNAR−/−C57BL/6,"50 mg/kg/day (twice)
+i.p.",Day 0–8,Chinese strain,3 PFU,s.c.,80,"Smee et al., 2018"
+,,,,(HB29),,,,
+,,100 mg/kg/day (twice),Day 0–8,,,,100,
+,,200 mg/kg/day (twice),Day 0–8,,,,80,
+IFN-γ,3 days old ICR,"0.5 µg/animal
+(once)
+i.p.",Day −1,unknown,1.5 × 103 TCID50,i.c.,25,"Ning et al., 2019"
+,,"0.05 µg/animal
+(once)",,,,,25,
+,,"0.5 µg/animal
+(once)",Day +1,unknown,1.5 × 103 TCID50,,0,

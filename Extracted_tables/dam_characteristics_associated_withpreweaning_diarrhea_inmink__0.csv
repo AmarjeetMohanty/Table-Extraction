@@ -1,0 +1,23 @@
+0,1,2,3
+Table 1  Definition of disease status,,,
+"PWD
+ mink kit",,"PWD
+ mink kit",
++,,−,
+Feces  scorea,If score 3 OR,Feces  scorea,If score 1 OR
+,If score 4 OR,,If score 2
+,If score a,,
+,,,AND
+,,External assessment,No red or swollen anus AND
+,,,No dirty perineal region AND
+,,,No cutaneous exudation
+,,,"on head, legs, trunk tail or"
+,,,paws
+If empty rectum or no feces to evaluate OR,If swollen or red anus OR,If empty rectum or no feces to,If no red or swollen anus
+score 2 (cow-pat like feces),If dirty perineal region OR,evaluate,AND
+,"If cutaneous exudation on head, leg,",,No dirty perineal region AND
+,"trunk, tail or paws",,No cutaneous exudation on
+,,,"the head, legs, trunk, tail,"
+,,,or paws
+,,,AND litter mates have score 1
+,a  Evaluated in rectum or from post mortem “defecation”. A description of the scoring system can be found in Fig. 1,,

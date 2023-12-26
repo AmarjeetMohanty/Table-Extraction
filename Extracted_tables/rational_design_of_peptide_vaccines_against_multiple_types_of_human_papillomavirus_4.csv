@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6
+"Table 5. final list of conserved surface-exposed peptides of HPV types 16, 18, 33, 35, 45, and 11 selected through our screening process.",,,,,,
+HPV,START PoSITIoN,PEPTIDE,MHC-II,,,
+,,,T-CELL,B-CELL RANk,DISCoNTINUoUS,MHCI RANk
+,,,,,EPIToPES,
+High risk types,,,,,,
+HPV16,264,aGtVGenVPDDLYIKGs,Y,16,Y,46
+,307,fnKPYWLQraQG,Y,15,–,82
+,354,tYKntnfKeYLr,Y,32,Y,97
+,425,aIaCQKHtPPaPKeDPL,Y,4,Y,65
+HPV18,113,VPaGGGnKQDIPKVs,Y,13,,78
+,189,DtessPaatsnVseD,Y,21,*,2.7
+,233,GtaCKsrPLsQGDCP,Y,1,,97
+,336,LYIKGtGmrasPGsC,Y,12,,100
+,405,ICastQsPVPGQYDa,Y,10,,78
+HPV33,143,DnreCLsmDYKQtQLCL,Y,3,Y,55
+,264,aGtLGeaVPDDLYIKGs,Y,12,Y,54
+,307,fnKPYWLQraQGHnnGI,Y,15,–,82
+,353,tYKnGnfKeYIrHVeeY,Y,26,Y,99
+,424,aItCQKtVPPKeKeDPL,Y,1,Y,77
+HPV35,142,DnreCIsmDYKQtQLCL,Y,8,Y,52
+,264,aGtVGetVPaDLYIKGt,Y,14,Y,49
+,305,fnKPYWLQraQGHnnGI,Y,11,–,82
+,352,tYKnDnfKeYLrHGeeY,Y,–,Y,97
+,423,aVtCQKPsaPKPKDDPL,Y,1,Y,86

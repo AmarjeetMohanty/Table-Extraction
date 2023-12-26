@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6
+Table 4. Percent of primer-specific target RNA signal generated in the absence of an RT primer.,,,,,,
+Source of RNA,,Time pi,,,Percent of target RNAa,
+,,,,S segment,,L segment
+MC57 cells,,,vRNA,vcRNA,vRNA,vcRNA
+,,12 hr,ndb,nd,18.2 ± 0.5,23.1 ± 0.7
+,,18 hr,7.4 ± 0.3,14.5 ± 0.1,16.1 ± 1.0,29.3 ± 0.9
+,,7 d,8.1 ± 0.8,15.1 ± 0.8,18.9 ± 0.7,17.1 ± 0.1
+,,7 d,8.8 ± 0.1,11.2 ± 0.1,14.3 ± 0.6,14.0 ± 0.1
+,,7 d,8.4 ± 0.1,13.7 ± 0.6,9.7 ± 0.1,14.1 ± 0.2
+,,14 d,9.7 ± 3.8,11.9 ± 0.1,nd,nd
+,,24 d,6.7 ± 0.2,14.0 ± 0.5,16.0 ± 1.1,11.2 ± 0.3
+Mouse spleen #1,,4 d,5.4 ± 4.9,6.8 ± 0.4,3.4 ± 0.3,44.8 ± 6.6
+Mouse spleen #2,,4 d,3.9 ± 0.8,5.3 ± 2.0,2.2 ± 2.3,58.4 ± 3.0
+Supernatant,from MC57 cells,12 hr,4.0 ± 0.7,8.7 ± 0.9,14.7 ± 0.3,102.6 ± 11.4
+,,18 hr,5.0 ± 0.3,32.5 ± 2.2,21.2 ± 4.1,111.7 ± 12.9
+,,24 d,6.9 ± 3.7,5.2 ± 1.4,nd,nd
+,Sucrose-banded virions from Vero E6 cells,48 hr,6.2 ± 2.6,111 ± 2.8,6.3 ± 0.7,73.1 ± 3.6

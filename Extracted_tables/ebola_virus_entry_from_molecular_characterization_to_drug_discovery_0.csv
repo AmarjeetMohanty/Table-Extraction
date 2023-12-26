@@ -1,0 +1,46 @@
+0,1,2,3
+Appendix A,,,
+,Table A1. EBOV entry inhibitors and viral model systems used for their discovery.,,
+Class &Compound,Viral Model,Validation with EBOV 1,Reference
+Ion channel inhibitors,,,
+Amiodarone,"RV, VSV, VLP",YES,[62–64]
+Bepridil,"RV, VSV",YES,[69]
+Dronedarone,RV,YES,[62]
+Noricumazole A,"RV, VSV",N/A,[72]
+Tetrandrine,VSV,YES,[33]
+Verapamil,RV,YES,[62]
+Antimicrobial agents,,,
+Albendazole,VLP,N/A,[82]
+Aminoquinoline,VSV,YES,[75]
+Amodiaquine,VSV,YES,[75]
+Azithromycin,VLP,N/A,[82]
+Chloroquine,VSV,YES,[75]
+Emetine,VLP,YES,[81]
+Ferroquine,VLP,N/A,[79]
+Hydroxychloroquine,VSV,YES,[75]
+Mebendazole,VLP,N/A,[82]
+Suramin,VSV,YES,[80]
+Teicoplanin,"RV, VLP",N/A,"[83,84]"
+Terconazole,"RV, VSV",YES,"[69,85]"
+Triparanol,"RV, VSV",YES,[85]
+Psychoactive drugs,,,
+Benztropine,RV,YES,[88]
+Chlorpromazine,RV,YES,[86]
+Chlorcyclizine,RV,YES,[89]
+Diphenhydramine,RV,YES,[89]
+Diphenhylpyraline,VSV,YES,[75]
+Imipramine,VSV,YES,[30]
+Ketotifen,VSV,YES,[75]
+Maprotiline,VLP,N/A,[82]
+Promethazine,RV,YES,[88]
+Sertraline,"RV, VSV",YES,[69]
+Trimipramine,RV,YES,[88]
+Selective estrogen receptor modulators,,,
+Clomiphene,"VLP, VSV",YES,"[69,85,91]"
+Toremifene,VLP,YES,"[69,91]"
+Protein kinase inhibitors,,,
+Apilimod,"RV, VLP",YES,[98]
+Erlotinib,VSV,YES,[97]
+Pyridinyl imidazole,VLP,YES,[100]
+Sunitinib,VSV,YES,[97]
+1-Benzyl-3-cetyl-2-methylimidazolium iodide,VSV,N/A,[103]

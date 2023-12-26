@@ -1,0 +1,28 @@
+0,1,2,3,4,5,6,7
+,Table 1. Novel viruses detected in the stool samples of cats by the molecular approach since 2012.,,,,,,
+Family,Viruses,Genome,Country,Year,Molecular Tools,Target Gene,References
+,,,,,RT-PCR:,,
+Caliciviridae,Feline norovirus,ssRNA,USA,2012,,RdRp,[11]
+,,,,,consensus primers,,
+,,,,,PCR:,,
+Parvoviridae,Feline bocavirus,ssDNA,China,2011,,NS1,[12]
+,,,,,consensus primers,,
+,,,South,,RT-PCR:,,
+Picornaviridae,Feline kobuvirus,ssRNA,,2013,,RdRp,[13]
+,,,Korea,,broadly reactive primers,,
+,,,,,PCR:,,
+Parvoviridae,Feline bufavirus,ssDNA,Italy,2016,,VP2,[14]
+,,,,,broadly reactive primers,,
+,Feline,,,,,,
+,,,,,Nested-PCR:,,
+,stool-associated circular,,Japan,2018,,Rep,[15]
+Circoviridae,,ssDNA,,,consensus primer,,
+,DNA virus,,,,,,
+,Feline cyclovirus,,USA,2013,Metagenomic sequencing,,[17]
+Picornaviridae,Feline sakobuvirus A,ssRNA,Portugal,2012,Metagenomic sequencing,,[16]
+,Rotavirus I,,,,,,
+Reoviridae,,dsRNA,USA,2016,Metagenomic sequencing,,[18]
+,Felis catus,,,,,,
+,Lyon-IARC,,,,,,
+Polyomaviridae,,dsDNA,Canada,2019,Metagenomic sequencing,,[19]
+,polyomavirus,,,,,,

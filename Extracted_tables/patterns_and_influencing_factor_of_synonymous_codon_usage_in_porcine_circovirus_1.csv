@@ -1,0 +1,44 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12
+,,,,,,,,,Table 6 PCV genome sequences included in this study,,,
+,,,,,,,,No,Genotype,Length (bp),Isolation,Accession no
+,,,,,,,,1,PCVI,1759,UK,U49186
+,,,,,,,,2,PCVI,1759,USA,AY099501
+,,,,,,,,3,PCVI,1759,USA,AY184287
+,,,,,,,,4,PCVI,1759,USA,HM143844
+,,,,,,,,5,PCVI,1759,China,GU722334
+,,,,,,,,6,PCVI,1759,China,DQ650650
+,,,,,,,,7,PCVI,1759,China,DQ472015
+,,,,,,,,8,PCVI,1759,China,AY660574
+,,,,,,,,9,PCVI,1759,Australia,AY754015
+,,,,,,,,10,PCVII-a,1768,South Africa,AY325495
+,,,,,,,,11,PCVII-a,1768,Germany,AF201305
+,,,,,,,,12,PCVII-a,1768,Slovakia,HM009338
+,,,,,,,,13,PCVII-a,1768,Spain,AF201308
+,,,,,,,,14,PCVII-a,1768,China,AF381175
+,Figure 5 Correspondence analysis plot of relative synonymous,,,,,,,,,,,
+,codon usage in Circoviridae . Each virus strain was divided by,,,,,,,15,PCVII-a,1768,China,AY288135
+species.,,,,,,,,16,PCVII-a,1768,Canada,AF027217
+,,,,,,,,17,PCVII-a,1768,USA,AY099499
+,,,,,,,,18,PCVII-a,1768,USA,AF264042
+"characteristics of codon,",,,,the study evaluates synonymous,,,,,,,,
+,,,,,,,,19,PCVII-a,1768,USA,AY099496
+codon usage bias through statistical estimation on rela-,,,,,,,,,,,,
+,,,,,,,,20,PCVII-b,1767,China,EF619037
+tive synonymous codon usage frequency (RSCU),,,,,,,[37].,,,,,
+,,,,,,,,21,PCVII-b,1767,China,AY188355
+RSCU value refers,,,,to the ratio between the usage fre-,,,,,,,,
+,,,,,,,,22,PCVII-b,1767,Netherlands,AY484410
+quency of one codon in gene sample and expected fre-,,,,,,,,,,,,
+,,,,,,,,23,PCVII-b,1767,UK,AY484414
+quency,in,the,synonymous,codon,family.,If,the,,,,,
+,,,,,,,,24,PCVII-b,1767,Germany,AF201311
+synonymous codon usage of one amino acid has no pre-,,,,,,,,,,,,
+,,,,,,,,25,PCVII-b,1767,Canada,FJ655419
+"ferences,",,"that
+is,",,codon usage frequency is close to,,,,,,,,
+,,,,,,,,26,PCVII-b,1767,Canada,FJ655418
+"expected frequency,",,,,the RSCU values of codons are,,,,,,,,
+,,,,,,,,27,PCVII-b,1767,Denmark,FJ935780
+equal,to 1;,"if a codon RSCU value is greater than 1,",,,,,the,,,,,
+,,,,,,,,28,PCVII-b,1767,USA,GU799576
+"codon use frequency is higher than expected frequency,",,,,,,,,,,,,

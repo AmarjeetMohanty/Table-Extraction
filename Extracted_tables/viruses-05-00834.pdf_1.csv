@@ -1,0 +1,27 @@
+0,1,2,3,4
+,Table 3. Examples of proteases from neurotropic positive-stranded RNA viruses and from,,,
+,retroviruses that interfere with the IFN pathway.,,,
+Virus,Family,Protease,Mechanism,References
+Encephalo-,,,,
+,Picornaviridae,3C,Cleavage of RIG-I,[109]
+myocarditis virus,,,,
+Coxsackievirus,Picornaviridae,3C,Cleavage of MAVS and TRIF,[110]
+Poliovirus,Picornaviridae,2A,Cleavage of ISGs,[111]
+Poliovirus,Picornaviridae,2A,Cleavage of eIF4G,[112]
+Poliovirus,Picornaviridae,3C,Cleavage of RIG-I,[113]
+Poliovirus,Picornaviridae,3C,Cleavage of eIF5B,[114]
+,,,Cleavage of p65-RelA subunit of,
+Poliovirus,Picornaviridae,3C,,[115]
+,,,NF-kB,
+Enterovirus 71,Picornaviridae,2A,Cleavage of IFNAR1,[116]
+Enterovirus 71,Picornaviridae,3C,Sequestration of RIG-I,[117]
+Enterovirus 71,Picornaviridae,3C,Cleavage of TRIF,[118]
+Dengue virus,Flavivirus,NS2B3,Cleavage of STING,"[119,120]"
+HIV,Retroviridae,Pro,Cleavage of eIF4G,[121]
+HIV,Retroviridae,Pro,Sequestration of RIG-I,[122]
+Mouse hepatitis virus,Coronaviridae,nsp3,Deubiquitination of TBK1,[123]
+,,,Non-proteolytic disruption of,
+Human coronavirus,,papain-like,,
+,Coronaviridae,,STING-MAVS-TBK1/IKKε,[124]
+(HCoV),,protease (PLP),,
+,,,complexes,

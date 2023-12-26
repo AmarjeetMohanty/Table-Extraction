@@ -1,0 +1,34 @@
+0,1,2,3
+,,,The N-terminal domains of FLASH and Lsm11 form a 2:1 heterotrimer for histone pre-mRNA 3’-end processing
+,Table 1. Summary of crystallographic information.,,
+,SeMet FLASH NTD WT,FLASH NTD C54S/C83A mutant crystal form 1,FLASH NTD C54S/C83A mutant crystal form 2
+Data Collection,,,
+Space group,C2,P1,C2
+Cell dimension,,,
+"a, b, c (Å)","66.8, 43.8, 65.0","39.3, 41.1, 61.0","63.5, 44.4, 68.4"
+"α, β, ɣ (˚)","90, 114.5, 90","95.6, 105.2, 113.4","90, 98.6, 90"
+Resolution (Å),35.5–2.61,36.7–2.1,36.2–2.58
+,(2.77–2.61),(2.18–2.1),(2.74–2.58)
+Rmerge (%),5.5 (49.3),5.8 (42.8),7.9 (46.7)
+CC1/2,(0.846),(0.822),(0.898)
+I/σI,14.2 (2.7),18.2 (3.2),13.4 (3.8)
+Completeness (%),99.3 (98.3),97.9 (97.7),99.6 (99.2)
+Redundancy,3.8 (3.8),3.9 (3.4),3.8 (3.7)
+Refinement,,,
+Resolution (Å),35.51–2.61,36.72–2.1,36.22–2.58
+,(2.87–2.61),(2.21–2.1),(2.84–2.58)
+No. of reflections,10144 (2517),18627 (2504),11536 (2843)
+Rwork/Rfree (%),0.199/0.252,0.211/0.254,0.214/0.249
+No. of atoms,,,
+Protein,1200,2378,1400
+Ligand/ion,,16,
+Water,6,58,10
+Average B-factors,,,
+Protein,78.9,55.1,68.1
+Ligand/Ion,,81.5,
+Water,73.1,61.9,55.3
+R.m.s. deviations,,,
+Bond length (Å),0.004,0.003,0.003
+Bond angles (˚),0.67,0.41,0.53
+PDB entry code,6ANO,6AOZ,6AP0
+https://doi.org/10.1371/journal.pone.0186034.t001,,,

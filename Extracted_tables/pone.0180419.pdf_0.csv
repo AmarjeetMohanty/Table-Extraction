@@ -1,0 +1,50 @@
+0,1,2,3,4
+"Table 2. Substitutions observed in pandemic A/H1N1 virus strains classified by gene segment, year of circulation and description.",,,,
+Gen,Substitution,Biological Effect,Times reported,Reference**
+PB2,T76I,Uncharacterized,14,
+,G128C,Uncharacterized,2 (Reported once before),
+,V227A,Uncharacterized,3 (First detected in mexico),
+,R591P,"Virulence, effective replication",First time reported,[28]
+,V613A,Host specificity shift,3,"[28], [37]"
+,V640M,BSL*,First time reported,[34]
+,G644Ra,BSL/VOI,4,"[28], [46]"
+,T676Ia,Adaptation,12,[17]
+PB1,Q569K,Uncharacterized,First time reported,
+,S704T,T cell epitope presented by MHC,First time reported,"[29], [30]"
+,G154A,Uncharacterized,First time reported,
+,E177Q,Uncharacterized,First time reported,
+,E178K,Uncharacterized,4,
+,M339T,Uncharacterized,2 (Reported once before),
+PA,L109F,BSL,First time reported,"[32], [33] Near to an importance regio´ n"
+,T151N,BSL/VOI,5,
+,T162P,VOI*,First time reported,
+,E623D,BSL/VOI,3,[47]
+,I13Va,VOI,16,[38]
+,F35L,BSL,12,[41]
+,E298K,Uncharacterized,9,
+HA,H25R,BSL/VOI/BHP/Ab’s* Recognition,2 (Reported once before),[43] Near to an importance region
+,E373G,BSL/VOI/Ab’s Recognition,19,"[42], [43]"
+,V7Ia,Uncharacterized,22,
+NP,E11G,Uncharacterized,First time reported,
+,A27V,Uncharacterized,2 (Reported once before),
+,Y281C,Uncharacterized,First time reported,
+,G356R,VOI/BNA*,First time reported,"[35], Importance region"
+,S482N,VOI,10,
+NA,I122V,Uncharacterized,11,
+,V177I,BSL/VOI,4,[45] Near to an importance region
+,D199N,Antigenic drift/Ab’s Recognition,30,"[44], [45]"
+,R220G,VOI/Ab’s Recognition,13,[45] Near to an importance region
+,Q308La,Uncharacterized,6,
+,T452Ia,BSL/BHP*,18,[49]
+M1,G18S,VOI,2,[31]
+,N207S,Uncharacterized,11,
+,A33T,VOI,6,[31]
+,M165L,Uncharacterized,2 (Reported once before),[31]
+M2,E16A,Host Specificity shift,First time reported,
+NS1,G45R,BNA,10,[50]
+,A122T,VOI,18,"[39], [40] Near to an importance regio´ n"
+,L36Ia,BSL/VOI,6,[48]
+,Q63K,BSL/VOI,First time reported,"[48], [36]"
+,S74N,BSL/VOI/BHP,11,"[48], [40]"
+,N127Sa,BSL/VOI,5,[48]
+,L185F,Uncharacterized,9,

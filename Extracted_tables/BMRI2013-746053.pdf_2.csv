@@ -1,0 +1,37 @@
+0,1,2,3,4
+4,,,,BioMed Research International
+,,,Table 1: Hyper-PCR primers.,
+,,,"󸀠
+󸀠",
+Pathogen,,Primer,"Base sequence (5
+-3
+)","Polarity
+Reference"
+RSV-A,,RSA-F,TGC AAG CAG AAA TGG AAC AAG T,+
+,,,,[14]
+,,,,−
+,106 bp,RSA-R,AAT AAT GAT GCT TTT GGG TTG TTC A,
+RSV-B,,RSB-F,GATGGCTCTTAGCAAAGTCAAGTTAA,+
+,,,,[15]
+,,,,−
+,104 bp,RSB-R,TGTCAATATTATCTCCTGTACTACGTTGAA,
+,Parainfluenza 1,PIS1+,CCGGTAATTTCTCATACCTATG,+
+,,,,[16]
+,,,,−
+,317 bp,PIS1−,CCTTGGAGCGGAGTTGTTAAG,
+,Parainfluenza 3,Para3.1,CTCGAGGTTGTCAGGATATAG,+
+,,,,[16]
+,,,,−
+,189 bp,Para3.2,CTTTGGGAGTTGAACACAGTT,
+Rhinovirus,,SRHI-1-NIID,CGGGTAGCTTCCACCACCAGCCCTT,+
+,,,,[16]
+,,,,−
+,549 bp,SRHI-2,GGGACCAACTACTTTGGGTGTCCGTGT,
+Enterovirus,,entR1,ATTGTCACCATAAGCAGCCA,+
+,,,,[17]
+,,,,−
+,172 bp,entE2,CCTCCGGCCCCTGAATG,
+H1N1 2009,,swH1-F2,TCATGCGAACAATTCAACA,+
+,,,,Present study
+,,,,−
+,127 bp,swH1-R2,TGGGGCTACCCCTCTTAGTTTG,

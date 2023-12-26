@@ -1,0 +1,35 @@
+0,1,2
+Table 1 Explanation of six different TIs,,
+"Technical
+Indicator",,Meaning
+p−1,,
+,,p-moving average (exponential smoothing)
+"MApðX tÞ ¼ 1
+p ðxtÞ þ
+p MApðX t−1Þ",,
+xt −MApðX t Þ,,
+,,"Change rate of xt
+relative to MAp(Xt)"
+BIASpðX tÞ ¼,,
+MApðX t Þ,,
+xt −xt−p,,
+ROCpðX tÞ ¼,,Relative rate of change for xt between p consecutive time points
+xt,,
+"xt − Mint
+i¼t−p−1ðxi Þ",,Standardization of xt
+K p,,
+"t ¼
+Maxt",,
+"i¼t−p−1ðxi Þ− Mint
+i¼t−p−t ðxi Þ",,
+"Dp
+t ¼ MA3ðK p",,3-Moving Average of K p
+t Þ,,t
+"100
+(cid:4)
+RSIp",,
+t ¼ 100−,,Relative strength index
+"Pt
+if xi−xi−1 > 0; j xi−xi−1",j,
+i¼t−p−1,,
+if xi−xi−1 < 0; 0,,

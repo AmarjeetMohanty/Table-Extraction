@@ -1,0 +1,33 @@
+0,1,2,3,4,5
+Table 2.,"Clinical Signs and Symptoms Reported Subjectively and Obtained via Physical Examination, Preadenovirus VI and Post-VI",,,,
+,,n,Pre-VI,Post-VI,P Value
+"Days of symptoms (median,",IQR),2660,"3.0 (2, 6.3)","6.0 (4, 10)",<.01
+Symptoms,,,,,
+Subjective fever,,2659,1798 (94.4%),287 (38.1%),<.01
+Cough,,2659,1659 (87.1%),695 (92.2%),<.01
+Sore throat,,2659,1663 (87.3%),654 (86.7%),.70
+Sinus congestion,,2656,1492 (78.4%),660 (87.5%),<.01
+Myalgia,,2658,1281 (67.3%),279 (37.0%),<.01
+Coryza,,2658,1221 (64.1%),590 (78.2%),<.01
+Malaise,,2654,1111 (58.4%),377 (50.0%),<.01
+Vomiting,,2658,297 (15.6%),64 (8.5%),<.01
+Diarrhea,,2656,211 (11.1%),42 (5.6%),<.01
+Conjunctivitis,,2658,61 (3.2%),61 (8.1%),<.01
+Vital signs,,2660,,,
+Oral temperature,,,"101.3 (100.7, 102.0)","98.4 (98.1, 98.8)",<.01
+Heart rate,,,"96.0 (86.0, 104.0)","81.0 (69.0, 91.0)",<.01
+Respiratory rate,,,"18.0 (16.0, 18.0)","16.0 (16.0, 18.0)",<.01
+Systolic blood pressure,,,"120.0 (114.0, 127.0)","118.0 (111.0, 125.0)",<.01
+Diastolic blood pressure,,,"72.0 (66.0, 77.0)","69.0 (62.0, 75.0)",<.01
+Physical exam findings,,,,,
+Sinus tenderness,,2066,115 (7.1%),73 (16.3%),<.01
+Pharyngeal erythema,,2253,1157 (70.0%),218 (36.3%),<.01
+Pharyngeal exudate,,2229,276 (15%),71 (12.0%),<.01
+Tonsillitis,,1871,367 (22.8%),55 (21.0%),.51
+"Cervical
+lymphadenopathy",,2242,720 (44.3%),80 (12.9%),<.01
+Nasal discharge,,2247,818 (50%),321 (52.5%),.29
+Abnormal examinationa,,,,,
+Lungs,,2333,142 (8.6%),122 (18.1%),<.01
+Tympanic membranes,,2255,106 (6.5%),65 (10.5%),<.01
+Cardiac,,2305,12 (0.7%),2 (0.3%),.24

@@ -1,0 +1,30 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13
+,,,,,,,,,,,,,Avian viral infection surveillance
+,Table 3. NGS and PCR (RT-PCR) detection of the viruses infecting animals at each farm.,,,,,,,,,,,,
+Sample,,,NGS Detection Results /PCR (RT-PCR),,,,,AIV,,,NDV,,IBV genotype
+,,,Detection Results,,,,,,,,,,
+,,AIV,IBV,NDV,Rotavirus,DHBV,ALV-J,Subtype,Lineage,HA cleavage site,Genotype,F0 cleavage site,
+AC,Detection results,+/+,+/+,-/-,+/+,-/-,+/+,H9N2,H9.2.4.5,335 RSSR#GLF,/,/,4/91
+,,,,,,,,,,341,,,
+,No. of matched,"1,725",50,,12,,26,,,,,,
+,reads,,,,,,,,,,,,
+AD,Detection results,+/+,+/+,-/-,-/-,+/+,-/-,H3N8,/,342 KQTR#GLF,/,/,TC07-2
+,,,,,,,,,,348,,,
+,No. of matched,22,101,,,21,,,,,,,
+,reads,,,,,,,,,,,,
+AG,Detection results,+/+,-/-,-/-,-/-,-/-,-/-,H9N2,H9.2.4.5,335 RSSR#GLF,/,/,/
+,,,,,,,,,,341,,,
+,No. of matched,"16,318",,,,,,,,,,,
+,reads,,,,,,,,,,,,
+BC,Detection results,+/+,+/+,-/-,-/-,-/-,-/-,H9N2,H9.2.4.5,335 RSSR#GLF,/,/,CK/CH/LSC/
+,,,,,,,,,,341,,,99I
+,No. of matched,"5,119",23,,,,,,,,,,
+,reads,,,,,,,,,,,,
+BD,Detection results,+/+,-/-,+/+,-/-,-/-,-/-,H9N2,H9.2.4.5,335 RSSR#GLF,I,112,/
+,,,,,,,,,,341,,GKQGR#LI118,
+,No. of matched,"35,880",,32,,,,,,,,,
+,reads,,,,,,,,,,,,
+BG,Detection results,+/+,-/-,-/-,-/-,-/-,-/-,H9N2,H9.2.4.5,335 RSSR#GLF,/,/,/
+,,,,,,,,,,341,,,
+,No. of matched,"57,658",,,,,,,,,,,
+,reads,,,,,,,,,,,,

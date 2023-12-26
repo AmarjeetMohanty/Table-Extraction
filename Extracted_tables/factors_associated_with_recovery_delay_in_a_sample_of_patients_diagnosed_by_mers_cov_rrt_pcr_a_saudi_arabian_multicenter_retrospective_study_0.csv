@@ -1,0 +1,21 @@
+0,1,2,3,4,5,6,7,8,9
+,,,Univariate negative binomial regression,,,,Multivariate negative binomial regression,,
+,,,,95% CI for RR,,,,95% CI for RR,
+Characteristics,Reference,P,RR,Lower,Upper,P,aRR,Lower,Upper
+Elderly (65 y),65 y,.011*,1.343,1.069,1.686,.001*,1.741,1.276,2.374
+Female,Male,.996,1.001,0.810,1.236,.424,1.103,0.868,1.402
+Patient contact,No,.881,0.965,0.605,1.539,.683,0.886,0.496,1.584
+Camel exposure,Unknown,.001*,0.134,0.045,0.398,.026*,0.267,0.083,0.855
+No camel exposure,Unknown,.077,0.788,0.606,1.026,.783,1.053,0.729,1.521
+MERS- CoV infection,No,.001*,2.556,1.895,3.447,.001*,2.138,1.378,3.318
+ICU admission,No,.001*,2.915,2.239,3.794,.001*,2.048,1.450,2.892
+Hospital: KAMC- Riyadh,KFGH- Jeddah,.605,1.061,0.848,1.328,.042*,0.696,0.491,0.987
+Fever,No,.248,0.878,0.704,1.095,.326,0.879,0.679,1.137
+Respiratory symptoms,No,.124,0.801,0.603,1.063,.001*,0.537,0.387,0.745
+Gastrointestinal,No,.054,0.786,0.616,1.004,.342,0.866,0.643,1.166
+symptoms,,,,,,,,,
+Abnormal radiology,No,.001*,2.016,1.612,2.521,.003*,1.473,1.144,1.896
+findings,,,,,,,,,
+Diabetes,No,.006*,1.356,1.092,1.683,.664,0.925,0.652,1.314
+Renal disease,No,.025*,1.454,1.048,2.018,.061,1.412,0.985,2.025
+Hypertension,No,.001*,1.440,1.160,1.788,.358,1.175,0.833,1.658

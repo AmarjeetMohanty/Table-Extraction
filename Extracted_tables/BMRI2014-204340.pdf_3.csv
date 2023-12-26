@@ -1,0 +1,31 @@
+0,1,2,3,4,5
+,Table 5: Docking score and H-bond interaction of ligands with COX-1 protein (1EQH).,,,,
+,,Number of,Distance,,Ligand
+Ligand,𝐺 score,,,Protein atom,
+,,H-bonds,( ˚A),,atom
+,,,2.230,ARG 374: (H) HH22,
+Indomethacin,−6.67,3,2.271,ARG 374: (H) HH21,O O O
+,,,1.986,ARG 374: (H) HE,
+,,,2.066,ARG 374: (H) HH22,
+,,,2.043,ASN 375: (H) H,
+Aspirin,−5.65,5,2.199,ARG 374: (H) HE,O O O O O
+,,,1.857,ARG 374: (H) HH12,
+,,,1.781,ARG 374: (H) HH21,
+,,,2.238,ARG 374: (H) HH22,
+Diclofenac,−3.77,3,2.017,ASN 375: (H) H,O O O
+,,,1.824,ARG 374: (H) HH22,
+,,,2.139,ARG 374: (H) HH21,
+Paracetamol,−3.41,2,,,O H
+,,,1.936,GLY225: (O) O,
+Morphine,−3.36,1,1.984,ARG 374: (H) HH22,O
+,,,1.964,ASN 375: (H) H,
+1-(2-Hydroxyphenyl)-4-methylpentan-1-one,−5.28,2,,,O H
+,,,1.734,ASN 375: (O) O,
+,,,2.106,ARG 374: (H) HH21,
+2-[(3-Methylbutoxy)carbonyl] benzoic acid,−4.4,3,1.896,ARG 374: (H) HH12,O O O
+,,,1.979,ASN 375: (H) H,
+2-(5-Methylhexyl) benzoic acid,−3.43,1,2.044,ASN 375: (H) H,O
+,,,2.226,ASN 375: (H) H,
+"3-(Iminomethyl)-2,4-dimethylphenol",−3.23,2,,,O O
+,,,1.700,ASN 375: (O) O,
+"Glide score, number of H-bond interactions, distance of H-bond interaction, and involved protein atom and ligand atom in interaction of isolated and standard",,,,,

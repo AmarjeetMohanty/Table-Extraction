@@ -1,0 +1,27 @@
+0,1,2
+,"Table 1: Detail information of present and reference sequences used in Figures 1(a), 2(a), and 3(a) including country/district and collection",
+date.,,
+Country/District,Strain,Collection date
+"Nanning, Guangxi",GXNN04,Nov-2010
+"Heyuan, Guangdong",GDHY01,Dec-2010
+"Jiangmen, Guangdong",GDJM02,Feb-2011
+"Zhanjiang, Guangdong",GDZJ05,Mar-2011
+"Nanyang, Henan",HNNY03,Apr-2011
+"Zhengzhou, Henan",HNZZ01,May-2011
+"Cenzhou, Hunan",HNCZ02,May-2011
+"Haikou, Hainan",HNHK03,Jun-2011
+"Zhongluotan, Guangdong",GDZLT01,Jul-2011
+"Zhaoqing, Guangdong",GDZQ03,Sep-2011
+"Foshan, Guangdong",GDFS04,Oct-2011
+"Yangjiang, Guangdong",GDYJ02,Dec-2011
+"Heshan, Guangdong",GDHS02,Mar-2012
+"Changsha, Hunan",HNCS01,Feb-2012
+"Guangzhou, Guangdong",GDXMS01,Mar-2012
+"Guangzhou, Guangdong",GDXMS02,Mar-2012
+Korea,Chinju99,1999
+Lanzhou (China),LZC,Dec-2006
+Heilongjiang (China),LJB/03,2003
+Belgium,CV777,1977
+Korea,DR13,unknown
+Korea,Attenuated DR13,unknown
+China,CH/S,1986

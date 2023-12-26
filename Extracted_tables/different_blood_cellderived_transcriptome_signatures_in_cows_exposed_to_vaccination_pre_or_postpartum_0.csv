@@ -1,0 +1,15 @@
+0,1,2,3,4,5
+Table 1. Characteristics of cow groups formed by cluster analysis.,,,,,
+Cow_ID,Origin,Number of calvings,Lactationstatus,Vaccination day relative to calving,Group
+1,CH x GH,1,dry,-120,BC
+7,CH x GH,1,dry,-48,BC
+8,CH x GH,1,dry,-120,BC
+11,CH x GH,1,dry,-111,BC
+2,CH x GH,2,early,+11,AC
+3,CH x GH,2,early,+18,AC
+6,CH x GH,2,early,+10,AC
+10,CH x GH,2,early,+14,AC
+12,CH x GH,2,early,+13,AC
+4,CH x GH,2,mid,+82,ex
+9,CH x GH,0,dry,-97,ex
+5,GH,3,dry,-201,ex

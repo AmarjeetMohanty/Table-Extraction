@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6
+,Table 1  Top 10 most productive countries,,,,,
+SCR,Country,Number of documents (%),h-index,Average citations per doc-,No. of collaborative,
+,,,,ument,countries,
+1st,USA,548 (57.14),48,20.4,26,100
+2nd,UK,69 (6.67),15,11.5,22,35
+3rd,Canada,46 (4.80),17,35.3,5,14
+3rd,Germany,46 (4.80),13,15,15,16
+5th,Australia,44 (4.59),13,18.9,4,12
+6th,Taiwan,43 (4.48),11,13.9,6,12
+7th,South Korea,36 (3.75),13,16.2,1,16
+8th,China,32 (3.34),11,14.7,7,17
+9th,Turkey,26 (2.71),7,3.4,4,3
+10th,Netherlands,25 (2.61),8,17,6,11
+,SCR Standard competition ranking,,,,,

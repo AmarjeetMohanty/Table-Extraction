@@ -1,0 +1,32 @@
+0,1,2,3,4,5,6
+Table 1. Characteristics of patients included in this study,,,,,,
+,,,,,,Transmission
+Patient,Age/,Case,Disease,,,Source
+no.,sex,type,severity,Underlying disease,Generation,patient
+14,35/M,Patient,Severe,None,2nd,1
+48,37/M,Caregiver,Moderate,None,3rd,14
+50,80/F,Patient,Severe,Posterior cerebral artery,3rd,14
+,,,,infarction,,
+61,55/M,Caregiver,Severe,None,3rd,14
+62,30/M,HCW,Mild,None,3rd,14
+66,42/F,Patient,Moderate,Myelodysplastic syndrome,3rd,14
+68,54/F,Caregiver,Moderate,None,3rd,14
+75,62/M,Patient,Moderate,Rectal cancer,3rd,14
+77,63/M,Patient,Severe,Necrotizing pancreatitis,3rd,14
+78,41/F,HCW,Moderate,None,3rd,14
+80,34/M,Patient,Severe,Malignant lymphoma,3rd,14
+99,47/M,Caregiver,Moderate,None,3rd,14
+100,32/F,Patient,Moderate,Neuroendocrine tumor,3rd,14
+101,84/M,Patient,Severe,Renal cell carcinoma,3rd,14
+102,48/F,Patient,Moderate,None,3rd,14
+103,65/M,Patient,Moderate,Middle cerebral artery,3rd,14
+,,,,infarction,,
+134,67/F,Patient,Mild,None,3rd,14
+135,32/M,HCW,Severe,None,3rd,14
+155,42/F,Patient,Mild,Hypertrophic,3rd,14
+,,,,cardiomyopathy,,
+157,59/M,Patient,Severe,Lung cancer,3rd,14
+162,32/M,HCW,Severe,None,4th,135
+164,35/F,HCW,Moderate,None,4th,135
+169,33/M,HCW,Moderate,None,4th,135
+177,49/F,Patient,Severe,Malignant lymphoma,3rd,14

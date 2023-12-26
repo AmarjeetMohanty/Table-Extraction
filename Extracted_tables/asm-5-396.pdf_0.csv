@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6,7,8
+Patient,,,,Time to,Time to,,,
+,Age,,Comorbid,,,,Hemodynamic,
+(case,,Sex,,diagnosis,treatment,Renal failure,,Outcome
+,(y),,conditions,,,,instability,
+number),,,,(d),(d),,,
+,,,Ischemic heart,,,,,
+1,74,M,disease heart,18,19,+,+,Expired
+,,,failure,,,,,
+,,,Right bundle,,,,,
+2,84,M,,12,12,+,+,Expired
+,,,branch block,,,,,
+,,,Cardiomyopathy,,,,,
+3,76,M,,14,15,+,+,Expired
+,,,heart failure,,,,,
+4,54,M,None,2,2,–,–,Survived
+5,48,F,None,1,1,–,–,Survived
+6,17,M,None,1,2,–,–,Survived

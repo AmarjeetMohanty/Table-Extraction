@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6
+,,,,Scaling approach for evaluating peak VO2 in children and adolescents,,
+Table 7. Pearson correlation coefficients of unscaled and scaled peak VO2 with body size and age.,,,,,,
+,,Male,,,Female,
+,8–11.99y,,12–16.99y,8–11.99y,,12–16.99y
+Unscaled peak VO2,,,,,,
+Body mass,0.781���,,0.626���,0.747���,,0.636���
+Height,0.763���,,0.576���,0.725���,,0.424���
+Age,0.482���,,0.461���,0.516���,,0.179��
+Ratio-scaled peak VO2 by body mass,,,,,,
+Body mass,-0.578���,,-0.158�,-0.479���,,-0.191��
+Height,-0.265���,,0.163�,-0.247���,,-0.041
+Age,-0.129,,0.194��,-0.127,,-0.030
+,Allometrically scaled peak VO2 (adjusted for weight using different exponents for each sex and age group),,,,,
+Body mass,-0.012,,0.001,-0.019,,0.007
+Height,0.253���,,0.266���,0.166�,,0.084
+Age,0.196��,,0.265���,0.157�,,0.028
+Peak VO2 z score,,,,,,
+Body mass,0.014,,-0.024,0.009,,-0.003
+Height,<0.001,,-0.011,-0.011,,0.085
+Age,-0.010,,-0.012,-0.003,,0.051
+"�p<0.05,",,,,,,
+"��p<0.01,",,,,,,
+���p<0.001,,,,,,
+https://doi.org/10.1371/journal.pone.0213674.t007,,,,,,

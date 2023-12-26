@@ -1,0 +1,15 @@
+0,1,2,3,4,5
+,,,,Impact on pDC biology,
+Herpesviruses,,natural,IFN-I,Infection,Maturation$
+,,host,production,,
+Herpes Simplex virus 1,HSV-1,human,Yes* [2],ND,ND
+Herpes Simplex virus 2,HSV-2,human,Yes*± [3],No [4],ND
+Varicella-zooster virus,VZV,human,ND,ND,ND
+Human cytomegalovirus,HCMV,human,"Yes [5,6,7]",No (blood pDCs) [6],Partial [8]
+,,,,Yes (tonsil pDCs) [7],
+Human Herpesvirus 6,HHV-6,human,ND,Yes [9],ND
+Human Herpesvirus 7,HHV-7,human,ND,Yes [10],ND
+Epstein-Barr virus,EBV,human,Yes [11],ND,Yes [11]
+Human Herpesvirus 8,HHV-8,human,ND,ND,ND
+Murine cytomegalovirus,MCMV,mouse,Yes*± [12],No± [13],Yes± [13]
+,*  pDCs have been described to be the main IFN-I source upon herpesvirus stimulation.,,,,

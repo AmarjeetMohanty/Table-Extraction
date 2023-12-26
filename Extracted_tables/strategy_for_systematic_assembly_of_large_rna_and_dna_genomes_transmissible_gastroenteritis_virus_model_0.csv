@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12
+10604,YOUNT ET AL.,,,,,,,,,,,J. VIROL.
+,,TABLE 2. Restriction enzymes that cleave at speciﬁc sites and leave variable sticky ends,,,,,,,,,,
+,,No. of,,Theoretical,,,Actual no. of restriction sitesc (% with nonunique ends),,,,,
+Restriction,,,Cutting,,,,,,,,,
+,Restriction sites,sticky,,end redun-,,,,,,,,
+enzyme,,,frequencya,,,,,,,,,
+,,ends,,danceb,MV,VZV,EBV,FP,MG,HH6,CJ,TGEV
+BglI,GCCNNNN2NGGC,3,"4,096 (8,640 6 23,266)","262,144",1 (0),32 (38),198 (ND),3 (0),8 (0),19 (26),57 (79),1 (0)
+,CGGN1NNNNCCG,,,,,,,,,,,
+BstXI,CCANNNNN2NTGG,4,"4,096","1,048,576",3 (0),31 (6),80 (41),16 (13),103 (ND),33 (12),135 (ND),3 (0)
+,GGTN1NNNNNACC,,,,,,,,,,,
+SﬁI,GGCCNNNN2NGGCC,3,"65,536","4,194,304",0,2 (0),68 (62),0,0,2 (0),0,0
+,CCGGN1NNNNCCGG,,,,,,,,,,,
+SapI,GCTCTTCN2NNN,3,"16,384","1,048,576",2 (0),11 (18),34 (35),10 (60),27 (30),14 (29),220 (ND),4 (0)
+,CGAGAAGNNNN1,,,,,,,,,,,

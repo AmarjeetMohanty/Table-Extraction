@@ -1,0 +1,19 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12
+,,,TABLE 2. Base changes in the protein-coding regions of various SIN genomes,,,,,,,,,
+,,,,,,,,Base of,isolated:,,,
+Position,Coding,,Toto 1101,T3915/Xho,,,,,,,,
+,,HRspa,,,,,,,,,,
+(nt),region,,RNAb,RNAc,,,,,,,,
+,,,,,S3-7,S3-8,S3-11,S3-10,S3-9,S3-20,S3-4,S3-23
+353,nsp1,UAc (Tyr),UAU (Tyr),UAU (Tyr),U,U,U,U,U,U,U,U
+2133,nsp2,cUC (Leu),CUC (Leu),CUC (Leu),C,C,C,G(Val),C,C,C,C
+2992,nsp2,CcC (Pro),CUC (Leu),CUC (Leu),U,U,U,U,U,U,U,U
+3579,nsp2,aAA (Lys),GAA (Glu),GAA (Glu),G,G,G,G,G,G,G,G
+4874,nsp3,CCc (Pro),CCC (Pro),CCC (Pro),C,C,C,C,U (Pro),C,C,C
+5702,nsp3,CCa (Pro),CCU (Pro),CCU (Pro),U,U,U,U,U,U,U,U
+8009,C,GAg (Glu),GAA (Glu),GAA (Glu),A,A,A,A,A,A,A,A
+8698,E2,GuA (Val),GAA (Glu),GAA (Glu),A,A,A,A,A,A,A,A
+9144,E2,aGA (Arg),GGA (Gly),GGA (Gly),G,G,G,G,G,G,G,G
+9382,E2,GcC (Ala),GUC (Val),GUC (Val),U,U,U,U,U,U,U,U
+10288,E1,GaC (Asp),GGC (Gly),GGC (Gly),G,G,G,G,G,G,G,G
+,"a Heat-resistant, small-plaque variant of the SIN genome (57). The lowercase letters in the triplet codons denote the base that differs from those of the 1101-RR and",,,,,,,,,,,

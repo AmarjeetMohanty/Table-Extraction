@@ -1,0 +1,24 @@
+0,1,2,3,4
+Salem et al.,,,,
+,TABLE 3 Comparative chemokine and cytokine concentrations in BAL cells between,,,
+,direct-inoculated calves and controls as determined by Luminex assaya,,,
+,Expression,,,
+,on:,,,
+Protein in BALs,D2,D7,D14,Infected/control
+CCL2,,,,
+CCL3,,,,
+CCL4,,,,
+CXCL10,,*,,1
+IFN-(cid:5),,,,
+TNF-(cid:2),*,*,,1
+IL-10,,*,,1
+IL-4,,,,
+IL-2,*,,*,1
+IL-17,,,,
+IL-1(cid:2),,,,
+IL-1(cid:3),,,,
+IL-6,,,,
+IL-8,*,,,1
+IL-1R,,*,,1
+,aA linear mixed model was used with random effect,,for group and considering interactions between time,
+,and status. Statistics were done by comparing the slopes of,,"the curves for each day (D2, D7, or D14) on",

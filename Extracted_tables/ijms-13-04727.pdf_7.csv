@@ -1,0 +1,48 @@
+0,1,2,3,4,5,6,7,8
+,,,Table 4. Cont.,,,,,
+,,Target,,Affinity,Inhibition,Virus,,
+Target,Library,,Phagotopes,,,,Additional,Reference
+,,presentation,,(KD),(IC50),isolates/clades,,
+,,,,,,,Inhibition of strand,
+Int,7-mer RPL,Recombinant Int,FHNHGKQ,NA,NA,NA,,[105]
+,,,,,,,transfer activity,
+,,(1) Tat AA,,(1) 10–1000,,,(2) inhibition of,
+,(1) HIV-1-infected patient,,,,,,,
+(1) Tat,,22–33,(1) 3 Fabs,nM,,,Tat-mediated,[106]
+,Fab,,,,,,,
+(2) Cyclin T1,,(2) cyclin box,(2) 3R6-1,(2) 107 nM,NA,NA,transactivation and,[107]
+,(2) naïve human ScFv,,,,,,,
+(3) TAR RNA,,"domain, TRM",(3) 57-mers,(3) 420–550,,,HIV-1 replication,[108]
+,(3) 12-mer RPL,,,,,,,
+,,(3) TAR RNA,,nM,,,when transfected,
+,,,(1) PPx(D/E)R motif,,,,,
+,,(1) NCp7 AA 30–,,,,,(2) reduction of virus,
+(1) NCp7,(1) 9-mer-c RPL,,"(2) HWWPWW motif,",,,,,[109]
+,,52,,NA,NA,NA,release by infected,
+(2) Psi RNA,(2) RPLs,,SYQWWWHSPQTL,,,,,[110–112]
+,,(2) psi RNA,,,,,cells,
+,,,motif,,,,,
+,,(1) recombinant,,,,,,
+,"(1) mouse ScFv, immunized","Nef, Nef CTL","(1) SdAb19, ScFV3,",,,,,
+(1) Nef,,,,,,,(2) inhibition of HIV-,[113–115]
+,"llamas VHH, human ScFv",138-10/A24,ScFv27,(1) 2nM,NA,NA,,
+(2) Vif,,,,,,,1 replication,"[116,117]"
+,(2) 12-mer RPL,(2) recombinant,(2) PxP motif,,,,,
+,,Vif,,,,,,
+,(1) mouse Fab,,"(1) 5F, 5G",,,,Inhibition of RDDP,"[118,119]"
+RT,,Recombinant RT,,NA,NA,NA,,
+,(2) human ScFv,,"(2) F-6, 6E9, 5B11",,,,and/or DDDP activity,[120]
+,(1) HIV-1-infected patient,,,,,,,
+,Fab,,,,,,,
+,,,(1) 2 Fabs,,,,,
+,(2) 15-mer RPL,,,,,,,
+,,,"(2) p1, p3, p19",,,,,
+Rev,(3) immunized,Rev,,NA,NA,NA,NA,"[106,121–124]"
+,,,(3) Nb190,,,,,
+,llamas VHH,,,,,,,
+,,,(4) SJS-R1,,,,,
+,(4) chimeric rabbit/human,,,,,,,
+,Fab,,,,,,,
+,,CA protein,,,,,In vitro inhibition of,
+Gag,12-mer RPL,,CAI,NA,NA,NA,,[125]
+,,(AA 162–190),,,,,capsid assembly,

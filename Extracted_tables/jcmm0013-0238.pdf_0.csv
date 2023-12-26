@@ -1,0 +1,25 @@
+0,1,2,3,4,5
+"Table 2  Representative FBD programs, adapted from Schneider et al. [59]",,,,,
+Method,Building block,Structure sampling,Target constraints,Search strategy,Scoring function
+,,Fitting and clipping of,,,
+HSITE [94],Fr,,Rec,BFS,"Steric constraints, HB"
+,,planar skeleton,,,
+Legend [95],At,Growing,Rec,Random,Force field
+"LUDI [75, 96]",Fr,"Growing, Linking",Rec,BFS,Emp
+SPROUT [97],Fr,"Growing, Linking",Rec,"DFS, BFS",Emp
+"MCSS/HOOK [76, 77]",Fr,Linking,Rec,BFS,Force field
+"DLD [98, 99]",At,Stochastic,Rec,MC,Force field
+PRO_LIGAND [78],Fr,"Growing, Linking","Rec, Lig",DFS,Emp
+SMoG [100],Fr,Growing,,MC,K-B
+BUILDER [101],At,Lattice,Rec,BFS,Steric constraints
+CONCERTS [102],Fr,MD,Rec,MC,Force field
+"PRO_SELECT [103, 104]",Fr,Growing,Rec,BFS,Emp
+Skelgen [105],Fr,Stochastic,"Rec, Lig",MC,Geom. and chem. constraints
+LigBuilder [79],Fr,"Growing, Linking",Rec,EA,Emp
+TOPAS [106],Fr,Stochastic,Lig,EA,Mol Sim
+ADAPT [107],Fr,Stochastic,Rec,EA,Emp using DOCK score
+SYNOPSIS [88],Fr,Stochastic,Rec,EA,Emp
+CoG [108],"At, Fr",Stochastic,Lig,EA,Mol Sim
+BREED [87],Fr,Linking,Lig,Ex,No scoring
+LEA3D [82],Fr,Stochastic,Rec,EA,Emp using FLExX score
+Gandi [81],Fr,Linking,Rec,EA,Force field and Sim3D

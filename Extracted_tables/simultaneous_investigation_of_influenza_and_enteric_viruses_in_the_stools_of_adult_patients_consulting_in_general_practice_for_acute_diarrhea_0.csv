@@ -1,0 +1,35 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12
+"Table 1 Demographical, clinical and virological data of the Influenza virus-positive patients",,,,,,,,,,,,
+Sex/Age,No of,Mo of,Influenza,Underlying,Gastrointestinal,Consistency,Duration,Duration,Duration of,Supplementary,Influenza,Enteric
+,days,collection,Viral,medical,symptoms,of stool,of the,of the,fever,medical,virus,virus
+,from,,concentration,conditions,,specimen,enrolment,enrolment,episode,examen,,
+,onset to,,(PCR,,,,diarrhea,vomiting,(days),,,
+,stool,,copies/g stool),,,,episode,episode,,,,
+,collection,,,,,,(days),(days),,,,
+M/24,2,January,2.8x104,None reported,"Abdominal pain,",Watery,3,3,6,None reported,A/H3N2,Negative
+,,,,,"nausea,",,,,,,,
+,,,,,vomiting,,,,,,,
+F/56,1,February,3.5x106,"Hypertension,","Abdominal pain,",Watery,1,None reported,No fever,None reported,B,Negative
+,,,,"osteoporosis,",nausea,,,,,,,
+,,,,polymyalgia,,,,,,,,
+,,,,rheumatica,,,,,,,,
+NA/>18,1,January,2.5x104,None reported,"Abdominal pain,",Loose,2,3,1,None reported,B,Norovirus GI
+,,,,,"nausea,",,,,,,,
+,,,,,vomiting,,,,,,,
+F/54,2,January,4.2x106,None reported,"Abdominal pain,",Watery,5,2,6,Fiberscope,B,Astrovirus
+,,,,,"nausea,",,,,,,,
+,,,,,vomiting,,,,,,,
+F/79,0,December,2.5x104,"Hypertension,","Abdominal pain,",Watery,1,1,1,None reported,B,Negative
+,,,,osteoporosis,"nausea,",,,,,,,
+,,,,,vomiting,,,,,,,
+M/22,7,January,3.2x104,None reported,"Abdominal pain,",Watery,N/A,None reported,NA,None reported,B,Norovirus GI
+,,,,,nausea,,,,,,,
+F/19,3,February,4.0x104,None reported,"Abdominal pain,",Watery,1,None reported,0,None reported,B,Negative
+,,,,,nausea,,,,,,,
+F/30,1,January,2.2x105,Migraine,"Abdominal pain,",Watery,1,None reported,No fever,None reported,B,Negative
+,,,,,nausea,,,,,,,
+M/86,1,December,2.7x104,None reported,Nausea,Watery,2,None reported,No fever,None reported,A/H1N1,Norovirus GI
+,,,,,,,,,,,2009,
+F/74,1,January,3.8x105,"Hypertension,","Abdominal pain,",Watery,2,1,1,None reported,B,Norovirus GII
+,,,,"osteoporosis,","nausea,",,,,,,,
+,,,,asthma,vomiting,,,,,,,

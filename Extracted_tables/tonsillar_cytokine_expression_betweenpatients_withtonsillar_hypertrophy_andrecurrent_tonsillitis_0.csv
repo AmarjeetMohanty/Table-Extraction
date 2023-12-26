@@ -1,0 +1,37 @@
+0,1,2,3,4,5,6
+,Table 2  Nasopharyngeal and intratonsillar virus detection,,,,,
+Virus,Nasopharynx,,P value,Tonsil,,P value
+,Tonsillar hypertrophy,Recurrent tonsillitis,,Tonsillar hypertrophy,Recurrent tonsillitis,
+,"n 
+ 47","n 
+ 42",,"n 
+ 47","n 
+ 42",
+,=,=,,=,=,
+Adenovirus,9 (19%),2 (5%),0.03,7 (15%),2 (5%),0.10
+Bocavirus-1,12 (26%),2 (5%),0.005,7 (15%),1 (2%),0.03
+Coronavirus,3 (6%),0 (0%),0.048,0 (0%),0 (0%),–
+Enteroviruses,4 (9%),4 (10%),0.87,6 (13%),4 (10%),0.63
+Influenza A or B virus,1 (2%),0 (0%),0.26,0 (0%),0 (0%),–
+Metapneumovirus,0 (0%),1 (2%),0.29,1 (2%),0 (0%),0.26
+Parainfluenza virus types 1-4,1 (2%),1 (2%),0.94,4 (9%),1 (2%),0.19
+Respiratory syncytial virus,1 (2%),0 (0%),0.26,2 (4%),0 (0%),0.11
+"Rhinovirus species A, B or C",27 (57%),14 (33%),0.02,2 (4%),2 (5%),0.91
+Number of positive viruses,37 (79%),16 (38%),< 0.0001,17 (36%),8 (19%),0.07
+Positive for 1 virus,23 (49%),10 (24%),0.01,9 (19%),7 (17%),0.76
+Positive for 2 viruses,8 (17%),4 (10%),0.30,5 (11%),0 (0%),0.01
+Positive for 3 viruses,5 (11%),2 (5%),0.30,2 (4%),1 (2%),0.62
+Positive for 4 viruses,1 (2%),0 (0%),0.26,1 (2%),0 (0%),0.26
+"Positive for 
+ 1 viruses",37 (79%),16 (38%),,17 (36%),8 (19%),
+≥,,,,,,
+"Positive for 
+ 2 viruses",14 (30%),6 (14%),,8 (17%),1 (2%),
+≥,,,,,,
+"Positive for 
+ 3 viruses",6 (13%),2 (5%),,3 (7%),1 (2%),
+≥,,,,,,
+"Positive for 
+ 4 viruses",1 (2%),0,,1 (2%),0,
+≥,,,,,,
+,"Values are shown as number of subjects (%). Data were analysed by Chi square test, or Fisher’s Exact test",,,,,

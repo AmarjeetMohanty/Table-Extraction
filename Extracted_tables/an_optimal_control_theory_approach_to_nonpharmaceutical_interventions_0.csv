@@ -1,0 +1,28 @@
+0,1,2,3,4,5,6,7
+"infection rate, b, by up to 30-50% in 1918 and in many",,,,,scenarios and Table 5 provides,the partial,rank corre-
+cases the effect of NPIs was very limited [11];,,,thus we,lation coefficients,(PRCCs),for,the performance mea-
+assume the impact of NPI,,,"implementation, b,
+follows",,sures and each parameter. The CDF of ω revealed a,,
+,,,,,Table 4 Descriptive statistics from the uncertainty,,
+,Table 3 Parameter ranges. summarizes the estimated,,,,,,
+,,,,analysis.,,,
+,probability distribution functions (PDFs) of,,five input,,,,
+,,,,,Proportion of control,,Mean cumulative
+,"parameters, R0, 1/g, 1/τ, c and b.",,,,,,
+,,,,,,area ω,deaths dT
+Parameter,Unit,,Parameter Distribution,,,,
+,,,,Minimum,,0,0.63%
+R0,cases per,infectious individual,"Gamma(4.56,0.31)
+[25]",,,,
+,,,,Maximum,,98.7%,76.39%
+1/g,days,,"Weibull(2.8, 3.7)
+[25]",,,,
+,,,,Mean,,21.4%,14.25%
+1/τ,days,,"Gamma(3.5, 3.4)
+[25]",,,,
+,,,,Median,,0.6%,12.56%
+c,,,"Uniform(0, 0.25)",,,,
+,,,,Variance,,11.2%,74.81%
+b,%,,"Uniform(0, 50)
+[11]",,,,
+,,,,,Table 4 shows the descriptive statistics for ω and dT .,,

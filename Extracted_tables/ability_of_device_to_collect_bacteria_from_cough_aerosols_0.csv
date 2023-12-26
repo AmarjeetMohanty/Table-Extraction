@@ -1,0 +1,27 @@
+0,1,2,3,4,5,6,7,8,9
+"cough specimens from normal, healthy",,,,from adult CF patients.,,,,,
+controls.,,,,,,,,,
+,,,,,Sputum,,,Cough,
+,Throat,Cough,,,,,,,
+,,,,,,CT,,,CT
+,,,,n=15*,%,,n=20,%,
+1,S. aureus,Negative,,,,range,,,range
+,,,P. aeruginosa,13/15,87%,18–33,9/20,45%,33–42
+2,Negative,Negative,,,,,,,
+,,,S. aureus,9/15,60%,24–38,3/20,15%,36–40
+3,Negative,Negative,,,,,,,
+,,,K. pneumoniae,2/15,13%,37–38,3/20,15%,39–43
+4,S. aureus,Negative,,,,,,,
+,,,CFRB total,15/15,100%,18–38,13/20,65%,33–43
+5,"S. aureus, S. pneumoniae",Negative,,,,,,,
+,,,2+ pathogens,7/15,47%,18–38,2/20,10%,36–43
+6,Negative,Negative,,,,,,,
+,,,3+ pathogens,2/15,13%,18–38,0/20,0%,N/A
+7,Negative,Negative,,,,,,,
+,,,S. mitis,13/14†,93%,24–41,0/17§,0%,N/A
+8,S. pneumoniae,Negative,,,,,,,
+,,,,* Five patients were unable to produce viable sputum specimens,,,,,
+9,Negative,Negative,,,,,,,
+,,,,† Six sputum specimens were not tested for S. mitis,,,,,
+10,Negative,Negative,,,,,,,
+,,,,§ Three cough specimens were not tested for S. mitis,,,,,

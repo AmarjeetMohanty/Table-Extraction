@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7,8
+,,Table 3. Virus reads from next generation sequencing data set from Eonycteris spelaea urine and feces.,,,,,,
+,Urine-MiSeq-25,Urine-MiSeq-27,Urine reads by,Feces-Hiseq,Feces-MiSeq,Fecal Reads by,,Consensus
+Virus Family,,,,,,,Total Reads,
+,Reads,Reads,Family (% of Total),Reads,Reads,Family (% of Total),,Reads/Unassembled Reads
+Adenoviridae V,171,115,286 (7.14%),31,43,74 (0.07%),360 (0.31%),28/17
+Alphaﬂexiviridae P/F,-,-,-,-,143,143 (0.13%),143 (0.12%),28 / 13
+Alphatetraviridae A,-,-,-,-,1,1,1,-
+Astroviridae V,50,-,50 (1.25%),6,8,14 (0.01%),64 (0.05%),6/3
+Baculoviridae A,-,-,-,1,2,3,3,0/3
+Betaﬂexiviridae P/F,4,-,4 (0.10%),9,14,23 (0.02%),27 (0.02%),7/9
+Bunyaviridae V,-,-,-,-,1,1,1,-
+Caliciviridae V,-,-,-,-,9,9 (0.01%),9 (0.01%),4/1
+Carmotetraviridae A,-,-,-,-,34,34 (0.03%),34 (0.03%),5/0
+Caulimoviridae A/P,-,-,-,3,5,8 (0.01%),8 (0.01%),2/4
+Chrysoviridae F,15,-,15 (0.37%),3,3,6 (0.01%),21 (0.02%),5/2
+Coronaviridae V,170,440,610 (15.22%),46,87,133 (0.12%),743 (0.64%),52/21
+Dicistroviridae A,120,705,825 (20.59%),292,"65,061","65,353 (58.09%)","66,178 (56.80%)",2326/1546
+Endornaviridae P/F,-,-,-,-,4,4,4,2/0
+Flaviviridae V,10,52,62 (1.55%),-,1,1,63 (0.05%),2/1
+Herpesviridae V,25,-,25 (0.62%),3,12,15 (0.01%),40 (0.03%),7/5
+Iﬂaviridae A,8,-,8 (0.20%),46,578,624 (0.55%),632 (0.54%),79/21
+Inoviridae B,-,-,-,1,-,1,1,-

@@ -1,0 +1,44 @@
+0,1,2,3,4,5,6,7
+,,,,,,DC-SIGN Contributes to HIV Vertical Transmission,
+"Table 1. Associations between child DC-SIGN haplotypes and intrauterine (IU),",,,,,,intrapartum (IP) and postpartum (PP) HIV-1,
+transmission.,,,,,,,
+,HIV-1,,,,,,
+Child DC-SIGN,,,,,,,
+,negative,,IU infection,,IP infection,,PP infection
+haplotypea,,,,,,,
+,,,OR (95% CI),,OR (95% CI),,OR (95% CI)
+,% (n),% (n),,% (n),,% (n),
+,,,P valuec,,P valuec,,P valuec
+H1,,,,,,,
+Absentb,80 (159),84 (86),1.0,86 (19),1.0,94 (32),1.0
+Present,20 (39),16 (16),0.76 (0.40–1.44),14 (3),0.64 (0.18–2.29),6 (2),0.25 (0.06–1.11)
+,,,0.444,,0.770,,0.053
+H2,,,,,,,
+Absent,60 (118),81 (83),1.0,82 (18),1.0,35 (12),1.0
+Present,40 (80),19 (19),0.34 (0.19–0.60),18 (4),0.33 (0.11–1.01),65 (22),0.80 (0.38–1.72)
+,,,0.0002,,0.062,,0.700
+H3,,,,,,,
+Absent,90 (179),88 (90),1.0,82 (18),1.0,85 (29),1.0
+Present,10 (19),12 (12),1.26 (0.58–2.70),18 (4),2.10 (0.64–6.83),15 (5),1.62 (0.56–4.69)
+,,,0.560,,0.260,,0.370
+H4,,,,,,,
+Absent,98 (190),90 (92),1.0,91 (20),1.0,91 (31),1.0
+Present,2 (4),10 (10),5.27 (1.61–17.3),9 (2),4.85 (0.84–28.2),9 (3),4.69 (1.00–22.0)
+,,,0.0025,,0.110,,0.067
+H5,,,,,,,
+Absent,94 (187),88 (90),1.0,95 (21),1.0,88 (30),1.0
+Present,6 (11),12 (12),2.27 (0.96–5.33),5 (1),0.81 (0.09–6.59),12 (4),2.27 (0.68–7.59)
+,,,0.066,,1.00,,0.250
+H6,,,,,,,
+Absent,91 (180),80 (82),1.0,82 (18),1.0,79 (27),1.0
+Present,9 (18),20 (20),2.44 (1.23–4.86),18 (4),2.22 (0.68–7.28),21 (7),2.59 (0.99–6.79)
+,,,0.0095,,0.250,,0.070
+H7,,,,,,,
+Absent,93 (185),95 (97),1.0,95 (21),1.0,100 (34),
+Present,7(13),5 (5),0.73 (0.25–2.12),5 (1),0.67 (0.08–5.45),0,NA
+,,,0.790,,1.00,,
+,"CI, Confidence interval; n, number; NA, non applicable, OR, odds ratio.",,,,,,
+aHaplotypes found at a frequency above 5% in the study population.,,,,,,,
+bAbsent,(referent category for all analyses) vs homozygote + heterozygote (present),,,for each haplotypes.,,,
+cP-value as determined by Fisher’s exact,,test.,,,,,
+doi:10.1371/journal.pone.0040706.t001,,,,,,,

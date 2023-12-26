@@ -1,0 +1,19 @@
+0,1,2,3,4
+,Table 5. Means and SDs of retention of the plant-disease pairs of words (phase II).,,,
+Disease category,Mean recall/,Plant-disease,M,SD
+,Disease category,,,
+Chronic diseases,0.11,Mororo´-Stroke,-,-
+,,Cumaru-Cancer,-,-
+,,Angico-Diabetes,0.32,1.97
+Infectious diseases,1.04,Mint-AIDS,2.03,5.20
+,,Cumaru-Tuberculosis,1.08,3.72
+,,Boldo-Measles,-,-
+Common conditions,1.53�,Mororo´-Cold,-,-
+,,Boldo-Colic,3.54�,6.34
+,,Mint-Diarrhea,0.70,2.98
+Emerging and Reemerging diseases,0.36,Cumaru-Dengue,0.30,1.81
+,,Angico-Zika,0.78,3.33
+,,Mororo´-Cholera,-,-
+Control,1.06,Boldo-Cellulitis,1.65,4.26
+,,Mint-Stretch marks,1.54,4.49
+,,Angico-Warts,-,-

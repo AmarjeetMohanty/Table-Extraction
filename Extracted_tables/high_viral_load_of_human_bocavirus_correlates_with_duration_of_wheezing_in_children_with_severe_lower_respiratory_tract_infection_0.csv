@@ -1,0 +1,11 @@
+0,1,2,3,4
+Table 2. Clinical,features of HBoV-positive patients.,,,
+Clinical data,,HBoV-positive samples (n = 31),HBoV-negative samples (n = 155),P
+Cough,,31 (100%),155 (100%),1
+Wheezing,,28 (90.32%),113 (72.90%),0.040*
+Fever,,13 (41.94%),51 (32.90%),0.408
+Tachypnea,,20 (64.52%),79 (50.97%),0.237
+Dyspnea,,13 (41.94%),21 (13.55%),0.001*
+Rhinorrhea,,6 (19.36%),19 (12.26%),0.384
+Cyanosis,,12 (38.71%),61 (39.36%),1
+Duration of hospitalization (days),(mean6SEM),12.1061.101,9.90360.456,0.0292**

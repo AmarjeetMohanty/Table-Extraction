@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6,7
+,,,,TABLE 2. Body TRS mutants,,,
+,Mutated TRS,Mutant TRS,Titer,Plaque diam after,TRS sequence of,No. of plaques,
+Mutant,,,,,,,Reversion
+,location,sequencea,(PFU/ml),3 days p.i. (mm),plaque-isolated RNA,analyzed,
+M2,9711–9715,UuAAu,N/ab,N/a,N/a,N/a,N/a
+M3.2,10227–10231,UuAAu,6 3 107,4,UuAAu,4,No
+M4 (M4.2),10677–10681,gCAgC,1 3 107,2.5,gCAgC,5,No
+M5 (M5.1),11028–11032,UgAAu,6 3 104,4,UCAAC,4,Yes
+M6,11870–11874,UgAAu,N/a,N/a,N/a,N/a,N/a
+M7,12252–12256,aguAC,N/a,N/a,N/a,N/a,N/a
+M3.1,10195–10199,gCAgU,5.5 3 107,3.5,gCAgU,4,No
+M4.1,10660–10664,aguAC,3 3 108,4,aguAC,4,No
+M5.2,11140–11144,cCAga,2 3 108,4,cCAga,2,No
+M313,"10195–10199,",gCAgU 1 UuAAu,4 3 106,2,gCAgU 1 UuAAu (1 pl.); g/UCAg/AU 1,4,No (1 pl.); mixe
+,10227–10231,,,,Uu/CAAu/C (3 pl.)d,,(3 pl.)
+M414,"10660–10664,",aguAC 1 gCAgC,;1.5 3 105,N/dc,N/d,N/d,N/d
+,10677–10681,,,,,,
+M515,"11028–11032,",UgAAu 1 cCAga,6 3 103,2.5,UCAAC 1 UCAAC,3,Yes
+,11140–11144,,,,,,
+wt,N/a,N/a,2.5 3 108,3.5,N/a,N/a,N/a
+,a Mutated nucleotides are in lowercase.,,,,,,

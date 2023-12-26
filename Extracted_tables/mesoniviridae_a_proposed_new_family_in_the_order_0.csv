@@ -1,0 +1,12 @@
+0,1,2,3,4,5,6,7
+Mesoniviridae,,,,,,,1625
+Table 1 Comparison of ORFs in the genome of NDiV and CAVV,,,,,,,
+,Length [nt],,Framea,,Identity [%]b,,Predicted protein
+,NDiV,CAVV,NDiV,CAVV,nt,aa,
+ORF1a,7509,7497,0,0,88.3,90.0,Polyprotein 1a
+ORF1b,7587,7587,-1,-1,92.6,96.1,1b part of polyprotein 1ab
+ORF2a,2697,2700,-1,-1,90.7,87.5,Spike
+ORF2b,636,642,?1,?1,88.8,90.2,Nucleocapsid
+ORF3a,474,474,-1,?1,91.1,93.0,Membrane
+ORF3b,348,348,0,-1,93.7,90.5,Membrane
+ORF4,135,147,?1,-1,89.9,87.8,Unknown

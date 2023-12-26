@@ -1,0 +1,32 @@
+0,1,2,3,4,5
+,Table 3 Temporal association between acute respiratory infections and reactivation or worsening of JIA activity,,,,
+,parameters in 10 of 70 patients who participated in the epidemiological surveillance 1 and/or 2 for respiratory virus,,,,
+Vírus,ARI,Onset,Signs of disease worsening or flare,Temporal relationship,Therapeutic decision
+detected,,type,,,
+RSVA,NILI**,S,"10% increase in the number of active joints, 50%",Concomitant,Increase the dose of
+,,,worsening of the patient’s subjective evaluation,,cyclosporine
+HAdv,ILI***,S,60% increase in the number of active joints and,3 weeks,"Intra-articular
+infection"
+,,,200% worsening of the patient’s subjective,,
+,,,evaluation,,
+HPIV1,ILI,S,Flare#,Concomitant,None. Symptoms improved
+,,,,,with resolution of Flu-like
+,,,,,symptoms
+NC*,ILI,S,Flare,5 days,Increase the dose of
+,,,,,methotrexate and oral
+,,,,,prednisone course
+HPIV3,ILI,S,Flare with systemic symptoms,7 days,Pulse of prednisone
+HAdv,ILI,O,Flare,12 days,Restart methotrexate
+NC,NILI,P,200% increase in number of active joints and 50%,7 days,Start nonsteroidal
+,,,increase in ESR,,antiinflammatory
+RSVA/,NILI,P,Flare,Concomitant,Increase prednisone dose
+HMPV,,,,,
+Flu A,ILI,P,Worsening of morning stiffness and joint effusion.,Concomitant,Start etanercept and
+,,,Appearance of cysts on wrists.,,leflunomide
+,,,,Confounding factor: varicella,
+,,,,8 days before,
+NC,ILI,S,Flare,1 week Confounding factor:,Pulse of prednisone
+,,,,methotrexate suspended 30 days,
+,,,,,Restart methotrexate
+,,,,before,
+Flu:,"Influenza virus A and B, HRSV: respiratory syncytial virus A and B, HMPV: metapneumovirus, HPIV: parainfluenza virus 1 and 3, HBov: bocavirus, HAdv:",,,,

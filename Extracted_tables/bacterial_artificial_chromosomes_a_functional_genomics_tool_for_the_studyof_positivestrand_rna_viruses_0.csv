@@ -1,0 +1,50 @@
+0,1,2,3
+,Journal of Visualized Experiments,,
+Oligonucleotide,,,Polarity
+,Sequencea (5' to 3'),Positionb,
+1RT,TAGGGATCTGGGCGTTTCTG,2578–2603,Antisense
+,GCAAAT,,
+1F,aatcccgggAGAAGTTTATC,1–22,Sense
+,TGTGTGAACTT,,
+1R,attgcggccgcCCACGTCGT,2532–2553,Antisense
+,TGTGCACGAAGAT,,
+2RT,TTCTGCCTACTCTGCCCCTC,5975–6000,Antisense
+,CGTTGA,,
+2F,aatcccgggTCAAGCTCAGT,1800–1821,Sense
+,GATGTTAACAT,,
+2R,attgcggccgcGATGGGTTT,5929–5950,Antisense
+,CCGAGGATGACTC,,
+3RT,ACGGTCTTTCCTTCTGCTGC,9426–9451,Antisense
+,AGGTCT,,
+3F,aatcccgggGAGGATACATT,5500–5521,Sense
+,GCTACCAAGGT,,
+3R,attgcggccgcGTAAGTCAG,9380–9401,Antisense
+,TTCAATTATGGCT,,
+4RT,AGATCCTGTGTTCTTCCTCA,10952–10977,Antisense
+,CCACCA,,
+4F,aatcccgggAGTGGAAGGCT,9200–9221,Sense
+,CAGGCGTCCAA,,
+4R,attgcggccgcAGATCCTGT,10956–10977,Antisense
+,GTTCTTCCTCACC,,
+SP6F,cataccccgcgtattcccac,,Sense
+,ta,,
+SP6R,ACAGATAAACTTCTctatag,1–14,Antisense
+,tgtcccctaaa,,
+F1F,aggggacactatagAGAAGT,1–17,Sense
+,TTATCTGTGTG,,
+F1R,TGGATCATTGCCCATGGTAA,638–662,Antisense
+,GCTTA,,
+X1F,CGAATGGATCGCACAGTGTG,8403–8427,Sense
+,GAGAG,,
+X1R,AAAGCTTCAAACTCAAGATA,9120–9148,Antisense
+,CCGTGCTCC,,
+X2F,GGAGCACGGTATCTTGAGTT,9120–9148,Sense
+,TGAAGCTTT,,
+X2R,cacgtggacgagggcatgcc,,Antisense
+,tgcag,,
+ROF,CCAGGAGGACTGGGTTACCA,10670–10694,Sense
+,AAGCC,,
+ROR,agggcggccgctctagAGAT,10954–10977,Antisense
+,CCTGTGTTCTTCCTCACCAC,,
+"aJEV sequences are shown in uppercase letters, and BAC sequences are indicated in lowercase letters.",,,
+bNucleotide position refers to the complete genome sequence of JEV SA14-14-2 (Genbank accession number JN604986).,,,

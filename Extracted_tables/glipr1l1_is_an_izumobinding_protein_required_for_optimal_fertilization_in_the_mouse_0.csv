@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6,7
+,IZUMO1 and GLIPR1L1 in complexes I and IV (Fig. 2c).,,,corresponding to the connecting piece (Fig. 4c). Follow-,,,
+"Interestingly, unique isoforms of GLIPR1L1 resolved within",,,,ing the induction of,,"the acrosome reaction, detected by",
+,Table 1 Mass spectrometry identification of proteins resolving in complex I,,,,,,
+Accession,Description,# Unique peptides,Coverage (%),# Amino acids,Molecular weight (kDa),pI,Mascot Score
+Q9D9J7,Izumo sperm-egg fusion,5,13.9,397,44.9,6.3,106
+,protein 1 (IZUMO1),,,,,,
+,,DIFNNLAR,,,,,
+,,SMVGPEDAGNYR,,,,,
+,,SEDLVLDCLLSWHR,,,,,
+,,YDVTVLPPK,,,,,
+,,SDQSLSQQMGLK,,,,,
+Q9DAG6,GLI pathogenesis-related,3,14.0,236,27.1,8.6,52
+,1-like 1 (GLIPR1L1),,,,,,
+,,FIDAFLNIHNELR,,,,,
+,,LAHNPCIK,,,,,
+,,IGCAVSNCPNLK,,,,,

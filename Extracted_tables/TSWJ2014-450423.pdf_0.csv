@@ -1,0 +1,36 @@
+0,1,2,3,4,5
+The Scientific World Journal,,,,,3
+,"Table 1: Primers sets, nucleotide sequences, amplicons, and the corresponding references that were used to screen for the viruses.",,,,
+,,"󸀠
+󸀠",,,
+Virus,Primer,"Nucleotide sequence (5
+-3
+)",Amplicon (bp),,Reference
+,PVF 1,GGCCGTTAACGATATCACTCAAGTTTC,,,
+,,,,[18],
+Parvovirus,,,561,,
+,PVR 1,AAAGCGCTTGCGGTGAAGTCTGGCGCT,,,
+,Hexon A,CAA RTT CAG RCA GAC GT,,,
+Avian adenovirus group I,,,897,,
+,,,,[17],
+,Hexon B,TAG TGA TGM CGS GAC ATC AT,,,
+,UTR 41+,ATGTCTATCGCCAGGGAAATGTC,,,
+IBV,UTR 31,GGGCGTCCAAGTGCTGTACCC,179,[6],
+,UTR 11,GCTCTAACTCTATACTAGCCTA,,,
+,CASpolIF,GAYACARBCGAATGCGRBAGRBTTG,,,
+CAstV,,,362,,
+,,,,[20],
+,CASpolIR,TCAGTGGAAGTGGGKCARBTCTAC,,,
+,S4-F13,GTGCGTGTTGGAGTTTCCCG,,,
+Reovirus,,,1120,,
+,,,,[21],
+,S4-R1133,TACGCCATCCTAGCTGGA,,,
+,F30,GTGCGGAAAGATGGAGAAC,,,
+,,,,[22],
+Rotavirus,,,630,,
+,R660,GTTGGGGTACCAGGGATTAA,,,
+,Pol 1F,GYATGGGCGCYATCYATTTGAYAAC,,,
+ANV,,,473,,
+,,,,[20],
+,Pol 1R,CRBTTTGCCCKCRBTARBTCTTTRBT,,,
+AY: pyrimidine; BR: purine; CK: G ou T.,,,,,

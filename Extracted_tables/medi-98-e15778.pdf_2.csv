@@ -1,0 +1,37 @@
+0,1,2,3,4
+The % changes were calculated as follows:,(incidence in 2017 – incidence in 2005)/incidence in 2005.,,,
+Table 3,,,,
+,"Annual percentage change in incidence of pulmonary tuberculosis in Shandong, China, 2005–2017.",,,
+,Period,Trend,APC (95% CI),P-value
+Overall PTB,2005–2008,Increase,"3.5 (0.2, 6.9)",<.05
+,2008–2013,Decrease,"–4.7 (–6.7, –2.7)",<.05
+,2013–2017,Decrease,"–7.4 (–9.6, –5.2)",<.05
+Sex,,,,
+Male,2005–2008,Stable,"3.6 (–0.3, 7.7)",.10
+,2008–2013,Decrease,"–4.3 (–6.6, –1.9)",<.05
+,2013–2017,Decrease,"–7.4 (–10.0, –4.8)",<.05
+Female,2005–2008,Stable,"3.8 (–0.0, 7.8)",.10
+,2008–2017,Decrease,"–6.4 (–7.1, –5.7)",<.05
+Age group (years),,,,
+<18,2005–2010,Decrease,"–14.2 (–19.3, –8.9)",<.05
+,2010–2017,Stable,"–0.0 (–4.5, 4.7)",1.00
+18–34,2005–2008,Increase,"8.2 (4.3, 12.2)",<.05
+,2008–2017,Decrease,"–4.6 (–5.2, –3.9)",<.05
+35–60,2005–2008,Stable,"1.5 (–2.1, 5.2)",.30
+,2008–2013,Decrease,"–4.0 (–6.2, –1.8)",<.05
+,2013–2017,Decrease,"–8.6 (–11.1, –6.1)",<.05
+>60,2005–2008,Stable,"–0.8 (–5.5, 4.2)",.70
+,2008–2017,Decrease,"–7.3 (–8.2, –6.4)",<.05
+Patients type,,,,
+Smear-positive PTB,2005–2009,Stable,"–4.2 (–9.1, 0.9)",.10
+,2009-2017,Decrease,"–18.3 (–20.6, –15.9)",<.05
+Smear-negative PTB,2005–2008,Increase,"26.2 (9.3, 45.8)",<.05
+,2008–2014,Increase,"8.2 (3.3, 13.2)",<.05
+,2014–2017,Stable,"–7.4 (–15.7, 1.8)",.10
+Treatment history,,,,
+New case,2005–2008,Stable,"3.9 (–0.3, 8.4)",.10
+,2008–2014,Decrease,"–3.9 (–5.7, –2.1)",<.05
+,2014–2017,Decrease,"–7.7 (–11.9, –3.2)",<.05
+Relapse case,2005–2010,Stable,"–3.2 (–7.1, 0.8)",.10
+,2010–2017,Decrease,"–20.3 (–23.4, –17.1)",<.05
+"APC = annual percent change, PTB = pulmonary tuberculosis.",,,,

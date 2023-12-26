@@ -1,0 +1,16 @@
+0,1,2,3,4,5
+serum. Results represent mean and S.E. (error bars) obtained from three time points.,,,,,
+TABLE 3,,,,,
+,Evaluation of kinetic binding and epitope mapping of serum antibodies from animals immunized with human IL-13,,,,
+,,,,% human IL-13,
+Sample ID,ka (1/ms),kd (1/s),Apparent KD,specific IgG,Binding epitope
+,,,pM,,
+Serum A,,,No binding observed,,None
+Serum B,,,No binding observed,,None
+Serum C,,,No binding observed,,None
+Serum D,3.47E(cid:5)6,1.88E(cid:7)4,54,(cid:2)23%,"34–38, 66–79, 101–110"
+Serum E,,,No binding observed,,None
+Serum F,1.42E(cid:5)6,1.21E(cid:7)4,85,(cid:2)12%,101–110
+Serum G,2.57E(cid:5)6,(cid:4)1.0E(cid:7)6,(cid:4)20,(cid:2)26%,"9–16, 34–38, 51–58, 66–79, 83–94, 101–110"
+Serum H,1.04E(cid:5)6,3.92E(cid:7)5,38,(cid:2)10%,"1–9, 9–16, 83–94, 101–110"
+Serum I,3.00E(cid:5)5,4.43E(cid:7)4,1480,(cid:2)66%,"9–16, 83–94, 101–110"

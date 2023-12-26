@@ -1,0 +1,24 @@
+0,1,2,3,4,5
+8,,,Evidence-Based Complementary and Alternative Medicine,,
+,,Table 5: Foundational statistics and comparisons of blood test results between test groups.,,,
+Variable,Group,Mean,Std. dev.,𝑇-value,𝑝 value
+,EAP group,–0.41,1.07,,
+White blood cell,,,,0.31,0.6225
+,Placebo group,–0.32,1.25,,
+,EAP group,–0.079,8.07,,
+Neutrophil,,,,–0.39,0.3489
+,Placebo group,–0.81,8.29,,
+,EAP group,–0.04,1.19,,
+Eosinophil,,,,–0.07,0.4717
+,Placebo group,–0.06,0.93,,
+,EAP group,–0.05,0.27,,
+Basophil,,,,–0.82,0.2086
+,Placebo group,–0.10,0.26,,
+,EAP group,–0.38,6.90,,
+Lymphocyte,,,,0.68,0.7491
+,Placebo group,0.70,"7
+.10",,
+,EAP group,0.55,2.25,,
+Monocyte,,,,–0.53,0.2973
+,Placebo group,0.2676,2.40,,
+Missing values were replaced with averages and used in the ITT group data analysis.,,,,,

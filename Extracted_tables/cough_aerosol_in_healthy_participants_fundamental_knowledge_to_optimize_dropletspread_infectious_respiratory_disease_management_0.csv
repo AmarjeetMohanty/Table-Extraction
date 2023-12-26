@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6,7
+,,,Table 5 Two-way ANOVA results after removing the,,,,
+,,“outlier”,,,,,
+,,,,N < 0.5 μm,,,
+,,Source,Sum Sq.,d.f.,Mean Sq.,F,Prob > F
+,,AGE,2.53E+15,2,1.27E+15,2.36,0.11
+,,GENDER,5.66E+14,1,5.66E+14,1.05,0.31
+,,AGE*GENDER,2.04E+15,2,1.02E+15,1.90,0.16
+,,Error,2.04E+16,38,5.37E+14,,
+Figure 2 Full,spectrum characterization of cough aerosol,,,,,,
+number versus droplets diameter per second.,,Total,2.47E+16,43,,,

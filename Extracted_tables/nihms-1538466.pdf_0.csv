@@ -1,0 +1,32 @@
+0,1,2
+REAGENT or RESOURCE,SOURCE,IDENTIFIER
+Phaser,"(McCoy et al., 2007; Winn et",http://
+,"al., 2011)",www.ccp4.ac.uk/
+,,html/phaser.html
+Refmac5,"(Adams et al., 2010)",http://
+,,www.ccp4.ac.uk/dist/
+,,html/refmac5.html
+Phenix,"(Emsley and Cowtan, 2004)",https://www.phenix-
+,,online.org/
+Coot,"(Murshudov et al., 1997)",https://www2.mrc-
+,,lmb.cam.ac.uk/
+,,personal/pemsley/
+,,coot/
+PyMOL(v1.6.0.0),"(Schrodinger, 2015)",https://pymol.org/2/
+Chimera (v13.0),"(Pettersen et al., 2004)",https://
+,,www.cgl.ucsf.edu/
+,,chimera/
+Other,,
+Ni-NTA Agarose,QIAGEN,Cat#30230
+HiTrap Q HP 5mL,GE Healthcare,Cat#17115401
+HiTrap SP HP 5mL,GE Healthcare,Cat#17115201
+HiLoad 16/600 Superdex 200 PG,GE Healthcare,Cat#28990945
+Yarra SEC-3000,Phenomenex,Cat#00F–4513–E0
+Superose6 10/300 GL,GE Healthcare,Cat#17517201
+Superdex 200 Increase 5/150 GL,GE Healthcare,Cat#28990945
+Pre-treated RC Tubing MWCO 10kD,Spectrum Labs,Cat#132120
+"Slide-A-Lyzer Dialysis Cassettes, 10K MWCO, 0.5mL",Thermo Fisher,Cat#PI66383
+Amicon Ultra-15 Centrifugal Filter Units 10kDa,Millipore Sigma,Cat#UFC901024
+Amicon Ultra-15 Centrifugal Filter Units 30kDa,Millipore Sigma,Cat#UFC903024
+NuPAGE 4–12% Bis-Tris Midi gels,Invitrogen,Cat#WG1403B0X
+Gen10 BT+ (Bis-Tris) Protein Mini Gel 4–12%,ConnSTEM,Cat#13A12

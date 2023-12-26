@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6,7,8
+,"access number in the Genbank, classification of genotype, Tm, fragment length and percentage of GC for HVR I and HVR II regions",,,,,,,
+,S1 region,,,HVR I,,,HVR II,
+Virus strain,Accession numbera),Genotypeb),Tm (°C),bp,%GC,Tm (°C),bp,%GC
+H120,M21970,Massachusetts,81.77 ± 0.06c),228,41.23,77.77 ± 0.12c),191,32.46
+H52,AF352315,Massachusetts,81.33 ± 0.06c),228,41.23,77.77 ± 0.12c),191,31.41
+Ma5,AY561713,Massachusetts,81.30 ± 0.43c),228,41.23,77.80 ± 0.14c),191,32.98
+M41,M21883,Massachusetts,81.77 ± 0.12c),228,42.54,76.16 ± 0.29d),191,30.37
+IBVSC01,GQ169246,Massachusetts,81.17 ± 0.20c),228,40.79,77.70 ± 0.00c),191,32.98
+IBVPR03,GQ169241,Massachusetts,81.33 ± 0.30c),228,41.23,77.55 ± 0.21c),191,32.46
+IBVPR07,GQ169244,Massachusetts,81.33 ± 0.28c),228,40.79,77.63 ± 0.10c),191,32.98
+Connecticut,L18990,Connecticut,80.70 ± 0.10d),216,39.35,77.70 ± 0.05c),191,31.94
+IBVSC02,GQ169247,Connecticut,80.60 ± 0.14d),216,39.35,77.70 ± 0.05c),191,31.94
+JMK,L14070,JMK,83.40 ± 0.10e),228,41.67,78.15 ± 0.07e),209,33.97
+SE 17,AF239984,SE 17,83.70 ± 0.10e),228,41.23,78.25 ± 0.21e),212,31.60
+IBVPR02,GQ169240,Brazilian Variant-B,80.30 ± 0.34d),219,37.90,77.60 ± 0.14c),212,33.49
+IBVPR05,GQ169242,Brazilian Variant-C,83.17 ± 0.12e),228,38.60,76.90 ± 0.14f),212,33.96
+"Significant differences between Tm’s values were detected by Scott-Knott test and are represented by different letters c–f), with P≤0.05. a) Genbank",,,,,,,,

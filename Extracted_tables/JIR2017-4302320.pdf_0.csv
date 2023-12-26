@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7
+,,,,,,,CD11b+
+,,,,(a),,,(b)
+,,,,,,⁎,
+,,,,,2.5,⁎,FOXO3A siRNA
+,,,,,,,1.0
+,Decitabine,,,,,NT siRNA,
+,,,,,2.0,,0.8
+Control,3,6,(days),,,,
+,,,,,1.5,,0.6
+,,,FOXO3A,"Relative of
+FOXO3A/p-FOXO3A",,,"Relative of
+FOXO3A/GAPDH"
+,,,,,1.0,,"FOXO3A
+0.4"
+,,,p-FOXO3A (Ser253),,,,
+,,,,,0.5,,0.2
+,,,,,,,GAPDH
+,,,GAPDH,,,,
+,,,,,0.0,,0.0
+,,,,,,"Con
+3 d
+6 d",

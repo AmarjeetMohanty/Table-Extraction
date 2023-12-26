@@ -1,0 +1,44 @@
+0,1,2,3
+"Table
+1.",Description and frequency of,resident-memory markers on CD8 bTRM during CNS,
+viral infections.,,,
+,,Frequency of Marker Expression on CD8 bTRM,
+TRM Marker,Function,during Brain Infection,
+,,"Acute Infections:
+Persistent Infections:",
+,,VSV: ≤90%,
+,,"MuPyV, T. Gondii: 40–60%",
+CD103,Binds to E-cadherin,LCMV: ≤60%,"[11,19,51–54]"
+,,WNV: <20%,
+,,MCMV: <40%,
+,Antagonizes S1PR1,"VSV, LCMV: >80%
+MuPyV, T. Gondii: >80%",
+CD69,,,"[19,51–53,55–57]"
+,expression,"MCMV: <60%
+HSV: <40%",
+,"Inhibitory receptor,","VSV: <1%
+MuPyV: >90%",
+PD-1,antagonizes,"MCMV: <25%
+T. Gondii: 30–50%","[11,58–61]"
+,TCR engagement,"JHMV: 20–45%
+WNV: 20–30%",
+,Lymphocyte-endothelial,,
+CD62L,,"MCMV: <5%
+MuPyV: <5%","[57,62]"
+,cell interactions,,
+,General marker,,
+Ki67,,"JHMV: <5%
+MuPyV: <20%","[19,63]"
+,of cellular proliferation,,
+,,LCMV: <60%,
+,Mediates apoptosis,,
+Granzyme-B,,"VSV: >30%
+WNV: <20%","[11,16,51,63]"
+,in target cells,,
+,,JHMV: >20%,
+,,JHMV: >30%,
+IFNγ,,MuPyV: <60%,
+,Pleiotropic cytokine,MCMV: >60%,"[16,51,57,60,64,65]"
+(after stimulation),,WNV: <10%,
+,,LCMV: >50%,
+,The frequency of CD8 bTRM expressing canonical TRM markers during diﬀerent virus infections of the brain is shown.,,

@@ -1,0 +1,57 @@
+0,1,2,3,4,5,6,7
+Table 3,continued,,,,,,
+Drug class members,,Activity against,Activity against other viruses,Clinical status,,Known safety issues,Comments
+,,coronavirusesa,,,,,
+IFN-a2b,,MERS-CoV:,,"Approved for
+treatment of melanoma",,,
+,,21.4 U/mL [80],,,,,
+,,SARS-CoV:6500-,,,,,
+,,4950 U/mL [75],,,,,
+"IFN-b1a, 1b",,MERS-CoV:,,"Approved for
+treatment of multiple",,,
+,,1.4 U/mL [80],,sclerosis,,,
+,,SARS-CoV:,,,,,
+,,95–105 U/mL,,,,,
+,,[75],,,,,
+IFN-c,,MERS-CoV:,,"Approved for
+treatment of chronic",,,
+,,56.5 U/mL [80],,granulomatous disease,,,
+,,SARS-CoV:,,,,,
+,,1700–2500 U/,,,,,
+,,mL [115],,,,,
+Kinase inhibitors,,,,,,,
+Dabrafenib,,MERS-CoV: 45%,,"Approved for
+treatment of cancers",Well,tolerated,
+,,inhibition at,,,,,
+,,10 lM [89],,,,,
+Dasatinib,,MERS-CoV:,In vitro:,"Approved for
+treatment of cancers",Well,tolerated,"ABL1 inhibitor, CAD"
+,,5.5 lM [38],,,,,
+,,,BKPyV [261]; EBOV [100]; HIV-1,,,,Immunosuppressive effects in vivo
+,,SARS-CoV:,[262]; DENV [263],,,,may preclude use as anti-infective
+,,2.1 lM [38],,,,,
+,,,In vivo:,,,,
+,,,VACV: no activity in mice [264],,,,
+Everolimus,,MERS-CoV: 56%,"DENV, CPXV, RSV, FLUAV [265]","Approved immunosuppressant
+for",Well,tolerated,"mTOR inhibitor
+[267]"
+,,inhibition at,,"cancer
+treatment and prevention of",,,
+,,10 lM [89],,organ rejection; reduced incidence of,,,
+,,,,HHV-5 in cardiac and renal transplant,,,
+,,,,patients [266],,,
+Imatinib mesylate,,MERS-CoV:,In vitro:,"Approved for
+treatment of cancers",Well,tolerated,ABL1 inhibitor
+,,17.7 lM [38],,,,,
+,,,BKPyV [261]; HHV [268]; HCV,,,,
+,,SARS-CoV:,"[149]; MPXV, VACV, VARV [264]",,,,
+,,9.8 lM [38],,,,,
+,,,In vivo:,,,,
+,,,"VACV: 100% survival
+in mice [264]",,,,
+Miltefosine,,MERS-CoV: 28%,HSV-2 [269],Antimicrobial approved for treatment of,Well,tolerated,"Akt
+inhibitor"
+,,at 10 lM [89],,"leishmaniasis;
+investigational drug for",,,
+,,,,,,,WHO list of essential medicines
+,,,,treatment of amoeba infections,,,

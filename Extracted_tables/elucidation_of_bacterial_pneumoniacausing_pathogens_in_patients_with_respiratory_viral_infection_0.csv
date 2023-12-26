@@ -1,0 +1,19 @@
+0,1,2,3,4
+,,,,Detection rate of bacterial
+,Positive on viral,Pneumonia on chest radiography,,
+,,,Pneumonia,pathogens in patients with
+Respiratory virus,polymerase chain,and/or computed tomography,,
+,,,incidence,"pneumonia (i.e., post-viral"
+,reaction,"(i.e., post-viral pneumonia)",,
+,,,,bacterial pneumonia)
+Adenovirus,313 (9.4),50 (7.1),50/313 (16.0),20/50 (40.0)
+Bocavirus,151 (4.5),39 (5.5),39/151 (25.8),10/39 (25.6)
+Coronavirus,202 (6.1),44 (6.3),44/202 (22.3),19/44 (43.2)
+Type A influenza virus,188 (5.6),59 (8.4),59/188 (31.4),25/59 (42.4)
+Type B influenza virus,80 (2.4),20 (2.8),20/80 (25.0),9/20 (45.0)
+hMPV,209 (6.3),77 (10.9),77/209 (36.4),24/77 (31.2)
+Parainfluenza virus,319 (9.6),61 (8.7),61/319 (19.1),17/61 (27.9)
+Human rhinovirus,989 (29.7),172 (24.4),172/989 (17.4),73/172 (42.4)
+RSV,877 (26.4),183 (26.0),183/877 (20.9),36/183 (19.7)
+Total,"3,328 (100)",704 (100),"704/3,328 (21.2)",233/704 (33.1)
+Values are presented as number (%).,,,,

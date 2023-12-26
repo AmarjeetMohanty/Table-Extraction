@@ -1,0 +1,11 @@
+0,1,2,3,4,5
+TABLE 1 | A summary of structurally characterized domains of SGTA/Sgt2.,,,,,
+,Protein/Species,Domain,Residues,Technique,PDB
+SGTA,Homo sapiens,,3–54,X-ray crystallography,4GOD
+,,N-terminal,,,
+,,,1–69,Solution NMR spectroscopy,4CPG
+,,TPR,80–210,X-ray crystallography,2VYI
+Sgt2,Saccharomyces cerevisiae,,1–78,Solution NMR spectroscopy,4ASV
+,,N-terminal,,,
+,,,2–72,Solution NMR spectroscopy,2LXB
+Sgt2,Aspergillus fumigatus,TPR,104–254,X-ray crystallography,3SZ7

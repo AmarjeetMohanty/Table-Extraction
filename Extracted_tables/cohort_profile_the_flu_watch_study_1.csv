@@ -1,0 +1,51 @@
+0,1,2,3,4,5
+,(< 30% missing weeks),,((cid:2) 30% missing weeks),,
+,N,%,N,%,N
+Overall,2640,87.6,372,12.4,3012
+Season,,,,,
+Nov 2006 to Mar 2007 (1),199,81.9,44,18.1,243
+Nov 2007 to Mar 2008 (2),202,65.8,105,34.2,307
+Nov 2008 to Mar 2009 (3),287,92.9,22,7.1,309
+May 2009 to Sep 2010 (4),246,74.1,86,25.9*,332
+Oct 2009 to Feb 2010 (5),1370,93.8,90,6.2,1460
+Nov 2010 to Mar 2011 (6),336,93.1,25,6.9,361
+Social class,,,,,
+Managerial and professional,712,87.6,101,12.4,813
+Intermediate occupations,362,87.9,50,12.1,412
+Small employers and own-account workers,209,85.3,36,14.7,245
+Lower supervisory and technical occupations,111,84.1,21,15.9,132
+Semi-routine and routine occupations,441,86.5,69,13.5,510
+Retired,497,94,32,6,529
+Student,109,84.5,20,15.5,129
+missing,199,82.2,43,17.8,242
+Index of Multiple Deprivation quintile,,,,,
+1 (most deprived),85,81,20,19,105
+2,255,84.7,46,15.3,301
+3,704,86.9,106,13.1,810
+4,732,89.6,85,10.4,817
+5 (least deprived),864,88.3,115,11.7,979
+Rural/urban,,,,,
+Urban > 10k,1505,86.7,230,13.3,1735
+Town and fringe,373,90.3,40,9.7,413
+"Village, hamlet and isolated dwellings",643,89.9,72,10.1,715
+Missing,119,79.9,30,20.1,149
+Household size,,,,,
+1,354,84.5,65,15.5,419
+2,1405,89.7,162,10.3,1567
+3,344,85.1,60,14.9,404
+4,407,87.3,59,12.7,466
+5,109,84.5,20,15.5,129
+6,21,77.8,6,22.2,27
+Number of children in the household,,,,,
+0,1932,89.1,236,10.9,2168
+1,247,81.8,55,18.2,302
+2,360,85.1,63,14.9,423
+3,83,86.5,13,13.5,96
+4,18,78.3,5,21.7,23
+Region,,,,,
+North,305,87.9,42,12.1,347
+West Midlands,164,84.1,31,15.9,195
+East and East Midlands,828,90.5,87,9.5,915
+London,164,84.5,30,15.5,194
+South East,314,83.5,62,16.5,376
+South West,865,87.8,120,12.2,985

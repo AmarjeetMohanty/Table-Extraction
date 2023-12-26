@@ -1,0 +1,24 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13
+Tissue,"Cell
+line",,TIBV,,,BAV,,,SWBV,,,CPV,
+origin,,,,,,,,,,,,,
+,,CPE,,WB,CPE,,WB,CPE,,WB,CPE,,WB
+Bat,B5L,No,,−,No,,−,No,,−,No,,−
+,Ro5T,Yes,,+,No,,−,No,,−,No,,−
+,Ro6E,No,,−,No,,−,Yes,,−,No,,−
+,Tb1 Lu,No,,−,No,,−,No,,−,No,,−
+,EidNi/41.3,Yes,,+,No,,−,No,,−,No,,−
+,EpoNi/22.1,No,,−,No,,−,No,,−,No,,−
+,RoNi/7.1,No,,−,No,,−,No,,−,No,,−
+,RoNi/7.2,No,,−,No,,−,No,,−,No,,−
+,HypNi/1.1,Yes,,+,No,,−,No,,−,No,,−
+,HypLu/45.1,Yes,,+,No,,−,No,,−,No,,−
+,MyDauLu/47.1,Yes,,+,No,,−,No,,−,No,,−
+Nonhuman,MA104,No,,(+),No,,−,No,,−,No,,−
+primate,,,,,,,,,,,,,
+,PRGor53,No,,+,No,,−,No,,−,No,,−
+,S008397,No,,+,No,,−,No,,−,No,,−
+,PR00226,No,,(+),No,,−,No,,−,No,,−
+Rodent,CRL,No,,−,No,,−,No,,−,No,,−
+Snake,JK,Yes,,+,No,,−,No,,−,No,,−
+"BAV, Biven Arm virus; CPE, cytopathic effects; CPV, Coastal Plains virus; SWBV, Sweetwater Branch virus; TIBV, Tibrogargan virus; WB, western blot.",,,,,,,,,,,,,

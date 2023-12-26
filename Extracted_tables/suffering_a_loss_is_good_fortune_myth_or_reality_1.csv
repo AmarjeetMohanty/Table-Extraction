@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6,7
+334,Journal of Behavioral Decision Making,,,,,,
+,Table 10. Moderating effect of age,,,,,,
+,,,SEI,,,SWB,
+Model,Predictor variables,Model 1,Model 2,Model 3,Model 1,Model 2,Model 3
+Step 1,Control variable,,,,,,
+,Gender,(cid:1)0.22***,(cid:1)0.13***,(cid:1)0.14***,0.07,0.08*,0.07
+,Education years,,,,0.19***,0.16***,0.16***
+,Working years,,,,(cid:1)0.04,(cid:1)0.11,(cid:1)0.13
+Step 2,Independent variable,,,,,,
+,Chikuia,,0.21***,0.19***,,0.25***,0.25***
+,Agea,,0.34*,0.33**,,(cid:1)0.01,(cid:1)0.02
+Step 3,Chikui × agea,,,0.12***,,,0.04
+R2,,0.05,0.23,0.24,0.05,0.11,0.11
+ΔR2,,0.05,0.18,0.01,0.05,0.06,0.00
+F,,27.55***,55.39***,44.79***,8.49***,11.82***,9.96***
+ΔF,,27.55***,66.04***,10.21***,8.49***,16.41***,0.70
+,"Note: SEI, socioeconomic index; SWB, subjective well-being.",,,,,,
+aStandardized regression coefﬁcient.,,,,,,,
+*p < 0.05.,,,,,,,
+**p < 0.01.,,,,,,,
+***p < 0.001.,,,,,,,

@@ -1,0 +1,55 @@
+0,1,2,3,4,5,6,7
+,,,Table 5. Aptamers application: in vitro therapeutic experiments and models in vivo.,,,,
+Virus,"Aptamer Name 
+Type",Target,Aptamer Application Method,Modification Enhancing Biostability,Inhibitory Effect,Kd/IC50,Refs.
+Influenza,,,BALB/c mice were intranasally,,>90% decrease in viral loads in,,
+,"A22 
+DNA",HA,,---,,n/d,[80]
+H5N1,,,inoculated with the A22 solution,,mice lungs,,
+,,,,,inhibition of viral infection in,,
+Influenza,,,MDCK-infected culture cells,,an aptamer-dose dependent,,
+,"C7-35M 
+DNA",HA,,---,,n/d,[81]
+H9N2,,,incubated with aptamer,,manner (1000 pmole inhibits the,,
+,,,,,viral infection by 55%),,
+Influenza,,,MDCK-infected culture cells,,efficient suppression of viral,,
+,"HA12-16 
+RNA",gHA1,,none,,n/d,[82]
+H3N2,,,incubated with aptamer,,infection of the cells,,
+,,,,,,Kd B40 = 21 ± 2 nM,
+,,,PBMC culture cells incubated with,,inhibition of viral infectivity,,
+,"B40, B40t77",gp120-CCR5,,2'-fluoro modification,,Kd B40t77 = 31 ± 2 nM,[79]
+,,,aptamer before infection,,(50% at 2 nM),,
+,,,,,,IC50 = 2 nM,
+,,,PBMCs and blood monocyte-derived,inverted thymidine at the 3'-end;,,,
+,,,,,inhibition of viral infectivity by,,
+,B40t77 iii_4,gp120-CCR5,macrophages (BDMs)- infected,dimethoxyltrityloxy-(CH2)6-SS-(CH2)6-,,n/d,[83]
+,,,,,85%,,
+,,,cultures incubated with aptamer,phospho linker at the 5'-end,,,
+,,,aptamer added to HIV-RT,three 5'-nt and three loop-nt,reaction rate decreased,Kd = 0.66 nM,
+,37 NT,HIV-RT,,,,,[84]
+,,,in vitro reaction,replaced by phosphothionucleosides,(100% by 50 nM of aptamer),IC50 = 2.5 nM,
+,,,293T cells transfected with plasmid,,20-fold inhibition of virus,,
+,DP6-12,Gag protein,,---,,Kd = 130 ± 9 nM,[85]
+,,,encoding aptamer,,production,,
+,Ch A-1,,,,reduction in tat/rev mRNA,,
+,,gp120 (aptamer),,,,,
+HIV-1,"RNA 
+(anti-gp120",,RAG-Hu mice were injected with the,,transcript level in,,
+,,tat/rev,,2'-fluoro modification,,n/d,[86]
+,aptamer-siRNA,,chimera solution,,mice T lymphocytes between,,
+,,(siRNA),,,,,
+,chimera),,,,75% and 90%,,
+,,gp120 (aptamer),,,,,
+,anti-gp120,,,,significant decrease in viral,,
+,,"tat/rev, CD4,",RAG-Hu mice were injected,,,,
+,aptamer- siRNA,,,2'-fluoro modification,loads level; stable level of CD4,n/d,[87]
+,,transportin-3,intravenously with chimera solution,,,,
+,chmiera,,,,T lymphocytes,,
+,,(siRNA),,,,,
+,,CD4,,,,,
+,,(aptamer),,,,,
+,,,NSG-BLT mice were administrated,,protection against HIV,,
+,CD4-AsiCs,gag/vif,,none,,n/d,[88]
+,,,intravaginaly with aptamer,,vaginal transmission,,
+,,CCR5,,,,,

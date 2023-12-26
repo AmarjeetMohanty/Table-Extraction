@@ -1,0 +1,20 @@
+0,1,2,3,4,5,6
+,,,,,,Cryptic virus from pigeonpea
+,Table 2. Percent sequence identity of dsRNA genomic segments of ArCV -1 with tripartite and bipartite cryptic viruses.,,,,,
+Cryptovirus,,,,ArCV-1,,
+,dsRNA-1,,dsRNA-2,,dsRNA-3,
+Tripartite viruses,,,,,,
+FcCV,,72.4,,39.1,,40.1
+RmCV,,71.2,,17.2,,19.9
+RoCV-1,,71.0,,40.6,,42.7
+RsCV-2,,59.0,,28.9,,26.4
+AoV,,16.9,,8.91,,9.40
+RsCV-1,,14.8,,12.6,,13.1
+BCV-2,,12.1,,8.33,,9.0
+Bipartite viruses,,,,,,
+*PerCV,,38.8,,9.6,,- -
+RsCV-3,,38.4,,9.3,,- -
+PepCV-2,,37.9,,10.6,,- -
+FCV,,35.2,,12.3,,- -
+*PerCV: Persimmon cryptic virus,,,,,,
+https://doi.org/10.1371/journal.pone.0181829.t002,,,,,,

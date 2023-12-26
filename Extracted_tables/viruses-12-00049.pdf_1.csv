@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6
+,,,Table 1. Cont.,,,
+,,Gene Functional,HT-Y2H Screening Hits,,,Validation by Gap Repair
+Gene Name,Gene ID,,,,,
+,,Classiﬁcation,,,,
+,,,Z MOPV,Z LASV,Z MOPV,Z LASV
+,,,,,+,
+EPS15L1,58513,Miscellaneous,20,0,,
+,,,,,+,+
+CCHCR1,54535,Miscellaneous,3,3,,
+,,,,,,+
+KCTD6,200845,Miscellaneous,0,3,,
+,,,,,+,+
+TSG101,7251,Membrane traﬃcking,13,36,,
+,,,,,+,+
+PDCD6IP,10015,Membrane traﬃcking,12,30,,
+,,,,,+,
+RABEP2,79874,Membrane traﬃcking,13,0,,
+,,,,,+,
+TAB2,23118,Immunity,3,0,,
+,,,,,+,+
+TLN1,7094,Cell migration,5,32,,
+,"The ﬁrst and second columns correspond to the canonical gene names and gene IDs, respectively, for the selected",,,,,

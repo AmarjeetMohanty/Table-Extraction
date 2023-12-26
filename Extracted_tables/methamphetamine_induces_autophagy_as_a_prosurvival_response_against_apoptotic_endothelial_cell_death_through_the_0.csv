@@ -1,0 +1,31 @@
+0,1,2,3,4,5
+,,,,,Vehicle
+,,,,100,
+,,,,Normalized Resistance %,METH
+120,,,,50,
+100,,,,,
+,,,Vehicle,,
+,,,,0,
+80,,,,0,"24
+50
+72"
+,,,*,,Time (Hours)
+"Cell Viability (% of Control)
+60",,,,,
+,,,METH,,
+40,,,,,HUVECs
+,,,,120,
+20,,,,,
+,,,,100,
+0,,,,,
+,,,,80,
+,24,48,72,,
+,,,,"Normalized Resistance %
+60",
+,,Time (Hours),,,
+,,,,40,
+,,,,,METH
+,,,,,Vehicle
+,,,,20,
+,,,,,METH+zVAD-fmk
+,,,,0,

@@ -1,0 +1,34 @@
+0,1,2,3,4,5
+Table 1.,Primer sets used in this study for,,"the screening of Adenoviruses, Coronaviruses, and",,
+Paramyxoviruses.,,,,,
+,,,◦,,
+Target Group,Target Region,Primer Name,"T
+C",Amplicon Size,Reference
+,,F1,,,
+,,,55,,
+,DNA polymerase gene,R1,,,
+Adenovirus,,,,205,[39]
+,(DNApol),F2,,,
+,,,55,,
+,,R2,,,
+,,CoV-Fwd1,,,
+,,,53,,
+,,CoV-Rvs2,,400,[40]
+,RNA-dependent RNA,CoV-Fwd2,50,,
+Coronavirus,polymerase gene,PLQ-F1,,,
+,,,50,,
+,(RdRp),PLQ-R1,,,
+,,,,300,[41]
+,,PLQ-F2,,,
+,,,50,,
+,,PLQ-R2,,,
+,,PAR-F1,,,
+,,,53,,
+,,PAR-R,,500,
+,RNA-dependent RNA,,,,
+,,PAR-F2,50,,
+Paramyxovirus,polymerase gene,,,,[35]
+,,RES-MOR-HEN-F1,,,
+,(RdRp),,53,,
+,,RES-MOR-HEN-R,,500,
+,,RES-MOR-HEN-F2,50,,

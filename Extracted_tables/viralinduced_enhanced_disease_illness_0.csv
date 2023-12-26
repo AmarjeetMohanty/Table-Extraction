@@ -1,0 +1,53 @@
+0,1,2,3,4,5,6,7,8
+TABLE 1 | Continued,,,,,,,,
+Virus,Enhanced illness,Host,Proposed mechanism,Source of,Challenged with,Enhancing,Type/class of,References
+,manifestations,(Human/animal,,immunity/antibodies,,epitopes,enhancing,
+,,model/in vitro),,,,location,antibodies,
+,Alveolitis-associated,Cotton Rat,Low RSV F doses lead to,Vaccination with RSV,RSV (A2 or B strains),F protein,Anti-F,Schneider-
+,histopathology,,histopathology,recombinant post-F or pre-F,,,,"Ohrum et al.,"
+Frontiers in Microbiology | www.frontiersin.org,,,independently of the,,,,,2017
+,,,presence of a Th1-biasing,,,,,
+,,,(GLA-SE) or Th2-biasing,,,,,
+,,,(Alum) adjuvant,,,,,
+,Severe perivascular and,Mice,Lack of antibody afﬁnity,Vaccination with FIRSV,RSV,F protein,Anti-F,Delgado
+,peribronchiolar- pneumonia,,maturation,,,,,"et al., 2009"
+,and osinophilc inﬁltration,,,,,,,
+Corona,Increased virus infectivity in,in vitro using,Pseudovirus-antibody,Anti-S immune serum from,SARS pseudotype,S proteins,Anti-S,"Kam et al.,"
+,"FcγRII postitive,",human B cells,complexes endocytosed via,mice and hamsters,particles,,,2007
+,ACE2-negative human B,,"FcγRII, followed by protease",vaccinated with,(SARS-CoVpp),,,
+,cells,,cleavage of S in the,recombinant native,,,,
+,,,endosome and,full-length S-protein trimer,,,,
+,,,S2-mediated membrane,(triSpike),,,,
+,,,fusion in a low pH,,,,,
+,,,endosomal compartment,,,,,
+,Enhanced infection of,in vitro using,Fcγ receptor II dependent,Immune serum from mice,SARS-CoVpp,S proteins,Anti-S IgG,"Jaume et al.,"
+,human B cell -,different immune,enhancement,vaccinated with,or,,,2011
+,Promoted infection of,cells,,whole killed SARS-CoV,Replication-,,,
+,human hematopoietic cells,,,or recombinant SARS-CoV,competent SARS,,,
+5,,,,,,,,
+,,,,Spike proteins,coronavirus,,,
+,Enhanced infection of,in vitro using,"Internalization of
+immune",Immune serum from mice,SARS-CoVpp,S proteins,Anti-S IgG,"Yip et al.,"
+,human monocyte-derived,different immune,complexes via FcγRIIs,vaccinated with,or,,,2014
+,macrophages,cells,,recombinant SARS-CoV S,Replication-,,,
+,,,,proteins,competent SARS,,,
+,,,,,coronavirus,,,
+,Enhances virus infectivity,in vitro using,Low concentration of,Anti-SARS CoV sera,SARS-CoV,S protein (amino,Anti S,"Wang et al.,"
+,and cytopathic effect of,human,anti-spike antibodies,collected from,or,acids 1–460 ),,2014
+,human promonocyte cells,promonocyte,"induced IL-6 and TNF-a,",SARS-CoV-infected patients,SARS-CoVpp,,,
+,,cells,"enhance inﬂammation, and",,,,,
+,,,caused Fcγ receptor II,,,,,
+,,,dependent enhancement,,,,,
+,"Lung eosinophil
+inﬁltration",Mice,Bias toward Th2 response,Vaccination with,SARS-CoV,NI,NI,"Tseng et al.,"
+,,,,"Whole inactivated virus, A",,,,2012
+,,,,recombinant DNA spike (S),,,,
+,,,,"protein vaccine (SV), Or",,,,
+,,,,virus-like particle (VLP),,,,
+,,,,vaccine,,,,
+,"Pneumonia,",Mice,Immune response to N,Vaccination with,SARS-CoV,N protein,Anti N,"Yasui et al.,"
+December 2018 | Volume 9 | Article 2991,neutrophils and eosinophils,,protein cause up-regulation,recombinant vaccinia virus,,,,2008
+,inﬁltration - Thickening of,,"of both Th1 (IFN-γ, IL-2) and",(VV) different combinations,,,,
+,the alveolar epithelium,,"Th2 (IL-4, IL-5) cytokines",of SARS-CoV structural,,,,
+,,,and down-regulation of,proteins,,,,
+,,,anti-inﬂammatory cytokines,,,,,

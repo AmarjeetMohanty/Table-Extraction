@@ -1,0 +1,27 @@
+0,1,2,3,4,5,6
+conditions tested.,,,,,,
+,Table 1. Stability of MERS-CoV RBD-speciﬁc Nbs against extreme conditions.,,,,,
+,,,,"ND50 (nM, Mean Value)",,
+Conditions,Treatment,,,,,
+,,Mono-Nb,Di-Nb,Tri-Nb,MERS mAb,SARS mAb
+,pH 5.0,1.94,0.21,0.03,0.53,ND
+,pH 7.0,2.00,0.21,0.03,0.57,ND
+pH,,,,,,
+,pH 8.0,1.93,0.21,0.03,0.53,ND
+,No treatment,2.00,0.23,0.03,0.56,ND
+,0 µg/mL,2.23,0.29,0.04,0.56,ND
+,25 µg/mL,2.24,0.27,0.04,1.19 **,ND
+Pepsin,,,,,,
+,625 µg/mL,2.20,0.26,0.04,1.86 **,ND
+,No treatment,2.15,0.24,0.04,0.55,ND
+,0 mM,2.27,0.25,0.04,0.56,ND
+,50 mM,2.01,0.29,0.04,0.85 **,ND
+Urea,,,,,,
+,400 mM,2.18,0.25,0.03,1.46 **,ND
+,No treatment,2.19,0.25,0.04,0.54,ND
+,4 ◦C,2.06,0.25,0.03,0.56,ND
+,37 ◦C,1.80,0.22,0.04,1.32 **,ND
+Temperature,,,,,,
+,60 ◦C,2.21,0.26,0.03,2.06 ***,ND
+,No treatment,2.17,0.26,0.04,0.58,ND
+,"Note: Nbs were tested for stability under extreme conditions, including pH, protease (pepsin), chaotropic agent",,,,,

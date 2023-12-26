@@ -1,0 +1,28 @@
+0,1,2,3
+,,,Radiology & Mortality of H7N9 Pneumonia
+Table 3. CT features in mortality and survival groups.,,,
+,All patients,Survival Group,Mortality Group
+CT features,,,
+,N = 22,N = 15,N = 7
+"Symptom onset before CT, median(IQR), days",7(3–9),7(4–9),6(4–8)
+GGO,1(5),1(7),0
+Consolidation,1(5),0,1(14)
+Both of GGO and consolidation,20(91),14(93),6(86)
+"CT score, median(IQR)",21(15–24),18(11–23),27(21–33) *
+Air bronchogram,15(68),10(67),5(71)
+Nodular opacities,2(9),2(13),0
+Lymphadenopathy,2(9),2(13),0
+Pleural effusions,12(55),8(53),4(57)
+Unilateral,6(27),4(27),2(29)
+Bilateral,6(27),4(27),2(29)
+Anatomic sides involved,,,
+Unilateral,2(9),1(7),1(14)
+Bilateral,20(91),14(93),6(86)
+Predominant distribution,,,
+Central,0,0,0
+Peripheral,1(5),1(7),0
+Both central and peripheral,21(95),14(93),7(100)
+Involved zone,,,
+Upper,18(82),12(80),6(86)
+Middle,22(100),15(100),7(100)
+Lower,22(100),15(100),7(100)

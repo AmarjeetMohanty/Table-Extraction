@@ -1,0 +1,14 @@
+0,1,2,3,4,5
+vaccination only can be tested by GLM analysis [25].,,,"random events of
+In",,transmission and recovery [46].
+,Table 1 Transmission parameter estimates and related 95% confidence intervals (CI) for each replicate and overall,,,,
+treatment groups,,,,,
+GROUP,Replicate,IP1,b2 (95%CI),R3 (95%CI),R4 (95%CI)
+NV,1,4.7,1.99 (0.97-3.59),9.35 (4-18.7),
+NV,2,4.2,4.71 (2.20-9),19.81 (8.3-41.4),10.66 (6.57-16.46)a
+NV,3,4.6,1.85 (0.91-3.29),8.51 (3.2-18.3),
+HE,1,4,0.12 (0.01-0.56),0.51 (0.02-2.26),
+HE,2,5,0.36 (0.13-0.77),1.8 (0.47-3.9),0.99 (0.39-2.09)b
+HE,3,3.5,0.09 (0.01-0.4),0.32 (0.01-3.27),
+HE,4,2.4,0.53 (0.19-1.15),1.27 (0.21-1.74),
+HO,1,0,2.2310-6 (na-0.52),0,

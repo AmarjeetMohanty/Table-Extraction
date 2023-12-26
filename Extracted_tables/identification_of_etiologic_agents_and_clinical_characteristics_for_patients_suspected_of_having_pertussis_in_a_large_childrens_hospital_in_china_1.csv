@@ -1,0 +1,22 @@
+0,1,2,3,4
+Table S1 The multi-analyte-positive samples combined with B. pertussis,,,,
+,,,,No. of multi-analyte positive
+Analyte 1,Analyte 2,Analyte 3,Analyte 4,
+,,,,samples
+B. pertussis,H/E,,,8
+,RSV,,,5
+,H/E,Para 3,,5
+,Para 3,,,3
+,RSV,H/E,,2
+,Cov-OC43,,,2
+,ADV,,,1
+,H/E,ADV,,1
+,hMPV,H/E,,1
+,Para 3,Para 4,,1
+,RSV,Para 3,,1
+,H/E,Cov-HKU1,,1
+,Cov-OC43,Para 3,,1
+,Cov-OC43,Cov-229E,,1
+,Cov-OC43,Cov-229E,Para 3,1
+,Cov- HKU1,H/E,Para 3,1
+"R/E, rhinovirus/enterovirus; RSV, respiratory syncytial virus; Para 3, parainfluenza virus type 3; Para 4, parainfluenza virus type 4; Cov-",,,,

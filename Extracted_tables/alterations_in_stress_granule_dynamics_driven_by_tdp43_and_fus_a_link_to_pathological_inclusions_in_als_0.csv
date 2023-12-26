@@ -1,0 +1,15 @@
+0,1,2,3,4,5
+,"nuclear localization signal, and nuclear export signal. Details regarding the position of domains were derived from UniProt.",,,,
+,TABLE 2 | TDP-43 localization to SGs.,,,,
+Cell type,,Stress,SG markers,TDP-43 visualization,Reference
+HEK293T,,"0.4 M sorbitol, 1 h","HuR, hnRNPA1, TIAR",Overexpression + Endogenous,"Dewey et al., 2011"
+Cortical glia,,,,,
+BE-M17,HEK293,"0.5 mM SA, 1 h","TIA-1, TIAR, PABP, eIF3",Overexpression,"Liu-Yesucevitz et al., 2010"
+,,Hanks balanced salt solution,,,
+NSC34,,"0.5 mM SA, 30 min","TIA-1, HuR",Overexpression + Endogenous,"Colombrita et al., 2009"
+,,"Heat shock, 44◦C, 30 min",,,
+,,"10 μM MG132, 4 h",,,
+SK-N-SH,,"0.5 mM SA, 30 min",TIA-1,Endogenous,"McDonald et al., 2011"
+HeLa,,"0.5 mM SA, 30 min",,,
+,,"Heat shock, 43◦C, 30 min",,,
+,,"1 μM thapsigargin, 50 min",,,

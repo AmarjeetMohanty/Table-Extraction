@@ -1,0 +1,43 @@
+0,1,2,3,4,5,6,7
+,,N-myc-amplified (N-type),,f,,Non-N-myc-amplified (S-type),
+,IMR-5,,,,,SK-N-SH,
+120,,,,,150,,
+100,,,,,,,
+80,,,,,100,,
+,,,,Uninfected,,,Uninfected
+"Viability (%)
+60",,,,,Viability (%),,
+,,,,VSV∆M51,,,VSV∆M51
+40,,,,,50,,
+20,,,,,,,
+0,,,,,0,,
+Control,IFN-β,Ext PIC,Int PIC,,Control,"Ext PIC
+IFN-β",Int PIC
+,IMR-32,,,,,SK-N-AS,
+140,,,,,120,,
+120,,,,,100,,
+100,,,,,,,
+,,,,,80,,
+80,,,,Uninfected,,,Uninfected
+Viability (%),,,,,"Viability (%)
+60",,
+60,,,,,,,
+,,,,VSV∆M51,,,VSV∆M51
+,,,,,40,,
+40,,,,,,,
+20,,,,,20,,
+0,,,,,0,,
+Control,IFN-β,Ext PIC,Int PIC,,Control,"Ext PIC
+IFN-β",Int PIC
+,LAN-1,,,,,SH-EP,
+120,,,,,120,,
+100,,,,,100,,
+80,,,,,80,,
+,,,,Uninfected,,,Uninfected
+"Viability (%)
+60",,,,,"Viability (%)
+60",,
+,,,,VSV∆M51,,,VSV∆M51
+40,,,,,40,,
+20,,,,,20,,
+0,,,,,0,,

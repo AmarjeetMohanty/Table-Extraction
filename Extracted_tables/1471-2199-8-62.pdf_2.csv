@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6
+Table 3: Comparison of M and V values generated in this study when compared to a previous study evaluating similar tissues,,,,,,
+,Current Study,,,Ayers (2006) Study [17],,
+Tissues,Reference,M (Gene,V (Pairwise,Reference,M (Gene,V (Pairwise
+,Genes,Stability) Value,Stability) Value,Genes,Stability) Value,Stability) Value
+Articular,MRPS7,0.37,0.122,RPL13A,0.57,0.31
+Cartilage,MRPS25,,,SDHA,,
+Synovium,MRPS7,0.2,0.091,N/A,N/A,N/A
+,ATIC,,,,,
+Cruciate,HIRP5,0.2,0.093,B2M,0.59,0.27
+Ligament,C7orf28B,,,TBP,,
+Fad Pad,C7orf28B,0.23,0.088,B2M,1.02,0.35
+,MRPS7,,,SDHA,,
+Bone,MRPS7,0.36,0.084,N/A,N/A,N/A
+,HIRP5,,,,,

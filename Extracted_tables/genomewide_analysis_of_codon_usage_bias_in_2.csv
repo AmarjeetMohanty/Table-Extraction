@@ -1,0 +1,21 @@
+0,1,2,3
+,Table 4. Cont.,,
+Amino Acid,Codon,Total Count,RSCU
+TER,UGA,2445,1.39
+,UAA,1271,0.74
+,UAG,1529,0.87
+Trp,UGG,"34,101",0.94
+Arg,CGU,"20,731",0.73
+,CGC,"40,880",1.55
+,CGA,"33,836",1.13
+,CGG,"23,806",0.86
+,AGA,"24,225",0.84
+,AGG,"23,489",0.89
+Gly,GGU,"35,358",0.75
+,GGC,"79,015",1.79
+,GGA,"35,677",0.78
+,GGG,"28,001",0.67
+Ser,AGU,"21,367",0.57
+,AGC,"46,172",1.32
+synonymous,codons; Total Count,"indicates
+the number of",the

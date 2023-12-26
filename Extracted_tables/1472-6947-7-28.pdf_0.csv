@@ -1,0 +1,39 @@
+0,1,2,3,4,5,6,7,8,9,10
+,"BMC Medical Informatics and Decision Making 2007, 7:28",,,,,,,http://www.biomedcentral.com/1472-6947/7/28,,
+,"60
+40",,Radiograph counts,500,,Visit counts,80,,Temperature,
+Akron,20,,,"300
+100",,,"40
+0",,,
+,0,,,,,,,,,
+,60,Jan03,Jan04,500,Jan03,Jan04,80,Jan03,Jan04,
+Columbus,"40
+20",,,"300
+100",,,"40
+0",,,
+,0,,,,,,,,,
+,60,Jan03,Jan04,500,Jan03,Jan04,80,Jan03,Jan04,
+Milwaukee,"40
+20",,,"300
+100",,,"40
+0",,,
+,0,,,,,,,,,
+,60,Jan03,Jan04,500,Jan03,Jan04,80,Jan03,Jan04,
+Chicago,"40
+20",,,"300
+100",,,"40
+0",,,
+,0,,,,,,,,,
+,60,Jan03,Jan04,500,Jan03,Jan04,80,Jan03,Jan04,
+MinnStPaul,"40
+20",,,"300
+100",,,"40
+0",,,
+,0,,,,,,,,,
+,,Jan03,Jan04,,Jan03,Jan04,,Jan03,Jan04,
+Figure 1,Time series plots,,,,,,,,,
+,"Time series plots. For each of the five metropolitan children's hospitals, plots of the daily chest radiograph counts (left), daily",,,,,,,,,
+ED visit counts (middle) and daily temperature (right). The vertical dotted line indicates the separation between the training,,,,,,,,,,
+,and test data.,,,,,,,,,
+,,,,,,,,,,Page 4 of 20
+,,,,,,,,,(page number not for citation purposes),

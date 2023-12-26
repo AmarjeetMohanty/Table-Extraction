@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+,,,,,,Mutation in DNA,,,,,,Amino acid substitution,,,,
+Region,Product,Position,OP01,IP01,IP02,IP03,IP04,IP05,IP06,OP01,IP01,IP02,IP03,IP04,IP05,IP06
+L1,Virus-associated RNA II,10815,—,—,—,—,—,Insertion of T,—,—,—,—,—,—,—,—
+L4,Hexon assembly- associated protein,24298,—,—,C →  T,C →  T,—,—,—,—,—,A →  A,A →  A,—,—,—
+E3,Non-coding region,29947,Insertion of T,,—,—,—,—,—,—,—,—,—,—,—,—
+E3,membrane protein E3 RID-alpha,29983,—,G →  A,—,—,—,—,—,—,R →  K,—,—,—,—,—
+,,30060,—,G →  A,—,—,—,—,—,—,D →  N,—,—,—,—,—
+,,30162,—,G →  A,—,—,—,—,—,—,D →  N,—,—,—,—,—
+,,30178,—,G →  A,—,—,—,—,—,—,R →  Q,—,—,—,—,—
+E4,34 kDa protein,33155,—,—,—,G →  T,—,—,—,—,—,—,P →  Q,—,—,—

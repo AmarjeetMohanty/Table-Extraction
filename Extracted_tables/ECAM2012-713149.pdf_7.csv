@@ -1,0 +1,47 @@
+0,1,2,3,4,5,6,7
+,,,,Evidence-Based Complementary and Alternative Medicine,,,
+,Shenfu injection,Control,,Risk ratio,,Risk ratio,
+"Study or subgroup
+Events",Total,"Events
+Total",Weight,"IV, ﬁxed, 95% CI",,"IV, ﬁxed, 95% CI",
+,1.2.1 heart failure not complicated by myocardial infarction,,,,,,
+Chen Z. G. 2009,30,27,1.2%,"0.9 [0.06, 13.7]",,,
+Gao Z. W. 1999,30,30,5.1%,"0.6 [0.16, 2.29]",,,
+Guo Y. F. 2009,76,76,5.3%,"0.43 [0.12, 1.6]",,,
+"1336111
+Lei W. G. 2003",42,"1575312
+41",7.5%,"1.17 [0.39, 3.54]",,,
+Liu Y. J. 2005,42,40,1.9%,"0.32 [0.03, 2.93]",,,
+Luo X. Y. 2009,50,50,1.2%,"1[0.06, 15.55]",,,
+Wang X. M. 2009,58,58,1.6%,"0.5[0.05, 5.36]",,,
+Subtotal (95% CI),328,322,23.9%,"0.68 [0.36, 1.26]",,,
+"16
+Total events",,24,,,,,
+χ2,"= 2.07, df = 6 (P = 0. 91)",,I 2 = 0%,,,,
+Heterogeneity:,,,;,,,,
+,Test for overall effect: Z = 1.23 (P = 0.22),,,,,,
+,1.2.2 heart failure complicated by myocardial infarction,,,,,,
+Guo Q. 2009,35,"35
+12",15.8%,"0.67 [0.31, 1.43]",,,
+Mo C. R. 2002,36,"38
+19",21.8%,"0.5 [0.26, 0.96]",,,
+"8989
+Zeng Y. L. 2011",54,"56
+18",16.6%,"0.46 [0.22, 0.97]",,,
+Zhang H.X. 2011,36,"38
+19",21.8%,"0.5[0.26, 0.96]",,,
+Subtotal (95% CI),161,167,76.1%,"0.52 [0.37, 0.74]",,,
+"Total events
+34",,68,,,,,
+χ2,,,";
+I 2 = 0%",,,,
+Heterogeneity:,"= 0.54, df = 3 (P = 0.91)",,,,,,
+,Test for overall eﬀect: Z = 3.67 (P = 0.0002),,,,,,
+Total (95% CI),489,489,100%,"0.56 [0.41, 0.75]",,,
+"Total events
+50",,92,,,,,
+χ2,"= 3.12, df = 10 (P = 0.98)",,,,,,
+Heterogeneity:,,,";
+I 2 = 0%",,,,
+,,,,0.01,0.1,1,10
+Test for overall eﬀect: Z = 3.81 (P = 0.0002),,,,,,,

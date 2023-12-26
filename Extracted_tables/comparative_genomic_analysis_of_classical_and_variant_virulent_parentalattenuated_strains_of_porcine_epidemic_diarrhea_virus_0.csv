@@ -1,0 +1,33 @@
+0,1,2,3,4,5,6,7,8
+Table 1.,The amino acid (aa) variation of non-structural and structural proteins during the serial,,,,,,,
+passage (The mutated amino acids are underlined).,,,,,,,,
+Gene,aa position,1,15,30,60,90,144,200
+ORF1a/b,509,P,P,P,P,P,S,S
+,1566,I,I,T,T,T,T,T
+,2436,L,L,L,L,L,L,F
+,2925,H,H,H,H,H,Y,Y
+,3505,V,V,V,V,V,E,E
+,4832,V,V,V,V,F,F,F
+,5951,A,A,A,A,A,A,P
+,6136,L,F,F,F,F,F,F
+,6137,V,S,S,S,S,S,S
+S,144,T,T,-,-,-,-,-
+,145,G,G,-,-,-,-,-
+,372,Y,Y,Y,Y,Y,Y,H
+,405,D,D,D,D,G,G,G
+,428,G,G,G,A,A,A,A
+,490,R,T,T,T,T,T,T
+,722,S,S,S,S,S,R,R
+,779,T,T,T,T,N,N,N
+,825,Q,Q,H,H,H,H,H
+,887,S,S,S,S,S,S,R
+,968,S,A,A,A,A,A,A
+,1045,H,Q,Q,Q,Q,Q,Q
+,1165,D,N,N,N,N,N,N
+,1197,H,-,-,-,-,-,-
+,1210,F,Y,Y,Y,Y,Y,Y
+,1218,S,G,G,G,G,G,G
+,1304,I,I,I,I,I,L,L
+,1354,C,C,C,C,C,F,F
+ORF3,138–141,YYDG,FMTA,FMTA,FMTA,FMTA,FMTA,FMTA
+,142–145,KSIV,NPL *,NPL *,NPL *,NPL *,NPL *,NPL *

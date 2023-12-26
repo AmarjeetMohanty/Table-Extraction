@@ -1,0 +1,21 @@
+0,1,2,3,4,5,6,7
+,,,,,,Combination Drug for,Influenza
+,Table 4. The 50% effective concentrations (EC50) and inhibitory quotients (IQ),,,,"for amantadine, ribavirin, oseltamivir carboxylate,",,
+and TCADa against,representative susceptible and resistant viruses.,,,,,,
+,,EC50,95% Confidence,EC50,95% Confidence,,
+Strain,Regimen,(mg/mL),Interval,(fold Cave)b,Interval,,IQ (Cave/EC50)
+A/New Caledonia/20/99 (H1N1),Amantadine,0.22,0.13–0.39,–,–,1.95,
+susceptible,,,,,,,
+,Ribavirin,3.1,2.1–4.5,–,–,0.42,
+,Oseltamivir carboxylate,0.20,0.14–0.28,–,–,1.50,
+,TCAD,–,–,0.058,0.045–0.074,17.24,
+A/California/10/09 (H1N1) S31N,Amantadine,20,16–24,–,–,0.02,
+amantadine-resistant,,,,,,,
+,Ribavirin,3.2,01.6–4.8,–,–,0.41,
+,Oseltamivir carboxylate,0.032,0.30–0.34,–,–,9.38,
+,TCAD,–,–,0.065,0.044–0.095,15.38,
+A/Mississippi/3/01 (H1N1) H274Y,Amantadine,0.060,0.047–0.073,–,–,7.17,
+oseltamivir-resistant,,,,,,,
+,Ribavirin,3.6,2.8–4.6,–,–,0.36,
+,Oseltamivir carboxylate,73,46–114,–,–,0.004,
+,TCAD,–,–,0.12,0.085–0.17,8.33,

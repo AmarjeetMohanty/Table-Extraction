@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6
+,Table 1. Profiles of GEO datasets passing all criteria filters.,,,,,
+Virus Type,GSE Accession,Reference,Array Platform1,Cell type2,Time (hours)2,Sample Size3
+CMV,24238,[104],HG U95 v 2.0,Monocytes,24,3/3
+,14816,[105],HG U133 A,moDC,48,3/3
+,11408,[106],HG U95 v 2.0,Monocytes,4,6/6
+,14490,N/A,Agilent G4112F,moDC,6,8/6
+,,,,,48,6/6
+CORON,1739,[107],HG Focus,PBMC,N.S.***,10/4
+,17400,[108],HG U133 Plus 2,BEC (2B4),12,3/3
+,,,,,24,3/3
+,,,,,48,3/3
+COX,697,N/A,HG U95 v 2.0,HeLa,0.5,6/3
+,,,,,3,5/3
+,,,,,9,6/3
+FLU,19580,[109],"Illumina Human Ref 8, version 3",BEC,244,3/3
+,,,,,245,3/3
+,,,,,64,3/3
+,,,,,65,3/3
+,17156,[110],HG U133 A 2.0,Whole blood,80,8/8
+,18816,[111],HG 1.0 ST,Diff. macrophage,6,3/3
+HRV,11348,[112],HG U133 Plus 2,Nasal,48,31/31
+,13396,[113],HG U133 Plus 2,BEC,16,6/6
+MPNEU,8961,[114],HG U133 Plus 2,ABEC(A549),6,3/3
+,,,,,12,3/3
+,,,,,24,3/3
+,,,,,48,3/3
+,,,,,72,3/3
+RSV,17156,[110],HG U133 A 2.0,Whole blood,141,9/9
+,6802,[115],HG U133 A 2.0,BEC (BEAS-2B),4,3/3
+,3397,[116],HG U133 Plus 2,BEC (BEAS-2B),4,4/4

@@ -1,0 +1,20 @@
+0,1,2,3,4,5,6,7,8
+,,,,,Reduction in infection probability for Charlie comparing disclosure choices of,,,
+discloses,,discloses,,,,,,
+Bob,Charlie,Alice,Charlie,Alice versus none,Bob versus none,Both versus none,Both versus Alice,Both versus Bob
+N,N,N,N,0,0,0,0,0
+Y,N,N,N,0,0,0,0,0
+N,Y,N,N,0,𝐾2,𝐾2,𝐾2,0
+Y,Y,N,N,0,𝐾4,𝐾4,𝐾4,0
+N,N,Y,N,0,0,0,0,0
+Y,N,Y,N,0,0,0,0,0
+N,Y,Y,N,0,𝐾2,𝐾2,𝐾2,0
+Y,Y,Y,N,0,𝐾4,𝐾4,𝐾4,0
+N,N,N,Y,𝐾1,0,𝐾1,0,𝐾1
+Y,N,N,Y,𝐾1,0,𝐾1,0,𝐾1
+N,Y,N,Y,𝐾1,𝐾2,𝐾2 + 𝐾1,𝐾2,𝐾1
+Y,Y,N,Y,𝐾1,𝐾4,𝐾4 + 𝐾1,𝐾4,𝐾1
+N,N,Y,Y,𝐾3,0,𝐾3,0,𝐾3
+Y,N,Y,Y,𝐾3,0,𝐾3,0,𝐾3
+N,Y,Y,Y,𝐾3,𝐾2,𝐾2 + 𝐾3,𝐾2,𝐾3
+Y,Y,Y,Y,𝐾3,𝐾4,𝐾4 + 𝐾3,𝐾4,𝐾3

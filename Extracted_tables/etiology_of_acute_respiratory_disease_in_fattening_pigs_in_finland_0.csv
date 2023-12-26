@@ -1,0 +1,35 @@
+0,1,2,3,4,5,6,7
+,Table 1 Summary of diagnostic results of 20 case herds exhibiting a respiratory outbreak and of eight control herds with no,,,,,,
+,respiratory symptoms in finishing pigs,,,,,,
+Herd,Herd,Herd,Bacteriology,APP,SIV,SIV,PCV2
+,status,classificationa,,(serology)b,(serology)b,(detection)c,(PCR)d
+1,case,CL-APP,"APP, Actinomyces sp.",Yes,Yes,No,3 (20%)
+2,case,CL-ASC,No specific bacteria,No,No,No,0
+3,case,CL-ASC,APP,Yes,No,No,0
+4,case,CL-APP,APP,Yes,No,No,0
+5,case,CL-APP,APP,Yes,No,No,0
+6,case,CL-APP,APP,Yes,No,No,0
+7,case,CL-MISC,"gram-, CAMP-, NAD dependent rod-bacterium; S.",Yes,Yes,No,0
+,,,aureus,,,,
+8,case,CL-APP,APP,Yes,No,No,2 (13%)
+9,case,CL-APP,APP,Yes,No,No,0
+10,case,CL-APP,APP,Yes,No,No,0
+11,case,CL-APP,APP,Yes,No,No,13 (67%)
+12,case,CL-ASC,No specific bacteria,Yes,No,No,4 (27%)
+13,case,CL-APP,"APP, Str. dysgalactiae subsp. equisimilis, E.coli",Yes,No,No,0
+14,case,CL-MISC,"Str. suis, Streptococcus sp.",Yes,No,No,9 (47%)
+15,case,CL-APP,"APP, P. multocida",Yes,No,No,0
+16,case,CL-APP,APP,Yes,Yes,No,0
+17,case,CL-APP,APP,Yes,No,No,0
+18,case,CL-APP,APP,Yes,No,No,2 (13%)
+19,case,CL-APP,APP,Yes,No,No,1 (7%)
+20,case,CL-MISC,"APP, P. multocida",Yes,No,No,0
+21,control,NA,NA,No,No,NA,1 (7%)
+22,control,NA,NA,Yes,No,NA,0
+23,control,NA,NA,Yes,Yes,NA,0
+24,control,NA,NA,No,No,NA,0
+25,control,NA,NA,Yes,No,NA,0
+26,control,NA,NA,Yes,No,NA,1 (7%)
+27,control,NA,NA,Yes,No,NA,0
+28,control,NA,NA,Yes,Yes,NA,0
+,"Abbreviations: CL-APP acute APP infection, CL-ASC acute Ascaris suum infection, CL-MISC acute infection of miscellaneous etiology, APP Actinobacillus",,,,,,

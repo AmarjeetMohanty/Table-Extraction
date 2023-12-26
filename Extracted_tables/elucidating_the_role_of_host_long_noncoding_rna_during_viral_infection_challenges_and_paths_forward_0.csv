@@ -1,0 +1,29 @@
+0,1,2,3,4,5,6
+,,,Table 1. LncRNAs involved in viral infection.,,,
+lncRNA,Encoding Organism,General Function,Speciﬁc Function,Infection Type,ID Method,Citation
+,,,,,1 of 83 lncRNAs proﬁled in,
+,,,"Nuclear localization,",,,
+NEAT1,Host,Scaffold,,"HIV-1, HTNV",HIV-1-infected Jurkat and,"[2,4,24]"
+,,,paraspeckle formation,,,
+,,,,,MT4 cells,
+,,,Latency via inhibition of NFAT,,1 of 90 lncRNAs proﬁled in,
+NRON,Host,Scaffold,,HIV-1,,"[25,26]"
+,,,nuclear translocation,,two human T cell lines,
+,,,IFN-gamma-mediated,Theiler’s murine,,
+,,,,,Candidate gene from,[27] and reviews
+"Tmevpg1 (NeST, IfngAS1)",Host,Epigenetics,regulation of adaptive,encephalo myelitis,,
+,,,,,Tmevp3 locus,"by [6,23]"
+,,,immunity,(TMEV),,
+,,,,,1 of 907 differentially,
+,,,Modulates transcription of,Inﬂuenza A Virus,,[28] and reviews
+NRAV,Host,Epigenetics,,,expressed lncRNAs from,
+,,,"ISGs, promotes IAV replication",(IAV),,"by [6,8]"
+,,,,,microarray analysis,
+HIV-expressed antisense,,,Epigenetic transcriptional,,,
+,Pathogen,Epigenetics,,HIV-1,qPCR,[29]
+lncRNA (ASP-L),,,regulation,,,
+,,,Required for KSHV gene,Kaposi’s,,
+,,,,,,[30] and reviews by
+PAN RNA,Pathogen,Epigenetics,"expression, repression of",Sarcoma-associated,Northern Blot,
+,,,,,,"[7,8]"
+,,,"IFN-alpha, IFN-gamma, ISGs",Herpes-virus (KSHV),,

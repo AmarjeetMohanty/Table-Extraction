@@ -1,0 +1,28 @@
+0,1,2,3,4,5,6,7,8,9,10
+"Table 4 Multivariate linear regression of scores for knowledge, attitudes and practice towards pandemic influenza A",,,,,,,,,,
+(H1N1),,,,,,,,,,
+,,,Practice Score,,,Attitudes Score,,,Knowledge Score,
+,,b,"95% CI
+for b",p-value,b,"95% CI
+for b",p-value,b,"95% CI
+for b",p-value
+Sex,Male,-2.27,-8.97 to 4.43,0.506,1.78,-4.18 to 7.73,0.558,2.42,-3.30 to 8.13,0.407
+Status,Patients,11.03,6.06 to 16.00,< 0.001,3.30,-1.11 to 7.71,0.142,0.46,-3.77 to 4.69,0.831
+,Contacts,2.85,0.14 to 5.56,0.040,0.588,-1.82 to 3.00,0.633,3.19,0.88 to 5.50,0.007
+,Healthcare Workers,3.39,0.78 to 6.00,0.011,1.17,-1.14 to 3.48,0.323,0.79,-1.43 to 3.01,0.485
+,General Servicemen*,NA,,,NA,,,NA,,
+Ethnicity,Others,-0.93,-7.02 to 5.14,0.762,3.08,-2.32 to 8.48,0.263,-3.63,-8.80 to 1.55,0.170
+,Indian,2.33,-2.09 to 6.75,0.301,0.43,-3.49 to 4.36,0.829,1.46,-2.31 to 5.23,0.447
+,Malay,6.17,3.20 to 9.13,< 0.001,3.30,0.67 to 5.92,0.014,-0.63,-3.15 to 1.89,0.626
+,Chinese*,NA,,,NA,,,NA,,
+Age,,0.25,-0.01 to 0.50,0.057,0.11,-0.11 to 0.34,0.330,0.22,-0.002 to 0.43,0.053
+Education,High School,-0.03,-2.30 to 2.25,0.982,-1.50,-3.52 to 0.52,0.146,1.73,-2.31 to 5.23,0.080
+,Degree,-5.01,-9.84 to -0.18,0.042,-3.82,-8.09 to 0.47,0.081,2.55,-3.15 to 1.89,0.223
+,Elementary/Middle School *,NA,,,NA,,,NA,,
+Housing,4 room public flat,-1.08,-3.98 to 1.83,0.467,-1.57,-4.15 to 1.01,0.232,0.70,-1.78 to 3.17,0.582
+,5 room public flat,-2.69,-5.75 to 0.37,0.084,-0.09,-2.80 to 2.63,0.951,0.50,-2.11 to 3.11,0.709
+,Private Property,-2.41,-6.07 to 1.24,0.196,-0.85,-4.10 to 2.40,0.610,1.59,-1.53 to 4.71,0.316
+,≤ 3 room public flat*,NA,,,NA,,,NA,,
+Knowledge Score,,0.30,0.22 to 0.37,< 0.001,0.21,0.14 to 0.28,< 0.001,,,
+Attitudes Score,,0.04,-0.03 to 0.11,0.280,,,,,,
+*Reference group,,,,,,,,,,

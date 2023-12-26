@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6
+,"are endemic or epidemic, compounding the public health risk.",,,,"tation with the exception of metabolic pathway data, which is",
+Table 1. PATRIC organisms,,,,,,
+Organism category,Taxonomic rank,Organisms,Complete,Approximate,Genome,Related human diseases
+,,represented,genomes,CDS count,length,
+Brucella,Genus,4,4,3150,3.3 Mb,Brucellosis
+Coxiella,Genus,4,1,2002,2.0 Mb,Q Fever
+Rickettsia,Genus,9,9,850–1550,1.2 Mb,"Typhus, Rocky mountain spotted fever"
+Caliciviridae,Family,71,70,3,7.7 kb,Food-borne gastroenteritis
+Coronavirus,Genus,184,169,7–12,29 kb,Severe acute respiratory syndrome (SARS)
+Hepatitis A virus,Species,16,15,1,7.4 kb,Hepatitis
+Hepatitis E virus,Species,48,48,3,7.2 kb,Hepatitis
+Lyssavirus,Genus,13,12,5,12 kb,Rabies

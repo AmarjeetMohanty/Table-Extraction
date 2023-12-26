@@ -1,0 +1,68 @@
+0,1,2,3,4,5,6,7,8,9
+"Theranostics 2018, Vol. 8, Issue 7",,,,,,,,,1990
+,,,,,,,,Time,
+Group/Virusa  Targetb,,AuNP systemc,,,"Assayd 
+Detection",Detection,Detection,,Ref
+,,AuNPs,,Biomolecule,limit,range,platform,(minutes),
+,,Shape,Size,,,,,,
+,,,,,,4.8x105 – 7.2x101,,,
+,,,,,,TCID50/mL,,,
+,HA antigen,Spherical,25 nm,Protein A,"Fluorometric 
+13.9 pg/mL",800 – 12.5 ng/mL,ND,ND,[63]
+,NA gene,Spherical,ND,DNA,"SERS 
+25 nM",50 – 25 nM,ND,ND,[64]
+,,Spherical,ND,DNA,"Fluorometric 
+25 nM",50 – 25 nM,ND,ND,[64]
+,M gene,Spherical,ND,Avidin,Electrochemical  577 pM,3 – 0.001 pmol,Electrodes,80-50,[70]
+,,Rod,L = <30 nm,None,"Colorimetric 
+1pg",0.1 ng – 0.01 pg,Tube,~ 60,[67]
+,,,D = <10 nm,,,,,,
+H5N1,HA gene,Spherical,32 nm,Antibody,"Colorimetric 
+40 – 0.1 ng",100 – 0.1 ng,Stripe,ND,[66]
+,,Spherical,ND,DNA,Electrochemical  0.4 pM,1.0 nM – 5.0 pM,Electrodes,20,[71]
+,,Spherical,3 nm,Daunorubici,"Scanometric 
+10 pM",10 pM – 100 nM,Chip,20,[83]
+,,,,n,,,,,
+,,Spherical,15 nm,DNA,100 fM,ND,Chip,150,[86]
+,,,,,103 TCID50,,,,
+,,Spherical,1.4 nm,None,10 pM,10 pM – 100 nM,Chip,90,[87]
+,NA gene,Spherical,15 nm,DNA,"Scanometric 
+100 fM",ND,Chip,150,[86]
+,,,,,103 TCID50,,,,
+,Particles,Spherical,22 nm,Antibody,"Fluorometric 
+0.09 ng/mL",12 – 0.27 ng/mL,Strip,30,[58]
+,,Spherical,10 nm,Pentabody,"Colorimetric 
+10 ng/mL",10‒1 – 10-4 μg/mL,Tube,35,[92]
+Papillomaviridae,,,,,,,,,
+HPV,L1 gene,Spherical,ND,Antibody,"Electrical 
+30 pM",5 nM – 100 pM,Chip,155,[89]
+,,Spherical,16 nm,DNA,"Fluorometric 
+1 fM",100 – 0.001 pM,Microbead array,155,[98]
+Picornaviridae,,,,,,,,,
+HAV,VP1gene,Spherical,14 nm,DNA,"Scanometric 
+100 fM",0.3 ‒ 0.03 nM,Chip,240,[221]
+,Vall7 gene,Spherical,13 nm,DNA,"Scanometric 
+20 fM",At 20 fM,Chip,330,[50]
+,,Spherical,13 nm,DNA,"DLS 
+20 fM",At 20 fM,Chip,330,[50]
+Retroviridae,,,,,,,,,
+HIV,p24 antigen,Spherical,15 nm,Avidin,"DLS 
+0.2 pM",31.4 pM – 1.6 fM,Chip,>170,[81]
+,,,,DNA,,,,,
+,,Spherical,15 nm,Avidin,"Scanometric 
+0.1 pg/mL",500 – 0.1 pg/mL,Microtiter plate,~360,[84]
+,,,,DNA,,,,,
+,,Spherical,20 nm,Antibody,"AFM 
+0.025 pg/mL",3500 – 50 copies/mL,Chip,<360,[95]
+,,Spherical,30 nm,Antibody/,"IPCR 
+1 pg/mL",10000 – 1 pg/mL,Microtiter plate,>125,[97]
+,,,,DNA,,,,,
+,,Spherical,30 nm,Antibody/,0.1 pg/mL,1000 – 0.1 pg/mL,Microtiter plate,>85,[97]
+,,,,DNA,,,,,
+,gag gene,Spherical,60 nm,DNA,"Colorimetric 
+~11 log10",11 – 12.5 log10 copies,Stripe,30,[91]
+,,,,,copies/mL,,,,
+,pol gene,Spherical,3 nm,DNA,Electrochemical  0.34 fM,1.0 µM – 0.1 pM,Electrodes,50,[73]
+,,Spherical,13 nm,DNA,"DLS 
+10 fM",10 nM – 1 fM,Microtiter plate,80,[90]
+a DENV: dengue virus; EBOV: Ebola virus; H1N1: influenza A virus subtype H1N1; H5N1: influenza A virus subtype H5N1; HAV: hepatitis A virus; HBV: hepatitis B virus;,,,,,,,,,

@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7,8
+Table 1. Continued,,,,,,,,10
+Structure,Virus,Strain,"Cell
+line",Assay,EC50 (mM),CC50 (mM),References,
+"20,50Di-O-trityluridine",DENV-2,New Guinea C,Vero,CPE,30a,>100a,Saudi et al.104,
+,YFV,17-D,Vero,CPE,1.2a,>100a,Saudi et al.104,
+"30,50Di-O-trityluridine",DENV-2,New Guinea C,Vero,CPE,1.75a,>10a,,
+,YFV,17-D,Vero,CPE,1a,>85a,,
+"Inhibitors of
+flaviviral methyltransferase",,,,,,,,
+GRL-002,WNV,NY99,–,N-7 methylation,33.9d,–,Chen et al.111,
+,,,,inhibition,,,,
+,WMV,NY99,–,20-O-methylation,5.5d,–,Chen et al.111,
+,,,,inhibition,,,,
+,WMV,NY99,A549,VTR,52,48,Chen et al.111,Antiviral Chemistry and Chemotherapy
+,,,,,,,(continued),

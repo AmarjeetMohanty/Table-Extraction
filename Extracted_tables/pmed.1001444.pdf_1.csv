@@ -1,0 +1,22 @@
+0,1,2,3,4,5
+,Table 6. Virology results in 202 study participants.,,,,
+,Asymptomatic,,Symptomatic,,
+,Participants (n= 112),,Participants (n= 90),,
+Virus,,,,,"p
+-Value"
+,"Ct Value, Median (IQR)",n (Percent),"Ct Value, Median (IQR)",n (Percent),
+Influenza A virus,20.1,1 (0.9),23.0 (18.0–33.8),6 (6.7),0.03
+Influenza B virus,Undetectable,0 (0.0),26.0,1 (1.1),0.26
+Human metapneumovirus,36.7–38.7,2 (1.8),24.6 (23.0–30.5),7 (7.8),0.10
+Respiratory syncytial virus A,27.9,1 (0.9),22.0 (20.0–29.6),11 (12.2),0.001
+Respiratory syncytial virus B,35.4,1 (0.9),22.0 (17.3–29.5),9 (10.0),0.003
+Parainfluenzavirus 1,36.3 (22.0–37.6),7 (6.3),25.3 (20.0–26.5),3 (3.3),0.34
+Parainfluenzavirus 2,35.8 (34.6–35.9),3 (2.7),31.1,1 (1.1),0.43
+Parainfluenzavirus 3,20.7. 35.8,2 (1.8),30.6 (25.1–39.6),3 (3.3),0.48
+Parainfluenzavirus 4,36.5 (31.9–37.4),10 (8.9),38.7,1 (1.1),0.02
+Rhinovirus,26.5 (23.1–31.1),35 (31.2),24.7 (22.3–29.4),17 (18.9),0.04
+Coronavirus 229E,Undetectable,0 (0.0),17.6,1 (1.1),0.26
+Coronavirus OC43,35.6 (28.7–37.3),5 (4.5),29.0 (24.1–32.9),5 (5.6),0.72
+Coronavirus NL63,37.5 (34.8–38.6),6 (5.4),27.5 (27.0–38.0),7 (7.8),0.49
+Bocavirus,30.9 (26.5–34.0),16 (14.3),32.0 (28.8–34.0),3 (3.3),0.008
+Adenovirus,31.9 (27.9–33.8),17 (15.2),27.0 (26.2–30.5),9 (10.0),0.28

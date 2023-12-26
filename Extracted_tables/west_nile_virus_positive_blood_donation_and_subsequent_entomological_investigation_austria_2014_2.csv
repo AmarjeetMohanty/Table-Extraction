@@ -1,0 +1,48 @@
+0,1,2,3,4,5,6
+,Table 1. Mosquitoes collected in the city of Vienna between 28 August and 10 September 2014.,,,,,
+No.,Location,Date,Species,Stage,Quantity,MEM [μl]
+1,BFH,28.08.14,Cx. pipiens,L,20,600
+2,BFH,28.08.14,Cx. pipiens,L,2,300
+3,BFH,28.08.14,Cx. pipiens,L,20,600
+4,BFH,29.08.14,Cx. pipiens,L,16,500
+5,BFH,29.08.14,Cx. pipiens,L,20,600
+6,BFH,29.08.14,Cx. pipiens,L,21,600
+7,BFH,30.08.14,Cx. pipiens,E,5,300
+8,BFH,30.08.14,Cx. pipiens,L,18,600
+9,FH Ottakring,08.09.14,Cx. pipiens (+),E,2,300
+10,FH Ottakring,08.09.14,Cx. pipiens,E,2,300
+11,FH Ottakring,08.09.14,Cx. pipiens,L,15,500
+12,FH Ottakring,08.09.14,Cx. pipiens,L,14,500
+13,FH Ottakring,08.09.14,Cx. pipiens,P,15,500
+14,FH Ottakring,08.09.14,Cx. pipiens,P,15,500
+15,FH Ottakring,08.09.14,Cx. pipiens,P,15,500
+16,FH Ottakring,08.09.14,Cx. pipiens,L,15,500
+17,FH Ottakring,08.09.14,Cx. pipiens,L,15,500
+18,FH Ottakring,08.09.14,Cx. pipiens,L,15,500
+19,FH Ottakring,08.09.14,Cx. pipiens,P,15,500
+20,FH Ottakring,08.09.14,Cx. pipiens (+),P,15,500
+21,FH Ottakring,08.09.14,Cx. pipiens,P,15,500
+22,FH Ottakring,08.09.14,Cx. pipiens,P,15,500
+23,FH Ottakring,08.09.14,Cx. pipiens,P,25,700
+24,FH Ottakring,08.09.14,Cx. pipiens,L,15,500
+25,FH Ottakring,08.09.14,Cx. pipiens,L,15,500
+26,FH Ottakring,08.09.14,Cx. pipiens,L,15,500
+27,FH Ottakring,08.09.14,Cx. pipiens,L,15,500
+28,Lainz Zoo,29.08.14,Cx. pipiens,E,2,300
+29,Lainz Zoo,30.08.14,Cx. pipiens,L,20,600
+30,Lainz Zoo,30.08.14,Cx. pipiens,L,20,600
+31,Lainz Zoo,30.08.14,Cx. pipiens,L,20,600
+32,Lainz Zoo,30.08.14,Cx. pipiens,L,20,600
+33,Lainz Zoo,30.08.14,Cx. pipiens,L,20,600
+34,Lobau Polzer,06.09.14,An. maculipennis,A,2,300
+35,Schönbrunn,02.09.14,Cx. pipiens,L,15,500
+36,Schönbrunn,02.09.14,Cx. pipiens,L,15,500
+37,Schönbrunn,02.09.14,Cx. pipiens,L,20,600
+38,Schönbrunn,02.09.14,Cx. pipiens,L,20,600
+39,Schönbrunn,02.09.14,An. maculipennis,A,4,300
+40,Schönbrunn,02.09.14,Cs. annulata,A,1,300
+41,Schönbrunn,02.09.14,Cx. pipiens,A,1,300
+42,Schönbrunn,02.09.14,An. plumbeus,A,1,300
+43,Schönbrunn,03.09.14,Cx. pipiens,A,2,300
+44,Schönbrunn,10.09.14,Cx. pipiens,A,15,500
+45,Schönbrunn,10.09.14,Cx. pipiens,A,15,500

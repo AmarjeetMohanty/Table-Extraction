@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6,7
+Table 5: The relationship between the values of VZ score and functions of predicted proteins for the bacteriophage P4,,,,,,,
+,,Genes annotated,,,,Genes predicted by ZCURVE_V,
+Start,Stop,Strand,Function,Start,Stop,Strand,VZ score
+247,648,+,Hypothetical,247,648,+,0.162
+,,,protein,,,,
+651,1718,+,Hypothetical,651,1718,+,0.111
+,,,protein,,,,
+1746,2540,-,Hypothetical,1746,2540,-,0.071
+,,,protein,,,,
+2607,3926,-,Integrase,2607,3926,-,0.345
+__,__,__,__,3954,4103,-,0.307
+4096,4431,-,Hypothetical,4096,4431,-,0.159
+,,,protein,,,,
+4636,6969,-,DNA primase,4636,6969,-,0.5000
+6984,7304,-,Hypothetical,6984,7304,-,0.434
+,,,protein,,,,
+7440,7895,-,Hypothetical,7440,7895,-,0.380
+,,,protein,,,,
+7888,8175,-,helper,7888,8256,-,0.425
+,,,derepression,,,,
+,,,protein,,,,
+8168,8584,-,Putative CI,8168,8812,-,0.377
+,,,repressor,,,,
+8764,9030,-,Transcriptional,8764,9030,-,0.408
+,,,regulator,,,,
+__,__,__,__,8991,9173,-,0.264
+9583,10317,+,Head size,9583,10317,+,0.426
+,,,determination,,,,
+,,,protein sid,,,,
+"10,314","10,814",+,Transactivation,"10,314","10,814",+,0.353
+,,,protein,,,,
+"10,888","11,460",+,Amber,"108,88","11,460",+,0.419
+,,,mutation-,,,,
+,,,suppressing,,,,
+,,,protein,,,,

@@ -1,0 +1,33 @@
+0,1,2,3,4,5,6,7
+Table 3 Analysis of tryptic digests with MALDI,,,,,-TOF/TOF-MS (MS/MS),,
+Spota,Protein name,Databaseb,MW/pI,MS/MSc,MALDI/,Scoree,Coveragef
+No,,id,kDa,,MSd,value,(%)
+1,a2 HS,gi156523970,39.3/5.43,"4/4 [57, 101, 88, 71]",7/9,294,26
+,glycoprotein,,,,,,
+2,a1-antitrypsin,gi157831596,44.3/5.37,"2/3 [58, 100]",9/13,301,47
+3,Zinc a2,gi4699583,31.6/5.70,"4/7 [57, 36, 75, 58]",6/10,577,65
+,glycoprotein,,,,,,
+4,SP40,gi338305,36.7/5.74,"4/4 [147, 65, 62]",7/12,170,43
+5,Haptoglobin,gi3337390,38.2/6.14,"3/5 [46, 117, 70]",6/12,209,31
+6,Transthyretin,gi114318993,20.2/5.16,"3/4 [102, 87, 32]",4/10,276,55
+7,Apolipoprotein AIV,gi11957960,45.2/5.28,"3/5 [61, 29, 42]",9/14,253,35
+8,Apolipoprotein A1,gi178775,28.9/5.45,"4/4 [54, 74, 57, 65]",7/16,482,73
+9,Apolipoprotein A1,gi178775,28.9/5.45,"4/5 [73, 37, 71, 61]",7/16,584,79
+10,Retinol BP 4,gi18088326,23.0/5.76,"3/4 [64, 125, 155]",6/10,472,58
+11*,Haptoglobin hp2a,gi223976,41.7/6.23,"2/3 [79, 36]",4/5,155,20
+12*,Haptoglobin hp2a,gi296653,41.5/6.25,"3/4 [92, 90, 53]",4/9,379,23
+13*,Haptoglobin hp2a,gi296653,41.5/6.25,"3/5 [42, 43, 30]",5/13,220,28
+14,Transthyretin,gi4507725,15.9/5.52,"3/4 [118, 175, 28]",5/10,476,73
+15,Transthyretin,gi4507725,15.9/5.52,"2/3 [114, 27]",3/8,216,65
+16,IG J chain,gi114319027,19.6/5.24,"3/4 [80, 43, 39]",4/4,199,25
+17,IG J chain,gi114319027,19.6/5.24,"2/3 [39, 28]",6/10,226,29
+18,Apolipoprotein CIII,gi4557323,10.8/5.23,"2/3 [105, 33]",3/3,181,34
+19,Apolipoprotein CIII,gi4557323,10.8/5.23,"2/3 [142, 58]",2/3,225,34
+20,Apolipoprotein CII,gi4557323,11.2/5.42,"2/3 [38, 24]",3/8,132,56
+21*,Haptoglobin hp1a,gi3337390,38.2/6.14,"2/4 [69, 27]",2/5,182,15
+22*,Haptoglobin hp1a,gi3337390,38.2/5.28,"2/2 [68, 59]",5/8,170,30
+23*,Haptoglobin hp1a,gi337390,38.2/5.28,"3/4 [63, 51, 53]",6/9,164,25
+24,Serum Amyloid A1,gi40316910,13.5/6.28,"3/5 [130, 110, 21]",4/7,129,63
+25,Albumin fragment,gi19626079,22.4/6.2,"3/8 [82, 85,103]",3/3,231,27
+26,Serum Amyloid A1,gi40316910,13.5/6.28,"3/3 [170, 130, 47]",6/9,181,80
+a) Spot No.,,related to the annotation in Figure 2B and 2C. Number of peaks is given as matched to the protein/total,,,,,

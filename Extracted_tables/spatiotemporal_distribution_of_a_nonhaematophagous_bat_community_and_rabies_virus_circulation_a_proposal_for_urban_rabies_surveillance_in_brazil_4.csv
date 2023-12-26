@@ -1,0 +1,43 @@
+0,1,2,3,4,5,6,7,8,9,10
+Family and,Forearm,Weight,Colony,,Reproduction,Progeny/,,,,
+speciesa,(mm),(g),size,Feeding habit,pattern,year,Artificial,Natural,Obs.,References
+Molossidae,,,,,,,,,,
+C. abrasus,40–51,36–38,7,AI,M,?,"LP, RL","PT, TH",–,"[5, 28, 50]"
+C. planirostris,29–35,11–12,4–75,GI,P,?,"BU, FE, LP, RL","CA, TH",S,"[5, 28, 50]"
+E. auripendulus,60–68,23–35,1–15,GI,P,1,RL,RC,–,"[5, 28, 53, 54]"
+E. bonariensis,37–49,7–13,10–20,GI,M,1,"BR, BU","BT, TH, PT",–,"[5, 28, 29, 50, 53]"
+E. glaucinus,56–65,30–47,9–32,AI,P,1,"BU, RL","RC, TH",H,"[5, 28, 29, 50, 53]"
+E. hansae,37–42,13–17,?,GI,?,?,–,"TH, TT",CS,"[5, 28, 50, 53]"
+E. perotis,76–83,57,1–100,GI,P,1–2,RL,"RC, TH","T, S","[5, 27–29, 50, 53]"
+"M.
+temminckii",27–33,5–7,?,GI,M,1,"FE, LP","PT, TH",–,"[5, 28, 29, 50]"
+M. molossus*,38–42,17,1–50,GI,P,1,RL,TH,S,"[5, 27, 28, 50]"
+"M.
+rufus",46–53,28–37,1–250,GI,P,1,RL,"PT, TH","CS, D","[5, 28, 50]"
+N. aurispinosus,50–52,23,1–3,GI,?,1,"AH, RL","CA, RC",–,"[5, 28, 50]"
+"N.
+laticaudatus*",42–47,10,3–3000,AI,M,1,"BU, RL","CA, RC",S,"[5, 28, 29, 50, 53]"
+N. macrotis,60–65,22–30,9,AI,M,1,BU,"RC, FO",–,"[5, 28, 29, 50, 53]"
+P. nasutus,48–50,13–14,1–12,GI,?,?,"AH, RL",–,S,"[5, 27, 28, 50]"
+T. brasiliensis*,41–45,7–12,<1 × 106,GI,M,1,"BU, RL",CA,M,"[5, 26–29, 50, 53]"
+Phyllostomidae,,,,,,,,,,
+"A.
+fimbriatus",59–71,54,1–30,"FR, GI, FL",P,?,AH,"FO, FT",TH,"[5, 27, 28, 50]"
+"A.
+lituratus*",>75,>75,4–20,"FR, AI",P,1–2,–,"FO, TT, PT","D, CS","[5, 27–29, 49, 50]"
+,,,,,,,,,(DR),
+A. obscurus,55–65,30–39,5–8,"FR, PO, NE,",P,1,–,"FT, TH",–,"[5, 27, 28, 50, 53]"
+,,,,"FL, GI",,,,,,
+A. planirostris,48–73,40–69,1–10,"FR, PO, NE, GI",P,1,BU,"CA, FT, PT,",S,"[5, 28, 50, 53]"
+,,,,,,,,TH,,
+G. soricina,32–40,7–17,1–100,"NE, PO, FL, GI",P,1–2,"AH, BR, BU, CI,","CA, RC, TH","S, CS","[5, 26–29, 49, 50,"
+,,,,,,,"MI, TU",,(DR),53]
+P. discolor,55–69,26–51,1–25,"N, GI, FR, CA",P,?,BU,"CA, TH","GF, UG","[5, 26–28, 50]"
+P. hastatus,77–94,64–112,10–100,"GI, FR, NE,",P,1,"BU, RL","CA, FO, PT,","S, CS","[5, 26–29, 49, 50]"
+,,,,"PO, CA",,,,TH,(DR),
+"P.
+lineatus",43–50,23–26,1–22,"FR, GI, NE, PO",P,?,"AH, RL","CA, PT","S, CS","[5, 28, 29, 49, 50]"
+,,,,,,,,,(DR),
+"P.
+recifinus",36–40,14–19,2–20,FR,?,?,–,"TH, FO, CA",–,"[5, 28]"
+,,,,,,,,,,(Continued )

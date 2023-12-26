@@ -1,0 +1,50 @@
+0,1,2,3,4,5,6,7,8,9
+,,Table 3. Summary of the pipeline methodologies (tx: Treatment).,,,,,,,
+A,"B
+C",E,,F,,J,,I,H
+◦,◦,,◦,,◦,,◦,◦,◦
+"Storage
+−20
+C","−20
+C
+NA",−20,C,−20,C,−20,C,"−20
+C","−20
+C"
+Enrichment prior,,,,,,,,"Centrifugation,","Homogenization,"
+None,"None
+NA",,"homogenization, centrifugation, ﬁltration, nuclease tx",,,,,,
+extraction,,,,,,,,ﬁltration,"centrifugation, DNase tx"
+,Trizol,,,,,,,,
+"DNA extraction
+Trizol LS/Phasemaker",NA,,,,,,,,easyMAG
+,LS/Phasemaker,,,QIAamp Viral RNA Mini Kit,,,,easyMAG,
+"RNA extraction
+Trizol LS/Phasemaker","Not extracted
+NA",,,,,,,,Trizol
+QuantiTect Whole,,,,,,,,,
+Enrichment after,,,,,,,,,
+"Transcriptome Kit,","None
+NA",None,,None,,None,,None,None
+extraction,,,,,,,,,
+Qiagen,,,,,,,,,
+Library preparation,,,,,,,,,
+,NA,,,,,,,,Nextera XT
+DNA,Nextera XT DNA Library v2,,NEBNext®Ultra™ II DNA Library Prep Kit,,,,,Nextera XT,
+Library preparation,,,,,,,,,
+,NA,,,,,,,,TruSeq
+RNA,,,,,,,,,
+,,,,,,,,MiSeq,HiSeq 2500 & 4000
+Sequencer,"MiSeq (2 × 150 bp)
+NA",,,NextSeq (2 × 150 bp),,,,,
+,,,,,,,,(1 × 150 bp),(2 × 100 bp)
+,,,,,,,,"PrinSeq, seqtk",
+Reads ﬁltering,adapter trimming (bbduk.sh),FastQC,,Trimmomatic,,,Trimmomatic,,Trimmo-matic
+,,,,,,,,trimfq,
+Taxonomic,k-mer +,,,,,,,,
+,k-mer,mapping,,mapping,,k-mer,,mapping,mapping
+classiﬁcation,mapping,,,,,,,,
+,,SeqMan NGen,,,,,,,
+,Kraken2 +,software v14,,,,,,"bwa mem,",
+Tool,bbmap bbsplit,,,bowtie2,,Kraken,,,SNAP
+,Bowtie2,"(DNAStar,",,,,,,blastn,
+,,Lasergene),,,,,,,

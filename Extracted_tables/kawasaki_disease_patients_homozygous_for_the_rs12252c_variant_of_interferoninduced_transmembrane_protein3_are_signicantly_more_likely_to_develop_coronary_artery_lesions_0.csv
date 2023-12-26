@@ -1,0 +1,46 @@
+0,1,2,3,4,5
+Table 2.,The C allele and CC genotype for,rs12252 (NM_021034.2:c.42T>C) are signiﬁcantly associated with the development of CAL,,,in KD
+patients.,,,,,
+,,,Contingency table,,P value
+All patients,,,,,
+Genotype,,CC,CT,TT,
+,CAL,21 (51%),13 (26%),10 (20%),0.004
+,No CAL,20 (49%),37 (74%),39 (80%),
+Allelic frequency,,C,T,,
+,CAL,55 (42%),33 (22%),,0.0004
+,No CAL,76 (58%),116 (78%),,
+Genetic model,,,,,
+Dominant,,CC + CT,TT,,
+,CAL,34 (37%),10 (20%),,0.039
+,No CAL,57 (63%),39 (80%),,
+Recessive,,CC,CT + TT,,
+,CAL,21 (51%),23 (23%),,0.001
+,No CAL,20 (49%),76 (77%),,
+Asian patients,,,,,
+Genotype,,CC,CT,TT,
+,CAL,20 (51%),12 (27%),3 (19%),0.025
+,No CAL,19 (49%),33 (77%),13 (81%),
+Allelic frequency,,C,T,,
+,CAL,52 (42%),18 (23%),,0.006
+,No CAL,71 (58%),59 (77%),,
+Genetic model,,,,,
+Dominant,,CC + CT,TT,,
+,CAL,32 (38%),3 (19%),,0.164
+,No CAL,52 (62%),13 (81%),,
+Recessive,,CC,CT + TT,,
+,CAL,20 (51%),15 (25%),,0.009
+,No CAL,19 (49%),46 (75%),,
+Caucasian patients,,,,,
+Genotype,,CC,CT,TT,
+,CAL,0 (0%),1 (20%),7 (23%),1.000
+,No CAL,1 (100%),4 (80%),24 (77%),
+Allelic frequency,,C,T,,
+,CAL,1 (14%),15 (22%),,1.000
+,No CAL,6 (86%),52 (78%),,
+Genetic model,,,,,
+Dominant,,CC + CT,TT,,
+,CAL,1 (17%),7 (23%),,1.000
+,No CAL,5 (83%),24 (77%),,
+Recessive,,CC,CT + TT,,
+,CAL,0 (0%),8 (22%),,1.000
+,No CAL,1 (100%),28 (78%),,

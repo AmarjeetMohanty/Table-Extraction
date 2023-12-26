@@ -1,0 +1,26 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+Table 1b,,,,,,,,,,,,,,
+,BRSV Ag,,BRSV-IgM,,BRSV-IgA,,BRSV-IgG1,,,BRSV-IgG2,,,BRSV-SNT,
+Calf #,26 Jan,26 Jan,18 Feb,26 Jan,18 Feb,26 Jan,18 Feb,Rise,26 Jan,18 Feb,Rise,26 Jan,18 Feb,Rise
+1064/5,0,0,0,*,40,*≥1280 10240,,NA,*,5120,NA,64,2048,YES
+2535/5,0,0,Dead,80,Dead,2560,Dead,NA,80,Dead,NA,2048,Dead,NA
+2537/5,0,0,0,0,0,320,320,NO,0,320,YES,128,256,NO
+642/5,0,0,Dead,0,Dead,1280,Dead,NA,0,Dead,NA,64,Dead,NA
+829/5,0,640,0,80,20,640,160,NO,20,160,YES,64,32,NO
+1057,0,0,0,0,0,1280,2560,NO,0,640,YES,256,128,NO
+821,0,0,Dead,80,Dead,1280,Dead,NA,20,Dead,NA,2048,Dead,NA
+799,0,0,Dead,0,Dead,320,Dead,NA,0,Dead,NA,64,Dead,NA
+795,0,320,Dead,80,Dead,5120,Dead,NA,0,Dead,NA,1024,Dead,NA
+1317,0,0,0,0,20,640,2560,YES,20,160,YES,8,148,YES
+,BCV Ag,,BCV Ab,,PI-3 Ag,,PI-3 Ab,,,,,,,
+Calf #,26 jan,26 Jan,18 Feb,Rise,26 Jan,26 Jan,18 Feb,Rise,,,,,,
+1064/5,0,*,≥25600,NA,0,*,0,NA,,,,,,
+2535/5,0,6400,Dead,NA,0,0,Dead,NA,,,,,,
+2537/5,0,3200,12800,YES,0,0,0,NO,,,,,,
+642/5,0,800,Dead,NA,0,0,Dead,NA,,,,,,
+829/5,0,800,≥25600,YES,0,0,8,YES,,,,,,
+1057,0,1600,≥25600,YES,0,0,0,NO,,,,,,
+821,0,6400,Dead,NA,0,16,Dead,NA,,,,,,
+799,0,3200,Dead,NA,0,0,Dead,NA,,,,,,
+795,0,3200,Dead,NA,0,8,Dead,NA,,,,,,
+1317,0,12800,12800,NO,0,8,0,NO,,,,,,

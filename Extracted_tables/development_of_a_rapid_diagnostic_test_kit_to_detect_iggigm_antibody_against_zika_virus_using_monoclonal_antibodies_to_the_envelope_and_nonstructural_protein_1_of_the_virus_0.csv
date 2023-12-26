@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6,7,8,9,10
+Table 2. Comparison test of Zika IgG/IgM RDT kit using 30 Zika positive sera,,,,,,,,,,
+,,,ELISA,,,,PRNT,,,Zika IgG/IgM RDT
+Panel no.,,,,,,,,PCR,,
+,IgG,s/COa,,IgM,s/CO,Titer,PRNT50/ml,,IgG,IgM
+ZV31001,Pos,15.13,,Neg,0.61,Pos,"> 2,000",Neg,Pos,Neg
+ZV31202,Pos,10.25,,Neg,0.73,Pos,"> 2,000",Pos,Pos,Neg
+ZV31803,Pos,11.63,,Neg,0.61,Pos,"2,000",Pos,Pos,Neg
+ZV32104,Pos,7.75,,Pos,3.41,Pos,"> 2,000",Pos,Pos,Weak Pos
+ZV32405,Pos,16.25,,Neg,0.98,Pos,500,Pos,Pos,Neg
+ZV32506,Pos,17.75,,Neg,0.73,Pos,"1,000",Pos,Pos,Neg
+ZV32907,Pos,15.25,,Neg,0.61,Pos,"2,000",Pos,Pos,Neg
+ZV12908,Pos,10.25,,Pos,8.29,Pos,"> 2,000",Pos,Pos,Pos
+ZV20309,Pos,12.38,,Neg,0.85,Pos,"2,000",Neg,Pos,Neg
+ZV20710,Pos,10.63,,Neg,0.37,Pos,500,Neg,Pos,Neg
+ZV20811,Pos,2.88,,Neg,0.49,Pos,200,Neg,Pos,Neg
+ZV18912,Pos,4.13,,Pos,10.73,Pos,"> 2,000",Pos,Pos,Pos
+ZV12013,Neg,1,,Pos,10.85,Pos,100,Pos,Neg,Pos
+ZV21114,Pos,15.38,,Neg,0.98,Pos,"2,000",Neg,Pos,Neg
+ZV21315,Pos,8.25,,Neg,0.61,Pos,200,Neg,Pos,Neg
+ZV21516,Pos,6.75,,Pos,4.02,Pos,500,Neg,Pos,Weak Pos
+ZV14517,Pos,2.25,,Pos,14.88,Pos,"> 2,000",Pos,Weak Pos,Pos
+ZV83318,Pos,2.88,,Pos,11.59,Pos,"> 2,000",Pos,Weak Pos,Pos
+ZV21019,Pos,11.88,,Pos,10.49,Pos,"> 2,000",Pos,Pos,Pos
+ZV21620,Neg,17.75,,Pos,9.15,Pos,"1,000",Pos,Neg,Pos
+ZV25421,Neg,19.5,,Pos,7.2,Pos,"2,000",Pos,Neg,Pos
+ZV26322,Pos,3,,Pos,11.83,Pos,"1,000",Pos,Weak Pos,Pos
+ZV29023,Pos,2.63,,Pos,6.59,Pos,200,Pos,Pos,Pos
+ZV25024,Pos,7.25,,Neg,0.73,Pos,500,Neg,Pos,Neg
+ZV26725,Pos,11.88,,Neg,0.73,Pos,"1,000",Neg,Pos,Neg
+ZV27226,Pos,4,,Neg,0.49,Pos,Not cal.,Neg,Pos,Neg
+ZV27327,Pos,5.75,,Neg,0.37,Pos,200,Neg,Pos,Neg
+ZV28528,Pos,8.25,,Neg,0.85,Pos,100,Neg,Pos,Neg
+ZV29129,Pos,9.38,,Neg,0.73,Pos,500,Neg,Pos,Neg
+ZV29230,Pos,15,,Neg,0.49,Pos,"1,000",Neg,Pos,Neg
+as/CO: signal per cut-off value.,,,,,,,,,,

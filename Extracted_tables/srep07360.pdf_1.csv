@@ -1,0 +1,16 @@
+0,1,2,3,4,5
+,Table 2 | Evaluation of the avidity effects on increased peptide density surfaces,,,,
+mAb,Peptide Density*,Data,Kon (1/Ms),Koff (1/s),KD (M)
+16D7,5 RU,Mean,6.81E105,4.71E-05,7.02E-11
+,,CV (%),5.14E-02,5.77E-01,6.15E-01
+,20 RU,Mean,8.32E105,2.70E-05,3.25E-11
+,,CV (%),3.26E-03,3.92E-01,3.93E-01
+,100 RU,Mean,1.01E106,9.85E-08,9.74E-14
+,,CV (%),1.13E-02,9.27E-01,9.33E-01
+MAB190,5 RU,Mean,4.33E106,7.11E-04,1.64E-10
+,,CV (%),7.72E-02,9.39E-02,2.64E-02
+,20 RU,Mean,7.65E106,5.11E-04,6.68E-11
+,,CV (%),2.33E-02,2.80E-02,4.93E-02
+,100 RU,Mean,6.50E106,2.56E-04,3.94E-11
+,,CV (%),2.10E-02,2.27E-02,4.15E-02
+"*5, 20 and 100 RU equivalent",,"to 0.78, 3.1 and 15.6 fM/mm2 of the peptide molecules, respectively.",,,

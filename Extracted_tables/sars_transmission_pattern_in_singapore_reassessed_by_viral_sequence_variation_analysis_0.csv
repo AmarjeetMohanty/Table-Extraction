@@ -1,0 +1,21 @@
+0,1,2,3,4,5,6,7,8,9,10
+Table 3. Comparison of Paired Direct Tissue Samples and Vero Cell Cultured Isolates of SARS-CoV,,,,,,,,,,
+SNV Category,SNV Position,Urbani,Sin842,,Sin849,,Sin852,,Sin848,
+,,Vero,Vero,Tissue,Vero,Tissue,Vero,Tissue,Vero,Tissue
+Isolated/shared,"19,084",C,C,C,C,C,C,C,C,C
+,"23,174",C,T,T,T,T,T,T,T,T
+,"28,268",C,C,C,C,C,C,C,C,C
+,"23,735",A,G,G,G,G,G,G,G,G
+,"28,008",C,C,C,T,T,T,T,T,T
+,548,T,T,T,T,T/C,C,C,C,C
+,"1,727",T,T,T,T,T/C,C,C,C,C
+,"13,347",C,C,C,C,T/C,T,T,T,T
+Isolate-specific,"3,421",C,T,T,C,C,C,C,C,C
+,"14,807",C,C,C,C,C,C,C,T,C
+,"19,241",T,T,T,T,T,C,T/C,T,T/C
+,"23,279",T,T,T,T,T,C,T/C,T,T
+,"23,792",C,C,C,C,C,C,C,C,C
+,"26,205",C,C,C,C,C,C,C,T,C
+,"26,428",G,G,G,G,G,G,G,G,G
+,"26,509",T,T,T,T,T,T,T,C,T
+,"27,111",A,A,A,A,A,A,A,A,A

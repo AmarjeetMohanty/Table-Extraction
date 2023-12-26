@@ -1,0 +1,27 @@
+0,1,2,3,4,5,6
+Table 6,,,,,,
+FT- IR analysis of acetone extracts from P.,,,tomentosa and T. asiatica.,,,
+S.,"P.
+tomentosa",,,T. asiatica,,
+No,,,,,,
+,Peak value,Functional group,Bonding pattern,Peak value,Functional group,Bonding pattern
+1,3402.11,Carboxylic acids,O–H str,3918.52,Amines (RR’N–H),N–H str
+2,2926.48,Alkanes and Alkyls,C–H Str,3406.93,Amines (R–NH2),N–H Symmetric &Asym. (twobands)
+3,1736.84,Esters,C¼O Str,3284.99,Amides (R–C(O)–NH2),N–H Symmetric &Asym. Str
+4,1689.25,Carboxylic acids,O–H str,3345.49,Alcohols (C¼C–CH2–OH),O–H str
+5,1569.45,Aromatic compounds,C¼C str,3095.75,Alkenes,¼C–H str
+6,1463.16,Alkanes and Alkyls,C–H b,2981.55,Alkanes and Alkyls,C–H str
+7,1377.34,Alkanes and Alkyls,CH3 C–H b,2717.27,Aldehydes (R–CH ¼ O),H–C¼O str
+8,1342.12,Alkyl halides,C–F str,2612.30,Carboxylic Acids (R–C(O)–OH),O–H str
+9,1297.25,Esters (Aromatic),O¼C–O–C str,1806.01,Acylchlorides (R–C(O)–Cl),C¼O str
+10,1160.26,Esters (Aliphatic),O¼C–O–C str,1768.45,Esters (R–C(O)–O-Ar),C¼O str
+11,1080.51,Alcohols,C–O str,1450.66,Aromatic compounds (two or Four bands),Ring C¼C str
+12,1027.72,Ethers,¼C–O–C sym & Asym. Str,1344.35,Alkyl halides,C–F str
+13,926.26,Alkenes,¼C–H b,1231.33,Ethers,¼C–O–C sym & Asym. str
+14,777.64,Alkyl halides,C–Cl str,1153.65,Alkyl halides,C–F str
+15,720.09,Monosubstitutes,C–H b,1078.18,Alcohols,C–O str
+16,621.23,Alkynes,¼C–H b,803.14,Alkenes (RCH ¼ CR’R”),¼C–H b
+17,571.51,Alkyl halides,C–Br str,743.49,Aromatic Compounds,C–H b
+18,486.15,Alkyl halides,C–I str,686.46,Alkenes Cis-RCH ¼ CHR0,¼C–H b
+,,,,632.46,Alkyl halides (R–Br),C–Br str
+"str- Stretch, b- Bend.",,,,,,

@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6,7,8,9
+CV777 maintained in National Institute of Animal Health and reference CV777 (GenBank accession,,,,,,,,,
+number AF353511).,,,,,,,,,
+,Position of Nucleotides,Nucleotide in,,Amino Acid in,,Nucleotide in,,,Amino Acid in
+Region,,,,,,,,,
+,in Reference CV777,Reference CV777,,Reference CV777,,CV777-Niah,,,CV777-Niah
+5’-UTR,72,a,,,,Deletion,,,
+5’-UTR,82–85,tcct,,,,Deletion,,,
+ORF1a/1b,1667,t,,A,,c,,,A
+ORF1a/1b,6052,t,,V,,c,,,A
+ORF1a/1b,6593,c,,H,,t,,,H
+ORF1a/1b,6630,t,,F,,c,,,L
+ORF1a/1b,"10,542",g,,V,,a,,,I
+ORF1a/1b,"11,887",g,,G,,a,,,D
+ORF1a/1b,"12,257",t,,D,,c,,,D
+Spike,"22,145",c,,S,,t,,,L
+Spike,"23,323",g,,D,,a,,,N
+Spike,"24,461",a,,N,,c,,,T
+Spike/ORF3,"24,765–24,816",*,,,,Deletion,,,
+Nucleocapsid,"26,940",c,,N,,t,,,N
+"Gray
+shadows",represent,non-synonymous,substitutions,by,comparison,,of,amino,acids

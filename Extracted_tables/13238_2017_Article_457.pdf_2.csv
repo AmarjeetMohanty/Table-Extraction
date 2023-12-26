@@ -1,0 +1,42 @@
+0,1,2,3,4,5,6
+Table 1 continued,,,,,,
+US trade name (Generic,Company,Approval date,"Molecular
+target***","Major
+indication",Protein format,Source of variable
+name),,(US)**,,(s),,sequences**
+35. Benlysta®,GSK/HGS,03/09/11,TNFSF13B (soluble,SLE,Human IgG 1,Human antibody
+(Belimumab),,,BLyS),,,phage library
+36. Yervoy® (Ipilimumab),Medarex/BMS,03/25/11,CTLA4,Melanoma,Human IgG1,HuMAb TG mouse
+37. Nuloji® (Belatacept),BMS,06/16/11,CD80/CD86,OTR,CTLA-4 Fc fusion,Fc fusion
+38. ADCETRIS®,Seattle Genetics/,08/19/11,TNFRSF8 (CD30),Hodgkin’s,Chimeric IgG1 ADC****,Mouse hybridoma
+(Brentuximab vedotin),Takeda/Millenium,,,lymphoma,,
+39a. EYLEA®,Bayer-Schering/,11/18/11,VEGFA,Wet AMD,VEGF-R-Fc fusion,Fc fusion
+(aﬂibercept),Regeneron,,,,,
+40. POTELIGEO®,Kyowa Hakko Kirin,Japan only,CCR4,ATL,Humanized IgG1-,Mouse hybridoma
+(Mogamulizumab),,03/30/12,,,Afucosylated glycan,
+41. Perjeta®,Genentech,06/08/12,ERBB2 (HER2),Breast cancer,Humanized IgG1,Mouse hybridoma
+(Pertuzumab),,,,,,
+(39b). ZALTRAP® (ziv-,Sanoﬁ/Regeneron,08/03/12,VEGFA,MCRC,VEGFR-Fc fusion protein,Fc fusion
+aﬂibercept),,,,,Trap,
+42. Abthrax®,GSK; Human,12/14/12,Bacillus anthracis PA,Anthrax,Human IgG1,Human antibody
+(Raxibacumab),Genome Sciences,,toxin,biodefense,,phage library
+43. Kadcyla®,Roche/Genentech,02/23/13,ERBB2 (HER2),Breast cancer,Humanized IgG ADC****,Mouse hybridoma
+(trastuzumab,,,,,,
+emtansine),,,,,,
+44. Gazyva®,Roche/Genentech/,11/01/13,MS4A1 (CD20),CLL,Humanized IgG1-low,Mouse hybridoma
+(obinutuzumab),Biogen,,,,fucose,
+45. Alprolix®,Biogen-IDEC/,03/28/14,Factor substitute,Hemophilia B,"Monomeric Factor
+IX Fc",Fc fusion
+(Eftrenonacog alfa),Biovitrum,,,,usion protein,
+46. Cyramza®,Lilly/Dyax,04/22/14,KDR (VEGFR-2),Gastric cancer,Human IgG1,Human antibody
+(Ramucirumab),,,,,,phage library
+47. Sylvant® (Siltuximab),Janssen R&D/J&J,04/23/14,IL6,MCD,Chimeric IgG1,Mouse hybridoma
+48. Entyvio®,Takeda/Millenium,05/20/14,ITGA4/ITGB7 (α4β7,CRD,Humanized IgG1,Mouse hybridoma
+(vedolizumab),,,integrin),,,
+49. Eloctate®,Biogen Idec/SOBI,06/06/14,Factor substitute,Hemophilia A,Monomeric Fc domain-,Fc fusion
+(Efmoroctocog alfa),,,,,"deleted F-VIII
+fusion",
+50. Keytruda®,Merck,09/04/14,PDCD1 (PD-1),Melanoma,Humanized IgG4,Mouse hybridoma
+(pembrolizumab),,,,,,
+51. Trulicity®,Eli Lilly,09/18/14,GLP1R (agonist),Type 2 diabetes,GLP-1 – Fc fusion,Fc fusion
+(dulaglutide),,,,,,

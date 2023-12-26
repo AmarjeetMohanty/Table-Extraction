@@ -1,0 +1,32 @@
+0,1,2,3,4,5,6
+Table 3: Associations Between Acute Environmental Exposures and Invasive Pneumococcal Disease by Case-Crossover Analysis.,,,,,,
+,,Incubation Period,,,Prior to Incubation Period,
+,,(1-3 Days Prior to Case Occurrence),,,(4-6 Days Prior to Case Occurrence),
+Exposure,OR,(95% CI),P,OR,(95% CI),P
+Meteorological,,,,,,
+Cooling Degree-,0.878,0.624-1.236,0.456,0.926,0.676-1.270,0.635
+Days (°C),,,,,,
+Maximum,1.036,0.855-1.256,0.717,0.997,0.822-1.209,0.974
+Temperature,,,,,,
+(°C),,,,,,
+Minimum,0.994,0.820-1.204,0.948,1.039,0.858-1.258,0.694
+Temperature,,,,,,
+(°C),,,,,,
+Atmospheric,1.026,0.848-1.241,0.794,1.013,0.834-1.230,0.895
+Pressure (kPa),,,,,,
+Precipitation,0.954,0.783-1.162,0.6400,0.897,0.731-1.101,0.300
+(mm),,,,,,
+Relative,1.038,0.844-1.275,0.725,0.989,0.804-1.217,0.916
+Humidity (%),,,,,,
+UV Index,1.148,0.944-1.396,0.168,1.061,0.874-1.289,0.548
+Average Wind,0.900,0.737-1.098,0.298,1.045,0.851-1.283,0.6739
+Speed (km/h),,,,,,
+Air Quality,,,,,,
+Sulphur Oxides,0.747,0.603-0.925,0.007,1.425,0.952-1.425,0.138
+(ppm),,,,,,
+Oxides of,0.918,0.735-1.147,0.452,1.144,0.930-1.406,0.203
+Nitrogen (ppm),,,,,,
+Carbon,0.925,0.751-1.139,0.461,0.996,0.809-1.227,0.971
+Monoxide (ppm),,,,,,
+PM10 (μg/m3),0.215,0.732-3.999,0.215,1.199,0.523-2.750,0.668
+Ozone (ppm),1.018,0.830-1.249,0.861,0.904,0.730-1.118,0.351

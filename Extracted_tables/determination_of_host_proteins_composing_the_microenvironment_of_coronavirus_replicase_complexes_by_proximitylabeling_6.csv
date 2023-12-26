@@ -1,0 +1,72 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+,,,,Gaussia luciferase activity,,,,,,,,,,
+,,,,,,,(fold change),,,,,,,
+c,,,,,,,,,,,d,,,
+,1.5,,,,,,,,,,,1.5,,
+,,,****,,,**,*,,,,**** ***,,"****
+*","****
+**** ***"
+Gaussia luciferase activity,"(fold change)
+1.0",,,,,,,,,,"viral mRNA
+(fold change)",1.0,,
+,0.5,,,,,,,,,,,0.5,,
+,0.0,,,,,,,,,,,0.0,,
+,,,,,,,,,eIF5,"Efl1
+Tars",ble,,,"ble
+Efl1
+Tars
+eIF5
+Larp"
+,,,eIF3i,eIF3f,eIF3e,,eIF4b,,eIF2a,"Larp
+A go2","G bf1
+Nck1",,"eIF3i
+eIF3f
+eIF3e","G bf1
+Nck1
+A go2
+eIF2a
+eIF4b
+Gspt1"
+,,R pl13a,,,,eIF4g1,Rrb p1,eIF4g2,Gcn1l1,"Gspt1
+D dx3y
+eIF4g3
+Tnrc6b",eIF2b3,R pl13a,eIF4g1,"Rrb p1
+D dx3y
+eIF4g2
+eIF4g3
+eIF2b3
+Tnrc6b
+Gcn1l1"
+,,,,,Rsl24d1,,,"eIF2ak2
+Igf2b p1",,,,,Rsl24d1,"eIF2ak2
+Igf2b p1
+Ceaca m 1"
+,,,,,,,,,,Fa m 129a,"Ceaca m 1
+Scra m",,,"Fa m 129a
+Scra m"
+e,,,,,,,,,,,f,,,
+,,,,,,,,,,*,,1.5,,
+,,***,***,**,***,**,*,**,*,,,,,
+,5,,,,,,,,,,,,,
+,,,,,,,,,,,,,**,*
+,,,,,,,,,,,chan ge),1.0,,
+,"viral titer 
+(log10 pfu/ml)
+4",,,,,,,,,,total translation,,,
+,,,,,,,,,,,(fold,0.5,,
+,3,,,,,,,,,,,0.0,,
+,,,,,,,,,eIF5,"Efl1
+Tars",ble,ble,etin,
+,,,eIF3i,eIF3f,eIF3e,,eIF4b,,,"Larp
+A go2
+eIF2a
+Gspt1","G bf1
+Nck1",,eIF 3i,eIF 3f
+,,R pl13a,,,,eIF4g1,Rrb p1,eIF4g2,Gcn1l1,"D dx3y
+eIF4g3
+Tnrc6b",eIF2b3,,eIF 3e,eIF 4g 1
+,,,,,Rsl24d1,,,"eIF2ak2
+Igf2b p1",,,,,,eIF 4 g 2
+,,,,,,,,,,,"Ceaca m 1
+Fa m 129a",,m,"eIF 2ak3
+R sl24 d 1"

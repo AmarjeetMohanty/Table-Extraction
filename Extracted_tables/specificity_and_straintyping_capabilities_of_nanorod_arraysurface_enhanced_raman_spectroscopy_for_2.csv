@@ -1,0 +1,27 @@
+0,1,2,3,4
+,,,,Mycoplasma Detection by NA-SERS
+Table 4. Cross-validated PLS-DA modeling statistics for the prediction performance for NA-SERS typing of individual type 2V M. pneumoniae clin-,,,,
+ical isolates.,,,,
+Isolate,P1 Type,CV Sensitivity,CV Speciﬁcity,CV Class Error
+1: M129,1,1,0.971,0.01
+2: FH,2,0.8,0.943,0.13
+3: WI11,2V,1,0.98,0.01
+1: M129,1,1,1,0
+2: FH,2,0.88,0.943,0.08
+3: WI17,2V,1,0.98,0.01
+1: M129,1,1,0.971,0.01
+2: FH,2,0.84,1,0.08
+3: CO12,2V,1,1,0
+1: M129,1,1,1,0
+2: FH,2,0.92,0.971,0.05
+3: CO44,2V,1,0.98,0.01
+1: M129,1,1,1,0
+2: FH,2,1,0.943,0.03
+3: SA18,2V,1,1,0
+1: M129,1,1,1,0
+2: FH,2,0.96,1,0.02
+3: GA3,2V,1,1,0
+,Three categories were incorporated to cross-validate the model: either type 1;,,type 2; or neither. Clinical,isolates were treated as an unknown class and
+,"cross-validated sensitivity, speciﬁcity, and class error were based on their classiﬁcation prediction score as neither type 1 or type 2 reference control",,,
+strains (i.e. category 3).,,,,
+doi:10.1371/journal.pone.0131831.t004,,,,

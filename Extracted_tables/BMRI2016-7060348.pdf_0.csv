@@ -1,0 +1,25 @@
+0,1,2,3
+2,,,BioMed Research International
+,"Table 1: Comparison of Vector Quantization, Gaussian Mixture Model, and our pseudoatomic model.",,
+,Vector Quantization,Gaussian Mixture Model,Our pseudoatomic model
+,,,3D radial basis function (isotropic
+Grain,3D point (codebook vector),3D Gaussian distribution function,
+,,,Gaussian distribution function)
+Grain geometry,Spherical,Ellipsoidal,Spherical
+,,Maximum likelihood method using,Iterative adding and removing of
+Algorithm,Self-organizing map (SOM),the expectation maximization,pseudoatoms and gradient descent
+,,algorithm,refinement
+,Minimize the mean-square,,
+,,,Find the model with the minimum
+,deviation of the codebook,Find the model with the maximum,
+Goal of algorithm,,,number of grains for the given error of
+,vectors from the corresponding,likelihood function,
+,,,density approximation
+,3D data,,
+Number of grains,Fixed,Fixed,Adjustable
+Grain weight,Adjustable,Adjustable,Adjustable
+Grain position,Adjustable,Adjustable,Adjustable
+Grain size,Adjustable,Adjustable,Fixed
+Application of elastic,,,
+,Easy,Difficult,Easy
+network model,,,

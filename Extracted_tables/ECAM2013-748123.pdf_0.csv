@@ -1,0 +1,16 @@
+0,1,2,3,4,5
+,,Table 1: The activity of food- and herb-derived species.,,,
+,,,,Relative activity,
+Sample extract,Scientific name,Division,Inhibitory activity on,Inhibitory activity,Inhibitory activity
+,,,allergen permeation,on IL-4 production,on degranulation
+Licorice,Glycyrrhiza uralensis,Herb,+++,+,+
+Hawkweed,Hieracium albiflorum,Herb,++,++,++
+Beefsteak plant,Perilla frutescens,Herb,++,++,+
+Fenugreek,Trigonella foenum-graecum,Herb,++,+++,++
+Skullcap,Scutellariae baicalensis,Herb,+++,++,++
+Black pepper,Piper nigrum,Food,,++,+++
+Green tea,Camellia sinensis,Food,+++,+++,++
+Turmeric,Curcuma longa,Food,+,+,+++
+Fermented soybeans,,,,,
+,,Food,++,++,++
+paste (cheonggukjang),,,,,

@@ -1,0 +1,14 @@
+0,1,2,3,4,5
+,,IFN-α (ng/mL),,WCL,
+A,,,B,,
+,,,,,IFN-α (ng/mL)      0      10
+,,0       10     100,,IFN-α (ng/mL)     0       10     100,
+,,0       10     100,,,
+,Bim,,cytochrome  c,,cytochrome  c
+,Bcl-xL,,caspase 3,,VDAC 1
+,cytochrome  c,,cleaved-caspase  3,,mtHSP70
+,caspase 3,,β-actin,,β-actin
+cleaved-caspase  3,,,,,
+,PARP 1,,,,
+,cleaved-PARP 1,,,,
+,β-actin,,,,

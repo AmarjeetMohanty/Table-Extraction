@@ -1,0 +1,12 @@
+0,1,2,3,4
+compd,isomera,R1,R2,IC50 (μM)b
+3k,R,1-naphthyl,3-F-Ph-CH2,0.15 ± 0.01
+4a,"R,S",8-quinolinyl,3-F-Ph-CH2,7.0 ± 0.7
+4b,"R,S",5-quinolinyl,3-F-Ph-CH2,4.5 ± 0.2
+4c,"R,S",5-isoquinolinyl,3-F-Ph-CH2,6.8 ± 0.3
+4d,"R,S",1-isoquinolinyl,3-F-Ph-CH2,30.8 ± 2.6
+5a,R,1-naphthyl,3-pyridinyl-CH2,26.3 ± 2.3
+5b,R,1-naphthyl,4-pyridinyl-CH2,18.3 ± 0.9
+5c,R,1-naphthyl,2-methoxy-4-pyridinyl-CH2,0.35 ± 0.02
+6a,R,1-naphthyl,4-Cl-Ph-CH2CH2,1.6 ± 0.3
+6b,R,1-naphthyl,3-F-Ph-CH2CH2,1.9 ± 0.1

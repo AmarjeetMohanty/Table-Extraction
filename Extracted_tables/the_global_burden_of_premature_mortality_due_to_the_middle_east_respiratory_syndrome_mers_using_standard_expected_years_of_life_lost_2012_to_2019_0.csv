@@ -1,0 +1,39 @@
+0,1,2,3,4,5,6
+,"Table 1 Sample characteristics and distribution of deaths among 1789 MERS patients, September 23, 2012 until May 17, 2019",,,,,
+Characteristics,,Levels,"Total
+(%)",Death,Alive,P-value
+,,,(n = 1789),(n = 588),(n = 1201),
+,,≤ 9,8(0.4),5,3,
+,,10–19,27(1.5),8,19,
+,,20–29,314(17.6),52,262,
+,,30–39,215(12.0),63,152,
+"Age, yr",,40–49,264(14.8),76,188,< 0.001
+,,50–59,321(17.9),103,218,
+,,60–69,333(18.6),114,219,
+,,70–79,214(12.0),118,96,
+,,≥ 80,93(5.2),49,44,
+Sex,,Female,494(27.6),145,349,0.028
+,,Male,1295(72.4),443,852,
+,,Saudi Arabia,1517(84.7),480,1037,
+,,United Arab Emirates,87(4.9),37,50,
+,,Republic of Korea,57(3.2),10,47,
+Reporting country,,Oman,25(1.4),9,16,< 0.001
+,,Jordan,26(1.5),22,4,
+,,Qatar,26(1.5),8,18,
+,,Others,51(2.9),22,29,
+Exposure with a morbid case in the,,Yes,642(35.5),218,424,0.248
+previous 14 days,,,,,,
+,,No,1147(64.1),370,777,
+Exposure to a camel,in 14 days ago,Yes,842(47.1),206,636,< 0.001
+,,No,947(52.9),382,565,
+Travel history to an endemic country,,Yes,433(24.2),141,292,0.463
+,,No,1356(75.8),447,909,
+Admission in hospital,,Yes,1488(83.2),515,973,< 0.001
+,,No,301(16.8),73,228,
+Need for admission in negative.,,Yes,1145(64.0),370,775,0.270
+pressure isolate room or,ICU,,,,,
+,,No,644(36.0),218,426,
+Health care personnel,,Yes,277(15.5),46,231,< 0.001
+,,No,1512(84.5),542,970,
+Comorbidities,,Yes,1088(60.8),327,761,0.002
+,,No,701(39.2),261,440,

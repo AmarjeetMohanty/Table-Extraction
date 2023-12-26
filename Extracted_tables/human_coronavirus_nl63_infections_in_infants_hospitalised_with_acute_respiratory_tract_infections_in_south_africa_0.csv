@@ -1,0 +1,12 @@
+0,1,2,3,4,5,6,7
+,Table 1. Clinical data of HCoV NL63-infected children,,,,,,
+Patient no.,Sex,"Age, months",Date of sample,Type sample,HIV status,Diagnosis,Co-pathogen
+ZA649-03,M,30,18 ⁄ 03 ⁄ 03,NPA,NK,NK,None
+ZA641-03,F,NK,19 ⁄ 03 ⁄ 03,TA,NK,Gastoenteritis ⁄ vomiting,None
+ZA691-03,M,3,25 ⁄ 03 ⁄ 03,NPA,NK,Pneumonia,hMPV
+ZA3343-03,M,5,23 ⁄ 12 ⁄ 03,NPA,NK,LRTI,None
+ZA877-04,M,4,24 ⁄ 03 ⁄ 04,NPA,+,NK,None
+ZA992-04,F,2,4 ⁄ 05 ⁄ 04,TA,+,Pneumonia,None
+ZA1507-04,F,3,13 ⁄ 05 ⁄ 04,NPA,+,LRTI,None
+ZA2660-04,M,19,18 ⁄ 08 ⁄ 04,NPA,),"LRTI, adenoidectomy",Adenovirus
+ZA2934-04,M,2,9 ⁄ 09 ⁄ 04,BAL,+,Pneumonia,None

@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7,8
+Table 1 MERS-CoV patients with explicit reports on presence or absence of acute renal failure (ARF),,,,,,,,
+Nr.,Patient,Country,Onset of illness,ARF,Onset ARF,ARF on day of illness,Outcome,Reference
+1,25 y m,Jordan,"Apr 12, day nd",Yes,nd,nd,Fatal,[7]
+2,60 y m,Saudi Arabia,7 Jun 12,Yes,16 Jun 12,10,Fatal,[2]
+3,49 y m,UK ex Qatar,3 Sep 12,Yes,14 Sep 12,12,Fatal,[15]
+4,45 y m,Saudi Arabia,"Nov 12, day nd",Yes,nd,nd,Recovered,[7]
+5,45 y m,Germany ex Qatar,5 Oct 12,Yes,nd,nd,Recovered,[14]
+6,70 y m,Saudi Arabia,5 Oct 12,Yes,16 Oct 12,12,Fatal,[3]
+7,39 y m,Saudi Arabia,24 Oct 12,No,-,,Fatal,[3]
+8,16 y m,Saudi Arabia,3 Nov 12,No,-,,Recovered,[3]
+9,31 y m,Saudi Arabia,4 Nov 12,No,-,,Recovered,[3]
+10,64 y m,France ex Saudi Arabia,22 Apr 13,Yes,30 Apr 13,9,Fatal,[6]
+11,51 y m,France,8 May 13,Yes,14 May 13,7,Recovered,[6]
+12,73 y m,Germany ex Saudi Arabia,8 Mar 13,Yes,22 Mar 13,12,Fatal,[5]
+y – years of age; m - male; nd - no data available.,,,,,,,,

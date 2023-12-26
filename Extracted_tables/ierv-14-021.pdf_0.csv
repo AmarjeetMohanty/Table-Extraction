@@ -1,0 +1,50 @@
+0,1,2,3
+,,NTD/EID:,time for T?
+,,,Review
+Table 2. Emerging infectious diseases (as of 2014).,,,
+Disease,Primary causative agents,Primary vector(s),DALYs (cid:1) 1000
+,,,(95% UI)
+Anthrax,Bacillus anthracis,Animal remains,ND
+Infections caused,Mycobacterium tuberculosis,Various,ND
+by microbes that,Staphylococcus aureus,,
+have developed,Enterococcus spp.,,
+antimicrobial,Neisseria spp.,,
+resistance,Gonorrhoeae spp.,,
+Botulism,Clostridium botulinum toxin,Oral transmission,ND
+Campylobacteriosis,Campylobacter spp.,Fecal-oral transmission,7541
+,,,(5687–9374)
+"MERS, SARS",Coronaviruses,–,
+Dengue fever,"DEN-1, DEN-2, DEN-3,",Aedes mosquitoes,825
+,DEN-4 virus,,(344–1412)
+Ehrlichiosis,Ehrlichia bacterium,Blacklegged ticks,ND
+Enteropathogenic,E. coli,"Fecal-oral transmission, other",EPEC: 7542
+Eschericia coli,,,(5686–9524)
+(EPEC),,,ETEC: 6894
+Enterotoxigenic,,,(5619–8286)
+"E. coli
+(ETEC)",,,
+Flu (influenza),Avian/porcine influenza strains,"Birds, pigs","19,244"
+,,,"(16,906–21,451)"
+Group A,Streptococcus pyogenes,"Direct contact, oral",ND
+streptococcal,,transmission,
+infections,,,
+Hepatitis,"Hepatitis A, B, C, D or E virus",Various,"13,258"
+,,,"(11,364–15,855)"
+Lyme disease,Borrelia burgdorferi,Blacklegged ticks,ND
+Plague,Yersinia pestis,"Infected animals, rodent fleas",ND
+Prion diseases,Abnormal prions,Sporadically or inherited,ND
+,,mutation of prion gene,
+Salmonellosis,Salmonella spp.,"Undercooked or raw meat,",4847
+,,reptiles,(3819–5949)
+Shigellosis,Shigella spp.,"Fomites, houseflies, other",7052
+,,,(5676–8466)
+Tularemia,Francisella tularensis,"Ticks, deer flies,
+infected",ND
+,,animals,
+West Nile virus,Flavivirus,Mosquitoes,ND
+Most emerging/reemerging infectious diseases shown here lack effective vaccines.,,,
+Computational vaccinology tools,"represent an accelerated, cost-sparing approach to vaccine design for",these challenging targets. DALYs,"reflect global
+sum of years of"
+"life lost and years lived with disability as of 2010, presented with 95% UI.",,,
+DALYs: Disability-adjusted life year; ND: No data; UI: Uncertainty interval.,,,
+Data taken from [96].,,,

@@ -1,0 +1,17 @@
+0,1,2,3,4,5
+T A B L E 3,PCR results by sample type (all seasons combined) for subjects with illness visits,,,,
+,Nasal swab,Sputum,,,
+,,,,Total positive by,No. sputum
+,no.+/no,no.+/no,,,
+,,,,either site/no.,only+/total
+,tested (%),tested (%),,,
+Virus,,,P value*,tested (%),detections (%)
+RSV,16/976 (1.6),31/674 (4.6),0.0005,32/986 (3.2),16/32 (50.0)
+Influenza A,18/976 (1.8),26/662 (3.9),0.0125,33/986 (3.3),15/33 (45.5)
+Parainfluenza (any),24/976 (2.5),26/662 (3.9),>0.1,38/986 (3.9),14/38 (36.8)
+HMPV,15/976 (1.5),14/662 (2.1),>0.1,17/986 (1.7),2/17 (11.8)
+Influenza B,12/976 (1.2),14/662 (2.1),>0.1,19/986 (1.9),7/19 (36.8)
+Adenovirus,4/976 (0.4),5/662 (0.8),>0.1,8/986 (0.8),4/8 (50.0)
+Coronavirus (any),52/976 (5.3),50/662 (7.6),0.0764,75/986 (7.6),23/75 (30.7)
+Rhinovirus,142/976 (14.5),132/662 (19.9),0.0046,186/986 (18.9),44/186 (23.7)
+"Abbreviation: PCR, polymerase chain reaction.",,,,,

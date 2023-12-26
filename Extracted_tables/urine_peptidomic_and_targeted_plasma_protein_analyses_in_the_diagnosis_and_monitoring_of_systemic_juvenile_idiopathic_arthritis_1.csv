@@ -1,0 +1,9 @@
+0,1,2,3,4,5
+,Student’s t,test,(P value),,
+,,ND/SAF vs. AF/QOM/RD/KD/FI,,ND/SAF vs. QOM/RD,ND/SAF vs. KD/FI
+Gender,2.56E−01,,,6.49E−01,7.62E−02
+Age (year),2.12E−02,,,2.72E−01,1.31E−02
+WBC (103/ul),5.59E−04,,,3.95E−05,9.72E−02
+ESR (mm/h),5.08E−04,,,1.05E−06,5.41E−02
+CRP (mg/dL),7.19E−05,,,3.24E−03,2.90E−02
+PLT (103/ul),4.01E−05,,,3.82E−05,1.02E−01

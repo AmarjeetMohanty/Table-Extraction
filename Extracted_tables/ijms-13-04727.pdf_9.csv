@@ -1,0 +1,42 @@
+0,1,2,3,4,5,6,7,8
+,,,Table 5. Cont.,,,,,
+,,,,,,Virus,,
+,,Target,,,,,,
+Target,Library,Biopanning procedure,Phagotope,Affinity,Inhibition,isolates/,Additional,Reference
+,,presentation,,,,,,
+,,,,,,clades,,
+,Partially randomized,,,,,,,
+,,"(1) Four rounds,",,,,,,
+,(1),,(1),,,,,
+,,competitive elution,,,No inh,,,
+,CDx3KPCALLRYx10,,ALLRYNPFYYLSFSP,,,,Does not act as CCR5,
+CCR5,,"CHO-CCR5 cells 
+(2) Four rounds,",,NA,IC50 = 2.5,ADA,,[178]
+,(2),,(2) LLDSTFFTADALL,,,,agonist or antagonist,
+,,"preselection, alkaline and",,,μM,,,
+,x10ALLRYNPFYYLSF,,RYNPFYYLSFSP,,,,,
+,,competitive elutions,,,,,,
+,SP,,,,,,,
+,,,,,IC50 = 30 nM,,,
+,,,238D2,KI = 10 nM,,,,
+,,Two rounds and,,,IC50 = 40 nM,,Inhibit chemotaxis and,
+CXCR4,Llamas immunized VHH,HEK-CXCR4 cells,238D4,KI = 6 nM,,NL4.3,,[187]
+,,counterselection,,,IC50 = 0.2,,mobilize stem cells,
+,,,238D2-15GS-238D4,KI = 0.3 nM,,,,
+,,,,,nM,,,
+,Non immunized,"Linear ECL2 
+Four rounds, acidic",YYCARDRGGTYPGR,,,,,
+CXCR4,,,,KD = 5 μM,NA,NA,Antagonist of CXCR4,[182]
+,HCDR3,"peptide 
+elution",YWCQG,,,,,
+,,Biotinylated,,,3–4 fold,,"Activates normal B cells,",
+,,"Four rounds, trypsin",,,,R5-,,
+CD40,Human ScFv,CD40-Fc fusion,B44,KD = 60 nM,reduction of,,Does not block CD40-,"[188,189]"
+,,elution,,,,tropic,,
+,,protein,,,infection,,CD40L binding,
+,,His tagged,,,,,,
+,Mix of 12-mer and 7-,,INS1: SDVPTQV-,,,,Homologies to,
+DDX3,,"ALRAMKENGR 
+Acidic elution",,NA,IC50 = 20 μM,LAI,,[190]
+,mer RPL,,GGRRRRRRRRR,,,,XPO1/CRM1,
+,,peptide,,,,,,

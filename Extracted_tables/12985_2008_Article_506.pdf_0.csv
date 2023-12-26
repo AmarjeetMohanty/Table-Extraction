@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7
+"Table 1: Percent (%) nucleotide identity of Ark DPI non-structural genes and ORF1ab, ORF2-6 and complete genome with other IBV",,,,,,,
+"strainsa, b, c",,,,,,,
+IBV Strains,5'UTR,PLpro,Mpro,RdRp,ORF1,ORF2-6,Complete genome
+Ark99,98,87,99,99,NA,96,NA
+A2,95,83,85,99,86,85,86
+Beaudette,96,85,93,93,91,91,91
+BJ,96,83,88,93,86,85,86
+Cal99*,100,99,97,99,96,94,96
+CK/CH/LSD/05I,97,84,88,90,89,90,89
+Connecticut,97,87,100,99,NA,96,NA
+CU-T2*,100,94,99,99,NA,94,NA
+DE072,100,100,90,90,NA,NA,NA
+Florida,97,87,100,99,NA,NA,NA
+GA98*,100,100,100,100,NA,NA,NA
+Gray,100,87,100,100,NA,NA,NA
+Jilin,NA,NA,NA,NA,NA,100,NA
+LX4,94,83,85,89,87,84,86
+M41,97,87,91,94,91,91,91
+SAIBK,92,85,90,90,90,86,89
+,a Sequences with > 95% identity are in bold letters,,,,,,
+b NA-not analyzed,,,,,,,
+,c Parental strains of Ark DPI are shown in bold letters and immediate derivative of Ark DPI is indicated by asterisk (*).,,,,,,

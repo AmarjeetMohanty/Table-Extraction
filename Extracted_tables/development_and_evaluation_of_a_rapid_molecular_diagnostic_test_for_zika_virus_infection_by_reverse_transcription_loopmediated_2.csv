@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6,7
+,,,,RT-LAMP,,rRT-PCR,
+,,,No.,,,,
+Period,State,Type,samples,Positive,Negative,Positive,Negative
+"February, 2016",Pernambuco,Serum,16,8,8,8,8
+"March, 2016",Paraíba,Plasma,65,0,65,0,65
+,,Urine,69,0,69,0,69
+"July, 2016",Paraíba,Plasma,9,0,9,0,9
+,,Urine,30,0,30,0,30
+Total,,Serum/Plasma,90,8,82,8,82
+,,Urine,99,0,99,0,99

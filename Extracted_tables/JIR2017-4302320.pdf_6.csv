@@ -1,0 +1,21 @@
+0,1,2,3,4,5
+FOXO3A siRNA,2.0,NT siRNA,DAC + NT siRNA,DAC + FOXO3A siRNA,ATG16
+,,,,,1.5
+ATG12,,,,,ATG12
+,1.5,,,,
+ATG5,⁎,,,,"⁎
+⁎"
+,,,,,ATG5
+,,,,,1.0
+ATG16,,,,,
+,,,,,LC3-I
+,"Relative of target/GAPDH
+1.0",,,,Relative of target/GAPDH
+LC3-I,,,,,LC3-II
+LC3-II,,,,,"BECN1
+0.5"
+,0.5,,,,
+BECN1,,,,,FOXO3A
+GAPDH,,,,,
+,,,,,GAPDH
+,0.0,,,,0.0

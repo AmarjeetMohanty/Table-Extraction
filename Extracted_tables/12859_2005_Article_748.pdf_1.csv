@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6,7,8,9
+Table 3: Genes annotated and predicted by ZCURVE_V and the GeneMark VIOLIN database for human immunodeficiency virus 1,,,,,,,,,
+(HIV-1) a,,,,,,,,,
+,,Genes annotated,,,Genes predicted by ZCURVE_V,,,Genes predicted by GeneMark,
+Start,Stop,Length (aa),Gene,Start,Stop,Length (aa),Start,Stop,Length (aa)
+336,1838,501,gag,336,1838,501,336,1838,501
+1631,4642,1004,Pol,1904,4642,913,1904,4642,913
+4587,5165,193,Vif,4587,5165,193,,,
+5105,5341,79,Vpr,5105,5341,237,5105,5341,237
+5377,7970,87,Tat,5377,5595,73,,,
+5516,8199,117,Rev,,,,,,
+5608,5856,83,Vpu,5608,5856,83,5608,5856,83
+5771,8341,857,Env,5771,8341,857,5771,8341,857
+,,,,7602,7694,31,,,
+8343,8714,124,Nef,8343,8714,124,8343,8714,124

@@ -1,0 +1,18 @@
+0,1,2,3
+Sample,Number,Probability (in %),Probability (in %)
+Size,of,for a Lot with 15%,for a Lot with 5%
+,Failures,Defective Units,Defective Units
+,10,0.1,—
+32,0,0.6,19.4
+,1,3.1,32.6
+,2,8.5,26.6
+,3,15.0,14.0
+,4,19.0,5.3
+,5,19.0,1.6
+,6,15.1,0.4
+,7,9.9,0.1
+,8,5.5,—
+,9,2.6,—
+,10,1.0,—
+,11,0.4,—
+,12,0.1,—

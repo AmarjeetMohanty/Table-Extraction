@@ -1,0 +1,15 @@
+0,1,2,3,4,5
+"Viruses 2010, 2",,,,,1813
+,,Table 2. Studies on estimation of dates of divergence of SARSr-CoV.,,,
+"References  Gene 
+No. of SARSr-CoV strains",Estimated,Methods for,TMRCA of,TMRCA of,TMRCA of
+,"mean 
+Human Civet Bat Rp3SARSr-Rh-BatCoV",estimating,human/civet,(human/civet)/ Bat,(human/civet/Bat
+,substitution,TMRCA,SARSr-CoV,Rp3 SARSr-CoV,Rp3
+,rate (no. of,,(95% HPD),(95% HPD),SARSr-CoV)/
+,substitutions,,,,SARSr-Rh-BatCoV
+,per site per,,,,(95% HPD)
+,year),,,,
+"Zeng et al. 
+Spike   
+139",-,Linear,Dec 2002,-,-

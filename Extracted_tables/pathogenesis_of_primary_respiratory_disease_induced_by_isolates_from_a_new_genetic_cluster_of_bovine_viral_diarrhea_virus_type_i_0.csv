@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6,7,8,9
+,,,TABLE 1. Detection of viruses in nasal swabs and WBCs,,,,,,
+,,No. samples from nasal swabs that were,,,,No. samples from WBCs that were positive for,,,
+,,,positive for BVDV by,,,,BVDV by,,
+Experiment and,,,,,,,,,
+day(s) postinfection,,,,,,,,,
+,,,Total,Total,,,,Total,Total
+,VIa,RT-PCR,,,VI,RT-PCR,,,
+,,,positive,tested,,,,positive,tested
+Experiment 1,,,,,,,,,
+1,0,0,0,10,0,0,,0,10
+2,2,2,2,10,1,2,,2,10
+4,2,4,4,10,2,5,,6,10
+7,3,5,5,10,4,8,,8,10
+11,1,2,2,10,2,7,,7,10
+15,0,0,0,10,1,2,,2,10
+21,0,0,0,10,0,0,,0,10
+30,0,0,0,10,0,0,,0,10
+Experiment 2,,,,,,,,,
+2,5,5,5,10,2,7,,7,10
+3,2,3,3,10,4,6,,7,10
+5,3,5,5,9,3,9,,9,9

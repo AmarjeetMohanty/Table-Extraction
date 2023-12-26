@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6,7,8,9,10
+,,,,,,,Invasion assays,,,
+,,,,CR1,,,,,,
+ReRBC,Duffy,Blood,,exon,CR1,CD71,Enzyme,,Low,High
+sample,phenotype,group,Reticulocyte %,22,(MFI),(MFI),treatment,sCR1,CR1,CR1
+HCR29,a + b+,O+,40,HH#,42.57,3810,,√,,
+HCR32,a + b+,O+,40,HL#,38.47,ND,√,,,
+HCR40,a + b+,O+,28,HH,52.73,3379,,√,,√
+HCR43,a + b+,O+,36,HH,31.8,3725,√,√,,√
+HCR47,a + b+,A−,41,HL,39.9,3366,,√,,√
+HCR14,a + b+,A+,25,HL#,19.69,3966,,,√,
+HCR63,a + b−,O+,56,HH,ND,ND,,√,,
+HCR49,a − b+,A−,69,HL,40.86,ND,,,,
+HCR48,a + b+,O+,18,HH,29.96,ND,,,,
+HCR34,a + b+,A−,70,HL,31.40,ND,,,,
+HCR39,a + b+,O+,25,HH,29.25,ND,,,,
+HCR17,a + b−,O+,35,HL,24.5,ND,,,,
+HCR33,a − b+,O+,42,HH,"54,53",ND,,,,

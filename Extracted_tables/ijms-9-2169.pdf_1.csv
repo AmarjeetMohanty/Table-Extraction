@@ -1,0 +1,20 @@
+0,1,2,3,4,5
+,,,Number of samples in the range,,
+,,,Serum,,
+Region,N,< LOD,0.1b-1,1-5,>5
+Vladimirci,30,25,3,2,0
+Senta,30,17,6,4,3
+Bogatić,30,20,5,2,3
+Total,90,62,14,8,6
+,,,Kidneys,,
+,,< LOD,0.01b -1,1-5,>5
+Vladimirci,30,22,5,2,1
+Senta,30,19,5,4,2
+Bogatić,30,19,5,4,1
+Total,90,60,15,10,5
+,,,Liver,,
+,,< LOD,0.01b -1,1-5,>5
+Vladimirci,30,19,5,6,0
+Senta,30,26,1,2,1
+Bogatić,30,21,2,6,1
+Total,90,66,8,14,2

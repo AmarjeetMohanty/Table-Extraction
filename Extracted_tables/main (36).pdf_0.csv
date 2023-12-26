@@ -1,0 +1,16 @@
+0,1,2,3,4
+(C) without other peaks to interfere.,,,,
+Table 2,Validation of the method.,,,
+Items,,Tested value,,Accepted range [26]
+Linearity,,R2,0.99999,/
+,,Range (ppm),1e40,/
+Accuracy (Recovery),,20 ppm,97.9% (cid:6) 3.76,90e108%
+,,25 ppm,100.7% (cid:6) 2.41,
+,,30 ppm,98.9% (cid:6) 1.18,
+Precision (RSD),Repeatability (n Z 6),RT,0.01%,< 3%
+,,Area,0.58%,
+,Intermediate precision,RT,0.02%,< 6%
+,(n Z 12),,,
+,,Area,0.62%,
+Robustness (RSD),,1.60%,,/
+,RSD Z relative standard deviation; RT Z retention time.,,,

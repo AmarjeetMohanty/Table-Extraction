@@ -1,0 +1,35 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13
+,Table 3 Clinical management summary of 13 Ebola virus disease patients treated outside West Africa,,,,,,,,,,,,
+Reference,[76],[76],[42],"[28, 79, 137]","[78, 79, 82]","[81, 82]",[38],"[25, 77]","[28, 99]",[81],[81],[82],[37]
+Demographics,,,,,,,,,,,,,
+Gender,M,F,M,M,M,M,M,F,M,F,F,M,M
+Age (years),33,59,36,51,43,42,38,44,33,26,29,44,43
+Country of,Liberia,Liberia,Sierra Leone,Liberia,Sierra Leone,Liberia,Sierra Leone,Spain,Liberia,USA,USA,Sierra Leone,Sierra Leone
+infection,,,,,,,,,,,,,
+Country,USA,USA,Germany,USA,USA,USA,Germany,Spain,USA,USA,USA,USA,Switzerland
+providing care,,,,,,,,,,,,,
+Hospital admission,,,,,,,,,,,,,
+Admission date,2 Aug 2014,5 Aug 2014,27 Aug 2014,5 Sep 2014,9 Sep 2014,30 Sep 2014,3 Oct 2014,6 Oct 2014,6 Oct 2014,11 Oct 2014,14 Oct 2014,15 Nov 2014,21 Nov 2014
+Days from,7,10,4,7,2,N/A,5,0,5,N/A,N/A,6,4
+diagnosis to,,,,,,,,,,,,,
+evacuation,,,,,,,,,,,,,
+Hospital LOS,19,14,30,20,41,8,47,30,16,13,14,3,15
+Vital status,Survived,Survived,Survived,Survived,Survived,Died,Survived,Survived,Survived,Survived,Survived,Died,Survived
+Critical care therapies,,,,,,,,,,,,,
+"Central
+line",N,N,Y,Y,Y,Y,Y,N,Y,Y,N,Y,Y
+Vasopressors,N,N,N,N,Y,Y,Y,N,N,N,N,Y,N
+Oxygen,Y,Y,Y,Y,Y,Y,Y,Y,N,N,N,Y,N
+"NIV (d, days)",N,N,Y (8d),N,N,N,Y (1d),N,N,N,N,N,N
+"MV (d, days)",N,N,N,N,Y (17d),Y (5d),Y (13d),N,N,N,N,Y (3d),N
+"CRRT (d, days)",N,N,N,N,Y (24d),Y (5d),Y (18d),N,N,N,N,Y (3d),N
+"IHD (d, days)",N,N,N,N,N,N,Y (10d),N,N,N,N,N,N
+Experimental therapies,,,,,,,,,,,,,
+Convalescent,Y,N,N,Y,Y,N,N,Y,Y,Y,Y,Y,N
+plasma,,,,,,,,,,,,,
+ZMapp/ZMab,Y,Y,N,N,N,N,N,Y,N,Y,N,Y,Y
+Brincidofovir,N,N,N,N,N,Y,N,N,Y,Y,Y,N,N
+Favipiravir,N,N,Y,N,N,N,Y,Y,N,N,N,N,Y
+TKM,N,N,Y,Y,Y,N,N,N,N,Y,N,N,N
+Other,N/A,N/A,N/A,N/A,N/A,N/A,"Amiodarone,",N/A,N/A,N/A,N/A,N/A,N/A
+,,,,,,,FX06,,,,,,

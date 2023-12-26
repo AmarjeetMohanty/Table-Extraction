@@ -1,0 +1,27 @@
+0,1,2,3,4,5
+,,Table 2. VACV-derived vaccines.,,,
+,,,Features,,
+,Pathogenic Agent,Antigen,,,Reference
+,,,Site of Insertion,Reporter Gene,
+,,Env,TK or HA gene,"LacZ, LUC","[90,92]"
+,HIV,Env (TAB 13),HA gene,LacZ,[35]
+,,RT,Not mentioned,LacZ,[93]
+,,HBsAg,TK gene or BamHI site,Not mentioned,"[38,94,95]"
+,,PreS2-S,TK gene,Not mentioned,[96]
+,Hepatitis B virus,,,,
+Viral,,LS,TK gene,Not mentioned,[97]
+,,MS,TK gene,Not mentioned,[98]
+,,gD,TK gene or BamHI site,Not mentioned,"[38,99,100]"
+,Herpes simplex virus 1,gB,Not mentioned,Not mentioned,"[101,102]"
+,,gG,Not mentioned,Not mentioned,[103]
+,,HA,TK gene,Not mentioned,[104]
+,Inﬂuenza,,,,
+,,"M1, NS1, NP, PB1, PA",TK gene,Not mentioned,[105]
+,Plasmodium yoelii,Circumsporozoite,TK gene,LacZ,[34]
+Protist,Plasmodium knowlesi,Sporozoite antigen,TK gene,Not mentioned,[88]
+,Plasmodium falciparum,S antigen,TK gene,Not mentioned,[87]
+,Leishmania infantum,LACK,TK and HA gene,LacZ and GUS,[106]
+Animal,Echinococcus granulosus,E95 antigen,TK gene,LacZ,[107]
+,Brucella abortus,18-kDa antigen,TK gene,LacZ,[86]
+Bacterial,,,,,
+,Streptococcus pyogenes,M protein,TK gene,Not mentioned,[108]

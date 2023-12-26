@@ -1,0 +1,11 @@
+0,1,2,3,4,5
+Table 3.,Impact of influenza-like illness and influenza on outpatient visits.,,,,
+,,No. outpatient,Excess outpatient visits,Excess percentage (%),P value
+2007~2009,ILI%,4056320,433947,10.7,0.049
+,Positive rate,4056320,76417,1.88,0.042
+2009,ILI%,1745899,296312,16.97,0.012
+,Positive rate,1745899,36496,2.09,0.106
+2008,ILI%,1266356,106526,8.41,0.179
+,Positive rate,1266356,23145,1.83,0.223
+2007,ILI%,1044065,104027,9.96,0.03
+,Positive rate,1044065,11103,1.06,0.074

@@ -1,0 +1,43 @@
+0,1,2,3,4,5,6,7
+,cats with feline infectious peritonitis (FIP) or control cats. FIP was conﬁrmed by histopathology or,,,,,,
+,detection of FCoV antigen and control groups consisted of cats with diseases other than FIP (either,,,,,,
+,only neurologic or also non-neurologic diseases with clinical signs consistent with FIP).,,,,,,
+,Sample,Number of,RT-PCR,,,Reference,Control
+Study,,,,Sensitivity,Speciﬁcity,,
+,Material,Samples,Assay,,,Standard for FIP,Cats
+,,,,,,,Neurologic
+,,FIP (n = 24),,,,,diseases
+[45],CSF,,RT-PCR,21%,100%,Histopathology,
+,,Controls (n = 3),,,,,other than
+,,,,,,,FIP
+,,FIP with,,,,,
+,,neurological,,,,,Neurologic
+,,signs (n = 16),,,,,diseases
+[45],CSF,,RT-PCR,31%,100%,Histopathology,
+,,Controls with,,,,,other than
+,,neurological,,,,,FIP
+,,signs (n = 3),,,,,
+,,,,,,Histopathology or,Diseases
+,,FIP (n = 19),Real-time,,,,
+[162],CSF,,,42%,100%,detection of FCoV,other than
+,,Controls (n = 15),RT-PCR,,,,
+,,,,,,antigen in eﬀusion,FIP
+,,FIP with,,,,,
+,,neurological,,,,,
+,,and/or ocular,,,,,
+,,,,,,Histopathology or,Diseases
+,,signs (n = 7),Real-time,,,,
+[162],CSF,,,86%,100%,detection of FCoV,other than
+,,Controls with,RT-PCR,,,,
+,,,,,,antigen in eﬀusion,FIP
+,,neurological,,,,,
+,,and/or ocular,,,,,
+,,signs (n = 3),,,,,
+,,,,,,,Healthy or
+,,FIP (n = 14),,,,,diseases
+[135],CSF,,RT-qPCR,50%,100%,Histopathology/IHC,
+,,Controls (n = 19),,,,,other than
+,,,,,,,FIP
+,,,Real-time,,,,
+[141],CSF,FIP (n = 16),,63%,n. d.,Histopathology/IHC,None
+,,,RT-PCR,,,,

@@ -1,0 +1,43 @@
+0,1,2,3,4,5,6,7,8,9,10
+,had a good prognosis and there were no fatalities during,,,,,was > 38.9,°C.,"Leukocytosis
+(white","blood
+cell",count >
+this outbreak.,,,,,,,15 × 109/L) was noted in four cases,,,(Table 1). The peak
+Table 1 The symptoms observed for each of the cases during the outbreak and the pathogens isolated,,,,,,,,,,
+No.,Sample name,Date of,Temperature (°C),Cough,Pharyngeal,inflammation,Nasal,WBC,Virus isolation,CPE
+,,sample,,,or sore throat,,discharge,,,
+1,case1,6/1/2011,39,N,Y,,N,WBC 15 × 109/L,NE,UN
+2,case2,6/1/2011,38.6,N,Y,,N,UN,CV-A4,P
+3,case3,6/1/2011,38.5,N,Y,,N,UN,CV-A4,NE
+4,case4,6/1/2011,38.1,N,Y,,N,UN,CV-A4,NE
+5,case5,6/1/2011,41,N,Y,,N,UN,CV-A4,P
+6,case6,6/1/2011,39.4,N,Y,,N,UN,"CV-A4, HAdV-3",P
+7,case7,6/1/2011,39.4,N,N,,Y,WBC 12 × 109/L,CV-A4,P
+8,case8,6/1/2011,38.5,N,Y,,N,WBC 12.6 × 109/L,Influenza B,UN
+9,case9,6/1/2011,38,N,Y,,Y,UN,CV-A4,P
+10,case10,6/1/2011,37.9,N,Y,,N,UN,CV-A4,P
+11,case11,6/1/2011,37.9,N,Y,,Y,UN,CV-A4,P
+12,case12,6/1/2011,39.8,N,Y,,N,UN,CV-A4,P
+13,case13,6/3/2011,39,Y,Y,,N,WBC 17 × 109/L,CV-A4,P
+14,case14,6/3/2011,38,N,Y,,N,UN,CV-A4,P
+15,case15,6/3/2011,38.8,N,Y,,N,WBC 15 × 109/L,CV-A4,NE
+16,case16,6/3/2011,39,N,Y,,N,UN,CV-A4,P
+17,case17,6/3/2011,39,N,Y,,N,WBC 17.8 × 109/L,NE(bacteria positive),UN
+21,Intimate contact1,6/8/2011,normal,/,/,,/,UN,NE,UN
+23,Intimate contact2,6/8/2011,normal,/,/,,/,UN,NE,UN
+24,Intimate contact3,6/8/2011,normal,/,/,,/,UN,NE,UN
+25,Intimate contact4,6/8/2011,normal,/,/,,/,UN,NE,UN
+26,Intimate contact5,6/8/2011,normal,/,/,,/,UN,NE,UN
+27,Intimate contact6,6/8/2011,normal,/,/,,/,UN,"HRV-C,HAdV-3,CV-A4",P
+28,Intimate contact7,6/8/2011,normal,/,/,,/,UN,NE,UN
+29,case18,6/8/2011,38.1,N,Y,,N,UN,HRV-A,NE
+30,case19,6/8/2011,39.2,N,N,,N,UN,"CV-A4,HAdV-3",NE
+31,case20,6/8/2011,38.1,N,Y,,N,UN,CV-A4,NE
+32,case21,6/8/2011,38,N,Y,,N,UN,CV-A4,NE
+33,Intimate contact8,6/8/2011,normal,/,/,,/,UN,"CV-A4,HRV-A",NE
+34,Intimate contact9,6/8/2011,normal,/,/,,/,UN,"CV-A4,HRV-A",NE
+35,Intimate contact10,6/8/2011,normal,/,/,,/,UN,NE,UN
+36,Intimate contact11,6/8/2011,normal,/,/,,/,UN,"CV-A4,HRV-A",NE
+37,case22,no sample,38.3,N,Y,,N,UN,UN,UN
+38,case23,no sample,37.9,N,Y,,N,UN,UN,UN
+"N, no symptoms; Y, symptoms observed; /, none of the symptoms observed; UN, undetected; NE, no viruses isolated from samples or cells; P, CV-A4 was isolated",,,,,,,,,,

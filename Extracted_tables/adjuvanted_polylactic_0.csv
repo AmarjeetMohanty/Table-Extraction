@@ -1,0 +1,32 @@
+0,1,2,3,4,5,6,7,8,9,10
+,"C 6
+C 0 
+C 10
+C 15",,vaccin,"P
+ vaccin",P,,vaccin,"P
+ vaccin",P,
+,B oost,,,,,,,,,
+,"P
+V accin",,,,P,P,,,P,P
+,"P
+P
+P",,I,"I
+I",,,I,"I
+I",,
+,,,,,,PRRSV-N protein-specific IgG in plasma,,,,
+,,G,,,,,H,,,
+,,,,,,,,,,ed
+1.,Mock,,,be,,,,,,dg
+,,,,,,,,,,gij
+,,,,dgj,,dgij,,,,ij
+2.,,,4,,,,4,cd,,
+,Mock + chal,,,,be,,,,,
+,,,,,dgi,,,gij,dgi,
+,,,,,dgj,,,,,
+3.,KAg + chal,,3,,,,3,,,
+4.,KAg + WCL + chal,,,,,,,,,
+,,IgG titer (log10),2,,,,2,,,
+5.,NP–KAg + NP-WCL + chal,,,,,,,,,
+,,,1,,,,1,,,
+6.,NP–KAg  +  WCL + chal,,,,,,,,,
+,,,0,,,,0,,,

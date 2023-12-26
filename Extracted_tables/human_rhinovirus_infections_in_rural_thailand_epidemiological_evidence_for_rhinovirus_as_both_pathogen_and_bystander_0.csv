@@ -1,0 +1,15 @@
+0,1,2,3,4,5
+,influenza-like illness and controls£ without respiratory symptoms and fever,,,"in the previous 3 days, Sa Kaeo Province, Thailand,",
+"September 1, 2003–August 31, 2005.",,,,,
+,,Hospitalized CXR,,,
+,Hospitalized Enrolled,Pneumonia,Outpatients with ILI,Controls*,
+,HRV+/Total enrolled,HRV+/Total CXR,HRV+/Total enrolled,HRV+/Total enrolled,
+Age groups,(%),pneumonia (%),(%),(%),OR£ (95% CI)
+0–11 mo,47/164 (29),21/103 (20),27/95 (28),8/34 (24),"1.4 (0.6, 3.4)"
+1–4 yrs,105/366(29),69/249 (28),145/594 (24),7/51 (14),"2.3 (1.0, 5.2)1"
+5–19 yrs,37/182 (20),20/80 (25),103/706 (15),9/69 (13),"1.8 (0.8, 4.0)"
+20–49 yrs,47/406 (11),25/237 (11),13/112 (12),2/54 (3.7),"3.3 (0.8, 14.5)"
+,,,,,1
+50–64 yrs,32/273 (12),20/172 (12),4/41 (9.8),0/36,
+$65 yrs,47/545 (9),25/317 (8.0),2/21 (9.5),1/36 (2.8),"2.9 (0.4, 22.0)"
+Total,315/1936 (16),180/1158 (16),294/1569 (19),27/280 (9.6),"1.9 (1.2, 2.9)1"

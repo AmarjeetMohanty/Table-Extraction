@@ -1,0 +1,58 @@
+0,1,2,3,4,5
+"Table 3
+continued",,,,,
+Drug class members,"Activity against other viruses
+Activity against",Clinical status,,Known safety issues,Comments
+,coronavirusesa,,,,
+Clomipramine,"MERS-CoV:
+EBOV [100]","Approved for
+treatment of depression",Well,tolerated,WHO list of essential medicines
+hydrochloride,9.3 lM [38];,,,,
+,SARS-CoV:,,,,
+,13.2 lM [38],,,,
+Fluphenazine,"MERS-CoV:
+HCV [149]; EBOV [100]","Approved for
+treatment of chronic",Well,tolerated,WHO list of essential medicines;
+hydrochloride,5.9 lM [38];,psychoses,,,CAD
+,SARS-CoV:,,,,
+,21.4 lM [38],,,,
+Fluspirilene,MERS-CoV:,"Approved for
+treatment of",Well,tolerated,
+,7.5 lM [38],schizophrenia,,,
+,SARS-CoV:,,,,
+,5.9 lM [38],,,,
+Promethazine,MERS-CoV:,Antipsychotic approved for sedation,Well,tolerated,
+hydrochloride,11.8 lM [38],,,,
+,SARS-CoV:,,,,
+,7.5 lM [38],,,,
+Thiothixene,MERS-CoV:,Antipsychotic approved for treatment of,Well,tolerated,
+,9.3 lM [38],schizophrenia,,,
+,SARS-CoV:,,,,
+,5.3 lM [38],,,,
+Triethylperazine,"MERS-CoV:
+SFV [45], CHIKV [45, 99]",Approved antiemetic,Well,tolerated,
+maleate,7.8 lM [38],,,,
+Triﬂupromazine,MERS-CoV:,Approved antipsychotic,,Serious side effects,CAD
+hydrochloride,5.8 lM [38];,,,include akathisia.,
+,SARS-CoV:,,,,
+,6.4 lM [38],,,,
+Nucleic acid synthesis inhibitors,,,,,
+Gemcitabine,"MERS-CoV:
+In vitro:","Approved for
+treatment of cancers",Well,tolerated,WHO list of essential medicines
+hydrochloride,1.2 lM [38],,,,
+,FLUAV [125],,,,
+,In vivo:,,,,
+,Mice MuLV [124],,,,
+Mizoribine,"SARS-CoV: 3.5-
+HCV [123]; BVDV [280]",Approved immunosuppressant,"in organ
+Well",tolerated,
+,16 lg/mL [114],transplantation and rheumatic,,,
+,or[40 lM,diseases.,,,
+,[111],,,,
+Mycophenolic acid,"MERS-CoV:
+DENV [118]; CHIKV [252]; FLUAV",Approved immunosuppressant,"in organ
+FDA alert:",risk of,
+,"0.17 lg/mL
+[112]; SFV, SINV [45]",transplantation,,"activation of
+latent",

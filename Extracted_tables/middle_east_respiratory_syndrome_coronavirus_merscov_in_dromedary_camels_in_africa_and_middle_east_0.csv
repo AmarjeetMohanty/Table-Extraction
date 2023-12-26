@@ -1,0 +1,21 @@
+0,1,2,3,4
+"Table 1. MERS-CoV microneutralization and nasal swab RT-PCR test results by sampling site, age,",,,,
+sex and animal origin.,,,,
+,Microneutralization Assay,,,Nasal Swabs RT-PCR
+Sampling Variable,,,,
+,No. Tested,"No.
+(Positive)",No. Tested,"No.
+(Positive)"
+Sampling Site,,,,
+Live Animal Market,309,254 (82.2),286,12 (4.1)
+Free Herd,187,129 (68.9),187,3 (1.6)
+Farm,924,474 (51.2),944,33 (3.4)
+Quarantine,164,143 (87.1),164,2 (1.2)
+Slaughterhouse,449,401 (89.3),649,133 (20.4)
+p-value,,<0.0001,,<0.0001
+Governorate,,,,
+Aswan,340,300 (88.2),317,4 (1.2)
+Beheira,68,39 (57.3),68,3 (4.4)
+Cairo,202,178 (88.1),265,57 (21.5)
+Giza,287,236 (82.2),430,74 (17.2)
+Qaliobia,93,87 (93.5),96,13 (13.5)

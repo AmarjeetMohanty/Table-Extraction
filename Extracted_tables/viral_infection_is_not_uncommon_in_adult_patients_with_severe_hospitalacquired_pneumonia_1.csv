@@ -1,0 +1,18 @@
+0,1,2,3,4
+,,,Viral,Infection in Hospital-Acquired Pneumonia
+Table 5. Cont.,,,,
+Variable,No. of deaths/no. of episodes (%),p,Adjusted Odds Ratio (95% CI),p
+Influenza virus,,0.501,,
+No,89/251 (35.5),,,
+Yes,5/11 (45.5),,,
+Respiratory syncytial virus,,0.889,,
+No,88/246 (35.8),,,
+Yes,6/16 (37.5),,,
+Cytomegalovirus,,0.472,,
+No,91/256 (35.5),,,
+Yes,3/6 (50.0),,,
+Human coronavirus,,0.142,9.67 (0.85–109.49),0.067
+No,91/258 (35.3),,,
+Yes,3/4 (75.0),,,
+COPD = chronic obstructive pulmonary disease.,,,,
+doi:10.1371/journal.pone.0095865.t005,,,,

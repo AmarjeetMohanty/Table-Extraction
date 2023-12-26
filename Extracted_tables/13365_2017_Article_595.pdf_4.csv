@@ -1,0 +1,48 @@
+0,1,2,3,4,5,6,7,8
+"**
+k","**
+l",**,m,,n,,,o
+0.10,,,0.25,,50,,,1.5
+,1.0,,,,,,,
+,,##,,*,,,,
+"**
+0.08",,,0.20,,40,,,
+,0.8,,,,,,,
+,,,,,,,,1.0
+"(ZIKV+ area/ whole area)
+0.06","MN infection level
+(ZIKV+ neurons/
+ventral horn neurons)
+0.6",,"astroctye infection level
+(ZIKV+GFAP+ area/ 
+GFAP+ area)
+0.15",,"MN survival
+(# neurons in ventral horns)
+30",,"MN survival
+(#MN/ave in shams",at each spinal level)
+0.04,0.4,,0.10,,20,,,
+,,,,,,,,0.5
+0.02,0.2,,0.05,,10,,,
+0.00,0.0,,0.00,,0,,,0.0
+,,,,,L4-5,S,,
+p,q,***,r,,s,,,
+"0.25
+****",250,,0.020,,0.04,,,
+,,,,###,,,,
+,,,,,,,,ZIKV
+0.20,200,,,,,,,
+,,,0.015,,0.03,,,
+,,,,,,,,sham
+0.15,150,,,,,,,
+(GFAP+ area/ whole area),"T-cell invasion
+(# CD3+ cells/mm2)",,"neutrophil invasion
+(Ly6G+ area/ whole area)
+0.010",,"microglia/
+macrophage activation
+(iba1+ area/ whole area)
+0.02",,,
+0.10,100,,,,,,,
+,,,0.005,,0.01,,,
+0.05,50,,,,,,,
+0.00,0,,0.000,,0.00,,,
+,,,,ZIKV+ neurons with low levels of ChAT. (D1–D3) Close-up of infected,,,,

@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12
+and TCoV) from CS and faeces searched by simplex and multiplex RT-PCR assays.,,,,,,,,,,,,
+,,,Simplex RT-PCRa,,,,,Multipex RT-PCRb,,,,
+,,TAstV-2,,TCoV,,TAstV-2,,,TCoV,,,
+,Summerc,Winter,Summer,,Winter,Summer,Winter,Summer,,Winter,χ2 p-values,OR
+CS Positive,200d,250,10,,190,300,50,100,,100,0.87654,0.67
+%,40,50,2,,38,60,10,20,,20,,
+CS Negative,25e,25,100,,200,100,50,80,,220,0.67851,
+%,5,5,20,,40,20,10,16,,44,,
+Faeces Positive,300,200,150,,250,380,20,100,,50,0.89982,3.98
+%,60,40,30,,50,76,4,20,,10,,
+Faeces Negative,0,0,20,,80,50,50,300,,50,0.56743,
+%,_,_,4,,16,10,10,60,,10,,

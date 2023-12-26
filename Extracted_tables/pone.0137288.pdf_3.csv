@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+(Continued),,,,,,,,,,,,,,,,
+No.,Strain,Accession,Collection,Location,Breed,Gender,Age,Vaccine,Other enteric,CPV,,Substitution of amino acid,,,,
+,,No.,date,,,,,,viruses,type,,residues in VP2 protein of CPV,,,,
+,,,,,,,,,(Accession No.),,,,,,,
+,,,,,,,,,,,297,324,370,419,426,440
+47,MDJ-21,KT074264,Dec-2014,MDJ,RC,M,3M,No,CBoV (KR998484),New2a,Ala,Ile,Gln,Asn,Asn,Thr
+48,MDJ-27,KT074266,Apr-2015,MDJ,NA,F,NA,NA,CBoV,New2a,Ala,Ile,Gln,Asn,Asn,Thr
+,,,,,,,,,"(KR998487),",,,,,,,
+,,,,,,,,,CaKV (KT210392),,,,,,,
+49,MDJ-33,KT074270,Jan-2015,MDJ,MX,NA,3M,No,—,New2a,Ala,Ile,Gln,Asn,Asn,Thr
+50,MDJ-37,KT074271,Apr-2015,MDJ,NA,M,NA,Yes,—,New2a,Ala,Ile,Gln,Asn,Asn,Thr
+51,DQ-,KT074275,Feb-2015,DQ,NA,M,1M,No,CBoV (KR998491),New2a,Ala,Ile,Gln,Asn,Asn,Thr
+,beta7,,,,,,,,,,,,,,,
+52,HRB-A2,KT074277,Sep-2014,HRB,CH,M,4M,No,—,New2a,Ala,Ile,Gln,Asn,Asn,Thr
+53,HRB-B8,KT074282,Oct-2014,HRB,GM,NA,NA,NA,—,New2a,Ala,Ile,Gln,Asn,Asn,Thr
+54,HRB-C7,KT074288,Oct-2014,HRB,NA,M,2M,NA,CBoV (KR998493),New2a,Ala,Ile,Gln,Asn,Asn,Thr
+55,HRB-a1,KT074276,Sep-2014,HRB,NA,F,3.5M,Yes,CCoV,New2a,Ala,Ile,Gln,Asn,Asn,Thr
+,,,,,,,,,"(KT192656),",,,,,,,
+,,,,,,,,,CBoV,,,,,,,
+,,,,,,,,,"(KR998488),",,,,,,,
+,,,,,,,,,CaKV (KT210394),,,,,,,
+56,HRB-ee7,KT074292,Dec-2014,HRB,NA,M,3.5M,Yes,—,New2a,Ala,Ile,Gln,Asn,Asn,Thr

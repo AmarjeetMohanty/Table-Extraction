@@ -1,0 +1,27 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12
+T A B L E 1,"Summary of MERS‐CoV antigen distribution in respiratory and lymphoid tissues, RT‐qPCR Cq values and ciliary coverage (in",,,,,,,,,,,
+percentage) of airways of pigs and llamas,,,,,,,,,,,,
+,ID of animal,,,,,,,,,,,
+2 dpi,,,,,,,,,,,,
+,Pig No. 1,,,Pig No. 2,,,Pig No. 3,,,Pig No. 4,,
+Tissue,IHC,Cq,SEM,IHC,Cq,SEM,IHC,Cq,SEM,IHC,Cq,SEM
+Turbinate,+,39,35,−,28,35,−,27,NP,−,29,NP
+Trachea,−,ND,100,−,36,100,−,36,NP,−,ND,NP
+Bronchus,−,ND,100,−,ND,100,−,ND,NP,−,ND,NP
+Cervical LN,−,ND,NA,−,ND,NA,−,ND,NA,−,ND,NA
+,ID of animal,,,,,,,,,,,
+4 dpi,,,,,,,,,,,,
+,Pig No. 5,,,Pig No. 6,,,Pig No. 7,,,Pig No. 8,,
+Tissue,IHC,Cq,SEM,IHC,Cq,SEM,IHC,Cq,SEM,IHC,Cq,SEM
+Turbinate,++,25,51,+,24,50,+,32,NP,+,29,NP
+Trachea,−,33,45,−,32,58,−,ND,NP,−,ND,NP
+Bronchus,−,ND,100,−,36,100,−,ND,NP,−,ND,NP
+Cervical LN,−,31,NA,−,35,NA,−,38,NA,−,ND,NA
+,ID of animal,,,,,,,,,,,
+4 dpi,,,,,,,,,,,,
+,llama No. 1,,,llama No. 2,,,llama No. 3,,,llama No. 4,,
+Tissue,IHC,Cq,SEM,IHC,Cq,SEM,IHC,Cq,SEM,IHC,Cq,SEM
+Turbinate,+++,30,44,+++,24,100,+++,29,NP,−,30,NP
+Trachea,−,34,86,−,N,100,−,37,NP,−,35,NP
+Bronchus,−,ND,100,−,ND,100,−,ND,NP,−,34,NP
+Cervical LN,NS,ND,NA,+,27,NA,+,31,NA,−,ND,NA

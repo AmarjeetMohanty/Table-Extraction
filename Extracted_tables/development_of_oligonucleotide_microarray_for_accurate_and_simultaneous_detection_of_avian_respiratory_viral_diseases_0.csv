@@ -1,0 +1,25 @@
+0,1,2,3,4,5
+Table 1 Viruses used in the work,,,,,
+No,"Name of
+isolate",Taxonomy of virus,Strain description,HA titer,Highly similar sequencesa (≥99%)
+Avian influenza virus,,,,,
+1,AIV-H1N1 P2009,"Genus-Influenza virus A, Family-Orthomyxoviridae",virulent,29,MH061695.1
+2,AIV-H2N2 21103,,virulent,25,L11134.1
+3,AIV-H3N8 11102,,virulent,28,CY005816.1
+4,AIV-H4N6 20411,,virulent,27,GU052381.1
+5,AIV-H5N1 060315,,virulent,25,JX565019.1
+6,AIV-H6N5 20411,,virulent,27,CY014656.1
+7,AIV-H7N3 201369,,virulent,27,JQ906576.1
+8,AIV-H8N4 20413,,virulent,29,CY014659.1
+9,AIV-H9N2 201313,,virulent,29,KF059279.1
+10,AIV-H10N7 20410,,virulent,27,CY014671.1
+11,AIV-H11N9 21103,,virulent,29,CY014687.1
+12,AIV-H12N5 11103,,virulent,27,GU052216.1
+13,AIV-H13N6 11103,,virulent,26,CY014694.1
+Newcastle disease virus,,,,,
+14,NDV -LaSota,"Genus- Avulavirus, Family-Paramyxoviridae",vaccinal,28,DQ195265.1
+Infectious bronchitis virus,,,,,
+15,IBV-J (F8)050309,"Genus-Coronavirus, Family-Coronaviridae",virulent,–,FJ849834.1
+,Infectious bursal disease virus,,,,
+16,IBDV-NB(F7),"Genus-Avibirnavirus, Family-Birnaviridae",virulent,–,AY319768.2
+a Accession number from the GenBank databases,,,,,

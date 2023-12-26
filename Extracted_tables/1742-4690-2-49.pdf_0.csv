@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6
+"Retrovirology 2005, 2:49",,,,,,http://www.retrovirology.com/content/2/1/49
+120,,,,,,
+,,,,120,,
+,,,,,,400µM
+80,,,,,,
+(%ofmax),,Annexin-Vbinding,(fluorescenceunits),80,,
+40,NIH 3T3,,,40,,200µM
+,cells,,,,,
+,,,,0,,
+0,,,,,,
+,,,,600,,
+120,,,,,,
+,,,,400,,
+80,,,,,,
+infection(%ofmax),,LAPSN(RD114),titer(AP+foci/well),,,400µM
+40,,,,200,,
+,NIH 3T3/ASCT2,,,,,
+,target cells,,,,,200µM
+0,,,,0,,
+120,,,,,0,"5
+10
+15
+20
+25
+30"
+,,,,,,PS exposure time (h)
+80,,,,,,
+,,,"Effects of PS at a reduced concentration on RD114 vector 
+infection of NIH 3T3 cells
+Figure 3",,,
+infection(%ofmax),,,Effects of PS at a reduced concentration on RD114,,,
+,,,vector infection of NIH 3T3 cells. PS liposomes were,,,
+40,NIH 3T3,,generated and added to NIH 3T3 cells at either 400 µM or,,,
+,,,200 µM concentration. Cells were analyzed for cell-surface,,,
+,target cells,,,,,

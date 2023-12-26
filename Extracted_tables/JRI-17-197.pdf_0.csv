@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7,8
+,,,,,Almasi MA and Almasi G JRI,,,
+,,Table 2. Comparison of colorimetric assays for detection of SRY gene,,,,,,
+,Detection,,Positive,Negative,Apply,,Cross,
+Visual system,,Safety,,,,Stability,,Use time
+,method,,reaction,sample,UV ray,,contamination,
+,,,,No turbid-,,,,
+Magnesium Sulfate (MgSO4),Visual,Yes,Turbidity,,No,5-10 s,No,Prior to amplification
+,,,,ity,,,,
+GeneFinderTM,Visual,Yes,Green,Orange,No,2-3 weeks,No,Prior to amplification
+SYBR Green I,Visual,Yes,Green,Orange,No,2-3 weeks,No,Prior to amplification
+Hydroxynaphthol blue (HNB),Visual,Yes,Sky blue,Violet,No,2-3 weeks,No,Prior to amplification
+Phenol red,Visual,Yes,Red,Orange,No,1 week,No,Prior to amplification
+Ethidium bromide,Visual,No,Yellow,No color,Yes,2 weeks,Yes,After amplification
+SYBR Premix Ex TaqTM II,Visual,Yes,Green,No color,Yes,1–3 days,Yes,After amplification
+GelRedTM,Visual,Yes,Orange,No color,Yes,2 weeks,No,Prior to amplification

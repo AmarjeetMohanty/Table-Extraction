@@ -1,0 +1,67 @@
+0,1,2,3,4
+A  Small Molecules (SM),,,,
+RNA:SM,,,,
+,,Ribozyme (1%),,
+"Interactions*
+System 
+RNA Class 
+RNA Subclass",,,,
+"Bacteria 
+mRNA 
+Riboswitch 
+14 (4)",Riboswitch (18%),,TAR (18%),
+(n = 14),,,,
+,IRES (1%),,,
+"Fungus 
+rRNA 
+Ribozyme 
+1",,,,
+,,18%,,
+,Splicing,,,
+(n = 1),,,,
+,Complex,,,
+"Human 
+miRNA 
+pre-miRNA 
+4 (2)",,,,
+,(3%),,,IRES
+(n = 29),,,,
+"mRNA 
+Expanded Repeats 
+12 (1)",,,44%,(10%)
+,pre-mRNA,,,
+"IRES 
+1 (1)",,,,
+,(5%),,,
+"Other 5' UTR 
+6",,,,
+,pre-miRNA,,,
+"pre-mRNA 
+4",,,,Promoter
+,,37%,,
+,(5%),,,
+,,,,(6%)
+"Splicing Complex 
+2 (2)",,,,
+,Other,,,
+"Virus 
+mRNA 
+Frameshift Site 
+3",,,,FSS (4%)
+,5’-UTR (8%),,,
+"(n = 34) 
+IRES 
+8",,,,RRE (4%)
+"Psi Domain 
+1",,Expanded,,Psi Domain (11%)
+,Bacteria,,,
+"RRE 
+3",,Repeats (15%),,
+,Fungus,,,
+"TAR 
+14",,,,
+,Human,,,
+"vRNA 
+Promoter 
+5",Virus,,,
+*Value in parentheses indicates number of RNA:ligand interactions,Animal Model,,,

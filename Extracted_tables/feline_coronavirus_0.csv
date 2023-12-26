@@ -1,0 +1,15 @@
+0,1,2,3,4
+Table1.  Geographic effect on the population structure of Feline coronavirus (FCoV) isolates,,,,
+Tested correlation,Statisticsa),Observed,Expected b),P-value*
+Geographic origin,AI,0.2413,7.4867,0
+,,(0.0125; 0.5361),(6.6256; 8.2920),
+Geographic origin,PS,7.65,48.5762,0
+,,(6.0000; 9.0000),(45.6100; 51.2300),
+Taiwan,MC,15.11,2.4121,1.00E-04
+,,(14.0000; 23.0000),(2.0200; 3.2400),
+United States,MC,9.25,1.9445,1.00E-04
+,,(9.0000; 12.0000),(1.4700; 2.3500),
+United Kingdom,MC,1,1.005,1
+,,(1.0000; 1.0000),(1.0000; 1.0200),
+Brazil,MC,46.85,3.5105,1.00E-04
+,,(29.0000; 51.0000),(2.7300; 4.5900),

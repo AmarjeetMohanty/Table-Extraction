@@ -1,0 +1,33 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12
+,,,,,,,,,,Viral Loads in Clinical Specimens,,
+,"Table 5. Correlation of RT-qPCR clinical specimens taken during days 10 to 15, and clinical manifestations in 40 patients with SARS",,,,,,,,,,,
+,who had specimens taken from all four anatomical sitesa,,,,,,,,,,,
+,,,Diarrhea,,O2 desaturation,,,Mechanical ventilation,,,,Death
+,,,p value;,,,p value;,,,p value;,,,p value;
+Specimen,Y,N,OR (CI),Y,N,OR (CI),Y,N,OR (CI),Y,N,OR (CI)
+NPA (n=40),,,,,,,,,,,,
+RT-qPCR ((cid:14)) (n = 18),11,7,0.4,11,7,0.02; 5.3,7,11,(cid:31) 0.01; 1.6,8,10,(cid:31) 0.01; 1.8
+,,,,,,(1.4–21.1),,,(1.1–2.4),,,(1.2–2.7)
+RT-qPCR (–) (n = 22),10,12,,5,17,,0,22,,0,22,
+Median viral load,2.9,0,0.4,5.1,0,(cid:31) 0.01,6.4,0,(cid:31) 0.01,6.4,0,(cid:31) 0.01
+(log10 copies/mL),,,,,,,,,,,,
+Serum (n = 40),,,,,,,,,,,,
+RT-qPCR ((cid:14)) (n = 18),12,6,0.1,11,7,0.02; 5.3,7,11,(cid:31) 0.01; 1.6,8,10,(cid:31) 0.01; 1.8
+,,,,,,(1.4–21.1),,,(1.1–2.4),,,(1.2–2.7)
+RT-qPCR (–) (n = 22),9,13,,5,17,,0,22,,0,22,
+Median viral load,2.3,0,0.3,2.4,0,0.02,2.6,0,(cid:31) 0.01,2.6,0,(cid:31) 0.01
+(log10 copies/mL),,,,,,,,,,,,
+Stool (n = 40),,,,,,,,,,,,
+RT-qPCR ((cid:14)) (n = 30),20,10,(cid:31) 0.01; 18,12,18,1,5,25,1,7,23,0.7
+,,,(2.0–16.3),,,,,,,,,
+RT-qPCR (–) (n = 10),1,9,,4,6,,2,8,,1,9,
+Median viral load,7.8,2.6,< 0.01,7.3,7.2,0.5,8.2,7.2,0.5,8.7,7,0.03
+(log10 copies/mL),,,,,,,,,,,,
+Urine (n = 40),,,,,,,,,,,,
+RT-qPCR ((cid:14)) (n = 9),6,3,0.5,3,6,0.7,1,8,1,2,7,1
+RT-qPCR (–) (n = 31),15,16,,13,18,,6,25,,6,25,
+Median viral load,0,0,0.4,0,0,0.6,0,0,0.5,0,0,1
+(log10 copies/mL),,,,,,,,,,,,
+,"aRT-qPCR, quantitative reverse transcription–polymerase chain reaction; SARS, severe acute respiratory syndrome; Y, yes; N, no;",,,,,,,,,,,
+,"OR, odds ratio; CI, 95% confidence interval; NPA, nasopharyngeal aspirates.",,,,,,,,,,,
+these two conditions could be explained by inherent char-,,,,,,,experimental infections in which the profile of viral load in,,,,,

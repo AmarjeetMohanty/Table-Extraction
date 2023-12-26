@@ -1,0 +1,12 @@
+0,1,2,3,4
+,,,D,
+,,,,100
+,8,,,
+,,Positive strand CTRL,,
+,6,Negative strand CTRL,,
+,,Positive strand + HCQ 0.1 µmol/L,,
+,,Positive strand + HCQ 1 µmol/L,,
+(log10copies/µg total RNA/mgtissue),4,,% inhibition of replication,50
+,,Positive strand + HCQ 2.5 µmol/L,,
+,,Positive strand + HCQ 5 µmol/L,,
+,2,,,

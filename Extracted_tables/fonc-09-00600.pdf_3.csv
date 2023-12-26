@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6,7
+,"TABLE 9 | LIUS promotes the expression of reactive oxygen species (ROS) generating enzymes in cancer cells, and enhances the expression of antioxidant enzymes in",,,,,,
+non-cancer cells (Increased or decreased fold changes which <1.5 was not indicated).,,,,,,,
+,Treatment,,LIUS,,,Mild hyperthermia,Oscillatory
+,Disease,Cancer,Non-cancer,,Cancer,Non-cancer,Non-cancer
+,Cell,Lymphoma,MC3T3-E1,Bone marrow,Lymphoma,Fibroblast,Human lymphatic
+,,U937 cells,preosteoblast cells,cells,U937 cells,OUMS-36 cells,endothelial cells
+,GEO ID,GSE10212,GSE45487,GSE70662,GSE10043,GSE39178,GSE60512
+ROS generating enzyme,XDH,,,,,,
+,NOX1,3.047,,,2.194,2.792,
+,NOX3,1.697,,,,,
+,NOX4,,,,,,
+,NOX5,,,,,2.340,
+,NOS1,,,,1.824,,
+,,,,,−,,
+,NOS2,4.370,,1.640,3.747,3.146,
+,,,,−,−,,
+,NOS3,,,2.150,,,1.988
+,,,,−,,,
+,MPO,,,,9.341,,
+Antioxidant enzymes,GPX1,,,,,,
+,GPX2,,,,,,
+,GPX3,3.317,,1.996,,,2.768
+,GPX4,,,,,,
+,GPX5,,,,1.553,,
+,GPX6,,,,,,
+,GPX7,,,1.614,3.435,,1.545
+,,,,,−,,
+,GPX8,,,,,,
+,GSR,,,,,,1.854
+,CAT,,,,8.137,,
+,,,,,−,,
+,SOD1,,,,,,
+,SOD2,,,,,,3.878
+,,,,,,,−
+,SOD3,,,,,,

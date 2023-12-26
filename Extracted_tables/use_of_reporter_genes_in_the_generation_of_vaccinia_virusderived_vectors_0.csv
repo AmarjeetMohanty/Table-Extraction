@@ -1,0 +1,15 @@
+0,1,2,3,4
+,Table 1. Reporter genes commonly used in the generation of recombinant vaccinia virus (VACV).,,,
+Reporter Gene,Origin,Product,Detection,Reference
+,,Chloramphenicol,Thin-layer chromatography,
+CAT,Escherichia coli,,,"[51,52]"
+,,acetyltransferase,"autoradiography, ELISA",
+LacZ,Escherichia coli,β-galactosidase,Colorimetry,[53]
+GUS,Escherichia coli,β-glucuronidase,Colorimetry or ﬂuorescence,[54]
+,Aequorea victoria,,,
+GFP,,Green ﬂuorescent protein,Fluorescence,"[50,55]"
+,(jellyﬁsh),,,
+,Photinus pyralis (ﬁreﬂy),,,
+LUC or luxCDABE,,Luciferase,Luminescence,"[56,57]"
+,and bacteria,,,
+,,ELISA: enzyme-linked immunosorbent assay.,,

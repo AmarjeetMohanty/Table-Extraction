@@ -1,0 +1,37 @@
+0,1,2,3,4,5,6,7,8
+Table 2.,Summary of study characteristics,,,,,,,
+,Publication,,,,,,,
+Author,year,Date type,Data scale,Data range,Location,Method,Predicted measure,Measure of accuracy
+Longini et al.15,1986,ILI,Weekly,1968–1969,52 cities,Mathematical,ILI across 425 days,Deviation from ILI
+,,,,,,model deﬁned on,and peak period,estimated
+,,,,,,a continuous state,,based on WHO
+,,,,,,space in discrete time,,reports
+Aguirre & Gonzalez9,1992,ILI,Daily,1988,"Havana, Cuba",Mathematical model,"Daily ILI, peak,",Correlation and
+,,,,,,deﬁned on a,and duration,"statistical
+tests"
+,,,,,,continuous state,,
+,,,,,,space in discrete time,,
+Viboud et al.10,2003,ILI,Weekly,1984–2002,France &,Method of analogs,Weekly ILI,Correlation and RMSE
+,,,,,Administrative,,,
+,,,,,Districts,,,
+Hall et al.3,2006,ILI and deaths attributable,Weekly,"1968–1970,",United Kingdom,Deterministic mass,Timing and,Error and time
+,,to inﬂuenza,,1918–1919 &,,action model,"amplitude of peak,",difference
+,,,,1957–1958,,,"duration, and",
+,,,,,,,magnitude,
+Polgreen et al.13,2007,Inﬂuenza activity,Weekly,2004–2005,"Iowa, USA",Prediction markets,Weekly activity,Proportion predicting
+,,,,,,,based on CDC’s,correct
+,,,,,,,color coded system,color code
+Andersson et al.20,2008,LCI cases,Weekly,1999–2006,Sweden,Regression model and,Peak timing and,Error and time
+,,,,,,prediction rules,height,difference
+Jiang et al.11,2009,ILI and deaths attributable,Daily,2006,USA,Bayesian network,Epidemic curve,Correlation and error
+,,to inﬂuenza,,,,,,
+Towers & Feng16,2009,Inﬂuenza case,Weekly,2009,USA,SIR model,Peak time and,Conﬁdence intervals
+,,count data,,,,,attack rate,
+Soebiyanto et al.12,2010,LCI cases,Weekly,2005–2008,Hong Kong &,ARIMA model,Weekly case counts,RMSE
+,,,,,"Maricopa county,",,,
+,,,,,"AZ, USA",,,
+Ong et al.4,2010,ILI,Weekly,2009,Singapore,SEIR model with,"Weekly case counts,",Error
+,,,,,,particle ﬁltering,"peak timing, and",
+,,,,,,,duration,
+Chao et al.2,2010,CDC inﬂuenza case,None,2009–2010,USA & LA,Epidemic simulation,Peak timing and,Predicted range
+,,estimates and,,,"County, USA",model based on a,magnitude,

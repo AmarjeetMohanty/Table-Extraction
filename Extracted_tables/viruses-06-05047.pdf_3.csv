@@ -1,0 +1,33 @@
+0,1,2,3,4,5,6,7
+,,,Table 2. Summary of Inovirus-Based Vaccines Against non-Infectious Diseases.,,,,
+,,,,,Protection of Vaccinated,,
+,Inoviral,,Study,Type of,,,
+Diseases,,Antigen b,,,Animals against,References,
+,Vector a,,Animal Model,Immune Response c,,,
+,,,,,disease progression d,,
+Cancer,,,,,,,
+Colorectal cancer,M13.g3,EGFR,Mice,Specific humoral,ND,"Riemer et al., 2005 A",[82]
+Melanoma,fd.g8.m,HMW-MAA,Mice,Specific humoral,ND,"Riemer et al., 2005 B",[83]
+Melanoma,fd.g3,HMW-MAA,Mice,Specific humoral,ND,"Luo et al., 2005",[84]
+Melanoma,fd.g8.m,MAGE A1,Mice,Specific cellular (CD8 and CD4),Significant,"Fang et al., 2005",[85]
+Melanoma,Ff.g8 or Ff.g8.m,HMW-MAA,Rabbits,Specific humoral,ND,"Wagner et al., 2005",[86]
+Melanoma,fd.g3,HMW-MAA,Rabbits,Specific humoral,ND,"Luo et al., 2006",[87]
+Melanoma,"F1.g8.m, M13.g3",HMW-MAA,"Mice, Rabbits",Specific humoral only in mice,ND,"Latzka et al., 2011",[88]
+Murine,,,,,,,
+,M13.g8.m,P1A,Mice,Specific cellular (CD8 and CD4),Significant,"Wu et al., 2002",[89]
+mastocytoma P815,,,,,,,
+Various types of,,,,,,,
+,M13.g3,Epitope of mAb BAT,Mice,Specific humoral and cellular (CD8),Significant,"Hardy et al., 2005",[90]
+cancer,,,,,,,
+Various types of,,,,,,,
+,M13.g3,EGFR,Rabbits,Specific humoral,ND,"Hartman et al., 2010",[91]
+cancer,,,,,,,
+Various types of,,,,,,,
+,M13.g3,VEGF,Mice,Specific humoral,ND,"Li et al., 2013",[92]
+cancer,,,,,,,
+Alzheimer’s,,,,,,,
+,"fd.g8.m, fd.g3",EFRH,Guinea pigs,Specific humoral,ND,"Frenkel et al., 2000",[93]
+,fd.g8.m,EFRH,Mice,Specific humoral,Significant,"Frenkel et al., 2003",[94]
+,"fd.g8.m, fd.g3",EFRH,Mice,Specific humoral,Partial,"Lavie et al., 2004",[95]
+,"fd.g8.m, fd.g3",EFRH,Mice,Specific humoral,Partial,"Solomon et al., 2007",[96]
+,"a F1, M13, fd denote the name of Filamentous Viral Vector; g8 and g3 denote the viral capsid genes in which antigens are displayed as fusion proteins; m, mosaic. It",,,,,,

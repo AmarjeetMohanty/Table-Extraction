@@ -1,0 +1,65 @@
+0,1,2,3,4,5,6,7,8
+,,,,,,Clinic laboratory test,,
+,,,,,,Signs and,,
+,Age,,,Date of Onset,Tma,"White 
+symptoms upon","Sampling 
+Neutrophile",Viral titer
+Code,(ys),Gender,Diagnosis,of Symptoms,(°C),"admission
+blood × 109/L","date
+Samples
+granulocyte%",(copies/ml)
+,,,,,,"Fever, cough,",,
+,,,,,,"sputum, sore","01 Mar 2013
+BALF",
+RMH123,72,M,Severe CAP,26 Feb 2013,39.2,16.91,97.2,1.8 ×  106
+,,,,,,"throat, dyspnea,","03 Mar2013
+Sputum",
+,,,,,,moist rales,,
+,,,,,,"Fever, cough,",,
+,,,,,,"sputum, sore","20 Apr 2013
+BALF",
+RMH114,73,M,Severe CAP,9 Apr 2013,38,19.58,92.8,1.8 ×  107
+,,,,,,"throat, dyspnea,","22 Apr 2013
+BALF",
+,,,,,,moist rales,,
+,,,,,,"Fever, cough,","08 Apr 2013
+Tracheal aspirate",
+RMH001,35,M,Severe CAP,6 Apr 2013,38.6,8.6,95.5,2.8 ×  108
+,,,,,,dyspnea,"10 Apr 2013
+Tracheal aspirate",
+,,,,,,"Fever, cough,",,
+RMH97,68,F,CAP,12 Jul 2013,40,19.72,"91.3
+23 Jul 2013
+BALF",2.1 ×  107
+,,,,,,sputum,,
+,,,,,,"Fever, cough,",,
+,,,,,,"sputum, sore",Nasal and throat,
+PUMCH13351,21,F,URTI,19 Feb 2013,38.5,15,"72.9
+26 Feb 2013",1.3 ×  106
+,,,,,,"throat, runny","swabs, serum",
+,,,,,,nose,,
+,,,,,,"Fever, cough,",,
+,,,,,,"sputum, sore",Nasal and throat,
+PUMCH13364,27,M,URTI,1 Apr 2013,38.4,9.05,"80.5
+2 Apr 2013",2.4 ×  106
+,,,,,,"throat, headache,",swabs,
+,,,,,,runny nose,,
+,,,,,,"Fever, sore",,
+,,,,,,"throat, headache,",Nasal and throat,
+PUMCH13371,39,M,URTI,4 Apr 2013,38,9.34,"80
+5 Apr 2013",3.1 ×  107
+,,,,,,"runny nose,",swabs,
+,,,,,,"chilly, feeble",,
+,,,,,,"Fever, cough,",,
+,,,,,,"sputum, sore",,
+,,,,,,,Nasal and throat,
+PUMCH13478,21,F,URTI,16 Jun 2013,38,"8.89
+throat, headache,","84.3
+17 Jun 2013",3.7 ×  104
+,,,,,,,swabs,
+,,,,,,"runny nose,",,
+,,,,,,"chilly, vomit",,
+,,,,,,"Fever, sore throat,",Nasal and throat,
+PUMCH13515,24,M,URTIs,27 Sep 2013,38.5,12.64,"76.2
+29 Sep 2013",1.0 ×  106
+,,,,,,runny nose,swabs,

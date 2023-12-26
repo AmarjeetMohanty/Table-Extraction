@@ -1,0 +1,16 @@
+0,1,2,3
+,,,Variation of the AHSG Gene Associated with SARS
+,Table 5. Variants Affecting AHSG Serum Levels.,,
+Variables,b,T,Pa
+rs2248690,20.737,214.336,0.0001
+rs4917,0.014,0.209,0.84
+rs4918,20.011,20.162,0.87
+Sex,20.057,21.11,0.27
+Age,0.002,0.046,0.96
+rs2248690 Genotype,N (%),AHSG concentration (mean ± S.E.M) mg/ml,P (
+,,,ANOVA)
+AA,142 (74.0%),583633,
+AT,45 (23.4%),541625,",0.001"
+TT,5 (2.6%),492628,
+aStepwise multivariate regression analysis.,,,
+doi:10.1371/journal.pone.0023730.t005,,,

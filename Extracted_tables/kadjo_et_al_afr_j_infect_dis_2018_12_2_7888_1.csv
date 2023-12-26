@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+,able 4: Results of Other respiratory virus screening by syndromes and age Groups,,,,,,,,,,
+,,,,,Infection Type and Age Groups,,,,,,
+,,,SARI,,,,,,ILI,,
+Virus type,,,,,,,,,,,
+,,,,[37-,,,,,,,
+,[0-12],[13-24],[25-36],,Total,[0-12],[13-24],[25-36],,[37-60],Total
+,,,,60],,,,,,,
+Coronavirus 229E,0,12,0,0,12,0,17,0,,8,25
+Enterovirus,1,0,0,0,1,2,0,0,,0,2
+Metapneumovirus,1,0,1,0,2,11,3,3,,0,17
+Coronavirus OC43,0,0,0,1,1,2,0,0,,0,2
+Parainfluenzavirus,2,0,1,1,4,46,5,4,,4,59
+Rhinovirus,0,0,0,0,0,68,6,11,,13,98
+RSV,12,0,1,1,14,44,10,5,,2,61
+Co-infections,0,0,0,0,0,4,4,0,,1,9
+Total,16,12,3,3,34,177,45,23,,28,273

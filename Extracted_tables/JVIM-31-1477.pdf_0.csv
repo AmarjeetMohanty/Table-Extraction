@@ -1,0 +1,11 @@
+0,1,2,3,4,5
+,,,Median Height,Median Height of,
+,,MRI Lesion Severity,of Lateral Ventricles,Fourth Ventricle,Pathologic Lesion
+Clinical Syndrome,No. of Cases,Grading,(% of Brain Height),(% of Brain Height),Severity Grading
+T3-L3 myelopathy,3,Mild (2),7.4 (Range 4.7–15.4),5.9 (5.6–6.2),Mild (2)
+,,Moderate (1),,,Moderate (1)
+Central vestibular,7,Mild (1),15.4 (6.8–22.9),13.2 (4–22.4),Moderate (3)
+syndrome,,Moderate (2),,,Severe (4)
+,,Severe (4),,,
+Multifocal CNS disease,14,Moderate (4),29.6 (12.5–47.7),12.5 (4.2–26.5),Moderate (4)
+,,Severe (10),,,Severe (10)

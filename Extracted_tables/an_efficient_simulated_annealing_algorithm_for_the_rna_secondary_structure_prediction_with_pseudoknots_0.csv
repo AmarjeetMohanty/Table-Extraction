@@ -1,0 +1,43 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+,Table 3 State-of-the-art RNA structure predication algorithms,,,,,,,,Table 5 Specificity Comparison Results,,,,,,,,
+ID Method,Website link,,,,,,,ID,#BP,,Specificity (%),,,,,,
+"1
+RnaStructure",,http://rna.urmc.rochester.edu/RNAstructureWeb/,,,,,,,,1,2,3,4,5,6,7,PRSA
+"2
+CyloFold",,https://cylofold.ncifcrf.gov/,,,,,,1,7,50.0,100.0,60.0,60.0,60.0,60.0,#,100.0
+"3
+IPknot",,http://rtips.dna.bio.keio.ac.jp/ipknot/,,,,,,2,11,87.5,100.0,100.0,100.0,87.5,100.0,100.0,100.0
+"4
+RNAflod",,http://rna.tbi.univie.ac.at/cgi-bin/RNAWebSuite/,,,,,,3,12,100.0,85.7,100.0,100.0,100.0,85.7,91.7,85.7
+,RNAfold.cgi,,,,,,,,,,,,,,,,
+,,,,,,,,4,11,62.5,100.0,28.6,62.5,62.5,62.5,#,100.0
+"5
+CombFold",,http://www.rnasoft.ca/cgi-bin/RNAsoft/CombFold/,,,,,,,,,,,,,,,
+,,,,,,,,5,8,55.6,55.6,55.6,55.6,55.6,80.0,55.6,100.0
+,combfold.pl,,,,,,,,,,,,,,,,
+,,,,,,,,6,8,71.4,88.9,77.8,62.5,71.4,72.7,#,88.9
+"6
+HotKnots",,http://www.rnasoft.ca/cgi-bin/RNAsoft/HotKnots/,,,,,,,,,,,,,,,
+,hotknots.pl,,,,,,,7,14,87.5,100.0,76.9,90.0,90.0,90.0,100.0,92.9
+"7
+TT2NE",,http://eole2.lsce.ipsl.fr/ipht/tt2ne/tt2ne.php,,,,,,8,19,100.0,66.7,100.0,100.0,100.0,100.0,100.0,100.0
+,,,,,,,,9,16,68.8,100.0,81.3,64.7,64.7,64.7,66.7,76.2
+,,,,,,,,10,15,0.0,81.3,0.0,0.0,0.0,31.6,65.2,70.0
+reason for,the,analysis may be,,that,the,algorithm for,,11,14,43.8,73.7,38.9,41.2,41.2,70.0,65.0,70.0
+evaluating,individuals,is,based,on,the,average,base,12,17,47.8,73.9,45.8,45.8,44.0,70.8,70.8,70.8
+pairs,length rather,than the,,standard thermodynamic,,,,,,,,,,,,,
+,,,,,,,,13,18,50.0,72.0,44.0,47.8,47.8,72.0,75.0,72.0
+model. As,the,length of,the RNA molecule,,,,"increases,",,,,,,,,,,
+,,,,,,,,14,26,89.5,72.0,78.3,85.7,78.3,73.1,46.9,100.0
+the number,of,groups of,,complementary bases M(X),,,,,,,,,,,,,
+,,,,,,,,15,37,85.7,94.7,73.5,90.9,54.5,#,82.9,97.4
+"will become larger,",,so that,,the effect of average base-,,,,,,,,,,,,,
+,,,,,,,,16,39,81.6,86.8,75.0,82.1,73.5,#,73.7,82.1
+"pairs on prediction results becomes weaker,",,,,,,the accuracy,,,,,,,,,,,
+"of
+the",PRSA algorithm will,,be,,reduced.,"Besides,",the,17,37,82.5,88.2,100.0,86.8,89.2,#,61.4,81.8
+parameter settings of,,the PRSA algorithm will also affect,,,,,,18,45,83.7,66.7,88.4,86.4,75.6,#,71.1,76.7
+"the prediction results, which will be studied further in the",,,,,,,,,,,,,,,,,
+,,,,,,,,,Average,69.3,83.7,68.0,70.1,66.4,73.8,73.2,86.9
+future.,,,,,,,,,,,,,,,,,
+,,,,,,,,,The best Specificity values for each algorithm are shown in boldface,,,,,,,,

@@ -1,0 +1,45 @@
+0,1,2,3,4,5,6
+Table 1 | Continued,,,,,,
+Symptoms,Frequency,IRR,PRR,System,"Class, severity,",Part of the product
+and signs,,or total,,,and duration,likely being
+,,dose,,,,involved in AEs
+Persistent headache,Rare,,Yes,Neurologic,"Delayed, moderate",Increase in A
+Shortness of breath,Common,Dose,Yes,Respiratory,,
+Bronchospasm,Common,Yes,Yes,Respiratory,,
+Pleural effusion,Rare,Dose,Contributes,Respiratory,"Severe, transient",
+TRALI,Rare,Dose,Likely,Respiratory,"Late, severe, transient",
+,,,,,(ICU),
+Hypotension,Common,Yes,Yes,Cardiovascular,"Immediate, mild,",
+,,,,,transient,
+Hypertension,Common,Yes,Contributes,Cardiovascular,"Immediate, mild,",
+,,,,,transient,
+Tachycardia,Common,Yes,Yes,Cardiovascular,"Immediate, mild,",
+,,,,,transient,
+Chest/back pain,Common,Yes,Yes,Cardiovascular,"Immediate, mild,",
+,,,,,transient,
+Arrhythmia,Rare,Dose,Contributes,Cardiovascular,"Severe, hopefully",
+,,,,,transient,
+"Myocardial
+infarction",Rare,Dose,Contributes,Cardiovascular,Severe to fatal,Increase in A
+Anorexia,Common,,,Gastrointestinal,,
+Nausea,Common,Yes,Yes,Gastrointestinal,"Immediate, mild,",
+,,,,,transient,
+Vomiting,Common,Yes,Yes,Gastrointestinal,"Immediate, mild,",
+,,,,,transient,
+Cramping,Common,Yes,Contributes,Gastrointestinal,,
+Diarrhea,Common,,Contributes,Gastrointestinal,,
+Colitis,Rare,,Contributes,Gastrointestinal,"Late, severe",
+Tubular swelling,Rare,Dose,Contributes,Renal,"Severe, reversible;",E: sucrose >> other
+,,,,,scars might remain,sugars
+Renal failure,Rare,,Contributes,Renal,"Delayed. severe,
+ICU",Increase in A
+,,,,,,(Complement deposition)
+"Infusion site pain,",Common (SCIG,,,Cutaneous,"Immediate, mild,",SCIG: volume
+"swelling, erythema",more frequent),,,,transient,
+Urticaria,Common,,Yes,Cutaneous,,Increase in A
+Non-speciﬁc macular,Common,,Yes,Cutaneous,,Increase in A
+or maculopapular,,,,,,
+eruptions/eczema,,,,,,
+Pruritus,Common,,Contributes,Cutaneous,,
+Erythema,Rare,,Contributes,Cutaneous,,Increase in A
+multiforme,,,,,,

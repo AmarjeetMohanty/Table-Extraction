@@ -1,0 +1,17 @@
+0,1,2
+Table 2. Selected genes differentially up-regulated in WT MEFs infected with WT and A30A9 mutant WNVKUN viruses.,,
+WT vs A30A9,,
+ID,logFC,Fold
+Mmp10,0.94,1.92
+Serpinb2,0.74,1.67
+Mmp13,0.69,1.61
+Gas7,0.68,1.61
+Tlr2,0.65,1.57
+Cd40,0.63,1.55
+1200002N14Rik,0.62,1.53
+Atm,0.58,1.49
+Clec4e,0.58,1.49
+Oasl1,0.57,1.49
+Serpina3f,0.57,1.48
+Cxcl10,0.56,1.48
+Ccrl2,0.53,1.44

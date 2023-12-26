@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6,7,8,9,10
+,"Cooper Genome Biology 2014, 15:R67",,,,,,,,,Page 5 of 10
+http://genomebiology.com/2014/15/5/R67,,,,,,,,,,
+,Table 1 Virus peptides identified from plants by tandem mass spectrometry,,,,,,,,,
+Inoculum,Sample,Peptide,Spectra,Missed,Ions,P-value,Observed,Hypothetical,Charge,Record
+,,,,cleavages,score*,,peptide,peptide,state,annotation
+,,,,,,,mass,mass,,
+1-34CE-,NN local,RVDDATVAIR,2,1,50,3.20E-,558.3115,1114.6095,2+,ToMV CP
+ToMV CP-30,lesion 1,,,,,03,,,,
+,,IIEVENQQSPTTAETLDATR,2,0,122,3.50E-,1108.5559,2215.0968,2+,ToMV CP
+,,,,,,11,,,,
+1-34CE-,NN local,RVDDATVAIR,2,1,50,2.40E-,558.3115,1114.6095,2+,ToMV CP
+ToMV CP-30,lesion 2,,,,,03,,,,
+,,IIEVENQQSPTTAETLDATR,2,0,128,2.10E-,1108.5561,2215.0968,2+,ToMV CP
+,,,,,,11,,,,
+1-34CE-,Nicotiana,RVDDATVAIR,3,1,58,1.20E-,558.3113,1114.6095,2+,ToMV CP
+ToMVnoorf6-,benthamiana,,,,,03,,,,
+30,,,,,,,,,,
+,,SAINNLVNELVR,6,0,81,4.30E-,671.3783,1340.7412,2+,ToMV CP
+,,,,,,06,,,,
+,,IIEVENQQSPTTAETLDATR,1,0,105,2.20E-,1108.5542,2215.0968,2+,ToMV CP
+,,,,,,09,,,,
+,,TTVQQQFSEVWKPFPQSTVR,1,0,89,1.70E-,1197.1170,2392.2176,2+,ToMV CP
+,,,,,,08,,,,
+1-34CE-,N.,SQVAEYLAALDR,3,0,104,4.90E-,668.3484,1334.6830,2+,BSMV CP
+BSMV CP-30,benthamiana,,,,,08,,,,
+,,GQIGLPNYLPAPK,1,0,49,4.50E-,684.3877,1366.7609,2+,BSMV CP
+,,,,,,04,,,,
+,,ATTNPSPPAQAPSENLTLR,1,0,109,2.00E-,983.0071,1963.9963,2+,BSMV CP
+,,,,,,09,,,,
+,*Mascot was used for peptide-spectrum matching.,,,,,,,,,

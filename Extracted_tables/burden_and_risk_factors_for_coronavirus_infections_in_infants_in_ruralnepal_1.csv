@@ -1,0 +1,25 @@
+0,1,2,3
+Nonneonates,2.38a (1.53–3.71),2.53a (1.52–4.21),2.05b (1.24–3.37)
+Sex,,,
+Female,Ref,Ref,Ref
+Male,"1
+.14 (.90–1.44)","1
+.31 (1.00–1.73)","1
+.05 (.81–1.37)"
+Gestational age (wk),"1
+.04 (.99–1.09)",,
+Birthweight (g),"1
+.00 (1.00–1.00)",,
+Preterm,,,
+Term,Ref,,
+Preterm,0.97 (.68–1.38),,
+Birth weight and term,,,
+Normal,Ref,,
+LBW,0.93 (.69–1.25),,
+AGA,Ref,,
+SGA,"1
+.00 (.76–1.32)",,
+AGA and term,Ref,Ref,Ref
+AGA and preterm,"1
+.05 (.70–1.57)",0.92 (.61–1.39),0.93 (.63–1.38)
+SGA and term,0.99 (.74–1.32),0.98 (.72–1.34),0.99 (.74–1.33)

@@ -1,0 +1,22 @@
+0,1
+"Paired: Check for 2 priming reac(cid:2)ons, +/- 1 probe",
+"Mux: check for 16 priming reac(cid:2)ons, +/- 2 probes",
+,Paired and mux
+Signature 1:,
+>1|F,
+,Mux only
+GAAACGCGACAAGCCCAC,
+>1|IO,
+,Mux only
+TTCAGGCACGAGGTGTTCCCTGAGTTT,
+>1|R,
+CCAGTTGAAGTTGTCTGAGAAAAGG,Mux only
+Signature 2:,
+,Mux only
+>2|F,
+ATCGGCAGAGATGGGAAAAG,
+>2|IO,Paired and mux
+AACCGGTGATGTGACTATCCGTATTGACACC,
+>2|R,
+GAGGAGCCATCATCTACGCC,
+,Mux only (same primer

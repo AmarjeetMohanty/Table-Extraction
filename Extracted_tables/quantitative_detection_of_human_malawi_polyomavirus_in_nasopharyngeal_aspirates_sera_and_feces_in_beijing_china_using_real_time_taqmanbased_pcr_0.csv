@@ -1,0 +1,26 @@
+0,1,2,3,4,5,6,7,8,9
+Table 1 Viral,,loads and clinical characteristics of MWPyV-positive children,,,,,,,
+Sample,Number,Age (Months),Sex,Date,Symptoms,Diagnosis,,Copy Number,Ct Value
+NPA,BJ20,60,M,Oct-2011,"Fever, cough",Bronchopneumonia,,549.54,34.31
+NPA,BJ130,84,M,Dec-2011,"Fever, cough",Bronchopneumonia,,26.92,38.61
+,,,,,vomiting,,,,
+NPA,BJ242,11,M,Feb-2012,Fever,Bronchopneumonia,,4168.69,31.42
+,,,,,convulsion,rotavirus enteritis,,,
+NPA,BJ289,29,F,Feb-2012,"Fever, cough",Bronchopneumonia,,371.54,34.87
+NPA,BJ325,108,M,Mar-2012,"Fever, cough",Bronchopneumonia,,239.88,35.48
+,,,,,vomiting,,,,
+NPA,BJ531,48,F,May-2012,"Fever, cough",Bronchopneumonia,,112.02,36.59
+NPA,BJ538,72,M,May-2012,"Fever,tonsil hypertrophy",Bronchopneumonia,,181.97,35.88
+,,,,,,Infectious mononucleosis,,,
+NPA,BJ541,12,F,May-2012,"Fever, cough",Bronchopneumonia,,60.26,37.45
+NPA,BJ643,0.4,M,Jun-2012,Fever,"Newborn pneumonia,",,37.15,38.14
+,,,,,,"newborn omphalitis,",,,
+,,,,,,newborn pathological,jaundice,,
+NPA,BJ648,12,M,Jun-2012,Cough,Bronchopneumonia,,40.74,38.02
+,,,,,gasping,Infant asthma,,,
+NPA,BJ813,24,F,Aug-2012,"Fever, cough",Bronchopneumonia,,48.98,37.75
+NPA,BJ817,24,M,Aug-2012,"Fever, cough",Influenza,,58.88,37.51
+NPA,BJ886,108,M,Sep-2012,Cough,Bronchopneumonia,,63.1,37.4
+Feces,BJ193,11,M,Jan-2015,"Fever, diarrhea",Viral diarrhea,,87.1,36.93
+Feces,BJ269,4,F,Jun-2015,"Fever, diarrhea",Viral diarrhea,,46.77,37.84
+Feces,BJ1101,20,M,Feb-2015,"Fever, diarrhea",Viral diarrhea,,50.12,37.73

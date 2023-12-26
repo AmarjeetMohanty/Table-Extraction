@@ -1,0 +1,32 @@
+0,1,2,3,4,5
+,Table 4: Docking score and H-bond interaction of ligands with BRCA2 protein (3EU7).,,,,
+,,Number of,Distance,,Ligand
+Ligand,𝐺 score,,,Protein atom,
+,,H-bonds,( ˚A),,atom
+,,,2.043,LYS1062: (H) HZ3,
+,,,1.994,ASP1122: (O) OD1,
+Doxorubicin,−11.1,4,1.921,ASP1125: (H) H,O H O H H
+,,,1.926,ASP1125: (O) OD2,
+,,,1.843,ASP1122: (O) OD1,
+,,,2.125,ASP1122: (O) OD2,
+Tamoxifen,−5.9,2,,,H H
+,,,2.022,ASP1122: (O) OD2,
+,,,2.179,VAL969: (H) H,
+Letrazole,−3.0,2,,,N N
+,,,2.185,HID1061: (H) HD1,
+,,,2.211,LYS1062: (H) HZ3,
+Cyclophosphamide,−3.2,2,,,O O
+,,,1.923,GLU1018: (H) H,
+,,,2.429,LYS1062: (H) HZ3,
+,,,1.933,LYS1062: (H) HZ3,
+Paclitaxel,−2.9,4,,,O O H H
+,,,1.819,GLY971: (O) O,
+,,,1.408,HID1061: (O) O,
+,,,2.382,GLY1166: (H) H,
+1-(2-Hydroxyphenyl)-4-methylpentan-1-one,−4.5,3,2.287,ALA874: (H) H,O O H
+,,,1.850,ALA874: (O) O,
+,,,2.149,ALA1063: (H) H,
+4-Methylpentyl benzoate,−3.8,2,,,O O
+,,,2.215,LYS1062: (H) HZ2,
+2-[(3-Methylbutoxy)carbonyl] benzoic acid,−3.1,—,—,—,—
+"Glide score, number of H-bond interactions, distance of H-bond interaction, and involved protein atom and ligand atom in interaction of isolated and standard",,,,,

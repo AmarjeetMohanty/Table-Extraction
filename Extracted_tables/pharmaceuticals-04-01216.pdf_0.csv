@@ -1,0 +1,12 @@
+0,1,2,3,4,5
+,,Table 2. SELEX directed against membrane compartments.,,,
+,,,Number of,,
+Chemistry,Membrane extract,Targeted protein,,Partition,Reference
+,,,cycles,,
+,,Mammalian membranes,,,
+DNA,RBC ghosts,ND,25,Filtration,[50]
+2’F-Py RNA,rat brain membranes,GABAA receptor,12,Filtration,[51]
+2’F-Py RNA,T califonica electric organ,nAChR,9,Filtration,[52]
+RNA,HEK293 expressing GluR2 subunit,AMPA receptor,14,ND,[53]
+,,Bacterial membranes,,,
+DNA,Salmonella enterica serovars,ND,7,Filtration,[54]

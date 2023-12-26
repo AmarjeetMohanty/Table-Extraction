@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6
+,,Mean LACV titer (log10 PFU/g) on indicated day post inoculationa,,,,
+Tissue,1,2,3,4,5,6b
+Serum,2.7,2.8,2.8,,,
+Inguinal lymph node,1.7,1.7,2.2,,,
+Spleen,2.0,,3.1,,,
+Ovaries/uterus,2.4,1.7,3.0,,,2
+Pancreas,3.9,2.6,2.7,,,
+Skin stomach,2.0,1.4,,,,
+Liver,,3.6,,,,
+Thymus,,,,,,
+Stomach,,,,,,
+Skin front leg,,,1.7,,,
+Mesenteric lymph nodes,,,3.2,,,
+Kidney,,,2.4,,,
+Small intestine,,,1.9,,3.3,
+Large intestine,,,,,3.2,
+Muscle,,,3.2,2.4,3.0,2.1
+Heart,,,2.0,2.7,4.3,
+Lung,2.8,2.9,3.8,,3.8,3.8
+Nasal turbinates,,3.6,4.4,4.0,5.6,7.3
+Brain,,1.8,2.9,7.4,7.6,6.9
+Spinal cord,,,3.5,5.6,7.2,6.4

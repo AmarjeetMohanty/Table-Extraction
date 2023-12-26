@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+,,,recovered from pigs infected with PRRSV strain 16244B,,,,,,,,
+,,,,Amino acid substitution from PRRSV isolate:,,,,,,,
+Genome,,,,,,,,,,,
+region,,,,,,,,,,,
+,"3-7
+3-84","3-84b
+3-150b",22-7,22-84b,27-7,27-84b,31-7,31-84b,31-150b,32-7,32-84b
+Nsp1a,,,,A114T,,A114T,,I81V,,,A114T
+ORF2,,,,Q189R,,Q189R,,Q189R,,,Q189R
+,,,,A223T,,A223T,,L203P,,,A223T
+ORF3,I215T,"I215T
+I215T",,S15N,,S15N,,H79Y,I215T,,S15N
+,,T64A,,,,,,S106G,,,
+,,,,,,,,Q151R,,,
+ORF4,E35K,"E35K
+E35K",,A45V,,A45V,,S51G,E35K,,A45V
+,,M157T,,,,,,F118L,V127E,,
+ORF5,N58D,"N58D
+N58D",,D61N,,D61N,,D61N,N58D,,D61N
+,Y141H,Y141H,,,,,,,Y141H,,
+ORF6,K70E,K70E,,,,,,T63M,K70E,,

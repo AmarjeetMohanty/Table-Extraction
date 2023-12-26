@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6,7,8
+A,ADCC,,B,,,,,
+,,,,,ADE,,,
+25,,,,,,,,
+,,AC4,200,,,,,
+,,,,,,,,AC4
+20,,AC10,,,,,,
+,,,,,,,,AC10
+,,AC11,,,,,,
+,,,150,,,,,
+15,,,,,,,,AC11
+,,AC3,,,,,,
+FoldInduction,,AD5,,,,,,AC3
+10,,,"FoldInduction
+100",,,,,
+,,FA12,,,,,,AD5
+,,FC11,,,,,,FA12
+5,,,,,,,,
+,,AA1,50,,,,,FC11
+0,,FC3,,,,,,AA1
+10,"1
+0.1
+0.01
+0.001",GD12,,,,,,
+,,,0,,,,,FC3
+,Antibody Concentration ug/mL,GA3,,,,,,
+,,,,10 0,10 -2,10 -4,10 -6,GD12
+,,EA7,,,,,,
+,,,,,Antibody Concentration ug/mL,,,
+,,,,,,,,GA3
+,,AA12 (Anti-NS1),,,,,,
+,,,,,,,,EA7
+,,CR9114 (Negative Control),,,,,,
+,,,,,,,,IgG (Negative Control)
+,,4G2 (Anti-Envelope),,,,,,
+C,,,,,,,,

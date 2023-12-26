@@ -1,0 +1,17 @@
+0,1,2,3,4
+,,,,DC-SIGN Mediates Infection by Influenza A Virus
+,Table 1. Number of putative N linked glycosylation sites present,,in HA1 and in HA2 of the viruses used in this study.,
+,,Number of putative glycosylation sites in,,Predicted number of glycosylation sites in
+Virus,,,,
+,HA1,HA2,HA1,HA2
+swine/Iowa/15/30,1,5,1,4
+mallard/NL/15/05,ND,ND,ND,ND
+PuertoRico/8/34,1,6,4,5
+USSR/90/77,4,6,3,5
+NL/364/06,4,5,4,5
+swine/oedenrode/7C/96,4,6,3,4
+NL/35/93,2,5,1,4
+NL/312/03,7,4,6,4
+NL/348/07,7,4,5,3
+The software NetNGlyc (http://www.cbs.dtu.dk/services/NetNGlyc/)was used to predict,,,the number of glycosylation sites that will be utilized.,
+doi:10.1371/journal.pone.0056164.t001,,,,

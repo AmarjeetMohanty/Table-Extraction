@@ -1,0 +1,17 @@
+0,1,2,3,4
+,,Data from 15 Jul to 15 Sep 2014 including importations,,Data from 15 Jul to 15 Sep 2014 excluding
+,for treatment purposes (n = 6),,,importations for treatment purposes (n = 2)
+Variable,Negative log-likelihood,p-value,Negative log-likelihood,p-value
+,,(LR test)$,,(LR test)$
+Constant hazard,52.4,reference,19.7,reference
++Language,52.0,0.777,18.26,0.185
++Religion,51.7,0.459,19.44,0.980
++Trade,47.7,0.005,18.15,0.161
++Visa exemption,52.1,0.943,16.51,0.024
++Immigration,45.8,0.001,17.52,0.075
+Constant hazard + Deff,48.8,reference,18.4,reference
++Language,48.5,0.873,17.04,0.202
++Religion,48.2,0.539,18.18,0.946
++Trade,45.0,0.012,17.16,0.235
++Visa exemption,48.7,0.729,15.56,0.035
++Immigration,43.7,0.003,16.73,0.138

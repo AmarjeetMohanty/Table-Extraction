@@ -1,0 +1,20 @@
+0,1,2,3,4
+8,,,Computational and Mathematical Methods in Medicine,
+,,Table 5: The basic information of 16 ND5 protein sequences.,,
+Number,Name,Abbreviation,Access number,Length
+1,Human,Human,ADT80430.1,603
+2,Gorilla,Gorilla,NP 008222,603
+3,Pigmy chimpanzee,Pi-chim,NP 008209,603
+4,Common chimpanzee,C-chim,NP 008196,603
+5,Fin-whale,Fin-whale,NP 006899,606
+6,Blue-whale,Blue-whale,NP 007066,606
+7,Rat,Rat,AP 004902.1,610
+8,Mouse,Mouse,NP 904338,607
+9,Opossum,Opossum,NP 007105,602
+10,Sheep,Sheep,ABW22903.1,606
+11,Goat,Goat,BAN59258.1,606
+12,Lemur,Lemur,CAD13431.1,603
+13,Cattle,Cattle,ADN11902.1,606
+14,Hare,Hare,CAD13291.1,603
+15,Gallus,Gallus,BAE16036.1,605
+16,Rabbit,Rabbit,NP 007559.1,603

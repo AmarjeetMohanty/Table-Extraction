@@ -1,0 +1,19 @@
+0,1,2,3,4,5,6
+"Table 1 Geographic location, number of bats tested and number of samples positive for coronavirus in Madagascar",,,,,,
+Sampling,Geographic,Period of capture,Nb. bats,Species,No. samples tested,No. samples positive
+region/site,location,,captured,,throat/fecal,throat/fecal
+Toliara,Southwest,Feb. 2007,85,Eidolon dupreanum,0/85,0/0
+Anosibe An’ala,Northeast,Feb. 2010,55,Rousettus,55/19,0/0
+,,,,madagascariensis,,
+Menabe,Southwest,Jun. 2010 Jul. 2011,,,,
+Manamby,,,3,Pteropus rufus,3/3,0/0
+Befasy,,,3,Pteropus rufus,3/3,0/0
+Ankiliabo,,,48,Pteropus rufus,48/48,0/5
+,,,1,Eidolon dupreanum,1/1,0/0
+Mahabo,,,9,Pteropus rufus,9/9,0/2
+,,,8,Eidolon dupreanum,8/8,0/1
+Bemanonga,,,13,Pteropus rufus,13/13,0/6
+,,,2,Eidolon dupreanum,2/2,0/0
+Anjohibe,Northwest,Nov. 2010 Nov. 2011,124,Rousettus,123/122,0/0
+,,,,madagascariensis,,
+Total,,,351,,265/313,0/14

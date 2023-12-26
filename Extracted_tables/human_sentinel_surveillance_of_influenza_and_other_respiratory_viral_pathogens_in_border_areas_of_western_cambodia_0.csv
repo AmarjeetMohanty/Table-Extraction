@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+Table 1. Dataset descriptions and models used in maximum likelihood phylogenetic analysis.,,,,,,,,,,,,,,,,,,
+Inﬂuenza,Segment,Full/,No. of,,,,Specimen collection by site and year,,,,,,,,,No. of References,Modelc,-lnL
+Subtype,,Partial,Samples,,BTB,,,OM,,,PL,,,BMC,,,,
+,,,,2011,,2012,2011,,2012,2011,,2012,2011,,2012,,,
+pH1N1,HA,Partiala,14,3,,1,7,,0,1,,1,0,,1,201,GTR+G,7486.9
+pH1N1,NP,Full,15,3,,2,7,,0,1,,1,0,,1,125,GTR+G,3852.9
+pH1N1,NA,Partialb,14,3,,1,7,,0,1,,1,0,,1,125,GTR+G,4081.0
+pH1N1,MP,Full,15,3,,2,7,,0,1,,1,0,,1,124,GTR+I,2212.4
+pH1N1,NS,Full,15,3,,2,7,,0,1,,1,0,,1,125,GTR+I,2292.2
+,,,,,5d,,,7 d,,,2 d,,,1 d,,,,
+H3N2,HA,Full,10,2,,1,1,,5,1,,0,0,,0,169,GTR+G+I,8028.8
+H3N2,NA,Full,10,2,,1,1,,5,1,,0,0,,0,103,GTR+G,4569.2
+H3N2,MP,Full,10,2,,1,1,,5,1,,0,0,,0,122,GTR+G,3156.4
+H3N2,NS,Full,10,2,,1,1,,5,1,,0,0,,0,110,GTR+I,3325.5
+,,,,,3 d,,,6 d,,,1 d,,,0 d,,,,

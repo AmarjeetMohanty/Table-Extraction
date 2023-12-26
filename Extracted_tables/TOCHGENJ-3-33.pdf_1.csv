@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6
+Table 2.,Viability and Cytotoxicity Assay Reagents for HTS,,,,,
+,,,Detection,Reagent Incubation,Sensitivity*,Multiplex
+Assay Type,Reagent Name,Biomarker,,,,
+,,,Method¥,Period,(cells/well),Options#
+,CellTiter Blue®,Reductase(s),Fluorescence,2-4 hrs,50,Yes†
+Viability,CellTiter-Fluor™,Protease(s),Fluorescence,30 min,10-50,Yes
+,CellTiter-Glo®,ATP,Luminescence,10 min,10,Yes†
+,CytoTox-ONE™,LDH,Fluorescence,10 min,~200,Yes†
+Cytotoxicity,CytoTox-Fluor™,Protease(s),Fluorescence,30 min,10-50,Yes
+,CytoTox-Glo™,Protease(s),Luminescence,15 min,10,Yes†
+,,,Fluorescence/,,10-50/,
+,MultiTox-Fluor,Protease(s),,30 min,,Yes
+,,,Fluorescence,,10-50,
+Viability,,,,,,
+,,,Fluorescence/,30 min/,10-50/,
+and,MultiTox-Glo,Protease(s),,,,Yes
+,,,Luminescence,15min,10,
+Cytotoxicity,,,,,,
+,CytoTox-Glo™,,Luminescence/,15 min/,10/,
+,,Protease(s),,,,Yes†
+,With (2nd step lysis),,Luminescence,15 min,10,
+,¥Detection method for combination viability and cytotoxicity assays is denoted as viability format/cytotoxicity format.,,,,,

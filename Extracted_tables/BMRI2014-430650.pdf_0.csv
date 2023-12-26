@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,,,,Table 4: Analytical sensitivity of the three automated nucleic acid extraction systems.,,,,,,,,,,,
+Virus strain,,,ADV-3 (detected/replicates),,,,,FluA (detected/replicates),,,,,RSV-A (detected/replicates),,
+dilution factor,10−6,10−7,10−8,10−9,10−10,10−5,10−6,10−7,10−8,10−9,10−4,10−5,10−6,10−7,10−8
+QIAcube,,,,,,,,,,,,,,,
+,5/5,3/5,0/5,0/5,0/5,5/5,2/5,1/5,0/5,0/5,5/5,4/5,0/5,0/5,0/5
+(QIAGEN),,,,,,,,,,,,,,,
+EZ1 (QIAGEN),5/5,5/5,0/5,0/5,0/5,5/5,5/5,2/5,1/5,0/5,5/5,5/5,3/5,1/5,0/5
+NIMBUS,,,,,,,,,,,,,,,
+,5/5,4/5,0/5,0/5,0/5,5/5,4/5,0/5,0/5,0/5,5/5,2/5,1/5,0/5,0/5
+(Seegene),,,,,,,,,,,,,,,

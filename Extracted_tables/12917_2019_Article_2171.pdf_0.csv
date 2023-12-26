@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6,7,8
+Table 1 The summary of the result of serological assays in each group.,,,,,(+): positive;,(−): negative; NE: non-examination; C-N:,,
+,conventional PEDV naïve pigs; C-I: experimental PEDV inoculated conventional pigs; SPF-N: specific pathogen free PEDV naïve pigs;,,,,,,,
+,SPF-I: experimental PEDV inoculated SPF pigs; Sow-F: PEDV-feedback sows. NE: non-examined,,,,,,,
+Group,No.,Commercial N-based ELISA,,,Full-length S-based ELISA,,,S1–501-based ELISA
+,of,,,,,,,
+,,+,–,+,,–,+,–
+,pigs,,,,,,,
+C-N,55,0,55,5,,50,0,55
+,144,NE,NE,6,,138,2,142
+C-I,23,8,15,23,,0,23,0
+,27,NE,NE,25,,2,26,1
+SPF-N,14,0,14,0,,14,0,14
+SPF-I,14,11,3,14,,0,14,0
+Sow-F,26,4,22,26,,0,26,0
+Sensitivity,,37%,,97.8%,,,98.9%,
+Specificity,,100%,,94%,,,99.1%,
+Kappa value,,0.37,,0.90,,,0.97,

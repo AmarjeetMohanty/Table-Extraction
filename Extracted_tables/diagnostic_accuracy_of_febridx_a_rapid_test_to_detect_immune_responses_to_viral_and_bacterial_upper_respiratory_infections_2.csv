@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6
+,,,Table 4. Cont.,,,
+,,Bacterial/Viral,,,FebriDx Test Characteristics,
+Population,Total n,by Reference,,,,
+,,,Sens (%),Spec (%),PPV (%),NPV (%)
+,,"Standard, n (%)",,,,
+,,,(95% CI),(95% CI),(95% CI),(95% CI)
+,,,(B) Viral,,,
+Full URI,,,,,,
+,205,53 (26%),87% (75–95%),83% (77–89%),64% (53–75%),95% (90–98%)
+population,,,,,,
+Age <18,56,25 (45%),96% (80–100%),55% (37–73%),63% (47–78%),94% (73–100%)
+Age 18–50,112,21 (19%),76% (53–92%),87% (80–93%),57% (38–76%),94% (87–98%)
+Age >50,37,7 (19%),86% (42–100%),100% (89–100%)*,100% (54–100%) *,97% (83–100%)
+,* A 97.5% one-sided lower bound of the conﬁdence interval is provided for point estimates of 100%.,,,,,

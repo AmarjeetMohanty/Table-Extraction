@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6,7
+,spike (S) gene mutations in cerebrospinal ﬂuid (CSF) samples. Feline infectious peritonitis (FIP) was,,,,,,
+,"conﬁrmed by histopathology and immunohistochemistry (IHC). Control cats, if present, were cats with",,,,,,
+,diseases other than FIP (with clinical signs consistent with FIP).,,,,,,
+,Sample,Number of,,,,Reference,Control
+Study,,,Assay,Sensitivity,Speciﬁcity,,
+,Type,Samples,,,,Standard for FIP,Cats
+,,,,,,,Diseases
+,,FIP (n = 31),Real-time,,,,
+[188],CSF,,,10%,n. d.,Histopathology/IHC,other than
+,,Controls (n = 29),RT-PCR,,,,
+,,,,,,,FIP
+,,FIP with,,,,,
+,,neurological,,,,,
+,,,,,,,Diseases
+,,signs (n = 6),Real-time,,,,
+[188],CSF,,,17%,n. d.,Histopathology/IHC,other than
+,,Controls with,RT-PCR,,,,
+,,,,,,,FIP
+,,neurological,,,,,
+,,signs (n = 10),,,,,
+,,,Real-time,,,,
+[141],CSF,FIP (n = 16),,44%,n. d.,Histopathology/IHC,None
+,,,RT-PCR,,,,
+,,,n. d. = not determined; RT-PCR = reverse transcriptase polymerase chain reaction.,,,,

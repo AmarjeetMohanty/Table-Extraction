@@ -1,0 +1,22 @@
+0,1,2,3,4
+Table 1. Summary of sequencing data of eukaryotic viruses and picornaviruses detected in HFMD pool samples.,,,,
+,Eukaryotic viruses detected,,Picornaviruses detected,
+Library Sample,List of Virus,Read,List of Virus,Read
+HFMD-lib01,Picornaviruses,"1,244",Saffold virus,788
+,Bocaparvovirus,"1,291",Coxsackie virus A10,433
+,Astrovirus,10,Coxsackie virus A16,17
+,Calicivirus,7,Enterovirus 71,3
+,Adenovirus,9,Enterovirus 68,3
+,Reovirus,30,,
+HFMD-lib02,Picornaviruses,"1,784",Rhinovirus C,"1,772"
+,Calicivirus,11,Coxsackie virus A8,6
+,Adenovirus,3,Saffold virus,4
+,,,Coxsackie virus A21,2
+HFMD-lib03,Picornaviruses,"1,678",Coxsackie virus A21,"1,334"
+,Astrovirus,"1,469",Coxsackie virus B1,125
+,Calicivirus,703,Enterovirus B,200
+,Paramyxovirus,187,Echovirus 3,17
+,Adenovirus,21,Enterovirus A,2
+,Picobirnavirus,29,,
+,Polyomavirus,6,,
+doi:10.1371/journal.pone.0135573.t001,,,,

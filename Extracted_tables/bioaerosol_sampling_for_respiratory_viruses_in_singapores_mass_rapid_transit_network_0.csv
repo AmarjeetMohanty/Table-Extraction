@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6
+,,North East MRT Line (Purple),,,East West MRT Line (Green),
+,Average,,,Average,,
+,,,Light Intensity,,,Light Intensity
+,Temperature (°C),RH (%),(lum/m²),Temperature (°C),RH (%),(lum/m²)
+Virus-positive,,,,,,
+Aerosol Samples,27,63,710.4,28,63,730.7
+Influenza A virus,1 (>4 μm),,,0** (>4 μm),,
+Influenza B virus,0,,,0,,
+Adenovirus,6 (>4 μm; ≤4 μm),,,3 (>4 μm),,
+Enterovirus,0,,,0,,
+Coronavirus,0,,,0,,
+RSV-A,2 (>4 μm; ≤4 μm),,,2 (>4 μm; ≤4 μm),,
+RSV-B,0,,,0,,
+Total,9 (>4 μm; ≤4 μm),,,5 (>4 μm; ≤4 μm),,

@@ -1,0 +1,34 @@
+0,1,2,3,4,5,6
+,,Table 2. Coding potential and predicted domains in diﬀerent proteins of Rs-BatCoV HKU32 strain TLC28A.,,,,
+,,,,,Putative TRS,
+,Nucleotide Positions,,,,Nucleotide Position,TRS Sequence (Distance
+ORF,,No. of Nucleotides,No. of Amino Acids,Frame(s),,
+,(Start–End),,,,in Genome,(No. of Bases) to AUG) 1
+1ab,"291–20,428","20,137",6712,"+2, +3",69,AACUAAAC(216)AUG
+nsp1,291–875,585,195,+3,,
+nsp2,876–2963,2088,696,+3,,
+nsp3,2964–7649,4686,1562,+3,,
+nps4,7650–9083,1434,478,+3,,
+nsp5,9084–9989,906,302,+3,,
+nsp6,9990–10817,828,276,+3,,
+nsp7,"10,818–11,066",249,83,+3,,
+nsp8,"11,067–11,651",585,195,+3,,
+nsp9,"11,652–11,975",324,108,+3,,
+nsp10,"11,976–12,383",408,136,+3,,
+nsp11,,51,17,+3,,
+nsp12,"12,384–15,163",2780,927,+2,,
+nsp13,"15,164–16,954",1791,597,+2,,
+nsp14,"16,955–18,508",1554,518,+2,,
+nsp15,"18,509–19,525",1017,339,+2,,
+nsp16,"19,526–20,428",903,300,+2,,
+S,"20,430–24,485",4056,1351,+2,"20,421",AACUAAAU(3)AUG
+ORF3,"24,485–25,153",669,222,+3,"24,279",TCCUUAAC(199)AUG
+ORF4,"25,184–25,543",360,119,+2,,
+ORF5a,"25,544–25,888",345,114,+2,"25,540",GACUAAAUG
+ORF5b,"25,782–26,225",444,147,+3,,
+E,"26,209–26,433",225,74,+1,"26,140",AACUAAAC(64)AUG
+M,"26,440–27,126",687,228,+1,"26,430",GTCUAAAC(4)AUG
+N,"27,137–28,279",1143,380,+2,"27,128",AACUAAAC(3)AUG
+ORF9,"28,251–28,568",318,105,+3,"28,187",AGCUGAAC(58)AUG
+ORF10 (SARS-CoV ORF7a-like protein),"28,593–28,955",363,120,+3,"28,284",AACUAAAC(303)AUG
+,,,1 TRS sequences are shown in bold.,,,

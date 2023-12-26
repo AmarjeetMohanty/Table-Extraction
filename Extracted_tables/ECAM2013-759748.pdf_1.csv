@@ -1,0 +1,13 @@
+0,1,2,3,4,5
+6,,,,Evidence-Based Complementary and Alternative Medicine,
+,,Table 5: Multivariate analysis of independent predictor for sepsis mortality.,,,
+,,,Prediction rate: 70.6%,,
+Variable,,,,,
+,𝐵,,,,
+,,Wald,Relative risk,95% CI,𝑃 value
+Age,−0.01,0.77,0.99,0.96–1.02,NS
+Gender,0.33,0.55,1.39,0.59–3.29,NS
+APACHE II,0.03,1.11,1.03,0.98–1.01,NS
+Nutrient-phase Zheng,0.31,0.51,1.36,0.58–3.16,NS
+Yang-Xu Zheng,1.75,16.62,5.74,2.48–13.3,<0.01
+Multivariate logistic regression analysis was performed by “enter” method.,,,,,

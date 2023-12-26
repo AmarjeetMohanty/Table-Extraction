@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6,7,8
+,,,,,,,,Competitive Fitness and DMVs
+,TABLE 2 DMV and virion size in infected cells,,,,,,,
+,,,,Double-membrane vesicles,,Intracellular virions,,
+Conditions,Virus,ts,n,Sizea (nm),Pb,n,Sizea (nm),P
+"L929, 37°C, 5 hpic",Wild-type,,302,179 (cid:3) 36,,63,75 (cid:3) 9,
+,Wüts18,nsp16,196,157 (cid:3) 61,2 (cid:5) 10(cid:4)6,77,75 (cid:3) 8,NSd
+,Revertant,nsp16e,165,178 (cid:3) 31,NS,42,77 (cid:3) 13,NS
+"DBT, 33°C, 5.5 hpi",Wild type,,468,228 (cid:3) 45,,74,69 (cid:3) 8,
+,Brts31,nsp3,58,195 (cid:3) 38,2 (cid:5) 10(cid:4)6,70,69 (cid:3) 9,NS
+"DBT, 40°C, 5.5 hpif",Wild type,,841,218 (cid:3) 50,9 (cid:5) 10(cid:4)5,141,71 (cid:3) 10,NS
+"17cl1, 33°C,10 hpi",Wild type,,604,228 (cid:3) 36,,169,68 (cid:3) 10,
+,Brts31,nsp3,403,208 (cid:3) 34,5 (cid:5) 10(cid:4)19,263,68 (cid:3) 10,NS
+,Albts16,nsp5,459,189 (cid:3) 33,8 (cid:5) 10(cid:4)66,102,70 (cid:3) 8,NS
+,Brts105,nsp14,463,220 (cid:3) 36,2 (cid:5) 10(cid:4)4,278,69 (cid:3) 10,NS
+,Wüts18,nsp16,456,211 (cid:3) 35,2 (cid:5) 10(cid:4)15,39,67 (cid:3) 12,NS
+,Albts22g,nsp12,231,204 (cid:3) 43,2 (cid:5) 10(cid:4)13,34,68 (cid:3) 11,NS
+,a Size was calculated as perimeter length divided by (cid:4); data are means (cid:3) standard deviations.,,,,,,,

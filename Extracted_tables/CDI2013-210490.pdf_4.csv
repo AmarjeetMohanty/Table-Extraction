@@ -1,0 +1,12 @@
+0,1,2,3,4,5
+,,Table 5: The number of patients with a combination of viral and bacterial pathogens in patients with LRTIs.,,,
+,Total,K. pneumonia,S. viridans,Group D streptococci,S. mitis
+ADV,3,2,1,0,0
+HBoV,13,3,1,7,7
+CoV,5,0,3,2,2
+hMPV,7,3,2,1,1
+IFV,10,1,1,4,4
+RSV,18,1,2,2,8
+PIV,38,14,11,0,0
+EV,2,1,1,1,1
+RV,42,7,11,0,13

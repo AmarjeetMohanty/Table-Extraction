@@ -1,0 +1,14 @@
+0,1,2,3,4
+,,TABLE 2. Oligonucleotide primers used in the RT-PCR assay,,
+,,,,Reference or
+Primer,Sequence (59 to 39),Positiona,Orientation,
+,,,,source
+NF1287,GTGTCAGAAATAGCATCCAAG,1287–1307,Sense,35
+p2,GTGGGATCCAGACTGGTCTTGAATAT,1705–1680,Antisence,35
+CDV H13,CAAGACAAGGTGGGTGCCTT,7091–7110,Sense,20
+CDV H18,CTTGGTGAAATCGAACTCCA,7265–7246,Antisence,20
+RH-3,AGGGCTCAGGTACTCCAGC,7059–7077,Sense,18
+RH-4,AATGCTAGAGATGGTTTAATT,8995–8975,Antisence,18
+CDV-F8,GTTGTTGCTGATTTACTGTT,6800–6819,Sense,Present study
+CDV-R8,CCCCGTCTGTTATTTTGCTA,9399–9380,Antisence,Present study
+a Numerical position on the genome of CDV Onderstepoort.,,,,

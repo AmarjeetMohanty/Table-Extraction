@@ -1,0 +1,29 @@
+0,1,2,3
+,TABLE 3 Reconciliation results of 23 discordant samples that were negative by the Aries,,
+,assay for B. pertussis but positive by each study site’s standard-of-care IS481 PCR assaysa,,
+,,,Site IS481 assay
+Study site,Sample,Sequencing result,CT value
+Site A,02-003,POS (Bordetella pertussis)b,
+,02-006,NEG,37.0
+,02-007,POS (Bordetella holmesii)c,
+,02-037,POS (Bordetella pertussis)b,
+,02-059,NEG,37.3
+,02-076,POS (Bordetella pertussis)b,
+,02-103,POS (Bordetella pertussis)b,
+,02-119,NEG,36.9
+,02-165,NEG,36.5
+,02-407,NEG,38.1
+,02-501,NEG,38.6
+Site B,05-005,NEG,40.1
+,05-013,NEG,38.5
+,05-024,NEG,39.2
+Site C,06-031,NEG,36.7
+,06-076,NEG,36.0
+,06-125,POS (Bordetella holmesii),
+,06-156,NEG,32.8
+,06-172,NEG,31.2
+,06-174,POS (Bordetella pertussis),
+,06-179,POS (Bordetella holmesii)c,
+,06-314,NEG,33.5
+,06-332,NEG,36.9
+"aPOS, positive; NEG, negative.",,,

@@ -1,0 +1,40 @@
+0,1,2,3,4,5,6,7,8,9,10
+Table 1. Summary of published reports and their conclusions,,,,,,,,,,
+"NA, Not applicable; ND, not determined.",,,,,,,,,,
+Vaccine,,Vaccine vector,,Pre-existing immunity,,Vectored antigen,,CMI response,Humoral,Reference
+recipient,,,,organism,,,,,response,
+,,,,,,,,,+,
+Mouse,,S. dublin,,S. dublin,,NA,,ND,,Bao & Clements (1991)
+,,,,,,,,,++,
+Mouse,,S. dublin,S.,typhimurium,,NA,,ND,,Bao & Clements (1991)
+,,,,,,,,,++,
+Mouse,S.,typhimurium,S.,typhimurium,Glucan-binding domain of,,,ND,,Jespersgaard et al. (2001)
+,,,,,,"glucosyltransferase, Streptococcus mutans",,,,
+,,,,,,,,,++,
+Mouse,S.,typhimurium,S.,typhimurium,,"Haemagglutinin, Porphyromonas gingivalis",,ND,,"Kohler et al. (2000a, b)"
+,,,,,,,,,++,
+Human,S.,typhi Ty21a,,S typhi Ty21a,,"Urease subunits A and B, Helicobacter pylori",,No change,,Metzger et al. (2004)
+,,,,,,,,++,+++,
+Mouse,S.,typhimurium,S.,typhimurium,"Ovalbumin, G. gallus",,,,,Saxena et al. (2009)
+,,,,,,,,++,++,
+Mouse,S.,typhimurium,,Salmonella enterica,"Ovalbumin, G. gallus",,,,,Saxena et al. (2009)
+,,,,serovar Enteritidis,,,,,,
+,,,,,,,,++,,
+Mouse,,S. dublin,S.,typhimurium,,Fusion protein of Yersinia outer protein E,,,ND,Sevil Dome`nech et al. (2008)
+,,,,,,and p60 from L. monocytogenes,,,,
+,,,,,,,,++,,
+Mouse,S.,typhimurium,,S. dublin,,Fusion protein of Yersinia outer protein E,,,ND,Sevil Dome`nech et al. (2008)
+,,,,,,and p60 from L. monocytogenes,,,,
+,,,,,,,,,+++,
+Mouse,,S. dublin,,S. dublin,,"Envelope protein, Murray Valley",,ND,,Whittle & Verma (1997)
+,,,,,encephalitis virus,,,,,
+Mouse,S.,stanley,S.,stanley,,"Fimbrial protein K88, E. coli",,ND,222,Attridge et al. (1997)
+Mouse,S.,stanley,,Salmonella strasbourg,,"Fimbrial protein K88, E. coli",,ND,2,Attridge et al. (1997)
+Mouse,S.,typhimurium,S.,typhimurium,C fragment of,"tetanus toxin,",,ND,22,Gahan et al. (2008)
+,,,,,Clostridium tetani,,,,,
+Mouse,S.,typhimurium,S.,typhimurium,C fragment of,"tetanus toxin, C.",tetani,ND,222,Roberts et al. (1999)
+Mouse,S.,typhimurium,,S. dublin,C fragment of,"tetanus toxin, C.",tetani,ND,22,Roberts et al. (1999)
+Mouse,S.,typhimurium,S.,typhimurium,,Fusion protein of Yersinia outer protein E,,222,ND,Sevil Dome`nech et al. (2007)
+,,,,,,and p60 from L. monocytogenes,,,,
+Mouse,S.,stanley,S.,stanley,,"Fimbrial protein K88, E. coli",,ND,222,Vindurampulle & Attridge (2003b)
+Mouse,,S. dublin,S.,stanley,,"Fimbrial protein K88, E. coli",,ND,222,Vindurampulle & Attridge (2003b)

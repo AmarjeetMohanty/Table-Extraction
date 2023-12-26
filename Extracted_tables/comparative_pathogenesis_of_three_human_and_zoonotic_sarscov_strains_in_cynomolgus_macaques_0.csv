@@ -1,0 +1,20 @@
+0,1,2,3,4,5
+,Table 1. The top differentially upregulated genes belonging to the interferon signaling and immune response pathways.,,,,
+,,,Fold Change,,
+,Gene Symbol,RefSeq Transcript ID,Urbani,GZ02,HC/SZ/61/03
+Interferon signalling,IFIT1,XM_001086535,18,14,14.6
+,IFIT3,XM_001086192,24.9,16.6,19.6
+,IFITM1,XM_001085444,7.8,6.5,6.7
+,IRF1,XM_001104294,8.8,6.9,-
+,ISG15,XM_001088541,57.4,51,45.4
+,MX1,XM_001107646,46,39.4,21.9
+,OAS1,XM_001110682,23,11.5,14.4
+,SOCS1,XM_001104595,5.5,-,-
+,STAT1,XR_009921,6.2,6,6.4
+,STAT2,XM_001115072,8.6,7.1,5.1
+,TAP1,XM_001115506,3.7,-,-
+Immune response,CCL8,NM_001032851,20.3,8.6,14
+,CXCL10,NM_001032892,35.6,22.4,14.7
+,CXCL11,NM_001032950,15.9,25.2,22
+,IL-1ra,XM_001091833,6.9,11,6.7
+,IL-29,XM_001085768,7.5,2.9,3.5

@@ -1,0 +1,14 @@
+0,1,2
+Characteristics,Risk of death,
+,Adjusted OR,(95% CI)
+"Age group, in years",,
+0–45,1.00,
+46–65,8.83,"(1.26, 62.06)"
+65+,19.65,"(1.39, 278.81)"
+Female,1.00,
+Male,0.65,"(0.08, 5.35)"
+Other occupation,1.00,
+Heath care workers,0.12,"(0.01, 0.91)"
+No comorbid disease,1.00,
+With any comorbid disease,1.03,"(0.06, 16.39)"
+doi:10.1371/journal.pone.0165978.t007,,

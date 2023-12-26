@@ -1,0 +1,12 @@
+0,1,2,3
+Table 60 (abstract A188). Characteristics in patients with/without,,,
+sepsis-1,,,
+Variable,Sepsis,,P-value
+,No,Yes,
+,n (%),n (%),
+Gender,,,
+Female,43063(29.35%),5706(43.67%),<.0001
+Male,103674(70.65%),7359(56.33%),
+Age (years),,,
+<65,64198(43.75%),2532(19.38%),<.0001
+≧65,82539(56.25%),10533(80.62%),

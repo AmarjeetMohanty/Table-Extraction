@@ -1,0 +1,20 @@
+0,1,2,3,4
+Table 2: SNPs in MASP2,,,,
+Region,Nucleotidea,dbSNP ID,MAFb,Coding polymorphism
+5'Up-stream,-153(A/C),rs7548659,0.230,
+intron4,3629(C/T),-,0.017,
+intron5,3934(C/T),rs3737612,0.017,
+intron6,9402(G/T),-,0.017,
+exon7,9420(A/G),rs12142107,0.017,Ala/Ala
+intron7,9736(C/T),-,0.017,
+intron7,9740(G/T),-,0.017,
+intron7,12246(A/G),rs6695096,0.140,
+intron8,16254(C/T),rs9430176,0.190,
+exon9,16369(G/T),rs12711521,0.350,Tyr/Asp
+exon9,16388(C/T),rs2273346,0.190,Ala/Val
+exon11,19594(C/T),rs1782455,0.130,Ser/Ser
+exon11,20009(A/C),-,0.017,
+exon11,20250(A/C),-,0.017,
+3'UTR,20564(C/T),rs1033638,0.138,
+3'Down-stream,20842(G/A),rs2261695,0.143,
+3'Down-stream,20949(T/C),rs2273347,0.340,

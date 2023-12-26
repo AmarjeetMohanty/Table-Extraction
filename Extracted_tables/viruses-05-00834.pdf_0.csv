@@ -1,0 +1,27 @@
+0,1,2,3,4,5
+"Table 
+2.","Inhibition 
+of",the,"IFN 
+pathway","by 
+rabies,  Hendra","and  Nipah 
+virus"
+,phosphoproteins products.,,,,
+Virus,Family,,Protein,Mechanism,References
+,,,,Inhibition of IRF3 phosphorylation,
+Rabies virus,Rhabdoviridae,,P,,[89]
+,,,,by TBK1,
+,,,,Sequestration of STAT1/2 in the,
+,,,,,"[90,91]"
+,,,,cytoplasm,
+,,,,Inhibition of ISGF3 binding to,
+,,,,,[92]
+,,,,promoter,
+,,,,Interaction with PML,"[95,96]"
+Hendra and Nipah,,,,,[98]
+,Paramyxoviridae,,V,Inhibition of MDA-5,
+viruses,,,,,[99]
+,,,V,Lgp2 + RIG-I,
+,,,,,[100]
+,,,W,Inhibition of TLR3 signaling via TRIF,
+,,,,,[101]
+,,,"P, V, W",Inhibition of STAT-1 phosphorylation,[102-105]

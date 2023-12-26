@@ -1,0 +1,56 @@
+0,1,2,3
+T,,"B
+ioinformatics",
+"able 
+1: 
+Analytical","strategy 
+for 
+binding 
+site",,
+identification.,,T,
+,,"o 
+find  putative  binding",sites  we  obtained  protein
+"Step 
+General Approach",DHVB P,,
+"1 
+Develop a collection of",Developed a panel of monoclonal,,sequences  of  P  for  eight  different  hepadnaviruses  from
+sequence-specific,antibodies to the amino-terminal,"the  National  Center 
+for  Biotechnology",Information
+binding agents,domain of P,,
+,,"(NCBI) 
+Entrez 
+Protein",website
+"2 
+Assess differential",Immunoprecipitate in low vs. high,,
+,,[http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=Prot,
+exposure of epitopes,detergent buffer,,
+,,,ein]. The overall sequence identity between these viruses
+for binding agents in,,,
+Step 1,,is  26%.  We  aligned,the  sequences  using  Clustal  W.
+"3 
+Identify putative",Identified conserved region aa,,
+,,,Motifs  of  4-10  amino  acids  with  >80%  homology  were
+binding sites by,177-183 based on homology,,
+,,,considered  putative  binding  sites  and were  investigated
+location of epitopes,alignment and position of epitopes,,
+,,further.,
+and sequence analysis,that are differentially exposed,,
+"4 
+Mutate conserved",Mutated residues within aa 177-,D,
+,,NA priming assay,
+residues within,183,,
+putative binding site,,P,
+"5 
+Test mutants in",Assessed mutants in DNA,,"was  translated  in  vitro  in  the  presence  of  ε,  the  RNA"
+functional assays,priming and partial proteolysis,,
+,,,"required  for activation  of P  (11, 12) and  to  initiate DNA"
+"6 
+Compete interaction",Dose dependent decrease in,,
+,,,"synthesis (13, 14). 1 µl of a 1:1 mixture of 48 mM MgCl2"
+with peptides,priming when peptide containing,,
+,,"and 
+[α-32P]dGTP  was  added,  and 
+the",reaction  was
+containing putative,aa 177-183 was added,,
+binding site,,"incubated  at  37° 
+for  30  minutes.  The",reaction  was

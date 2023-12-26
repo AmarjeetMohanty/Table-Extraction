@@ -1,0 +1,29 @@
+0,1,2,3,4,5,6,7,8
+Clinical form,Method,Number of samples with result,Sensitivity,p-valuea,Speciﬁcity,p-valuea,Positive,Negative
+,,,(%),,(%),,predictive,predictive
+,,"Positive
+Negative",,,,,value (%),value (%)
+All aspergillosis,PCR,"41
+7",85.4,,97.2,,71.9,98.7
+,GM,"20
+25",44.4,<0.001,97.9,0.41,64.5,95.4
+,Mycology (direct,"32 (15)
+14 (31)",69.6,0.06,96.4,0.45,61.5,97.4
+,examination) b,,,,,,,
+Invasive,PCR,"31
+4",88.6,,95.5,,54.4,99.3
+aspergillosis,,,,,,,,
+,GM,"18
+14",56.3,0.003,97.6,0.05,58.1,97.4
+,Mycology (direct,"21 (11)
+12 (22)",63.6,0.01,94.5,0.44,40.4,97.8
+,examination),,,,,,,
+Chronic,PCR,"10
+3",76.9,,92.2,,17.5,99.5
+pulmonary,,,,,,,,
+aspergillosis,,,,,,,,
+,GM,"2
+11",15.4,0.002,94.9,0.06,6.5,98.0
+,Mycology (direct,"11 (4)
+2 (9)",84.6,0.62,93.0,0.59,21.2,99.6
+,examination),,,,,,,

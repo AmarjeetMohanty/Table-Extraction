@@ -1,0 +1,18 @@
+0,1,2,3,4,5
+there has not been strong selective pressure at the receptor-binding interphase during virus evolution.,,,,,
+,,Table 2. Selective pressure analysis on the S genes of 219 MERS-CoV strains.,,,
+Clade/,,Positively Selected,Positively Selected,Positively Selected Sites,Best Fit
+,dN/dS,,,,
+Lineage,,Sites by SLAC Method,Sites by FEL Method,by MEME Method,Model
+A and B,0.424737,Nil,"Codon 26 *, 312 *, 1224 *","Codon 1224 *, 1250 *",010121
+A,0.392404,Nil,Nil,Codon 879 *,010121
+B,0.439492,Nil,"Codon 312 *, 1224 *","Codon 1020 *, 1224 *, 1250 *",010121
+A1,0.234930,Nil,Nil,Nil,F81
+A2,,,Insufﬁcient available strains for analysis,,
+B1,0.382699,Nil,Nil,Nil,010011
+B2,0.405071,Nil,Nil,Nil,010121
+B3,0.400104,Nil,Nil,Codon 1250 *,001020
+B4,0.641872,Nil,Nil,Nil,000010
+B5,0.343586,Nil,Nil,Codon 1020 *,010121
+B6,,,Insufﬁcient available strains for analysis,,
+,SLAC: single-likelihood ancestor counting; FEL: fixed effects likelihood; MEME: mixed-effects model of evolution;,,,,

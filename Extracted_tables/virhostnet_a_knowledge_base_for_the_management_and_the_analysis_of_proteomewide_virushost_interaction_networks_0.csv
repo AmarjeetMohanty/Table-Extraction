@@ -1,0 +1,15 @@
+0,1,2,3,4,5
+,protein-protein interactions,,,proteins,
+,Interactions,,,References,
+1-Bind,,,,,
+2-Mint,,,,,
+,Virus-virus,BLAST,Virus,,NCBI
+3-Intact,,,,,
+4-HPRD,,,,,
+5-Dip,Virus-Host,,,,
+6-BioGRID,,,,,
+7-Reactome,,,,,
+,,IPI cross,,,
+,Host-Host,,Host,,e!
+8-Generif,,reference,,,
+9-Networkin,,,,,

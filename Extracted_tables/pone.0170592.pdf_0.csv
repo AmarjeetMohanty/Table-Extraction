@@ -1,0 +1,24 @@
+0,1,2,3,4
+,Table 4. Pneumonia severities and outcomes of 191 patients with community-acquired pneumonia in the military.,,,
+Variables,Adenovirus positive (n = 153),Adenovirus negative (n = 38),Total (n = 191),P value
+Pneumonia severity on admission,,,,
+PSI score,29.8 ± 13.2,24.8 ± 8.3,28.7 ± 12.7,0.005
+PSI class,,,,0.046
+Class I,102 (66.7),33 (86.8),135 (70.7),
+Class II,48 (31.4),5 (13.2),53 (27.7),
+Class III,3 (2.0),0 (0),3 (1.6),
+Class IV–V,0 (0),0 (0),0 (0),
+CURB-65 score,,,,0.420
+0 point,146 (95.4),35 (92.1),181 (94.8),
+1 point,7 (4.6),3 (7.9),10 (5.2),
+2–5 points,0 (0),0 (0),0 (0),
+Outcomes,,,,
+Hospital days,9.2 ± 4.5,9.3 ± 4.4,9.2 ± 4.5,0.947
+Complications,,,,
+Acute heart failure,2 (1.3),0,2 (1.0),1.000
+Central vein thrombosis,1 (0.7),0,1 (0.5),1.000
+Delirium,1 (0.7),0,1 (0.5),1.000
+ICU admission,5 (3.3),1 (2.6),6 (3.1),1.000
+Mechanical ventilation,2 (1.3),0,2 (1.0),1.000
+Extra corporeal membrane oxygenation,1 (0.7),0,1 (0.5),1.000
+Mortality,1 (0.7),0,1 (0.5),1.000

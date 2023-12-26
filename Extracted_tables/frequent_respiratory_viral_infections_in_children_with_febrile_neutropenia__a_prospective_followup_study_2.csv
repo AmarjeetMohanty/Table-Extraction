@@ -1,0 +1,21 @@
+0,1,2,3,4,5
+,,,,,Respiratory Viral Infections in Febrile Neutropenia
+Table 3. Septicemia results.,,,,,
+,Septicemia 1,Septicemia 2,Septicemia 3,Septicemia 4,Septicemia 5
+Age (years),1.5,12.1,4.5,6.0,9.4
+Gender,Male,Male,Female,Female,Female
+Type of bacteria,Staphylococcus,Coagulase negative,Escherichia,Staphylococcus,Staphylococcus
+,epidermidis,staphylococcus,Coli,Aureus,Aureus
+Tumor type,Hematologic,Hematologic,Hematologic,Hematologic,Hematologic
+Days of,11,14,8,22,11
+hospitalization,,,,,
+Days with antibiotics,17,15,14,15,16
+"Days of
+fever",4,10,2,10,2
+Temperature a,39.4,39.7,40.3,39.8,38.7
+CRP (mg/L) a,141,341,207,321,41
+Respiratory,Yes,Yes,No,No,No
+symptoms,,,,,
+a Maximum value during the episode of,,febrile neutropenia,,,
+"Abbreviations: CRP, C-reactive protein",,,,,
+doi:10.1371/journal.pone.0157398.t003,,,,,

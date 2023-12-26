@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6,7,8,9,10
+,,,,,,Initial,,,,
+,,,Race/,Weight,PRISM/,PARDS,,,Ventilator-,
+Patient,Age,Sex,Ethnicitya,(kg),PELOD,Stratification,Virus,Respiratory Culture,free Daysb,Comments
+1,9 d,Female,White,2.8,21/5,Mild,RSVf,No growth,24d,
+2,1.5 y,Female,White,9.7,6/1,At risk,RSVf/Influenza,Not tested,28,"Never intubated, blood sample only"
+3,3.3 y,Male,Black,21.2,22/4,Mild,Influenza A,MRSA,23d,
+4,1.5 y,Male,White,8.7,6/5,Mild,Adenovirus,Enterococcus faecalis,9,Pseudohypoaldosteronism; HFOVe
+5,1.6 y,Male,Black,18.4,27/5,Moderate,Influenza A,No growth,25,
+7,6 m,Male,Black,6.6,9/3,At risk,Rhinovirus,Haemophilus influenza,21d,
+8,1.4 m,Male,White,3.2,12/6,At risk,Rhinovirus,Moraxella b. catarrhalis,25,
+9,1.2 y,Male,Black,9.7,8/4,At risk,Influenza A,No growth,21,"Pleural effusion, chest tube"
+10,4.2 m,Male,Black,5.6,8/5,At risk,Rhinovirus,Haemophilus influenza,25,
+11,1.5 m,Male,Black,5.5,17/7,At risk,RSVf,Haemophilus influenza,24,
+12,1.7 y,Male,Black,13.5,28/7,At risk,Rhinovirus,Staph aureus,21,
+,,,,,,,,,,"HFOVe, VA-ECMOb Pulmonary"
+13b,1.9 y,Female,Black,11.2,15/7,Severe,Coronavirus NL63,No growth,0,
+,,,,,,,,,,hemorrhage
+,,,,,,,,,,"Tracheomalacia, multiple"
+14c,5.5 m,Male,White,5.2,23/8,At risk,Rhinovirus,No growth,21d,
+,,,,,,,,,,congenital anomalies
+,,,,,,,,,,"HFOVe, VA-ECMOb Pulmonary"
+15b,1.5 y,Female,Black,8.7,27/9,Severe,Parainfluenza 3,Moraxella catarrhalis,11,
+,,,,,,,,,,hemorrhage
+16,16 y,Female,White,68.5,27/9,Moderate,Influenza B,Streptococcus pyogenes,24,"Pleural effusion, chest tube"
+17,1.9 y,Female,Biracial,11.8,12/6,Mild,Not performed,MRSA,24,
+18,8.1 m,Female,White,8.2,26/9,Moderate,Not performed,Yeast,20,
+19,1.2 m,Female,White,3.6,16/7,At risk,Negative,Haemophilus influenza,25,
+,,,,,,,,Gm + cocci in pairs/,,
+20,10.6 y,Male,Black,23,18/7,Mild,Rhinovirus/HMPVf,,23,
+,,,,,,,,Gm- rods & diplococci,,

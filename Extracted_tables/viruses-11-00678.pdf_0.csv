@@ -1,0 +1,16 @@
+0,1,2,3,4,5
+"Table 2. Diagnostic speciﬁcity of whole antigen (WAg), nucleocapsid (NP), and glycoprotein (GP)",,,,,
+,indirect ELISAs for the detection of anti-IgG EBOV antibody in humans.,,,,
+,,SA Negative Serum Panel (n = 273),,SL Negative Serum Panel (n = 676),
+Test,Cut-oﬀ PP 1,,,,
+,,FP 2/TN 3,DSp 4 (95% CI 5),FP/TN,DSp (95% CI)
+WAg I-ELISA,13.46 6,2/271,99.3 (97.4–99.9),0/676,100 (99.5–100)
+WAg I-ELISA,13.12 7,2/271,99.3 (97.4–99.9),0/676,100 (99.5–100)
+WAg I-ELISA,13.53 8,2/271,99.3 (97.4–99.9),0/676,100 (99.5–100)
+NP I-ELISA,16.13 6,1/272,99.6 (98–100),0/676,100 (99.5–100)
+NP I-ELISA,15.15 7,1/272,99.6 (98–100),2/674,99.7 (98.9–100)
+NP I-ELISA,16.44 8,1/272,99.6 (98–100),0/676,100 (99.5–100)
+GP I-ELISA,26.52 6,5/268,98.2 (95.8–99.4),0/676,100 (99.5–100)
+GP I-ELISA,25.12 7,7/268,97.4 (94.8–99),2/674,99.7 (98.9–100)
+GP I-ELISA,26.28 8,5/268,98.2 (95.8–99.4),0/676,100 (995–100)
+1 Percentage of,the positive internal control serum;,,2 False positive;,3 True negative;,4 Diagnostic speciﬁcity;

@@ -1,0 +1,20 @@
+0,1,2,3,4,5,6
+,"and titer change between arrival and day 28 (-D), and bovine res-",,,,,
+,piratory disease in calves in feedlots in Ontario and Alberta (Data Set I),,,,,
+,,,Factors controlled,,,
+,,Group,,Group,,Group
+,,Wt-A,,Wt-A,,Wt-A
+,,PhL-D,,PhL-D,,PhL-D
+Agents,Group,PhA-D,Group,PhA-D,Group,PhA-D
+in model,Wt-A,HS-D,Wt-A,HS-D,Wt-A,HS-D
+,,,,,,Mdis and
+,Base model,,,BCV data added,,Mbov data added
+BVDV-A,-0.15b,-0.12b,-0.14b,-0.12b,-0.12,-0.10
+BVDV-D,O.1Ob,0.1 lb,0.1 lb,0.13b,0.70b,0.18b
+BRSV-A,-0. 17b,-0.15b,-0.12,-0.11,-0.1 8b,-0.19b
+BRSV-D,0.06,0.05,0.1 1b,0.09,0.06,0.05
+BCV-A,NA,NA,-0.19b,-0.18b,-0.07,-0.08
+BCV-D,NA,NA,-0.07,-0.09,-0.04,-0.08
+Mdis-A,NA,NA,NA,NA,-0.21b,-.19b
+Mdis-D,NA,NA,NA,NA,-0.07,-0.07
+See Tables,1 and 2 for viral and mycoplasmal codes,,,,,

@@ -1,0 +1,23 @@
+0,1,2,3
+A,,,
+Scenario,Diagrammatic representation,,
+,t0,,t1
+1. No further FRI episode,,,
+,Enlisted FRI-1,,Exit
+,(AdV),,
+,"t0
+t1",,t2
+2. 1 subsequent FRI episode,,,
+,"Enlisted FRI-1
+FRI-2",,Exit
+,"(AdV)
+(CoV)",,
+,"t0
+t1",t2,t3
+3. 2 subsequent FRI episode,,,
+,"Enlisted FRI-1
+FRI-2",FRI-3,Exit
+,"(AdV)
+(CoV)",(hMPV),
+Legend,"lnterval A
+lnterval B",,lnterval C

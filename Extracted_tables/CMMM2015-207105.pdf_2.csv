@@ -1,0 +1,41 @@
+0,1,2,3,4,5,6
+,Table 3: The corresponding Bayes factor ̂𝐵𝑗󸀠𝑗 = ̂𝑃(𝑚 = 𝑗󸀠,,| 𝑦)/ ̂𝑃(𝑀 = 𝑗 | 𝑦) and AIC about four models based on A/H1N1 and Ebola data.,,,
+,,,,𝑗,,
+,𝑗󸀠,,,,,
+Data source,,,,,,
+,,Logistic,Gompertz,,Rosenzweig,Richards
+,Logistic,1,Inf,,Inf,1.34
+,0,,,,,
+,Gompertz,0,1,,/,—
+,0,,,,,
+H1N1,Rosenzweig,0,/,,1,—
+,Richards model,0.75,Inf,,Inf,1
+,AIC,249,362,,592,254
+,Logistic,1,Inf,,Inf,2.1528
+,0,,,,,
+,Gompertz,0,1,,/,—
+,0,,,,,
+West Africa,Rosenzweig,0,/,,1,—
+,Richards model,0.4645,Inf,,Inf,1
+,AIC,5200,49500,,1872800,5400
+,Logistic,1,Inf,,Inf,1.25
+,0,,,,,
+,Gompertz,0,1,,/,—
+,0,,,,,
+Guinea,Rosenzweig,0,/,,1,—
+,Richards model,0.8,Inf,,Inf,1
+,AIC,1991,3427,,18476,1998
+,Logistic,1,Inf,,Inf,—
+,0,,,,,
+,Gompertz,0,1,,/,—
+,0,,,,,
+Liberia,Rosenzweig,0,/,,1,—
+,,5 ∗ 105,,,,
+,Richards model,,Inf,,Inf,1
+,AIC,6308,6547,,7980,2559
+,Logistic,1,—,,—,—
+,Gompertz,102310,1,,2.96,0.28
+Sierra Leona,Rosenzweig,34750,0.34,,1,0.095
+,Richards model,362940,3.55,,10.48,1
+,AIC,15432,6251,,7038,5400
+— means a very small number.,,,,,,

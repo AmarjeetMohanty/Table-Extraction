@@ -1,0 +1,54 @@
+0,1,2,3,4,5,6
+,,Targets,,,,
+,,,,Transmembrane,,
+,"Ligand 
+Enrichment fold/number of",Purified,Complex,proteins/cell,,
+Method & Description,"format
+positives on mAb ELISA (%)",antigen,antigen,surface receptors,Cell,Reference
+Subtractive selection,,,,,,
+,"Targeted cells/leukocytes,",,,,,
+Eliminating cells that do not express target,scFv,N/A,N/A,+,+,"de Kruif, et al.64"
+,~3.5 fold,,,,,
+proteins prior to selection,,,,,,
+Depletion selection ‘BRASIL’,vascular endothelial growth,,,,,
+Depleting non-antigen binders prior to,"Peptide
+factor (VEGF),",N/A,N/A,+,+,"Giordano, et al.65"
+selection,2–3 fold,,,,,
+Subtraction/depletion,,,,,,
+,"Glycoprotein IIb/IIIa,",,,,,
+Removing unwanted epitopes prior to,scFv,N/A,N/A,+,N/A,"Eisenhardt, et al.66"
+,2–5 fold,,,,,
+selection,,,,,,
+Microselection/shadow-stick selection,,,,,,"Sørensen, et al.67"
+,"Targeted rare cells,",,,,,
+Targeting a single rare cell and ultra-violet,scFv,N/A,N/A,+,+,Sørensen M. D. and
+,10–25%,,,,,
+(UV) inactivation of the non-binders,,,,,,Kristensen P.68
+Masked selection,,,,,,
+,Recombinant HER2-Fc,,,,,"Even-Desrumeaux,"
+Using non-relevant soluble binders to block,VHH,+,N/A,N/A,N/A,
+,"Protein, 92.6%",,,,,et al.69
+non-relevant epitopes prior to selection,,,,,,
+,"HER2 receptor, 26%",N/A,N/A,+,+,
+,"mGluR4 receptor, 90%",N/A,N/A,+,+,
+,"CXCR4 receptor, 24%",N/A,N/A,+,+,
+,"Breast Cancer Biopsy Lysates,",,,,,
+,,N/A,+,+,+,
+,40%,,,,,
+,Cell Surface Binders on Breast,,,,,
+,,N/A,N/A,+,+,
+,"Cancer Cell Lines, 60%",,,,,
+Negative selection,,,,,,
+Eliminating dead cells and cell debris prior to,"scFv
+61% intact cells recovered",+,N/A,+,+,"Pavoni, et al.70"
+selection,,,,,,
+Subtractive selection,,,,,,
+,"Membrane bound antigens,",,,,,
+Removing non-binders using non-transfected,scFv,N/A,N/A,+,+,"Jones, et al.71"
+,4–5 fold,,,,,
+cells prior to selection,,,,,,
+‘Yin-Yang’,,,,,,
+,"rMERS-NP,",,,,,
+Using target -unrelated proteins to preoccupy,scFv,+,+,N/A,N/A,This study
+,2.5 fold/41.7%,,,,,
+non-specific binders prior to selection,,,,,,

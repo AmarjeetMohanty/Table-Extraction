@@ -1,0 +1,22 @@
+0,1,2,3,4
+,"Table 1. Overview of clinical isolates and viruses used in experiments, with subtyping results and cell",,,
+type used for propagation.,,,,
+,,,VIRUS ISOLATED,EXPERIMENTS
+NAME:,SUBTYPE:,GROWN ON:,,
+,,,FROM:,PERFORMED WITH:
+BE/ANT-A1/16,RSV-A,HEp-2,Aspirate,Aspirate
+BE/ANT-B2/17,RSV-B,HEp-2,Aspirate/Swab,Aspirate
+BE/ANT-A7/17,RSV-A,HEp-2,Aspirate/Swab,Aspirate
+BE/ANT-A8/17,RSV-A,HEp-2,Aspirate,Aspirate
+BE/ANT-A10/17,RSV-A,HEp-2,Swab,Swab
+BE/ANT-A11/17,RSV-A,HEp-2,Aspirate,Aspirate
+BE/ANT-A12/17,RSV-A,HEp-2,Aspirate/Swab,Aspirate
+BE/ANT-B13/17,RSV-B,HEp-2,Aspirate,Aspirate
+BE/ANT-B15/17,RSV-B,HEp-2,Aspirate/Swab,Aspirate
+BE/ANT-A18/17,RSV-A,HEp-2,Aspirate,Aspirate
+BE/ANT-B20/17,RSV-B,Vero,Aspirate,Aspirate
+BE/ANT-A21/17,RSV-A,HEp-2,Aspirate/Swab,Aspirate
+,,,/,
+RSV A2,RSV-A,HEp-2,,
+,,,/,
+RSV B1,RSV-B,Vero,,

@@ -1,0 +1,11 @@
+0,1,2,3,4,5
+Table 2: Lander-Waterman analysizs of viral genome coverage.,,,,,
+Virus Name,Total Sequences,Observed Coverage,Expected Coverage,Observed,Expected Redundancy
+,,,,Redundancy,
+WHV,121,0.84,1.00,14.86,18.45
+MS2,283,0.93,1.00,40.29,40.20
+M13,232,0.90,1.00,21.26,18.36
+HRV 16,195,0.90,1.00,14.33,13.88
+TA,148,0.93,1.00,11.29,10.22
+NDV,349,0.97,1.00,13.72,11.65
+Lambda,281,0.52,0.95,3.72,2.92

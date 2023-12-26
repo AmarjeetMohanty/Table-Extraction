@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6
+"Table 6. In vitro antiviral activities of HEHEO, crude HEO, pure HEO, and HME against CVB3 and B6.",,,,,,
+,,CVB3,,,CVB6,
+Samples,,,,,,
+,TC50 (µg/mL),IC50 (µg/mL),SI,TC50 (µg/mL),IC50 (µg/mL),SI
+HEHEO,72.09,17.24,4.18,72.09,>22.22,\
+Crude HEO,75.28,22.22,3.1,75.28,15.41,4.5
+Pure HEO,53.44,7.41,5.4,53.44,7.41,5.4
+HME,>181.82,>0.82,\,>181.82,0.35,>519.5
+Pleconaril,15.41,0.0007,"22,014.3",15.41,0.037,416.5
+Ribavirin,2000,292.46,6.8,2000,384.88,5.2

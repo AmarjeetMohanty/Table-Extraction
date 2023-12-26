@@ -1,0 +1,15 @@
+0,1,2
+with correlation coefﬁcient R = 0.998,,
+,Table 1. Results of the airflow volume measurements and of the positive pressure generated during,
+the tests of the room leaktightness.,,
+Positive pressure in test room [Pa],Airﬂow volume [m3/h],Airﬂow volume [m3/s]
+0,0,0
+2.5,390,0.108
+5,725,0.201
+7,880,0.244
+10.5,1035,0.288
+12.5,1128,0.313
+16,1336,0.371
+25,1933,0.537
+50,2830,0.786
+doi:10.1371/journal.pone.0155159.t001,,

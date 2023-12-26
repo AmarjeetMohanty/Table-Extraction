@@ -1,0 +1,46 @@
+0,1,2,3,4,5,6
+Table 1 | The tinge of the dark.,,,,,,
+Symptoms,Frequency,IRR,PRR,System,"Class, severity,",Part of the product
+and signs,,or total,,,and duration,likely being
+,,dose,,,,involved in AEs
+Fatigue,Common (SCIG as,No,,Constitutional or,"Immediate, mild,",
+,well),,,systemic (generalized),transient,
+Malaise,Common,No,Yes,Constitutional or,"Immediate, mild,",
+,,,,systemic (generalized),transient,
+Fever,Common,Yes,Yes,Constitutional or,"Immediate, mild,",
+,,,,systemic (generalized),transient,
+Flushing,Common,Yes,Yes,Constitutional or,"Immediate, mild,",
+,,,,systemic (generalized),transient,
+Chills,Common,Yes,Yes,Constitutional or,"Immediate, mild,",
+,,,,systemic (generalized),transient,
+Anorexia,Common,No,,Constitutional or,"Immediate, mild,",
+,,,,systemic (generalized),transient,
+Myalgia,Common,Yes,Yes,Constitutional or,"Immediate, mild,",
+,,,,systemic (generalized),transient,
+Arthralgia,Common,Yes,Yes,Constitutional or,"Immediate, mild,",
+,,,,systemic (generalized),transient,
+Joint swelling,Common,Yes,Yes,Constitutional or,"Mild, transient",
+,,,,systemic (generalized),,
+“Flu-like” symptoms,Common,Yes,Yes,Constitutional or,"Immediate, mild,",Increase in A (dimers)
+,,,,systemic (generalized),transient,
+Anaphylactoid,Rare,No,Yes,Constitutional or,IgA: acute to,"I: IgA, very rare immune"
+symptoms,Complement,,,systemic (generalized),"immediate; other late,",complexes
+,activation,,,,severe transient,
+,Immune complexes,,,,,
+,(presence of acute,,,,,
+,infection),,,,,
+Full blown,Rare,No,Yes,Constitutional or,"Late, severe, hopefully","I: IgA, very rare immune"
+anaphylaxis,Complement,,,systemic (generalized),transient (ICU),complexes
+,activation (in the,,,,,
+,presence of acute,,,,,
+,infection),,,,,
+Headache,Common,Yes,Yes,Neurologic,"Immediate, mild,",Increase in A
+,,,,,transient,
+Migraine,Common,Yes,Yes,Neurologic,Transient,Increase in A
+Dizziness,Common,Yes,Yes,Neurologic,Transient,Increase in A
+Aseptic meningitis,Rare,No,No,Neurologic,"Delayed, moderate,",Increase in A
+,,,,,transient,
+"Diffuse pain, muscle",Rare,Yes,Yes,Neurologic,Transient,Increase in A
+pain,,,,,,
+Dysesthesia,Rare,,Contributes,Neurologic,,Increase in A
+Weakness,Rare,,Contributes,Neurologic,,Increase in A

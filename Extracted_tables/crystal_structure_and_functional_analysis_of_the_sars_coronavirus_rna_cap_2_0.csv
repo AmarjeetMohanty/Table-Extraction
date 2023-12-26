@@ -1,0 +1,34 @@
+0,1,2,3,4
+,"Table 2. Mutational analysis, complex formation, and enzyme activity of",,the nsp10/nsp16 complex.,
+Number,Function*,Mutant,% associated**,% MTase act. ***
+1 = Wild-Type,Wild-TypE,Wild-Type,100,100
+2,Catalytic,K46A,97,1
+3,Catalytic,D130A,104,2
+4,Catalytic,K170A,95,0
+5,Catalytic,E203A,93,0
+6,SAM-BS,N43A,144,11
+7,SAM-BS,G73A,119,18
+8,SAM-BS,D99A,57,0
+9,Mg2+-BS,T58A,123,57
+10,Mg2+-BS,T58N,110,30
+11,Mg2+-BS,T58E,54,1
+12,Mg2+-BS,S188A,102,28
+13,RNA/SAM-BS,Y132A,86,5
+14,RNA/SAM-BS,Y132T,95,5
+15,RNA/SAM-BS,Y132F,123,9
+16,RNA/SAM-BS,Y132H,106,0
+17,RNA-BS,Y30A,89,1
+18,RNA-BS,Y30F,113,6
+Interface mutants,,,,
+Number,Location*,Mutant,% associated**,% MTase act. ***
+19,Patch I,I40A,84,8
+20,Patch I,M41A,122,4
+21,Patch I,V44A,113,1
+22,Patch I,T48A,123,20
+23,Patch II,V78A,3,0
+24,Patch II,R86A,61,0
+25,Patch II,Q87A,114,62
+26,Patch III,V104G,6,4
+27,Patch III,D106A,101,38
+28,Patch IV,L244A,30,0
+29,Patch IV,M247A,4,0

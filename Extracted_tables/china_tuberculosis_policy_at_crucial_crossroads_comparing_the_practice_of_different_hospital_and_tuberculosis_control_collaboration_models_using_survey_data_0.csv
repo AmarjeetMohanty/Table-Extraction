@@ -1,0 +1,9 @@
+0,1,2,3,4,5,6,7,8,9
+,Table 6. Delays of TB patients in three models.,,,,,,,,
+,,The Dispensary Model,,,The Specialist Model,,,The Integrated Model,
+,ZD,GP,Sub-total,SL,SDC,Sub-total,SC,GN,Sub-total
+Patient survey,51,49,100,44,46,90,50,53,103
+"Patient delay, X (M)",18(3),41(7),29(7),11(5),15(2),13(3),23(3),24(7),23(7)
+"Diagnostic delay, X (M) {",26(2),43(5),35(4),7(4),39(12),23(6),7(1),14(1),11(1)
+"Treatment delay, X (M) `",13(9),12(1),12(1),37(30)*,18(0)*,23(0)*,2(1),2(1),2(1)
+"Total delay, X (M)",57(32),96(33),76(32),57(44)*,70(33)*,66(36)*,32(14),40(25),36(17)

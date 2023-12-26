@@ -1,0 +1,34 @@
+0,1,2,3,4,5
+,,,,HUMAN VACCINES & IMMUNOTHERAPEUTICS,2883
+Table 1. Overview of poxvirus-based inﬂuenza vaccines.,,,,,
+Vector,Model,Antigen,Modiﬁcation,Subtype,Reference
+,,,,,"37,38,43-45,68"
+Poxviruses,,HA,n/a,"H1N1, H5N1",
+,,,,,51
+,,HA,HAstem,H5N1,
+,,,,,63
+,,HA,Mosaic,H5,
+,,,,,51
+,,NP,n/a,H5N1,
+,,,,,51
+,,M1,n/a,H5N1,
+,,,,,51
+,,M2,n/a,H5N1,
+,,,,,51
+,,PB2,n/a,H5N1,
+,,,,,"38,67"
+,,NA,n/a,H5N1,
+,,,,,"36,51-53,68"
+,,HA/NP,"n/a, HAstem","H1N1, H5N1",
+,,,,,"56,57"
+,,NP/M1,n/a,H3N2,
+,,,,,"54,68"
+,,HA/NA,n/a,H5N1,
+,,,,,51
+,,HA/M2,"HAstem, M2e repeats","H1N1, H5N1, H7N2, H9N2",
+,,,,,51
+,,HA/NP/M2,"HAstem, M2e repeats","H1N1, H5N1, H7N2, H9N2",
+,,,,,54
+,,HA/NP/NA/M1/M2,n/a,H5N1,
+,,,,,"39,50"
+,,HA,n/a,"H1N1, H7N9",

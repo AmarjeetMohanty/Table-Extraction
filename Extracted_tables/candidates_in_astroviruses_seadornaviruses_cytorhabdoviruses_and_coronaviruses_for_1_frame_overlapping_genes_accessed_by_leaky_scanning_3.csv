@@ -1,0 +1,30 @@
+0,1,2,3,4,5
+,M (+1),ORFX (+1 frame),,,
+,,,N (+2),,
+,(2),,,,
+,,,,,Frame
+,,,,,= +0
+,,,,BuCoV,
+,(3),,,,
+,,ORFX shorter in ALCCoV,,ThCoV,
+,,,,,Frame
+and alignment gaps (  ),,,,ALCCoV,
+,,156 + 2 nt insertion (not shown) in MuCoV contains,,,
+,,,,MuCoV,= +1
+,,the MuCoV NS6 and ORFX termination codons,,,
+,,,,BuCoV,
+,(4),,,,
+,,,,,Frame
+,,,,,= +2
+,(5),,,0.4,
+,,,,,NS6
+,,,,,versus
+,,,,0,
+,,,,,non−coding
+(7−codon window),,positive coding signal,,,
+,(6),,,0.4,
+,,only in 5’ region of ORFX,,,
+,,,,,ORFX + NS6
+,,,,,versus
+,,,,0,
+,,,,,NS6

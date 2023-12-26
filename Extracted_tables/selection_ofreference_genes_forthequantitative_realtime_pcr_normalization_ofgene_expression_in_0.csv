@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6,7,8,9,10
+Table 2  Expression stability of the nine candidate reference genes as calculated by NormFinder,,,,,,,,,,
+Rank,ABA treatment,,MeJA treatment,,N treatment,,Different tissues,,All samples,
+,Gene,Stability,Gene,Stability,Gene,Stability,Gene,Stability,Gene,Stability
+1,ACT,0.116,MUB,0.144,TIP41,0.049,EF1-α,0.041,MUB,0.188
+2,EF1-α,0.184,α-TUB,0.153,EF1-α,0.075,CYP,0.041,EF1-α,0.191
+3,MUB,0.247,EF1-α,0.271,CYP,0.098,α-TUB,0.084,ACT,0.327
+4,UBC,0.275,TIP41,0.382,MUB,0.123,ACT,0.127,CYP,0.366
+5,CYP,0.510,β-TUB,0.409,ACT,0.128,MUB,0.134,α-TUB,0.433
+6,RPL,0.551,RPL,0.511,β-TUB,0.279,RPL,0.232,RPL,0.440
+7,α-TUB,0.592,CYP,0.574,UBC,0.322,β-TUB,0.662,β-TUB,0.541
+8,TIP41,0.633,ACT,0.614,RPL,0.364,UBC,0.753,TIP41,0.694
+9,β-TUB,0.782,UBC,1.683,α-TUB,0.464,TIP41,1.172,UBC,0.942

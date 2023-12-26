@@ -1,0 +1,48 @@
+0,1,2,3,4,5,6,7,8,9,10
+Country “i”,5,7,8,11,Country “i”,4,5,8,9,11
+,Gl,HPAI,MERS,RVF,,FMD,Gl,MERS,ND,RVF
+"1
+MA",,0,,0,"1
+MA",1.75E-3,0,,0,
+"2
+DZ",0,2.94E-5,,0,"2
+DZ",0,0,0,9.98E-3,0
+"3
+TN",0,4.21E-5,,0,"3
+TN",2.44E-4,0,,0,0
+"4
+LY",,4.64E-5,,,"5
+EG",1.03E-2,0,,,0
+"5
+EG",0,1.08E-5,,0,"8
+NG",1.11E-2,0,,0,1.11E-2
+"6
+SD",0,8.72E-7,,2.61E-6,"10
+MR",9.43E-2,,,0,0
+"7
+TD",,,,0,"11
+SA",7.27E-3,0,3.76E-3,0,2E-3
+"8
+NG",0,6.03E-6,,2.82E-6,"12
+KW",6.89E-4,0,3.66E-4,,0
+"9
+ML",,0,,2.7E-6,"13
+BH",4.13E-4,0,,1.59E-4,0
+"10
+MR",,,,1.24E-4,,,,,,
+,,,,,,There is no available information about some diseases in some countries;,,,,"therefore, no"
+"11
+SA",0,2.57E-6,9.66E-6,1.93E-5,,,,,,
+,,,,,,probability has been assigned for those countries.,,"In addition,",for the countries that had,
+"12
+KW",,5.14E-5,3.18E-5,0,"never notiﬁed a disease,",,it has been assigned a zero probability.,,,
+"13
+BH",6.22E-6,0,,0,,,,,,
+"14
+QA",2.29E-5,0,,0,,,,,,
+"15
+AE",0,0,,0,TABLE 8 | Probability of,,introduction of the j disease into the European Union,,,
+,,,,,,through wild birds migration from the country i.,,,,
+"16
+OM",0,0,7.66E-6,0,,,,,,
+,,,,,PIM,,,,Disease “j”,

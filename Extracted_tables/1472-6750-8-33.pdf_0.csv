@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6,7,8
+"Table 1: Review of OD600, collagen II expression, C-P4H activities, and the amount of total fed methanol in four independent",,,,,,,,
+,experiments with parallel predetermined constant feed. The pulse feeding method was used as a reference.,,,,,,,
+Exp.no.,,OD600 46/72 h,,Pepsin resistant collagen II,,C-P4H/(dpm/50 μg protein),,Methanol feed/ml
+,Feed,Reference,Feed,Reference,Feed,Reference,Feed,Reference
+1,14.1,15.4,+,++,-,-,109,72
+1A,12.2,15.4,+,++,-,-,>100,72
+2,11.0/18.7,10.4/14.2,+++,n.d.,15449*,2042*,115,74
+3,18.5,17.4,++++,++,13403,1526,85,75
+4,19.7,14.6,++,+,6263,3391,104,89
+4A,17.8,,++,,5238,,102,

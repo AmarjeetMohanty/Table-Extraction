@@ -1,0 +1,35 @@
+0,1,2,3,4,5,6
+,,,TABLE 1,,,
+Summary of 23 Middle East respiratory syndrome coronavirus clinical samples sequenced and submitted to GenBank,,,,,,
+Cluster,Case,Type,Sample collection date,Sequence Type,GenBank accession,Distance to index (nucleotide)
+Healthcare-associated clusters (HCA) I (Abu Dhabi),2013_002,Index,2013 Jul 10,Genome,KY581684,–
+,2013_003,Secondary,2013 Jul 12,S/N,S: KY673146;,
+,,,,,,0a
+,,,,,N: KY673143,
+,2013_004,Secondary,2013 Jul 12,Genome,KY581685,1
+Other (Oman),2013_007,Sporadic,2013 Oct 12,S/N,S: KP236092,–
+,,,,,N: KP236093,
+HH A (Abu Dhabi),2013_008,Index,2013 Nov 24,S/N,N: KY673144,–
+,2013_009,Secondary,2013 Nov 25,Genome,KP209312,
+,,,,,,0a
+HH B (Dubai/Abu Dhabi),2013_011,Secondary,2013 Dec 23,Genome,KY581687,–
+HCA II (Western Region),2014_002,Index,2014 Mar 16,Genome,KP209310,–
+HH C (Al Ain),,Index,2014 Apr 09,Genome,KP209306,–
+,2014_008b,,,,,
+,2014_009,Secondary,2014 Apr 10,Genome,KY581686,2
+,2014_011,Secondary,2014 Apr 10,Genome,KY581688,2
+,2014_015,Secondary,2014 Apr 10,Genome,KY581689,2
+HCA III (Al Ain),,Index,2014 Apr 09,Genome,KP209306,–
+,2014_008b,,,,,
+,2014_016,Secondary,2014 Apr 12,Genome,KP209308,3
+,2014_017,Secondary,2014 Apr 12,Genome,KY581690,2
+,2014_018,Secondary,2014 Apr 12,Genome,KP209307,2
+,2014_023,Secondary,2014 Apr 14,Genome,KY581691,0
+,2014_025,Secondary,2014 Apr 15,Genome,KY581692,1
+,2014_026,Tertiary,2014 Apr 15,Genome,KP209313,1
+,2014_030,Secondary,2014 Apr 16,Genome,KP209309,0
+,2014_033,Tertiary,2014 Apr 20,Genome,KP209311,0
+,2014_045,Tertiary,2014 Apr 25,S/N,S: KY673147;,
+,,,,,,0a
+,,,,,N: KY673145,
+"Other (Jeddah, Kingdom of Saudi Arabia)",2014_032,Sporadic,2014 Apr 20,Genome,KY581693,–

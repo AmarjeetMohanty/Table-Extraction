@@ -1,0 +1,10 @@
+0,1,2,3
+"Sensors 2014, 14",,,
+,Table 3. Investigation of recoveries for h-IgA in saliva samples by the proposed microwell array.,,
+Sample,h-IgA Addition (ng/mL),Detection (ng/mL),Recovery
+1,0,190.83,---
+,25,214.25,93.7%
+,50,242.25,102.8%
+2,0,218.83,---
+,25,242.65,95.28%
+,50,274.93,112.2%

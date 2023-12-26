@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6
+RI-002 infusion rates,,ranged from 0.5 to 13.3 mg/kg/min,,"ported, one instance each of post-operative wound infection",,
+Table 4,Total IgG,,,,,
+,,Statistic,3-Week cycle (N = 10),,4-Week cycle (N = 20),
+pharmacokinetic parameter,,,,,,
+estimates (PK population),,,,,,
+,,,Mean ± SD (n),CV%,Mean ± SD (n),CV%
+,,Cmax (mg/dL),2427 ± 452 (10),18.63,2227 ± 584 (20),26.21
+,,Cmin (mg/dL),1152 ± 308 (10),26.73,954 ± 245 (20),25.65
+,,Tmax (h)a,"2.93 [1.80,4.52] (10)",NA,"2.78 [1.43,99.08] (20)",NA
+,,AUCtau (day mg/dL),"32,128 ± 7020 (10)",21.85,"35,905 ± 9351 (20)",26.04
+,,t½ (day),28.47 ± 4.38 (6),15.38,39.70 ± 11.57 (13),29.13
+,,CL (mL/kg/day),1.68 ± 0.43 (10),25.42,1.47 ± 0.50 (20),33.63
+,,Vss (dL/kg),76.79 ± 13.45 (6),17.52,89.57 ± 26.16 (13),29.21

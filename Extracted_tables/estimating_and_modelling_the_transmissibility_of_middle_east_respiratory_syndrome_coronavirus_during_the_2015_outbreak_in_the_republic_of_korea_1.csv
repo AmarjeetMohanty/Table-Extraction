@@ -1,0 +1,21 @@
+0,1,2,3,4,5,6
+Method,EG,ML,SB,EpiEstim,TD,Transmission tree
+Reference,3,6,5,"4,9",2,7
+Data required,Incidence data,Incidence data,Incidence data during,Incidence,Incidence data,Incidence data
+,during the early,during early phase,the early phase of an,data; GT,(symptom- onset,(symptom- onset
+,phase of an,of exponential,outbreak; infectious,,dates); GT,dates); contact
+,outbreak; GT,growth; GT,period,,,information
+Mixing,No,No,Random,Random,Random,No
+required,,,,,,
+Output,Exponential growth,The best R0 selected,R0 over the period of,Effective,Symptom,"Transmission tree,"
+,rate and the best,by deviance,exponential growth,reproductive,onset- based,Rt and serial
+,R0 selected by,r- squared measure,,number (Rt),transmission tree,interval
+,deviance- based,,,averaging,and Rt by,distribution
+,r- squared statistic,,,over a fixing,averaging overall,
+,,,,window,all transmission,
+,,,,,networks,
+Results,"6.36 [4.25, 9.68]","5.89 [4.42, 7.66]","2.45 [1.68, 3.12]","7.15 [5.26,","5.19 [3.34, 7.45]","6.18 [2.80, 14.6]"
+,Exponential,See Appendix S1,See Appendix S1,9.35],See Figure 4A,See Figure 4B
+,growth rate: 0.155,,,See Figure 3,,
+,"[0.119, 0.194]",,,,,
+,See Appendix S1,,,,,

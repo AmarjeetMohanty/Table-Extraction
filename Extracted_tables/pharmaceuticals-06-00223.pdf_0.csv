@@ -1,0 +1,36 @@
+0,1,2,3,4,5
+is a summary of clinical trials of siRNA-based therapeutics [74].,,,,,
+,,Table 1. Summary of siRNA-based therapeutics in clinical trials.,,,
+,,,,,Stage of
+,Route of,Delivery,,,
+Drug,,,Disease,Target,Clinical
+,Administration,Agent,,,
+,,,,,Trial
+ExcellairTM,Inhalation,Unknown,Asthma,Syk kinase,II
+,,,,RSV,
+ALN-RSV01,Intranasal spray,Naked siRNA,RSV infection,,IIb
+,,,,nucleocapsid,
+,,Lipid,Advanced solid cancer,,
+Atu027,IV,,,PKN3,I
+,,nanoparticles,(Metastatic lung cancer),,
+,,Lipid,,,
+TKM-ApoB,IV,,Hypercholesterolemia,ApoB,I
+,,nanoparticles,,,
+,,Lipid,,,
+TKM-PLK1,IV,,Cancer,Polo-like-kinase1,I
+,,nanoparticles,,,
+,,Lipid,Solid cancers with,,
+ALN-VSP02,IV,,,KSP and VEGF,I
+,,nanoparticles,liver involvement,,
+,,Lipid,Transthyretin-mediated,Transthyretin,
+ALN-TTR01,IV,,,,I
+,,nanoparticles,amyloidosis (ATTR),(TTR),
+,,Cyclodextrin,,,
+CALAA-01,IV,,Solid tumor,RRM2,I
+,,nanoparticles,,,
+,,Miniature,,,
+siG12D,EUS biopsy,biodegradable,Pancreatic ductal,,
+,,,,KRAS,I
+LODER,needle,polymer,adenocarcinoma,,
+,,matrix,,,
+I5NP,IV,Naked siRNA,Acute kidney injury,p53,I/II

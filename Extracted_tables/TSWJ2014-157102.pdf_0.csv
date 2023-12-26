@@ -1,0 +1,23 @@
+0,1,2,3,4,5
+"Table 1: Cumulative frequencies and rates of hospital-acquired multidrug resistant organisms (MDRO) among patients and isolates at SQUH,",,,,,
+"Oman, 2012.",,,,,
+,,,,Rate per patient,Rate per isolate
+Month,Total admissions,MDRO patients,MDRO isolates,𝑅 (95% CI)a,𝑅 (95% CI)a
+January,2699,25,21,"9.3 (4.8, 11.9)","7
+.8 (5.9, 11.9)"
+February,2506,19,16,"7
+.6 (3.6, 10.4)","6.4 (4.4, 12.0)"
+March,2506,31,28,"12.4 (7.6, 16.4)","11.2 (8.4, 17.6)"
+April,2561,9,7,"2.7 (16.0, 28.1)","2.7 (1.2, 5.5)"
+May,2523,19,21,"7
+.5 (4.4, 11.9)","8.3 (5.2, 12.7)"
+June,2488,10,11,"4.0 (2.0, 7.2)","4.4 (2.0, 8.0)"
+July,2405,15,16,"6.2 (3.3, 10.0)","6.7 (3.7, 10.8)"
+August,2150,13,16,"6.0 (3.3, 10.2)","7
+.4 (4.2, 12.1)"
+September,2347,36,51,"15.3 (10.7, 21.3)","21.7 (16.2, 28.2)"
+October,2255,40,51,"17.7 (12.9, 23.9)","22.6 (16.9, 29.7)"
+November,2374,29,39,"12.2 (8.0, 17.7)","16.4 (11.8, 22.3)"
+December,2431,33,42,"13.6 (9.5, 18.9)","17.3 (12.3, 23.4)"
+Total,29245,315,329,"10.8 (9.3, 12.4)","11.2 (9.7, 12.9)"
+aRate calculated per 1000 admissions.,,,,,

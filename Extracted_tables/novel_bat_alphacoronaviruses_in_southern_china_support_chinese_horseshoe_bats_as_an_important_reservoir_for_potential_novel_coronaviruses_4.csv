@@ -1,0 +1,30 @@
+0,1,2,3,4,5,6
+,,Table 6. Coding potential and predicted domains in diﬀerent proteins of Tr-BatCoV HKU33 strain GZ151867.,,,,
+,,,,,Putative TRS,
+,Nucleotide Positions,,,,Nucleotide Position,TRS Sequence (Distance
+ORF,,No. of Nucleotides,No. of Amino Acids,Frame(s),,
+,(Start–End),,,,in Genome,(No. of Bases) to AUG) 1
+1ab,"278–20,052","19,774",6591,"+1, +2",54,AACUAAAC(218)AUG
+nsp1,278–856,579,193,+2,,
+nsp2,857–2590,1734,578,+2,,
+nsp3,2591–7294,4704,1568,+2,,
+nps4,7295–8728,1434,478,+2,,
+nsp5,8729–9634,906,302,+2,,
+nsp6,"9635–10,471",837,279,+2,,
+nsp7,"10,472–10,532",249,83,+2,,
+nsp8,"10,533–11,305",585,195,+2,,
+nsp9,"11,306–11,629",324,108,+2,,
+nsp10,"11,630–12,034",405,135,+2,,
+nsp11,,51,17,+2,,
+nsp12,"12,035–14,814",2780,927,+1,,
+nsp13,"14,815–16,605",1791,597,+1,,
+nsp14,"16,606–18,156",1551,517,+1,,
+nsp15,"18,157–19,173",1017,339,+1,,
+nsp16,"19,174–20,052",879,292,+1,,
+S,"20,053–24,150",4098,1365,+1,"20,049",GACUAAAUG
+ORF3,"24,150–24,755",606,201,+3,"23,876",ATCUCAAC(268)AUG
+E,"24,777–25,004",228,75,+3,"24,763",TTCUCAAC(8)AUG
+M,"25,011–25,697",687,228,+3,"25,001",GTCUAAAC(4)AUG
+N,"25,706–26,977",1272,423,+2,"25,699",AACUAAAC(1)AUG
+ORF7,"26,989–27,348",360,119,+1,"26,982",AACUAAAU(1)AUG
+,,,,1 TRS sequences are shown in bold.,,

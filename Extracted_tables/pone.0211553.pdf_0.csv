@@ -1,0 +1,20 @@
+0,1,2,3,4,5,6
+,,,,,,Avian viral infection surveillance
+Table 2. The PCR or RT-PCR methods used to verify the NGS results.,,,,,,
+,Methods,Upstream primer (5’-3’),Down- stream primer (5’-3’),Annealing,Target,Reference
+,,,,temperature,fragment,
+,,,,(˚C),length (bp),
+Detection,,,,,,
+AIV,RT-PCR,TTCTAACCGAGGTCGAAAC,AAGCGTCTACGCTGCAGTCC,52,229,[16]
+IBV,RT-PCR,TGAATCGTGGTAGGAGTG,AGCCCATCTGGTTGAAGT,50,409,[17]
+NDV,RT-PCR,ATGGGCYCCAGAYCTTCTAC,CTGCCACTGCTAGTTGTGATAATCC,55,530,[18]
+Rotavirus,RT-PCR,GTGCGGAAAGATGGAGAAC,GTTGGGGTACCAGGGATTAA,57,630,[19]
+DHBV,PCR,ACTAGAAAACCTCGTGGACT,GGGAGAGGGGAGCCCGCACG,55,128,[20]
+ALV-J,RT-PCR,GGATGAGGTGACTAAGA,CGAACCAAAGGTAACACACG,58,545,[21]
+Analysis,,,,,,
+HA,RT-PCR,TATTCGTCTCAGGGAGCAAAAGCAGGGG,ATATCGTCTCGTATTAGTAGAAACAAGGGTGTTTT,45,1750,[22]
+F,RT-PCR,TGTAGTAACGGGAGACAAAGCAG,GAATAAATACCAGAGACATAGGGA,46,957,[23]
+S1,RT-PCR,ACTGAACAAAAGACMGACTTAGT,CCATAACTAACATAAGGGCAA,50,1700,[24]
+PCR: polymerase chain reaction; RT-PCR: reverse transcription–polymerase chain reaction; AIV: avian influenza virus; IBV: infectious bronchitis virus; NDV:,,,,,,
+,"Newcastle disease virus; DHBV: duck hepatitis B virus; ALV-J: J subgroup avian leukemia virus, HA: hemagglutinin; F: fusion protein: S: spike glycoprotein.",,,,,
+,https://doi.org/10.1371/journal.pone.0211553.t002,,,,,

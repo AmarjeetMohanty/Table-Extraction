@@ -1,0 +1,30 @@
+0,1,2,3,4,5,6
+to prime new immune responses.,,,,,,
+,,Table 8. Use of phage particle as HIV-1 antigen carrier.,,,,
+,,Carrier,,,Animal,
+Phage,Type,,HIV-1 antigen,Display level,,Reference
+,,protein,,,Model,
+,,,,3 to 5,,
+M13,Filamentous,pIII,p17 (GEDRW),,Rabbit,[205]
+,,,,copies/phage,,
+,,,,3 to 5,,
+fd,Filamentous,pIII,V3 loop of gp120,,Mice,[207]
+,,,,copies/phage,,
+,,,,3 to 5,,
+fd,Filamentous,pIII,V3 loop of gp120,,Mice,[210]
+,,,,copies/phage,,
+,,,,2700,Human,
+fd,Filamentous,pVIII,RT (ILKEPVHGV),,,"[206,214]"
+,,,,copies/phage,cells,
+,,,,2700,,
+M13,Filamentous,pVIII,V3 loop variants,,Mice,[215]
+,,,,copies/phage,,
+,,,,960,,
+T4,Lytic/Icosahedral,SOC,V3 loop of gp120,,Mice,[214]
+,,,,copies/phage,,
+,,,,150,,
+T4,Lytic/Icosahedral,HOC,p24,,Mice,[216]
+,,,,copies/phage,,
+MS2,VLP/Icosahedral,A-B loop,V3 loop of gp120,90 copies/VLP,Mice,[212]
+PP7,VLP/Icosahedral,A-B loop,V3 loop of gp120,-,Mice,[217]
+Lambda,Lytic/Icosahedral,gpD,gp140 trimer,30 copies/phage,Rabbit,[213]

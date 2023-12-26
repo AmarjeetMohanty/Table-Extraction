@@ -1,0 +1,41 @@
+0,1,2,3,4,5,6,7
+,,TABLE 2 | Drug repurposing approaches for the treatment of,"inﬂuenza viral
+infections.",,,,
+,Name,"Initial
+indication",Initial activity,Repurposing approach,Anti-inﬂuenza activity,Status,References
+,Statins,Cholesterol modulators,HMG-CoA reductase inhibitor,Serendipity,Immunomodulator,Phase II,(78–80)
+Frontiers in Immunology | www.frontiersin.org,"(i.e., Atorvastatin)",,,,,(NCT02056340),
+,Nitazoxanide,Anti-parasitic,Inhibition of the pyruvate:,,HA maturation,Phase III,"(81, 82)"
+,,Chronic hepatitis,ferredoxin/ﬂavodoxin oxidoreductase,,& transport inhibition,(NCT03336619),
+,,,cycle,,,,
+,PPAR antagonists,Anti-hyperlipidemic,Hepatic glucogenesis inhibitor,Serendipity & Phenotypic,Immunomodulator,Preclinical,"(83, 84)"
+,"(i.e., Gemﬁbrozil)",,,screening,,,
+,LASAG,Anti-inﬂammatory,NF-kB inhibitor,Serendipity,NF-kB inhibition,Phase II,"(85, 86)"
+,(BAY81-87981),,,& Target-based,,(2012-004072-19),
+,Celecoxib,Anti-inﬂammatory,COX-2 inhibitor,Target-based,Immunomodulator,Phase III,"(87, 88)"
+,,,,,,(NCT02108366),
+,Etanercept,Anti-inﬂammatory,Anti-TNF-α agent,,Immunomodulator,Preclinical,(89)
+,,Rheumatoid arthritis,,,,,
+,Metformin,Approved Type 2 diabetes,Hepatic glucogenesis inhibitor,Phenotypic screening,Immunomodulator,Preclinical,"(78, 83)"
+,,drug,,,Autophagy induction,,
+,Gemcitabine,Approved,Ribonucleotide reductase inhibitor,,Immunomodulator,Preclinical,(90)
+,,anti-cancer drug,,,,,
+,Dapivirine,Phase III,Reverse transcriptase inhibitor,,vRNP transport inhibition,Preclinical,(91)
+,,anti-HIV drug,,,,,
+7,,,,,,,
+,Trametinib,Approved,MEK1/2 inhibitor,,vRNP transport inhibition,Preclinical,(92)
+,,anti-cancer drug,,,,,
+,Lisinopril,Approved anti-hypertensive,peptidyl dipeptidase inhibitor,"In-silico assisted,",NA inhibitor,Preclinical,(93)
+,,drug,,target-based screening,,,
+,Naproxen,Approved NSAID,COX-2 inhibitor,,NP-RNA binding inhibitor,Phase II,(94)
+,,Phase I anticancer,,,,(ISRCTN11273879),
+,Nalidixic acid,Approved antibiotic,Bacterial DNA replication inhibitor,,NA inhibitor,Preclinical,(95)
+,Dorzolamide,Approved,Carbonic anhydrase inhibitor,,NA inhibitor,Preclinical,
+,,anti-glaucoma drug,,,,,
+,Ruxolitinib,Approved for myeloﬁbrosis,JAK inhibitor,,Virion formation & vRNA,Preclinical,(96)
+,,treatment,,,incorporation inhibition,,
+,Midodrine,Approved anti-hypotensive,Adrenergic alpha agonist,"In-silico assisted,",Immunomodulator,Phase II,(97)
+,,drug,,phenotypic screening,?,(NCT01546506),
+,Diltiazem,Approved anti-hypertensive,"Ca2+ channel
+inhibitor",,Immunomodulator,Phase II,(98)
+,,drug,,,?,(NCT03212716),

@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6,7
+,"Table 2. Examples of aptamer-based biosensors in experimental diagnostics. (n/d, no data)",,,,,,
+,,,,Binding,,,
+,Aptamer,,,,Detection,Limit of,
+Virus,,Type,Target,Affinity,,,"Sample Type 
+Refs."
+,Name,,,,Technique,Detection,
+,,,,(Kd),,,
+Influenza,,,,,Spreeta SPR,,poultry swab
+,n/d,DNA,hemagglutinin,4.65 nM,,0.128 HAU,[19]
+H5N1,,,,,sensing chip,,samples
+,ZE2,DNA,glycoprotein E2,1.05 nM,sandwich ELISA,,[26]
+,,,,,,,HCV infected
+HCV,9-14,,,142 nM,sol-gel chip-based,n/d,
+,,RNA,core antigen,,,,"patients’ sera 
+[43]"
+,9-15,,,224 nM,fluorescence assay,,

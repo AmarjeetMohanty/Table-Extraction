@@ -1,0 +1,20 @@
+0,1,2,3,4
+,B. Sensitivity and specificity of surrogate testing for BioT RNA assay.,,,
+Organism,,,,
+,Dengue 1,Dengue 2,Dengue 3,Dengue 4
+etail,,,,
+Spiking,1×10-2,1×10-2,5×105,1×104
+Concentration,dilution,dilution,LD50/mL,LD50/mL
+OD(mean±SD),2.486±1.305,1.077±0.373,1.248±0.147,1.462±0.517
+Sensitivity,95%(19/20),95%(20/20),100%(20/20),100%(20/20)
+(95%CI),(76.2-98.8%),(83.9-99.9%),(83.9-99.9%),(83.9-99.9%)
+Negative Controls,(-),(-),(-),(-)
+NEG sample,6/6,6/6,6/6,6/6
+,For Ebola,For Lassa,For RVF,For HSN
+This experiment,,,,
+,100%,100%,100%,100%
+Specificity,,,,
+,(104/104),(104/104),(104/104),(104/104)
+(95%CI),,,,
+,(96-100%),(96-100%),(96-100%),"D
+(96-100%)"

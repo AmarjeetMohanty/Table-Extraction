@@ -1,0 +1,29 @@
+0,1,2,3,4
+,,Table 4. Covering the cost of vaccination.,,
+Characteristics,,,Proportion of Participants Who Paid for the Vaccine,
+,,n/N * (%),OR (95% CI),p
+"OR, odds ratio; 95% CI, 95% confidence interval; p, p-value; ref, reference value. * Total number of",,,,
+All,,,,
+"respondents with known source of payment and complete information for each individual variable. ¶ 
+All participants",,55/364 (15.1),,
+Gender,,,,
+Male,,38/302 (12.6),1.0 (ref),
+Female,,16/49 (32.7),3.4 (1.7–6.7),< 0.001 §
+Origin,,,,
+,,,8  of  13,
+Domestic,,30/307 (9.8),1.0 (ref),
+Overseas,,23/48 (47.9),8.5 (4.3–16.7),< 0.001 §
+,Pakistan,17/17 (100),,
+,South Africa,3/20 (15),,
+,Other,9/27 (33.3),,
+Hajj attendance,,,,
+≥ 1 time previously,,13/165 (7.9),1.0 (ref),
+First time,,41/193 (21.2),3.2 (1.6–6.1),< 0.001 §
+Tertiary qualiﬁcation,,,,
+Yes,,31/246 (12.6),1.0 (ref),
+No,,22/112 (19.6),1.7 (0.9–3.1),0.09
+Employed,,,,
+Yes,,32/246 (13),1.0 (ref),
+No,,21/108 (19.4),1.6 (0.9–3),0.12
+,"OR, odds ratio; 95% CI, 95% confidence interval; p, p-value; ref, reference value. * Total number of",,,
+,"OR, odds ratio; 95% CI, 95% conﬁdence interval; p, p-value; ref, reference value. * Total number of respondents with",,,

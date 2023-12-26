@@ -1,0 +1,21 @@
+0,1,2,3,4
+and processes to host gene regulation.,,,,
+,,Table 1. Host shutoff mechanisms in HSV-1 and -2.,,
+Level of,,Molecular,,Interacting
+,Viral Protein,,Result,
+Regulation,,Activity,,Cellular Proteins
+,,Unknown—maybe,Inhibition of transcription,
+,Unknown—maybe,,,Unknown—maybe
+Transcription,,dephosphorylation,initiation; inhibition of,
+,ICP22 and ICP27,,,RNA Pol II
+,,of RNA Pol II?,transcription termination,
+,,Inhibits,Inhibition of splicing;,
+,,,,"SAP145, SRp20,"
+RNA processing,ICP27,spliceosome,decreased mRNA,
+,,,,SRPK1
+,,formation,levels in cytoplasm,
+,,,Degradation of host and,
+,,,,"eIF4H, eIF4AI and"
+RNA stability,vhs,RNA endonuclease,viral mRNAs; nuclear,
+,,,,"eIF4AII, TTP"
+,,,relocalization of PABPC,

@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6,7
+,,,,Clinical and laboratory ﬁndings prior to treatment,,,
+Cat,Fever,Weight,Jaundice (mucous membrane or,Ascites,Lymphopenia (<676/,Treatment duration,Outcome
+,,loss,plasma),,μl),(dpi)*,
+P07,+,+,+,Not,+,20 days (15–34),Recovered
+,,,,apparent,,,
+P10,+,+,+,Not,+,20 days (15–34),Recovered
+,,,,apparent,,,
+P02,+,+,+,Mild,+,15 days (20–34),Recovered
+P03,+,+,+,Mild,+,16 days (19–34),Recovered
+P17,+,+,+,Profound,+,14 days (21–34),Recovered
+P24,+,+,+,Profound,+,14 days (21–34),Recovered
+P15,+,+,+,Profound,+,4 days (18–21),Euthanized
+P16,+,+,+,Profound,+,7 days (18–24),Euthanized

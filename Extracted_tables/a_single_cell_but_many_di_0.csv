@@ -1,0 +1,50 @@
+0,1,2,3,4,5,6
+Table 1.,Comparison of diﬀerent,,techniques used to isolate single cells.,"LCM:
+laser
+capture microdissection;",,FACS Fluorescent Activated Cell Sorting;
+DEP: dielectrophoresis.,,,,,,
+,,,,,High-Throughput,Low-Throughput
+Method,Micropipette Isolation,LCM,FACS,"Capillary Based
+Punching Technology",DEP,
+,,,,,Droplet-Based,Droplet-Based
+,,,,,Chromium System,
+,,,,CellRaft AIR,,
+,,,,,Nadia,
+Main Platforms,N/A,Several Platforms,Several Platforms,AVISO CellCelector,DEPArray NxT,C1 System
+,,,,,InDrop System,
+,,,,Puncher Platform,,
+,,,,,ddSEQ Single-Cell,
+,,,,,Isolator,
+,,,,,High (between 6 k and 10,
+Throughput,Low,Low,High,"Low (<100 cells)
+Low (<100 cells)",Low (<100 cells),Low (<800 cells)
+,,,,,k cells),
+Visual Control,Yes,Yes,No,"Yes
+Yes","Yes
+No",Yes
+Cell selection,Yes (morphologically),Yes,Yes,"Yes
+Yes","Yes
+No",Yes
+Input of cells,Low,Low,High,"Medium
+Medium","Medium
+High",Medium
+,,,,,,"Suitable for RNA-Seq,"
+,,,,,"Active cell selection,",
+,,"Spatial information,","Capture rare cells, fast","Low price of
+Active cell selection, high",Suitable for processing a,"DNA-Seq, miRNA-Seq,"
+Advantages,Low cost,,,,cell–cell interaction,
+,,storage of tissue,analysis,"consumables
+transfer eﬃciency",high number of cells,"epigenomics, qRT-PCR"
+,,,,,analysis,
+,,,,,,analysis
+,,,,,"High cost, proﬁles of only",
+,,,,,polyadenylated RNAs,
+,,,Require,"Require skills to operate,",,
+,,Fixatives can damage,,Bioinformatic analysis,"High price of
+(need speciﬁc developed",
+Disadvantages,"Laborious, low eﬃciency",,antibodies/molecular,bioinformatics not,,Size-based cell selection
+,,RNA and introduce bias,,not provided,"consumables
+protocols for example",
+,,,markers,provided,,
+,,,,,miRNAs that are not,
+,,,,,polyadenylated),

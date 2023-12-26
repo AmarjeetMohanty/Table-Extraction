@@ -1,0 +1,31 @@
+0,1,2,3
+Table 1: Distribution of SARS-related factors in cases and controls,,,
+Variables,Cases (%),Controls (%),P value
+Wearing a mask,,,0.003
+Always,38 (57.6),54 (84.4),
+Occasionally,12(18.2),6(9.4),
+Never,16(24.2),4(6.2),
+Wearing a gown,,,<0.001
+Always,21(31.8),50(78.1),
+Occasionally,2(3.0),2(3.1),
+Never,43(65.2),12(18.8),
+Wearing goggles,,,<0.001
+Always,18(27.3),52(81.3),
+Occasionally,7(10.6),5(7.8),
+Never,41(62.1),7(10.9),
+Smoking,,,0.434
+Yes,7(11.1),10(15.9),
+No,56(88.9),53(84.1),
+Alcohol-drinking,,,0.914
+Never,35(53.8),33(53.2),
+Occasionally,26(40.0),24(38.7),
+Often,4(6.2),5(8.1),
+Meat intake,,,0.616
+Every day,34(51.5),34(53.1),
+Often,29(43.9),29(45.3),
+Rarely,3(4.6),1(1.6),
+Physical exercise,,,0.213
+Rarely,18(28.1),20(31.7),
+1~2 times/week,27(42.2),34(54.0),
+>3 times/week,10(15.6),5(7.9),
+Every day,9(14.1),4(6.4),

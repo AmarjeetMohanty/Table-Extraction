@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6
+,,,,,Possible Association of,IL4 in Sensitive to Mites
+,Table 2. Results of age- and sex-adjusted logistic regression analysis.,,,,,
+,Participants,,,,,
+Variables,n (cases),n (total participants),% cases,OR,95%CI,p
+Age (years),,,,,,
+#12,86,178,48.3,Ref,,
+13–18,27,38,71.1,2.75,1.28–5.92,0.0097*
+.18,25,38,65.8,2.22,1.06–4.65,0.0358*
+Sex,,,,,,
+Male,67,116,57.8,Ref,,
+Female,71,138,51.4,0.69,0.41–1.15,0.1579
+OR = odds ratio; Ref = reference; 95%CI = 95% confidence interval;,,,,,,
+"* Significant at p,0.05.",,,,,,
+doi:10.1371/journal.pone.0107921.t002,,,,,,

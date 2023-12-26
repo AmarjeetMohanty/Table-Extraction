@@ -1,0 +1,51 @@
+0,1,2,3,4
+Table 1. Patient characteristics according to survival status.,,,,
+,,Survivor (n = 156),Non-survivor (n = 166),p
+Age (years),,58.3 ± 15,62.3 ± 15.4,0.02
+Male sex,,95/156 (60.9),118/166 (71.1),0.054
+Center 2,,82/156 (52.6),92/166 (55.4),0.61
+Causes of admission,,,,0.002
+,Cardiovascular disease,109/156 (69.9),94/166 (56.6),0.01
+,Lung disease,21/156 (13.5),28/166 (16.9),0.40
+,Malignancy,7/156 (4.5),28/166 (16.9),<0.001
+,Others,19/156 (12.2),16/166 (9.6),0.46
+Causes of ECMO support,,,,0.02
+,ARDS,12/156 (7.7),31/166 (18.7),0.004
+,Non-ARDS lung causes,22/156 (14.1),22/166 (13.3),0.82
+,Post-cardiotomy,14/156 (9.0),17/166 (10.2),0.70
+,Non-operative cardiac causes,101/156 (64.7),84/166 (50.6),0.01
+,Others,7/156 (4.5),12/166 (7.2),0.30
+ECMO VA mode,,121/156 (77.6),109/166 (65.7),0.02
+CPR within 24 hours,,61/156 (39.1),76/166 (45.8),0.23
+IABP use,,62/156 (39.7),44/166 (26.5),0.01
+Length of stay before ECMO insertion (days),,6.5 ± 12.6,10.7 ± 21.8,0.03
+Initial ECMO settings,,,,
+,Pump speed (103 rpm) a,2.2 ± 0.6,2.4 ± 0.7,0.005
+,Blood ﬂow rate (L/min),3.1 ± 0.8,3.1 ± 1,0.88
+,Blood ﬂow rate in VA (L/min),3.1 ± 0.8,3.2 ± 1.1,0.48
+,Blood ﬂow rate in VV (L/min),3.2 ± 0.8,2.9 ± 0.8,0.11
+ECMO duration (days),,6.4 ± 7.6,10.8 ± 10.7,<0.001
+Initial urine output (L/day),,4.7 ± 3.8,3.9 ± 2.8,0.03
+Initial ventilator settings,,,,
+,PEEP (cmH2O) a,5.6 ± 2.7,6 ± 2.3,0.17
+,PIP (cmH2O) a,16.9 ± 5.7,17.6 ± 6.1,0.33
+"Initial
+laboratory ﬁndings",,,,
+,Blood urea nitrogen (mmol/L),16.7 ± 9.4,20.6 ± 13.2,0.002
+,Creatinine (μmol/L),105.5 ± 47,118.2 ± 54.1,0.03
+,Total bilirubin (μmol/L) a,28.7 ± 27.7,31.6 ± 31.6,0.40
+,Albumin (g/L) a,28.1 ± 6.3,26.7 ± 6.3,0.053
+,White Blood Cells (x103/μL),13.5 ± 6.6,14.1 ± 8.5,0.55
+,Hemoglobin (g/dL),11.2 ± 2.4,10.8 ± 2.3,0.13
+,Platelet (x103/μL),137.7 ± 71.1,150.8 ± 94.1,0.16
+,RDW (%),14.3 ± 1.4,14.8 ± 2,0.01
+,Sodium (mmol/L),140.2 ± 6.7,142.6 ± 7.4,0.004
+,Potassium (mmol/L),3.9 ± 0.7,4 ± 0.8,0.17
+,Chloride (mmol/L),105.8 ± 7.4,106.1 ± 7.2,0.67
+,C-reactive protein (nmol/L) a,57 ± 73.1,78.3 ± 85,0.02
+Initial SAPS2 a,,58.1 ± 14.3,63.9 ± 15.2,0.001
+AKI,,114/156 (70.1),151/166 (91.0),<0.001
+,Non- AKI,42/156 (26.9),15/166 (9.0),<0.001
+,Stage 1,63/156 (40.4),42/166 (25.3),0.004
+,Stage 2,13/156 (8.3),10/166 (6.0),0.421
+,,,,(Continued)

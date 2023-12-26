@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6
+and season of sampling.,,,,,,
+,Farm 1,Farm 2,Farm 3,Farm 4,Farm 5,Farm 6
+Farms characteristics,,,,,,
+Breed,Holstein,Holstein,Holstein,Holstein,Holstein,Jersey
+Calves born per year,800,1000,350,330,150,80
+Housing,Group pen,Individual,Group pen,Hutches,Hutches,Group pen
+Bedding,Saw dust,Shavings,Straw,Straw,Straw,Straw
+Colostrum (pooled),4L ﬁrst 6 h,6L ﬁrst 6 h,6L ﬁrst 4 h,5L ﬁrst 6 h,5L ﬁrst 6 h,5L ﬁrst 6 h
+Diet (up to 12 wks.),Pasteurized milk,Milk replacer,Pasteurized milk,Pasteurized milk,Pasteurized milk,Pasteurized
+,,,,,,milk
+Feeding method,Robot machine,Individual bucket,Robot machine,Individual bucket,Individual bucket/,Bottle
+,,,,,Robot machine,
+Vaccination of,Yes,Yes,Yes,Yes,Yes,Yes
+pregnant cowsf,,,,,,
+Sampled calves,,,,,,
+Calves enrolled,84,94,48,30,20,10
+"Sex (n,%)",,,,,,
+Female,60 (71%),65 (69%),39 (81%),30 (100%),20 (100%),8 (80%)
+Male,24 (29%),30 (31%),9 (19),0 (0%),0 (0%),2 (20%)
+Age (mean (cid:1) SD),10 (cid:1) 4.7,8.9 (cid:1) 2.2,7.7 (cid:1) 3.4,8.5 (cid:1) 2.1,10.5 (cid:1) 1.7,9.5 (cid:1) 2.7
+Sampling year,F-2015,F-2014,F-2014,W-2015,Sp-2016,Su-2016
+and season,W-2016,W-2015,W-2015,Sp-2015,Su-2016,F-2016
+,Sp-2016,Sp-2015,Sp-2015,Su-2015,,
+,Su-2016,Su-2015,,,,

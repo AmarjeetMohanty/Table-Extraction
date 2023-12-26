@@ -1,0 +1,38 @@
+0,1,2,3,4,5
+Classiﬁcation,,,,,
+,Host Cell,,,,
+of RNA,,Virus,Functions,Cleavage Site,Reference
+,Protein,,,,
+Polymerases,,,,,
+,,,Regulates of transcriptional,,
+I,TAF110,PV,,IQLQ265 . . . ACAQ805G,[49]
+,,,initiation,,
+,,,Involved in three RNA,,
+,,,polymerase-mediated,,
+,TBP,PV,,AAAVQQ104STSQQA,[50]
+,,,transcriptions and responsible,,
+,,,for DNA binding,,
+,,,Binds to DNA elements for,,
+,CREB-1,PV,,GQYIAITQ172GGAIQL,[51]
+,,,induction by cAMP,,
+II,,,,,
+,,,Binds to the octamer sequence,,
+,,,ATGCAAAT and activates the,KLGFTQ329GDVGLA,
+,Oct-1,PV,,,[52]
+,,,promoters of genes for some,(Speculated),
+,,,small nuclear RNAs,,
+,,,Functions as a typical,,
+,,,sequence speciﬁc transcription,,
+,P53,PV,,Not clear,[53]
+,,,activator and a tumor,,
+,,,suppressor,,
+,,,Binds to the B-box internal,,
+III,TFIIIC,PV,promoter element to process,TSQPPVPQ732GEAEED,[54]
+,,,tRNA transcription,,
+,,,Polyadenylation of host,,
+,CstF64,EV 71,,MQASMQ251GGVPAPGQMP,[56]
+,,,mRNA,,
+Other factors,,,,,
+,,,DNA binding and involved in,,
+,Histone 3,FMDV,the structure of chromatin in,GKAPRKQL120ATKAAR,[55]
+,,,eukaryotic cells,,

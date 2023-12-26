@@ -1,0 +1,28 @@
+0,1,2,3,4,5
+TABLE 1 | Principal co-stimulatory molecules from the B7/CD28 and TNFR family.,,,,,
+Effect on T-cell,T-cell,APC,Determined in microglia,Experimental model,Reference
+,,,,,"Bechmann et al., 2001"
+,,,,PPT,
+,,,,,"Kwidzinski et al., 2003b"
+Stimulation,CD28,,,,
+,,,,Peripheral nerve injury,"Rutkowski et al., 2004"
+,,,,FNA,"Bohatschek et al., 2004"
+,,B7.1/B7.2,+,Cuprizone,"Remington et al., 2007"
+,,,,,"Issazadeh et al., 1998"
+,,,,,"Juedes and Ruddle, 2001"
+,,,,,"Mack et al., 2003"
+Inhibition,CTLA-4,,,EAE models,
+,,,,,"Raivich and Banati, 2004"
+,,,,,"Almolda et al., 2010"
+,,,,,"Almolda et al., 2011b"
+Stimulation,ICOS,B7H2 (ICOS-L),n.d.,–,–
+,,,,MCAO,"Ren et al., 2011"
+,,,,,"Bodhankar et al., 2013"
+,,,,Coronavirus infection,"Phares et al., 2009"
+,,,,,"Duncan and Miller, 2011"
+,,,,TMEV,
+,,,,,"Jin et al., 2013"
+Inhibition,PD-1,B7H1 (PD-L1),+,,
+,,,,EAE models,"Schreiner et al., 2008"
+,,,,PPT,"Lipp et al., 2007"
+,,B7DC (PD-L2),n.d.,–,–

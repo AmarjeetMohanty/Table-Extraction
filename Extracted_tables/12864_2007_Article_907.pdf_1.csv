@@ -1,0 +1,12 @@
+0,1,2,3,4,5
+Table 3: Comparison of the ACE3 sequences.,,,,,
+Species,Length (amino acids),Zinc-binding motif,Signal peptide,TM region,EST
+Human,737§,HEMGH,,,X
+,,,(cid:57),(cid:57),
+Mouse,750,HQMGH,X,,
+,,,,(cid:57),(cid:57)
+Rat,732,HQMGH,,,
+,,,(cid:57),(cid:57),(cid:57)
+Dog,602,HQMGH,X,X,X
+Cow,738,HQMGH,X,,
+,,,,(cid:57),(cid:57)

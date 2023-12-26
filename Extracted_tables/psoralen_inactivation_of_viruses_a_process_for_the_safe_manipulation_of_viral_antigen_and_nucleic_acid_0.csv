@@ -1,0 +1,58 @@
+0,1,2,3,4,5,6
+Table,4.,"Total microwatts UV-A required
+to","inactivate
+different",viruses,"in
+the
+presence",of
+,41-aminomethyl-trioxsalen (AMT).,,,,,
+,,,,,Inactivation (μW/cm2),
+,,,,,UV-A + AMT Required for,
+Alphaviridae,Family,"Characteristics
+enveloped, spherical, ssRNA(+)","Virus
+VEEV",,"20,000",
+,,,,,Inactivation (µW/cm2),
+Arenaviridae,,"enveloped, spherical, ssRNA(‐)",LASV,,"30,000",
+,Alphaviridae,"enveloped, spherical, ssRNA(+)",VEEV,,"20,000",
+,,,JUNV,,"90,000",
+,,,LASV,,"30,000",
+,Arenaviridae,"enveloped, spherical, ssRNA(-)",,,,
+Bunyaviridae,,"enveloped, spherical, ssRNA(‐)","RVFV 
+JUNV",,"90,000 
+90,000",
+,,,CCHFV,,4000,
+,,,RVFV,,"90,000",
+,Bunyaviridae,"enveloped, spherical, ssRNA(-)",,,,
+Coronaviridae,,"enveloped, spherical, ssRNA(+)","MERS‐CoV 
+CCHFV",,"6000 
+4000",
+,Coronaviridae,"filamentous, ssRNA(‐) 
+enveloped, spherical, ssRNA(+)","MARV 
+MERS-CoV",,"150,000 
+6000",
+,,,EBOV,,"120,000",
+,,,MARV,,"150,000",
+,Filoviridae,"ﬁlamentous, ssRNA(-)",,,,
+,,"enveloped, spherical, ssRNA(+)","DENV 
+EBOV",,"8000 
+120,000",
+,,,WNV,,2000,
+,,,DENV,,8000,
+,,,"SLEV 
+WNV",,"1000 
+2000",
+,Flaviviridae,"enveloped, spherical, ssRNA(+)",,,,
+,,,SLEV,,1000,
+,,,YFV,,2000,
+,,,YFV,,2000,
+,,"enveloped, usually spherical but",H1N1p,,1000,
+Orthomyxoviridae,,,,,,
+,,,H1N1p,,1000,
+,,"can be filamentous, ssRNA(‐)",H1N1,,1000,
+,,"enveloped, usually spherical but",H1N1,,1000,
+,Orthomyxoviridae,,H3N2,,2000,
+,,"can be ﬁlamentous, ssRNA(-)",H3N2,,2000,
+,,,"Flu‐B 
+Flu-B",,"2000 
+2000",
+,"WNV:  West  Nile;  SLEV:  St.  Louis  Encephalitis;  YFV:  Yellow  Fever;  H1N1:  Influenza  A(H1N1)pdm09;  H3N2: 
+WNV: West Nile;",SLEV: St.,Louis Encephalitis; YFV: Yellow Fever; H1N1:,,Inﬂuenza A(H1N1)pdm09;,

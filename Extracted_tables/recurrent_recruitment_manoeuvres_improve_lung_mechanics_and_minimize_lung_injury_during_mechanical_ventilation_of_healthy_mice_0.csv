@@ -1,0 +1,28 @@
+0,1,2,3,4,5,6,7,8
+,,,,,,,Recruitment Manoeuvres and Lung Mechanics,
+,Table 1. Comparison of mouse ventilation models.,,,,,,,
+,Experimental design,,,,,Monitored parameters,,
+Reference,,,,,,,,
+,,,,,,,BP/cardiac,
+,Ventilation,VT [ml/kg],PEEP [cmH2O],RM,Lung functions,BGA,activity,SpO2
+[2],30 min,7/10,2/0,*,+,2,2/P,+
+[3],60 min,8,6/3,**,+,2,2,2
+[4],140 min,30/10,2/0,2x/min,+,+,2/ECG,2
+[5],150 min,8,6/2,1x/5 min or 1x/75 min,+,2,2/P,+
+[60],4 h,25/7,2,2,+,2,2/ECG,2
+[12],4 h,20/6,2,2,2,2,2,2
+[61],4 h,30,2,2,2,2,2,2
+[62],4 h,20/7,022,2,2,2,2,2
+[7],4 h,8,4,2,2,+,+/2,2
+[11],5 h,30/6,2,2,2,2,2/2,2
+[8],5 h,15/7.5,2,2,2,+,+/+,2
+[63],6 h,24,2,2,2,2,+/P,2
+[9],6 h,12,6,*,2,+,+/P,+
+[64],4 h/8 h,20/10,2,1x/h,2,2,+/2,2
+[10],8 h,12,2,2,2,+,+/2,2
+Present,6 h,16/8,2,1x/5 min or 1x/60 min,+,+,"+/ECG, P",+
+study,,,,or no RM,,,,
+,The table lists those ventilation studies that analyzed lung functions by measurement of,,,,lung impedance and studies in which mice were ventilated for at least four,,,
+hours. VT:,,"tidal volume, PEEP: positive end-expiratory pressure, RM:",,,"recruitment manoeuvre, BGA: blood gas analysis, BP: blood pressure, P: pulse, ECG:",,,
+,"electrocardiogram, SpO2: pulse oximetry. * One RM at",,,the beginning of ventilation. ** Two RMs at,,the beginning of ventilation.,,
+doi:10.1371/journal.pone.0024527.t001,,,,,,,,

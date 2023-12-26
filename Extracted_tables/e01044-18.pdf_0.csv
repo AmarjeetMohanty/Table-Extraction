@@ -1,0 +1,26 @@
+0,1,2,3,4,5
+The S2 Subunit Determines IBV Tropism,,,,,Journal of Virology
+TABLE 1 Mutations identiﬁed in the S genes of,rIBVs,,,,
+,,Mutationa,,,
+Virus,Passage no.-cell type,nt postion,nt change,aa position,aa change
+BeauR-M41(S1),P3-CK,22239,GTT ¡ AAC,625,LF ¡ LT
+,P7-Vero,22239,GTT ¡ AAC,625,LF ¡ LT
+,P7-Vero,23378,C ¡ T,1004,T ¡ I
+BeauR-M41(S2),P3-CK,21721,G ¡ A,452,A ¡ T
+BeauR-S-MM,,,,,
+BeauR-M41-S-BSM,P3-CK,22226,A ¡ C,620,D ¡ A
+,P7-Vero,22226,A ¡ C,620,D ¡ A
+BeauR-M41-S-BSM-N617S,P7-Vero,22962,A ¡ C,866,Q ¡ H
+BeauR-M41-S-BSM-L578F-N617S,P3-CK,21843,A ¡ C,493,E ¡ D
+,P7-Vero,21843,A ¡ C,493,E ¡ D
+,P7-Vero,22962,A ¡ C,866,Q ¡ H
+BeauR-M41-S-BSM-I1000V,P7-Vero,22099,C ¡ T,578,L ¡ F
+BeauR-M41-S-BSM-L857F-I1000V,P7-Vero,22255,C ¡ T,630,P ¡ S
+BeauR-M41-S-BSM-N826S-L857F-I1000V,P3-CK,20494,C ¡ mixed T/C,43,H ¡ Y
+,P7-Vero,21709,G ¡ A,448,V ¡ I
+,P7-Vero,22099,C ¡ T,578,L ¡ F
+,P7-Vero,22342,C ¡ mixed A/C,659,P ¡ T
+,P7-Vero,22936,C ¡ mixed T/C,857,L ¡ F
+,P7-Vero,22962,A ¡ mixed T/A,866,Q ¡ H
+BeauR-M41-S-BSM-L578F-N617S-N826S-L857F-I1000V,P7-Vero,20584,G ¡ A,73,G ¡ S
+"ant, nucleotide; aa, amino acid.",,,,,

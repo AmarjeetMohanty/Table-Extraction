@@ -1,0 +1,32 @@
+0,1,2,3,4
+Table 3 Differential,features of sepsis-associated “DIC” and other,,thrombo-coagulopathies,
+,“DIC” without hepatic,“DIC” with hepatic coagulopathy,EA-VMTD/DIT without hepatic,True DIC
+,coagulopathy,,coagulopathy,
+Associated disease,Sepsis,Sepsis,Sepsis,APL
+,"Other critical
+illnesses","Other critical
+illnesses","Other critical
+illnesses",
+,,FHF,,
+Mechanism,,,,
+Complement activation,+,+,+,No evidence
+Endotheliopathy,+,+,+,No evidence
+Inflammatory path,Activated,Activated,Activated,No evidence
+Activated hemostatic,ULVWF,ULVWF,ULVWF,Aberrant TF path
+path,,,,
+Thrombogenesis,Via micothrombogenesis,Via micothrombogenesis,Via micothrombogenesis,Via fibrinogenesis
+"Liver
+involvement",None,FHF,None,Unlikely to occur
+Pathology,,,,
+Coagulation disorder,VMTD,VMTD with FHF,VMTD,Hemorrhagic disorder
+Character of blood,Microthrombi,Microthrombi,Microthrmbi,Fibrin clots
+clots,,,,
+Nature of blood clot,Platelet + ULVWF,Platelet +ULVWF,Platelet +ULVWF,Fibrin meshes
+Hematology,,,,
+Platelet,Decreased,Decreased,Decreased,Decreased due to APL
+MAHA,+,+,+,–
+FVIII,Normal/increased,Markedly increased,Normal/increased,Markedly decreased
+PT/aPTT,Normal,Prolonged,Normal,Prolonged
+Fibrinogen,Normal,Decreased,Normal,Decreased
+Clinical Phenotype,MODS,MODS,MODS,Hemorrhagic syndrome
+,TTP-like syndrome,TTP-like syndrome,TTP-like syndrome,

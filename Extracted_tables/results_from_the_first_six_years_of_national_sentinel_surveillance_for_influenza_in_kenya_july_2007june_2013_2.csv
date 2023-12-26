@@ -1,0 +1,55 @@
+0,1,2,3,4,5,6,7
+"PLOS ONE
+Table 3. Odds of",testing positive for,"influenza for various demographic and clinical characteristics among SARI patients aged $5 years in Kenya, July 2007–June 2013.",,,,,
+,,,Influenza positive,Influenza negative,,,
+,,,patients (N = 357),"patients (N = 2,064)",,,
+,Total,"(N = 2,421)",,,Crude OR (95% CI),p-Value,Adjusteda OR (95% CI) p-Value
+| www.plosone.org,,,n(%)¥,n(%)¥,,,
+Sex,,,,,,,
+Male,"1,295",,187(14.4),1108(85.6),Ref,,
+Female,"1,126",,170(15.1),956(84.9),1.1(0.8–1.3),0.649,-
+Age Group,,,,,,,
+5–9 years,"1,247",,204(16.4),1043(83.6),Ref,,Ref
+10–17 years,360,,58(16.1),302(83.9),1.0(0.7–1.4),0.911,"0.9(0.6–1.3)
+0.484"
+18–49 years,684,,81(11.8),603(88.2),0.7(0.5–0.9),0.008,"0.7(0.4–1.1)
+0.086"
+$50 years,130,,14(10.8),116(89.2),0.6(0.3–1.1),0.100,"0.8(0.4–1.8)
+0.627"
+Site,,,,,,,
+Kenyatta NH,54,,1(1.9),53(98.1),Ref,,
+Coast PGH,92,,7(7.6),85(92.4),77.8b,",0.001c","-
+-"
+Nakuru PGH,140,,16(11.4),124(88.6),,,
+Nyeri PGH,228,,34(14.9),194(85.1),,,
+Kakamega PGH,645,,73(11.3),572(88.7),,,
+9,,,,,,,
+Embu PGH,25,,0(0.0),25(100.0),,,
+Garissa PGH,31,,9(29.0),22(71.0),,,
+Kakuma,499,,67(13.4),432(86.6),,,
+Dadaab,518,,130(25.1),388(74.9),,,
+Siaya DH,93,,14(15.1),79(84.9),,,
+Nyanza PGH,96,,6(6.3),90(93.8),,,
+,Length of illness before presenting to the,,,,,,
+hospital,,,,,,,
+0–3 days,"1,303",,215(16.5),1088(83.5),Ref,,
+4–7 days,928,,125(13.5),803(86.5),0.8(0.6–1.0),0.050,"1.1(0.8–1.5)
+0.568"
+.7 days,190,,17(8.9),173(91.1),0.5(0.3–0.8),0.008,"0.7(0.4–1.5)
+0.396"
+"June 2014 | Volume 9 |
+Have children or","take care of children in the
+1,323",,169(12.8),1154(87.2),1.2(0.9–1.7),0.166,"1.4(0.9–2.0)
+0.094"
+household (Yes vs. No),,,,,,,
+Underlying chronic diseased,,,,,,,
+Any chronic disease (Yes vs. No),324,,31(9.6),293(90.4),0.6(0.4–0.9),0.005,"0.8(0.5–1.4)
+0.453"
+Heart disease (Yes vs. No),19,,1(5.3),18(94.7),0.3(0.0–2.3),0.249,
+"Issue 6 |
+Chronic shortness of breath (Yes vs. No)",32,,3(9.4),29(90.6),0.6(0.2–1.9),0.347,
+Recurrent chest pain (Yes vs. No),49,,9(18.4),40(81.6),1.2(0.6–2.6),0.559,
+Asthma (Yes vs. No),61,,5(8.2),56(91.8),0.5(0.2–1.2),0.127,"0.8(0.3–2.7)
+0.754"
+"e98615
+Chronic cough (Yes vs. No)",42,,5(11.9),37(88.1),0.7(0.3–1.9),0.528,

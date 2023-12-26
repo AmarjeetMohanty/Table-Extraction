@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6
+T,able. Characteristics of pilgrims who returned from the Hajj with acute respiratory illness and detectable virus in respiratory,,,,,
+"specimens, Austria, 2014*",,,,,,
+Patient,"Age,",,,Date of return from,Date of sample,Detected respiratory
+no.,y/sex,Other condition(s),Signs/symptoms,"Hajj, Oct 2014","collection, Oct 2014",virus
+1,50/M,Diabetes,"Fever of 38°C,",22,23,Influenza B†
+,,,"pneumonia, bronchitis",,,
+2,49/M,Hypothyroidism,"Fever of 39°C,",21,22,Influenza A(H3N2)‡
+,,,"pneumonia, bronchitis",,,
+3,47/F,None,"Fever, cough",19,21,Influenza B†
+4,57/M,None,"Cough, bronchitis",19,21,Influenza B†
+5,66/M,"Hypertension,","Cough, lung infiltrates",13,20,Rhinovirus
+,,cardiomyopathy,,,,
+6,54/M,"Diabetes, hypertension","Cough, bronchitis",10,13,Rhinovirus
+7,52/F,"Diabetes, hypertension,","Fever of 40°C, dyspnea",12,16,Influenza A(H3N2)‡
+,,bronchial asthma,,,,

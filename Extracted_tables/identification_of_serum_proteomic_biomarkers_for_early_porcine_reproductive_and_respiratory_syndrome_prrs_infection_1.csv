@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6,7,8
+Table 2 Discriminatory protein peaks identified in the discovery phase and confirmed in the validation phase,,,,,,,,
+(Continued),,,,,,,,
+6,IMAC30,Low,0.74 (up-regulated),8.928,0.013,0.029,,
+6,IMAC30,Low,0.70 (up-regulated),10.041,0.025,0.025,,
+6,IMAC30,Low,0.76 (up-regulated),11.412,0.005,0.00,,
+6,IMAC30,Low,0.74 (up-regulated),12.237,0.009,0.002,,
+6,IMAC30,Low,0.74 (up-regulated),12.522,0.009,0.004,,
+6,IMAC30,Low,0.76 (up-regulated),12.930,0.002,0.003,,
+6,IMAC30,Low,0.78 (up-regulated),13.143,0.002,0.004,,
+6,IMAC30,Low,0.68 (up-regulated),17.171,0.045,0.018,,
+"Total number of significant peaks Fraction 6,",,,"IMAC30,",low focus mass: 8,,,54.5%,53%
+6,IMAC30,High,0.28 (down-regulated),27.806,0.023,0.018,,
+6,IMAC30,High,0.30 (down-regulated),27.606,0.030,0.017,,
+,"Total number of significant peaks Fraction 6,",,,"IMAC30, high focus mass: 2",,,,

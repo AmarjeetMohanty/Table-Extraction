@@ -1,0 +1,29 @@
+0,1,2,3,4,5
+4,,,,International Journal of Microbiology,
+,,Table 2: HMPV oligonucleotide primers and probes.,,,
+,"󸀠
+󸀠",,,,
+Name,"Oligonucleotide sequence (5
+-3
+)",Positiona,Gene,Polarity,Reference
+,Real-time PCR,,,,
+HMPV F S,gCTCCgTAATYTACATggTgCA,794–815,F,+,[36]
+HMPV F S1,gAAgCTCYgTgATTTACATggTYCA,791–815,F,+,[36]
+,,,,−,
+HMPV F AS,gACCCTgCARTCTgACAATACCA,924–947,F,,[36]
+,,,,−,
+HMPV F AS1,AgTKgATCCTgCATTTTTACAATACCA,924–951,F,,[36]
+HMPV F TMGB,F-CCYTgCTggATAgTAAAA-MGB,844–861,F,+,[36]
+HMPV F TMGB1,F-CCTTgTTggATAATCAA-MGB,844–860,F,+,[36]
+,Conventional PCR and sequencing,,,,
+External PCR,,,,,
+HMPV-3637-F,gTYAgCTTCAgTCAATTCAACAgAAg,571–596,F,+,[31]
+,,,,−,
+HMPV-4192-R1,CAgTgCAACCATACTgATRggATg,1101–1125,F,,[36]
+,,,,−,
+HMPV-4192-R2,TAgTgCAACCATACTgATRgggTg,1101–1125,F,,[36]
+Seminested PCR,,,,,
+HMPV-3637-F,gTYAgCTTCAgTCAATTCAACAgAAg,571–596,F,+,[31]
+,,,,−,
+HMPV-4164-R,CCTgTgCTRACTTTgCATggg,1077–1097,F,,[36]
+aNucleotide positions are given according to the gene positions in HMPV isolate NL/1/94 (GenBank accession number AY304362). The base “G” is given in,,,,,

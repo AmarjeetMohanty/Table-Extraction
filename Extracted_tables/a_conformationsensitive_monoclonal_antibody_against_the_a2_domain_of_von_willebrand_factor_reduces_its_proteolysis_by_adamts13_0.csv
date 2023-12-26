@@ -1,0 +1,15 @@
+0,1,2,3
+,,,Anti-VWF Antibody Reduces VWF Cleavage by ADAMTS13
+,Table 1. Summary of 8 mAbs to VWF and their effects on VWF proteolysis by ADAMTS13.,,
+,,Effects on VWF proteolysis by ADAMTS13,
+mAbs,Epitope,,
+,,under shear stress,under static/denaturing conditions
+1C1E725,VWF-D’D3,no effect,no effect
+75H4B1225,VWF-D’D3,no effect,no effect
+SZ12926,VWF-A1,no effect,no effect
+SZ13026,VWF-A1,no effect,no effect
+SZ2928,VWF-A2,no effect,no effect
+"SZ3427,28",VWF-A2,inhibition,no effect
+SZ12327,VWF-A3,no effect,no effect
+SZ12527,VWF-A3,no effect,no effect
+doi:10.1371/journal.pone.0022157.t001,,,

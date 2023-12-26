@@ -1,0 +1,9 @@
+0,1,2,3,4,5,6,7
+"A2 (36), A24 (24), A1, B8 and B39 (21), B44 (20),",,,,"25 ),",the outer membrane of Chlamydia trachomatis,,
+,Table 2 Generated and binding peptides from selected cysteine proteases,,,,,,
+Systematic name,Protein,Features,No. of,No. of,No. of,Percent of,No. of binding
+in GeneDB,,,amino,generated,binding,binding,peptides with
+,,,acid,peptides,peptides,peptides,score >1.5
+LmjF19.1420,CPA,cathepsin L-like,354,346,91,26.3%,8
+LmjF08.1050,CPB,cathepsin L-like,348,340,103,30.3%,9
+LmjF29.0820,CPC,cathepsin B-like,340,332,96,28.9%,15

@@ -1,0 +1,34 @@
+0,1,2,3,4,5
+,(b) Examples of viruses detected in bats and rodents by metagenomic studies.,,,,
+,,(a),,,
+,,,,Domestic Animal,
+,,,Vector-Based,,
+Wildlife,Zoonosis,Virus,,Intermediate,Ref.
+,,,Transmission,,
+,,,,Host,
+,Nipah/Hendra,"Paramyxoviridae, Henipavirus",No,Pig/horse,[63]
+,Ebola hemorrhagic fever,"Filoviridae, Ebolavirus, EBOV",No,No,[64]
+Bat,Severe acute respiratory,"Coronaviridae, Betacoronavirus,",,,
+,,,No,"Civet, cat",[65]
+,syndrome (SARS),SARS-CoV,,,
+,Rabies,"Rhabdoviridae, Lyssavirus, RABV",No,Dog,[66]
+,Lymphocytic choriomeningitis,"Arenaviridae, Arenavirus, LCMV",No,No,[67]
+,Lassa hemorrhagic fever,"Arenaviridae, Arenavirus, LASV",No,No,[67]
+Rodent,,,,,
+,Pulmonary syndrome and,,,,
+,,"Bunyaviridae, Hantavirus",No,No,"[68,69]"
+,hemorrhagic syndrome,,,,
+,,,Yes,,
+,Japanese encephalitis,"Flaviviridae, Flavivirus, JEV",,Swine,[70]
+,,,(mosquitoes),,
+,,,Yes,,
+Bird,West Nile,"Flaviviridae, Flavivirus, WNV",,Horse,[56]
+,,,(mosquitoes),,
+,,"Orthomyxoviridae, Influenzavirus,",,,
+,Avian influenza,,No,"Poultry, swine",[71–73]
+,,"A/H5N1, A/H1N1",,,
+,Marburg hemorrhagic fever,"Filoviridae, Marburgvirus, MARV",No,No,"[74,75]"
+Primate,Acquired immunodeficiency,,,,
+,,"Retroviridae, Lentivirus, HIV",No,No,[55]
+,syndrome (AIDS),,,,
+,"Abbreviations:  Ebola  virus  (EBOV),  SARS-Coronavirus  (SARS-CoV),  Rabies  virus  (RABV),  Lymphocytic",,,,

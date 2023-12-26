@@ -1,0 +1,26 @@
+0,1,2,3,4,5,6
+Table 2. Comparison of,,the adjusted social contacts with previous study.,,,,
+,,,,Derived,Scale,Adjusted
+PNAS - contact probabilities for different contact groups,,,,Contact,Factor,Contact
+Household,Child,Child,0.6,12.61%,4.75,0.60
+,Child,Adult,0.3,10.40%,4.75,0.49
+,Adult,Child,0.3,10.40%,4.75,0.49
+,Adult,Adult,0.4,8.93%,4.75,0.42
+Household cluster,Child,Child,0.075,7.30%,1.00,0.073
+,Child,Adult,0.04,6.63%,1.00,0.066
+,Adult,Child,0.04,6.63%,1.00,0.066
+,Adult,Adult,0.05,3.45%,1.00,0.034
+Small play group,Child 0–4,Child 0–4,0.35,8.03%,0.40,0.032
+Large daycare,Child 0–4,Child 0–4,0.15,8.03%,0.20,0.016
+Elementary school,Child 5–18,Child 5–18,0.0435,8.42%,0.40,0.034
+Middle school,Child 5–18,Child 5–18,0.0375,8.42%,0.40,0.034
+High school,Child 5–18,Child 5–18,0.0315,8.42%,0.40,0.034
+Workgroup,Adult19–64,Adult 19–64,0.0575,5.78%,1.00,0.058
+Neighborhood,Anyone,Adult 65+,0.00087,,,0.00087
+,Anyone,Adult 19–64,0.00058,,,0.00058
+,Anyone,Child 5–18,0.0002175,,,0.00022
+,Anyone,Child 0–4,0.0000725,,,0.000073
+Community,Anyone,Adult 65+,0.0002175,,,0.00022
+,Anyone,Adult19–64,0.0001450,,,0.00015
+,Anyone,Child 5–18,0.0000544,,,0.000054
+,Anyone,Child 0–4,0.0000181,,,0.000018

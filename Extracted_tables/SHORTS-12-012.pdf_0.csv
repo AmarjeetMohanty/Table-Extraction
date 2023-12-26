@@ -1,0 +1,20 @@
+0,1,2,3
+gens,,,
+Disease,Genus of pathogen,Source,
+Bacterial,Vibriosis,Vibrio,"Amphibian, Reptile"
+,Melioidosis,Burkholderia,Amphibian
+,Mycoplasmosis,Mycoplasma,"Amphibian, Reptile"
+,Mycobacteriaiosis,Mycobacterium,Amphibian
+,Streptothricosis,Dermatophilus,Reptile
+Viral,California encephalitis,Bunyaviridae,"Amphibian, Reptile"
+Mycotic,Adiaspiromycosis,Chrysosporium,Amphibian
+Microparasitic,Balantidiasis,Balantidium,"Amphibian, Reptile"
+,Echinostomiasis,Echinostoma,"Amphibian, Reptile"
+,Giardiasis,Giardia,"Amphibian, Reptile"
+,Paragonimiasis,Paragonimus,"Amphibian, Reptile"
+,Rhinosporidiosis,Rhinosporium,Reptile
+,Sarcocystis,Sarcocystis,"Amphibian, Reptile"
+Macroparasitic,Ancylostomiasis,Ancylostoma,"Amphibian, Reptile"
+,Chigger mite dermatitis,Eutombicula,"Amphibian, Reptile"
+,Dwarf tapeworm infestation,Hymenolepis,"Amphibian, Reptile"
+,Thelaziasis,Thelazia,"Amphibian, Reptile"

@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7,8
+Table 2 Comparison of,,"full-genome lengths, ORF and aa identities of F46 with SARS and bat SARS-like CoVs",,,,,,
+Virus strains,F46,LYRa11,Rs3367,Rf1,Cp,Rp3,Tor2,SZ3
+Origin,Rhinolophus,Rhinolophus,Rhinolophus,Rhinolophus,Chaerephon,Rhinolophus,SARS,Palm Civet
+,pusillus,afﬁnis,sinicus,ferrumequinum,plicata,pearsoni,patient,
+Genome (bases),29 722,29 805,29 792,29 709,29 452,29 736,29 751,29 741
+G+C (%),41.2,40.7,40.8,41.1,40.9,40.9,40.8,40.8
+"ORF (length, aa/%aa identity)",,,,,,,,
+1a,4382,4382/98.5,4382/95.2,4377/93.1,4382/96.7,4380/94.1,4377/95.6,4382/95.7
+1b,2628,2628/99.1,2628/99.3,2626/98.4,2628/98.7,2626/99.2,2641/99.3,2628/99.3
+S,1236,1259/77.7,1256/76.5,1241/81.0,1241/83.1,1241/83.5,1255/76.5,1255/76.3
+3a,274,274/82.1,274/87.9,274/89.4,274/94.1,274/88.3,274/86.8,274/86.4
+3b,NP,NP/NA,114/NA,114/NA,NP/NA,NP/NA,154/NA,154/NA
+E,76,76/100,76/100,76/96.0,76/100,76/100,76/100,76/100
+M,221,221/96.3,221/99.5,221/99.0,221/97.7,221/98.6,221/98.6,221/98.1
+6,63,63/92.0,63/93.6,63/93.6,63/95.2,63/92.0,63/96.8,63/96.8
+7a,122,122/92.6,122/95.9,122/95.9,122/95.9,122/95.0,122/96.7,122/96.7
+7b,44,44/88.6,44/97.7,44/95.4,44/88.6,44/97.7,44/90.9,44/90.9
+8a,122,NP,NP,122/79.2,NP,NP,39/27.0,122/95.0
+8b,NP,NP/NA,NP/NA,NP/NA,NP/NA,NP/NA,84,NP/NA
+N,422,422/98.8,422/98.5,421/95.2,422/98.5,421/97.6,422/98.5,422/98.5
+9b,98,98/95.9,98/97.9,97/83.6,98/94.8,97/87.7,98/97.9,98/97.9
+,"Abbreviations: amino acid, aa; coronavirus, CoV; not available, NA; not present, NP; open reading frame, ORF; severe acute respiratory syndrome, SARS.",,,,,,,

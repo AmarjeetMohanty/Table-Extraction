@@ -1,0 +1,40 @@
+0,1,2,3,4,5,6,7
+Table 4 Characteristics of caspase cleavages of viral proteins with unknown functions,,,,,,,
+,,,,,,Caspase-related,
+,,Caspase(s) induced,,,Caspase(s) able to,products and,
+Virus,Genome type,on infection,Cleaved proteins,Caspase cleavage site(s),cleave,suggested functions,References
+Inﬂuenza,Single-stranded,Caspase 3,Nucleocapsid protein,13METD16k,Prediction: caspases 6,NP53 or aNP (53 kDa),"34, 37, 38"
+,negative RNA,,NP (in human strains),573EEYD576 (predicted),and 8,,
+,,,M2 (in human and,84DVVD87k,Prediction: caspases,aM2 (13 kDa),"37, 38"
+,,,animal strains),20DSSD23 (predicted),"2, 6 and 7",,
+HCV,Single-stranded,Caspases 3 and 7,NS5A,151XXXD154k (genotypes 1a,In vitro: caspase 6,Two stable products of 31,"39, 40, 42"
+,positive RNA,found activated in the,,and 1b),In cellulo: caspases 2,and 48 kDa in Satoh,
+,,hepatocytes of HCV-,,386XXXD389k (genotype 1b),and 6 (pharmacological,"et al.,42 (genotype 1b)",
+,,infected patients,,248DXXD251k (found in,inhibitors).,Two stable products of,
+,,,,almost all genotypes and,,17 and 31 kDa in,
+,,,,strains),,"Kalamvoki et al.,40",
+,,,,,,(genotype 1a),
+,,,,,,Putative functions still,
+,,,,,,"debated, with possible",
+,,,,,,"involvement
+in nuclear",
+,,,,,,localization,
+TGEV,Single-stranded,"Caspases 3, 6, 7, 8",Nucleocapsid protein,356VVPD359k,"In vitro: caspases (3), 6",One stable product,"43, 44"
+,positive RNA,and 9,N,,and 7,"referred as N0
+(41 kDa)",
+FCV,Single-stranded,"Caspases 2, 3 and 7",Capsid protein,11 putative sites,In vitro: caspases 2 and,one stable product,"45, 46"
+,positive RNA,,,Cleavage at 228DTAD331,(6),referred as p40 (40 kDa),
+,,,,would be consistent with the,In cellulo: caspases 3/7,,
+,,,,generation of p40,"(pharmalogical
+inhibitor)",,
+Adenoviruses,Double-stranded,Apoptosis induced on,AdE1A 12S and 13S,Depends on the serotype.,"In vitro: caspases 3, 6 and",Depends on the serotype,47
+,DNA,infection only with a,,Multiple cleavage sites,7,,
+,,TNFa treatment,,supposed to occur in Ad12,,,
+,,,,"with only one of
+the putative",,,
+,,,,sites conserved in Ad5,,,
+MCV,Double-stranded,Lack of models for,MC160P,194LEVD197k,In vitro: caspases 3 and 8,Several stable products,48
+,DNA,recapitulating the,,,,from 21 to 35 kDa,
+,,infection,,,,,
+HSV-1,Double-stranded,Apoptosis induction,"ICP22 or M(r) 37,500",Not deﬁned,In vitro: caspase 3,One stable product,49
+,DNA,with d120 mutant,,,,"named M(r) 35,000",

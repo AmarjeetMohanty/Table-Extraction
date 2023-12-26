@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6
+Table 1,(continued),,,,,
+Signaling pathway,,Injury,Physical barrier components,Changes in the immune response,Changes in outcomes,Reference(s)
+,,TBI,Increases the expression of,,,[42]
+,,,ECM component tenascin C,,,
+,,TBI,Increases GFAP expression and,Increases neutrophil and,,[43]
+,,,"astrocyte proliferation, increases",macrophage infiltration,,
+,,,the expression of ECM,,,
+,,,components fibronectin and,,,
+,,,laminin,,,
+GFAP+ cell proliferation,,TBI,,"Inhibits CD45+ monocyte,","Reduces cell death, prevents","[44, 45]"
+,,,,"macrophage, neutrophil, and","axonal outgrowth, closes",
+,,,,lymphocyte infiltration,BBB,
+IL-1β signaling,,TBI,Increases GFAP expression,,Closes BBB,[46]
+CDC42 signaling,,TBI,"Induces astrocyte proliferation,",,,[47]
+,,,"polarization, and",,,
+,,,morphological changes,,,
+IFN-γ signaling,,TBI,Increases GFAP expression,,,[48]
+JNK/c-jun signaling,,EAE,Increases GFAP expression and,,,[49]
+,,,astrocyte proliferation,,,
+GFAP+ cell proliferation,,EAE,,Inhibits Iba1+ microglia and,Increases demyelination and,[50]
+,,,,"macrophage, Ag4/7+ neutrophil,","axonal pathology, worsens",
+,,,,and CD3+ T lymphocyte,outcomes,
+,,,,infiltration,,
+TNFR1 signaling,,EAE,Increases leukocyte adhesion,Increases CD4+ T lymphocyte,"Increases demyelination,",[51]
+,,,molecules,infiltration,worsens outcomes,
+Gp130/IL-6 signaling,,EAE,Inhibits astrocyte apoptosis,Inhibits CD4+ and CD8+ T,"Reduces demyelination,",[52]
+,,,,"lymphocytes, increases",improves outcomes,
+,,,,FoxP3+ regulatory T lymphocyte,,
+,,,,(Treg) differentiation,,
+,,Parasitic infection,Increases GFAP+ astrocyte,,"Reduces pathogen burden,",[53]
+,,,"numbers, inhibits astrocyte",,improves recovery,
+,,,apoptosis,,,
+GFAP expression,,Parasitic infection,,,Reduces pathogen burden,[54]
+,,Bacterial infection,,Inhibits MHC II+ myeloid cell,"Reduces pathogen burden,",[54]
+,,,,infiltration,improves recovery,

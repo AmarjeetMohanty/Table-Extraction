@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6,7
+Park et al.,,,,,,,Inhibition of ZIKV by ATA
+TABLE 1 |,Inhibition of ZIKV replication with ATA.,,,,,,
+ZIKV strain,Drug,Treatment,Hours,Cells,CC50 (µM)1,IC50 (µM)2,SI3
+Paraiba/2015,ATA,Post,36,Vero,">1,000",13.87 ± 1.09,> 72.10
+Paraiba/2015,ATA,Post,36,A549,">1,000",33.33 ± 1.13,> 26.26
+Paraiba/2015,ARB,Post,36,Vero,74.71 ± 1.09,18.19 ± 1.16,4.11
+Paraiba/2015,ARB,Post,36,A549,114.6 ± 1.08,51.87 ± 1.08,2.21
+Uganda/1947,ATA,Post,48,Vero,">1,000",15.07 ± 1.19,> 66.35
+Nigeria/1968,ATA,Post,60,Vero,">1,000",15.97 ± 1.02,> 62.62
+Puerto Rico/2015,ATA,Post,48,Vero,">1,000",17.55 ± 1.16,> 56.98
+French Polynesia/2013,ATA,Post,48,Vero,">1,000",13.92 ± 1.01,> 76.80
+Brazil/2015,ATA,Pre,12,Vero,">1,000",14.33 ± 1.06,> 69.78
+Brazil/2015,ATA,Pre,24,Vero,">1,000",13.18 ± 1.05,> 75.87
+Brazil/2015,ATA,Pre,48,Vero,">1,000",12.59 ± 1.02,> 79.42
+Brazil/2015,ATA,Pre,72,Vero,">1,000",10.50 ± 1.05,> 95.24
+,1Median cytotoxicity concentration 50 (CC50). 2Median inhibitory concentration 50 (IC50). 3SI,,,,"(Selective index) = CC50/IC50. For ATA, the SI was calculated considering a",,
+"CC50 of 1,000 µM.",,,,,,,

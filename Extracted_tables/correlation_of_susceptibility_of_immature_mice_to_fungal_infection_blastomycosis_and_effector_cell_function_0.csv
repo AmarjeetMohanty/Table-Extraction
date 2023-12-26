@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6,7
+6834,GANER ET AL.,,,,,,INFECT. IMMUN.
+,,,TABLE 1. Phagocyte fungicidal activitya,,,,
+,,,,,Killing (mean 6 SD; reduction,No. of,
+Phagocyte,"Host
+type",Elicitant,Target,,,,P value
+,,,,of,inoculum),expts,
+PEC (PMN),Mature,Caseinate,B. dermatitidis,,70 6 20,7,",0.01"
+PEC (PMN),Immature,Caseinate,B. dermatitidis,,25 6 27,7,
+PEC (PMN),Mature,Caseinate,C. albicans,,87 6 7,3,NS
+PEC (PMN),Immature,Caseinate,C. albicans,,73 6 15,3,
+PEC (PMN),Mature,Thioglycolate,B. dermatitidis,,8 6 7,4,NS
+PEC (PMN),Immature,Thioglycolate,B. dermatitidis,,0,4,
+PEC (PMN),Mature,Thioglycolate,C. albicans,,45 6 17,5,",0.02"
+PEC (PMN),Immature,Thioglycolate,C. albicans,,16 6 12,5,
+PB-PMN,Mature,None,B. dermatitidis,,41 6 18,5,",0.02"
+PB-PMN,Immature,None,B. dermatitidis,,10 6 5,5,
+PB-PMN,Mature,None,C. albicans,,98,1,NS
+PB-PMN,Immature,None,C. albicans,,97,1,
+PB-Mono,Mature,None,B. dermatitidis,,0,1,
+PM,Mature,ConA,B. dermatitidis,,34 6 19,5,NS
+PM,Immature,ConA,B. dermatitidis,,48 6 12,5,
+PM,Mature,Saline,B. dermatitidis,,9 6 12,5,NS
+PM,Immature,Saline,B. dermatitidis,,7 6 12,5,
+,"a Abbreviations: PB, peripheral blood; Mono, mononuclear cells; PM, peritoneal macrophages; NS, not signiﬁcant. Further deﬁnitions of",,,,,,the cell populations are

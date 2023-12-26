@@ -1,0 +1,28 @@
+0,1,2,3,4,5,6,7
+,quencing methodology nine segments of,,,the novel virus,based on the origin of,its host.,
+Table 1 Comparison of segments between Taï Forest,,,,,"reovirus (TFRV), Colorado tick fever virus (CTFV) and Eyach virus (EYAV)",,
+,,Segment length/ ORF length [nt](start nt position),,% identity at aa level,,Putative gene function,"UniprotKB (% identityc,"
+,,,,(% coverage),,,% coverage)
+Seg,TFRV,CTFV,EYAV,CTFV,EYAV,,
+S1,4356/4305 (12),4350/4308 (14),4349/4308 (13),56.7 (98.6),56.8 (98.6),RNA-dependent,"Q9DSQ0 (56.8, 99.8)"
+,,,,,,RNA polymerase,
+S2,3987/3903 (35),3909/3630 (46),3934/3828 (45),39.1 (82.7),38.3 (91.9),Putative RNA-,"Q9ENL4 (39.4, 84.5)"
+,,,,,,methyltransferase,
+S3,3513a,3586/3549 (12),3585/3549 (11),28.9 (98.6),29.1 (95.7),Membrane-,"Q9ENL3 (28.9, 99.7)"
+,,,,,,spanning protein,
+S4–,1794,3157/ 3084,3156/3084,41.0 (29.6)b,32.1 (99.2)b,Uncharacterised protein,"Q9ENL2 (43.0, 29.7)"
+1,,,,,,VP4,
+S4–,1398,3157/3084,3156/3084,46.7 (72.1)b,47.3 (72.1)b,Uncharacterised protein,"Q9ENL2 (46.7, 72.1)"
+2,,,,,,VP4,
+S5,3041a/2577,2432/2256,2398/2256,30.1 (41.8),29.7 (45.1),Uncharacterised,"Q9ENL1 (31.1, 41.8)"
+,,,,,,protein VP5,
+S8,2176a,2029/1983,2028/1983,35.3 (25.9),28.8 (53.4),Uncharacterised,"Q9ENK8 (35.3, 26.2)"
+,,,,,,protein VP8,
+S9,"1857/VP9: 1008,","1884/VP9: 1014,","1884/VP9: 1014,","P9: 37.2 (99.7),","VP9: 36.3 (99.7),","Structural protein VP9,","VP9: O93214 (37.2, 100),"
+,VP9': 1794 (33),VP9': 1809 (41),VP9': 1809 (41),VP9': 37.3,VP9': 36.1 (94.4),Non-structural protein,"VP9': O55265 (37.7, 97.7)"
+,,,,(94.4),,VP9',
+S10,1845a,1880/1818,1879/1818,39.5 (99.7),39.0 (99.7),Microtubule-,"Q9ENK7 (39.5, 99.8)"
+,,,,,,associated protein VP10,
+S11,971a/915,998/759,1002/927,26.5 (89.9),25.3 (71.1),Uncharacterised,"Q96713 (25.3, 75.4)"
+,,,,,,protein VP11,
+Putative protein functions are allocated based on known proteins according to UniProt database,,,,,,,

@@ -1,0 +1,18 @@
+0,1,2,3,4,5
+of most parsimonious model.,,,,,
+a),,,,,
+,variable,level,coefficient,95% Confidence interval,p-value
+,constant,,10.20,"(7.56, 12.84)",<0.001
+,intensity,Physical only,baseline,,
+,,Conversation only,-1.10,"(-3.64, 1.44)",
+,,Conversation & physical,-4.73,"(-7.32, -2.13)",
+,,"""Sexual"" contact",-7.75,"(-11.92, -3.58)",<0.001
+b),,,,,
+,variable,Level,coefficient,95% Confidence interval,p-value
+,constant,,1.58,"(0.60, 2.55)",0.002
+,Place of contact,Home,baseline,,
+,,College,5.28,"(3.92, 6.64)",
+,,Travel,7.30,"(5.22, 9.38)",
+,,Shop,13.81,"(12.24, 15.38)",
+,,Social,2.34,"(1.09, 3.59)",
+,,Other,5.19,"(3.36, 7.03)",<0.001

@@ -1,0 +1,34 @@
+0,1,2,3,4,5,6
+6,,,,,Journal of Biomedicine and Biotechnology,
+,,Table 3: DNA vaccines tested against Trypanosoma cruzi.,,,,
+Antigen,Type of antigen,Dose,Mouse strain,Immune response,Protection,Reference
+TS 154,TS family,,BALB/c,"Th1, CTL",+++,"[84, 89, 90]"
+,,,,,−,
+,,,A/Sn,,,
+,,,C57BL/6,,,
+TSA-1,TS family,2 × 100 μg IM,,CTL,+++,"[87, 91]"
+,,,BALB/c,,,
+ASP-1,TS family,2 × 100 μg IM,C57BL/6,CTL,+++,[87]
+ASP-2,TS family,2 × 100 μg IM,C57BL/6,CTL,+++,[87]
+,,5 × 50 μg IM,,,−,
+Tc13,TS family,,BALB/c,,,[92]
+ASP-clone9,TS family,4 × 100 μg IM,BALB/c,IFNγ,+++,[93]
+,,,"BALB/c,",,,
+TSSA,TS family,2 to 4 × 100 μg IM,C57BL/6,CTL,− to +++,"[94, 95]"
+,,,C3H/Hej,,,
+TS (7 members mix),TS family,2 × 25 μg IM,C57BL/6,,+++,[96]
+"ASP-clone9, TS",TS family,4 × 200 μg IM,BALB/c,IFNγ,+++,[97]
+CRP,,2 × 100 μg IM,BALB/c,,+++,[98]
+cruzipain,,,BALB/c,CTL,,[99]
+,,,"BALB/c,",,,
+,,2 to 4 × 100 μg IM,,,−,
+DHOD,,,C57BL/6,,,[94]
+,,,C3H/Hej,,,
+LYT1,,2 × 25 μg,C57BL/6,"IFNγ, CTL",+++,[96]
+,,2 × 25 μg,,"IFNγ, CTL",−,
+FCaBP/Tc24,,,C57BL/6,,,[96]
+Tcβ3,,2 × 25 μg,C57BL/6,"IFNγ, CTL",++,[96]
+,,2 × 25 μg,,,−,
+Mucin (6 members),,,C57BL/6,,,[96]
+KMP11,,4 doses IM,BALB/c,CTL,− to ++,[100]
+,IM: intramuscular; CTL: cytolytic activity; −: no protection; +: little protection; ++: fair protection; +++: very good protection.,,,,,

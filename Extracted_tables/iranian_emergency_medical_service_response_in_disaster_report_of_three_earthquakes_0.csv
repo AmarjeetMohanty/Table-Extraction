@@ -1,0 +1,31 @@
+0,1,2,3
+,"Table 1: Geological features of the earthquake, the facilities of the area and damage to humans in compared earthquakes",,
+,,Earthquake location,
+Variable,,,
+,Bam,East Azerbaijan,Kermanshah
+Baseline,,,
+Date,2003-12-26,2012-08-11,2017-11-12
+Local time,05:26,16:53,21:48
+Magnitude (Mw),6.6,6.5,7.3
+Depth (km),15,9,19
+EMS Equipment,,,
+Local centers (n),8,14,16
+damaged,n/a,0,3
+Local Ambulance (n),n/a,14,17
+Damaged (n),n/a,0,0
+Staff (n),n/a,35,120
+Helicopter (n),0,0,1
+Damaged (n),0,0,0
+Technicians of the entire province (n),n/a,380,400
+Province ambulance (n),48,76,100
+Local health center (n),24,168,151
+Damaged (n),24,151,128
+Hospital(n),2,2,3
+Damaged (n),1,1,1
+Hospital bed  capacity (n),54,100,277
+Human casualties,,,
+Total population (n),115000,263639,427266
+Killed [n(%)],29878 (26.0),300 (0.1),620 (0.1)
+Injured [n(%)],22628 (19.7),2006 (0.8),9400 (2.2)
+Displaced [n(%)],> 45000 (39.1),> 16000 (6.1),> 115000 (26.9)
+n/a: not available,,,

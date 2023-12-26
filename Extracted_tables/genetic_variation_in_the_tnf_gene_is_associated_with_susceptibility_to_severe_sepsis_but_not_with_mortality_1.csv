@@ -1,0 +1,13 @@
+0,1,2,3,4
+Table 2. Characteristics of all,,"tested SNPs in TNF, LTA, TNFRSF1A and TNFRSF1B.",,
+Gene,SNP,Location,Major/minor allele,HWE P value
+TNF,rs361525 (2238),promoter,C/T,0.46
+,rs1800629 (2308),promoter,G/A,0.18
+,rs1799724 (2857),promoter,G/A,0.67
+,rs1800630 (2863),promoter,C/A,0.39
+,rs1799964 (21031),promoter,T/C,0.49
+LTA (TNF-b),rs909253 (+252),intron,A/G,0.58
+TNFRSF1A,rs767455 (A36G),exon,A/G,0.22
+,rs4149570 (G609T),59UTR,G/T,0.72
+TNFRSF1B,rs1061622 (Met196Arg),exon,T/G,0.31
+,rs3397,39UTR,G/A,0.44

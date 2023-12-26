@@ -1,0 +1,26 @@
+0,1,2,3,4,5,6
+,,,,,,Virus Fitness Dependence on Host Species
+,Table 1. TEV genotypes used in this study and some of,,,their properties.,,
+Genotype,Protein,Location,,Nucleotide substitution,Amino acid change,Polarity change
+"DQ986288, wild-type isolate",,,,,,
+PC2,P1,158,URG,,FRC,apolarRpolar
+PC6,P1,375,ARG,,LRM,
+PC7,P1,475,ARC,,KRQ,basicRpolar
+PC12,P1,872,ARC,,MRL,
+PC19,HC-Pro,1503,ARG,,synonymous,
+PC22,HC-Pro,1655,ARG,,NRS,
+PC26,HC-Pro,2119,ARU,,synonymous,
+PC40,P3,3238,TRC,,synonymous,
+PC41,P3,3406,CRA,,QRK,polarRbasic
+PC44,P3,3468,URG,,synonymous,
+PC49,CI,4418,GRC,,SRT,
+PC60,CI,5349,URC,,synonymous,
+PC63,6K2,5582,ARG,,KRR,
+PC67,NIa-VPg,6012,URG,,IRM,
+PC69,NIa-VPg,6044,CRA,,TRN,
+PC70,NIa-VPg,6197,URG,,MRR,apolarRbasic
+PC72,NIa-VPg,6251,URC,,FRS,apolarRpolar
+PC76,NIa-Pro,6519,URC,,synonymous,
+PC83,NIb,7315,ARG,,IRV,
+PC95,NIb,8501,ARC,,ERA,acidRpolar
+,doi:10.1371/journal.pgen.1002378.t001,,,,,

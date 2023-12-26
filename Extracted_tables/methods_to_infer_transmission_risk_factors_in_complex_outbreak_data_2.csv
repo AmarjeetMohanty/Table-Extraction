@@ -1,0 +1,19 @@
+0,1,2,3,4,5
+Methods to infer transmission risk factors,,,,S. Cauchemez and N. M. Ferguson,
+,2.0,,2.0,,2.0
+,1.5,,1.5,,1.5
+bCom (d–1),1.0,bHous (d–1),1.0,bHosp (d–1),1.0
+,0.5,,0.5,,0.5
+,0,,0,,0
+,2.5,,2.5,,10
+,,,,,8
+,2.0,,2.0,,
+,,"rel. susceptibility, g S",,,6
+"rel. infectivity, g I",1.5,,1.5,mean inf. prof. (days),
+,,,,,4
+,1.0,,1.0,,
+,,,,,2
+,0.5,,0.5,,0
+,1.5,,1.5,,1.5
+,1.0,"efficacy hous., gHous",1.0,"efficacy hosp., gHosp",1.0
+"efficacy com, gCom",0.5,,0.5,,0.5

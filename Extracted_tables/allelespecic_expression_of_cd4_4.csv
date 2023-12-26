@@ -1,0 +1,14 @@
+0,1,2,3,4,5
+Table 5. Classiﬁcation of ASE SNPs between two reciprocal crosses.,,,,,
+,,Infected,,,Non-Infected
+SNP Type,,,,,
+,SNPs,,Genes,SNPs,Genes
+Exonic,12,,11,20,18
+Intronic,26,,21,21,16
+Intergenic,0,,-,5,-
+Upstream,11,,10,21,18
+Downstream,19,,18,23,23
+5’ UTR,0,,0,0,0
+3’ UTR,6,,5,18,17
+Splicing,1,,1,4,4
+Total,75,,66,112,96

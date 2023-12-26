@@ -1,0 +1,33 @@
+0,1,2,3,4,5,6
+,,"Viral evasion of
+innate immune responses",,,,
+,,MH Christensen and SR Paludan,,,,
+,Table 1 Viruses and intracellular DNA sensors,,,,,
+Virus,DNA sensor,Experimental system(s),Biological,response,,References
+,,,,,,34
+HSV-1,cGAS,Mice,Type I,IFN,,
+,,,,,,"27,35,87"
+HSV-1,IFI16,Human macrophages and human ﬁbroblasts,Type I,"IFN,
+IL-1β",,
+,,,,,,"27,36"
+HCMV,IFI16,Human macrophages and human ﬁbroblasts,Type I,IFN,,
+,,,,,,32
+MCMV,AIM2,Mice,IL-18,,,
+,,,,,,33
+MHV68,cGAS,Mice,Type I,IFN,,
+,,,,,,88
+KSHV,IFI16,Human dermal microvascular endothelial cells,IL-1β,,,
+,,,,,,89
+EBV,IFI16,"Human B cell
+lines",IL-1β,,,
+,,,,,,90
+AdV,cGAS,"Murine macrophage and endothelial cell
+lines",Type I,IFN,,
+,,,,,,15
+VV,AIM2,Murine macrophages,IL-1β,,,
+,,,,,,"30,91"
+HIV-1,IFI16,Human macrophages and human T cells,Type I,"IFN, pyroptosis",,
+,,,,,,"30,42"
+HIV-1,cGAS,Human macrophages,Type I,IFN response,,
+,"Abbreviations: AdV, adenovirus; cGAS, cyclic GMP–AMP synthase; EBV, Epstein-Barr virus; HCMV, human cytomegalovirus; HSV, herpes simplex virus-1;",,,,"IL,",interleukin;
+"IFN,","interferon; KSHV, Kaposi’s sarcoma-associated herpesvirus; MCMV, murine CMV; MHV68, murine gammaherpesvirus 68; VV, vaccinia virus.",,,,,

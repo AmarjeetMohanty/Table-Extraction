@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6
+Table 3. Correlation coefﬁcients between the positions of genes along the ﬁrst four major axes with an,,,,,,
+,index of total genes’ amino acid usage.,,,,,
+,CAI,GRAVY,Aromo,Axis1,Axis2,Axis3
+Gravy,0.080 **,,,,,
+Aromo,0.144 **,0.420 **,,,,
+Axis1,´0.328 **,´0.182 **,´0.087 **,,,
+Axis2,´0.613 **,´0.054 **,´0.025 *,0.000,,
+Axis3,´0.159 **,´0.056 **,0.007,0.000,0.001,
+Axis4,0.005,´0.008,´0.036 **,´0.003,´0.001,0.002
+,,,** p < 0.01; * p < 0.05.,,,

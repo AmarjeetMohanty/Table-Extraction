@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6,7
+"additional coefficients for the models selected, as well as",,,,common cold treatment trial on MID and responsiveness,,,
+Table 5: Model fit Exploratory Factor Analysis for WURSS-44 using 3 to 10 dimensions,,,,,,,
+Dimensions,Chi-square,df,2/df,CFI,TLI,RMSEA,SRMR
+3,6902.7,738,9.35,.974,.970,.192,.076
+4,5114.1,699,7.31,.982,.977,.167,.061
+5,3946.8,661,5.97,.986,.982,.148,.050
+6,2922.0,624,4.68,.990,.987,.127,.041
+7r,2054.4,489,4.20,.993,.989,.119,.034
+8,1785.5,553,3.22,.995,.992,.099,.029
+8r,1625.9,457,3.55,.995,.992,.106,.028
+9,1430.5,519,2.75,.996,.994,.088,.024
+10,1165.6,486,2.39,.997,.995,.078,.021

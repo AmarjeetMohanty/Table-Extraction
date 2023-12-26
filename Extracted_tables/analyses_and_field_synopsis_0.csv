@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12
+,,,analysed here).,,,,,,,,,
+,Disease; genetic,,Heterozy-,Risk,,N cases,N Controls,OR,I2,Venice,BFDP,BFDP
+Gene,model,rs code,gote,allele,N studies,(alleles),(alleles),"[95% CI]
+P",[95% CI],score,(med/low),(very low)
+,,,,,,,,0.79,0.06,,,
+,,,,,,,,7.68E-,,,,
+IL4,Pooled result; allelic,rs2070874,CT,T,6,2908,6422,[0.70-,[0.00–,BAC,0.063,0.779
+,,,,,,,,05,,,,
+,,,,,,,,0.89],0.76],,,
+,,,,,,,,1.66,0.00,,,
+,,,,,,,,8.68E-,,,,
+IL4,Pooled result; recessive,rs2070874,CT,T,5,1059,2210,[1.29–,[0.00–,BAC,0.128,0.886
+,,,,,,,,05,,,,
+,,,,,,,,2.14],0.39],,,
+,,,,,,,,3.19,0.00,,,
+,,,,,,,,4.91E-,,,,
+TLR2,Tuberculosis; allelic,rs5743708,AG,A,6,3262,3124,[2.03–,[0.00–,BAC,0.087,0.834
+,,,,,,,,07,,,,
+,,,,,,,,5.02],0.63],,,
+,Tuberculosis; hete-,,,,,,,0.79,0.00,,,
+,,,,,,,,1.26E-,,,,
+CCL2,"rozygote advantage, in",rs1024611,AG,G,4,3066,3556,[0.72–,[0.00–,BAC,0.014,0.426
+,,,,,,,,05,,,,
+,exposed controls,,,,,,,0.88],0.83],,,

@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6,7,8,9
+Table 1. Clinical diagnosis and respiratory viruses detected in all 2025 ARTI cases,,,,,,,,,
+,Single infection,,,,,,,,
+,"RSV
+IAV",HRV,BOV,,PIV3,ADV,HMPV,"WUPoyV
+PIV1","IBV
+Total"
+"A T
+otal cases","163
+172",85,55,,51,49,"37
+26",24,"7
+669"
+Bronchitis,"12
+19",7,7,,5,2,"2
+3",5,"0
+62"
+Bronchiolitis,"45
+19",20,7,,13,9,"8
+2",5,"0
+128"
+Pneumonia,"93
+97",55,28,,24,28,"25
+18",14,"5
+387"
+URTI,"13
+37",3,13,,9,10,"2
+3",0,"2
+92"
+,Positive,,,,,,,,
+,,Single infection,,,Co-infection,,Subtotal,Negative,Total
+"B T
+otal cases",669,,,302,,,971,1054,2025
+Bronchitis,62,,,21,,,83,112,195
+Bronchiolitis,128,,,54,,,182,173,355
+Pneumonia,387,,,185,,,572,579,1151
+URTI,92,,,42,,,134,190,324

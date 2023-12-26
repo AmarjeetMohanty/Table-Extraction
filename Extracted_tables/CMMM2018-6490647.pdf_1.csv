@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6,7,8
+,,Figure 6: Trees of HIV-1 subtype genomes based on nucleotide skew values (a) or nucleotide substitution (b).,,,,,,
+,"Table 1: Mean skew values of coronavirus, ﬂavivirus, picornavirus, and HIV-1 subtype RNA genomes. HIV-1 subtype RNAs display much",,,,,,,
+lower StDEV of skew values compared with those of,,,,the other viruses.,,,,
+,Skew values,,C vs G,G vs A,U vs G,U vs A,C vs A,U vs C
+,,AVG,−29.09,−58.05,101.36,40.51,−86.34,124.36
+Coronavirus,,,,,,,,
+,,StDev,46.67,33.47,21.40,24.00,43.15,45.22
+,,AVG,−43.38,38.95,−44.53,−5.01,−3.66,−1.19
+Flavivirus,,,,,,,,
+,,StDev,29.92,53.33,32.36,59.98,71.05,25.50
+,,AVG,9.48,−32.05,37.12,2.81,−24.10,26.49
+Picornavirus,,,,,,,,
+,,StDeV,62.05,45.85,40.06,39.51,95.34,81.95
+,,AVG,−77.15,−101.30,−17.95,−118.86,−171.62,59.48
+HIV,,,,,,,,
+,,StDEV,3.82,7.00,3.46,6.20,7.32,5.26

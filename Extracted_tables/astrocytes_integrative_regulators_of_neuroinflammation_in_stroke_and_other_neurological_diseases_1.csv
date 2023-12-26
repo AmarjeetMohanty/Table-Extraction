@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6
+Table 2,(continued),,,,,
+Signaling pathway,,Injury,Chemokines and cytokines released,Changes in the immune response,Changes in outcomes,Reference(s)
+,,,by astrocytes,,,
+Gp130/IL-6 signaling,,EAE,Upregulates TGF-β2;,"Inhibits CD4+ and CD8+ T lymphocytes,","Reduces demyelination, improves",[52]
+,,,"downregulates IFN-γ, IL-17,",increases FoxP3+ Tregs,outcomes,
+,,,IL-23,,,
+,,Parasitic infection,Upregulates IL-27;,,"Reduces pathogen burden, improves",[53]
+,,,downregulates IFN-γ,,recovery,
+GFAP expression,,Parasitic infection,,,Reduces pathogen burden,[54]
+,,Bacterial infection,"Downregulates IFN-γ, IL-27",Inhibits MHC II+ myeloid cell infiltration,"Reduces pathogen burden, improves",[54]
+,,,,,recovery,
+No pathway manipulated,,Viral infection,CX3CL1,,,[73]
+,,Viral infection,CXCL10,,,[74]
+,,Viral infection,CXCL1,,,[75]
+,,Viral infection,"IL-1β, IL-6, TNFα",,,[76]
+TLR3/PI3K signaling,,Viral infection,"CXCL10, IFN-β, TNF-α",,,[77]

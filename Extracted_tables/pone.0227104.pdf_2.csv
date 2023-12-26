@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6,7
+Table 4.,Inhibition of various RNA and DNA viruses by AT-511 compared to control compounds.,,,,,,
+Virus,Cells,Control Compound,,Control Compound,,AT-511,
+,,,EC50 (μM),TC50 (μM),EC50 (μM),,TC50 (μM)
+HIV-1,CEM-SS,Zidovudine,0.004,>0.50,>100,,>100
+HSV-1,Vero,Acyclovir,1.76,>100,>100,,>100
+Flu A,MDCK,Oseltamivir,0.16,>10.0,>100,,>100
+Flu B,MDCK,Oseltamivir,0.42,>10.0,>100,,>100
+Zika,Vero,Ribavirin,5.65,38.8,8.07,,>100
+HRV,H1-HeLa,Ribavirin,17.1,40.6,18.6,,>100
+AdV,HeLa,Ribavirin,0.76,11.7,>100,,>100
+CoV,MRC-5,Ribavirin,3.85,>100,>100,,>100
+RSV,HEp2,TMC-353121,0.003,>0.10,>100,,>100
+HBV,AD38,TDF,0.23,>1.0,>100,,>100

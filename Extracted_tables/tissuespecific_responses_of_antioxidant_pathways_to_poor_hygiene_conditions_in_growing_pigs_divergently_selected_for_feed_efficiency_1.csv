@@ -1,0 +1,14 @@
+0,1,2,3,4
+,,,TBARS concentrations at W13-14,
+,,,in PRAT,
+,600,,,
+,,Line*,,
+,,Hygiene**,,
+,500,LxH*,,
+,,Time***,,
+,400,,,
+,,,,good-LRFI
+nM MDA/g tissue,300,,,poor-LRFI
+,,,,good-HRFI
+,200,,,poor-HRFI
+,100,,,

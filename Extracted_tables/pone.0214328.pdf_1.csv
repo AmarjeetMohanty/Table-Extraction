@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6
+,"Table 3. Clinical performance characteristics of dengue virus serotypes 1-, 2-, 3-, and 4-specific RT-iiPCR reagents on POCKIT nucleic acid analyzer for the detec-",,,,,
+tion of dengue virus in human serum.,,,,,,
+Assay and Result,,Reference qRT-PCR,,% Specificity,% Sensitivity,% Agreement
+,,,,(95% CI),(95% CI),(95% CI)
+,Positive,Negative,Total,,,
+DENV-1 RT-iiPCR,,DENV-1,,100% (88 ~ 100%),100% (88 ~ 100%),100% (93.7 ~ 100%)
+Positive,20,0,20,,,
+Negative,0,20,20,,,
+Total,20,20,40,,,
+DENV-2 RT-iiPCR,,DENV-2,,100% (87.5 ~ 100%),95.2% (81.5 ~ 100%),97.5% (89.8 ~ 100%)
+Positive,20,0,20,,,
+Negative,1,19,20,,,
+Total,21,19,40,,,
+DENV-3 RT-iiPCR,,DENV-3,,95% (80.6 ~ 100%),100% (88.1 ~ 100%),97.5% (89.8 ~ 100%)
+Positive,20,1,21,,,
+Negative,0,19,19,,,
+Total,20,20,40,,,
+DENV-4 RT-iiPCR,,DENV-4,,100% (88 ~ 100%),100% (88 ~ 100%),100% (93.7 ~ 100%)
+Positive,20,0,20,,,
+Negative,0,20,20,,,
+Total,20,20,40,,,

@@ -1,0 +1,18 @@
+0,1,2,3,4,5
+,,Table 2. Cont.,,,
+Inhibitor,Testing Model,Cell Lines,EC50 (µM),CC50 (µM),Ref.
+,,Inhibitors with undeﬁned mechanisms,,,
+BCX4430,In vitro,-,68.4,>100,[62]
+,,Vero cells,23 ± 0.6;,71 ± 14;,
+Fleximer analogues 2,In vitro,,,,[63]
+,,Huh-7 cells,27 ± 0.0,149 ± 6.8,
+Nutlin-3,In vitro,Huh-7 cells,6.9 ± 1.4,26.8 ± 1.6,[64]
+Amodiaquine dihydrochloride,In vitro,Huh-7 cells,2.1 ± 0.7,12.3 ± 5.9,[64]
+Saracatinib,In vitro,Huh-7 cells,2.9 ± 0.6,57 ± 5.5,[64]
+Sotrastaurin,In vitro,Huh-7 cells,9.7 ± 3.3,>50,[64]
+Acetophenazine maleate,In vitro,Huh-7 cells,11.2 ± 5.0,23.6 ± 3.8,[64]
+Dosulepin hydrochloride,In vitro,Huh-7 cells,3.4 ± 0.0,28.9 ± 0.0,[64]
+Methotrimeprazine maleate salt,In vitro,Huh-7 cells,2.5 ± 0.0,24.5 ± 0.0,[64]
+N1-(4-pyridyl)-2-chloro-5-nitrobenzamide,In vitro,Huh-7 cells,10.5 ± 0.3,>50,[64]
+FA-613,In vitro,Huh-7 cells,10.2 ± 0.2,-,[65]
+,a 50% effective concentration (EC50) values of inhibiting cell−cell fusion. “-” indicates data not available.,,,,

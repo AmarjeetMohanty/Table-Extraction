@@ -1,0 +1,29 @@
+0,1,2,3
+"Table 1.
+Imaging scoring table.",,,
+Signs,,CXR,LDCT
+Consolidation,,Y/N,Y/N
+,Subpleural,Y/N,Y/N
+,Atelectasis,Y/N,Y/N
+Ground-glass area(s),,,Y/N
+Nodule(s) / Mass,,,Y/N
+,Size (cid:21) 10 mm,,Y/N
+,Solid,,Y/N
+,Ground-glass,,Y/N
+,Halo sign*,,Y/N
+,Multiple nodules,,Y/N
+Tree-in-bud sign,,,Y/N
+Air-crescent sign*,,,Y/N
+Cavity*,,,Y/N
+Pleural effusion,,Y/N,Y/N
+,Unilateral,Y/N,Y/N
+,Bilateral,Y/N,Y/N
+Pericardial effusion,,Y/N,Y/N
+Interlobular septal thickening,,Y/N,Y/N
+Diagnosis,,,
+Pneumonia,,Y/N,Y/N
+,Lobar,Y/N,Y/N
+,Broncho,Y/N,Y/N
+,Interstitial,Y/N,Y/N
+Bronchiolitis,,Y/N,Y/N
+Suspect for fungal infection,,Y/N,Y/N

@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6
+Table 2 Effect of,IgY against diarrhea caused by viral pathogens in piglets,,,,,
+Items,,,,"Mortality, %",,Outcome measure
+,,,,,,considered-Mortality
+,,,,Intervention,Control,
+,,,,,,(M) or Diarrhea (D)
+Prophylactic effect,,,,,,
+Ref.,Pathogens,Piglet age,,,,
+"Kweon et al.
+[66]",PEDV,Neonatal,(3-day-old),26,58,M
+,PEDV,Neonatal,(3-day-old),41,71,M
+,PEDV,Neonatal,(3-day-old),50,66,M
+"Zuo et al.
+[61]",TGEV,Newborn,,12.5,57,M
+"Vega et al.
+[73]",Human Rotavirus,Neonatal,(1-day-old),0,100,D
+Therapeutic effect,,,,,,
+Ref.,Pathogens,Piglet age,,,,
+"Song et al.
+[67]",PEDV,Neonatal,(1-day-old),16.7,100,M
+"Cui et al.
+[62]","TGEV, PEDV",Neonatal,(1-day-old),0,100,M

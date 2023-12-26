@@ -1,0 +1,24 @@
+0,1,2,3,4,5,6,7,8,9
+,Table 2 Secondary attack ratios of qRT-PCR confirmed influenza infection and clinical,,,,,,"influenza,",intention-to-treat,
+analysis,,,,,,,,,
+Confirmation of,,,,Control Group,,Mask Group,,Mask & Hygiene,p-value§
+,influenza infection,,,,,,,Group,
+,,,n/n,SAR,n/n,SAR,n/n,SAR,
+,,,,(95% CI#),,(95% CI#),,(95% CI#),
+RT-PCR*,,All cases,19/82,23 (13-35),6/69,9 (3-19),10/67,15 (5-27),0.18
+,,Influenza A (H1N1) pdm09,13/56,23 (11-37),6/58,10 (3-20),4/50,8 (2-17),0.16
+,,Influenza B,6/26,23 (5-48),0/11,0,6/17,35 (7-60),0.22
+,,Season 2009/2010,8/36,22 (10-35),3/31,10 (0-26),3/39,8 (0-18),0.29
+,,Season 2010/2011,11/46,24 (9-42),3/38,8 (0-19),7/28,25 (4-45),0.27
+,,"Implementation of
+intervention",5/22,23 (6-39),1/14,7 (0-23),1/24,4 (0-16),0.17
+,,< 36 h after symptom onset of,index patient,,,,,,
+Clinical,(ILI**),All cases,14/82,17 (7-29),6/69,9 (3-17),6/67,9 (3-16),0.37
+,,Influenza A (H1N1) pdm09,10/56,18 (7-31),6/58,10 (3-20),3/50,6 (0-13),0.29
+,,Influenza B,4/26,15 (0-39),0/11,0,3/17,18 (0-37),0.56
+,,Season 2009/2010,6/36,17 (6-31),4/31,13 (3-30),3/39,8 (0-16),0.57
+,,Season 2010/2011,8/46,17 (2-35),2/38,5 (0-14),3/28,11 (0-25),0.48
+,,"Implementation of
+intervention < 36 h after",4/22,18 (4-38),2/14,14 (0-36),1/24,4 (0-13),0.41
+,,"symptom onset of
+index patient",,,,,,,

@@ -1,0 +1,26 @@
+0,1,2,3,4,5,6
+0.05.,,,,,,
+,,Table 2: Ability of sRNase L KO-PK and PK-15 cells for PRV propagation.,,,,
+PRV strain,Harvest time,,Virus titers in sRNase L KO-PK cells a,,Virus titers in PK-15 cells a,Fold-difference in PRV titers b
+,,,0.6±0.1,0.7±0.2,,
+SD1404,12 h,1×10,TCID50/mL,1×10,TCID50/mL,0.79
+,,,0.6±0.2,0.7±0.3,,
+Bartha-K61,12 h,1×10,TCID50/mL,1×10,TCID50/mL,0.79
+,,,3.2±0.1,3.0±0.3,,
+SD1404,24 h,1×10,TCID50/mL,1×10,TCID50/mL,1.58
+,,,3.1±0.3,2.9±0.1,,
+Bartha-K61,24 h,1×10,TCID50/mL,1×10,TCID50/mL,1.58
+,,,5.6±0.2,4.9±0.2,,
+SD1404,36 h,1×10,TCID50/mL∗,1×10,TCID50/mL,5.01
+,,,5.1±0.1,4.4±0.2,,
+Bartha-K61,36 h,1×10,TCID50/mL∗,1×10,TCID50/mL,5.01
+,,,6.9±0.2,6.2±0.1,,
+SD1404,48 h,1×10,TCID50/mL∗,1×10,TCID50/mL,5.01
+,,,6.4±0.2,5.6±0.3,,
+Bartha-K61,48 h,1×10,TCID50/mL∗,1×10,TCID50/mL,6.31
+,,,5.9±0.3,5.4±0.1,,
+SD1404,60 h,1×10,TCID50/mL,1×10,TCID50/mL,3.16
+,,,5.3±0.1,5.1±0.2,,
+Bartha-K61,60 h,1×10,TCID50/mL,1×10,TCID50/mL,1.58
+a,,,,,,
+,"Data represent the means ± standard deviations of three independent experiments. ∗, P < 0.05.",,,,,

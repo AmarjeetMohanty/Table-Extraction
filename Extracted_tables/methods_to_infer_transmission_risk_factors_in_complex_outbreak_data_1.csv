@@ -1,0 +1,16 @@
+0,1,2,3,4
+,,Methods to infer transmission risk factors,,S. Cauchemez and N. M. Ferguson
+(a),,(c),,hospital 1
+,60,start of,,
+,,control,,
+,50,number of cases,012345,
+,40,,,
+number of cases,30,,,
+,,,,"0
+30
+60
+90
+120 150 180"
+,20,,,time (days)
+,10,,,
+,,,,hospital 2

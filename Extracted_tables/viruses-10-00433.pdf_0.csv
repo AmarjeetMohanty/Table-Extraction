@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6,7,8,9
+,,,Table 1. The compounds used in this study to test antiviral activity against FCV.,,,,,,
+,,Stage of,,,Cell,Plaque,RdRp Activity [%,In vitro,
+,Molecular,,Original Target,Antiviral,,,,,
+Compound,,Antiviral,,,Viability,Reduction Assay,of Mock at 10,Protease IC50,Reference
+,Mass (g/mol),,Viral Family,Class,,,,,
+,,Development,,,CC50 (µM),EC50 (µM),µM] (IC50 µM),(µM),
+Quercetagetin,318.2,Research,Herpesviridae,NNI,>100,>10,11.7 (2.8),ND,Cotin et al. [41]
+PPNDS,694.3,Research,Caliciviridae,NNI,>100,>10,7.4 (2.7),ND,Tarantino et al. [42]
+Compound 54,485.5,Research,Caliciviridae,NNI,55.8,ND,65.7,ND,Ferla et al. [43]
+Beclabuvir,659.8,Phase 2,Flaviviridae,NNI,27.5,ND,92.2,ND,Gentles et al. [44]
+TMC-647055,606.7,Phase 2,Flaviviridae,NNI,27.1,ND,93.5,ND,Devogelaere et al. [45]
+JTK-109,638.1,Phase 2,Flaviviridae,NNI,11.9,ND,89.8,ND,Hirashima et al. [46]
+2CMC,257.2,Pre-clinical,Flaviviridae,NA,>100,2.6,ND,ND,Rocha-Pereira et al. [47]
+Sofosbuvir,529.5,Approved,Flaviviridae,NA,>100,>10,ND,ND,Lam et al. [48]
+T-705,157.1,Phase 3,Orthomyxoviridae,NA,>100,>10,ND,ND,Furuta et al. [49]
+7D2M,280.3,Research,Flaviviridae,NA,>100,>10,ND,ND,Olsen et al. [50]
+Famciclovir,321.3,Approved,Herpesviridae,NA,>100,>50,ND,ND,Boyd et al. [51]
+GC376,507.5,Research,Broad spectrum,PI,>100,>10,ND,18.7,Kim et al. [29]
+Chymostatin,607.7,Research,Caliciviridae,PI,ND,ND,ND,>50,Chang et al. [52]
+Rupintrivir,598.7,Research,Picornaviridae,PI,>100,ND,ND,>50,Dragovich et al. [53]
+Nitazoxanide,307.3,Approved,Broad spectrum,Unknown,12.7,0.6,>10,>10,Rossignol [54]

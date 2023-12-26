@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6
+Blast  searches  using  human  somatic  ACE  against,,,the,"ACE3 catalytic domain, respectively. The ancestral ACE3",,
+human genome and gene prediction programmes on the,,,,"gene is predicted to contain at least 14 exons, interspersed",,
+Table 2: Exon/intron boundary prediction for mouse ACE3.,,,,,,
+Exon no.,Exon size (bp),cDNA position,5' Splice donor,Intron size (bp),3' Splice acceptor,Codon phase
+1,264,1–264,catgGTGTGGT,385,CAGctgc,0
+2,159,265–423,agagGTGACAG,261,CAGtaca,0
+3,88,424–511,gcctGGTGAGCA,118,CAGACctcc,1
+4,144,512–655,taatGGTAAGTG,740,TAGGAtaca,1
+5,192,656–847,cctgGGTAAGGG,81,CAGGGaaca,1
+6,98,848–945,ccagGTCAGTG,111,CAGcact,0
+7,173,946–1118,cttcAGGTGTCTA,328,TAGGgtaa,2
+8,224,1119–1342,ttcaGGTGATGG,152,CAGAGgagg,1
+9,145,1343–1487,cttcAGGTGGGGA,1543,CAGGttga,2
+10,99,1488–1586,tatcCGGTAAAGG,173,CAGAtact,2
+11,123,1587–1709,cttgGGGTGAGTG,4092,TAGGgatc,2
+12,185,1710–1894,tgaaGGTTGGAC,476,CAGAAaaaa,1
+13,359,1895–2253,,,,

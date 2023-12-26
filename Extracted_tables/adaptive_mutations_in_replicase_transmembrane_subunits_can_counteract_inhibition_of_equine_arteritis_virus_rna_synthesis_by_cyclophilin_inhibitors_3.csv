@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6
+,,,B,,,
+,,rEAV nsp5 Y113H+A134V,,,rEAV nsp5 Q21R+Y113H+A134V,
+,,(EC50 of 9.1 (cid:4)M),,,(rEAVQYA; EC50 of 7.2 (cid:4)M),
+,120,,,,120,
+,,,,,,No virus
+,,CsA-1,,,CsA-1,
+,100,,,,100,rEAVwt
+,,,,,,rEAV CsA-1 mutants
+,80,,,,80,
+,,,,,,rEAV CsA-2 mutant
+(% to mock-infected cells),60,,Relative viability,(% to mock-infected cells),60,
+,,,,,,rEAV CsA-3 mutant
+,40,,,,40,
+,20,,,,20,

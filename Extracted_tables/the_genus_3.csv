@@ -1,0 +1,48 @@
+0,1,2,3,4,5,6,7,8
+,,,2,4,6,,CH2CH3,
+,,,,,,,R* = xyl2 CO CHCH3,
+,R1,,,,,R6,,
+Compound,,R1,R2,,R3,R4,R5,R6
+29,,OH,H,,H,H,H,OH
+30,,H,H,,OH (S),OH (S),H,H
+31,,H,H,,OH (R),OH (S),H,H
+32,,H,H,,H,OH (S),H,H
+33,,OH,OH,,H,OH (S),OH,OH
+34,,OH,OH,,H,OH (S),H,OH
+35,,OH,H,,H,OH (S),OH,OH
+36,,OH,H,,H,OH (S),H,OH
+37,,OH,OH,,H,OH (R),OH,OH
+38,,OH,OH,,H,OCH3 (S),OH,OH
+39,,OH,H,,H,OCH3 (S),OH,OH
+40,,OH,H,,H,OCH3 (S),H,OH
+41,,OH,OH,,H,OCH3 (R),OH,OH
+42,,OH,OH,,H,O-nBu (S),OH,OH
+43,,OH,OH,,H,O-nBu (S),OH,"OH, (cid:52)1(E)"
+44,,OH,H,,H,O-nBu (S),H,OH
+45,,OH,H,,H,O-xyl (S),OH,OH
+46,,OH,OH,,H,O-xyl (S),H,OH
+47,,OH,H,,H,O-xyl (S),H,OH
+48,,OH,OH,,H,O-xyl (S),OH,OH
+49,,OH,OH,,H,O-glc (S),OH,OH
+50,,OH,H,,H,O-glc (S),H,OH
+51,,OH,H,,H,O-glc (S),OH,OH
+52,,OH,OH,,H,O-glc (S),H,OH
+53,,OH,H,,H,O-apif (1→6)glcp (S),H,OH
+54,,OH,H,,H,O-galloyl-glcp (S),H,OH
+55,,OH,OH,,H,O-xylp-p-coumaroyl,OH,OH
+56,,OH,OH,,H,O-xylp-feruloyl (S),OH,OH
+57,,OH,OH,,H,O-galloyl-glcp (S),OH,OH
+58,,OH,OH,,H,O-xylp-benzoyl (S),OH,OH
+59,,OH,OH,,H,O-xylp-cinnamoyl (S),OH,OH
+60,,OH,OH,,H,O-glcp-benzoyl (S),OH,OH
+61,,OH,OH,,H,O-glcp-vanilloyl (S),OH,OH
+62,,OH,H,,H,O-glcp-coumaroyl (S),H,OH
+63,,OH,H,,H,O-glcp-(E)-DMC (S),H,OH
+64,,OH,H,,H,O-glcp-(E)-DMC (S),OH,OH
+65,,OH,H,,H,O-glcp-(Z)-DMC (S),H,OH
+66,,OH,OH,,H,O-glcp-coumaroyl (S),OH,OH
+67,,OH,OH,,H,O-glcp-(Z)-DMC (S),OH,OH
+68,,OH,OH,,H,O-glcp-(E)-TMC (S),OH,OH
+69,,OH,OH,,H,O-glcp-(E)-DMC (S),OH,OH
+70,,OH,OH,,H,O-xylp-2-methyl-butanoyl (S),OH,OH
+71,,OH,OH,,H,O-R* (S),OH,OH

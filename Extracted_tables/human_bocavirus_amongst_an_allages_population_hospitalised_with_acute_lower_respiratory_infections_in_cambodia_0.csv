@@ -1,0 +1,33 @@
+0,1,2,3,4,5
+,,,,Genetic diversity of HBoV in Cambodia,
+"Table 1. Reference human bocavirus (HBoV) strains used in this study to construct phylogeny. Shown are the name of the strain, Genbank",,,,,
+"accession number, year of","isolation, country of","isolation and genotype. Whether strains were included in Figure 2 (HBoV NP1 phylogeny), Figure 3",,,
+(HBoV VP1 ⁄ VP2 phylogeny) or Figures 2 and 3 (both HBoV NP1 and VP1 ⁄ VP2 phylogenies),,,is indicated,,
+Strain,Accession number,Year,Origin,HBoV genotype,Figure
+Humanparvovirus 4,EU874248,Unknown,Africa,–,3
+Human parvovirus 5,DQ873391,Unknown,UK,–,3
+Human parvovirus B19,FJ429009,2000,Brazil,–,3
+Ku1,GQ200737,2010,USA,HBoV-2,2
+W298,FJ948860,2001,Australia,HBoV-2,3
+UK-648,FJ170280,Unknown,UK,HBoV-2,3
+W471,EU918736,2009,Australia,HBoV-3,"2, 3"
+HBoV-4,FJ973561,2010,USA,HBoV-4,"2, 3"
+St1,DQ000495,2003 ⁄ 2004,Sweden,HBoV-1,"2, 3"
+St2,DQ000496,2003 ⁄ 2004,Sweden,HBoV-1,"2, 3"
+HK19,EF450735,2007,Hong Kong,HBoV-1,"2, 3"
+HK4,EF450720,2007,Hong Kong,HBoV-1,3
+BJ3064,DQ988933,2006,China,HBoV-1,2
+WLL-2,EF441262,2007,China,HBoV-1,"2, 3"
+R3080918004,GQ403983,2008,China,HBoV-1,3
+FZ1,GQ455988,2007,China,HBoV-1,3
+Lz37,FJ548903,2006 ⁄ 7,China,HBoV-1,2
+CU6,EF203920,2007,Thailand,HBoV-1,"2, 3"
+CU74,EF203922,2007,Thailand,HBoV-1,"2, 3"
+TW2717_06,EU984233,2006,Taiwan,HBoV-1,3
+Tw2715_06,EU984232,2006,Taiwan,HBoV-1,3
+PCH043,FJ767758,Unknown,USA,HBoV-1,2
+NZ2005,EF686013,2005,New Zealand,HBoV-1,2
+Spain043,EU100023,2005 ⁄ 2006,Spain,HBoV-1,2
+MPT5,AM109962,2003 ⁄ 2004,France,HBoV-1,2
+REL1 ⁄ Ba ⁄ 2007,EU069436,2007,Italy,HBoV-1,3
+GE4-IR,GQ906592,2007,Iran,HBoV-1,3

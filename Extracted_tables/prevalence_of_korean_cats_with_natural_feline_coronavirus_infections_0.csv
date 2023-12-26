@@ -1,0 +1,33 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+"Table 1 Summary for 14 cats with Feline Coronavirus type I, and II, or co-infection",,,,,,,,,,,
+Cat,Breed,Gender,Age,Region,Collection,Collection,FCoVs,Strain,Accession,Antibody titer,FPLV
+No,,,(month),,Site,Month,type,,No,(IFA),
+420,Domestic short,M,12,Kyonggi,Hospital,April,I,08K-420,JN654401,80,-
+,hair,,,,,,,,,,
+478,Domestic short,M,9,Seoul,Hospital,April,I,08K-478,JN654402,640,-
+,hair,,,,,,,,,,
+559,Domestic short,M,30,Kyonggi,Hospital,April,I & II,08K-559/,JN654403,160,-
+,hair,,,,,,,I,JN654411,,
+,,,,,,,,08K-559/,,,
+,,,,,,,,II,,,
+609,Domestic short,F,14,Seoul,Hospital,May,II,08K-609,JN654412,20,-
+,hair,,,,,,,,,,
+656,Scottish Fold,F,12,Daejeon,Shelter,May,II,08K-656,JN654413,640,-
+958,Domestic short,M,12,Incheon,Shelter,June,I,08K-958,JN654404,40,-
+,hair,,,,,,,,,,
+1011,Scottish Fold,M,42,Seoul,Hospital,June,I,08K-1011,JN654405,20,+
+1154,Domestic short,F,11,Daejeon,Shelter,July,II,08K-1154,JN654414,80,-
+,hair,,,,,,,,,,
+1177,Perisan,M,14,Kyonggi,Hospital,July,I,08K-1177,JN654406,320,-
+1429,Scottish Fold,F,15,Seoul,Hospital,Aug,I & II,08K-,JN654407,80,-
+,,,,,,,,1429/I,JN654415,,
+,,,,,,,,08K-,,,
+,,,,,,,,1429/II,,,
+1549,Domestic short,M,10,Incheon,Shelter,Sep,I,08K-1549,JN654408,640,-
+,hair,,,,,,,,,,
+1552,Domestic short,M,12,Seoul,Hospital,Sep,I,08K-1552,JN654409,20,+
+,hair,,,,,,,,,,
+1553,Domestic short,F,24,Seoul,Hospital,Sep,II,08K-1553,JN654416,160,-
+,hair,,,,,,,,,,
+1991,Domestic short,M,24,Incheon,Shelter,Dec,I,08K-1991,JN654410,80,+
+,hair,,,,,,,,,,

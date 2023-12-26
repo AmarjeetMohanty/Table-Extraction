@@ -1,0 +1,39 @@
+0,1,2,3,4
+Table 3,,"Statistically signiﬁcant differences in presenting signs and diagnoses, according to age groups and breeds.",,
+,Presenting signs and diagnoses,p-value for age,Presenting signs and diagnoses,p-value for breed
+1,Conjunctivitis,0.406,Alopecia,0.000
+2,Coronavirus infection,0.000,Conjunctivitis,0.000
+3,Dermatitis or eczema,0.000,Dermatitis or eczema,0.000
+4,Dermatomycoses,0.056,Dermatomycoses,0.500
+5,Diarrhea,0.000,Diarrhea,0.006
+6,"Disorders of orbit, unspeciﬁed",0.001,"Disorders of orbit, unspeciﬁed",0.000
+7,"Ear pruritus, unspeciﬁed",0.000,Dyspnea,0.013
+8,Endoparasite,0.000,"Ear pruritus, unspeciﬁed",0.330
+9,Skin Pruritus,0.088,Skin Pruritus,0.001
+10,Foreign body ingestion,0.494,Foreign body ingestion,0.000
+11,Gingivitis,0.000,Gingivitis,0.000
+12,Health services,0.000,Health services,0.124
+13,Heart disease,0.000,Heart disease,0.000
+14,Cushing’s disease,0.000,Keratitis,0.000
+15,Keratitis,0.000,Lameness,0.362
+16,Kidney failure,0.000,Loss of appetite,0.144
+17,Lameness,0.355,Malassezia infection,0.001
+18,Lethargy,0.000,Mammary tumor,0.000
+19,Loss of appetite,0.000,Mass,0.029
+20,Malassezia infection,0.235,Nasal discharge,0.001
+21,Mammary tumor,0.000,Neutering surgery,0.000
+22,Mass,0.000,Otitis externa,0.000
+23,Neutering surgery,0.000,Patella luxation,0.000
+24,Otitis externa,0.000,Pregnancy,0.021
+25,Parvovirus infection,0.000,Preventive medicine,0.000
+26,Patella luxation,0.000,Pyoderma,0.246
+27,Pregnancy,0.000,Seizure,0.000
+28,Preventive medicine,0.000,Tooth extraction,0.024
+29,Pyoderma,0.000,Toxicity,0.000
+30,Seizure,0.000,Trauma,0.000
+31,Tooth extraction,0.000,Upper respiratory tract disease,0.001
+32,Trauma,0.001,Vomiting,0.028
+33,Upper respiratory tract disease,0.000,Wound,0.000
+34,Vomiting,0.000,,
+35,Wound,0.000,,
+Note:,,,,

@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13
+,–5,0,5,10,20,,–4,–2,0,2,4,6,
+(d),,,,,,(e),,,,,,,(f)
+–log(citations),,,,,,–sympatry,,,,,,,–sympatry
+–sympatry,,,,,,–log(citations),,,,,,,–log(citations)
+–PC3,,,,,,–latitude,,,,,,,–area
+None,,,,,,None,,,,,,,None
++area,,,,,,+IUCN,,,,,,,+PC1
++PC2,,,,,,+area,,,,,,,+latitude
++IUCN,,,,,,+PC1,,,,,,,+IUCN
++latitude,,,,,,+PC2,,,,,,,+PC3
++torpor,,,,,,+PC3,,,,,,,+PC2
++PC1,,,,,,+torpor,,,,,,,+torpor

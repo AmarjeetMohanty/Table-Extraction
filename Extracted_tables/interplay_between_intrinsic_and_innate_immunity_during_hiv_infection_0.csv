@@ -1,0 +1,35 @@
+0,1,2,3,4
+,Table 1. Overview of the interplay between restriction factors and immunity.,,,
+,Induction by Innate,,,HIV
+Restriction Factor,,Antiviral Function,Feedback on Immunity,
+,Immunity,,,Counteraction
+,,,- Involved in Th1/Th2,
+,,- Inhibit viral entry by reducing,,
+,IFN-α,,polarization of CD4+ T cells,
+IFITM1/2/3,,membrane ﬂuidity,,
+,IFN-γ,,- Targeting of virus in,
+,,- Negative imprinting of virions,,
+,,,endosomes for TLRs sensing?,
+,,- Premature uncoating,,Viral capsids with
+,,,- Activation of NF-κB after,
+TRIM5α,IFN-I,- Targets viral capsid for,,reduced aﬃnity for
+,,,sensing the viral capsid,
+,,proteasomal degradation,,TRIM5α
+,,,- Induction of NKG2D ligand,
+,,,expression leading to the,
+,,,recognition of infected cells by,
+,IFN-α,- Deamination of cytidines to,,
+,,,NK cells,
+APOBEC3G,IFN-γ,uracils during RT creating,,HIV-1 Vif
+,,,- Generation of antigenic,
+,"IL-2, IL17, IL15",hypermutated proviral DNA,,
+,,,peptides presented on MHC-I,
+,,,allowing the recognition of,
+,,,infected cells by CD8 T cells,
+,"TLR3, RIG-I and",,,
+,MDA5 activation,- Inhibits RT by decreasing the,,
+,"(in HeLa, HEK293 and",cellular pool of dNTPs,- Inhibition of NF-κB,
+SAMHD1,,,,HIV-2 Vpx
+,MARC-145 cells),- Degradation of HIV,- Decreases antigen presentation,
+,IFN-α (liver cells),genomic RNA,,
+,"IL-12, IL18",,,

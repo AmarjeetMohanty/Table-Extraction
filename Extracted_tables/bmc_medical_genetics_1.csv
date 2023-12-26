@@ -1,0 +1,10 @@
+0,1,2,3,4,5
+Table 3: HLA-B* 4601 allele and 6 deceased or intubated probable SARS patients,,,,,
+Case no,Gender,Age,HLA-B allele,Associated clinical conditions,Outcome
+1,F,47,"B* 4601, B* 5801",None,"Intubated, died"
+2,F,26,"B* 1525, B* 4601",Pregnancy (3rd trimester),"Intubated, died"
+3,M,53,"B* 1513, B* 4601",None,Died
+4,F,43,"B* 4001, B* 4601",None,Died
+22,M,91,"B* 4001, B* 8101","Chronic renal insufficiency, peptic",Died
+,,,,"ulcer, coronary heart disease",
+33,F,50,"B* 4601, B* 4601",None,"Intubated, survived"

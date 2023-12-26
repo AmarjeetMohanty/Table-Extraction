@@ -1,0 +1,32 @@
+0,1,2,3,4,5,6,7
+,,"* SLAC (single-likelihood ancestor counting), FEL (ﬁxed eﬀects likelihood), and IFEL (internal ﬁxed eﬀects likelihood).",,,,,
+,,,,Table 4. Prediction results of IBVs by NetNGlyc 1.0 Server.,,,
+Protein,Position,Sequence,Potential,Agreement,N-Glyc Result,N-linked Gylcosylation Sites/Strains,Percentage/%
+,,,,,,14 (3/91),3.30
+,,,,,,15 (3/91),3.30
+,,,,,,16 (1/91),1.10
+,,,,,,17 (3/91),3.30
+,239/240 a,NFSD,0.5840–0.5851,(7/9),,,
+S1,,,,,+ +,18 (18/91),19.78
+,427/428 b,NITL,0.5598–0.6254,(7/9),,,
+,,,,,,19 (29/91),31.87
+,,,,,,20 (15/91),16.48
+,,,,,,21 (17/91),18.68
+,,,,,,22 (2/91),2.20
+,,,,,,1 (2/91),1.10
+,11/12,NGSF,0.5228–0.5336,(6/9),,,
+E,,,,,+ +,2 (49/91),53.85
+,,,,,+,,
+,5/6 c,NKSL,0.6297–0.7593,(9/9),,,
+,,,,,,3 (40/91),43.96
+,,,,(7/9)/,,1 (7/91),7.69
+M,3/4/6,NCTL,0.6007–0.7913,,+ +,,
+,,,,,+,,
+,,,,(9/9),,2 (84/91),92.31
+,,,,,,0 (1/91),1.10
+,,,,(6/9)/,,1(38/91),41.96
+N,32 d,NASW,0.5564–0.7239,,+ +,,
+,,,,,+,,
+,,,,(9/9),,2 (51/91),56.04
+,,,,,,3 (1/91),1.10
+a except CK/CH/LSC/99I-type strains; b except Taiwan-type and New-type strains; c except CK/CH/LSC/99I-type and Conn-type strains; d except GX-NN120084 strain.,,,,,,,

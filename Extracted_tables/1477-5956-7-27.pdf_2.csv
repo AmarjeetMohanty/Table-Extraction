@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6,7,8,9,10
+Table 11: Comparative performance of the novel feature set and traditional feature set using the random forest,,,,,,,,,,
+Protein class,,,Novel feature set (33 features),,,,Traditional feature set (451 features),,,
+,Training,Test,Sensitivity,Specificity,AUC,Training,Test accuracy,Sensitivity,Specificity,AUC
+,accuracy,accuracy,,,,accuracy,,,,
+Transport,91.3688,90.30,86.6,93,0.968,92.9764,93.39,89.9,95.9,0.975
+Transcription,90.9659,91.26,93.7,88.8,0.98,94.4252,95.33,96.4,94.3,0.99
+Translation,97.679,97.78,68.8,100,0.95,98.0741,97.78,68.8,100,0.996
+Gluconate,96.4059,98.11,85.7,100,0.997,97.2516,98.11,85.7,100,0.992
+utilisation,,,,,,,,,,
+Amino acid,93.7676,94.52,91.7,96.3,0.983,94.836,95.46,94.8,95.9,0.991
+biosynthesis,,,,,,,,,,
+Fatty acid,95.7242,94.44,72.8,99.2,0.97,96.2926,94,69.1,99.5,0.964
+metabolism,,,,,,,,,,
+Acetylcholine,99.6896,100,100,100,1,99.8965,100,100,100,1
+receptor,,,,,,,,,,
+inhibitor,,,,,,,,,,
+G-protein,94.4679,95.92,94.3,96.9,0.991,96.8745,97.18,94.7,98.7,0.993
+coupled,,,,,,,,,,
+receptor,,,,,,,,,,
+Guanine,96.7429,96.67,62.9,99.3,0.956,98.4985,97.92,74.3,99.8,0.992
+nucleotide-,,,,,,,,,,
+releasing factor,,,,,,,,,,
+Fibre protein,97.4771,95.89,33.3,98.6,0.798,99.2355,99.31,83.3,100,0.998
+Transmembrane,93.555,93.52,87.4,96.7,0.978,95.9719,97.53,94.2,99.3,0.995

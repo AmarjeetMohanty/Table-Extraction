@@ -1,0 +1,15 @@
+0,1,2,3
+"As an example, we now derive a system of stochastic differential equations for the standard",,,
+dS,,,
+,¼,l (cid:2) bSI (cid:2) dS,
+dt,,,
+dE,,,
+,¼,bSI (cid:2) sE (cid:2) dE,
+dt,,,
+,,,ð12Þ
+dI,,,
+,¼,sE (cid:2) gI (cid:2) dI,
+dt,,,
+dR,,,
+,¼,gI (cid:2) dR,
+dt,,,

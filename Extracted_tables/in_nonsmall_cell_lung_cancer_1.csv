@@ -1,0 +1,21 @@
+0,1,2,3,4,5,6
+patients with NSCLC,,,,,,
+,,Univariate analysis,,,Multivariate analysis,
+Characteristic,,,,,,
+,HR,P,95% CI,HR,P,95% CI
+TMPRSS11D expression,2.412,< 0.001*,1.782–3.265,2.246,< 0.001*,1.646–3.065
+High vs. low,,,,,,
+Age(years),1.090,0.562,0.814–1.460,,,
+≤ 60 vs. > 60,,,,,,
+Sex,1.424,0.030*,1.034–1.960,1.455,0.022*,1.055–2.007
+Male vs. female,,,,,,
+Differentiation,0.867,0.395,0.625–1.204,,,
+Well vs. moderate and poor,,,,,,
+Histological type,1.326,0.082,0.965–1.823,,,
+Sq vs. Ad vs. others,,,,,,
+T,1.600,< 0.001*,1.261–2.030,,,
+Tis + T1 vs. T2 vs. T3 + T4,,,,,,
+N,1.698,< 0.001*,1.428–2.018,,,
+N0 vs. N1 vs. N2,,,,,,
+TNM stage,1.755,< 0.001*,1.477–2.085,1.617,< 0.001*,1.356–1.929
+0–I vs II vs. III–IV,,,,,,

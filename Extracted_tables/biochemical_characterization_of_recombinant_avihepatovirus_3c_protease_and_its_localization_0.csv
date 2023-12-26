@@ -1,0 +1,15 @@
+0,1,2,3,4,5
+Table 1 Predicted protease cleavage sites of the DHAV polyprotein,,,,,
+Protein,aa position,Length,Cleavage site,GC content,Cleavage type
+1AB/VP0,1–256,256 aa,PFDNQ/GKRKP,40%,3Cpro
+1C/VP3,257–493,237 aa,ATNNQ/GDTNQ,43.33%,3Cpro
+1D/VP1,494–731,238 aa,DLEIE/SDQIR,33.33%,3Cpro
+2A1,732–751,20 aa,EPNPG/PILVV,46.47%,ribosome skipping site
+2A2,752–912,161 aa,PEFVS/HLPRL,43.33%,3Cpro
+2A3,913–1036,124 aa,ITTDQ/SFPGK,36.67%,3Cpro
+2B,1037–1155,119 aa,MLEDQ/SGKTT,43.33%,3Cpro
+2C,1156–1488,333 aa,SFMNQ/SKVRR,46.67%,3Cpro
+3A,1489–1581,93 aa,RRFAQ/SIYSQ,40%,3Cpro
+3B,1582–1613,32 aa,TGLDQ/SGRVN,53.33%,3Cpro
+3C,1614–1794,181 aa,PVFNQ/GKVVS,40%,3Cpro
+3D,1795–2247,453 aa,,,

@@ -1,0 +1,27 @@
+0,1,2,3,4,5,6,7
+"Table 1. Demographics for passengers with influenza after 10-day cruise that departed Sydney, NSW, Australia, on May 16, 2009*",,,,,,,
+,"No. (%) passengers,",,"Confirmed pandemic (H1N1) 2009, n = 78",,,"Confirmed influenza A (H3N2), n = 100",
+Demographic,"n = 1,970",No. (%),RR (95% CI),p value,No. (%),RR (95% CI),p value
+"Age group, y",,,,,,,
+<3,13 (1),0,0,1.00,1 (1),1.52 (0.23–10.16),0.67
+3–6,48 (2),20 (26),17.43 (10.45–29.09),<0.001,4 (4),1.64 (0.62–4.36),0.32
+7–12,119 (6),13 (17),4.57 (2.40–8.69),<0.001,6 (6),1.00 (0.44–2.27),0.99
+13–18,114 (6),2 (3),0.73 (0.18–3.06),1.00,5 (5),0.87 (0.35–2.12),0.75
+19–35,369 (19),18 (23),2.04 (1.13–3.70),0.020,19 (19),1.02 (0.61–1.69),0.95
+36–65,"1,046 (53)",25 (32),Referent,–,53 (53),Referent,–
+>65,261 (13),0,0.00 (undefined),0.005,12 (12),0.91 (0.50–1.70),0.76
+Sex,,,,,,,
+M,842 (43),35 (45),Referent,,47 (47),Referent,
+F,"1,128 (57)",43 (55),0.92 (0.59–1.42),0.70,53 (53),1.19 (0.60–1.2),0.38
+Residence,,,,,,,
+NSW,"1,135 (58)",47 (60),Referent,–,62 (62),Referent,–
+Victoria,433 (22),11 (14),1.12† (0.72–1.74),0.63,16 (16),0.83† (0.56–1.24),0.36
+QLD,165 (8),10 (13),,,12 (12),,
+SA,109 (6),4 (5),,,4 (4),,
+WA,54 (3),0,,,4 (4),,
+ACT,39 (2),3 (4),,,1 (1),,
+Tasmania,12 (1),1 (1),,,0,,
+NT,2 (0),0,,,0,,
+Not Australia,7 (0),2 (3),,,1 (1),,
+Unknown,14 (1),0,,,0,,
+"*Diagnosis received during 7-day period after the cruise. RR, relative risk; CI, confidence interval; –, not applicable; NSW, New South Wales; QLD,",,,,,,,

@@ -1,0 +1,21 @@
+0,1,2,3,4
+"indirectly manipulate their expression, which is discussed in detail below.",,,,
+,Table 1. Direct interactions between viral and cellular RNA with functional impact.,,,
+Phenotype,Virus,Family,Cellular RNA,Ref
+,EV71,Picornaviridae,miR-296-5p,[41]
+,PFV-1,Retroviridae,miR-32,[42]
+Repression of replication,,,,
+,HIV-1,Retroviridae,miR-29a,[43]
+,VSV,Rhabdoviridae,miR-24; miR-93,[44]
+Tissue speciﬁc repression of replication,,,,
+,EEEV,Togaviridae,miR-142-3p,[45]
+leading to decreased IFN response,,,,
+,"HCV, other hepaciviruses",Flaviviridae,miR-122,[46–56]
+"Increased RNA replication,",,,,
+translation and stability,,,miR-17/20/93/106 family,
+,"BVDV, other pestiviruses",Flaviviridae,,[57]
+,,,(let-7 family),
+,"HIV, SIV, FIV, MMTV, others",Retroviridae,"tRNALys
+3",[58–60]
+Reverse transcriptase priming,"HTLV, MuLV, BLV, others",Retroviridae,tRNAPro,[61]
+,Avian retroviruses,Retroviridae,tRNATrp,[61]

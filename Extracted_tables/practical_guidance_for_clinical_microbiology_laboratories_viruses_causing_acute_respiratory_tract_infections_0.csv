@@ -1,0 +1,44 @@
+0,1,2,3,4,5,6,7,8
+TABLE 4 Respiratory viral,,testing approaches with CLIA waiversa,,,,,,
+,,,,,Speciﬁcity (%) vs,,,
+Patient,,Viral,,Sensitivity (%) vs real-,real-time PCR,Specimen,General,
+population(s),Virus(es),targets,Technologies,time PCR assays,assays,type(s),TAT,References
+"Clinically ill, no","FLUA, FLUB",Antigens,Immunochromatographic,"FLUA, 15–56; FLUB, 24–56;","FLUA, 99–100; FLUB,","NPS, NS, NW/",Minutes,"207, 375–378"
+age,,,(ﬁrst generation),"combined, 23–69",99–100;,nasal aspirate,,
+restrictions,,,,,"combined, 96–97",,,
+"Clinically ill,",RSV,Antigens,Immunochromatographic,58–80,91–100,"NPS, NPA, NW/",Minutes,"212, 375,"
+neonatal,,,(ﬁrst generation),,,nasopharyngeal,,379–381
+and,,,,,,wash,,
+"pediatric,",,,,,,,,
+age varies,,,,,,,,
+"Clinically ill, no","FLUA, FLUB",Antigen,Assisted/automated reading,"FLUA, 67–81; FLUB, 33–92","FLUA, 98–100; FLUB,","NPS, NS, NW/",Minutes,"211, 288, 376,"
+age,,,"of
+immunoassay (second",,90–100,nasal aspirate,,"381, 382"
+restriction,,,generation),,,,,
+"Clinically ill,",RSV,Antigen,Assisted/automated reading,78–82,97–99,"NPS, NW/nasal",Minutes,"214, 383"
+pediatric,,,"of
+immunoassay (second",,,aspirate,,
+"patients, age",,,generation),,,,,
+varies,,,,,,,,
+"Clinically ill, no","FLUA, FLUB",Nucleic,Isothermal ampliﬁcation,"FLUA, 73– 94; FLUB,","FLUA, 63–100; FLUB,",Direct NS or NPS,(cid:3)1 h,"286–288, 384"
+age,,acid,and molecular beacon,75–97,54–100,,,
+restriction,,,probe detection,,,,,
+Clinically ill,"FLUA, FLUB",Nucleic,Automated sample,"FLUA, 98–99; FLUB,","FLU, 99–100; FLUB,",NPS,(cid:3)1 h,"289, 385"
+,,acid,"preparation,",99–100,99–100,,,
+,,,"ampliﬁcation, detection,",,,,,
+,,,"and result
+interpretation,",,,,,
+,,,real-time multiplex,,,,,
+,,,RT-PCR,,,,,
+Clinically ill,"FLUA, FLUB, RSV",Nucleic,Automated sample,"FLUA, 95; FLUB, 100; RSV,","FLUA, 98; FLUB, 99;",NPS,(cid:3)1 h,"386, 387"
+,,acid,"preparation,",99,"RSV, 99",,,
+,,,"ampliﬁcation, detection,",,,,,
+,,,"and result
+interpretation,",,,,,
+,,,real-time multiplex,,,,,
+,,,RT-PCR,,,,,
+Clinically ill,FLUA H3 subtype and,Nucleic,Single-instrument,96.8% positive agreement,99.5% negative,NPS,Approx,"388, 389"
+adult and,"2009 H1 subtype,",acid,"conﬁguration,
+real-time",vs other FDA-cleared,agreement vs,,1 h,
+pediatric,"FLUB, ADV, CoV,",,multiplex NAAT,molecular comparative,other FDA-cleared,,,
+patients,"hMPV, PIV 1–3,",,,method,molecular,,,

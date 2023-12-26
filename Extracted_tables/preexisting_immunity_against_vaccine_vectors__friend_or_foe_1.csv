@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6
+Table 2. Different effects of pre-existing immunity on the efficacy of,,,,recombinant viral vaccine vectors,,
+"ND, Not determined.",,,,,,
+Vaccine,Vaccine,Pre-existing,Vectored antigen,CMI response,Humoral,Reference
+recipient,vector,immunity,,,response,
+,,organism,,,,
+Mouse,Poliovirus,Poliovirus,Chicken ovabumin,2,No change,Mandl et al. (2001)
+Mouse,HSV,HSV,Chicken ovabumin,222,222,Lauterbach et al. (2005)
+Mouse,HSV,HSV,E. coli b-galactosidase,No change,No change,Brockman & Knipe (2002)
+Mouse,Ad,Ad,HIV-1 gag,222,ND,Pichla-Gollon et al. (2009)
+Human,Ad,Ad,HIV-1 gag/pol/nef,22,ND,McElrath et al. (2008)
+Mouse,Ad,Ad,H5 haemagglutinin,2,2,Alexander et al. (2012)
+Mouse,Ad,Ad,Ovabumin/glycoprotein of,2,ND,Steffensen et al. (2012)
+,,,lymphocytic,,,
+,,,choriomeningitis virus,,,
+Mouse,Ad,Ad,H5 haemagglutinin and,22,22,Pandey et al. (2012)
+,,,N1 nucleoprotein,,,

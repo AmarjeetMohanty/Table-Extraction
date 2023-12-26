@@ -1,0 +1,22 @@
+0,1,2,3,4
+,Validation phase,,,
+,,,,Speciﬁcity
+,,,,Purity as %
+,CD90,,,CD90+/CD105+ events
+MSC%,CD105,K562%,,
+,CD45,,,Impurity as % CD45+
+100,,50,,events
+95,,,,
+,,,,Accuracy/linearity
+90,,10,x3 runs,
+,,,,Closeness of agreement
+80,,20,,between
+,,,,expected and found values.
+70,,30,,
+,+,,,
+50,,50,,Precision
+,,,,Repeatability and
+25,,75,,
+,,,,intermediate precision
+0,,90,,
+01,,100,,

@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7
+subsequent viral,,"screenings. The lowest Ct values were obtained,",,,,,
+,,,,,ruled out contamination at,sample level.,
+respectively with 5 mL of DNA and 10 mL of RNA per PCR,,,,,,,
+,"reaction, although all the other volumes generated positive signals.",,,,,,
+,"Table 2. Methods, tissues and genomic regions used for virus detection.",,,,,,
+,,,,Genomic,,,
+,Nucleic,,Type of,region,Size of the,,
+Viruses,acid,Kit used for amplification,PCR,Targeted,amplicon,Tissue,Reference
+CPV/FPLV,DNA,"Fast start Master Mix, Roche",real-time,vp2 gene,93 bp,"small
+intestine lymph",[46]
+,,,,,,nodes,
+FCoV/CCoV,RNA,"One-step RT-PCR, Qiagen",real-time,7b gene,102 bp,"small
+intestine lymph",[41]
+,,,,,,nodes,
+CDV,RNA,"One-step RT-PCR, Qiagen",real-time,N gene,161 bp,lungs,in house (not
+,,,,,,,published)
+ADV,DNA,"Fast start Master Mix, Roche",real-time,gB gene,94 bp,lungs,[42]
+CAV-1,DNA,"High Fidelity Master Mix, Roche",conventional,E3 gene,508 bp,liver,[43]
+CAV-2,DNA,"High Fidelity Master Mix, Roche",conventional,E3 gene,1030 bp,lungs,[43]
+FHV,DNA,"High Fidelity Master Mix, Roche",real-time,TK gene,56 bp,lungs,[44]
+Influenza A,RNA,"One-step RT-PCR, Qiagen",real-time,Matrix gene,100 bp,lungs,[45]
+,doi:10.1371/journal.pone.0059399.t002,,,,,,

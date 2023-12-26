@@ -1,0 +1,45 @@
+0,1,2,3,4,5,6,7
+,,,,,rate (no. of,(95% HPD),"(95% HPD) 
+SARSr-CoV)/"
+,,,,,substitutions,,SARSr-Rh-BatCoV
+,,,,,per site per,,(95% HPD)
+,,,,,year),,
+Zeng et al.,"Spike   
+139",,,,-,"Linear 
+Dec 2002","- 
+-"
+2003 [38],,,,,,"regression 
+(Sep 2002,",
+,,,,,,Jan 2003),
+Salemi et al.,ORF1ab 10,,,,4/3510−4b,"Molecular 
+-","- 
+-"
+2004 [39],,,,,,clock model,
+Zhao et al.,Genome 16,,,,8-23.810−4,"Three strategies 
+Spring 2002","- 
+-"
+2004 [40],,,,,,described by,
+,,,,,,the author,
+Song et al.,"CDSsa 
+3",5,,,2.9210−3,"Linear 
+Nov 2002","- 
+-"
+2005 [32],,,,,,regression,
+Vijaykrishna,Helicase3,3,1,5,"2.010-2,","Relaxed clock 
+1999","1986 
+1961"
+et al.,,,,,1.710-2c,"model 
+(1990-2003)","(1964-2002) 
+(1918-1995)"
+2007 [35],,,,,,,
+Hon et al.,ORF1ab 13,6,1,4,2.7910-3,"Various clock 
+2002.63","1998.51 
+~1985d"
+2008 [33],,,,,,"models 
+(2002.14-2002.96)",(1993.55-2001.32)
+Lau et al.,ORF1ab 8,8,1,15,2.8210-3,"Relaxed clock 
+2001","1995.10 
+1972.39"
+2010 [37],,,,,,"model 
+(1999.16-2002.14)","(1986.53-2000.13)
+(1935.28-1990.63)"

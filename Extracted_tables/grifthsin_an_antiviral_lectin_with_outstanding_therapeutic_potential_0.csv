@@ -1,0 +1,30 @@
+0,1,2,3,4
+"2.
+Effective","concentrations
+to
+inhibit","50% of
+virus",infection (EC50),of GRFT against
+different viruses.,,,,
+Sample,Virus a,Target Cell b,EC50 (nM),Ref.
+Native GRFT,HIV-1RF,CEM-SS,0.043,[9]
+Recombinant GRFT,HIV-1RF,CEM-SS,0.039,[9]
+Native GRFT,HIV-1RoJo,PBMC,0.63,[9]
+Native GRFT,HIV-1ADA,Macrophage,0.5,[9]
+Native GRFT,HIV-1Ba-L,Macrophage,0.098,[9]
+Recombinant GRFT,HIV-1Ba-L,PMBC,0.01,[28]
+Recombinant GRFT,HIV-1LAI,MT-4,0.01,[28]
+Recombinant GRFT,HIV-2ROD,MT-4,0.17,[29]
+Recombinant GRFT,SIV mac251,CEMx174,0.35,[28]
+Recombinant GRFT,SARS-CoV200300592,Vero 76,280,[15]
+Recombinant GRFT,SARS-CoV200300592,Vero 76,960,[15]
+Recombinant GRFT,SARS-CoVUrbani,Vero 76,48,[30]
+Recombinant GRFT,SARS-CoVTor-II,Vero 76,48,[30]
+Recombinant GRFT,SARS-CoVCuHK,Vero 76,61,[30]
+Recombinant GRFT,SARS-CoVFrank,Vero 76,94,[30]
+Recombinant GRFT,HCVJFH1,Huh-7,13.9,[31]
+Recombinant GRFT,HCVJFH-1,Huh 7.5.1,0.4,[32]
+Recombinant GRFT,JEV,BHK-21,20,[33]
+Recombinant GRFT,HPV16 PsV,HeLa,1390,[34]
+Recombinant GRFT,HPV18 PsV,HeLa,428,[34]
+Recombinant GRFT,HPV45 PsV,HeLa,928,[34]
+,a HIV-1: human immunodeﬁciency virus type 1; HIV-2: human immunodeﬁciency virus type 2; SIV: simian,,,

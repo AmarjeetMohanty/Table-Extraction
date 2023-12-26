@@ -1,0 +1,20 @@
+0,1,2,3,4,5,6,7
+(H5N2) and HPAI,"(H5N1) viruses,",it was expected that,cell,"lipids
+are",important during,influenza,infection as
+Table 2 Number of differentially expressed genes in duck and chicken in each condition tested,,,,,,,
+,,,,Chicken,,Duck,
+Tissue,Day (pi),Comparison,,DE* genes (FC > 1.5),,,DE* genes (FC > 1.5)
+Ileum,day 1,Control vs. HPAI,,643,,321,
+,,Control vs. LPAI,,12,,49,
+,,LPAI vs. HPAI,,194,,105,
+,day 3,Control vs. HPAI,,10,,1101,
+,,Control vs. LPAI,,3,,102,
+,,LPAI vs. HPAI,,13,,270,
+Lung,day 1,Control vs. HPAI,,43,,1774,
+,,Control vs. LPAI,,40,,69,
+,,LPAI vs. HPAI,,84,,1984,
+,day 3,Control vs. HPAI,,11,,1118,
+,,Control vs. LPAI,,554,,32,
+,,LPAI vs. HPAI,,702,,900,
+"FC,
+fold change; *FDR < 0.05",,,,,,,

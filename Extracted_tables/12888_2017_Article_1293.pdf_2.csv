@@ -1,0 +1,35 @@
+0,1,2,3,4,5,6,7,8
+,Table 5 Results of the comparisons between intake and discharge,,,,,,,
+,Intake,,Discharge,,Statistics,N,p,Effect size
+,,,,,Wilcoxon,,,
+,Mean,(SD),Mean,(SD),,,,
+,,,,,Z value,,,
+Psychiatric Symptoms,,,,,,,,
+BPRS-4.0,,,,,,,,
+Reality distortion,1.80,(0.80),1.53,(0.73),−3.86,137,0.001*,0.33
+Activation,1.42,(0.68),1.33,(0.56),−1.56,137,0.119,0.13
+Apathy,1.52,(0.55),1.36,(0.45),−3.55,137,0.004,0.30
+Mood disturbance,3.41,(0.78),2.45,(0.83),−8.73,137,< 0.001*,0.74
+Disorganization,1.16,(0.34),1.08,(0.23),−2.66,137,0.007,0.22
+Somatization,2.06,(0.76),1.63,(0.60),−5.74,137,< 0.001*,0.49
+SCL-90-R,,,,,,,,
+Somatization,1.40,(0.89),0.92,(0.94),−6.10,123,< 0.001*,0.55
+Obsession compulsion,1.82,(0.84),1.21,(0.96),−6.83,123,< 0.001*,0.62
+Interpersonal vulnerability,1.38,(0.92),0.99,(0.94),−5.87,123,< 0.001*,0.53
+Depression,2.13,(0.83),1.30,(0.95),−7.84,123,< 0.001*,0.71
+Anxiety,1.52,(0.83),0.93,(0.86),−7.18,123,< 0.001*,0.65
+Hostility,0.98,(0.87),0.58,(0.69),−5.70,123,< 0.001*,0.52
+Phobic anxiety,0.97,(0.83),0.68,(0.85),−4.42,123,< 0.001*,0.40
+Paranoid,1.38,(0.95),1.00,(0.93),−5.67,123,< 0.001*,0.52
+Psychoticism,0.82,(0.61),0.58,(0.66),−5.32,123,< 0.001*,0.49
+Defense mechanisms,,,,,,,,
+DSQ-40,,,,,,,,
+Mature,5.31,(1.30),5.81,(1.49),−2.98,71,0.004,0.36
+Neurotic,4.55,(1.41),4.37,(1.14),−1.14,71,0.260,0.14
+Immature,4.17,(1.03),3.83,(0.93),−3.24,71,0.001*,0.39
+Recovery Style,,,,,,,,
+RSQ,63.31,(17.15),70.70,(15.44),−4.79,108,< 0.001*,0.47
+"Global
+functioning",,,,,,,,
+GAF,52.46,(11.07),63.00,(12.74),−6.78,106,< 0.001*,0.66
+,"BPRS-4.0 Brief Psychiatric Rating Scale version 4.0, SCL-90-R Symptom Checklist – Revised, DSQ-40 Defense Style Questionnaire 40 items, RSQ Recovery Style",,,,,,,

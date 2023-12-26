@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6,7
+,Table 2. Microbiota composition of positive BAL fluids by molecular assays.,,,,,,
+,,,,,Pneumonia,,
+,,Pneumonia cohorts,,,,,
+,,,,,patients (n = 185),,CS (n = 25) P value
+,CAP (n = 32),VAP (n = 106),NV ICU-P (n = 22),AP (n = 25),,,
+Only bacteria,12,34,5,11,62,6,0.34
+Only fungi,0,2,1,1,4,1,0.57
+Only viruses,3,9,3,2,17,3,0.65
+Bacteria and fungi,3,4,3,1,11,2,0.68
+Bacteria and viruses,6,33,6,2,47,4,0.30
+Fungi and viruses,0,4,0,1,5,3,0.02
+Bacteria and fungi and viruses,1,7,2,0,10,1,0.76
+Total positive samples,25,93,20,18,156,20,0.58

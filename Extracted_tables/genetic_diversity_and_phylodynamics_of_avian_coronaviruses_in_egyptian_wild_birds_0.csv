@@ -1,0 +1,10 @@
+0,1,2,3,4,5,6
+Table 1.,Overview of wild bird samples,,"involved in the study,",,and the prevalence of Avian,
+,coronaviruses (ACoVs) in different species.,,,,,
+Order,Family,Genus,Species,Positive (n),Sampled (n),Rate%
+Passeriformes,Passeridae,Passer,"P
+. domesticus",1,140,0.7
+Galliformes,Phasianidae,Coturnix,C. coturnix,2,136,1.5
+Anseriformes,Anatidae,Anas,A. crecca,7,150,4.7
+Pelecaniformes,Ardeidae,Bubulcus,B. ibis,4,131,3.1
+Total = 4,4,4,4,14,557,2.5

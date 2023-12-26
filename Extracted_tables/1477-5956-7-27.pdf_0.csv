@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13
+Table 5: Accuracy of predictions using training and blind test datasets with the SVM and random forest methods,,,,,,,,,,,,,
+Category,Protein class,Training set,,,Test set,,SVM_FF,,SVM_CFS,,RF_FF,,RF_CFS
+,,Positive,Negative,Positive,Negative,Train,Test,Train,Test,Train,Test,Train,Test
+Biological,Transport,"2,824","3,583",298,414,73.26,71.34,94.38,93.53,93.14,92.41,94.66,94.24
+process,,,,,,,,,,,,,
+,Transcription,"3,644","3,872",415,421,87.78,85.04,96.62,96.65,94.25,94.61,94.65,94.73
+,Translation,139,"1,886",16,210,98.81,98.67,98.37,97.78,97.87,96.90,98.07,97.34
+,Gluconate,53,420,7,46,98.73,98.11,98.94,98.11,97.04,98.11,98.30,100
+,utilisation,,,,,,,,,,,,
+,Amino acid,"2,769","3,970",289,460,73.55,76.63,90.28,92.12,95.69,96.12,96.29,96.12
+,biosynthesis,,,,,,,,,,,,
+,Fatty acid,601,"3,445",81,369,90.58,87.55,94.19,92,95.99,94.88,96.93,95.77
+,metabolism,,,,,,,,,,,,
+Molecular,Acetylcholine,93,"1,840",10,205,100,99.53,100,100,100,100,100,100
+function,receptor inhibitor,,,,,,,,,,,,
+,G-protein coupled,"2,571","3,828",263,448,76.04,77.07,98.76,98.17,96.62,97.74,97.60,97.46
+,receptor,,,,,,,,,,,,
+,Guanine nucleotide-,335,"3,994",35,446,98.96,98.75,99.51,98.96,98.49,98.96,98.98,98.54
+,releasing factor,,,,,,,,,,,,
+Cellular,Fibre protein,42,"1,266",6,140,99.84,99.31,99.92,99.31,99.38,99.31,99.84,98.63
+component,,,,,,,,,,,,,
+Domain,Transmembrane,"1,904","3,930",223,426,80.01,79.81,97.15,97.84,96.02,97.84,96.46,97.38

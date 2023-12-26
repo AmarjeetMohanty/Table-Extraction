@@ -1,0 +1,24 @@
+0,1,2,3,4,5,6,7
+,Table 1 Measures of dependence between two variables,,,,,,
+Co-expression measures,What measures?,,,,Input/Output,Features,
+"Pearson’s correlation (PC)
+Tendency",to,respond,in,oppo-,Input: gene expressions value,,
+,site/same direction across different,,,,Output:,•,
+,,,,,,,Sensitivity to outliers
+samples,,,,,,•,
+,,,,,•,,Bad array of expression level
+,,,,,"[ 0, 1] both genes increase",,
+,,,,,•,,can determine positive PC
+,,,,,"[ −1, 0] one increase and other",,
+,,,,,,,value
+,,,,,decrease,,
+,,,,,,,• Measure linear relations
+"Spearman’s correlation (SC)
+Tendency",to,respond,in,oppo-,"Input:
+ranking values from expression levels",,
+,site/same direction across different,,,,in samples,•,
+,,,,,,,Robust to outliers
+samples,,,,,Output:,•,
+,,,,,,,Detect non-linear associations
+,,,,,•,,
+,,,,,"[ 0, 1] Both genes increase",,

@@ -1,0 +1,47 @@
+0,1,2,3,4,5,6,7
+,,,Table 1. Epitope mapping of monoclonal antibodies directed against viral epitopes.,,,,
+,,,,,Vaccination,,
+Target,Library,Target presentation,"Mimotopes 
+Epitopes",Additional,,Results,Reference
+,,,,,attempts,,
+,(1) 15-mer RPL,,,,,,
+,,(1) NA,,,Rabbit,,
+,(2) 2 sublibraries,,gp120 V3,,,,
+MAb447-52D,,(2) Ab captured on,GPxR,NA,immunization with,NAbs induced,"[17,18]"
+,"(Cx5GPxRx5C,",,loop,,,,
+,,polystyrene beads,,,1 peptide,,
+,LLx5GPxRx5LL),,,,,,
+,,(1) Biotinylated Ab,,Characterization of,,,
+,,captured on,,non-essential,,,
+,,,gp120 V3,,,,
+MAb 58.2,20-mer RPL,streptavidin-coated,(Y/L)(V/L/I)GPGRxF,aminoacids in the,NA,NA,[19]
+,,,loop,,,,
+,,plates,,epitope using a peptide,,,
+,,(2) Microwells,,array,,,
+,,Ab captured on,gp120 V3,Type II ß turn structure,,,
+MAb 19B,15-mer RPL,,xIx4GxxFYxT,,NA,NA,"[18,20]"
+,,polystyrene beads,loop,of the epitope,,,
+,,,,Peptides fused to E.,,,
+,,Ab coated onto,gp120 V3,coli AP. Affinities for,,,
+MAb 1001,30-mer RPL,,(R/K/H)xGR,,NA,NA,[21]
+,,microwells,loop,the Ab determined by,,,
+,,,,SPR,,,
+,,,,QR insertion,,,
+(1) MAb 110-A,,,"(1) HyxRGP 
+gp120 V3",,,,
+,6-mer RPL,NA,,characteristic of the,NA,NA,[22]
+(2) MAb 19.26.4,,,"(2) xQ(R/K)GP 
+loop",,,,
+,,,,LAI isolate,,,
+,,Biotinylated Ab,,,,,
+,,captured on,"268.1 (HLGPGR), 
+gp120 V3",,Rabbit,,
+MAb 268,6-mer RPL,,,NA,,gp120-specific Abs,[23]
+,,streptavidin-coated,"268.2 (KAIHRI) 
+loop",,immunization,,
+,,beads,,,,,
+,,,,2F5 affinity for gp41,,,
+,,Ab captured on,ELDKWA,,,,
+MAb 2F5,15mer,,"ELDKW, D(K/R)W",and gp41 peptide,NA,NA,[24]
+,,polystyrene beads,(gp41 MPER),,,,
+,,,,determined by SPR,,,

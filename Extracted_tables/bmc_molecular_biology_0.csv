@@ -1,0 +1,14 @@
+0,1,2,3,4,5
+Table 1: Call rates for seven different viral RNAs using WTA method.,,,,,
+,,,,Whole Transcriptome Amplification,
+Viral family,Name of virus,Number of fragments (size),Strand,,Call rate (%)
+,,,,Average ± SD,Range (Min-Max)
+Coronaviridae,SARS-CoV1,1 (29751),S +,99.1 ± 0.3,(98.9–99.3)
+Flaviviridae,Yellow fever,1 (10862),S +,74.4 ± 2.5,(72.6–76.2)
+,Dengue type 2,1 (10703),S +,59.4 ± 10.7,(51.8–66.9)
+Rhabdoviridae,VSV2,1 (11161),S -,96.8 ± 2.1,(95.3–98.3)
+,CVS3,1 (11966),S -,73.6 ± 1.1,(72.8–74.3)
+Bunyaviridae,Rift valley fever virus,"3 (12181: 6606*, 3885, 1690)",S +/-,100 ± 0,(100–100)
+Orthomyxoviridae,Influenza virus type B,8,S -,72.3 ± 9.7,(65.4–79.1)
+,(B/Yamagata/166/98),"(14289: 2328*, 2352, 2273, 1843,1793,",,,
+,,"1504, 1151, 1045)",,,

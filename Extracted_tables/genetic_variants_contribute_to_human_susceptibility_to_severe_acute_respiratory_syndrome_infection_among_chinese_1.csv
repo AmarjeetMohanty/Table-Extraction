@@ -1,0 +1,28 @@
+0,1,2,3,4,5,6,7,8
+,,,,,,,,IL12 and SARS
+,Table 3. Genotype frequencies of,,"IL-12 RB1 705A/G, 1158T/C, 1196G/C and 1664 C/T SNPs in SARS patients and controls groups",,,,,
+SNP,SARS (n = 115),Control A (n = 141 ),Control B (n = 155 ),ORa(95% CI),,Pvaluea,ORb (95% CI),Pvalueb
++A705G,,,,,,,,
+AA,41 (40.2),43(38.1),59(39.1),1,,,1,
+G A,49(48.0),51(45.1),68(45.0),1.26 (0.20–1.05),,0.171,1.17 (0.95–4.91),0.223
+GG,12 (11.8),19(16.8),24(15.9),0.76 (0.32–2.90),,0.082,0.64 (0.35–3.14),0.194
++T1158C,,,,,,,,
+TT,40 (41.7),56(44.8),59(39.3),1,,,1,
+TC,44 (45.8),52(41.6),71(47.3),1.29 (0.94–3.44),,0.105,0.90 (0.53–2.68),0.137
+CC,12 (12.5),17 (13.6),20(13.3),0.71 (0.39–3.97),,0.219,0.84 (0.44–5.01),0.166
++G1196C,,,,,,,,
+GG,44 (39.6),53(40.2),59 (39.3),1,,,1,
+GC,52 (46.8),59(44.7),72(48.0),1.19 (0.71–3.07),,0.712,0.85 (0.25–6.10),0.221
+CC,15(13.5),20(15.2),19(12.7),0.86 (0.74–3.83),,0.328,1.13 (0.39–6.95),0.417
++C1664T,,,,,,,,
+CC,47(50.0),87(65.9),88(58.7),1,,,1,
+,,,,*,,,,
+CT,39(41.5),39(29.5),52(34.7),2.09 (1.90–7.16),,0.020*,1.45 (1.16–2.78),0.047
+,,,,,*,,,
+TT,8(8.5),6(4.5),10 (6.7),2.34 (1.79–13.37),,0.022*,1.47 (0.26–2.26),0.060
+P-value and OR (95% CI) were calculated with the use of,,,"logistic regression models, adjusted with sex, age, comorbidity presence and infection source.",,,,,
+OR = Odds ratio; CI = confidence interval;,,,,,,,,
+OR a Patients VS Control A ; ORb Patients VS Control B.,,,,,,,,
+,P valuea Patients VS Control A ; P valueb Patients VS Control B.,,,,,,,
+,*Significant P value after correction by Nyholt method,,,,,,,
+,doi:10.1371/journal.pone.0002183.t003,,,,,,,

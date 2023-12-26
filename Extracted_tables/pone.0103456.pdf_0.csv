@@ -1,0 +1,24 @@
+0,1,2,3,4,5,6
+,,,,,Scorpine in E. coli Shows Anti-Bacterial and Plasmodial Activities,
+,Table 1. Minimum inhibitory concentrations of selected antibiotics against S. aureus and A. baumannii.,,,,,
+,"S
+.aureus",,,"A
+.baumannii",,
+Antibiotic,,,,,,
+,"S
+.aureus ATCC 29213","S
+.aureus S","S
+.aureus R","A
+.baumannii ATCC 19606","A
+.baumannii S","A
+.baumannii R"
+Ampicillin,",0.25",8,128,256,32,256
+Ceftazidime,16,64,256,16,8,64
+Gentamycin,0.25,4,256,8,4,256
+Amikacin,16,4,256,4,4,256
+Erythromycin,0.5,4,256,16,8,256
+Tetracycline,0.25,4,64,0.5,0.25,16
+Ciprofloxacin,0.25,1,256,4,4,256
+Levofloxacin,0.25,4,64,1,0.5,4
+,"Note: Minimum inhibitory concentrations (MIC, mg/ml).",,,,,
+doi:10.1371/journal.pone.0103456.t001,,,,,,

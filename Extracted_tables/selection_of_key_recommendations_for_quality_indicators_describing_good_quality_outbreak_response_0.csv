@@ -1,0 +1,26 @@
+0,1,2
+Table 1 Medline search strategy,,
+The gold standard search strategy of the Cochrane,Communicable diseases OR,Indicator* OR
+Effective Practice and Organisation of Care group,,
+,"communicable disease,",Measurab* OR
+(http://epoc.cochrane.org/),,
+,Emerging OR,Performance Measure*
+,disease outbreaks OR,OR
+,Crisis,Performance
+,,Assessment* OR
+,AND,Quality Assessment* OR
+,,Quality Measure* OR
+,Risk Assessment OR,Manage* OR
+,Contact Tracing OR,Recommend* OR
+,Disease notification OR,Disease Management OR
+,Infection Control OR,Organization OR
+,Mandatory Testing OR,Administration OR
+,Universal Precautions OR,Scientific AND Advice
+,Population Surveillance OR,
+,Immunization OR,OR
+,Quality Management,
+,,"Quality indicators,"
+,OR,Healthcare
+,Bioterrorism OR,
+,Severe Acute Respiratory,
+,Syndrome,

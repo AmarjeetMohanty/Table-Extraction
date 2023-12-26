@@ -1,0 +1,19 @@
+0,1,2,3,4,5,6
+Table 2 Evaluation of performance of predictive models on validation dataset of 345 viral siRNAs(V345),,,,,,
+,,,,Pearson correlation coefficient* on validation (V345) dataset#,,
+,,,,during 10-fold cross validation,,
+Predictive model no.,siRNA features,No. of siRNA features,,,,
+,,,SVM,ANN,KNN,REP Tree
+1,Mononucleotide frequency,4,0.16,0.08,0.09,0.08
+2,Dinucleotide frequency,16,0.30,0.23,0.22,0.24
+3,Trinucleotide frequency,64,0.39,0.25,0.24,0.26
+4,Tetranucleotide frequency,256,0.40,0.26,0.27,0.28
+5,Pentanucleotide frequency,1024,0.42,0.27,0.28,0.29
+6,Binary,76,0.03,0.02,0.02,0.01
+7,Thermodynamic features,21,0.19,0.15,0.18,0.15
+8,Secondary structure,28,0.02,0.02,0.02,0.02
+9,1 + 2 + 3 + 4 + 5,1364,0.48,0.32,0.34,0.30
+10,6 + 9,1440,0.48,0.32,0.34,0.32
+11,6 + 7 + 9,1461,0.50,0.33,0.35,0.31
+12,6 + 7 + 8 + 9,1489,0.45,0.32,0.33,0.30
+*Pearson Correlation Coefficient (PCC),,is the correlation between experimental and predicted viral siRNA efficacy.,,,,

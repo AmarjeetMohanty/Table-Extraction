@@ -1,0 +1,49 @@
+0,1,2,3,4,5
+Table 1 Effect of,IgY against diarrhea caused by bacterial pathogens in piglets,,,,
+Items,,,"Mortality, %",,Outcome measure
+,,,,,considered-Mortality
+,,,Intervention,Control,
+,,,,,(M) or Diarrhea (D)
+Prophylactic effect,,,,,
+Ref.,Pathogens,Piglet age,,,
+"Imberechts et al.
+[33]",F18+ ETEC,Weaned (21–28 d),33,66,D
+,F18+ ETEC,Weaned (21–28 d),25,75,D
+,F18+ ETEC,Weaned (21–28 d),0,25,M
+"Marquardt et al.
+[34]",K88+ ETEC,"Neonatal
+(3-day-old)",12.5,62.5,M
+,K88+ ETEC,Weaned (21-day-old),0,30,M
+,K88+ ETEC,Weaning (14-18-days-old),1.9,3.9,D
+"Owsu-Asiedu et al.
+[36]","K88+, F18+, F41+ ETEC",Early-weaned (10-day-old),30,73,D
+,"ETEC K88+, F18, F41",Early-weaned (10-day-old),33,100,D
+"Owsu-Asiedu et al.
+[37]",K88 + ETEC,Early-weaned (10 ± 1 days old),6.6,40,M
+"Owsu-Asiedu et al.
+[38]",K88 + ETEC,Early-weaned (10-day-old),0,33,M
+"Chernysheva et al.
+[76]",K88 + ETEC,Newly weaned (about 22-day-old),66,58.3,D
+"Chu et al.
+[86]",K88 + ETEC,"Neonatal
+(3-day-old)",16.7,66.7,M
+"Li et al.
+[83]",K88 + ETEC,Weaned (40-day-old),0,75,D
+Therapeutic effect,,,,,
+Ref.,Pathogens,Piglet age,,,
+"Yokoyama et al.
+[27]",K88 + ETEC,Newborn,0,86,M
+,K99 + ETEC,Newborn,0,100,M
+,987P + ETEC,Newborn,0,80,M
+"Yokoyama et al.
+[87]",F18+ ETEC,Weaned (28-day-old),0,11,D
+"Yang et al.
+[88]",K88 + ETEC,Newborn,0,85.7,M
+,K99 + ETEC,Newborn,0,100,M
+,987P + ETEC,Newborn,0,80,M
+"Xu et al.
+[89]",K88 + ETEC,Newborn,0,33.3,M
+,K99 + ETEC,Newborn,0,66.7,M
+,987P + ETEC,Newborn,0,50,M
+"Chu et al.
+[86]",K88 + ETEC,Weaned (21-day-old),0,25,M

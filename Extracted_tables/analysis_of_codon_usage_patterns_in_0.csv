@@ -1,0 +1,21 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+,matted on the upper functional scale.,,,,,,"ging from 32.8–58.2, which indicated different",,,,trends in
+Table 1 Relative synonymous codon usage (RSCU) values of coding sequences (CDSs),,,,,,,,in Hirudinaria manillensis,,,
+AA,Codon,RSCU,AA,Codon,RSCU,AA,Codon,RSCU,AA,Codon,RSCU
+Ala,GCU,1.06,His,CAC,1.111,Pro,CCA,1.16,Ser,UCG,0.907
+,GCG,0.438,,CAU,0.889,,CCC,0.883,,UCU,1.062
+,GCC,1.39,Ile,AUU,1.074,,CCU,1.134,Thr,ACC,1.134
+,GCA,1.113,,AUA,0.69,,CCG,0.823,,ACA,0.938
+Cys,UGU,0.81,,AUC,1.236,Gln,CAA,0.962,,ACG,0.895
+,UGC,1.19,Lys,AAA,0.981,,CAG,1.038,,ACU,1.032
+Asp,GAU,0.966,,AAG,1.019,Arg,AGA,1.025,Val,GUU,1.12
+,GAC,1.034,Leu,CUA,0.365,,AGG,0.975,,GUG,1.029
+Glu,GAG,0.837,,CUC,1.335,,CGA,1.379,,GUC,1.409
+,GAA,1.163,,CUG,1.334,,CGC,0.944,,GUA,0.442
+Phe,UUU,0.915,,CUU,0.967,,CGG,0.702,Trp,UGG,1
+,UUC,1.085,,UUA,0.546,,CGU,0.975,Tyr,UAC,1.15
+Gly,GGU,0.972,,UUG,1.454,Ser,AGC,1.061,,UAU,0.85
+,GGG,0.536,Met,AUG,1,,AGU,0.939,,,
+,GGC,0.948,Asn,AAC,1.087,,UCA,0.957,,,
+,GGA,1.544,,AAU,0.913,,UCC,1.074,,,
+"Notes: All codons except for stop codons were included in this analysis. AA: amino acids. Codons with RSCU > 1.25 are shown in bold, codons with RSCU < 0.75",,,,,,,,,,,

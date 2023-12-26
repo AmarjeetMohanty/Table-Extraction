@@ -1,0 +1,26 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
+,The present MERS-CoV-NP capture ELISA is potentially useful for,,,,,,,,,,MERS-CoV regardless of,,,,,the source of,,,,"the specimen, and should be",,,
+detecting MERS-CoV in dromedary camel samples and screening other,,,,,,,,,,,extremely useful for assessing viral shedding patterns in dromedaries as,,,,,,,,,,,,
+specimens,for MERS-CoV. Although the ancestral origin of,,,,,,,,,,well as searching for other animal sources of MERS-CoV.,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,1000 TCID50,,
+4.0,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,200 TCID50,,
+,,,,,,,,,,,,,,,,,,,,,100 TCID50,,
+3.5,,,,,,,,,,,,,,,,,,,,,,,
+OD450,,,,,,,,,,,,,,,,,,,,,20 TCID50,,
+,,,,,,,,,,,,,,,,,,,,,10 TCID50,,
+3.0,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,1 TCID50,,
+2.5,,,,,,,,,,,,,,,,,,,,,,,
+2.0,,,,,,,,,,,,,,,,,,,,,,,
+1.5,,,,,,,,,,,,,,,,,,,,,,,
+1.0,,,,,,,,,,,,,,,,,,,,,,,
+0.5,,,,,,,,,,,,,,,,,,,,,,,
+Cutoff = 0.19,,,,,,,,,,,,,,,,,,,,,,,
+0.0,,,,,,,,,,,,,,,,,,,,,,,
+,,,,V,,,,,,,U 1,1,2,3,4,5,6,7,8,9,10,11,12
+,,,,,,,V-A,V-B,V-C,C 43,,,,,,,,,,,,,
+PIV 1,PIV 2,PIV 3,PIV 4,S,A d V,P,,,,,,,,,,,,,,,,,
+"Flu A
+Flu B
+Flu C",,,,,,V H,,,,,N L63,229 E,,,,,,,,,,,

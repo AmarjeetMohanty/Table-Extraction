@@ -1,0 +1,18 @@
+0,1,2,3,4,5
+,Nsp14,,"L6136F, V6137S",,
+,Nsp13,,,,"T5132I, A5272S"
+,Nsp15,,,M6393I,
+,domain 0,"∆55 to 56 E57K, I166V",,T144I,K272T
+,domain A,"Q454D, D466G, ˆ477H","D405G, D428A, R490T",,T383N
+S1,,,,,
+,domain B/COE,,,F554S,
+,domain C & D,,S722R,,
+,,,"T779N, Q825H, S968A,",,
+,,"V811F, Q893K, A971V,",,"S887R, S968A, I1021S,",
+,ectodomain,,"H1045Q, D1165N,",,"G888R, E1287Q"
+,,"G1009V, F1015L",,"R1026K, L1252R",
+,,,"F1210Y, S1218G, I1304L",,
+S2,,,,,
+,,,,,"F1380H,"
+,cytoplasmic tail,E1379 stop,C1354F,"C1354F, C1358F","E1380D,"
+,,,,,1381stop

@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6,7,8
+across the three statistical software.,,,,,,,,
+Rank,geNorm,,NormFinder,,,BestKeeper,,
+,Gene,M value,Gene,SD,,Gene,SD,
+1,HMBS,0.262,HMBS,,0.199,HPRT1,,0.190
+2,GAPDH,0.273,ALB,,0.226,HMBS,,0.230
+3,HPRT1,0.278,RPL4,,0.231,GAPDH,,0.260
+4,ALB,0.329,HPRT1,,0.284,RPL4,,0.280
+5,RPL4,0.340,GAPDH,,0.289,ALB,,0.280
+6,18S rRNA,0.360,18S rRNA,,0.297,ACTB,,0.300
+7,ACTB,0.403,CA2,,0.427,18S rRNA,,0.340
+8,CA2,0.435,ACTB,,0.435,CA2,,0.460
+9,CST3,0.463,CST3,,0.513,CST3,,0.490
+10,B2M,0.583,B2M,,1.008,B2M,,0.860
+,https://doi.org/10.1371/journal.pone.0180432.t008,,,,,,,

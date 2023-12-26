@@ -1,0 +1,21 @@
+0,1,2,3,4,5,6,7
+ARTICLE,,,,,,NATURE COMMUNICATIONS | DOI: 10.1038/ncomms2433,
+,Table 3 | Association of rs12252 to severe infection under different genetic models.,,,,,,
+Genetic model,,,Contingency table,,P-value,P-value,OR
+,,,,,(v2 approximately),(Fisher’s exact),(95% CI)
+General/genotypic,,CC,CT,TT,0.0005267,0.0004788,Heterozygote:
+,,,,,,,6.56 (2.33–18.5)
+Additive,Severe infection,22,8,2,0.0006196*,—,Homozygote:
+,,,,,,,5.92 (1.07–32.9)
+,Mild infection,13,31,7,,,
+Allelic/multiplicative,,C,T,,0.0008075,0.0007936,3.42 (1.63–7.17)
+,Severe infection,52,12,,,,
+,Mild infection,57,45,,,,
+Dominant,,CC þ CT,TT,,0.2864,0.4712,2.39 (0.46–12.3)
+,Severe infection,30,2,,,,
+,Mild infection,44,7,,,,
+Recessive,,CC,CT þ TT,,0.0001026,0.000201,6.43 (2.42–17.1)
+,Severe infection,22,10,,,,
+,Mild infection,13,38,,,,
+"CI, conﬁdence interval; OR, odds ratio.",,,,,,,
+*Uses Cochran-Armitage test,for trend.,,,,,,

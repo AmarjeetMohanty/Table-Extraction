@@ -1,0 +1,31 @@
+0,1,2,3,4,5
+SAITO ET AL.,,,,,
+TABLE 5,,Detection of the H9 HA gene from artificially reconstituted clinical samples spiked with H9N2 virus,,,
+Sample,Type or,Virus-,Type A rRT-PCR,H9 rRT-PCR,Other type/subtype rRT-PCR
+name,subtype,spike,assay†,assay†,assays†‡
+F16-9,H1N1pdm09,+,21.05,31.56,20.59
+,,−,21.06,N.D.,20.58
+F16-26,H1N1pdm09,+,20.62,31.62,20.74
+,,−,20.64,N.D.,20.78
+F16-61,H1N1pdm09,+,23.88,31.21,23.25
+,,−,23.01,N.D.,23.06
+F14-53,H3N2,+,19.13,31.68,18.54
+,,−,19.06,N.D.,18.48
+F15-7,H3N2,+,18.30,31.84,17.84
+,,−,19.31,N.D.,17.99
+F16-17,H3N2,+,16.73,31.72,16.31
+,,−,17.45,N.D.,16.48
+F15-15,Type B,+,32.61,32.42,23.12
+,,−,N.D.,N.D.,22.77
+F16-44,Type B,+,32.31,32.02,21.52
+,,−,N.D.,N.D.,21.16
+F16-56,Type B,+,33.32,31.35,18.75
+,,−,N.D.,N.D.,18.90
+F16-52,−,+,32.35,31.57,N.T.
+,,−,N.D.,N.D.,N.T.
+F16-68,−,+,32.64,31.70,N.T.
+,,−,N.D.,N.D.,N.T.
+F16-76,−,+,32.12,31.67,N.T.
+,,−,N.D.,N.D.,N.T.
+PBS,−,+,31.51,31.43,N.T.
+,,−,N.D.,N.D.,N.T.

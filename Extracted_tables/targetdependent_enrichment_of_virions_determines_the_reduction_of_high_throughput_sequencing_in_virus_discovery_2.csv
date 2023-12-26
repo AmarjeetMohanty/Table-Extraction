@@ -1,0 +1,11 @@
+0,1,2,3,4
+,Table 4. Expected and observed proportion of reads in RNA shotgun libraries.,,,
+,,Proportion of viral reads* (expected / observed),,
+Sample,EV,aRNA,HIV-1,HPV-18
+1,0.00 / 0.48,ND,"71,539# / 71,539",0.00 / 0.96
+2,0.12 / 1.6,ND,"2,611 / 5,788",0.03 / 0.00
+3,0.13 / 1.7,ND,"297 / 1,058",0.03 / 0.28
+4,1.7 / 16,ND,37 / 102,0.38 / 5.2
+5,2.1 / 13,ND,4.6 / 18,4.6 / 54
+6,17 / 109,ND,4.6 / 36,37 / 273
+7,264# / 264,ND,0.00 / 47,592# / 592

@@ -1,0 +1,13 @@
+0,1,2,3,4
+Table 2. Comparative genomic analysis of the outbreak Z9/WH strain with strain CDC228.,,,,
+Region,Location(CDC228),Gene,,Nucleotide Change (amino acid substitution)
+,,,CDC228,Z9/WH
+E1B,1631,20 kDa small T antigen,G(W),C(C)
+E2B,5069,DNA polymerase,Ta,C
+,7842,,T(243rdE),G(A)
+,7882,,G(230thL),C(V)
+,8057,,G,A
+,8081,,G,A
+L1,10748,VAII,TTT,–b
+L2,15453,non-coding region,AAAAAA,–
+E3,28601,20.3 kDa glycoprotein,A(I),G(V)

@@ -1,0 +1,31 @@
+0,1,2,3,4
+,Table 3. Comparison of exposures in LBMs with AIV (H5N1) environmental contamination and in LBMs with no environmental AI,,,
+"(H5N1) contamination, Indonesia, 2007–2008*",,,,
+,"No. positive markets,","No. negative markets,",,
+Exposure,n = 39,n = 44,OR (95% CI),p value
+No. ducks other than Muscovy in LBM,,,,
+<11,8,11,Reference group,
+11–100,12,16,1.03 (0.32–3.35),0.959
+101–200,2,2,4.13 (0.16–11.95),0.773
+>200,10,2,6.88 (1.17–40.38),0.033
+Muscovy ducks,28,20,3.05 (1.22–7.63),0.017
+Pigeons,11,5,3.06 (0.96–9.81),0.059
+Clear zoning in LBM,3,10,0.28 (0.07–1.11),0.072
+Wooden tables,23,12,3.83 (1.53–9.62),0.004
+Slaughtering in LBM,36,34,3.53 (0.89–13.93),0.072
+Daily solid waste disposal,24,35,0.41 (0.16–1.09),0.075
+Mixing of species in same cage,13,6,2.92 (0.98–8.70),0.055
+Cages stacked vertically,25,33,0.38 (0.13–1.10),0.069
+Province,,,,
+Jakarta,23,8,Reference group,
+West Java,25,16,4.49 (1.62–12.46),0.004
+Banten,6,5,3.45 (0.82–14.47),0.090
+Multivariable analysis†,,,,
+Clear zoning in LBM,,,0.16 (0.03–0.86)‡,0.030
+Slaughtering in LBM,,,6.43 (1.01–40.82)‡,0.048
+Daily solid waste disposal,,,0.20 (0.06–0.69)‡,0.010
+Province,,,,
+Jakarta,,,Reference group,
+West Java,,,6.83 (2.01–23.19)‡,0.002
+Banten,,,2.94 (0.59–14.69)‡,0.190
+,"*LBM, live-bird market; AI, avian influenza; OR, odds ratio; CI, confidence interval.",,,

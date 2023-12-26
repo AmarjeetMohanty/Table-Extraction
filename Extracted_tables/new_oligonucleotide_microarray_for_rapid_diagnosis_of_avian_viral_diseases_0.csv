@@ -1,0 +1,28 @@
+0,1,2,3,4,5
+Table 1 Viruses from the RIBSP microbial collection that were used in the work,,,,,
+№,Strain,,Taxonomy of virus,Strain description,"Year of
+isolation"
+Avian influenza virus,,,,,
+1,“A/duck/Alberta/35/76”,(H1N1),"Genus-Influenza virus A,",virulent,2015
+,,,Family-Orthomyxoviridae,,
+2,“A/duck/Germany/215”,(H2N3),,virulent,2013
+3,“A/duck/California/72”,(H3N8),,virulent,2013
+4,“A/duck/Czechoslovakia/56”,(H4N6),,virulent,2013
+Newcastle disease virus,,,,,
+5,,“Columba livia /KZ/EKO/15/2014”,"Genus-Rubulavirus,",virulent,2014
+,,,Family-Paramyxoviridae,,
+6,"“
+“Bor-74 VGNKI",,,vaccinal,2015
+7,“52/98”,,,virulent,2002
+8,“63/00”,,,virulent,2002
+Infectious bursal disease virus,,,,,
+9,“Vinterfild”,,"Genus-Avibirnavirus,",vaccinal,2004
+,,,Family-Birnaviridae,,
+10,“201”,,,virulent,2003
+11,“Koktal”,,,virulent,1998
+12,“52–70”,,,virulent,1997
+13,“BG”,,,vaccinal,2004
+Infectious bronchitis virus,,,,,
+14,“H-120”,,"Genus-Coronavirus,",vaccinal,2015
+,,,Family-Coronaviridae,,
+15,“10–95”,,,virulent,2005

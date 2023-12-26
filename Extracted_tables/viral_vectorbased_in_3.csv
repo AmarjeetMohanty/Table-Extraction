@@ -1,0 +1,46 @@
+0,1,2,3,4,5
+,,,,HUMAN VACCINES & IMMUNOTHERAPEUTICS,2891
+Table 3. Overview of adenovirus-based inﬂuenza vaccines.,,,,,
+Vector,Model,Antigen,Modiﬁcation,Subtype,Reference
+,,,,,"191,193-195,199,201-204,206"
+Adenoviruses,,HA,n/a,"H3N2, H5N1, H7N7, H9N2",
+,,,,,198
+,,HA,Soluble head,H1N1,
+,,,,,207
+,,HA,Glycan shielded,H5N1,
+,,,,,"192,208,209,214"
+,,NP,n/a,"H1N1, H5N1",
+,,,,,180
+,,M2,Consensus,n/a,
+,,,,,206
+,,HA/NP,n/a,"H5N1, H7N7, H9N2",
+,,,,,211
+,,HA/NA,n/a,H1N1,
+,,,,,216
+,,NP/M2,n/a,H1N1,
+,,,,,210
+,,NP/M2,Consensus,H1N1,
+,,,,,213
+,,HA/NA/M1,n/a,"H1N1, H5N!",
+,,,,,211
+,,NP/M1/M2,miRNAs,H1N1,
+,,,,,"203,215"
+,,HA,n/a,H5N1,
+,,,,,215
+,,NP,n/a,H5N1,
+,,,,,215
+,,M2,n/a,H5N1,
+,,,,,212
+,,HA/NA,Consensus,H1N1,
+,,,,,"215,216"
+,,NP/M2,n/a,"H1N1, H5N1",
+,,,,,215
+,,HA/NP/M2,n/a,H5N1,
+,,,,,"196,200"
+,,HA,n/a,"H1N1, H3N2",
+,,,,,196
+,,NP,n/a,H3N2,
+,,,,,196
+,,HA/NP,n/a,H3N2,
+,,,,,"202,205"
+,,HA,n/a,"H5N1, H7N3",

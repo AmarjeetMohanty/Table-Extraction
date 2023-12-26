@@ -1,0 +1,15 @@
+0,1,2,3,4
+Prachanronarong et al.,,,,
+TABLE 1 Sites inferred to be evolving under positive selectiona,,,,
+Expt no.,Segment,Protein,Nucleotide change,Amino acid change
+1,3,PA,T106C,L28P
+,4,HA,A398G,S123G
+,4,HA,G1147A,Synonymous
+,4,HA,A1410G,N460S
+,5,NP,T1148C,Synonymous
+,6,NA,G1004A,E329K
+2,2,PB1,G1950A,A643T
+,4,HA,A638G,N203V
+,4,HA,A639T,
+,6,NA,G1004A,E329K
+aPositive selection is deﬁned as 99% posterior probability of s (cid:3) 0.,,,,

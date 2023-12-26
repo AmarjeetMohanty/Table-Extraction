@@ -1,0 +1,15 @@
+0,1,2,3,4
+,,,,Universal Diagnostic Pathogen Microarray
+,Table 3. Microarray detection range for BKV+ urine samples.,,,
+Sample,Before Phi29a,After Phi29a,Input per Phi29-reactionb,Detected by LLMDA
+BKV1,46108,161011,26106,-
+BKV2,"819,400",5.761010,4100,-
+BKV3,"419,700",161011,2100,Yes
+BKV4,"15,810",1.761010,80,Yes
+BKV5,892,1.96108,5,Yes
+BKV6,119,11 910,0.6,No
+BKV7,73,0,0.4,-
+Note.,,,,
+aCopies/ml.,,,,
+bNumber of copies per 5 ml.,,,,
+doi:10.1371/journal.pone.0022631.t003,,,,

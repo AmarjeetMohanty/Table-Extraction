@@ -1,0 +1,50 @@
+0,1,2,3,4,5,6
+Geographic,WHO region,Country,Human,Percentage,Human/,Dog population
+area,,,population,rural,dog ratio,(estimated)
+,,,(estimated),,,
+,AFR,Botswana,"2,021,144",,9.5,
+,AFR,Namibia,"2,303,315",,9.5,
+,AFR,South Africa,"52,981,991",,9.5,
+,AFR,Swaziland,"1,249,514",,9.5,
+,AFR,Madagascar,"22,924,851",,9.5,
+,AFR,Lesotho,"2,074,465",,9.5,
+,Total SADC,,"292,678,308",,9.5,"30,808,243"
+North Africa,,,,,,
+,EMR,Morocco,"33,008,150",,31.2,
+,EMR,Algeria,"39,208,194",,31.2,
+,EMR,Tunesia,"10,886,500",,31.2,
+,EMR,Libya,"6,201,521",,31.2,
+,EMR,Egypt,"82,056,378",,31.2,
+,EMR,Western,"500,000",,31.2,
+,,Sahara,,,,
+,EMR,Sudan (+,"37,964,306",,31.2,
+,,south),,,,
+,Total North,,"209,825,049",,31.2,"6,725,162"
+,Africa,,,,,
+West Africa,,,,,,
+,AFR,Benin,"10,323,474",,16.8,
+,AFR,Burkina Faso,"16,934,839",,16.8,
+,AFR,Cape Verde,"498,897",,16.8,
+,AFR,Ivory Coast,"20,316,086",,16.8,
+,AFR,Gambia,"1,849,285",,16.8,
+,AFR,Ghana,"25,904,598",,16.8,
+,AFR,Guinea,"11,745,189",,16.8,
+,AFR,Guinea-,"1,704,255",,16.8,
+,,Bissau,,,,
+,AFR,Liberia,"4,294,077",,16.8,
+,AFR,Mali,"15,301,650",,16.8,
+,AFR,Niger,"17,831,270",,"16,8",
+,AFR,Nigeria,"173,615,345",,16.8,
+,AFR,Senegal,"14,133,280",,16.8,
+,AFR,Sierra Leone,"6,092,075",,16.8,
+,AFR,Togo,"6,816,982",,16.8,
+,Total West,,"327,361,302",,16.8,"19,485,792"
+,Africa,,,,,
+Other Africa,,,,,,
+,AFR,Uganda,"37,578,876",,9.5,"3,955,671"
+,AFR,Gabon,"1,671,711",,16.8,"99,507"
+,AFR,Nigeria,"173,615,345",,16.8,"10,334,247"
+,AFR,Equatorial,"757,014",,16.8,"45,060"
+,,Guinea,,,,
+,AFR,Chad,"12,825,314",,16.8,"763,412"
+,AFR,Rwanda,"11,776,522",,9.5,"1,239,634"

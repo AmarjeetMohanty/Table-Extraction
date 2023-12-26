@@ -1,0 +1,24 @@
+0,1,2,3,4,5,6,7,8
+,Vimentin,,,,,,,
+,,,,,1.5,,Huh7-TRIM55-NC,
+B,Huh7,,LM3,,,,,
+,,,,,,,Huh7-TRIM55-OE,***
+,,,,,,*,,
+,TRIM55-NC,TRIM55-OE,TRIM55-NC,TRIM55-OE,,,,
+,,,,,1.0,,,
+E-cadherin,,,,,Relative protein level target GAPDH,,,
+,,,,,,,**,
+,,,,,0.5,,,
+,,,,,0.0,,,
+Vimentin,,,,,,E-cadherin,Vimentin,MMP2
+,,,,,1.5,,,
+,,,,,,,LM3-TRIM55-NC,
+,,,,,,*,,*
+,,,,,,,LM3-TRIM55-OE,
+MMP2,,,,,,,,
+,,,,,1.0,,,
+,,,,,"Relative protein level target GAPDH
+0.5",,,
+GAPDH,,,,,,,*,
+,,,,,0.0,,,
+,,,,,,E-cadherin,Vimentin,MMP2

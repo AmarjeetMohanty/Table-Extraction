@@ -1,0 +1,38 @@
+0,1,2,3,4,5,6,7,8,9
+,,,,Table 5. Host protein inhibitors selected by phage display.,,,,,
+,,,,,,,Virus,,
+,,Target,,,,,,,
+Target,Library,,Biopanning procedure,Phagotope,Affinity,Inhibition,isolates,Additional,Reference
+,,presentation,,,,,,,
+,,,,,,,/clades,,
+CCR5,Human ScFv,Liposome,Five rounds,NA,NA,NA,NA,NA,[180]
+,,,,,,,,Inhibit CCR5 export,
+,Human VH-Rabbit ST6,CCR5 Nterm-GST,"Four rounds, acidic",Rabbit ST6,2.7 nM,,,,
+CCR5,,,,,,NA,NA,when expressed as,[184]
+,HCDRs,fusion,elution,Human ST6/34,8.5 nM,,,,
+,,,,,,,,intrabodies,
+,,,,,,NA,,P1: triggers reduced,
+,Randomized and,,,CCL5,IC50 = 4.1 nM,IC50 = 7.0,,signaling,
+,,"HEK-CCR5,",Recovery of internalized,,,,,,
+CCR5,extended CCL5,,,P1-CCL5,IC50 = 2 nM,nM,BaL,P2: superagonist,[185]
+,,CHO-CCR5,"phages, acidic elution",,,,,,
+,chemokine,,,P2-CCL5,IC50 = 0.2 nM,IC50 = 0.6,,inducing CCR5,
+,,,,,,nM,,sequestration,
+,,,,,,,,Superagonist +,
+,,,,,,,,sequestration,
+,Randomized and,,,6P4-CCL5,NA,IC50 = 21 pM,,,
+,,"HEK-CCR5,",Recovery of internalized,,,,,No signaling + no,
+CCR5,extended CCL5,,,5P12-CCL5,NA,IC50 = 28 pM,BaL,,[186]
+,,CHO-CCR5 cells,"phages, acidic elution",,,,,sequestration,
+,chemokine,,,5P14-CCL5,NA,IC50 = 26 pM,,,
+,,,,,,,,Internalization + no,
+,,,,,,,,signaling,
+,,,,A1 (ECL1),,,,,
+,,"ECL1, ECL2,",,,NA,25% a,,All active ScFv were,
+,,,,B7 (ECL2),,,,,
+CCR5,Mice and rats ScFV,ECL3 biotinylated,Alkaline elution,,NA,35% a,BaL,selected on cyclic,[181]
+,,,,L9 (ECL2),,,,,
+,,peptides,,,NA,25% a,,peptides,
+,,,"Four rounds, acidic",,,,,,
+CCR5,12-mer RPL,CHO-CCR5 cells,,AFDWTFVPSLIL,IC50 = 2.5 μM,NA,NA,Antagonist of CCR5,[179]
+,,,elution,,,,,,

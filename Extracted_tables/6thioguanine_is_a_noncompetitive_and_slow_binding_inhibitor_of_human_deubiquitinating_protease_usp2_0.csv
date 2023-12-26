@@ -1,0 +1,31 @@
+0,1,2
+,Human USP2-Ub-6TG complex,Human USP2 C276S mutant-Ub complex
+Data Collection,,
+Space group,C2,C2
+Cell dimensions,,
+"a, b, c (Å)","103.0, 54.7, 72.7","102.5, 54.0, 74.8"
+β (°),107.5,107.8
+Resolutiona (Å),30–1.80 (1.86–1.80),30–1.24 (1.28–1.24)
+"b (%)
+Rmerge",5.1 (46.6),3.4 (24.1)
+I/σI,19.9 (2.4),33.0 (5.7)
+Completeness (%),97.9 (80.1),98.5 (96.9)
+Redundancy,3.7 (3.5),3.6 (3.4)
+Refinement,,
+Number of reflections,"33,397 (4,726)","102,800 (14,652)"
+R factorc (%),17.9 (26.7),14.8 (15.9)
+Free R factord (%),23.8 (31.0),16.4 (18.2)
+Number of atoms,"3,568","3,761"
+Protein,"3,285","3,404"
+Ligand/ion,11/11,0/1
+Water,261,356
+B-factors (Å2),,
+Protein,38.9,14.7
+Ligand/ion,65.2 (40.7)e/57.9,−/13.7
+Water,50.9,23.9
+rmsd,,
+Bond length (Å),0.012,0.007
+Bond angles (°),1.5,1.2
+Ramachandran analysis (%),,
+Favored,91.6,92.6
+Allowed,8.4,7.5

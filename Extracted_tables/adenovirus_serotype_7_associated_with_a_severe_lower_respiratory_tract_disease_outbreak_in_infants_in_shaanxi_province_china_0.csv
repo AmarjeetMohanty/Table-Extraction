@@ -1,0 +1,40 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12
+,Table 2 Patients information and the results for 21 pharynx swabs and paired sera analysis,,,,,,,,,,,
+ID,gender,age,onset date,clinical diagnosis,multiplex,adenovirus,virus,,Adenovirus,,,Adenovirus nutralization
+code,,,,,PCR,type,,isolation,ELISA-,IgA,antibody titer,
+,,,,,,,,,,,Acute,convalescence
+,,,,,,,,,,,sera,sera
+1,male,1y,31/01/2009,bronchopneumonia,+,HAdV-7,-,,+,,1:32,1:128
+2,male,2y,31/01/2009,bronchopneumonia,+a,HAdV-3,-,,-,,1:128,1:128
+3,female,2y,31/01/2009,bronchopneumonia,+,HAdV-3,-,,+,,<1:8,1:128
+4,male,2y,09/01/2009,bronchopneumonia,+,HAdV-7,cell,,-,,1:32,1:128
+,,,,,,,,swallon,,,,
+,,,,,,,,,,,,d
+5,female,,10m 03/02/2009,bronchopneumonia,+,/,-,,-,,<1:8,
+,,,,,,,,,,,,d
+6,male,4m,05/02/2009,bronchopneumonia,+,HAdV-7,Cell,,+/-,,<1:8,
+,,,,,,,,swallon,,,,
+,,,,,,,,,,,,d
+7,female,1y,07/02/2009,bronchopneumonia,+,/,ND,,-,,1:32,
+,,,,,,,,,,,,d
+8,male,,10m 28/01/2009,congenital,+a,/,-,,+,,1:128,
+,,,,cardiopathy,,,,,,,,
+,,,,,,,,,,,,d
+9,male,9m,31/01/2009,bronchopneumonia,+,HAdV-7,-,,-,,<1:8,
+,,,,,,,,,,,,d
+10,female,5m,18/01/2009,bronchopneumonia,-c,/,-,,-,,<1:8,
+,,,,,,,,,,,,d
+11,female,1y,27/01/2009,bronchopneumonia,+,HAdV-7,-,,-,,1:32,
+,,,,,,,,,,,,d
+12,female,8y,27/01/2009,bronchopneumonia,-b,/,-,,-,,1:8,
+,,,,,,,,,,,,d
+13,female,1y,22/01/2009,bronchopneumonia,+,HAdV-7,-,,-,,1:32,
+14,female,9y,31/01/2009,bronchopneumonia,+,/,-,,-,,<1:8,1:8
+15,male,1y,23/01/2009,bronchopneumonia,+a,HAdV-7,-,,+,,1:8,1:128
+16,male,2y,23/01/2009,bronchopneumonia,+,/,cell,lysis,+/-,,<1:8,1:128
+17,male,2y,22/01/2009,bronchopneumonia,+,HAdV-3,-,,+,,1:8,1:32
+18,male,8m,28/01/2009,bronchopneumonia,-b,/,-,,+,,1:512,1:128
+19,female,1y,09/02/2009,bronchopneumonia,+,HAdV-7,-,,+/-,,1:8,1:512
+20,male,2y,09/02/2009,myocardial damage,-,/,cell,lysis,-,,1:8,1:32
+21,male,2y,29/01/2009,bronchopneumonia,+,HAdV-7,-,,-,,1:8,1:512
+,a Positive for adenovirus and human respiratory syncytial virus.,,,,,,,,,,,

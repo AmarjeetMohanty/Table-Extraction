@@ -1,0 +1,26 @@
+0,1,2,3,4,5
+Table 3 Indicators of,the model performance to detect,the beginning of an epidemic period,,,
+Region,Sensitivity (%),Speciﬁcity (%),PPV (%)*,NPV (%)**,Median timeliness
+All data,71Æ8,95Æ5,91Æ3,88Æ6,1
+Inﬂuenza-like Illness data,75Æ7,96Æ0,92Æ4,90Æ4,1
+Belgium,94Æ6,98Æ7,97Æ3,97Æ3,0
+Castilla y Leon,77Æ3,98Æ4,96Æ4,91Æ5,0
+Greece,85Æ5,93Æ6,90Æ6,95Æ2,0Æ5
+Hungary,76Æ8,93Æ5,92Æ9,88Æ7,1
+Ireland,55Æ4,96Æ1,93Æ9,83Æ8,2
+Israel,72Æ6,96Æ4,93Æ9,88Æ1,1
+Kyrgyzstan,80Æ0,92Æ0,81Æ5,88Æ1,1
+Norway,59Æ6,91Æ4,88Æ4,81Æ7,4Æ5
+Poland,68Æ4,94Æ2,88Æ9,90Æ3,1Æ5
+Portugal,69Æ7,97Æ7,93Æ5,85Æ3,0
+Romania,74Æ1,95Æ1,87Æ5,91Æ6,2
+Slovenia,83Æ1,98Æ8,95Æ1,95Æ8,0Æ5
+Spain,77Æ5,98Æ3,95Æ9,90Æ5,1
+Switzerland,92Æ3,97Æ1,93Æ1,97Æ3,0
+The Netherlands,68Æ2,98Æ6,96Æ7,90Æ8,2
+Acute Respiratory Infection data,60Æ1,94Æ1,88Æ2,83Æ3,2
+Albania,50Æ0,94Æ8,90Æ0,69Æ3,4
+Kazakhstan,72Æ5,89Æ6,83Æ8,80Æ2,1
+Romania,51Æ3,95Æ0,89Æ4,86Æ5,2
+Russian Federation,76Æ6,95Æ6,90Æ2,95Æ0,1
+Ukraine,50Æ2,95Æ7,87Æ7,85.3,2

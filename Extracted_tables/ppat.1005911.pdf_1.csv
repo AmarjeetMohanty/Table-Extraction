@@ -1,0 +1,44 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13
+,conserved,,,,,,,,,,,,
+,motif or,,,,,,,,,,,,
+,feature,,,,,,,,,,,,
+,,Cardio-,Dicipi-,Galli-,Kobu-c,Megri-,Osci-,Parecho-,Passeri-,Sapelo-,Rosa-,Rosa-,Rosa-
+5’UTR,Pattern:Yn-,Y9X18,"5’UTR,",Y10X32,Y7X11,No,Y6X19-34,Y7X20,Y9X19,Y16-17 X17-18,Y7X18-19,Y7X19-20,Y6-7X20-22
+,Xm-AUG,(Cardiovirus,Y10X50;,(ChGV1),(Aichiviru,,(Oscivirus,(Parechovirus,(Passeriviru,(Sapelovirus B),(Rosaviur,(proposed,(proposed
+,,A),"IGR, Y8X19",,A),,A),A),A),,A),“Rosavirus,“Rosavirus
+,,,(Cadiciviru,,,,,,,,,B”),C”)
+,,,A),,,,,,,,,,
+,"IRES[5, 72, 73]",Type II,Undeﬁned,Type II-,“Type V”*,Undeﬁned,“Type V”,Type II,Undeﬁned,Type IV,Type II,Type II,Type II
+,,,,like,,,,,,,,,
+L,"Protease [74,",Y/Na,N,Y/Na,Y/Na,N,Y/Na,N,Y/Na,Y/Na,N,N,N
+,75],,,,,,,,,,,,
+VP0,Cleaved into,Y,Y,N,N,N,N,N,N,Y,Y,Y,Y
+,VP4 and VP2,,,,,,,,,,,,
+,Myristylation,Y,N,Y,Y,N,Y,N,Y,Y,Y,variable,N
+,site GXXX[ST],,,,,,,,,,,,
+,[43]:,,,,,,,,,,,,
+VP1,Motif: [PS],N,N,N,N,N,N,N,N,Y,N,N,N
+,ALXAXETG,,,,,,,,,,,,
+2A,"Functions [44,",NPGP,Unknownb,H-box/,H-box/NC,H-box/NC,Unknownb,H-box/NC in,H-box/NC,Chymotrypsin-,H-box/NC,H-box/NC,H-box/NC
+,76]:,,,NC,,,,HPeV and LV;,,like protease or,,,
+,,,,,,,,NPGP in LV,,unknownb,,,
+2C,NTPase motif,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+,GXXGXGKS,,,,,,,,,,,,
+,[46]:,,,,,,,,,,,,
+,Helicase,Y,Y,DDIGQ,DD[LI]GQ,DDFCQ,Y,DD[LA]GQ,DDVGQ,Y,Y,Y,Y
+,DDLXQ [47],,,,,,,,,,,,
+3Cpro,Catalytic triad,H-D-C,H-E-C,H-E-C,H-E-C,H-D-C,H-E-C,H-D-C,H-E-C,H-E-C,H-D-C,H-D-C,H-D-C
+,H-D/E-C [49]:,,,,,,,,,,,,
+,RNA-binding,N,N,N,N,N,N,N,N,Y,N,N,N
+,domain motif,,,,,,,,,,,,
+,KFRDI [50],,,,,,,,,,,,
+,"GXCG, GXH",Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+,motif [49],,,,,,,,,,,,
+3Dpol,Motif: KDE[LI],Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+,R [51],,,,,,,,,,,,
+,Motif: GG,Y,GAMPSG,Y,Y,Y,GGMPS,Y,Y,Y,GAMPSG,GAMPSG,GAMPSG
+,[LMN]PSG [51],,,,,,[GR],,,,,,
+,Motif: YGDD,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+,[51],,,,,,,,,,,,
+,Motif: FLKR,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+,[51],,,,,,,,,,,,

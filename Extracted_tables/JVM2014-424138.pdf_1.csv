@@ -1,0 +1,39 @@
+0,1,2,3,4,5,6
+Unknown,511,"19
+3.7 (2.3–5.7)",,13,,2.5 (1.4–4.3)
+,aTotal number of cats tested for FIV and FeLV infection. Cats were tested at the same time for both FIV and FeLV infections.,,,,,
+,bCI: confidence intervals for seroprevalence estimates with 𝛼 = 0.05.,,,,,
+,,(b),,,,
+Infection,Aggregation level,"Characteristicsa
+Total",Mean,,SDb,Range
+,,Seroprevalence,3,,2,0–13
+,State,"Cases
+915",18.67,,35.14,0–221
+,,"Tested
+28914",590.08,,903.01,8–5732
+,,Seroprevalence,4,,5,0–50
+FIV,County,"Cases
+915",2.64,,5.28,0–59
+,,"Tested
+28914",83.57,,125.81,1–958
+,,Seroprevalence,4,,7,0–100
+,Postal code,"Cases
+915",1.43,,1.78,0–26
+,,"Tested
+28914",45.11,,61.58,1–838
+,,Seroprevalence,3,,3,0–20
+,State,"Cases
+783",15.98,,25.25,0–145
+,,"Tested
+28914",590.08,,903.01,8–5732
+,,Seroprevalence,3,,4,0–33
+FeLV,County,"Cases
+783",2.26,,4.24,0–47
+,,"Tested
+28914",83.57,,125.81,1–958
+,,Seroprevalence,3,,6,0–100
+,Postal code,"Cases
+783",1.22,,2.12,0–19
+,,"Tested
+28914",45.11,,61.58,1–838
+"aThe descriptive statistics for seroprevalence pertain to mean value among states, counties, or postal codes. For example, min. and max. seroprevalence",,,,,,

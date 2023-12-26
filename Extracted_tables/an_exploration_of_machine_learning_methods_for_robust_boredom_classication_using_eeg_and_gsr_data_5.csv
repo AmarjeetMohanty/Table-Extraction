@@ -1,0 +1,20 @@
+0,1,2,3
+,,Table 9. Selected features by WSE in each model.,
+,EEG-GSR,EEG,GSR
+,ABP Delta FP1 std,ABP Beta FP2 mean,
+,ABP Gamma FP2 mean,ABP Gamma FP2 mean,MV std
+MLP,,,
+,NABP Delta FP2 mean,NABP Alpha FP1 std,NMV mean
+,MV std,DASM Alpha,
+,ABP Beta FP2 mean,,
+,ABP Gamma FP2 mean,,
+,,NABP Alpha FP1 std,MV std
+NB,NABP Alpha FP1 mean,,
+,,DE Beta FP1,NMV std
+,NABP Beta FP1 mean,,
+,MV std,,
+,,ABP Gamma FP2 mean,
+,NABP Beta FP2 mean,,MV std
+RF,,NABP Beta FP2 mean,
+,MV std,,SR mean
+,,Alpha RASM,

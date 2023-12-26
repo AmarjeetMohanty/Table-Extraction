@@ -1,0 +1,23 @@
+0,1,2,3,4,5
+Wilcoxon’s rank-sum test was used to analyze variables that did not follow normality.,,,,,
+,,Table 7: Foundational statistics and comparison between test groups in terms of serum cytokine levels.,,,
+Variable,Group,Mean,Std. dev.,𝑇-value,𝑝 value
+,EAP group,–1.12,6.57,,
+IFN-𝛾,,,,0.36,0.6398
+,Placebo group,–0.51,8.07,,
+,EAP group,0.52,2.28,,
+IL-1𝛽,,,,–0.26,0.3987
+,Placebo group,0.40,1.96,,
+,EAP group,0.31,1.29,,
+IL-10,,,,–0.81,0.2107
+,Placebo group,–0.24,4.01,,
+,EAP group,0.21,0.78,,
+IL-6,,,,–0.93,0.1782
+,Placebo group,0.01,1.07,,
+,EAP group,–10.53,47.64,,
+IL-8,,,,1.18,0.8772
+,Placebo group,–1.36,5.00,,
+,EAP group,0.96,1.41,,
+TNF-𝛼,,,,–0.69,0.2464
+,Placebo group,0.74,1.31,,
+Missing values were replaced with averages and used in the ITT group data analysis.,,,,,

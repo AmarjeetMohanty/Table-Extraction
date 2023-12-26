@@ -1,0 +1,37 @@
+0,1,2,3,4,5
+"Table 2. The composition of the inflow of confirmed imported cases by country and by region (from May 24 to Dec 31, 2009)",,,,,
+,,,No. travelers,Case proportion,Case proportion
+Region,Country,n,,,
+,,,by all countries,by country,by region
+Oceania,Australia,21,"138,097",0.15,0.199
+,New Zealand,8,"32,161",0.25,
+,Saipan*,2,-,-,
+,An incorporated territory of the United States (Guam),5,362,13.81,
+,Sum,36,"170,620",,
+South America,Brazil,2,"16,890",0.12,0.118
+,Sum,2,"16,890",,
+Southeast Asia,Philippines,54,"419,591",0.13,0.071
+,Thailand,26,"592,021",0.04,
+,Vietnam,15,"274,900",0.05,
+,Malaysia,5,"129,789",0.04,
+,Indonesia,11,"154,282",0.07,
+,Sum,111,"1,570,583",,
+North America,United States,52,"1,055,295",0.05,0.049
+,Canada,6,"112,051",0.05,
+,Hawaii*,1,-,-,
+,Sum,59,"1,167,346",,
+Europe,Finland,3,"26,266",0.11,0.035
+,England,8,"68,285",0.12,
+,Italy,1,"24,698",0.04,
+,France,3,"118,173",0.03,
+,Russian Federation,3,"140,996",0.02,
+,Germany,2,"201,420",0.01,
+,Czech Republic,1,"19,640",0.05,
+,Sum,21,"599,478",,
+Northeast Asia,Japan,28,"3,722,912",0.01,0.016
+,Hong Kong Special Administrative Region,10,"15,839",0.63,
+,Singapore,20,"253,929",0.08,
+,Taiwan,9,"312,315",0.03,
+,People’s Republic of China,65,"3,888,930",0.02,
+,Sum,132,"8,193,925",,
+Total,,361,"11,718,842",0.031,

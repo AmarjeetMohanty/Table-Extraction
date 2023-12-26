@@ -1,0 +1,21 @@
+0,1,2,3,4
+,"Table  1.  Male-specific  ssRNA  coliphages  (FRNA),  family  Leviviridae,  genus  Levivirus,",,,
+strain origins and identifications.,,,,
+Strain,Genogroup,Source,Origin,Accession number
+MS2,I,sewage,"Berkeley, CA",NC_001417
+M12,I,sewage,Germany,AF195778
+DL1,I,river water,"Tijuana River, CA",EF107159
+DL2,I,bay water,"Delaware Bay, DE",N/A
+DL13,I,oyster,"Whiskey Creek, NC",N/A
+DL16,I,bay water,"Great Bay, NH",EF108464
+J20,I,chicken litter,South Carolina,EF204939
+ST4,I,unknown,unknown,EF204940
+R17,I,sewage,"Philadelphia, PA",EF108465
+fr,I,dung hill,"Heidelberg, Germany",X15031
+DL52,I-JS,bay water,"Rachel Carson Reserve, NC",JQ966307
+DL54,I-JS,bay water,"Narragansett Bay, RI",JQ966308
+GA,II,sewage,"Ookayama, Japan",NC_001426
+KU1,II,sewage,Kuwait,AF227250
+DL10,II,mussel,"Tijuana River, CA",FJ483837
+DL20,II,clam,"Narragansett Bay, RI",FJ483839
+T72,II,bird,"Talbert Marsh sandflats, CA",FJ483838

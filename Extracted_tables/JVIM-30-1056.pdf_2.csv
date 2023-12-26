@@ -1,0 +1,42 @@
+0,1,2,3,4,5,6
+,,,,Each Pathogen,Least One,
+,,Fecal Calprotectin,,Evaluated,Parasite,Shedding
+,,Concentration,Initial Unadjusted,Individually,or One Virus,of at Least One
+Variables,,Median [range],Analysis (P-Value),(P-Value),(P-Value),Pathogen (P-Value)
+Age,,,.001,,,
+5–6 weeks,,17.8 [2.9–352.9],–,–,–,–
+7–8 weeks,,18.8 [2.9–421.4],,.202,.203,.177
+9–11 weeks,,5.5 [2.9–69.3],,.004,.002,.002
+Breed size,,,,,,
+Small,,19.8 [2.9–222.5],.096,.139,.218,.217
+Large,,11.9 [2.9–421.4],,,,
+Fecal score,,,,,,
+Normal,,14.6 [2.9–421.4],.851,–,–,–
+Abnormal,,18.1 [2.9–127.3],,,,
+Giardia,,,,,,
+No shedding,,19.6 [2.9–421.4],.007,.602,–,–
+Shedding,,6.5 [2.9–222.5],,,,
+Cystoisospora ohioensis,,,,,,
+No shedding,,9.9 [2.9–352.9],.104,.056,–,–
+Shedding,,2.5 [2.9–421.4],,,,
+Cystoisospora canis,,,,,,
+No shedding,,15 [2.9–421.4],.348,.73,–,–
+Shedding,,15.3 [2.9–352.9],,,,
+Toxocara canis,,,,,,
+Not shedding,,11.9 [2.9–352.9],.005,.87,–,–
+Shedding,,3.4 [2.9–421.4],,,,
+CPV2,,,,,,
+No shedding,,14.2 [2.9–421.4],.692,.65,–,–
+Shedding,,18 [2.9–352.9],,,,
+CCV,,,,,,
+No shedding,,17 [2.9–421.4],.127,.67,–,–
+Shedding,,6.5 [2.9–123.8],,,,
+Infection by at,least one virus,,.502,–,.863,–
+No shedding,,16.7 [2.9–421.4],,,,
+Shedding,,1.9 [2.9–352.9],,,,
+Shedding of at,least one parasite,,.788,–,.791,–
+No shedding,,16.5 [2.9–93],,,,
+Shedding,,13.9 [2.9–421.4],,,,
+Shedding of at,least one enteropathogen,,.92,–,,.695
+No shedding,,16.5 [2.9–93],,,,
+Shedding,,13.9 [2.9–421.4],,,,

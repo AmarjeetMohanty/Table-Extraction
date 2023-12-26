@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6
+,,A. Sensitivity and specificity of BioT DNA assay.,,,,
+Organism,,,,,,
+,Francisella,Bacillus,Bacillus,,,
+,,,,Yersinia pestis,VZV,Variola major
+D,tularensis,anthracis (pX01),anthracis (pX02),,,
+etail,,,,,,
+,1×104,1×104,1×105,1×105,1×100,1×104
+Spiking Concentration,,,,,,
+,copies/ml,copies/ml,copies/ml,copies/ml,TCID50/ml,copies/ml
+OD(mean±SD),2.643±0.843,2.727±1.294,3.289±0.289,2.638±0.458,3.968±0.074,3.564±0.464
+Sensitivity,100%(20/20),95%(19/20),,,,
+,,,100%(20/20),100%(20/20),100%(20/20),100%(20/20)
+(95%CI),(83-100%),(75-100%),,,,
+Negative Controls,(-),(-),(-),(-),(-),(-)
+M4 NEG controls,6/6,6/6,6/6,6/6,6/6,6/6
+,,0.434 VM,,,,0.733 VZV
+False Positive,,,,,,
+,,(re-amp -),,,,(re-probe -)
+This experiment,,,,,,
+,100%(100/100),,,,99%(99/100),
+"Specificity, 
+clinical",,100%(100/100),100%(100/100),100%(100/100),,99%(99/100)
+,(96-100%),,,,(95-100%),
+(95%CI),,,,,,
+Specificity-Controls,100%(36/36),,,,,
+,,100%(36/36),100%(36/36),100%(36/36),100%(36/36),100%(36/36)
+(95%CI),(90-100%),,,,,
+"Specificity, overall",100% (400/400),,,,99.8%(399/400),
+,,100%(400/400),100%(400/400),100%(400/400),,99.8%(399/400)
+(95%CI),(99-100%),,,,(99-100%),

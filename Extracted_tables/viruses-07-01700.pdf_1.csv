@@ -1,0 +1,17 @@
+0,1,2,3
+,Table 2. Summary of the roles of the retention signals of several CoV-S proteins.,,
+,,Tyrosine-Dependent Localization/,
+Genus,Species,,ER Retrieval Signal
+,,Internalization Signals (I.S.),
+,,YxxI motif,KxHxx motif
+,TGEV,Main retention signal. Not I.S. [109],Not main retention signal [109]
+Alpha CoV,,,Retention of reporter protein [38]
+,,YxxF motif,KxHxx motif
+,PEDV,,
+,,Not studied,Retention signal [114]
+,,,KxHxx motif
+Beta CoV,SCoV,,
+,,,Weak retention signal [110]
+,,YxxF motif,KKxx motif
+Gamma CoV,IBV,Main retention signal. Not I.S. [111],Main retention signal [38]
+,,I.S. Not main retention signal [38],Not main retention signal [111]

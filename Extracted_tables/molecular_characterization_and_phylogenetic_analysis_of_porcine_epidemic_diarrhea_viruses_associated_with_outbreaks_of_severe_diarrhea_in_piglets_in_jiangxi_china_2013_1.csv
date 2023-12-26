@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6,7,8
+,"Table 2. Unique nucleotide/amino acid substitutions among the coding regions and UTRs between CH/JX-1/2013, CH/JX-2/2013 and the",,,,,,,
+reference strainsa.,,,,,,,,
+Gene or ORF,,,nucleotideb changes,,,,amino acidc changes,
+,Position in,Reference,CH/JX-,CH/JX-,Position in aa,Reference,CH/JX-,CH/JX-
+,genomea,strains,1/2013,2/2013,sequenceb,strains,1/2013,2/2013
+ORF1a (293–,1152,T,C,C,,,,
+12646),,,,,,,,
+,1196,A,G,G,aa 300,N,S,S
+,1311,G,T,T,,,,
+,4124,C,T,T,aa 1276,A,V,V
+,5298,C,T,T,,,,
+,8032,C,T,T,aa 2579,H,Y,Y
+,8605,G,T,T,,,,
+,9057,T,C,C,,,,
+,9267,G,T,T,,,,
+,9991,C,T,T,aa 3232,H,Y,Y
+ORF1b (12811–,13511,T,C,C,,,,
+20637),,,,,,,,
+,16502,T,C,C,,,,
+,17462,C,A,A,,,,
+,19240,A,G,G,aa 2142,K,R,R
+,20112,G,T,T,aa 2433,V,F,F
+,20404,C,T,T,aa 2530,A,V,V
+,20443,C,A,A,aa 2543,P,Q,Q
+S (20634–,21650,C,T,T,aa 337,A,V,V
+24794),,,,,,,,
+,21955,C,T,T,,,,
+,21937,C,T,T,,,,
+,22402,T,G,G,aa 587,D,E,E
+,22485,T,A,A,aa 615,F,Y,Y
+,22893,C,T,T,aa 751,T,I,I
+,24779,C,A,A,aa 1380,L,I,I
+N (26379–,26614,A,T,T,,,,
+27704),,,,,,,,
+,27638,G,T,T,aa 408,V,L,L

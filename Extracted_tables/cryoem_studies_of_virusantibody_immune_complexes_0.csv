@@ -1,0 +1,48 @@
+0,1,2,3,4,5,6
+Table 1,Summary of cryo-EM structures from picornavirus-antibody complexes in the Electron Microscopy Data Bank (EMDB) (https://www.,,,,,
+ebi.ac.uk/pdbe/emdb/).,,,,,,
+Genus,Virus name,Antigen,Antibodya,Fragment,EMD codes,Resolution
+,,,,,,(A˚ )
+Enterovirus,Coxsackievirus (CV),CV-A6 A-particle,1D5,Fab,6757,3.8
+,,CV-A10 A-particle,2G8,Fab,9603,4.3
+,,CV-A10 mature virion,2G8,Fab,9604,3.9
+,,CV-A10 procapsid,2G8,Fab,9605,4.2
+,Enterovirus (EV),EV-A71 mature virion,MA28-7,Fab,5673,23.4
+,,,E18,Fab,2397,10
+,,,E19,Fab,2436,13
+,,,D5,IgG,6365,7.2
+,,,D5,Fab,6366,4.8
+,,EV-A71 procapsid,D5,Fab,6383,6
+,,,22A12,Fab,6200,8.8
+,,,E18,Fab,2434,16
+,,,D6,Fab,6963,4.9
+,,,A9,Fab,6964,6.8
+,,EV-A71 VLP,D5,IgG,6384,5.5
+,,EV-D68 mature virion,15C5,Fab,9633,3.6
+,,,15C5/,Fab,9634,3.5
+,,,11G1,,,
+,,EV-D68 A-particle,11G1,Fab,9636,7.2
+,Poliovirus (PV),PV1 mature virion,A12,Fab,5670,12
+,,,C3,Fab,5291,11.1
+,,,PVSP6A,VHH,5886,4.8
+,,,PVSP29F,VHH,5888,6.5
+,,,PVSS8A,VHH,6433,4.2
+,,,PVSP19B,VHH,6434,4.8
+,,,PVSS21E,VHH,6435,3.8
+,,PV2 mature virion,A12,Fab,5671,20
+,,PV1 procapsid,P1,Fab,5283/5284/5285/,13/21/18/18
+,,,,,5286,
+,,,C3,Fab,5293,22
+,,PV1 A-particle,P1,Fab,5280/5282,12/26
+,,,C3,Fab,5292,9.1
+,,,PVSP17B,VHH,8285,5.3
+,,,PVSS12B,VHH,8285,5.3
+,,,PVSS10E,VHH,8277,4.8
+,,,PVSS7A,VHH,8286,5.3
+,Rhinovirus (RV),RV B14 mature virion,C5,Fab,8754/8761/8762,2.53/2.71/
+,,,,,,2.26
+,,RV B14 procapsid,C5,Fab,8763,3.01
+Aphthovirus,Foot-and-mouth disease virus,FMDV-O mature,D9,Fab,0173,3.97
+,(FMDV),virion,,,,
+Parechovirus,Human parechovirus (HPeV),HPeV-3 mature virion,AT12-015,Fab,0069/3138,2.8/15
+,,HPeV-1 mature virion,AM28,Fab,2761,19.76

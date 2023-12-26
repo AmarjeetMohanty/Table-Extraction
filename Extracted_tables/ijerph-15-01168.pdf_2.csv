@@ -1,0 +1,13 @@
+0,1,2
+Household Income,0.012,0.039
+Social Class,−0.003,0.017
+Perceived Health State,−0.113 ***,0.031
+Perceived Knowledge,0.079 ***,0.029
+F-Value,,17.721 ***
+R2,,0.378
+Ad. R2,,0.356
+F1’s F-value/R2,,0.009/3.677 **
+F2’s F-value/R2,,0.049/6.540 ***
+F3’s F-value/R2,,0.313/91.644 ***
+F4’s F-value/R2,,0.057/6.349 ***
+,* p < 0.1; ** p < 0.05; *** p < 0.01.,

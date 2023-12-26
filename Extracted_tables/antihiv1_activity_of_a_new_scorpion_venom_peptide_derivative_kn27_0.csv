@@ -1,0 +1,13 @@
+0,1,2,3,4
+,,,"are denoted by a * (p,0.05), ** (p,0.01), and *** (p,0.001). Data are",
+,,,expressed as mean 6 SD of,three replicate samples.
+,,,doi:10.1371/journal.pone.0034947.g001,
+"Table 1. The charge,",,first and predict secondary structure of scorpion venom peptides.,,
+Peptide,Amino Acid Sequence,Charge,Cationic(%),Structure Prediction
+BmKn2,FIGAIARLLSKIF,2,15.38,chhhhhhhhhhcc
+Kn2-7,FIKRIARLLRKIF,5,38.46,chhhhhhhhhhhc
+mucroporin,LFGLIPSLIGGLVSAFK,1,5.88,cccchhhhhhhhhhhhc
+mucroporin-M1,LFRLIKSLIKRLVSAFK,5,29.41,chhhhhhhhhhhhhhhc
+mucropotin-S1,SLIGGLVSAFK,1,9.09,ccccccceccc
+"h: alpha helix, c:","random coil, e: extended strand.",,,
+doi:10.1371/journal.pone.0034947.t001,,,,

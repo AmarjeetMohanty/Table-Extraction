@@ -1,0 +1,47 @@
+0,1,2,3,4
+,Table 2 Ct values of FCoV RNA extracted from clinical samples and the amino acids coded at position 1058 and,,,
+position 1060 in the FCoV S protein,,,,
+Group,Cat number,Type of sample,Ct value,Codon at position 1058
+Non FIP,33,Tissue,35.8a,UUG (Leu)
+,,,Noneb,Not applicable
+,,,Nonec,Not applicable
+Non FIP,38,Faeces,34.1,AUG (Met)
+,,Tissue,Noned,Not applicable
+,,,Nonee,Not applicable
+Non FIP,41,Faeces,26.8,AUG (Met)
+,,Tissue,Noneb,Not applicable
+,,,Nonef,Not applicable
+Non FIP,48,Faeces,34.2,AUG (Met)
+,,Tissue,35.7b,UUG (Leu)
+,,,35.8a,UUG (Leu)
+Non FIP,51,Tissue,37.3f,UUG (Leu)
+Non FIP,52,Faeces,None,Not applicable
+,,Tissue,Noneg,Not applicable
+Non FIP,54,Faeces,None,Not applicable
+,,Tissue,37.3h,UUG (Leu)
+,,,Nonei,Not applicable
+,,,Noneb,Not applicable
+,,,Nonej,Not applicable
+,,,Nonec,Not applicable
+,,,Noned,Not applicable
+Non FIP,56,Tissue,35.9b,UUG (Leu)
+,,,Noned,Not applicable
+,,,Nonec,Not applicable
+,,,28.6k,AUG (Met)1
+Non FIP,57,Faeces,None,Not applicable
+,,Tissue,31.6l,UUG (Leu)
+,,,33.4b,UUG (Leu)
+,,,Nonec,Not applicable
+Non FIP,59,Faeces,33.6,AUG (Met)
+,,Tissue,Noneb,Not applicable
+Non FIP,60,Faeces,35.6,AUG (Met)/CUG (Leu)
+,,Tissue,Noneb,Not applicable
+Non FIP,63,Tissue,Nonem,Not applicable
+Non FIP,65,Faeces,None,Not applicable
+,,Tissue,Nonel,Not applicable
+,,,Noneb,Not applicable
+Non FIP,69,Faeces,26.3,AUG (Met)
+,,Tissue,Nonec,Not applicable
+,,,Noneb,Not applicable
+,,,Nonel,Not applicable
+,,,Noned,Not applicable

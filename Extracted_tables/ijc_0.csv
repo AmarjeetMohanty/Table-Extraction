@@ -1,0 +1,24 @@
+0,1,2,3,4,5
+the table NMI binds a wide variety of proteins including transcription factors.,,,,,
+Table 1. NMI,in Diverse Cancer Types,,,,
+Cancer type,NMI expression,Findings,Study type,,References
+Breast cancer,Lost with,"Inhibits EMT,
+lung metastasis,","Cell
+lines, xenograft,",,"Fillmore et al., 2009,55"
+,increasing,and tumor growth,Patient samples,,"Devine et al., 20144"
+,stage,,,,
+Glioblastoma,Increased,Promotes growth by regulating,"Patient samples,",,"Meng et al., 20148"
+multiforme,expression,G1/S transition,"xenograft, cell",lines,
+,with grade,,"(U251,U87)",,
+Neuroblastoma,Unknown,Binds N-myc,"Cell
+line (kelly",,"Bannasch et al., 199978"
+,,,neuroblastoma),,
+Colorectal cancer,Unknown,"Binds IFP35,induced by IFNa","Cell
+line (HT-29)",,"Zhou et al., 200075"
+Cervical cancer,Unknown,Induced by IFN g,"Cell
+line (Hela)",,"Li et al., 201214"
+Acute T cell,Unknown,Induced by IFN g binds with IFP35,"Cell
+line (Jurkat)",,"Chen et al., 2000,76"
+leukemia,,,,,"Nagel et al., 201128"
+Ovarian cancer,SNPs detected,SNPs are associated with reduced,Patient samples,,"Quaye et al., 20095"
+,,risk of ovarian cancer,,,

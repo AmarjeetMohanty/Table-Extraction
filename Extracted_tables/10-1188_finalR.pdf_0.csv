@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6,7
+,Table 2. Amino acid differences of each internal protein between oseltamivir-resistant (n = 20) and oseltamivir-sensitive (n = 138),,,,,,
+,"pandemic (H1N1) 2009 virus, by strain, Japan, 2009–2010*",,,,,,
+Strain,M1,M2,NP,NS1,"NS2
+PA",PB1†,PB2†
+A/Niigata/1459/2009,,,,,V122I,"I435V, N537S",
+A/Osaka/2024/2009,,,,,,I435V,R251K
+A/Shimane/1062/2009,,,,,"V127A, T357I",I435V,N448S
+A/Shimane/188/2009,,,,A102T,,I435V,R54K
+A/Yokohama/1340/2009,,,,,S186N,I435V,
+A/Yokohama/1394/2009,,,,,,"I435V, F466Y",
+A/Shiga/61/2009,,,V119I,M93I,,"I435V, A93V,",K660R
+,,,,,,T257A,
+A/Niigata/1233/2009,,,,"M93I,",,T257A,K660R
+,,,,E217K,,,
+A/Niigata/1234/2009,,,,"M93I,",,T257A,"K660R, D256G"
+,,,,E217K,,,
+A/Shiga/45/2009,,,,,,,K660R
+A/Chiba/1017/2009,,,,,,,
+A/Iwate/3/2009,K103R‡,,,,,,
+A/Mie/100/2009,,S23N,,T94N,,V609A,R251K
+A/Oita/126/2009,,,I100V,"E55G,",L370I,K480R,

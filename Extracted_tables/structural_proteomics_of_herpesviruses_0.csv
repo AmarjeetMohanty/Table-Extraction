@@ -1,0 +1,24 @@
+0,1,2,3,4,5
+,Table 1. Strategies used in the analyses of the structural proteome of herpesviruses.,,,,
+,Year of,,,Targeted or Untargeted,
+Authors,,Virus,Separation Used,,Mass Spec. Strategy
+,Publication,,,Identiﬁcation,
+Davison et Davison [8],1995,CCV,Gel based,Targeted,Peptide mass ﬁngerprint
+Nealon et al. [13],2001,KSHV,Gel based,Targeted,LC MS/MS
+Bortz et al. [14],2003,MHV6,Gel based,Targeted,LC MS/MS
+Varnum et al. [15],2004,HCMV,Gel free (2D),Untargeted,LC MS/MS
+Johannsen et al. [16],2004,EBV,Gel based,Untargeted,LC MS/MS
+Kattenhorn et al. [17],2004,MCMV,Gel based,Targeted,LC MS/MS
+Bechtel et al. [18],2005,KSHV,Gel based,Targeted,MS/MS (Maldi Tof/Tof)
+Zhu et al. [19],2005,KSHV,Gel based,Targeted,LC MS/MS
+O’connor et al. [20],2006,RRV,Gel free + Gel based,Untargeted,LC MS/MS
+Michael et al. [21],2006,PRV,Gel based (1D + 2D),Targeted,Peptide mass ﬁngerprint
+Loret et al. [22],2008,HSV-1,Gel based,Targeted,LC MS/MS
+Dry et al. [23],2008,AlHV1,Gel based,Untargeted,LC MS/MS
+Kunec et al. [24],2009,CCV,Gel free (2D),Untargeted,LC MS/MS
+Michel et al. [25],2010,CyHV-3,Gel based + Gel free (2D),Untargeted,LC MS/MS
+Kramer et al. [26],2011,PRV,Gel based + Gel free,Untargeted,Maldi + ESI MS/MS
+Van Beurden et al. [27],2011,AngHV-1,Gel based + Gel free (2D),Untargeted,LC MS/MS
+Lété et al. [28],2012,BoHV-4,Gel based + Gel free (2D),Untargeted,LC MS/MS
+Vidick et al. [29],2013,MuHV-4,Gel based,Untargeted,LC MS/MS
+,CCV: canine coronavirus; KSHV: Kaposi’s sarcoma-associated herpesvirus; MHV6: murine hepatitis virus;,,,,

@@ -1,0 +1,9 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Table 2. Results of million-fold simulations.,,,,,,,,,,,,,,
+,,Scenario 1,,,Scenario 2,,,Scenario 3,,,Scenario 4,,,Pre-trial forecasts,
+,,Odds ratio R:,,,Odds ratio R:,,,Odds ratio R:,,,Odds ratio R:,,,Odds ratio R:,
+,1,1.5,2,1,1.5,2,1,1.5,2,1,1.5,2,1,1.5,2
+Proportion of trials where E wins,0.025,0.471,0.900,0.025,0.472,0.900,0.026,0.473,0.898,0.026,0.473,0.895,0.025,0.471,0.900
+Average ﬁnal V,11.45,16.35,13.82,11.45,16.35,13.81,11.27,16.04,13.55,11.20,15.86,13.46,11.40,16.21,13.65
+Average ﬁnal sample size,158,222,187,158,222,188,183,268,233,206,321,291,157,220,184
+,https://doi.org/10.1371/journal.pntd.0005439.t002,,,,,,,,,,,,,,

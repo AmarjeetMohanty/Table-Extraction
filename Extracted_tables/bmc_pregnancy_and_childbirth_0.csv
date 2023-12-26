@@ -1,0 +1,28 @@
+0,1,2,3,4
+Table 2: Health-Related Variables,,,,
+Variable,China (C),Ghana (G),US (U),Significance
+,Percent (N),Percent (N),Percent (N),
+Number of pregnancies,Mean: 2.3,Mean: 2.3,Mean: 2.2,"Anova, p = .877"
+≤ 1:,30.3 (17),28.6 (16),35.7 (20),
+2:,33.9 (19),32.1 (18),26.8 (15),
+≥ 3:,35.7 (20),39.3 (21),35.7 (20),
+Number of deliveries,Mean: 0.11,Mean: 0.98,Mean: 0.76,"Anova, p < .001"
+0:,85.7 (48),35.7 (20),50 (28),CvG: p < .001
+1:,10.7 (6),35.7 (20),30.4 (17),CvU: p < .001
+2:,0,23.2 (13),10.7 (6),GvU: p = .32 (NS)
+3+:,0,5.4 (3),7.2 (4),
+Description of current pregnancy,Mean: 1.2 on a scale of 1-4,Mean: 2.0,Mean: 1.9,"Anova, p < .001"
+1 = Very Easy,77.6 (38),41.1 (23),29.1 (16),CvG: p < .001
+2 = Somewhat easy,16.3 (8),28.6 (16),50.9 (28),CvU: p < .001GvU: p = .89(NS)
+3 = Somewhat difficult,6.1 (3),4.5 (17.9),16.4 (9),
+4 = Extremely Difficult,0,12.5 (7),3.6 (2),
+Seen a healthcare professional for emotional,,,,(Never vs. Ever)
+issues*,,,,
+Ever,5.4 (3),12.7 (7),38.2 (21),CvG: p = .54 (NS)
+Currently,0 (0),8.9 (5),3.7 (2),CvU: p < .001
+Never,94.6 (53),87.5 (48),61.8 (34),GvU: p < .001
+Treated for emotional issues with,,,,(Never vs. Ever)
+prescription medication*,,,,
+Ever,1.8 (1),12.5 (7),18.5 (10),CvG: p = .15 (NS)
+Currently,0 (0),10.7 (6),5.5 (3),CvU: p = .013
+Never,98.2 (55),87.5 (49),81.5 (44),GvU: p = .55 (NS)

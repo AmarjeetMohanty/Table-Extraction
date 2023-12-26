@@ -1,0 +1,13 @@
+0,1,2,3,4
+Table 1 Recovery values of HAdV 35 seeded in LMA plates,,,,
+Sample ID,HAdV added GC/plate,HAdV recovered GC/plate,Recovery,Mean recovery
+,,,(%),(%)
+exp1,1 × 104,"0,47 × 104",47,81
+exp2,1 × 104,"1,01 × 104",101,
+exp3,1 × 104,"0,95 × 104",95,
+exp4,1 × 103,"0,59 × 103",59,"60,3"
+exp5,1 × 103,"0,59 × 103",59,
+exp6,1 × 103,"0,6 × 103",63,
+exp7,1 × 102,"0,42 × 102",42,"33,7"
+exp8,1 × 102,"0,26 × 102",26,
+exp9,1 × 102,"0,33 × 102",33,

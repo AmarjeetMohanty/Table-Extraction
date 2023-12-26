@@ -1,0 +1,40 @@
+0,1,2,3,4,5,6,7,8
+,,,,Table 3. Cont.,,,,
+Group,Compound,Location,Organism,Assay,Dose,Activity,Structure,Reference
+,,,deep-sea,,,,,
+,,,,,,anti-HIV-1;,,
+,eutypellazine,,sediment,,,,,
+,,South Atlantic,,IC50—anti-HIV bioassay-pNL4.3.Env-.Luc,,inhibitory eﬀects,,
+,E,,fungus Eutypella,,3.2 µM,,,"[97] 
+[97]"
+,,Ocean,,co-transfected 293T cells,,against HIV-1,,
+,(24),,sp. MCCC,,,,,
+,,,,,,replication,,
+,,,3A00281,,,,,
+,,,deep-sea,,,anti-HIV-1;,,
+,,,,IC50—anti-HIV bioassay-pNL4.3.Env-.Luc,,,,
+,eutypellazine,,sediment,,,inhibitory eﬀects,,
+,,South Atlantic,,co-transfected 293T cells,4.9 µM,,,
+,J,,fungus Eutypella,,,against HIV-1,,"[97] 
+[97]"
+,,Ocean,,reactivation activity-In vitro latent HIV reactivating,80 µM,,,
+,(25),,sp. MCCC,,,"replication, latency",,
+,,,,assay-ﬂow cytometry-based screening,,,,
+,,,3A00281,,,reactivating agent,,
+,,,,,,anti-HIV 1; decrease,,
+,debromo-,,,,30% of,the transcription of,,
+,,Coral reefs in,S. carteri sponge,,,,,
+,hymenialdisine,,,% of reduction of HIV-1 replication-cell-based assay,inhibition at,"the HIV-1, abrogate",,"[98] 
+[98]"
+,,the Red Sea,extract,,,,,
+,(26),,,,13 µM,the G2-checkpoint of,,
+,,,,,,,,[98]
+,,,,,,the cell cycle,,
+,,,,,,anti-HIV 1; decrease,,
+,,,,,<40% of,the transcription of,,
+,Hymenialdisine,Coral reefs in,S. carteri sponge,,,,,
+,,,,% of reduction of HIV-1 replication-cell-based assay,inhibition at,"the HIV-1, abrogate",,"[98] 
+[98]"
+,(27),the Red Sea,extract,,,,,
+,,,,,3.1 µM,the G2-checkpoint of,,
+,,,,,,the cell cycle,,[98]

@@ -1,0 +1,13 @@
+0,1,2,3,4
+Table 2. Changes in nucleotides and amino acid between PEDVPT-P5 and PEDVPT-P96.,,,,
+,,Nucleotide Change,,
+Gene,,,,Amino Acid Substitution
+,Position,PEDVPT-P5,PEDVPT-P96,
+NSP2,1099,G,T,K159N
+NSP2,2151,C,T,T510I
+NSP3,3172,T,C,—
+NSP3,4983,T,C,F669S
+NSP4,8518,T,C,—
+NSP4,9102,A,C,E421A
+NSP9,11951,C,T,—
+NSP14,17065,T,A,—

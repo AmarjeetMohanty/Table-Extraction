@@ -1,0 +1,27 @@
+0,1,2,3,4,5
+,,,,3base technology and its application to dengue diagnosis,
+Table 2. Materials used in sensitivity/specificity studies.,,,,,
+,Flavivirus/Alphavirus reference materials,,,Nucleic acids used in cross-reactivity studies,
+Virus,Supplier,Catalogue#,Virus,Supplier,Catalogue#
+CHIKV,Vircell,MBC099,adenovirus,Vircell,MBC001
+CHIKV,Zeptometrix,NATCHIKV-ST,BK,Vircell,MBC051
+"DENV1-4, CHIKV, ZIKV Amplirun total",Vircell,MBT023,coronavirus,Vircell,MBC090
+DENV-1,Vircell,MBC055,CMV,Vircell,MBC016
+DENV-2,Vircell,MBC056,EBV,Vircell,MBC065
+DENV-3,Vircell,MBC057,enterovirus 68,Vircell,MBC125
+DENV-4,Vircell,MBC058,enterovirus 71,Vircell,MBC019
+EEEV,Vircell,MBC097,HSV-1,Vircell,MBC023
+RRV,Vircell,MBC130,HSV-2,Vircell,MBC024
+SLEV,Vircell,MBC101,HHV-6,Vircell,MBC025
+TBEV,Vircell,MBC045,influenza H1,Vircell,MBC028
+VEEV,Vircell,MBC096,influenza H3,Vircell,MBC029
+WEEV,Vircell,MBC098,influenza B,Vircell,MBC03
+WNV,Vircell,MBC069,parainfluenza-1,Vircell,MBC037
+WNV,Zeptometrix,NATWNV-0005,parainfluenza-2,Vircell,MBC038
+YFV,Vircell,MBC100,parainfluenza-3,Vircell,MBC039
+ZIKV (Asian),Vircell,MBC103,parainfluenza-4A,Vircell,MBC050
+ZIKV,Vircell,MBC072,rhinovirus,Vircell,MBC091
+ZIKV,Zeptometrix,NATZIKV-ST,RSV (subtype A),Vircell,MBC041
+ZIKV range validation,Zeptometrix,NATZIKV-RV,RSV (subtype B),Vircell,MBC083
+,,,VZV,Vircell,MBC048
+https://doi.org/10.1371/journal.pone.0227550.t002,,,,,

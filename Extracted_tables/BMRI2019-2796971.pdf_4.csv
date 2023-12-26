@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6,7,8,9
+BioMed Research International,,,,,,,,,7
+,Table 8: Similarity/dissimilarity analysis among nine beta globin protein sequences.,,,,,,,,
+Human,Gorilla,Chimp,Lemur,Mouse,Rat,Opossum,Duck,,Gallus
+"Human
+0",0.417,0.246,0.461,0.593,0.586,1.391,1.104,1.25,
+Gorilla,0,0.192,0.104,0.892,0.980,1.802,1.481,1.649,
+Chimp,,0,0.270,0.795,0.829,1.637,1.344,1.496,
+Lemur,,,0,0.870,0.993,1.823,1.479,1.660,
+Mouse,,,,0,0.329,1.066,0.639,0.860,
+Rat,,,,,0,0.833,0.523,0.669,
+Opossum,,,,,,0,0.488,0.236,
+Duck,,,,,,,0,0.253,
+Gallus,,,,,,,,0,

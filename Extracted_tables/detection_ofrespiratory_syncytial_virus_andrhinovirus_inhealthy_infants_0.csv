@@ -1,0 +1,30 @@
+0,1,2,3,4
+Demographics characteristics,,,,
+"Age in months, median (IQR)",3.8 (2.0–5.1),4.3 (3.6–5.8),2.6 (1.9–4.5),0.03
+Sex,,,,0.60
+Male,62 (56),10 (63),52 (55),
+Female,48 (44),6 (38),42 (45),
+Race/ethnicity,,,,0.80
+Non-hispanic white,56 (51),10 (63),46 (49),
+Non-hispanic black,11 (10),1 (6),10 (11),
+Hispanic,20 (18),3 (19),17 (18),
+Other,23 (21),2 (13),21 (22),
+Insurance,,,,0.30
+Private,89 (81),15 (94),74 (79),
+Public,21 (19),1 (6),20 (21),
+Home environment characteristics,,,,
+Sibling in home,47 (43),7 (44),40 (43),0.93
+Day care attendance,16 (15),7 (44),9 (10),0.002
+Exposure to passive smoke in home,4 (4),2 (13),2 (2),0.04
+Clinical characteristics,,,,
+Gestational age,,,,0.30
+40 weeks,46 (42),4 (25),42 (45),
+≥,,,,
+38–39 weeks,53 (48),10 (63),43 (46),
+34–37 weeks,11 (10),2 (13),9 (10),
+Delivery mode,,,,0.92
+Vaginal delivery,70 (64),10 (63),60 (64),
+Cesarean section,40 (36),6 (38),34 (36),
+Primarily breast milk feeding from ages 0 to,84 (76),12 (75),72 (77),0.99
+3 months,,,,
+Eczema,17 (15),4 (25),13 (14),0.27

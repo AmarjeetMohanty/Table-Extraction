@@ -1,0 +1,16 @@
+0,1,2,3,4,5
+,,,,,Neutralization of Plasma vs. Antibodies
+Table 1. Overview neutralization assays.,,,,,
+Assay,Nomenclature,Virus,Incubation period,Absorption period,Culture period
+24/1/14 PBMC,extended incubation,Infectious strains,24 h,"1 h,
+then wash",14 days
+1/2/7 PBMC,"short
+incubation",Infectious strains,1 h,"2 h,
+then wash",7 days
+1/24/14 PBMC,extended absorption,Infectious strains,1 h,"24 h,
+then wash",14 days
+TZMbl_IV,primary virus TZMbl,Infectious strains,1 h,whole culture period,2 days
+TZMbl_PV,TZMbl-PV,Pseudo virus,1 h,whole culture period,2 days
+GHOST_PV,GHOST-PV,Pseudo virus,1 h,whole culture period,3 days
+HOS_PV,HOS-PV,Pseudo virus,1 h,whole culture period,3 days
+doi:10.1371/journal.pone.0025488.t001,,,,,

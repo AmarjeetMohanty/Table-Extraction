@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+"biosoft,",America).,A,set,"of
+three",pairs,of,primers,each,of,FLP,and,"BLP,",1.4,mM deoxynucleoside
+,"Table 2 Comparative evaluation of DENV serotype-specific RT-LAMP assay with RT-PCR, and real-time PCR for detection of DENV",,,,,,,,,,,,,
+,stains and the patients’ serum samples,,,,,,,,,,,,,
+Type of case,,,,Virus serotype,,,No. of samples,,,,No. of samples positive by:,,,
+,,,,,,,Virus isolation,,,,,,,
+,,,,,,,,,,RT-LAMP,,,RT-PCR,Real-time PCR
+Virus stains,,,,DEN-1,,,20,,,20,,,18,20
+,,,,DEN-2,,,30,,,30,,,27,30
+,,,,DEN-3,,,15,,,15,,,15,15
+,,,,DEN-4,,,15,,,15,,,14,15
+Total,,,,,,,80,,,80,,,74,80
+Accuracy (%),,,,,,,,,,100,,,92.5,100
+Patients’ serum samples,,,,DEN-1,,,50,,,50,,,41,44
+,,,,DEN-2,,,60,,,59,,,52,54
+,,,,DEN-3,,,40,,,40,,,35,38
+,,,,DEN-4,,,40,,,39,,,33,36
+Total,,,,,,,190,,,188,,,161,172
+Accuracy (%),,,,,,,,,,98.95,,,84.74,90.53
+Healthy,,,,,,,20,,,0,,,0,0
+Total,,,,,,,20,,,0,,,0,0
+False positive rate (%),,,,,,,,,,0,,,0,0

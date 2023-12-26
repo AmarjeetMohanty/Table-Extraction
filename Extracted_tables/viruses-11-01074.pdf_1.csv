@@ -1,0 +1,12 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+,,,,,Nucleotide Position,,,,,,,,,,Amino Acid Position,,,,,
+Passage,,,,,,,,,,,,,,,,,,,,
+,484,500,578,787,946,,1188 1443 1450 1587 1922 2636 162,,,,,,167,193,263,316,396,484,641,879
+parent,T,A,A,G,A,T,A,G,C,A,T,Y,H,D,V,N,N,E,Q,L
+P5,G,A,A,G,G,T,A,G,T,G,T,D,H,D,V,D,N,E,R,L
+P10,T,C,A,G,G,T,A,G,T,G,C,Y,P,D,V,D,N,E,R,S
+P15,G,A,A,G,G,T,A,C,T,G,C,D,H,D,V,D,N,Q,R,S
+P20,T,C,A,G,G,T,A,C,T,G,C,Y,P,D,V,D,N,Q,R,S
+P25,T,C,A,T,G,T,A,C,T,G,C,Y,P,D,L,D,N,Q,R,S
+P30,T,C,C,T,G,A,G,C,T,G,C,Y,P,A,L,D,K,Q,R,S
+,Note: Parent = original sample. A/G at position 1443 and C/T at position 1587 are the synonymous mutation sites.,,,,,,,,,,,,,,,,,,,

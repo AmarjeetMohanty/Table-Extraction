@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Table 1 Genetic characterization of Toxoplasma gondii,,,,"isolates from bats in Jilin, Jiangxi and Guangdong provinces, China",,,,,,,,,,
+Isolate ID,Host,Tissue,Location,SAG1,5′ + 3′ SAG2,Alternative SAG2,SAG3,BTUB,GRA6,c22-8,c29-2,L358,PK1,Apico,Genotype
+GT1,Goat,,United States,I,I,I,I,I,I,I,I,I,I,I,"Reference, Type I, ToxoDB #10"
+PTG,Sheep,,United States,II/III,II,II,II,II,II,II,II,II,II,II,"Reference, Type II, ToxoDB #1"
+CTG,Cat,,United States,II/III,III,III,III,III,III,III,III,III,III,III,"Reference, Type III, ToxoDB #2"
+MAS,Human,,France,u-1*,I,II,III,III,III,u-1*,I,I,III,I,"Reference, ToxoDB #17"
+TgCgCa1,Cougar,,Canada,I,II,II,III,II,II,II,u-1*,I,u-2*,I,"Reference, ToxoDB #66"
+TgCatBr5,Cat,,Brazil,I,III,III,III,III,III,I,I,I,u-1*,I,"Reference, ToxoDB #19"
+TgWtdSc40,WTD,,USA,u-1,II,II,II,II,II,II,II,I,II,I,"Type 12, ToxoDB #5"
+TgCatBr64,Cat,,Brazil,I,I,u-1,III,III,III,u-1,I,III,III,I,"Reference, ToxoDB #111"
+TgRsCr1,Toucan,,Costa Rica,u-1,I,II,III,I,III,u-2,I,I,III,I,"Reference, ToxoDB #52"
+TgBatJL1- TgBatJL2,MC,Liver,"Jilin, China",u-1,II,II,III,III,II,II,III,II,II,I,ToxoDB #9
+TgBatJL3,ML,Liver,"Jilin, China",I,I,I,I,I,I,I,I,I,I,I,ToxoDB #10
+TgBatJL4,ML,Liver,"Jilin, China",I,I,I,I,nd,I,I,I,I,nd,nd,=nd
+TgBatJX5- TgBatJX7,RF,Liver,"Jiangxi, China",u-1,II,II,III,III,II,II,III,II,II,I,ToxoDB #9
+TgBatGD8,CS,Liver,"Guangdong, China",I,I,I,I,I,I,I,nd,I,I,nd,nd
+"TgBatGD9, TgBatGD10",CS,Liver,"Guangdong, China",I,I,I,I,I,I,I,I,I,I,I,ToxoDB #10
+TgBatGD11,CS,Liver,"Guangdong, China",nd,I,nd,I,I,I,I,I,I,nd,nd,nd
+,"*u-1 and u-2 represent unique RFLP genotypes, respectively.",,,,,,,,,,,,,,
+nd: not determined.,,,,,,,,,,,,,,,
+,WTD: White-tailed Deer; CS: Cynopterus sphinx; ML: Murina leucogaster; MC: Myotis chinensis; RF: Rhinolophus ferrumequinum.,,,,,,,,,,,,,,

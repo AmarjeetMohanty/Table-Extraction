@@ -1,0 +1,22 @@
+0,1,2,3,4,5
+"Table 4 Exploratory analyses of total symptom scores, ANCOVA-adjusted means",,,,,
+,,,I-C vs. placebo,,
+,N,Adjusteda mean (SE),Adjusteda mean (SE) differenceb,95 % CI,p-value*
+"TSS2–4, ex 1 pt",,,,,
+I-C,97,5.67 (0.24),−0.72 (0.34),"(−1.40, −0.05)",0.0364
+Placebo,97,6.39 (0.24),,,
+TSS1-4,,,,,
+I-C,98,6.02 (0.21),−0.60 (0.30),"(−1.19, −0.00)",0.0495
+Placebo,97,6.62 (0.21),,,
+"TSS1–4,
+rel",,,,,
+I-C,98,−0.08 (0.05),−0.13 (0.06),"(−0.25, −0.01)",0.0421
+Placebo,97,0.05 (0.05),,,
+Subset analyses,,,,,
+"TSS2–4, virus positive patients",,,,,
+I-C,53,5.87 (0.34),−0.80 (0.48),"(−1.75, 0.15)",0.0986
+Placebo,54,6.67 (0.34),,,
+"TSS2–4, HRV/HEV positive patients",,,,,
+I-C,27,6.08 (0.46),−0.36 (0.65),"(−1.66, 0.94)",0.5820
+Placebo,28,6.44 (0.46),,,
+CI confidence interval,,,,,

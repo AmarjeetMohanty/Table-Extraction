@@ -1,0 +1,37 @@
+0,1,2,3,4,5,6,7
+"Table 4: Foundational statistics and homogeneity testing of subject gender, drinking, exercise, smoking, medical history, and medications.",,,,,,,
+,,Male,,Female,,,
+Variable,Group,,,,,Chi-squared value,𝑝 value
+,,Frequency,%,Frequency,%,,
+,EAP group,7,19.44,29,80.56,,
+Gender,,,,,,2.4923,0.1144
+,Placebo group,13,36.11,23,63.89,,
+,EAP group,18,50.00,18,50.00,,
+,Drinking (visit 1),,,,,0.0556,0.8136
+,Placebo group,17,47.22,19,52.78,,
+Drinking,,,,,,,
+,EAP group,19,52.78,17,47.22,,
+,Drinking (visit 3),,,,,0.6353,0.6353
+,Placebo group,21,58.33,15,41.67,,
+,,Yes,,No,,,
+Variable,Group,,,,,Chi-squared value,𝑝 value
+,,Frequency,%,Frequency,%,,
+,EAP group,28,77.78,8,22.22,,
+,Visit 1,,,,,0.0000,1.0000
+,Placebo group,28,77.78,8,22.22,,
+Exercise,,,,,,,
+,EAP group,27,75.00,9,25.00,,
+,Visit 3,,,,,0.0000,1.0000
+,Placebo group,27,75.00,9,25.00,,
+Smoking,EAP group,1,2.63,37,97.37,,
+,,,,,,1.0588,0.3035
+,Placebo group,3,8.33,33,91.67,,
+,EAP group,2,5.56,34,94.44,,
+Medical history,,,,,,2.0571,0.1515
+,Placebo group,0,0.00,36,100.00,,
+,EAP group,1,2.78,35,97.22,,
+Medications,,,,,,1.9343,0.1643
+,Placebo group,4,11.11,32,88.89,,
+,EAP group,3,8.33,33,91.67,,
+Concomitant drug administration,,,,,,0.0000,1.0000
+,Placebo group,3,8.33,33,91.67,,

@@ -1,0 +1,53 @@
+0,1
+,"(cid:129)
+DNA"
+,"(cid:129)
+Illumina"
+Whole-genome sequencing,
+,(cid:129) Roche
+,"(cid:129)
+fastq"
+Raw reads,
+,"(cid:129)
+bam"
+Quality check,"(cid:129)
+FastQC"
+,"(cid:129)
+FastX toolkit"
+Filter,
+,"(cid:129)
+PRINSEQ"
+,"(cid:129)
+BMTagger"
+Remove human reads,
+,"(cid:129)
+bowtie2"
+Identify known,(cid:129) RefSeq bacteria
+,"(cid:129)
+bowtie2"
+bacterial reads,
+,"(cid:129)
+IMG bacteria"
+,"(cid:129)
+MG-RAST"
+,"(cid:129)
+BLAST"
+,(cid:129) RefSeq virus
+Identify known viral reads,"(cid:129)
+BWA"
+,"(cid:129)
+IMG virus"
+Assemble remaining,(cid:129) MetaVelvet
+reads de novo,
+,"(cid:129)
+SOAPdenovo2"
+,"(cid:129)
+BLASTx"
+Classification of contigs,
+,"Markov models to identify sequence similarities
+(cid:129)"
+,"(cid:129)
+PCR"
+Confirmation,
+,"(cid:129)
+Isolation and culture"

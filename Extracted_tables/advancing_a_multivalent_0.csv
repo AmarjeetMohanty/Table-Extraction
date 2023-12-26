@@ -1,0 +1,37 @@
+0,1,2,3,4,5,6
+,Table 3. Summary of major Trichuris muris and Trichinella spiralis antigens discovered to date.,,,,,
+Antigen,MW (kDa),Functions,Parasite stages,,Protective efficacy,Ref.
+,,,,Adjuvant,Worm reduction,
+,,,,,"(HR, LR)",
+Trichuris muris,,,,,,
+Tm adult worm,Various,Unknown,Adult,FCA,HR (BALB/c) = 99.2%,[57]
+extracts,,,,,LR (C57BL/10) = 97.8%,
+,,,,,LR (B10.BR) = 41.4%,
+,,,,Cholera,HR (BALB/c) = 97.6%,
+,,,,toxin,LR (C57BL/10) = 59.0%,
+,,,,,LR (B10.BR) = 17.8%,
+Tm adult ES,Various,ES products,Adult,IFA,LR (AKR) = 100%,[52]
+Trichinella spiralis,,,,,,
+TsAP,54.7,Aminopeptidase,Larva,FCA/IFA,8.1% (adult worm),[62]
+,,,,,59% (muscle larva),
+TspSP-1.2,35.5,Serine protease,"Adult, ES",None,34.92% (adult worm),[65]
+,,Larva invasion,,,52.24% (muscle larva),
+rTs-Adsp,47,Serine protease,Adult,Alum,46.5%,[63]
+pVAX1-Tsmif-,59,Macrophage,All,None,23.17%,[66]
+Tsmcd-1,68,inhibitory factor,,Ubiquitin,37.95%,
+,,and cysteine,,,,
+,,protease inhibitor,,,,
+rTs-Pmy,102,"Binding to C8,","Adult, Larvae",ISA50,21.8% (muscle larva),[67]
+,,C9 (complement),,,33.4% (induced by,
+,,,,,epitope 88–107 amino,
+,,,,,acid),
+Ts87,87,Surface antigen,Adult,DNA carried by,29.8% (adult worm),[68]
+,,,,S. typhimurium,34.2% (muscle larva),
+Ts53,53,Secreted,"Adult,
+larva, ES",ND,ND,[69]
+,,glycoprotein,,,,
+"Ts-gp43,",43,Immunodominant,"Larval, ES",IFA,64.3% (adult worm),[78]
+peptide 40–80,,glycoprotein,,,,
+Ts adult ES,Various,ES products,Adult,IFA,93.3% (adult worm),"[68,50,52]"
+Ts-Hsp70,70,Heat-shock protein,Adult,FCA,37%,[65]
+ES: Excretory and secretory; FCA: Freund’s complete adjuvant; HR: High responder;,,,IFA:,Incomplete Freund’s adjuvant;,ISA50:,Incomplete Seppic adjuvants 50; LR: Low

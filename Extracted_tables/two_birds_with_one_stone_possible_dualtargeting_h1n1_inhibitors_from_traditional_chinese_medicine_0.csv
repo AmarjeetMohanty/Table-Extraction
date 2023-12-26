@@ -1,0 +1,23 @@
+0,1,2,3,4
+Table 3. H-bond analysis of,,top three de novo derivatives and TamifluH in N1 during MD simulation.,,
+Name,H-bond,Ligand atom,Amino acid,H-bond occupancy
+Xylopine_2,H-bond_1,H55,Glu228 : OE2,98.23%
+,H-bond_2,H57,Glu228 : OE1,7.23%
+,H-bond_3,H57,Glu228 : OE2,2.73%
+,H-bond_4,H66,Glu228 : OE1,80.50%
+,H-bond_5,H66,Glu228 : OE2,35.50%
+,H-bond_6,H57,Leu224 : O,19.28%
+Rosmaricine_14,H-bond 1,O1,Arg293 : HH22,4.70%
+,H-bond 2,H66,Glu119 : OE1,98.63%
+,H-bond-3,H66,Glu119 : OE2,5.38%
+,H-bond-4,H55,Glu228 : OE2,96.05%
+Rosmaricine_15,H-bond 1,O1,Arg293:HH22,99.80%
+,H-bond 2,H48,Asn344:OD1,78.10%
+,H-bond-3,H53,Glu228:OE2,34.00%
+,H-bond_4,H64,Thr226:O,45.95%
+,H-bond_5,H55,Thr226:O,26.50%
+,H-bond_6,H27,Tyr402:OH,7.13%
+TamifluH,H-bond 1,O3,Arg368:HH22,82.50%
+,H-bond 2,O10,Arg118:HE,8.90%
+,H-bond-3,O10,Arg156:HH12,57.33%
+,H-bond_4,H25,Tyr402:OH,32.30%

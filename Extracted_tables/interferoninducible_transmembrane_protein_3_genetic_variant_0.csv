@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6,7,8,9,10
+,,,,,"gender, age, ethnicity and residential area. Table 2 presents the genotype frequencies of",,,,,
+,,,,these studies.,,,,,,
+,Table 1. Characteristics of studies included in the meta-analysis.,,,,,,,,,
+Study,Year,Country,Ethnicity,Type of virus,Case/,Design,Genotyping,Type of control,HWE,Quality
+,,,,,control,,methods,,,grade
+Everitt,2013,UK,Caucasian,H1N1 and seasonal,53/360,Cohort,PCR,"the 1,000",0.37,A (scored
+et al.,,,,inﬂuenza virus,,study,,genomes project,,16)
+Mills,2013,UK,Caucasian,H1N1,293/2623,Case-,PCR,NHC,1,A (scored
+et al.,,,,,,control,,,,17)
+,,,,,,study,,,,
+Wang,2014,China,Asian,H7N9,16/1000,Cohort,PCR,"the 1,000",NA,A (scored
+et al.,,,,,,study,,genome project,,15)
+Zhang,2013,China,Asian,H1N1,83/197,Cohort,PCR,"the 1,000",NA,A (scored
+et al.,,,,,,study,,genomes project,,15)
+"H1N1, pandemic inﬂuenza A; H7N9,",,,,"inﬂuenza A virus subtype; NHC, normal health controls; HWE, Hardy—Weinberg equilibrium; PCR, polymerase chain",,,,,,
+,"reaction; NA, not available.",,,,,,,,,
+,doi:10.1371/journal.pone.0124985.t001,,,,,,,,,

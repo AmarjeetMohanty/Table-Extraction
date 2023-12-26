@@ -1,0 +1,23 @@
+0,1,2,3,4
+"Viruses 2014, 6",,,,
+,,,Table 1. Cont.,
+MVA vaccine,Response,Model,Protective efficacy after challenge,Literature
+,B cells and T,,,
+MVA-NP,,mice,Heterologous protection,[127]
+,cells,,,
+,,mice,Partial heterologous protection*,"[123,125]"
+,,chickens,Heterologous protection*,"[124,125]"
+MVA-NP+M1,T cells,,,
+,,pigs,Not tested with challenge,[125]
+,,humans,"Intrasubtypic protection, safe in elderly","[119–122,126]"
+MVA-M1,**,mice,No protection,[127]
+MVA-M2,**,mice,No protection,[127]
+MVA-PB1,,mice,No protection,[127]
+MVA-HA-Eq/Ky81,HA: B-cells,,,
+,,,HA: Homologous protection,
+(A/Equine/Kentuck,,,,
+,,horses,NP: Partial homologous protection,[128]
+y/1/81),,,,
+,,,Literature:,
+MVA-NP-Eq/Ky81,not tested,,,
+,* In combination with Adenovirus vaccine. ** No protective antibody response or T cell response measured.,,,

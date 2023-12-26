@@ -1,0 +1,20 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12
+,Table 1. Attempts to prevent bovine coronavirus (BCV) infection in cattle with BCV vaccines having different HA titers,,,,,,,,,,,
+,Soluble antigen,,,HI antibody titera,,,SN antibody titera,,,Clinical signs,,Virus detection
+,,HA,At,Upon,2wk after,At,Upon,2wk after,,,Nasal,
+Group,Dilution,titer,vaccination,challenge,challenge,vaccination,challenge,challenge,Fever,Diarrhea,fluid,Feces
+"A
+1",X 1,16 000,< 10,1280,640,< 20,5120,5120,-,-,-,-
+2,,,< 10,320,320,<20,2560,2560,-,-,-,-
+"1
+B",X 4,4000,< 10,640,320,< 20,2560,1280,-,-,-,-
+2,,,< 10,320,160,<20,1280,1280,-,-,-,-
+C 1,X 16,1000,< 10,160,160,<20,640,640,-,-,-,-
+2,,,< 10,80,640,< 20,160,2560,-,3to 5 d,-,3to 4 d
+"D
+1",X 64,250,< 10,80,80,< 20,640,640,-,-,-,-
+2,,,< 10,20,320,< 20,80,5120,2 to 3 d,3to 5 d,2 to 3 d,3to 5 d
+"E
+1",,Untreated controls,< 10,< 10,320,< 20,< 20,1280,3 to 5 d,3 to 8 d,2 to 4 d,3 to 5 d
+2,,,<10,<10,640,<20,<20,5120,2to4d,3to6d,2to3d,3to4d
+a Two intramuscular injections,,,,at an interval of 3 wk. Challenged I wk after the 2nd injection. Antibody titers measured at the time of vac-,,,,,,,,

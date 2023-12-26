@@ -1,0 +1,17 @@
+0,1,2,3
+Accuracy with which the Domain Boundaries are Identified by Various Prediction Methods,,,
+Method,Pc_c,Delta_b,Delta_e
+baker,56.2,-1.2(0.3),2.2(0.5)
+chop,26.1,-2.9(1.0),1.9(0.7)
+chophomo,25.0,-2.6(1.0),2.9(1.0)
+distill,33.6,-1.5(0.6),3.2(0.8)
+domfold,38.0,-1.9(0.6),2.9(0.7)
+domssea,42.9,-1.7(0.6),2.5(0.7)
+dps,38.7,-2.2(0.8),1.6(0.9)
+foldpro,62.8,-1.3(0.4),2.0(0.4)
+hhpred1,43.3,-2.1(0.5),2.6(0.5)
+hhpred3,43.4,-2.1(0.5),2.7(0.5)
+maopus,54.2,-1.4(0.6),3.0(0.8)
+metadp,39.8,-1.3(0.7),3.3(0.7)
+NNput,30.8,-1.9(0.7),2.4(0.8)
+robetta,57.9,-1.0(0.3),1.5(0.5)

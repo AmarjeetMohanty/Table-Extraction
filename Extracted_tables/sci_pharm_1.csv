@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6
+,Quantitative factor effects and the associated p values for all three responses,,,,,
+,,Q240,Q720,,Q1440,
+,Factor,,Factor,,Factor,
+Factor,,p Value,,p Value,,p Value
+,effects,,effects,,effects,
+X1,−3.5500,0.0014,−1.8833,0.0957,−2.4167,0.0071
+X2,−9.9500,<0.0001,−5.6167,0.0056,−3.7167,0.0020
+X1X2,−2.4250,0.0076,0.6167,0.4413,−0.6500,0.2437
+X1X1,0.6500,0.3090,−2.6833,0.6806,1.1167,0.1770
+X2X2,1.3500,0.0848,−0.8500,0.1427,−3.3833,0.0129

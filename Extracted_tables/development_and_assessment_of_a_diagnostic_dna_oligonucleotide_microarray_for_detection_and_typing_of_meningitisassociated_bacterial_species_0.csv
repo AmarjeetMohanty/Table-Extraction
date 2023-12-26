@@ -1,0 +1,51 @@
+0,1,2,3,4,5,6
+,Table 1. Details of processed patient cerebrospinal ﬂuid samples and positivity for Neisseria meningitidis,,,,,
+,using real-time polymerase chain reaction (RT-PCR) and microarray hybridization.,,,,,
+,,,,,RT-PCR Ct Values,Microarray
+,Sample,,Sample,,,
+Patient,,,,Culture,for Neisseria,Signal for
+,Designation,,Fraction,,,
+,,,,,meningitides (ctrA) *,Neisseria spp.
+,,Cerebrospinal,,,,
+1,CSF1S,,supernatant,-,36,+
+,,Fluid,,,,
+,,Cerebrospinal,,,,
+1,CSF1P,,pellet,-,37,+
+,,Fluid,,,,
+,,Cerebrospinal,,,,
+2,CSF2S,,supernatant,-,35,-
+,,Fluid,,,,
+,,Cerebrospinal,,,,
+2,CSF2P,,pellet,-,31,+
+,,Fluid,,,,
+,,Cerebrospinal,,,,
+3,CSF3S,,supernatant,-,ND,-
+,,Fluid,,,,
+,,Cerebrospinal,,,,
+3,CSF3P,,pellet,-,ND,-
+,,Fluid,,,,
+,,Cerebrospinal,,,,
+4,CSF4S,,supernatant,-,ND,+
+,,Fluid,,,,
+,,Cerebrospinal,,,,
+4,CSF4P,,pellet,-,38,-
+,,Fluid,,,,
+,,Cerebrospinal,,,,
+5,CSF5S,,supernatant,-,ND,-
+,,Fluid,,,,
+,,Cerebrospinal,,,,
+5,CSF5P,,pellet,-,ND,-
+,,Fluid,,,,
+,,Cerebrospinal,,,,
+6,CSF6S,,supernatant,-,36,-
+,,Fluid,,,,
+,,Cerebrospinal,,,,
+6,CSF6P,,pellet,-,ND,-
+,,Fluid,,,,
+,,Cerebrospinal,,,,
+7,CSF7S,,supernatant,-,ND,-
+,,Fluid,,,,
+,,Cerebrospinal,,,,
+7,CSF7P,,pellet,-,ND,-
+,,Fluid,,,,
+,,,* CtrA RT-PCR conducted at PHES. ND: not detected.,,,

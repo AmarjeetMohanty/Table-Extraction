@@ -1,0 +1,58 @@
+0,1,2
+estimated range to evaluate the economic impacts of climate change on cardiovascular diseases.,,
+,Table 2. The Estimation Results for the Cardiovascular Disease Equation.,
+,,Parameter estimates
+Variable,,
+,Fixed effects Model,Random effects Model
+,4.656***,3.920***
+CONSTANT,,
+,(0.606),(0.950)
+,−0.048**,−0.231***
+"log
+ATTEMP",,
+,(0.025),(0.032)
+,0.031,0.226***
+"log
+VARTEMP",,
+,(0.037),(0.051)
+,0.099,−1.516***
+"log
+MINTEMP",,
+,(0.149),(0.206)
+,0.000,0.053***
+"log
+RAIN",,
+,(0.003),(0.004)
+,−0.282***,−0.749***
+"log
+WET",,
+,(0.083),(0.106)
+,0.142,0.277*
+"log
+COLDDAY",,
+,(0.092 ),(0.157)
+,0.308***,0.575***
+"log
+POP",,
+,(0.010),(0.005)
+,0.568**,0.644**
+SEASON,,
+,(0.248),(0.294)
+,−0.172***,−0.238***
+HealthIC,,
+,(0.013),(0.014)
+log ATTTEMP*,0.011,0.071
+log VARTEMP,(0.011),(0.016)
+,−0.099**,−0.132***
+"SEASON*
+log
+ATTEMP",,
+,(0.043),(0.051)
+,−0.040,−0.213*
+"SEASON*
+log
+VARTEMP",,
+,(0.086),(0.123)
+Adjusted R2,0.906,0.557
+Hausman Test,,10.389
+,Note:  The  numbers  in  the  parentheses  are  the  standard  deviations  while  *  denotes  statistical,

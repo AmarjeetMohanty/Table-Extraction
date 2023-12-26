@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6,7,8
+,,,,Table 3. Cont.,,,,
+,Urine-MiSeq-25,Urine-MiSeq-27,Urine reads by,Feces-Hiseq,Feces-MiSeq,Fecal Reads by,,Consensus
+Virus Family,,,,,,,Total Reads,
+,Reads,Reads,Family (% of Total),Reads,Reads,Family (% of Total),,Reads/Unassembled Reads
+Retroviridae V,552,465,1017 (25.38%),95,39,134 (0.12%),1151 (0.99%),170/61
+Rhabdoviridae A,-,-,-,-,11,11 (0.01%),11 (0.01%),4/2
+Secoviridae P,-,87,87 (2.17%),-,33,33 (0.03%),120 (0.10%),6/2
+Siphoviridae B,17,325,342 (8.54%),8839,7662,"16,501 (14.67%)","16,843 (14.46%)",518/144
+Totiviridae V/A/P,16,281,297 (7.41%),-,47,47 (0.04%),344 (0.30%),23/12
+Tymoviridae P,-,-,-,1,8,9 (0.01%),9 (0.01%),3/1
+Virgaviridae P,-,-,-,-,2,2,2,1/0
+Total Reads,1256,2751,4007,,"20,996",,"116,518",
+,,,V = Vertebrate; A = Arthropod; P = Plant; F = Fungi; B = Bacteria; PR = Protist.,,,,,

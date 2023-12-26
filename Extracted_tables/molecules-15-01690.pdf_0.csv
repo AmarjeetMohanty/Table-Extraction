@@ -1,0 +1,23 @@
+0,1,2,3,4
+"(A)
+Median Cell Control ± StDev",(B),,,(C)
+Median Virus Control ± StDev,,,,
+Median Control Drug ± StDev,,,,
+80000,1.25,,,100
+,,,Z',
+,,,,80
+,1.00,,,
+60000,,,,
+,,,,60
+,0.75,,,
+"Luminescence
+40000",Z',,% inhibition,
+,,,,40
+,0.50,,,
+,,,,20
+20000,,,,
+,0.25,,,
+,,,,0
+0,0.00,,,
+1,47,1,47,0
+,Plate sequence,,,

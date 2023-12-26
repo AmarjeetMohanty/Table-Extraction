@@ -1,0 +1,23 @@
+0,1,2,3,4
+Table 2. Risk,factors for A(H1N1)pdm09-related Illness in both school A and on-reserve participants*,,,
+,,,Multivariable,
+,,Multivariable model**,model***,Multivariable model(cid:2)
+,Crude,"ILI = 83, non-ILI = 281","ILI = 87, non-ILI = 284","ILI = 90, non-ILI = 300"
+Covariates,OR (95% CI),OR (95% CI),OR (95% CI),OR (95% CI)
+Age (years),,,,
+1–8,3Æ69 (1Æ96–6Æ96),4Æ63 (2Æ25–9Æ52),4Æ79 (2Æ38–9Æ65),5Æ2 (2Æ61–10Æ36)
+9–19,1Æ41 (0Æ74–2Æ67),1Æ95 (0Æ97–3Æ9),1Æ85 (0Æ94–3Æ65),1Æ87 (0Æ95–3Æ69)
+‡20,1,1,1,
+Chronic conditions,,,,
+No,1,1,1,1
+Yes,2Æ2 (1Æ02–4Æ74),2Æ58 (1Æ1–6Æ04),2Æ47 (1Æ06–5Æ73),2Æ65 (1Æ16–6Æ05)
+Received 2008–2009 TIV,,,,
+No,1,1,1,1
+Yes,2Æ06 (1Æ14–3Æ71),2Æ68 (1Æ37–5Æ25),2Æ61 (1Æ34–5Æ09),2Æ38 (1Æ26–4Æ5)
+Aboriginal people(cid:2)(cid:2),,,,
+No,1,1,1,
+On-reserve Aboriginal people,0Æ96 (0Æ55–1Æ67),0Æ74 (0Æ4–1Æ4),0Æ71 (0Æ39–1Æ3),Not included
+Household density,,,,
+1st–3rd,1,1,,
+4th quartile,1Æ34 (0Æ73–2Æ46),1Æ17 (0Æ6–2Æ28),"Not
+included",Not included

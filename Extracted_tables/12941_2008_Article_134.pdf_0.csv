@@ -1,0 +1,21 @@
+0,1,2,3,4,5,6,7
+,large data sets we use a greedy algorithm to find a small,,,,"tuberculosis, Staphylococcus aureus, Ehrlichia (genus), E.",,
+,number of clusters that together should pick up all targets.,,,,"chaffeensis,  E.","ruminantium,  Chlamydia","trachomatis,"
+Table 2: assorted bacterial DNA signature analyses.,,,,,,,
+,Scope,Year,Target Organism/gene,True Positives,False Positives,False Negatives,Sensitivity
+[33],Species,2004,Neisseria gonorrhoeae1,1,0,0,1.00
+[33],Species,2004,Neisseria gonorrhoeae2,1,0,0,1.00
+[34],Species,2003,Chlamydia pneumonia,4,0,0,1.00
+[35],Species,2007,Borrelia plasmid Ip54,2,0,0,1.00
+[12],Genus,2004,Bacteroides,0,0,9,0.00
+[12],Species,2004,Escherichia coli,25,11,5,0.83
+[36],Species,2005,Ehrlichia chaffeensis,1,0,0,1.00
+[12],Species,2004,Ehrlichia canis,1,0,0,1.00
+[11],Species,2000,Staphylococcus aureaus,9,2,4,0.69
+[12],Species,2004,Haemophilus influenzae,0,0,15,0.00
+[12],Species,2004,Pseudomonas aeruginosa,0,0,7,0.00
+[12],Genus,2004,Acinetobacter spp.,2,0,0,1.00
+[12],Family,2004,Enterobacteriaceae,45,0,42,0.52
+[12],Species,2004,Stenotrophomonas maltophilia,0,0,1,0.00
+,,,,,,,Page 6 of 10
+,,,,,,,(page number not for citation purposes)

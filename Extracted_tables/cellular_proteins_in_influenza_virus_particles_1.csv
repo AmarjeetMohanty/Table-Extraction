@@ -1,0 +1,42 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+,,Table 2. Cellular proteins identified in purified influenza virions by both gel,,,,,fractionation and MudPIT LC-MS/MS analyses.,,,,,,,
+,,,,,,,,,,,Cellular,,Expression profile,Reported in other
+,,,,,SDS-PAGE and LC-MS/MS Analysis,,,,MudPIT Analysis,,,,,
+,Protein Name,Entrez Gene ID,Mass (Da),,,,,,,,localization,(TPM)f,,viruses
+,,,,,No. of,,sequence,No. of,Protein,sequence,,,,
+PLoS Pathogens,,,,,observed,MASCOT,coverage,observed,prophet,coverage,,,,
+,,,,Gel slicea,peptidesb,scored,(%)e,peptidesb,scored,(%)e,,,,
+,,,,,,,,,,,,Kidney,Lung,
+,pyruvate kinase,5315,57878,17,6,78,11.9,4,1,10.9,cytoplasm,2961,1701,"KSHV [8], HIV-1 [11]"
+,beta tubulin,203068,47767,19*,27,555,35.9,2,1,9.8,cytoplasm,1246,1057,"HCMV [3], EBV [6], VV"
+,,,,,,,,,,,,,,"[10], MoMLV [13]"
+,alpha tubulin,7846,50158,18–19*,3–7c,186–314c,20.6,2,0.99,8.1,cytoplasm,1795,3792,"HCMV [3], VV [10], HIV-1"
+| www.plospathogens.org,,,,,,,,,,,,,,[11]
+,enolase 1,2023,47169,20*,6,318,22.1,4,1,9,cytoplasm,3325,2135,"HCMV [3], EBV [6], KSHV"
+,,,,,,,,,,,,,,[8]
+,beta actin,60,41005,22–23*,5–14c,158–372c,37.5,2,0.92,8,cytoplasm,3117,3708,"HCMV [3], EBV [6], VV"
+,,,,,,,,,,,,,,"[10], HIV-1 [11,31], KSHV"
+,,,,,,,,,,,,,,"[8], MoMLV [13]"
+,annexin A1,301,38714,28,6,90,21.7,3,1,14.7,cytoplasm/,90,327,"HCMV [3], VV [10], HIV-1"
+,,,,,,,,,,,membrane,,,[11]
+,glyceraldehyde-,2597,36054,28,5,69,17.9,1,1,16.3,cytoplasm,2340,4167,"HCMV [3], HIV-1 [11,12],"
+,3-phosphate,,,,,,,,,,,,,"KSHV [8], hPIV3 [85],"
+,dehydrogenase,,,,,,,,,,,,,MoMLV [13]
+,annexin A2,302,38576,29,17,600,46.3,13,1,40.4,cytoplasm/,578,828,"HCMV [3], VV [10], KSHV"
+4,,,,,,,,,,,,,,
+,,,,,,,,,,,membrane,,,"[8], HIV-1 [11]"
+,tropomyosin 1,7168,32876,29–30,3–10c,75–233c,34.2,2,0.99,7,cytoplasm,331,163,
+,glypican 4 (k-,2239,62398,30,3,63,5,1,0.97,3.1,membrane,80,17,HIV-1 [11]
+,glypican),,,,,,,,,,,,,
+,tropomyosin 3,7170,27175,31,14,357,37.5,2,1,7,cytoplasm,251,324,
+,annexin A4,307,35883,31,10,181,39.5,2,1,6.7,cytoplasm/,227,122,
+,,,,,,,,,,,membrane,,,
+,CD9,928,25431,39*,5,74,7.5,2,1,15.4,membrane,113,190,"HIV-1 [11], MoMLV [13]"
+,CD81,975,25813,2#,2,481,8.5,3,1,16.9,membrane,85,312,"HIV-1 [11], MoMLV [13],"
+,,,,,,,,,,,,,,VV [82]
+,cofilin 1,1072,18502,44,11,318,50.6,3,1,35.6,cytoplasm,431,899,"HCMV [3], EBV [6], HIV-1"
+,,,,,,,,,,,,,,"[11,31]"
+June 2008 | Volume 4 |,cyclophilin A,5478,18012,46,5,109,18.8,2,1,12.9,cytoplasm,530,1030,"HIV-1 [11,12,15,16],"
+,,,,,,,,,,,,,,"HCMV [3], VV [10], VSV"
+,,,,,,,,,,,,,,"[76], KSHV [8]"
+,profilin,5216,15054,13#,3,441,20,1,0.85,11.6,cytoplasm,203,259,HIV-1 [11]

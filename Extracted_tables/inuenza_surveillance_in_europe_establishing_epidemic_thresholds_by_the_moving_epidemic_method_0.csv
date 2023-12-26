@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6,7
+Table 1. Characteristics of data sets by country,,,,,,,
+Region,Seasons,Numerator,System,Nature,Denominator,Units,Average
+Inﬂuenza-like illness data,,,,,,,
+Belgium,10,ILI,Sentinel,Voluntary,Population*,·100 000,–
+Castilla y Leon (Spain),14,ILI,Sentinel,Voluntary,Population,·100 000,40 000
+Greece,6,ILI,Sentinel,Voluntary,Consultations,·10 000,6000–20 000**
+Hungary,7,ILI,Sentinel,Compulsory,Population,·100 000,2000 000
+Ireland,10,ILI,Sentinel,Voluntary,Population,·100 000,263 235
+Israel,12,ILI,Sentinel,Voluntary,Population,·100 000,1 900 000
+Kyrgyzstan,5,ILI,Nationwide,Compulsory,Population,·100 000,5 383 27
+Norway,6,ILI,Sentinel,Compulsory,Population,·100 000,600 000–700 000
+Poland,9,ILI,Sentinel,Voluntary,Population,·100 000,1 50 000
+Portugal,12,ILI,Sentinel,Voluntary,Population,·100 000,56 000
+Romania,5,ILI,Sentinel,Compulsory,Population,·100 000,600 000
+Slovenia,10,ILI,Sentinel,Voluntary,Population,·100 000,75 000
+Spain,14,ILI,Sentinel,Voluntary,Population,·100 000,813 371
+Switzerland,9,ILI,Sentinel,Voluntary,Population*,·100 000,–
+The Netherlands,15,ILI,Sentinel,Voluntary,Population,·100 000,116 000
+Acute respiratory infection data,,,,,,,
+Albania,7,ARI,Nationwide,Compulsory,Population,·100 000,3 161 337
+Kazakhstan,5,ARI,Sentinel ⁄ Nationwide,Compulsory,Population,·100 000,16 776 539
+Romania,5,ARI,Sentinel,Compulsory,Population,·100 000,600 000
+Russian Federation,6,ARI,Nationwide,Compulsory,Population,·100 000,44 267 62
+Ukraine,7,ARI,Clustering***,Compulsory,Population,·100 000,98 892 550

@@ -1,0 +1,28 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21
+,,,,,,,,,,Local anesthetics and carrageenan as causative therapy against sore throat,,,,,,,,,,,
+Test item #,,Lozenge #3,,,,Lozenge #4,,,,Lozenge #6,,,,Lozenge #7,,,,Lozenge #1,,,Iota-
+Active agent,,AMC/DCBA,,,,AMC/DCBA,,,,AMC/DCBA,,,,AMC/DCBA,,,,Carrageenan,,,carra-
+Dilution,,,,,,,,,,,,,,,,,,,,,geenan
+lozenges solution,,,,,,,,,,,,,,,,,,,,,(mg/mL)
+hCoV OC43,+,+,+,–,+,+,+,–,+,+,+,–,+,+,+,–,+,+,+,–,
+1:32,,,,,,,,,,,,,,,,,,,,,43.7
+1:107,,,,,,,,,,,,,,,,,,,,,13.1
+1:355,,,,,,,,,,,,,,,,,,,,,3.9
+"1:1,183",,,,,,,,,,,,,,,,,,,,,1.2
+"1:3,942",,,,,,,,,,,,,,,,,,,,,0.35
+"1:13,138",,,,,,,,,,,,,,,,,,,,,0.11
+"1:43,790",,,,,,,,,,,,,,,,,,,,,0.032
+Agglutination control,,,,,,,,,,,,,,,,,,,,,
+Test item #,,Lozenge #2,,,,Lozenge #5,,,,Lozenge #8,,,,Lozenge #9,,,Assay reference,,,,Iota-
+Active agent,,HR,,,,AMC/DCBA,,,,AMC/DCBA,,,,AMC/DCBA,,,,carrageenan,,,carra-
+Dilution,,,,,,,,,,,,,,,,,,,,,geenan
+lozenges solution,,,,,,,,,,,,,,,,,,,,,(mg/mL)
+hCoV OC43,+,+,+,–,+,+,+,–,+,+,+,–,+,+,+,–,+,+,+,–,
+1:8,,,,,,,,,,,,,,,,,,,,,3
+1:27,,,,,,,,,,,,,,,,,,,,,0.9
+1:89,,,,,,,,,,,,,,,,,,,,,0.27
+1:296,,,,,,,,,,,,,,,,,,,,,0.08
+1:987,,,,,,,,,,,,,,,,,,,,,0.024
+"1:3,290",,,,,,,,,,,,,,,,,,,,,0.007
+"1:10,969",,,,,,,,,,,,,,,,,,,,,0.002
+Agglutination control,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,37 @@
+0,1,2
+Table 3. Number of transferred fragments associated with individual areas of the genome,,
+Genomic Region,Number of Fragments a,% of Total
+5'UTR b,8,4.2
+Nsp c 2,20,10.5
+nsp 3,33,17.3
+nsp 4,17,8.9
+nsp 5,15,7.9
+nsp6,10,8.3
+nsp 7,6,3.2
+nsp 8,6,3.2
+nsp9,4,2.1
+nsp 10,4,2.1
+nsp 11/12,13,6.8
+nsp 13,12,6.3
+nsp 14,10,5.3
+nsp 15,10,5.3
+nsp 16,19,10.0
+Spike,30,15.8
+3a,14,7.4
+3b,13,6.8
+Envelope,17,8.9
+Membrane,17,8.9
+4b,12,6.3
+4c,12,6.3
+5a,15,7.9
+5b,11,5.8
+Nucleocapsid,14,7.4
+3'UTR,13,6.8
+"areas  may 
+be 
+fully","or 
+only 
+partially 
+located","in 
+the 
+transferred"

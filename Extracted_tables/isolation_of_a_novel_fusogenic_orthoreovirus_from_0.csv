@@ -1,0 +1,19 @@
+0,1,2,3,4,5
+,,,Table 1. Cont.,,
+,,,,Gene,Nucleic
+Genbank,,,,,
+,Subfamily/,,,Description,Acid (NA)
+Accession,,Genus,Virus/Species (Isolate),,
+,Family,,,(Encoding for,or Amino
+Number,,,,,
+,,,,Protein),Acid (AA)
+AB632562.1,Nycteribiidae,Penicillidia,jenynsii (isolate PeJe6),COI,NA
+AB632563.1,Nycteribiidae,Penicillidia,jenynsii (isolate PeJe7),COI,NA
+KF021525.1,Nycteribiidae,Penicillidia,leptothrinax (isolate 35A),COI,NA
+KF021526.1,Nycteribiidae,Penicillidia,leptothrinax (isolate 35B),COI,NA
+KF021527.1,Nycteribiidae,Penicillidia,leptothrinax (isolate 36A),COI,NA
+KF021521.1,Nycteribiidae,Penicillidia,leptothrinax (isolate GR7),COI,NA
+KF021529.1,Nycteribiidae,Penicillidia,leptothrinax (isolate J34),COI,NA
+KF021533.1,Nycteribiidae,Penicillidia,leptothrinax (isolate J66),COI,NA
+KF021535.1,Nycteribiidae,Penicillidia,oceanica (isolate N17),COI,NA
+,* The star denotes viruses for which amino acid sequences were not available on Genbank for the full range of,,,,

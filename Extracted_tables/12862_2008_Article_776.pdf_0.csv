@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12
+,"Table 1: Number and type of mutations scored, and resulting mutation frequencies, calculated for the mutant spectra of the FMDV",,,,,,,,,,,
+populations analyzed in the present study,,,,,,,,,,,,
+Populationa,Genomic,Number,Total nt.,Drug,Mutationsd,Transitionse,Transversionse,Minimum,Maximum,Min/max,Hh,ADi
+,residuesb,of clones,sequenced,treatmentc,,,,mutation,mutation,ratio,,
+,,,,,,,,frequency,frequency,,,
+,,,,,,,,(×10-3)f,(×10-3)g,,,
+No Drug p1,6609–8013,5,7025,None,2/2,0.50,0.50,0.28,0.28,1,0.58,0.50
+AZCp1,6609–8013,5,7025,[10 μg/ml],1/1,0,1,0.14,0.14,1,0.31,0.25
+,,,,AZC,,,,,,,,
+FUp1,6609–8013,5,7025,[200 μg/ml],2/2,1,0,0.28,0.28,1,0.58,0.50
+,,,,FU,,,,,,,,
+No drug p25,6609–8013,5,7025,None,1/3,1,0,0.14,0.42,0.33,0.61,0.75
+AZCp25,6609–8013,18,25290,[10 μg/,13/19,0.21,0.79,0.51,0.75,0.68,0.73,2.31
+,,,,ml]AZC,,,,,,,,
+FUp25,6609–8013,5,7025,[200 μg/ml],14/19,1,0,1.99,2.7,0.74,1,6.75
+,,,,FU,,,,,,,,
+CAp35,6667–7997,21,27951,None,17/17,0.88,0.12,0.61,0.61,1,0.69,0.85
+RA0p35,7150–8020,21,18291,"[800 μM] R,",17/68,0.75,0.25,0.93,3.71,0.25,1,3.62
+,,,,No drug,,,,,,,,
+RAp35,6667–7997,14,18634,[500–800,55/139,0.91,0.09,2.95,7.46,0.39,1,13.15
+,,,,μM] R,,,,,,,,(7.85)
+RAp45,6667–7997,12,15972,[800 μM] R,31/49,0.76,0.24,1.96,3.07,0.64,1,6.91
+RAp60,6667–7997,14,18634,[800–5000,55/80,0.97,0.02,2.95,4.29,0.69,1,7.62
+,,,,μM] R,,,,,,,,

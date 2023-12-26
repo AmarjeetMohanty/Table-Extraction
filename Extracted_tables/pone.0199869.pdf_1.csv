@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7
+Table 4. Estimated M. tuberculosis DNA recovery from raw sputum or sediment relative to AFB smear or solid culture grade.,,,,,,,
+,,,,,,b,
+,,,Average Ct,,Average ΔCt,,p value
+AFB Smear Grade,N,Sputum,,Sediment,,,
++ 1,31,25.80 ± 3.50,,28.99 ± 3.83,3.49,,< 0.0001
++ 2,34,22.41 ± 2.04,,25.23 ± 2.12,2.82,,< 0.0001
++ 3,53 sputum /,20.36 ± 2.36,,22.32 ± 1.99,1.95,,< 0.0001
+,54 sediments,,,,,,
+R2,,0.9803,,0.9947,,,
+Solid Culture Gradea,,,,,,,
++ 1,40 sputum /,23.72 ± 4.08,,26.60 ± 4.71,2.98,,<0.0001
+,41 sediments,,,,,,
++ 2,46,22.17 ± 2.55,,24.58 ± 3.32,2.41,,< 0.0001
++ 3,27,20.58 ± 2.69,,23.05 ± 2.84,2.47,,< 0.0001
+R2,,0.9999,,0.9938,,,

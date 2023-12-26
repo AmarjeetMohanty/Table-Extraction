@@ -1,0 +1,22 @@
+0,1,2,3
+,Table 3. Microbe-derived peptide ligands for FPRs (Fprs).,,
+Agonist,Classiﬁcation,Receptor,Citation
+Hp2-20,Helicobacter,FPR2,[53]
+T20/DP178,HIV gp41,FPR1,[45]
+T21/DP107,HIV gp41,"FPR1, FPR2",[54]
+V3 peptide,HIV Gp 120,FPR2,[55]
+N36 peptide,HIV Gp 41,FPR2,[56]
+F peptide,HIV Gp 120,FPR2,[57]
+MAT-1,HIV gp41,FPR2,[46]
+gG-2p20,Herpes Simplex Virus,FPR1,[50]
+N-formyl HKU-1 coronavirus peptide,HKU-1 virus,FPR1,[49]
+Listeria peptides,,FPR1,[26]
+Enterococcus faecium proteins,,FPR2,[52]
+PrP106-126,,FPR2,[58]
+C5a HCV peptide,Hep C Virus,FPR2,[48]
+OC43 coronavirus protein,OC43 Coronovirus,Unknown,
+229E Coronavirus protein,229E Coronavirus,Unknown,
+,,,[49]
+NL36 Coronavirus protein,NL36 Coronavirus,Unknown,
+Spike Protein,Ebola virus,Unknown,
+Inﬂuenza A Virus,Annexin A1 surface protein,FPR2,[59]

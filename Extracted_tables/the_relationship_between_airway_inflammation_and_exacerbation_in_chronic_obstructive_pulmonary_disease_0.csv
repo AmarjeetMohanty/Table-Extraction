@@ -1,0 +1,27 @@
+0,1,2,3,4
+,Table 1. Significant predictors/factors associated with AECOPD/hospitalizations,,,
+,Odds ratio or relative risk,95% CI,p-value,Reference
+GERD,3.42,2.02–5.69,,Takada et al.51
+Bronchiectasis,3.07,1.07–8.77,0.037,Martinez-Garcia et al.59
+Eosinophilia,4.20,1.05–16.62,0.069,Menezes et al.61
+OSA,1.70,1.21–2.38,0.002,Marin et al.68
+GOLD stage,,,,Takada et al.51
+I,1,,,
+II,3.117,0.291–33.413,0.347,
+III,4.702,0.419–52.760,0.209,
+IV,108.704,"3.883–3,099.135",0.005,
+,Incidence,,,
+,(number/yr/patient),,,
+GOLD stage,,,,Hurst et al.4
+I,-,-,-,
+II,0.85,-,-,
+III,1.34,-,-,
+IV,2.00,-,-,
+Air pollution,,,,Ghozikali et al.48
+↑ O3 10 µg/m3,↑0.58%,-,-,
+↑ NO2 10 µg/m3,↑0.38%,-,-,
+↑ SO2 10 µg/m3,↑0.44%,-,-,
+↑ PM2.5 10 µg/m3,↑0.9% (hospitalization),-,-,Dominici et al.47
+Temperature,,,,
+↓ 1°C,0.8%,1.015–1.138,0.015,Tseng et al.49
+AECOPD: acute exacerbation of chronic obstructive pulmonary disease; CI: confidence interval; GERD: gastroesophageal reflux disease;,,,,

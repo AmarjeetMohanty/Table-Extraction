@@ -1,0 +1,9 @@
+0,1,2,3,4
+Table 1. Effects of Apilimod on Ebola Virus and Marburg Virus Replication,,,,
+Virus,Cell type,CC50 (μM)a,IC50 (μM)a,SIb
+EBOV,Huh 7,0.48 ± 0.08,0.136 ± 0.040,3.5
+EBOV,Vero E6,> 2.00,0.025 ± 0.010,> 80.0
+EBOV,hMDM,> 2.00,0.009 ± 0.001,> 222.0
+MARV,Huh 7,0.50 ± 0.1,0.140 ± 0.050,3.6
+MARV,Vero E6,> 2.00,0.015 ± 0.003,> 133.0
+MARV,hMDM,> 2.00,0.010 ± 0.004,> 200.0

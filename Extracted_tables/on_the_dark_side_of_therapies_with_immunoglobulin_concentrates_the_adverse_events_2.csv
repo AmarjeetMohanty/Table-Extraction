@@ -1,0 +1,19 @@
+0,1,2,3,4,5
+Table 1 | Continued,,,,,
+"Symptoms
+Frequency",IRR,PRR,System,"Class, severity,",Part of the product
+and signs,or total,,,and duration,likely being
+,dose,,,,involved in AEs
+"Cutaneous vasculitis
+Rare",Dose,Contributes,Cutaneous,"Delayed, severe",
+"Hemolysis (clinically
+Common",Yes,Contributes,Hematologic,"Delayed, moderate,",
+not signiﬁcant),,,,transient,
+"Acute
+Rare",Yes,Yes,Hematologic,"Delayed, severe",Increase in A
+hemolysis/hemolytic,,,,,
+anemia,,,,,
+"Thrombotic
+Rare",Yes,Yes,Hematologic,"Severe,
+ICU",Increase in A
+"phenomena (DVT,",,,,,

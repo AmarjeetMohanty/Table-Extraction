@@ -1,0 +1,20 @@
+0,1,2,3,4
+,A,,,
+,,,,Control
+,120,,,
+,,,##,
+,,,,Oseltamivir
+,,,***,
+,100,,,Rolipram
+,,,,Sertraline
+,,#,,
+,80,,,
+,,***,,Oseltamivir+Rolipram
+% Percent survival,,,,Oseltamivir+Sertraline
+,60,,,
+,,,***,** P <0.01 compared to control
+,40,,,
+,,,**,*** P <0.001 compared to control
+,,,,# P <0.05 compared to oseltamivir
+,20,,,
+,,,,# # P <0.01 compared to oseltamivir

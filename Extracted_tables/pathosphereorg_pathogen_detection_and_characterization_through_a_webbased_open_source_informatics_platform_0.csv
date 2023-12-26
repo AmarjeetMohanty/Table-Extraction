@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6,7
+,the organism listed. Unshaded cells represent the lack of single-read identification matching to the pathogens spiked,,,,,,
+,,454,,Ion Torrent,,Illumina,
+,,File size: 2.5gb,,File size:1.62gb,,File size: 5gb paired-read files,
+,,Pipeline runtime: 35m12s,,Pipeline runtime: 29m18s,,Pipeline runtime: 4hr11m,
+Agent,Spiked,Taxonomy,Iterative,Taxonomy,Iterative,Taxonomy,Iterative
+,Amounts,Assignment ID,Assembly ID,Assignment ID,Assembly ID,Assignment ID,Assembly ID
+B. anthracis,1x106,,,,,,
+,CFU,,,,,,
+"F.
+tularensis",1x105,,,,,,
+,CFU,,,,,,
+Y. pestis,1x104,,,,,,
+,CFU,,,,,,
+B.,1x103,,,,,,
+pseudomallei,CFU,,,,,,
+B. mallei,1x102,,,,,,
+,CFU,,,,,,

@@ -1,0 +1,19 @@
+0,1,2,3,4,5
+,Table 1. Sample labels in increments 1 and 2.,,,,
+Dataset Name,,Label,,Pipeline,Settings
+,Incr-1,,Incr-2,Incr-2,Incr-2
+plasma_spike_1_1,5,,NA,NA,NA
+plasma_spike_1_10,2,,11,E,2 × 150
+plasma_spike_1_100,1,,13,I,1 × 150
+NIBSC_viral_control a,3,,2,I,1 × 150
+NIBSC_viral_control b,3,,8,E,2 × 150
+NIBSC_negative_control,4,,6,A,2 × 150
+II_1-1,NA,,9,in-silico,various
+II_1-40,NA,,3,in-silico,various
+II_1-40 high,NA,,4,in-silico,various
+II_1-400,NA,,5,in-silico,various
+III_1-1,NA,,12,in-silico,various
+III_1-10,NA,,7,in-silico,various
+III_1-10 high,NA,,1,in-silico,various
+III_1-100,NA,,10,in-silico,various
+,NA: Not applicable; Incr: Increment.,,,,

@@ -1,0 +1,15 @@
+0,1,2,3,4
+eGFP-LC3B,,,,
+B,,+,,
+,Vector,,+-,
+,PLP2-TM,-,,
+,,,,LC3-I
+,IP: V5  IB: LC3B,,,
+,,,,LC3-II
+,IP: V5  IB: V5,,,PLP2-TM
+,,,,LC3-I
+,WB: LC3B,,,
+,,,,LC3-II
+,WB: V5,,,PLP2-TM
+,WB: β-Actin,,,β-Actin
+,,,1              2,

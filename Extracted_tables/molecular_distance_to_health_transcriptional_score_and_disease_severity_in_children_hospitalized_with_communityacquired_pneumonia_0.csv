@@ -1,0 +1,19 @@
+0,1,2,3,4,5,6
+"TABLE 1 | Demographic,","laboratory, and clinical data of 152 patients and 39 healthy controls.",,,,,
+,Healthy controls,All patients,Pyogenic bacteriaa,M. pneumoniaeb,Respiratory virusesc,Undetermined
+,(n = 39),(n = 152),(n = 16),(n = 41),(n = 78),(n = 17)
+"Age (years)d,f",3.6 [1.1–10.9],5.1 [2.1–8.0],5.8 [2.8–7.4],8.0 [4.6–11.5],3.6 [1.5–6.3],6.5 [2.2–13.6]
+Gender (M:F),25:14,75:77,10:6,20:21,37:41,8:9
+RACE/ETHNICITY,,,,,,
+White,30,96,10,26,45,15
+Black,4,27,3,11,11,2
+Hispanic,0,8,0,1,7,0
+Other,5,21,3,3,15,0
+"WBC (Kcells/mm3)d,e,g",N/A,11.9 [8.9–17.4],13.8 [10.2–23.4],10.4 [7.3–15.1],12.2 [10–17.6],11.4 [7.1–20.5]
+"CRP (mg/dL)d,e,g",N/A,4.6 [2.1–17.4],21.9 [6.8–27.2],3.5 [1.8–4.8],5 [2–8.6],3.9 [2.1–14.5]
+"PCT (ng/mL)d,e,g",N/A,0.37 [0.13–2.3],8.4 [4.1–26.6],0.15 [0.06–0.48],0.4 [0.2–2.4],0.34 [0.05–0.57]
+"MDTHd,h",60 [31–156],1747 [706–3800],5712 [2556–8427],1085 [657–2239],1802 [576–3888],1950 [816–2708]
+"Days of
+fever during hospitalizationd",N/A,1 [0–2],3 [2–5],1 [0-2],1 [0–2],1 [0–1.5]
+Days of respiratory supportd,N/A,1 [0–2],3 [1–4.8],0 [0–2],1 [0–2],0 [0–1]
+LOS (days)d,N/A,2 [1.3–3],5.0 [3.8–8.8],1.8 [1.1–2.4],2.0 [1.2–2.7],2.2 [1.6–3.3]

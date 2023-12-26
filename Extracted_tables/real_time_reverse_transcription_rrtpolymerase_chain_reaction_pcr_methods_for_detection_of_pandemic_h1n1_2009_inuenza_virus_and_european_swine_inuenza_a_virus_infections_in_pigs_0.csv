@@ -1,0 +1,45 @@
+0,1,2,3,4,5
+Table 4. Results of,testing clinical specimens from pigs infected experimentally with H1N1v (A ⁄ California ⁄ 07 ⁄ 09),,,,
+,,,Ct values,,
+,,,Perfect,,
+,Days,,match M,H1-118,
+Pig,post-,,gene,RRT,
+identiﬁer,infection,Sample,RRT PCR,PCR,VI
+1,0,Nasal swab,No Ct,No Ct,ND
+,1,Nasal swab,28Æ57,29Æ67,+
+,3,Nasal swab,26Æ68,28Æ86,+
+,4,Nasal swab,29Æ53,32Æ36,+
+,4,Lung,24Æ30,24Æ67,+
+,4,Thoracic trachea,21Æ34,22Æ02,+
+2,0,Nasal swab,No Ct,No Ct,ND
+,1,Nasal swab,30Æ51,31Æ69,+
+,2,Nasal swab,23Æ02,25Æ59,+
+,3,Nasal swab,30Æ01,32Æ24,+
+,4,Nasal swab,31Æ29,34Æ47,+
+,5,Nasal swab,25Æ19,27Æ44,+
+,6,Nasal swab,27Æ95,29Æ77,+
+,7,Nasal swab,34Æ48,34Æ08,)
+,7,Lung,29Æ72,30Æ25,+
+,7,Thoracic trachea,No Ct,No Ct,)
+3,1,Nasal swab,34Æ43,36Æ84,+
+,2,Nasal swab,30Æ67,33Æ20,+
+4,0,Nasal swab,No Ct,No Ct,ND
+,1,Nasal swab,27Æ66,29Æ36,+
+,2,Nasal swab,22Æ20,24Æ23,+
+,2,Lung,No Ct,No Ct,)
+,2,Thoracic trachea,No Ct,No Ct,)
+5,0,Nasal swab,No Ct,No Ct,ND
+,1,Nasal swab,27Æ51,29Æ35,+
+,2,Nasal swab,22Æ24,24Æ25,+
+,2,Lung,26Æ61,26Æ43,+
+,2,Thoracic trachea,34Æ28,34Æ42,+
+6,0,Nasal swab,No Ct,No Ct,ND
+,1,Nasal swab,27Æ03,29Æ20,+
+,2,Nasal swab,26Æ07,28Æ28,+
+,3,Nasal swab,31Æ07,32Æ68,+
+,4,Nasal swab,29Æ96,33Æ01,+
+,5,Nasal swab,28Æ15,30Æ18,+
+,6,Nasal swab,27Æ68,29Æ79,+
+,7,Nasal swab,34Æ29,36Æ52,+
+,7,Lung,20Æ33,21Æ17,+
+,7,Thoracic trachea,30Æ82,31Æ51,+

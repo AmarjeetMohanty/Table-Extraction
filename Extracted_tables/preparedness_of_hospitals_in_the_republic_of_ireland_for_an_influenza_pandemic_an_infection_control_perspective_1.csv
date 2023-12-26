@@ -1,0 +1,12 @@
+0,1,2,3,4,5,6,7
+Table 9 Contingency table re staffing preparedness,,,,,,,
+Response,Cross-training to treat,Cross-trained staff to,,,Plans for having designated staff,Developed,"Plans for
+instituting"
+,"an influx of
+influenza",provide patient care,,limited to treat either,influenza,policies/procedures,"""working quarantine"""
+,patients,outside their,routine area,or non-influenza patients,,,for staff
+Yes,12 (26.1 %),9 (19.6 %),,23 (50.0 %),,16 (34.8 %),10 (21.7 %)
+No,30 (65.2 %),31 (67.4 %),,16 (34.8 %),,24 (52.2 %),27 (57.7 %)
+Don't know,4 (8.7 %),6 (13.0 %),,7 (15.2 %),,6 (13.0 %),9 (19.6 %)
+Total,46 (100.0 %),46 (100.0 %),,46 (100.0 %),,46 (100.0 %),46 (100.0 %)
+p-value,<0.001,<0.001,,0.015,,0.005,0.001

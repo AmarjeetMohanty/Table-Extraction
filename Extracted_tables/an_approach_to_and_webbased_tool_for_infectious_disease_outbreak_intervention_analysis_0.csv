@@ -1,0 +1,10 @@
+0,1,2
+,,Controlled or
+Parameter,Range tested (units),uncontrolled outcome
+γ,0.05–1.0 (days−1),Both
+β,0.05–5.0 (unitless),Both
+R0,1.0–100 (unitless),Both
+,0.01–1.0 (fraction of,
+λ,,Controlled only
+,susceptibles removed),
+τ,1–31 (days),Controlled only

@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6
+Table 3: Forecast of bed occupancy in the initial stage of the outbreak,,,,,,
+Day of outbreak,,3rd Day,6th day,9th Day,12th Day,MAPE
+Three-day,Actual number,,,,,
+forecast,of beds,,,,,
+Day 4,36,37,,,,6
+Day 5,44,42,,,,
+Day 6,51,46,,,,
+Day 7,70,,60,,,10
+Day 8,81,,72,,,
+Day 9,90,,87,,,
+Day 10,92,,,99,,7
+Day 11,111,,,108,,
+Day 12,125,,,111,,
+Day 13,132,,,,116,9
+Day 14,131,,,,122,
+Day 15,115,,,,124,

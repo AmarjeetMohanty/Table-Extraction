@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6,7,8,9
+,,,,,,,,CDK+PM6,CDK
+,,,,,,,,model,model
+,,,R1,R2,R3,R4,,,Probactivity
+,,ID742,,H,(R)-NH2,,,0.838,0.838
+,,ID741,,H,(R)-NH2,,,0.832,0.832
+ID573,,ID739,,NHCHO,,,H,0.816,0.816
+,,,,,(S)-NH2,,,,
+Probactivity,CDK+PM6,,,,,,,,
+0.940,model,,,,,,,,
+,,ID740,,NHCHO,(S)-NH2,,H,0.810,0.810
+Probactivity,CDK,,,,,,,,
+0.902,model,,,,,,,,
+,,ID735,,NHCHO,(S)-NH2,,,0.802,0.802

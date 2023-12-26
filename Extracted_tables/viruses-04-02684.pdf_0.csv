@@ -1,0 +1,12 @@
+0,1,2,3,4,5,6,7
+"antigen tests, or positive and negative results may alternate [14].",,,,,,,
+,,Table 1. Stages of feline leukemia virus (FeLV) infection,,,,,
+,FeLV p27,,,,,,
+Stages of,,Virus,Viral,Viral,Viral,,FeLV-
+,antigen in,,,,,,
+FeLV,,blood,RNA in,DNA in,tissue,Viral,associated
+infection,blood,culture,blood,blood,culture,shedding,disease
+Progressive,Positive,Positive,Positive,Positive,Positive,Positive,Likely
+Regressive,Negative,Negative,Negative,Positive,Negative,Negative,Unlikely
+Abortive,Negative,Negative,Negative,Negative,Negative,Negative,Unlikely
+Focal,Variable,Variable,Variable,Variable,Positive,Variable,Unlikely

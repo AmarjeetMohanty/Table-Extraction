@@ -1,0 +1,51 @@
+0,1,2,3,4,5,6,7
+,,,,,,"MERS among Dromedary Camels, Africa",
+T,able 2. Background data and Middle East respiratory syndrome coronavirus serology results of selected camel serum samples from,,,,,,
+"Nigeria, Ethiopia, and Tunisia*",,,,,,,
+"Country, sample ID",Region,Age,Sex,MERS S1 (1:20),MERS S1 (1:320),MERS S1 (1:640),VNT
+Nigeria,,,,,,,
+1,Kano,7,M,63410,"52,254",NT,640
+2,Kano,2,F,"63,022","10,998","4,585",320
+3,Adamawa,6,M,"63,146","41,200","20,627","1,280"
+4,Kano,2,M,"63,213","63,331","63,353","1,280"
+5,Sokoto,2,F,"63,123","8,215",–,80
+6,Borno,7,M,"63,173","13,873","7,471",160
+7,Borno,6,F,"63,065","63,065",NT,"2,560"
+8,Sokoto,7,F,"64,118","63,285","54,669",640
+9,Borno,6,M,"63,592","28,033",NT,80
+10,Sokoto,6,F,"64,176","63,427","35,190",640
+11,Sokoto,2,F,–,NT,NT,<20
+12,Adamawa,7,M,–,NT,NT,<20
+13,Unknown,7,M,–,NT,NT,<20
+14,Kano,7,M,–,NT,NT,<20
+Ethiopia,,,,,,,
+1,Somali,5,F,"63,592","63,357","50,563",640
+2,Afar,6,F,"63,341","63,005",NT,"2,560"
+3,Afar,13,F,"63,366","63,205","63,467","1,280"
+4,Afar,10,F,"63,206","63,299",NT,640
+5,Afar,5,F,"63,466","10,583","5,911",160
+6,Fentale,<4,M,"63,408","63,480","60,135","1,280"
+7,Afar,4,F,"63,476","33,909","19,161",80
+8,Afar,4,F,–,NT,NT,<20
+9,Afar,2,M,–,NT,NT,<20
+10,Afar,1,F,"10,937",NT,NT,<20
+11,Afar,3,F,"18,269",NT,NT,<20
+12,Fentale,>8,F,"63,486","23,654","10,246","1,280"
+13,Afar,6,F,"63,496","63,380","53,030","1,280"
+14,Afar,1,F,"63,401","19,087","9,834",80
+Tunisia,,,,,,,
+1,Sidi Bouzid,8,F,–,NT,NT,<20
+2,Sidi Bouzid,8,F,"63,217","20,620",NT,80
+3,Sidi Bouzid,6,F,–,NT,NT,<20
+4,Sidi Bouzid,1,M,–,NT,NT,<20
+5,Kebili,7,M,"63,139",–,–,320
+6,Kebili,4,M,"63,113",–,–,160
+7,Sidi Bouzid,1,M,–,NT,NT,<20
+8,Sidi Bouzid,9,F,"63,005","17,821","9,652",80
+9,Sidi Bouzid,6,F,–,NT,NT,<20
+10,Kebili,4,M,"63,120","18,320","9,732",160
+11,Sidi Bouzid,<1,M,–,NT,NT,<20
+12,Sidi Bouzid,2,F,"63,060","63,236","63,366","2,560"
+13,Sousse,13,F,"63,220","50,510","26,575",320
+14,Sidi Bouzid,5,F,–,NT,NT,<20
+"*MERS  S1,  Middle  East  respiratory  syndrome  coronavirus  S1  micro-array.  Serum  dilutions  tested  1:20,  1:320  or  1:640.  Results  expressed  as  relative",,,,,,,

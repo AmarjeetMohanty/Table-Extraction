@@ -1,0 +1,16 @@
+0,1
+,Table 3. Biochemical attributes of PyroPhage 3173 Pol.
+39-59 exonuclease,Strong
+59-39 exonuclease,None
+Strand displacement,Strong
+Extension from nicks,Strong
+Thermostability (TK @94u),11.1+/21.4 min.
+Km dNTPs,40 mM
+Km DNA,5.3 nM
+Processivity,47 nt
+39 ends of amplicons,"blunt
+(wt)"
+,single nt extended (exo-)
+Fidelity,86104 (wt)
+,0.96104 (exo-)
+doi:10.1371/journal.pone.0038371.t003,

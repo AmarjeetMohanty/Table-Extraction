@@ -1,0 +1,36 @@
+0,1,2,3,4,5
+endemic areas.,,,,,
+,Table 1. MERS-CoV vaccine candidates grouped according to category.,,,,
+,Humoral,,,,
+Vaccine Type,,Cell-Mediated,Protective in:,Clinical Trial,Source (s)
+,Response in:,,,,
+,,Response in:,,,
+Subunit,,,,,
+RBD,"M, P","M, P","M, P",,"[50,55,58]"
+S nanoparticles,M,,M,,[61]
+Prefusion-locked S,M,,,,[34]
+NTD,M,M,M,,[65]
+DNA,,,,,
+pVax1-S,"M, P, C","M, P",P,Phase I,[71]
+pVRC8400-S 1,"M, P",,P,,[74]
+pcDNA3.1(+)-S1 or S,M,M,M,,"[75,77]"
+Viral Vector,,,,,
+VEEV-S,M,,,,[38]
+VEEV-N,,M,M,,[82]
+MVA-S,"M, C",M,"M, C",Phase I,[88]
+Ad5-S or S1,M,M,,,"[93,94]"
+Ad5-S 2,M,M,M,,[96]
+Ad41-S,M,M,,,[94]
+ChAdOx1-S,M,M,M,Phase I,[102]
+MVvac2-S,M,M,M,,[104]
+Newcastle-S,"M, C",,,,[107]
+VSV-S,"M, P",P,,,[109]
+Rabies-S1,M,,M,,[111]
+"Bac-S,E,M",P,P,,,[113]
+Bac-RBD+VP2,M,M,,,[114]
+Whole,,,,,
+Formalin inactivated,M,,M,,[117]
+MERS-∆E,,,,,[122]
+MERS-dNSP16,M,,M,,[127]
+MERS-dORF3-5,M,,M,,[129]
+,"Humoral response denotes any antibody response generated,",,,in most cases a NAb response. Cell-mediated,

@@ -1,0 +1,42 @@
+0,1,2,3,4
+4,,,,The Scientific World Journal
+,,Table 1: Comparison of contact residues in RF61 and RFL11 interaction with Fc.,,
+,CDR residue,,,
+,,Fc contact,Fc chain,Types of contact
+,(IMGT numbering),,,
+𝑅𝐹61,,,,
+,,—,,
+,Tyr52 (s),Lys439 (s),A,Hydrophobic
+,,Ser440 (m),A,H-bonding
+H2,Tyr53 (s),Gln438 (s),A,H-bonding
+,,Ser440 (s),A,H-bonding
+,Ser54 (s),Gln438 (m),A,H-bonding
+,Asp98 (s),Arg355 (s),B,Ion interaction
+,,Asp356 (s),B,Anion-pi
+,Tyr100 (s),Thr350 (s),A,H-bonding
+H3,,Lys439 (s),A,Cation-pi
+,Thr100a (s),Ser440 (m),A,H-bonding
+,,Arg355 (s),B,H-bonding
+,Asp100c (s),Arg355 (s),B,Ion interaction
+𝑅𝐹𝐿11,,,,
+,∗,,,
+,Phe48 (s),Asp356 (s),A,Anion-pi
+,Tyr49 (s),Asp356 (s),A,H-bonding
+,,Lys439 (s),A,Cation-pi
+H2,Arg50 (s),Gln438 (s),A,H-bonding
+,,Tyr436 (s),A,H-bonding
+,Ser51 (s),Gln438 (m),A,H-bonding
+,∗,,,
+,Asn52 (s),Gln438 (m),A,H-bonding
+,∗,,,
+,Thr102 (s),Ser444 (s),A,H-bonding
+,∗,,,
+,Thr103 (s),Ser442 (s),A,H-bonding
+,∗,,,
+,Asp104 (s),Arg355 (s),A,Ion interaction
+,∗,,,
+H3,Phe105 (s),Pro352 (s),A,Hydrophobic
+,,Pro352 (s),B,Hydrophobic
+,Tyr106 (s),Arg355 (s),A,Cation-pi
+,Tyr107 (s),Arg355 (s),A,Cation-pi
+"Abbreviations: (s) and (m) denote the side chain and the main chain, respectively.",,,,

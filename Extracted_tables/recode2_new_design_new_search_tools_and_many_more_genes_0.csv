@@ -1,0 +1,13 @@
+0,1,2
+Users,,
+,Recode2,
+username [PK],,
+password,id recode [PK],
+,,Structures
+email,recode1,
+name,organism [FK],structure [PK]
+address,kingdom [FK],name
+url,locus,description
+task,description [FK],
+rights [FK],status [FK],
+activated,,

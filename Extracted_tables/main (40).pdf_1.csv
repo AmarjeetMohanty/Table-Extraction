@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6,7,8,9,10
+Table 2,,,,,,,,,,
+Antibiotic susceptibility pattern of E. coli,,,isolates to different antibiotics.,,,,,,,
+E. coli,isolates,CAZ,AM,CL,AMC,CIP,FOX,CTX,AK,CRO
+E. coli,IC1,R*,R,R,R,I*,R,R,R,R
+E. coli,IC2,R,R,R,R,R,R,R,I,R
+E. coli,IC3,R,R,R,R,R,I,R,I,R
+E. coli,IC4,R,R,R,R,R,I,R,I,R
+E. coli WW1,,R,R,R,R,R,R,R,R,R
+E. coli WW2,,R,I,R,R,I,S*,R,R,R
+,"* Denotes for Resistant (R),",,Intermediate (I) and Susceptible (S).,,,,,,,

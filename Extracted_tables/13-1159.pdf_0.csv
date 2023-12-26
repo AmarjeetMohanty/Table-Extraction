@@ -1,0 +1,19 @@
+0,1,2,3,4,5,6,7
+T,"able 1.	Details, by efficacy trial number, of subunit vaccine formulations containing recombinant Hendra virus soluble G glycoprotein*",,,,,,
+"Trial no., horse",,,Hendra virus soluble G glycoprotein specification,,"Challenge, days",Viral	infectivity control,
+identification,,Source,Irradiation,"Dose, g",after vaccination,Species,No.
+1,,,,,,Horse,1
+,V1,293F	HEK,No,100,21,,
+,V2,293F	HEK,No,100,21,,
+2,,,,,,Guinea pig,4
+,V3,293F	HEK,No,50,21,,
+,V4,293F	HEK,No,50,21,,
+,V5,293F	HEK,No,50,21,,
+3,,,,,,Ferret,2
+,V6,CHO,Yes,100,21,,
+,V7,CHO,Yes,100,21,,
+4,,,,,,Ferret,2
+,V8,CHO,Yes,100,194,,
+,V9,CHO,Yes,100,194,,
+,V10,CHO,Yes,100,194,,
+"*HEK,	human	embryonic	kidney	cells;	CHO,	Chinese	hamster	ovary	cells.",,,,,,,

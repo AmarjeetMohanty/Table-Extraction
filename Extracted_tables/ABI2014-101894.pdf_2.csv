@@ -1,0 +1,24 @@
+0,1,2
+,"Table 4: Number of nontarget amplicons predicted in a multiplex reaction of tiled primers for 10 kb amplicons. As in Table 3, but for the",
+multiplexes of the 10 kb-amplicon tiled primers.,,
+Organism,Nontarget amplicons/total amplicons,Nontarget amplicon source organism
+CCHF S,0/160,—
+CCHF M,0/261,—
+CCHF L,0/253,—
+RVF S,0/137,—
+RVF M,0/487,—
+RVF L,0/195,—
+Ebola,0/534,—
+Marburg,0/123,—
+Hendra,0/50,—
+Nipah,0/74,—
+Junin L,0/12,—
+Machupo L,0/7,—
+Junin S,0/95,—
+Machupo S,0/32,—
+JEV,0/1554,—
+NW Arena S,1/337,Human chromosome 14 BAC C-2555K7 of library CalTech-D
+NW Arena L,0/86,—
+OW Arena S,0/316,—
+OW Arena L,0/131,—
+TBEV,0/189,—

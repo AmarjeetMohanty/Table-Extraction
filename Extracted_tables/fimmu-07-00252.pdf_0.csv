@@ -1,0 +1,24 @@
+0,1,2,3,4,5,6,7
+TABLE 1 | The diversity and relative abundance of bacteria in air particulate matter (PM2.5 and PM10).,,,,,,,
+,,PM2.5,,,,PM10,
+No.,Name of bacteria,Relative abundance (%),G+/G(cid:0),No.,Name of bacteria,Relative abundance (%),G+/G(cid:0)
+1,Acinetobacter,26.18,G(cid:0),1,Acinetobacter,24.84,G(cid:0)
+2,Corynebacterium,21.07,G+,2,Enterococcus,20.65,G+
+3,Psychrobacter,9.13,G(cid:0),3,Escherichia,12.54,G(cid:0)
+4,Enterococcus,6.85,G+,4,Bacteroides,8.89,G(cid:0)
+5,Lactobacillus,6.08,G+,5,Corynebacterium,7.86,G+
+6,Bacteroides,5.24,G(cid:0),6,Pseudomonas,4.38,G(cid:0)
+7,Faecalibacterium,3.47,G+,7,Macrococcus,3.02,G+
+8,Macrococcus,3.17,G+,8,Coprococcus,2.87,G+
+9,Aeromonas,1.58,G(cid:0),9,Aeromonas,2.03,G(cid:0)
+10,Shewanella,1.53,G+,10,Cetobacterium,1.52,G+
+11,Pseudomonas,0.89,G(cid:0),11,Staphylococcus,1.07,G+
+12,Pseudoalteromonas,0.48,G(cid:0),12,Ruminococcus,0.85,G+
+13,Cetobacterium,0.34,G+,13,Lactobacillus,0.63,G+
+14,Kocuria,0.28,G+,14,Bifidobacterium,0.28,G+
+15,Halomonas,0.17,G+,15,Shewanella,0.22,G+
+16,Enhydrobacter,0.10,G(cid:0),16,Faecalibacterium,0.16,G+
+17,Ruminococcus,0.08,G+,17,Kocuria,0.08,G+
+18,Wautersiella,0.08,G+,18,Vibrio,0.06,G(cid:0)
+19,Brachybacterium,0.06,G+,19,Neisseria,0.06,G(cid:0)
+20,Acidiphilium,0.01,G+,20,Micrococcus,0.04,G+

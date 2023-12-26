@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7,8
+,"Table 1 Summary statistics of daily air pollutant concentrations, meteorological data and mortality.2001–2013",,,,,,,
+,No.(days),Mean,SD,Percentile,,,,
+,,,,Min,10th,50th,90th,Max
+Air Pollutants,,,,,,,,
+PM10 (μg/m3),4748,29.4,12.9,7.6,19.1,27.6,39.9,336.6
+PM2.5 (μg/m3),4748,20.0,10.6,6.0,11.9,18.1,28.9,275.8
+CO (mg/m3),4748,0.6,0.2,0.1,0.3,0.5,0.8,3.6
+NO2 (μg/m3),4748,25.0,6.8,7.4,16.8,24.4,33.7,60.7
+O3 (μg/m3),4747a,37.7,15.1,5.4,20.1,35.8,56.9,125.5
+SO2 (μg/m3),4748,13.2,7.6,0.5,4.2,12.3,23.2,60.8
+Meteorological variables,,,,,,,,
+DBT (°C),4748,27.8,1.1,23.4,26.3,27.8,29.2,30.9
+Relative humidity (%),4748,81.4,5.3,63.6,74.6,81.2,88.5,98.1
+Daily non-accidental mortality,,,,,,,,
+All ages,4748,43.5,7.7,21,34.0,43.0,54.0,74
+< 65 years,4748,12.9,3.6,2,8.0,13.0,18.0,27
+> 65 years,4748,30.6,6.5,13,23.0,30.0,39.0,57
+Daily cardiovascular mortality,,,,,,,,
+All ages,4748,15.4,4.1,4,10.0,15.0,21.0,33
+< 65 years (No.),4748,4.3,2.1,0,2.0,4.0,7.0,16
+> 65 years (No.),4748,11.2,3.4,2,7.0,11.0,16.0,26
+aNo data for ozone on 11/2/2012,,,,,,,,

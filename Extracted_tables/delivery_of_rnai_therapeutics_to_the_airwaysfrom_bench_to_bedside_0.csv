@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6
+,Table 6. Summary of clinical trials of RNAi therapeutics in respiratory diseases.,,,,,
+RNAi,Condition,Delivery,Status,Company/Sponsor,Ref/Trial ID,Year
+N protein,,,,,,
+,,"Intranasal,",Phase I & II,Alnylam,,
+siRNA,RSV infection,,,,"[139,140,230]",2012
+,,naked siRNA,Completed,Pharmaceuticals,,
+(ALN-RSV01),,,,,,
+N protein,RSV infection in,,,,,
+,,"Inhalation,",Phase II,Alnylam,,
+siRNA,lung transplant,,,,[231],2011
+,,naked siRNA,completed,Pharmaceuticals,,
+(ALN-RSV01),patient,,,,,
+Syk siRNA,,"Inhalation,",Phase I,ZaBeCor,,
+,Asthma,,,,"[199,200]",2010
+(Excellair),,naked siRNA,completed,Pharmaceuticals,,
+,Solid tumor,,,,,
+miR-34,,"Intravenous,",,Mirna,,
+,including,,Phase I ongoing,,NCT01829971,2013
+(MRX34),,liposomes,,Therapeutics,,
+,NSCLC,,,,,
+miR-16,Recurrent MPM,"Intravenous,",,University of,,
+,,,Phase I ongoing,,NCT02369198,2015
+(TargomiRs),and NSCLC,nanoparticles,,Sydney,,
+,"Notes: MPM, malignant pleural mesothelioma; NSCLC, non-small cell lung cancer; RSV, respiratory syncytial",,,,,

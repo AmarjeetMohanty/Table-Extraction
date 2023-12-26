@@ -1,0 +1,20 @@
+0,1,2,3
+"Int. J. Mol. Sci. 2008, 9",,,
+,Table 5. Examples for delivery of siRNAs.,,
+Cargo,CPP/delivery system,proposed uptake,Reference
+,,mechanism,
+siRNA,"MPG, MPGΔNLS (non-covalent)",non-endocytotic,[131]
+siRNA,"penetratin, transportan",n. d.,[104]
+siRNA,"Tat47-57, Tat-derived",n. d.,[90]
+,oligocarbamate,,
+siRNA,penetratin,n. d.,[230]
+siRNA,"H3K8b, H3K8b(+RGD)",endocytotic,[172]
+siRNA,stearyl-R8,endocytotic,[232]
+siRNA,Chol-R9,endocytotic,[121]
+siRNA,MPGα,endocytotic,[236]
+siRNA,R8-MEND (siRNA/stearyl-R8,endocytotic,[187]
+,core),,
+siRNA,"EB1, MPGΔNLS, bPrPp",endocytotic,[76]
+siRNA,"Tat48–60, penetratin",endocytotic,[106]
+siRNA,RVG peptide,n. d.,[234]
+siRNA,rCPP,endocytotic,[181]

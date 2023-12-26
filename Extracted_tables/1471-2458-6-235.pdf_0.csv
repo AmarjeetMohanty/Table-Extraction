@@ -1,0 +1,24 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Table 2: Sample fully identified line list. (Synthetic data for purposes of illustration).,,,,,,,,,,,,,,
+,Index,Syndrome,Visit date,Visit Comment,Age group,Gender,City,Zip code,Event type,Temp,DOB,Provider ID,Medical Rec#,ICD9 codes,Tests
+,,,,,,,,,,,,,,,ordered
+,18,Botulism-like,2/17/2006,New!!,35 to 39,M,Winchester,01890,Visit,0,6/3/1968,E263,234839,Visual,None
+http://www.biomedcentral.com/1471-2458/6/235,,,,,,,,,,,,,,Disturbances;spec,
+,20,Botulism-like,2/17/2006,Last Visit 02/14/2006,5 to 12,F,Medford,02155,Visit,0,19/06/1999,E126,2623357,Diplopia,None
+,51,Fever,2/17/2006,Last Visit 01/31/2006,1 to 4,F,North Reading,01864,Visit,98.9,6/1/2003,11646,70462348,Viral Infections,CSF
+,,,,,,,,,,,,,,Unspecified;Unspecified,
+,,,,,,,,,,,,,,Viral Infection,
+,52,Fever,2/17/2006,New!!,60 to 64,M,Arlington,02476,Visit,97.4,14/01/1942,P036,70394015,Viral Infections,None
+,,,,,,,,,,,,,,Unspecified; Unspecified,
+,,,,,,,,,,,,,,Viral Infection,
+,107,GI:lower,2/17/2006,New!!,1 to 4,M,Ayer,01432,Tel. call,0,13/02/2003,C241,1696943,"Abdominal Pain,",None
+,,,,,,,,,,,,,,unspecif.; Shortness Of,
+,,,,,,,,,,,,,,Breath,
+,108,GI:lower,2/17/2006,New!!,13 to 19,F,Burlington,01803,Visit,98.2,15/11/1991,11646,70463731,Gastroenteritis/,None
+,,,,,,,,,,,,,,colitis N,
+,378,Neurological,2/17/2006,Last Visit 02/10/2006,40 to 44,M,Wilmington,01887,Tel. call,0,1/8/1961,18503,70458803,"Convulsions, Other",None
+,379,Neurological,2/17/2006,New!!,55 to 59,M,Lowell,01854,Visit,0,29/05/1947,F609,1635454,Headache,None
+,411,Rash,2/17/2006,New!!,50 to 54,M,Weymouth,02188,Tel. call,0,15/11/1953,19217,70363320,Herpes Simplex Nos,None
+,434,Respiratory,2/17/2006,New!!,13 to 19,F,Hyde Park,02136,Visit,98.1,20/10/1988,18461,489441,Bronchitis Acute;Cough,None
+,435,Respiratory,2/17/2006,Last Visit 01/30/2006,40 to 44,F,Belmont,02478,Visit,0,6/9/1963,P326,392719,"Mononucleosis,",None
+,,,,,,,,,,,,,,Infectious,

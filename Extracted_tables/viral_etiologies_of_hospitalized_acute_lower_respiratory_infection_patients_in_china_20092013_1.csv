@@ -1,0 +1,32 @@
+0,1,2,3
+,,,Viral Etiologies of ALRI
+,Table 2. Co-detection of multiple viral etiologies in acute lower,respiratory infections.,
+Viral etiologies,No. of cases,Viral etiologies,No. of cases
+Two pathogens,1709 (84.1%),FLU+RSV+hBoV,24
+FLU+RSV,354,PIV+ADV+hBoV,16
+RSV+PIV,272,RSV+ADV+hBoV,15
+RSV+ADV,166,RSV+PIV+hCoV,15
+RSV+hBoV,144,FLU+RSV+hCoV,11
+PIV+hBoV,129,FLU+ADV+hBoV,9
+FLU+PIV,99,FLU+PIV+hBoV,7
+PIV+ADV,66,RSV+PIV+hMPV,7
+RSV+hCoV,63,FLU+PIV+ADV,6
+FLU+ADV,59,RSV+hMPV+hBoV,6
+FLU+hBoV,55,PIV+ADV+hCoV,5
+ADV+hBoV,51,RSV+ADV+hCoV,5
+RSV+hMPV,43,ADV+hMPV+hBoV,4
+FLU+hCoV,38,FLU+ADV+hCoV,3
+PIV+hCoV,37,FLU+hMPV+hBoV,3
+FLU+hMPV,26,PIV+ADV+hMPV,3
+PIV+hMPV,26,PIV+hCoV+hBoV,3
+hMPV+hBoV,18,PIV+hMPV+hBoV,3
+ADV+hCoV,16,RSV+ADV+hMPV,3
+hCoV+hBoV,16,FLU+hMPV+hCoV,2
+hMPV+hCoV,16,FLU+PIV+hCoV,2
+ADV+hMPV,15,RSV+hCoV+hBoV,2
+Three pathogens,277 (13.6%),ADV+hMPV+hCoV,1
+FLU+RSV+PIV,39,FLU+RSV+hMPV,1
+RSV+PIV+hBoV,29,RSV+hMPV+hCoV,1
+RSV+PIV+ADV,27,4 pathogens,43 (2.1%)
+FLU+RSV+ADV,25,5 pathogens,3 (0.1%)
+doi:10.1371/journal.pone.0099419.t002,,,

@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7,8
+,Table 1. Virion-associated influenza virus proteins identified by mass spectrometry.,,,,,,,
+,,,SDS-PAGE and LC-MS/MS Analysis,,,MudPIT Analysis,,
+,,,No. of,,,No. of,Protein,
+Protein,,,observed,Mascot,Sequence,observed,prophet,Sequence
+name,Mass (Da),Gel slicea,peptidesc,scoree,coverage (%)f,peptidesc,scoree,coverage (%)f
+PB1,86516,10,35,700,37.1,5,1,8.6
+PB2,85796,11,34,768,35.6,17,1,23.7
+PA,82531,11,23,458,28.2,5,1,9.4
+HA,63525,"11–17,21–24,26–34,",2–70d,54–546d,29.4,22,1,40.4
+,,"38–43,48",,,,,,
+NP,56244,"15–19,23,27,30",5–61d,66–1073d,46.8,32,1,35.3
+NA,49689,"20–21,28",3–6d,52–98d,15.5,9,1,22.7
+M1,27864,32–46,3–102d,76–787d,66.3,12,0.98,34.7
+M2,11313,46–47,2–3d,39–101d,48.5,1,0.96,11.3
+NEP,14327,15b,7,77,31.4,1,0.95,7.4

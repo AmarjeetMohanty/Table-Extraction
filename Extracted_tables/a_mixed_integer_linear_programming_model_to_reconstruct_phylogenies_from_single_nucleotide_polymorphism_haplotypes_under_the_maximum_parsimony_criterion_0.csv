@@ -1,0 +1,49 @@
+0,1,2,3
+"Catanzaro et al. Algorithms for Molecular Biology 2013, 8:3",,,Page 6 of 14
+http://www.almob.org/content/8/1/3,,,
+(cid:3),,,
+"zs
+∀ i ∈ R, j ∈ V : i, j ∈ Z
+≤ ui
+ij",(2h),Proof.,"In a feasible solution to the problem a vertex ui,"
+s∈ ˆS,,"i ∈ VH(cid:5) , cannot be a terminal vertex.","In fact,
+if such a"
+(cid:3),,,
+,,,"condition held, a cheaper solution could be obtained by"
+"zs
+∀ j ∈ R, i ∈ V : i, j ∈ Z
+≤ uj",(2i),,
+ij,,(cid:3),(cid:3)
+,,"from T
+dropping ui",", contradicting the optimality of T"
+s∈ ˆS,,,
+"(cid:3)
+(cid:3)",,,
+,,,"itself. Hence, the degree of any vertex in VH(cid:5) must be at"
+"zs
+∀ i ∈ Q
+≥ 1",(2j),,
+ij,,,"least 2. Now, in a feasible solution to the problem variables"
+j∈V :,,,
+s∈ ˆS,,,
+j∈Z,,"ui ∈ {0, 1}. If ui = 0, constraint (4) reduces to",
+"(cid:3)
+(cid:3)",,,
+"zs
+∀ i ∈ R
+≥ ui",,"(cid:3)
+(cid:3)",
+ij,(2k),,
+j∈V :,,"zs
+≥ 0",
+s∈ ˆS,,ij,
+j∈Z,,,
+,,"j∈V :
+s∈ ˆS",
+"(cid:3)
+(cid:3)
+(cid:3)",,,
+,,j∈Z,
+≤,,,
+"zs
+ui + |CH| − 1",,,

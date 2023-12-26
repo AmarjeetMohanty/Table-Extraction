@@ -1,0 +1,24 @@
+0,1,2,3
+,"Table 1. Demorgraphics, comorbidities, and clinical presentations in mortality and survival groups.",,
+,All patients,Survival Group,Mortality Group
+Variable,,,
+,N = 22,N = 15,N = 7
+"Age, median(IQR), years",67(56–75),67(56–78),67(52–86)
+"Sex: men, women","17,5","12,3","5,2"
+Exposure to live poultry,2(9),1(7),1(14)
+Coexisting medical condition,,,
+Any,15(68),10(67),5(71)
+Hypertension,9(41),7(47),2(29)
+Diabetes,4(18),3(20),1(14)
+Coronary heart disease,4(18),3(20),1(14)
+Chronic obstructive pulmonary disease,2(9),2(13),0
+Brest cancer,1(5),1(7),0
+Hepatitis B infection,1(5),0,1(14)
+Outcome,,,
+Acute respiratory distress syndrome,12(55),5(33),7(100) **
+Requiring mechanical ventilation,11(50),4(27),7(100) **
+Symptoms,,,
+Fever .38uC,22(100),15(100),7(100)
+Cough,20(91),14(93),6(86)
+Dyspnea,16(73),10(67),6(86)
+Expectoration,4(18),3(20),1(14)

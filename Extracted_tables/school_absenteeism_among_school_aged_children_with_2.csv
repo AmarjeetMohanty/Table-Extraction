@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,,Days absent per,,,,,,,Mean,,,,,,
+Virus type,,100 children,,,,,,,days,,,,,,OR
+,A/H1N1,,,,,,,,,,,,,,
+,Vaccinated,233·3,,,,,,,0·77,,,,,,1·8
+,Unvaccinated,238·5,,,,,,,0·87,,Reference,,,,
+,A/H1N1 (LAIV excluded),,,,,,,,,,,,,,
+,Vaccinated,140·0,,,,,,,0·24,,,,,,0·9
+,Unvaccinated,238·5,,,,,,,0·86,,Reference,,,,
+,A/H3N2,,,,,,,,,,,,,,
+,Vaccinated,257·1,,,,,,,1·10,,,,,,1·7
+,Unvaccinated,238·0,,,,,,,1·05,,Reference,,,,
+,A/H3N2 (2014-15 excluded),,,,,,,,,,,,,,
+,Vaccinated,248·5,,,,,,,0·82,,,,,,1·3
+,Unvaccinated,248·9,,,,,,,0·81,,Reference,,,,
+,B/Yamagata,,,,,,,,,,,,,,
+,Vaccinated,300·0,,,,,,,0·77,,,,,,2·1
+,Unvaccinated,298·1,,,,,,,0·71,,Reference,,,,
+,B/Victoria,,,,,,,,,,,,,,
+,Vaccinated,323·2,,,,,,,1·22,,,,,,0·9
+,Unvaccinated,293·0,,,,,,,1·11,,Reference,,,,
+,,,0·0,0·5,1·0,1·5,2·0,2·5,,0,"2
+4",6,8,10,

@@ -1,0 +1,27 @@
+0,1,2,3,4,5
+,,,,,Surveillance of respiratory pathogens in Lao PDR
+Table 3. Temporal clustering of infections within households. Table shows cases with the same pathogen detected that occurred within the same household within 21,,,,,
+days of each other.,,,,,
+Household ID,Shared infection(s),,"Cases in cluster (position in householda, age in years)",,Interval between onset of cases (days)
+,,First,Second,Third,
+10–275,FluA/H3N2,"Daughter, 16 b",-,-,0
+,,"Wife, 46 b",,,
+12–900,FluA/H3N2,"Wife, 47","Wife, 48",-,3
+25–226,FluA/H3N2,"Granddaughter, 3 b",-,-,0
+,,"Daughter, 13 b",,,
+17–586,FluA/H3N2,"Daughter, 16","Son, 3",-,18
+18–663,FluA/H3N2,"Head (male), 64","Grandson, 6",,3
+07-049/1,FluB,"Granddaughter, 18","Daughter, 2",-,1
+07-321/1,FluB,"Head (male), 48","Head (female), 39",-,6
+21–092,FluB,"Daughter, 4","Daughter, 22",-,3
+11–266,FluB and S. pneumoniae (16F),"Daughter, 12","Wife, 58","Head (male), 60","1,2"
+02–220,HMPV,"Head (female), 43","Son, 5",-,8
+25–114,Para1,"Wife, 45","Granddaughter, 2",-,2
+24–010,Para4,"Son, 25","Wife, 37",-,9
+23–065,Rhino,"Head (male), 44 b",-,-,0
+,,"Mother, 99 b",,,
+13–120,S. pneumoniae (19F),"Son, 14 b",,-,0
+,,"Son, 22 b",,,
+,a Position in household in relation to head of household,,,,
+,b Cases within a cluster which shared the same date of onset,,,,
+https://doi.org/10.1371/journal.pone.0214207.t003,,,,,

@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13
+Table II. Clinical characteristics of the nine serum samples for western blotting verification.,,,,,,,,,,,,,
+,,,Age,,,,,,AST,ALT,TBIL,PT,HBV DNA
+No.,Source of serum,Gender,(years),HBsAg,HBsAb,HBeAg,HBeAb,HBcAb,(14.5‑40.0 U/l),,(3‑35 U/l)  (4.0‑23.9 µmol/l) (11.0‑14.5 sec),,(IU/ml)
+1,Healthy control,Male,36,-,+,-,-,-,21.0,31.0,13.8,12.3,<100
+2,Healthy control,Male,30,-,+,-,-,-,15.0,24.0,20.1,11.1,<100
+3,Healthy control,Male,30,-,+,-,-,-,19.2,28.6,15.6,12.8,<100
+4,CHB patient,Male,41,+,-,+,-,+,32.0,75.4,20.5,11.3,1.88x106
+5,CHB patient,Male,31,+,-,+,-,+,45.0,47.0,19.7,14.5,7.24x106
+6,CHB patient,Male,37,+,-,+,-,+,36.0,41.0,23.6,11.9,3.22x106
+7,HBV-induced ACLF patient,Male,21,+,-,+,-,+,104.5,68.0,278.9,27.3,5.66x106
+8,HBV-induced ACLF patient,Male,37,+,-,+,-,+,67.0,54.0,342.1,29.7,6.58x106
+9,HBV-induced ACLF patient,Male,43,+,-,-,+,+,36.0,78.0,521.4,31.5,7.33x105

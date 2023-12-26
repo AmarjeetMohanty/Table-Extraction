@@ -1,0 +1,21 @@
+0,1,2,3,4,5
+hybridization of OCPA-cDNA and OCPB-cDNA with chip probes.,,,,,
+,,,,O C P A - C h i p   H y b r i d i z a t i o n,
+,,100,,,
+A                    OCPA-TA               B,,80,,,OCPA-TA
+,,60,,,Hybridization
+,Photo intensity,40,,,OCPA-TB
+,,,,,Hybridization
+,,20,,,
+,,0,,,
+,,,1,2,
+OCPA-TB,,,,,
+,,,,O C P A - C h i p   H y b r i d i z a t i o n,
+,,100,,,
+C                         OCPB-TA                D,,80,,,OCPB-TA
+,,60,,,Hybridization
+,Photo intensity,40,,,OCPB-TB
+,,,,,Hybridization
+,,20,,,
+OCPB-TB,,0,,,
+,,,1,2,

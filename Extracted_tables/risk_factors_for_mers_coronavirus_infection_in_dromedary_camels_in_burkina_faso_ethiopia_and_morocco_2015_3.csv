@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6,7,8
+Table 2,,,,,,,,
+Colinearity index among variables explaining MERS-CoV seropositivity and viral RNA detection rates,,,,,,,,
+,,,,,,,Herd,
+Colinearity index,Age,Sex,Functiona,Region,Lifestyleb,Typec,,Country
+,,,,,,,categoryd,
+Age,1.00,,,,,,,
+Sex,0.03,1.00,,,,,,
+Functiona,0.04,0.86,1.00,,,,,
+Region,0.20,0.38,0.61,1.00,,,,
+Lifestyleb,0.01,0.12,0.17,0.78,1.00,,,
+Typec,0.01,0.05,0.41,1.00,0.25,1.00,,
+Herd categoryd,0.03,0.22,0.18,0.70,0.40,0.19,1.00,
+Country,0.13,0.14,0.31,1.00,0.41,0.25,0.50,1.00

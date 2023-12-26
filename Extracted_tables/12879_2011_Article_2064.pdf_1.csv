@@ -1,0 +1,37 @@
+0,1,2,3
+"Dabisch-Ruthe et al. BMC Infectious Diseases 2012, 12:163",,,Page 9 of 11
+http://www.biomedcentral.com/1471-2334/12/163,,,
+,"Table 5 Comparison of RVP, RespiFinder-19 and RespiFinder-SMART-22 with regard to test specifications, performance,",,
+cost and accomplishment,,,
+,RVP,RespiFinder-19,RespiFinder-SMART-22
+Manufacturer,Abbott Molecular,PathoFinder,PathoFinder
+CE IVD/FDA,yes/yes,yes/no,yes/no
+TEST SPECIFICATIONS,,,
+Pathogens,influenza A + B,influenza A + B,influenza A + B
+,RSV-A + B,RSV-A + B,RSV-A + B
+,adenovirus,adenovirus,adenovirus
+,hMPV,hMPV,hMPV
+,"PIV-1, -2, -3, -4","PIV-1, -2, -3, -4","PIV-1, -2, -3, -4"
+,"CoV 229E, NL63, OC43, HKU1","CoV 229E, NL63, OC43","CoV 229E, NL63, OC43, HKU1"
+,HRV,HRV,HRV
+,enterovirus,-,enterovirus
+,bocavirus,-,bocavirus
+,-,B. pertussis,B. pertussis
+,-,C. pneumoniae,C. pneumoniae
+,–,L. pneumophilaM. pneumoniae,L. pneumophilaM. pneumoniae
+Sample volume,500 μL,200 μL,200 μL
+Elution volume,55 μL,100 μL,100 μL
+PCR volume,10 μL,10 μL,10 μL
+Principle of detection,fluorescence bead array,capillary electrophoresis,melt curve analysis
+PERFORMANCE,,,
+Hands-on-time,0.80 h,1.75 h,1.25 h
+Time-to-result,3.5 h,7.5 h,6.0 h
+COSTS,,,
+"Costs reagents *,1",90-100 €,50-60 €,50-60 €
+Costs equipment *,"57-69,000 €","100-120,000 €","33-40,000 €"
+ACCOMPLISHMENT,,,
+Handling,+,+,++
+Personal training duration/qualification,2 d/very low,2 d/very low2,2 d/low
+Technical equipment,"extraction system, thermocycler,","extraction system, thermocycler,","extraction system, thermocycler,"
+,Luminex 200,DNA-Sequencer ABI3500,Rotorgene Q
+*All prices are for Germany (list price).,,,

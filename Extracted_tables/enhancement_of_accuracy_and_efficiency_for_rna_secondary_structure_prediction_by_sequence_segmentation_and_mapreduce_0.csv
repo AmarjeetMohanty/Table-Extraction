@@ -1,0 +1,12 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12
+,Table 4 Count and rank sum of sequences,,,,,,,,,,,
+,,,Non-pseudoknotted sequences,,,,,,Pseudoknotted sequences,,,
+Prediction,R-co,R-rs,C-co,C-rs,O-co,O-rs,R-co,R-rs,C-co,C-rs,O-co,O-rs
+IPknot,7.7,74.0,24.7,115.5,17.7,110.5,2.0,32.0,7.0,47.0,14.0,59.0
+pknotsRG,6.3,71.5,22.3,115.5,21.3,113.0,2.0,30.0,7.0,50.0,14.0,58.0
+HotKnots,4.0,68.0,22.0,115.5,24.0,116.5,1.0,32.0,6.0,47.0,16.0,59.0
+NUPACK,4.0,68.5,17.0,115.5,29.0,120.0,1.3,24.5,7.3,40.5,9.3,43.0
+PKNOTS,1.0,55.5,17.5,114.5,31.5,130.0,1.5,21.0,4.0,35.5,11.5,45.5
+UNAFold,4.0,67.0,25.0,118.0,21.0,115.0,,,,,,
+RNAfold,4.0,65.0,18.0,112.5,28.0,122.5,,,,,,
+Count,(co) and rank sum (rs) of sequences attaining the highest MAR with each chunking method for,,,,,,,the various prediction programs.,,,,

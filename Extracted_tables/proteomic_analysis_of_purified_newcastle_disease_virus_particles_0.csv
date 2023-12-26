@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6,7,8,9
+Table 1 Virus-encoded structural proteins and cellular proteins associated with purified NDV particles identified by,,,,,,,,,
+MALDI-TOF/TOF MS (Continued),,,,,,,,,
+27,Heat shock protein 70,Molecular chaperone,IPI00818704,70955.3/5.43,140,4,"HIV[31,32], SARS [33,34],",,"IV[35], VSV[36],"
+,,,,,,,,"IBV[37], PRRSV[38], Adenovirus[41],",
+,,,,,,,,"enterovirus[42], vaccinia virus[43],",
+,,,,,,,,hantaan virus[44],
+28,CAP-GLY containing linker,cytoskeleton,IPI00579643,116233.3/6.45,81,3,,IBV[37],
+,protein 2,,,,,,,,
+29,"Tubulin, alpha-1",cytoskeleton,IPI00591483,49639/4.78,259,6,,"HIV[31,32], SARS [33,34],","IV[35], VV"
+,,,,,,,"[25,26], EBV[19], HCMV[17], KSHV[20,21],",,
+,,,,,,,"VSV[36],","IBV[37], PRRSV[38]",
+30,heat shock 90 kDa aa protein,Molecular chaperone,IPI00596586,84006.5/5.01,130,7,,IBV[37],
+,"1, alpha",,,,,,,,
+a Protein spot numbers on 2-DE gel.,,,,,,,,,

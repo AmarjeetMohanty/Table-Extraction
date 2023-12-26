@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6,7
+0.6,,,,,,,
+,,,,,,8,
+,2,2,4,4,,incubation period (days),(n = 4; 30 min)
+probability of illness,,,,,,,"●
+●"
+,,,,,,,"●
+●●
+●"
+0.4,,,,,,6,
+,,,,,,,range (n = 8) McCrumb [41]
+,,,,,Saslaw et al. [32],,"●
+●
+●
+● ●
+●
+●"
+,,,,,Sawyer et al. [42] (30 min),,
+,,,,,,,"2
+2"
+,,,,,Sawyer et al. [42] (60 min),4,"●
+●"
+0.2,,,,,McCrumb [41],,
+,,,,,,,8
+,,,,,Sawyer et al. [33],,
+,,,,,Weibull (Jones et al. [3]),,
+,,,,,,,"mean (n = 44) Hornick & Eigelsbach [43]
+5"
+,,,,,lognormal (Jones et al. [3]),2,
+,,,,,exponential (Egan et al. [13]),,range (n = 16) Alluisi et al. [44]
+0,,,,,stochastic solution,,

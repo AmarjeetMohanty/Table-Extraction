@@ -1,0 +1,38 @@
+0,1,2,3,4,5,6,7,8
+Sample preparation and process,,,,,,Data analysis,,
+,,,,,,,,Figure 1. The pipeline
+,,,Genomics,,,,of,pathway/networks
+,,,,,,,centric,"approach 
+for"
+"• Fluid selection (blood,  tissue, cell, urine..)",epigeomics,,,,,,,
+,,,,Transcriptomics,,,cancer,biomarker
+"• Sample collection,  storage, freeze, assay",,,,,,"• Noise filtering, background  subtraction,",,
+design and processing,,,,,,"alignment, normalization,  transformation,",,discovery. A variety of
+• Patient population,,,,,,"feature selection, visualization.",,
+,,,,,,"• Feature selection, visualization",computational,tools
+,,,,,,,and,"algorithms 
+have"
+Study design,,Metabolomics,,Proteomics,,,been,"proposed 
+for"
+,,,,,,,biomarker,discovery
+,,,Databases,,,Pathways/network analysis,,based on pathway and
+,,,,,,,network,methods.
+,,,,,,,,The  most  commonly
+,,,Reactome,,,,,
+,,,,,,,used,"methods 
+are"
+,KEGG,,,,PID,,categorized,roughly
+•Clinical  question,,,,,,,,
+•Experiment workflow design,,,……,,,,,
+,,,,,,,into,"statistical 
+[17],"
+•Patient population,,,,,,,,
+,,,,,,,graph,"theory 
+[18],"
+,,HMDB,,PubMed,,,,
+,,,,,,,Bayesian,methods
+,,,,,,,,"[19], text mining [20],"
+,,,,,,,machine,learning
+,,,,,,,,[21-23] and integrative
+Clinical application,,Biomarkers validation,,,,Biomarkers identification,methods,summarized
+,,,,,,,in Table 1.,

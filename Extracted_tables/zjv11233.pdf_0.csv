@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6,7,8
+A,,,B,,,,,C
+,,,,,,,,8.4
+,,,,8,,,,
+CHIKV,637,L L V S G Y N L A,,,,,,1000
+ONNV,637,L L V S G Y L N I,,,,,,
+,,,,,,,,100
+RRV,636,L L V S E Y N L A,,,,,,
+,,,,6,5.5,,,
+SFV,637,L L V S E Y N L A,,,,,,
+,,,,,,,,10
+,,,,,,4.8,4.8,
+SINV,646,L V V S E Y N L A,,,,,,
+,,,,,,,4.5,
+VEEV,635,L V V S E K L S V,mutations/104 nucleotides,,,,,1
+,,,,4,,,,"percentage surviving 
+treatment"
+,,,,,,,,0.1

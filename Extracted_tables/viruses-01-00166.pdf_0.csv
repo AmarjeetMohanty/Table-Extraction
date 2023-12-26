@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6
+,"mutability, degree of relatedness, and the nature of the functional mutation in the 3c gene",,,,,
+,are given for each cat.,,,,,
+Cat,,,# SNPs/nts,% Sequence,,GenBank
+,Isolate,Genes sequenced,,,Status of 3c,
+name,,,sequenceda,identityb,,Accession #
+Red,FIPV-UCD11a,"S,E,M,N,3a-",36/8959,99.59,Early stop,FJ917519
+,,"c,7a,b",,,,
+,FIPV-UCD11b,,41/8959,99.54,,FJ917520
+Toby,FIPV-UCD12,"S,E,M,N,3a-",51/8984,99.43,Deletion,FJ917521
+,,"c,7a,b",,,,
+,FECV-UCD5,,50/8984,99.43,Intact,FJ917522
+Tux,FIPV-UCD-13,"S,E,M,N,3a-",35/8950,99.61,Deletion,FJ917523
+,,"c,7a,b",,,,
+Lucy,FIPV-UCD-14,"S,E,M,N,3a-",25/8958,99.72,Early stop,FJ917524
+,,"c,7a,b",,,,
+388210,FIPV-UCD-15a,"E,M,N,3a-c,7a,b",nac /4608,92,Deletions in 3b-c,FJ917525
+,,,,,and early stop,
+388406,FIPV-UCD-16,"E,M,N,3a-c,7a,b",na/4635,92,Early stop,FJ917526
+Cat-T,FIPV-UCD-17,"E,M,N,3a-c,7a,b",na/4660,92,Early stop,FJ917527
+392312,FIPV-UCD-18a,"E,M,N,3a-c,7a,b",na/4529,91,Deletions,FJ917528
+,FIPV-UCD-18b,,,,,FJ917529

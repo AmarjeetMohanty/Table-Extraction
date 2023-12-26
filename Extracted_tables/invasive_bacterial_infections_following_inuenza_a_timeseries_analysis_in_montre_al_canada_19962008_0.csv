@@ -1,0 +1,25 @@
+0,1,2,3,4,5
+Allard etal.,,,,,
+Table 2.,Full negative binomial regression model,for,the associations between Streptococcus pyogenes infection counts for a given week (week,,
+,0) and the inﬂuenza B counts for weeks 0 to )5*,,,,
+Independent variable,,Regression coefﬁcient,95% CI of coefﬁcient,IRR,95% CI of IRR
+Short work week,,–,–,0Æ7337,0Æ5547–0Æ9705
+Seasonal trends,Sine1,0Æ3113,0Æ1758–0Æ4469,–,–
+,Cosine1,)0Æ0646,)0Æ1824–0Æ0532,–,–
+,Sine2,)0Æ0414,)0Æ1631–0Æ0804,–,–
+,Cosine2,0Æ1464,0Æ0192–0Æ2736,–,–
+,Sine3,0Æ0100,)0Æ1141–0Æ1341,–,–
+,Cosine3,0Æ0546,)0Æ0618–0Æ1710,–,–
+,Sine4,)0Æ0069,)0Æ1236–0Æ1098,–,–
+,Cosine4,0Æ0223,)0Æ1039–0Æ1486,–,–
+,Sine5,0Æ0340,)0Æ0820–0Æ1500,–,–
+,Cosine5,0Æ0230,)0Æ0947–0Æ1407,–,–
+,Sine6,)0Æ0166,)0Æ1297–0Æ0965,–,–
+,Cosine6,0Æ1954,0Æ0758–0Æ3151,–,–
+Long-term trends,Spline1,0Æ0071,0Æ0024–0Æ0117,–,–
+,Spline2,)0Æ0654,)0Æ1064 to )0Æ0243,–,–
+,Spline3,0Æ2113,0Æ0868–0Æ3359,–,–
+,Spline4,)0Æ3157,)0Æ4843 to )0Æ1471,–,–
+,Spline5,0Æ3303,0Æ1665–0Æ4941,–,–
+,,–,,,
+"Inﬂuenza B, week 0",,,–,1Æ0376,1Æ0009–1Æ0757

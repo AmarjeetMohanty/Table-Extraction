@@ -1,0 +1,16 @@
+0,1,2,3
+T A B L E 2,Incidence per 100 patient‐seasons of per protocol RSV‐,,
+associated MARI,,(ARI or events leading to worsening cardiopul-,
+monary status during the RSV season),,,
+,,Incidence per 100 patient‐seasons,
+,(95% confidence intervals),,
+Season,,,
+,All events,Inpatient,Outpatient
+Season 1,6.37,3.15,3.16
+,"(3.29,11.13)","(1.15, 6.85)","(1.16, 6.87)"
+Season 2,5.41,0.76,4.61
+,"(3.35, 8.28)","(0.16, 2.21)","(2.74, 7.29)"
+Season 3,2.80,0.93,1.86
+,"(1.28, 5.31)","(0.19, 2.71)","(0.68, 4.04)"
+Seasons,4.68,1.32,3.32
+Combined,"(3.37, 6.32)","(0.68, 2.30)","(2.24, 4.74)"

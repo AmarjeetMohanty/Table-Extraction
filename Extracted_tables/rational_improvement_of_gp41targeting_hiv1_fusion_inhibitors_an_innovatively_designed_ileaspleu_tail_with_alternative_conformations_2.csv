@@ -1,0 +1,31 @@
+0,1,2
+Crystallographic data,N36-L6-CP-IDL,N43-L6-CP-IDL
+,42.9–2.30,33.9–2.30
+Resolution (Å),,
+,(2.34–2.30),(2.34–2.30)
+Wavelength (Å),1.5418,1.5418
+Measured reflections,18327,19003
+Average redundancy,3.4 (3.0),1.6 (1.4)
+Mean I/σ (I),10.5 (2.8),16.4 (1.8)
+Completeness (%),99.6 (94.7),92.3 (81.9)
+a,,
+Rmerge,0.087 (0.405),0.037 (0.428)
+Refinement statistics,,
+Space group,P21,P1
+Cell parameters,,
+a (Å),42.45,39.1
+b (Å),114.47,39.1
+c (Å),42.94,90.6
+α  (°),90,90.0
+β  (°),91.8,90.0
+γ  (°),90,120.0
+Reflections in working set,15515,18000
+Reflections in test set,1711,969
+b,,
+Rcryst,0.2194,0.2003
+c,,
+Rfree,0.2629,0.2467
+r.m.s.d. bonds (Å),0.002,0.003
+r.m.s.d. angles (°),0.447,0.497
+Average B-factor (Å2),39.6,49.7
+No. of waters,171,142

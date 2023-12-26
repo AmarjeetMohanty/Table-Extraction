@@ -1,0 +1,40 @@
+0,1,2,3,4,5,6
+Table 3  Experimental stroke studies using Mas receptor agonists,,,,,,
+Animals,Stroke model,Treatment profile,In vivo measures,Treatment outcome,Proposed underlying,Reference
+Gender,,MasR agonist,and methods,,mechanism,
+Strain,,Administration,,,,
+Weight,,Time point,,,,
+Male,tMCAO,Ang-(1–7),NS: 6 point score,Improved NS,Increased NO and eNOS,Zhang et al. [70]
+Sprague–Dawley rats,90 min,i.c.v infusion,,,expression in ischaemic core,
+280–320 g,Up to 72 h recovery,"1 pmol/0.5 µl/h,",,,and penumbral areas,
+,,100 pmol/0.5 µl/h or,,,,
+,,10 nmol/0.5 µl/h,,,,
+,,Post treatment,,,,
+Male,tMCAO,Ang-(1–7),BP: tail cuff,Did not affect BP or CBF,Decreased iNOS levels in ipsilat-,Mecca et al. [26]
+Sprague–Dawley rats,ET-1 model,i.c.v infusion,CBF: laser-Doppler,Did not affect CBF,eral hemisphere,
+250–275 g,3 day recovery,1.1 nM; 0.5 μl/h,Infarct volume: TTC,Improved NS,,
+,,Pre and post treatment,NS: Bederson and Garcia scores,Improved motor function,,
+,,,BHT: seed eating test,Decreased infarct volume,,
+Male,pMCAO,Ang-(1–7),CBF: laser-Doppler,Did not affect CBF,Anti-oxidant and anti-,Jiang et al. [71]
+Sprague–Dawley rats,Filament model,i.c.v infusion,Infarct volume: TTC,Improved NS,inflammatory,
+250–280 g,24 h,1.11 nM; 1 μl/h,NS: Bederson score,Decreased infarct volume,Decrease in oxidative stress,
+,,Pre and post treatment,,,"marker, malondialdehyde and",
+,,,,,increased SOD activity,
+,,,,,Reduced expression of inflam-,
+,,,,,"matory markers NFκB, COX-2,",
+,,,,,TNF-α and IL-1β,
+Male,tMCAO,Ang-(1–7),Infarct volume: TTC,Decreased infarct volume,Anti-inflammatory,Regenhardt et al. [17]
+Sprague–Dawley rats,ET-1 model,1.1 nM; 0.5 μl/h,,,"Decrease in IL-1α, IL-6, CXCR4",
+250–275 g,Up to 24 h recovery,i.c.v infusion,,,as well as iNOS and microglia,
+,,Pre and post treatment,,,marker CD11b expression in,
+,,,,,ipsilateral cortex,
+Male,pMCAO,Ang-(1–7),BP: Tail cuff method,Did not affect BP,Pro-angiogenic,Jiang et al. [72]
+Sprague–Dawley rats,Filament model,i.c.v infusion,CBF: laser-Doppler,Improved NS,"Increase in NO, eNOS and VEGF",
+250–280 g,24 h recovery,1.1 nM; 0.25 μl/h,NS: Bederson score,Improved CBF,protein levels and capillary,
+,,Pre-treatment,Infarct volume: TTC,Decreased infarct volume,density markers CD31 in,
+,,,,,ipsilateral hemisphere,
+Male,tMCAO,AVE0991,CBF: laser-Doppler,Did not affect CBF,Not discussed,Lee et al. [73]
+C57BL6/J mice,60 min,i.p bolus,NS: Bederson score,Did not affect NS,,
+22–30 g,24 h recovery,20 mg/kg,BHT: Open field and parallel rod,Did not affect BHT,,
+,,Post treatment,floor test,Did not affect infarct volume,,
+,,,Infarct volume: Thionin staining,,,

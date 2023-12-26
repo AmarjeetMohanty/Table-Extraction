@@ -1,0 +1,30 @@
+0,1,2,3,4
+(Table 6).,,,,
+,able 6. patients’ experiences that predicted emergency room utilization,,,
+,Emergency Status,,,
+Variables,,,Total,P-value
+,Non-urgent,Urgent,,
+,Do you get better services from the emergency room than doctor's clinics?,,,
+Yes,69 (52.7),62 (47.3),131 (100.0),
+No,90 (53.3),79 (46.7),169 (100.0),0.920
+Total,159 (53.0),141 (47.0),300 (100.0),
+,Do you have a choice other than the emergency room to go when you become sick?,,,
+Yes,156 (53.2),137 (46.8),293 (100.0),
+No,3 (42.9),4 (57.1),7 (100.0),0.586
+Total,159 (53.0),141 (47.0),300 (100.0),
+Telephone counseling,,,,
+Yes,0 (0.0),2 (100.0),2 (100.0),
+No,156 (53.2),135 (46.4),291 (100.0),0.130
+Total,156 (53.2),137 (46.8),293 (100.0),
+Primary health care centers,,,,
+Yes,88 (54.3),74 (45.7),162 (100.0),
+No,68 (51.9),63 (48.1),131 (100.0),0.681
+Total,156 (53.2),137 (46.8),293 (100.0),
+Visit outpatient clinics,,,,
+Yes,138 (55.9),109 (44.1),247 (100.0),
+No,18 (39.1),28 (60.9),46 (100.0),0.037*
+Total,156 (53.2),137 (46.8),293 (100.0),
+Go to the pharmacy,,,,
+Yes,8 (50.0),8 (50.0),16 (100.0),
+No,148 (53.4),129 (46.6),277 (100.0),0.789
+Total,156 (53.2),137 (46.8),293 (100.0),

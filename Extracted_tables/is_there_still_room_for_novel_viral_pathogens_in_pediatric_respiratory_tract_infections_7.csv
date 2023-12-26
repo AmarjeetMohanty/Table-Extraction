@@ -1,0 +1,23 @@
+0,1,2,3,4,5
+,,,,,Metagenomics of Respiratory Virus Infections
+Table 7. Cont.,,,,,
+Sample,Virusa,No. of Contigs,No. of reads incorporated into contigs,Genome size,Genome Coverage (%)
+"T43, T44",RV-C,3,14165,7107,92.92
+"C06, C55, T78, V24",HASTV,2,5,"6,759",2.52
+,CMV,1,6,3356,2.09
+,SAFV,2,126,"8,115",2.42
+,RV-C,3,7989,7107,92.66
+V26,HBoV,8,77,5299,15.30
+,RV-C,7,143,7107,15.06
+"C29, M40, M41, V39",SAFV,8,135,"8,115",8.76
+,TTMV,1,5,2912,2.75
+,RV-C,11,3061,7107,63.89
+"P131, V61",BatPV,1,2,"7,753",0.90
+,HBoV,1,4,5299,2.08
+,RV-A,3,14,"7,129",3.23
+,RV-B,4,3145,"7,215",90.33
+,HEV A,3,13,"7,413",3.10
+,TTMV,9,1531,2912,47.12
+,TTMDV,4,1881,3256,29.67
+,TTV,13,126,3725,42.31
+,RV-C,4,618,7107,19.77

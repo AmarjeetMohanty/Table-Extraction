@@ -1,0 +1,33 @@
+0,1,2,3,4
+a supportive role in the virus life cycle [71].,,,,
+,,Table 2. Cleavage of translation-related proteins by 3Cpro.,,
+Host Cell,,,,
+,Virus,Functions,Cleavage Site,Reference
+Protein,,,,
+,,Binds capped mRNA to the 40S,,
+eIF4A I,FMDV,ribosomal subunit and unwinds,CIGGTNVRAE143VQKLQMEA,[63]
+,,double-stranded RNA,,
+,,Brings mRNA to the 40S ribosome in,,
+eIF4G I,FMDV,,RRSQQGPRKE712PRKIIATVL,[61]
+,,translation initiation,,
+,PV,,,
+,,Positions the initiation methionine,,
+eIF5B,CV,,LCAAVEVMEQ478GVPEKEET,[64]
+,,tRNA on the start codon of the mRNA,,
+,HRV,,,
+,,RNA-binding protein that interacts,,
+G3BP1,CV,,EAGEQ325GDIEP,[70]
+,,with Ras-GAP,,
+,HAV,,IGRQ306GAKI (Speculated),[66]
+,,Translational activation and control of,,
+PCBP2,,,AMQQ253SHFP . . .,
+,PV,gene expression,,[65]
+,,,IGRQ306GAK,
+,PV,,Not clear,[67]
+,,Involved in poly (A) shortening and,,
+PABP,HAV,,Not clear,[68]
+,,translation initiation,,
+,EMCV,,VRPPAAIQ437GVQAGA,[69]
+,,Involved in cellular differentiation,,
+Sam68,FMDV,,C-terminal portion,[71]
+,,and proliferation,,

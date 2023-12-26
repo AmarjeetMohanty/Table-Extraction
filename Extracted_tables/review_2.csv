@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6,7,8
+,,,,,"MB-FFP (73,778 units)",,,
+,N,Incidence,,Incidence rate,,,Imputability levels,
+,,,Grade 1,,Grade 2-3,1,2,3
+Allergic/anaphylactic,3,"1:24,593",3,,0,0,1,2
+FNHTR,0,"0:73,778",0,,0,0,0,0
+TRALI,0,"0:73,778",0,,0,0,0,0
+TACO,0,"0:73,778",0,,0,0,0,0
+TAD,0,"0:73,778",0,,0,0,0,0
+Bacterial,0,"0:73,778",0,,0,0,0,0
+Other,0,"0:73,778",0,,0,0,0,0
+Total,0,"1:24,593",0,,0,0,1,3
+,MB-FFP: methylene blue-treated fresh-frozen plasma; FNHTR: febrile non-haemolytic transfusion reaction; TRALI: transfusion-associated acute lung,,,,,,,

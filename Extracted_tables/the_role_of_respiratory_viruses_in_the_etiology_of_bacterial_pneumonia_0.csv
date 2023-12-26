@@ -1,0 +1,42 @@
+0,1,2,3,4,5
+,"Table 2 Temporal associations between respiratory viruses and S. pneumoniae,",,,,
+the USA,,,,,
+Study,,Virus,Outcome,Age group,Temporal
+,,,,,association
+Kim et al.,[56],ADV,IPD,All,Yes
+,,IV,,,Yes
+,,PCV,,,No
+,,PIV,,,No
+,,RSV,,,Yes
+,,All,,,Yes
+,,except,,,
+,,IV,,,
+Talbot et al.,[57],IV,IPD,All,Yes
+,,RSV,,,Yes
+Ampofo et al.,[58],ADV,IPD,<18 years,No
+,,hMPV,,,Yes
+,,IV,,,Yes
+,,PIV,,,No
+,,RSV,,,Yes
+Murdoch and,,IV,IPD,All,Yes
+Jennings [59],,PIV1,,,No
+,,PIV2,,,No
+,,PIV3,,,Yes
+,,RSV,,,"Yes, only in < 5 years"
+Nelson et al.,[60],IV,IPD,All,Yes
+Walter et al.,[61],IV,Pneumonia,All,Yes
+Zhou et al.,[62],IV,Pneumonia,All,Varies by season
+,,RSV,,,Varies by season
+Weinberger et al.,,2009 H1N1,Pneumonia,All,Yes
+2012 [63],,season,,,
+Shrestha et al.,[64],Inﬂuenza,Pneumonia,All,Yes
+,,seasons,,,
+Fleming-Dutra,,2009 H1N1,Pneumonia,All,Yes
+"[65]
+et al.",,season,,,
+Weinberger et al.,,RSV,Pneumonia,<7 years,Yes
+2014 [66],,,,,
+Weinberger et al.,,RSV,Pneumonia,<1 years,Yes
+2015 [67],,,,1 to < 2 years,Yes
+,,IV,,<1 years,No
+,,,,1 to < 2 years,Yes

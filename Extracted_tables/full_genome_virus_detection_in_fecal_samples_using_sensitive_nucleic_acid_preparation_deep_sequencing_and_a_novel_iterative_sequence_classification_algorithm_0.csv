@@ -1,0 +1,27 @@
+0,1,2,3,4,5
+Table 1. Sample details.,,,,,
+,,,,GenBank Accession,Mean genome
+Sample,Total reads1,Known agent2,Complete viral genome assembled3,number,coverage4
+1,"1,212,092",Aichi virus,,,
+2,"156,518",Norovirus,,,
+3,"1,011,850",Norovirus,Adenovirus_Amsterdam_1995,KJ194509,7.41
+4,"952,694",Cosavirus,Cosavirus_Amsterdam_1994,KJ194505,64.85
+5,"1,257,100",Norovirus,,,
+6,"1,719,448",Norovirus,,,
+7,"1,012,842",Norovirus,NV_Amsterdam_1994,KJ194504,264.67
+8,"1,077,900",Norovirus,,,
+9,"1,279,402",Norovirus,HBV_Amsterdam_1_1994,KJ194506,1.5
+10,"12,044,856",IIAS virus5,HBV_Amsterdam_2_1994,KJ194508,4.79
+11,"3,347,066",Aichi virus,TTV_Amsterdam_1994,KJ194503,2.16
+12,"2,426,096",Norovirus,,,
+13,"2,533,908",Norovirus,,,
+14,"1,612,944",Norovirus,NV_Amsterdam_1_1995,KJ194500,24.88
+15,"2,474,006",NANB-1 virus,,,
+16,"1,614,452",Norovirus,NV_Amsterdam_2_1995,KJ194510,1263.51
+17,"3,344,548",Norovirus,Adenovirus_Amsterdam_1995,KJ194501,97.56
+,,,HPV_Amsterdam_1995,KJ194499,2.14
+,,,NV_Amsterdam_3_1995,KJ194507,3.15
+,,,TTV_Amsterdam_1995,KJ194502,7.09
+18,"1,450,342",Norovirus,,,
+19,"1,380,360",Norovirus,,,
+20,"5,338,614",NANB-1 virus,,,

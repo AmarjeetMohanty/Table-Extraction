@@ -1,0 +1,21 @@
+0,1,2,3,4,5,6
+Table 5 Number of,,"infants vaccinated at admission, monthly cumulative coverage estimates, and VE against pertussis",,,,
+,"hospitalizations of 1st and 2nd infant dose for preterm and term infants, assessed with the screening method",,,,,
+,Term infants,,,Preterm infants,,
+Age in,Vaccinated at,Coverage in general,Vaccine effectiveness,Vaccinated at,Coverage in general,Vaccine effectiveness
+months↓,admission % (n),population,(95% CI)a,admission % (n),population,(95% CI)a
+Main analysis,,,,,,
+0 m,0% (0/1),na,na,0% (0/1),na,na
+1 m,1.4% (2/144),1.9%,na,0% (0/14),1.3%,na
+2 m,34.2% (52/152),90.9%,95%b (93–96%),60% (9/15),84.9%,73%b
+,,,,,,(20–91%)
+3 m,85.9% (67/78),98.8%,93% (85–96%),86.7% (13/15),97.9%,86%
+,,,,,,(9–96%)
+4 m,93.8% (30/32),99.4%,91%,100% (4/4),99.4%,na
+Sensitivity analysis,,,,,,
+0 m,0% (0/1),na,na,0% (0/1),na,na
+1 m,0.9% (1/115),1.9%,na,0% (0/14),1.3%,na
+2 m,33.7% (33/98),90.9%,95%b (92–97%),60% (9/15),84.9%,73%b (20–91%)
+3 m,89.4% (42/47),98.8%,90% (71–96%),86.7% (13/15),97.9%,86% (9–96%)
+4 m,100% (14/14),99.4%,na,100% (4/4),99.4%,na
+,aaccording to the screening method,,,,,

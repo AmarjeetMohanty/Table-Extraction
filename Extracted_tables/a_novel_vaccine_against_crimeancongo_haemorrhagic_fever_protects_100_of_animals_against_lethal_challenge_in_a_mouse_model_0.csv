@@ -1,0 +1,15 @@
+0,1,2,3,4,5
+,"Table 1. Severity of microscopic lesions in HE stained tissues from vaccinated A129 mice, challenged with CCHFv.",,,,
+,,Group,,,
+,Severity,,,,
+,,Saline (day 32–33),MVA 1974 (day 32–33),MVA-GP (day 32),MVA-GP (day 42)
+Spleen,Normal,0,0,1,6
+,Minimal,1,1,2,0
+,Mild,2,3,0,0
+,Moderate,2,1,0,0
+,Marked,4,4,0,0
+Liver,Normal,0,1,2,6
+,Minimal,0,0,0,0
+,Mild,2,0,0,0
+,Moderate,3,3,1,0
+,Marked,4,5,0,0

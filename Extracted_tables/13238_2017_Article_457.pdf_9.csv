@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6,7
+Table 10. mAbs and Fc fusion proteins directed towards immunomodulation and checkpoint,,,,,targets*,,
+Target***,Activity,Therapeutic,,Phase of development,,,Total number
+,,area,,,,,of candidates
+,,,Phase I/II,,Phase III,Approved,
+CD80/CD86,Antagonist,IMM,0,0,,2,2
+CTLA4,Antagonist,ONC,1,1,,1,3
+PDCD1 (PD-1),Antagonist,ONC,13,0,,2,15
+"CD274 (PD-L1, B7-H1)",Antagonist,ONC,6,1,,3,10
+PDCD1LG2 (PD-L2),Antagonist,ONC,1,0,,0,1
+CD28,Antagonist,IMM,3,0,,0,4 total
+,Agonist,ONC,1,0,,0,
+TNFRSF4 (OX40),Antagonist,ONC,2,0,,0,10 total
+,Agonist,ONC,8,0,,0,
+"TNFSF4 (OX40 ligand, CD252)",Antagonist,ONC,0**,0,,0,0
+CD40,Antagonist,IMM,7,0,,0,13 total
+,Agonist,ONC,6,0,,0,
+CD40LG (CD154; CD40 ligand),Antagonist,ONC,2,0,,0,2
+ICOS (CD278),Antagonist,ONC,1,0,,0,3 total
+,Agonist,ONC,2,0,,0,
+ICOSLG (ICOS-ligand; B7RP-1;,Antagonist,IMM,1,0,,0,1
+CD275),,,,,,,
+TNFRSF18 (GITR),Agonist,ONC,7,0,,0,7
+HAVCR2 (TIM3),Antagonist,ONC,2,0,,0,2
+"TNFRSF9 (CD137, 4-1BB)",Agonist,ONC,2,0,,0,2
+LAG3 (CD223),Antagonist,ONC,3,0,,0,3
+VSIR (VISTA),Antagonist,ONC,1,0,,0,1
+TIGIT,Antagonist,ONC,2,0,,0,2
+CD47,Antagonist,ONC,4,0,,0,4
+CD27,Agonist,ONC,1,0,,0,1
+Totals,–,–,76,2,,7,85

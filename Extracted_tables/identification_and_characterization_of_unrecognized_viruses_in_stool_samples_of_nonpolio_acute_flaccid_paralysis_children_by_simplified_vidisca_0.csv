@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6
+Table 1 Clinical and demographical data of children with acute flaccid paralysis in this study,,,,,,
+S. NO.,Sample ID,Collection year,Male (M)/Female (F),Age (months),Asymmetrical paralysis,Fever
+1,PAK_NIH_VS1661A,2010,M,25,Yes,Yes
+2,PAK_NIH_VS458A,2009,M,09,Yes,Yes
+3,PAK_NIH_VS870,2009,M,14,Yes,Yes
+4,PAK_NIH_VS4515A,2010,M,48,Yes,Yes
+5,PAK_NIH_VS908,2008,F,06,No,Yes
+6,PAK_NIH_VS926,2008,M,NA,Yes,Yes
+7,PAK_NIH_VS1123,2009,F,51,Yes,No
+8,PAK_NIH_VS242,2009,M,25,No,Yes
+9,PAK_NIH_VS3099,2009,F,70,No,No
+10,PAK_NIH_VS7113,2008,F,11,Yes,No

@@ -1,0 +1,44 @@
+0,1,2,3,4,5,6,7,8
+,,,,Table 1. Cont.,,,,
+,,,,,,Vaccination,,
+Target,Library,Target presentation,Mimotopes,Epitopes,Additional,,Results,Reference
+,,,,,,attempts,,
+,17 constrained and,Biotinylated Ab,,,,,,
+,"linear RPL,",captured on,,ELDKWA,,,,
+,,,,,Ala substitutions and,,,
+MAb 2F5,x12-AADKW and,streptavidin-coated,3 peptides (AADKW-x12),(gp41,,NA,NA,[25]
+,,,,,deletions studies,,,
+,AADKW-x12,beads,,MPER),,,,
+,sublibraries,,,,,,,
+,,,,,Epitope specificity,,,
+,,,,ELDKWA,,,,
+,12-mer and 7-mer-c,Ab coated onto,,,depends on the,Mice and rabbit,Inhibition of cell,
+MAb 2F5,,,"DKWA, LDKWA",(gp41,,,,[26]
+,RPL,microwells,,,structural context of,immunization,fusion,
+,,,,MPER),,,,
+,,,,,the library,,,
+(1) MAb,,,,,,,,
+,,Rabbit anti-mouse,,,"Pepscan analysis,",,,
+GV1A8,,,(1) HxxIxxLW,C1 domain,,,,
+,20-mer RPL,"IgG, Fc-specific Ab",,,quantitative binding,NA,NA,[27]
+(2) MAb,,,(2) Nx3WxxD,of gp120,,,,
+,,coated on Petri dishes,,,analysis,,,
+GV4D3,,,,,,,,
+,,Mab captured on rat,,,,,,
+,"12-mer, 7-mer,",,"TxxFxxWxxD,",C1 domain,,,,
+MAb ID6,,anti-mouse Ab coated,,,ADCC-inducing Ab,NA,NA,[28]
+,7-mer-c RPL,,FxDWxF,of gp120,,,,
+,,microwells,,,,,,
+,,,,,Competition with,,,
+,(1) 11 RPL,Biotinylated IgG1b12,"(1) REKRWIFSDLTHTCI,",,gp120 for the binding,,,
+,,,,,,(2) Phage B2.1,,
+,(2) 2 sublibraries,captured on,TCLWSDLRAQCI,gp120 CD4,"to IgG1b12,",,Anti-peptide Abs,
+MAb b12,,,,,,immunization of,,"[29,30]"
+,(x7SDLx3CI and,avidin-coated,(2) B2.1,binding site,determination of the,,elicited,
+,,,,,,mice and rabbits,,
+,xCxxSDLx3CI),microwells,(HERSYMFSDLENRCI),,in-solution binding,,,
+,,,,,affinity.,,,
+,"x10ALLRYx10,",,,,,,,
+,x3(M/V)WSDx3,,,gp120 CD4,,,,
+MAb b12,,Ab coated onto tubes,GLLVWSDEL,,NA,Mice immunization,Env-specific Abs,[31]
+,and xLXVWxDExx,,,binding site,,,,

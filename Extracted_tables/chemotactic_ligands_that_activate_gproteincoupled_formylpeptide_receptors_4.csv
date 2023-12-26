@@ -1,0 +1,23 @@
+0,1,2,3
+,Table 6. Cont.,,
+Agonist,Classiﬁcation,Receptor,Citation
+1754-49,Synthetic library,FPR2,[120]
+,3-(1H-Indol-3-yl)-2-(3-(4-nitrophenyl)ureido),FPR2,
+(S)-9a,,,[121]
+,propenamide derivative,,
+IDR1,KSRIVPAIPVSLL-NH2,FPR1,[122]
+IDR-1002,VQRWLIVWRIRK-NH2,FPR2-uncertain,[123]
+"AG-09/1, AG-09/2,",,,
+"AG-09/13, AG-09/18,",Benzimidazole derivatives,FPR1,
+"AG-09/19, and AG-09/21",,,
+"AG-09/16, AG-09/17,",,,
+"AG-09/20, and AG-09/22",Benzimidazole derivatives,"FPR1, FPR2",
+through AG-09/24,,,[116]
+"AG-09/3, AG-09/4,",,,
+AG-09/73 through,N-phenylurea derivatives,FPR2,
+"AG-09/77, and AG-09/82",,,
+"AG-09/7, AG-09/92,",,,
+"AG-09/92, AG-09/96,",Acetohydrazide derivatives,FPR2 [low eﬃcacy],
+"AG-09/101, and AG-09/102",,,
+Compound17a/17b/14a,Synthetic library,"FPR1, FPR2","[124,125]"
+Compound43,Synthetic library,"FPR1, FPR2",[79]

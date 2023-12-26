@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6,7,8
+"Table 5: Resistance prevalence of eight common bacteria, U.S. (all patients pooled), 1999–2002",,,,,,,,
+,,,,unit: %,,,,
+Bacterium,Resistant to,,1999,2000,2001,2002,Average,Average
+,antibiotic(s),,,,,,Resistance,Growth Rate
+PAE,Ciprofloxacin,,23,25,28,29,26,8
+,/ofloxacin,,,,,,,
+,Levofloxacin,,29,30,31,30,30,1
+,Imipenem,,12,12,15,13,13,4
+,Ceftazidime,,8,8,9,9,9,4
+,Piperacillin,,10,10,11,12,11,6
+SAU (MRSA),Methicillin,,32,35,38,39,36,7
+Enterococcus,Vancomycin,,11,8,10,10,10,-1
+spp,,,,,,,,
+ECO,Cef3,,1,1,1,1,1,0
+,Quinolone,,2,3,4,5,4,36
+KPN,Cef3,,4,4,4,5,4,8
+Enterobacter,Cef3,,19,19,18,19,19,0
+spp,,,,,,,,
+,Carbapenum,,1,1,1,1,1,0
+CNS,Methicillin,,60,61,62,63,62,2
+Pneumococcu,Penicillin,,14,16,19,19,17,11
+s spp,,,,,,,,
+,Cef3,,5,8,7,7,7,16
+,,Mean:,,,,,17,7

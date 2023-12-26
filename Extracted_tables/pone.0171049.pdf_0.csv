@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6,7
+,Table 1. Viral detection in adenoid and middle ear samples from OME and control patients.,,,,,,
+,,OME Patients,,Control Patients,,p-value,
+Virus,Adenoid,Middle ear,Adenoid,Middle ear,Adenoid,,Middle Ear
+,N (%),N (%),N (%),N (%),,,
+HEV,17 (45.9),13 (35.1),7 (50.0),2 (14.2),P = 1.00,,P = 0.18
+HRV,5 (13.5),2 (5.4),2 (14.2),1 (7.1),P = 1.00,,P = 1.00
+HRSV,3 (8.1),0 (0),4 (28.5),0 (0),P = 0.07,,P = 1.00
+HMPV,3 (8.1),5 (13.5),2 (14.2),0 (0),P = 0.60,,P = 0.30
+HPIV,0 (0),0 (0),2 (14.2),0 (0),P = 0.07,,P = 1.00
+FLU,0 (0),0 (0),0 (0.0),0 (0),P = 1.00,,P = 1.00
+HCoV,4 (10.8),0 (0),0 (0.0),0 (0),P = 0.56,,P = 1.00
+HBoV,6 (16.2),1 (2.7),1 (7.1),0 (0),P = 0.65,,P = 1.00
+HAdV,16 (43.2),0 (0),1 (7.1),0 (0),P = 0.01*,,P = 1.00
+Total,32 (86.5),19 (51.3),11 (78.6),3 (21.4),P = 0.66,,P = 0.06

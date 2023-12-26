@@ -1,0 +1,16 @@
+0,1,2,3,4,5
+T,able 2. Comparison of variables associated with surgery among patients undergoing heart surgery in three groups,,,,
+Variables,,,Groups,,Test and P
+,,Control,PEEP = 8,PEEP = 10,value
+,,(n=60),(n=60),(n=60),
+Type of surgery,"Vessels, n (%)",48 (80),47(78.33),47(78.34),x2=0.501
+,"Valves, n (%)",8(13.33),8(13.33),7(11.66),p=0.97NS
+,"Vessels and valves, n (%)",4(6.77),5(8.33),6(10),
+Number of chest,"1, n (%)",8(13.33),7(11.66),7(11.66),x2=0.216
+tube,"2, n (%)",34(56.77),33(55),34(56.66),p=0.99NS
+,"3, n (%)",18(30),20(33.33),19(31.66),
+Number of grafted,"1, n (%)",1(1.7),2(3.3),2(3.3),x2=0.575
+vessels,"2, n (%)",10(16.66),9(15),9(15),p=0.99NS
+,"≥3, n (%)",41(68.33),41(68.33),42(70),
+,"No, n (%)",8(13.31),8(13.31),7(11.66),
+"Anesthesia time (h), (mean ± SD)",,4.55±0.89,4.61±0.85,4.53±0.82,F=0.126

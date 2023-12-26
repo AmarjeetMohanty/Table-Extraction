@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12
+,"Table 1. Clinical breakpoints recommended by EUCAST and CLSI. (NA, Not Applicable).",,,,,,,,,,,
+,,CLSI MIC,,,CLSI,,,EUCAST,,,EUCAST,
+,,Interpretative,,,Zone Diameter Interpretative,,,MIC,,,Zone Diameter,
+Antibiotic,,Criteria (g/mL),,,Criteria (Nearestwhole mm),,,(mg/L),,,Breakpoint (mm),
+,,,,Disk,,,,,,Disk,,
+,S,I,R,,S,I,R,S,R,,S,R
+,,,,Content µg,,,,,,Content µg,,
+Ampicillin,≤8,16,≥32,10,≥17,14–16,≤13,≤8,≥8,10,≥14,≤14
+Cefotaxime,≤1,2,≥4,30,≥26,23–25,≤22,≤1,≥2,5,≥20,≤17
+Ciproﬂoxacin,≤0.06,0.12–0.5 ≥1,,5,≥31,21–30,≤20,,≤0.06 ≥0.06,5,≥24,≤24
+Levoﬂoxacin,≤0.12,0.25–1,≥2,-,-,-,≤0.12,≤1,≥2,5,≥22,≤19
+Oﬂaxacin,≤0.12,0.25–1,≥2,-,-,-,,≤0.12 ≤0.1,≥1,5,≥22,≤19
+Nalidixic acid,≤16,-,≥32,30,≥19,14–18,≤13,NA,NA,-,NA,NA
+Trimethoprim/sulfamethoxazole,≤2/38,-,≥4/76,1.25/23.75,≥16,11–15,≤10,≤2,≥4,1.25/23.75,≥16,≤13
+Chloramphenicol,≤8,16,≥32,30,≥18,13–17,≤12,≤8,≥8,30,≥17,≤17

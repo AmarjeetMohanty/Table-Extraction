@@ -1,0 +1,28 @@
+0,1,2,3,4,5,6,7
+,None,EC,EGC,ECG,EGCG,,
+,,,,,,,"None
+EC
+EGC
+ECG
+EGCG"
+,,,Epicatechins (50 µM),,,,
+,,,,,,,Epicatechins (50 µM)
+2.0,,,,,,,"HH639 Epithelial Ovarian Cancer, Metastatic"
+,,,,,,2.5,
+,,"HH450 Epithelial Ovarian Cancer, Metastatic",,,,,ANOVA: p < 0.0001 (n = 5/group)
+,,ANOVA: p < 0.0001 (n = 5/group),,,,,
+1.5,,,,,,2.0,
+,,,,,,"Viable cells (x 106)
+1.5","p = 0.001
+p = 0.001"
+"Viable cells (x 106)
+1.0",,,,p = 0.001,,,
+,,,,,p = 0.001,1.0,"p = 0.001, n = 4"
+0.5,,,,,,,
+,,,,,,0.5,
+0.0,,,,,,0.0,
+,None,EC,EGC,ECG,EGCG,,"None
+EC
+EGC
+ECG
+EGCG"

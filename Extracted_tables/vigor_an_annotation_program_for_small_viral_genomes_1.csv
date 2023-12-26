@@ -1,0 +1,26 @@
+0,1,2,3,4,5,6,7,8,9
+"Table 2 Comparative analysis of the annotations in GenBank and predictions by VIGOR, GeneMarkS and ZCURVE_V of",,,,,,,,,
+"RNA viruses, coronaviruses (CoV), SARS coronaviruses (SARS) and rhinoviruses (Rhv)",,,,,,,,,
+,No. of,No. of,No. of,Sp,No. of partial,No. of missing,No. of mis-,No. of new,Pred. mat.
+,gen.,genes,correct pred.,(%)/Sn,correct genes,genes,Pred. genes,genes,pep.
+,,,,(%),,,,,
+Ref. Seq.,38,341,,,,,,,
+VIGOR,,354,353,99.72/,1,1,0,14,No
+,,,,99.44,,,,,
+GeneMarkS,,314,247,78.66/,53,48,14,7,No
+,,,,69.58,,,,,
+ZCURVE_V,,339,256,75.52/,50,34,26,7,No
+,,,,72.11,,,,,
+Ref. Seq.,102,1322,,,,,,,
+VIGOR,,1447,1447,100/,0,1,0,127,Yes
+,,,,99.93,,,,,
+GeneMarkS,,941,701,74.50/,119,523,121,21,No
+,,,,48.41,,,,,
+ZCURVE_V,,1204,1034,85.88/,107,257,63,76,No
+,,,,71.41,,,,,
+Ref. Seq.,36,36,,,,,,,
+VIGOR,,36,36,100/100,0,0,0,0,Yes
+GeneMarkS,,45,32,71.11/,4,0,9,0,No
+,,,,88.89,,,,,
+ZCURVE_V,,77,30,38.96/,6,0,41,0,No
+,,,,83.33,,,,,

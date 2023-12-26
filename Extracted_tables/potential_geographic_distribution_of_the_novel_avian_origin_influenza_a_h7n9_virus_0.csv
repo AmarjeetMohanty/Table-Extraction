@@ -1,0 +1,11 @@
+0,1,2,3,4
+,,,,Potential Geographic Distribution of H7N9
+,Table 1. Model performance in anticipating a ‘left out’,,third of distributions of cases of H7N9 with respect,to latitude and
+longitude.,,,,
+Subsetting criterion,Layer set,10% training presence threshold*,Omission on evaluation data,P
+Latitude,PCA,24.656,6/32,",0.05"
+Latitude,bioNDVI,13.998,6/32,",0.05"
+Longitude,PCA,19.56,11/32,",0.1"
+Longitude,bioNDVI,14.016,10/32,",0.05"
+*Maxent cumulative output.,,,,
+doi:10.1371/journal.pone.0093390.t001,,,,

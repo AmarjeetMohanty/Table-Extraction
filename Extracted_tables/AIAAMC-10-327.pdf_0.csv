@@ -1,0 +1,29 @@
+0,1,2,3,4
+"328    Anti-Inflammatory & Anti-Allergy Agents in Medicinal Chemistry, 2011, Vol. 10, No. 5",,,,
+,,Apoptosis,,
+,,FADD,TRAF2,
+,,Caspase8,Caspase9,
+,,RSV,IV,
+ssRNA,,"dsRNA 
+  SARS-Co-V",,dsRNA
+TLR7/9,,TLR3,IPS-1,RIG-I/MDA5
+MyD88,,TRIF,,
+,,"RIP-1 
+ 
+RV",,"RSV 
+IV"
+,,IV,,
+TRAF3,,TRAF6,TRAF3,NIK
+IRF5/IRF7,,"IRAK 
+       RIP-1",NAP1,IKK
+,,NEMO,,
+"IRF5P  
+IRF7P",,TAK1,IKK,
+,,,TBK1,
+,,RSV,,
+dimerize,MKKs,IKK complex,"IRF3P 
+IRF7P",RelB-NF-kB2
+,JNK/p38,IkB -NF-kB1,dimerize,NF-kB
+,AP-1,"NF-kB 
+ 
+       IV",,

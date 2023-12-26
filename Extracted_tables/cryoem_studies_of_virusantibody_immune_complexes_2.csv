@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6,7
+8,,,,,,,Virologica Sinica
+Table 3 (continued),,,,,,,
+Genus,Virus name,,Antigen,Antibody,Fragment,EMD codes,Resolution (A˚ )
+Lymphocryptovirus,Epstein-Barr virus (EBV),,glycoprotein,AMMO1,Fab,7344/7345,4.8/10
+Betacoronavirus,Middle East,respiratory syndrome-,S protein,G4,Fab,8783/8784/8785/8786/8787/,4/3.6/4.8/4.6/4.8/
+,,related coronavirus (MERS-CoV),,,,8788/8789/8790/8791/8792/,4.7/5/4.5/4/4/
+,,,,,,8793,11.5
+,,,,LCA60,Fab,0401/0402,3.5/3.6
+,,Severe acute respiratory syndrome,S protein,S230,Fab,0403/0404,4.2/4.5
+,coronavirus (SARS-CoV),,,,,,
+Alphainﬂuenzavirus,Inﬂuenza virus,,Inﬂuenza virion,6F12,IgG,(Tomo) 6610/6611,25/25
+,,,,C179,IgG,(Tomo) 5684/5685,
+,,,,7B2,IgG,(Tomo) 6612,25
+,,,,3F5,IgG,(Tomo) 6613/6614,25/25
+,,,HA protein,K1915,scFv,8561/8562/8563/8564,4.8/4.8/4.8/4.8
+,,,,H7.5,Fab,9142/9143/9145,7.4/9.2/7.4
+Ebolavirus,Ebola virus (EBOV),,glycoprotein,100/114,Fab,3310/3311,7.2/6.7
+,,,,c2G4/c13C6,IgG/Fab,8240,4.3
+,,,,c13C6/BDBV91,IgG/Fab,8241,5.5
+,,,,c4G7/c13C6,IgG/Fab,8242,4.3
+,,,,ADI-15878,Fab,8935/8936,4.14/4.29
+,,,VLPs,c13C6,IgG,(Tomo) 8226,25
+,,,,c2G4,IgG,(Tomo) 8227,25
+,,,,c4G7,IgG,(Tomo) 8228,25

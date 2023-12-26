@@ -1,0 +1,24 @@
+0,1,2
+(Table 1).,,
+,Table 1. Participant characteristics.,
+,URI Population,Asymptomatic Control Population
+Characteristic,,
+,(n = 205),(n = 163)
+"Female Gender, n (%)",123 (60.0),90 (55.2)
+"Median age, years (IQR)","29 (15, 46)","44 (29, 55)"
+"Age Groups, n (%)",,
+<18 years,56 (27.3),5 (3.1)
+18–50 years,112 (54.6),99 (60.7)
+>50 years,37 (18.1),59 (36.2)
+"Race, n (%)",,
+White,142 (69.3),134 (82.2)
+Black,46 (22.4),14 (8.6)
+Other,17 (8.3),15 (9.2)
+"Hispanic Ethnicity, n (%)",88 (42.9),64 (39.3)
+"Median body temperature, ◦F (IQR)","101.5 (101.0, 102.1)",n/a
+"Median white blood cell count,",,
+,"7.8 (5.9, 10.3)",n/a
+thousand cells/mcL (IQR),,
+"Median serum procalcitonin, ng/mL (IQR)","<0.05 (<0.05, 0.07)",n/a
+"Median CRP, mg/L (IQR)","12.1 (3.8, 45.2)","2.0 (1.0, 4.0)"
+"Median MxA, ng/mL (IQR)","4.9 (0.65, 20.2)","<1.0 (0.03, 2.0)"

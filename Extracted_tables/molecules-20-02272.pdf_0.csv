@@ -1,0 +1,18 @@
+0,1,2
+,B. Inhibit viral entry,
+,MBL,
+Activate immune response,,
+,SP-A,
+,,C. Facilitate viral attachment
+MBL,SP-D,
+SP-A,Galectin-1,DC-SIGN
+SP-D,,DC-SIGNR
+,,MR
+,,CLEC5A
+,,Langerin
+,,Galectin-1
+,,Galectin-3
+,,CI-MPR
+Immune response,,
+,,CD-MPR
+activation,Viral receptors,

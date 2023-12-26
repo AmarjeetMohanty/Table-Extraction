@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6
+,Table 3. MICbiofilm of SM21 against,,,,three different Candida,
+species.,,,,,,
+,,MIC (mg/ml),,,,
+,,24-h biofilm,,,48-h biofilm,
+Candida species,,,,,,
+,SM21,AMB,CASP,SM21,AMB,CASP
+"C
+.albicans",3.2,32,50,25,32,100
+"C
+.glabrata",3.2,16,50,25,16,100
+"C
+.krusei",3.2,32,50,25,32,100

@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6
+Analysis of Ebola virus polymerase domains to ﬁnd strain-speciﬁc differences and to gain…,,,,,,245
+Table 1,Polymerase domain,,,,,
+,,No.,UniProt accession no.,Strain,"Breakout
+(year)",No. of domains
+count of the 15 Ebola isolates,,,,,,
+"belonging to Zaire, Sudan and",,,,,,
+,,1,A0A0A7LUV3,Zaire,Liberia-14,62
+Reston strains,,,,,,
+,,2,A0A068J465,Zaire,Liberia-14,63
+,,3,A0A0B5EB22,Zaire,Liberia-14,61
+,,4,A0A0D5W8U2,Zaire,Liberia-14,62
+,,5,A0A0E3TN89,Zaire,Liberia-14,63
+,,6,A0A0F7IMH5,Zaire,Liberia-14,61
+,,7,A0A0G2Y8I7,Zaire,Liberia-14,62
+,,8,A0A0G2YD12,Zaire,Liberia-14,64
+,,9,A0A068J9B1,Zaire,Liberia-14,63
+,,10,Q5XX01,Sudan,Uganda-00,54
+,,11,Q6V1Q2,Zaire,Kikwit-95,69
+,,12,Q8JPX5,Reston,Reston-89,68
+,,13,Q91DD4,Reston,Philippines-96,70
+,,14,Q05318,Zaire,Mayinga-76,67
+,,15,X5H5B6,Zaire,Guinea-14,64

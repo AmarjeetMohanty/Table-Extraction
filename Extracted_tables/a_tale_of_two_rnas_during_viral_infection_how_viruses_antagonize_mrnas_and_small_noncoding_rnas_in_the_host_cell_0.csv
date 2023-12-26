@@ -1,0 +1,38 @@
+0,1,2,3
+,,Table 1. Cont.,
+Classiﬁcation of Virus,,,
+,Family,Virus,Characteristics
+(Genome Type),,,
+,,,Negative stranded enveloped
+,,,virus with RNA genome
+,,Rift Valley Fever Virus,mRNA is capped by cap
+,Bunyaviridae,,
+,,(RVFV),snatching but is not
+,,,polyadenylated
+,,,Replication is cytoplasmic
+,,,Enveloped virion contains
+,,,linear ssRNA genome
+,Orthomyxoviridae,Inﬂuenza Virus,mRNA is capped by cap
+V: Single-stranded (-),,,snatching and polyadenylated
+sense RNA ((-) RNA),,,Replication is nuclear
+,,,Enveloped virus with linear
+,,,ssRNA genome
+,,Vesicular Somatic Virus,
+,Rhabdoviridae,,mRNA is capped and
+,,(VSV),
+,,,polyadenylated
+,,,Replication is cytoplasmic
+,,,Filamentous virus
+,,,mRNA is capped and
+,Filoviridae,Ebola virus,
+,,,polyadenylated
+,,,Replication is cytoplasmic
+,,HIV-1 (human,
+,,,Enveloped virion contains two
+VI: Single-stranded (+),,immunodeﬁciency virus,
+,,,ssRNAs that are capped and
+,Retroviridae,,
+sense RNA with DNA,,type 1),
+,,,polyadenylated
+intermediate in life-cycle,,,
+,,Primate foamy virus,Replication is nuclear

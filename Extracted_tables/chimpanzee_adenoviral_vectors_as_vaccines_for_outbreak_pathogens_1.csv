@@ -1,0 +1,20 @@
+0,1,2,3,4,5,6,7
+Table 2. Comparative humoral,,immunogenicity of viral vectors encoding Ebolavirus glycoprotein.,,,,,
+,,Mean SFC/106,Protein ELISA,Protein,Whole Virion,Neutralisation,
+Viral vector,Regimen,PBMC,Endpoint Titre,ELISA EC90,ELISA,Titre,Reference
+,,,,,,,7
+MVA,Prime only,25(cid:1),<100,,,,
+,,,,,,,"13,118"
+ChAd3,Prime only,700,1493.6,469 EC90,752.4,14.9,
+,,,,,,,7
+Ad26,Prime only,103,600,,,,
+,,,,,,,119
+Ad5,Prime only,765,,1305.7 EC90,,,
+,,,,,,,120
+rVSV,Prime only,,1780,,920.7,22.2,
+,,,,,,,7
+MVA-Ad26,Prime-boost,880,17428.6,,,,
+,,,,,,,7
+Ad26-MVA,Prime-boost,648,8098.9,,,,
+,,,,,,,"13,121"
+ChAd3-MVA,Prime-boost,2068,9279.6,11970 EC90,9007,243.9,

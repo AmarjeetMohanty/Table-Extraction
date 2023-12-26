@@ -1,0 +1,24 @@
+0,1,2,3,4,5,6,7
+,bacterial pneumonia. CAP: community-acquired pneumonia.,,,,,,
+,Bacterial,Atypical,,,Odds ratio (95%,Positive predictive,Negative predictive
+Characteristic [n (%)]*,CAP,CAP,Viral CAP,p value**,confidence interval)***,value (%)****,value (%)****
+,,,,BA < 0.001,BA 9.41 (2.80–31.66),,
+Unilateral consolidation,69 (92.0),11 (55.0),25 (48.1),AV 0.793,AV 1.32 (0.47–3.72),65.7,85.7
+,,,,BV < 0.001,BV 12.42 (4.59–33.62),,
+,,,,BA < 0.001,BA 8.86 (2.96–26.51),,
+Solitary consolidation,62 (82.7),7 (35.0),18 (34.6),AV 1.000,AV 1.02 (0.35–3.00),71.3,78.3
+,,,,BV < 0.001,BV 9.01 (3.94–20.60),,
+,,,,BA 1.000,BA 1.30 (0.34–5.06),,
+Pleural effusion,14 (18.7),3 (15.0),2 (3.8),AV 0.127,AV 4.41 (0.68–28.68),73.7,52.3
+,,,,BV 0.014,BV 5.74 (1.25–26.45),,
+Characteristic [median (IQR)],,,,,,,
+,,,,BA 0.12,,,
+Largest consolidation diameter,,,,,,,
+,30 (20),20 (23),15 (14),AV 0.05,,,
+on admission (mm),,,,,,,
+,,,,BV < 0.001,,,
+,,,,BA 0.801,,,
+Largest consolidation diameter at,,,,,,,
+,14.5 (20),8 (16),12 (5),AV 0.356,,,
+follow-up (mm),,,,,,,
+,,,,BV 0.490,,,

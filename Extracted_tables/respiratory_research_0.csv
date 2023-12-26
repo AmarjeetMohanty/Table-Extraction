@@ -1,0 +1,16 @@
+0,1,2,3,4,5
+,,HRCT score,,,Virus particle in AM by EM
+,60 days,,90 days,60 days,90 days
+Case 1,0,,0,-,N/D
+Case 2,4,,0,-,-
+Case 3,0,,0,-,N/D
+Case 4,2,,N/D,-,N/D
+Case 5,3,,0,-,N/D
+Case 6,9,,0,+,-
+Case 7,12,,3,+,N/D
+Case 8,11,,0,+,-
+Case 9,12,,7,+,-
+Case 10,13,,2,+,-
+Case 11,15,,12,+,N/D
+Case 12,24,,N/D,+,-
+Mean ± SE,8.8 ± 2.1,,2.4 ± 1.3*,,

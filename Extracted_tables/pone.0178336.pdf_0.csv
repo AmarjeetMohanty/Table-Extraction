@@ -1,0 +1,24 @@
+0,1,2,3,4,5,6,7,8,9
+,,,"excellent discriminatory power, AUC (cid:21)0.9; good discriminatory power, 0.8(cid:20)AUC<0.9; fair",,,,,,
+,Table 2. Mean fold change of selected biomarker genes between infected animals and non-infected animals.,,,,,,,,
+Accession No.,Gene,Gene name,Location,,,Mean fold change (log2 value),,,
+,symbol,,,,,,,,
+,,,,PN vs.,P value,NP vs.,P value,PP vs.,P value
+,,,,NN,,NN,,NN,
+NM_003234.2,Tfrc,"Transferrin receptor (p90, CD71)",Plasma,1.6,0.0005,1.3,0.0021,1.9,0.0004
+,,,membrane,,,,,,
+NM_174744,Mmp9,Matrix metallopeptidase 9,Extracellular,2.9,0.008,2.4,0.0342,3.6,0.0052
+,,,space,,,,,,
+NM_002964.4,S100a8,S100 calcium binding protein A8,Cytoplasm,1.6,0.0039,0.9,0.146,1.7,0.0069
+NM_002965.3,S100a9,S100 calcium binding protein A9,Cytoplasm,0.4,0.6228,0.6,0.2596,1.1,0.0548
+NM_174137,Serpine1,Serpin peptidase inhibitor,Extracellular,1.9,0.0041,1.6,0.0183,2.6,0.0009
+,,,space,,,,,,
+NM_005143.3,Hp,Haptoglobin,Extracellular,2.3,0.0031,3.2,<0.0001,3.3,0.0003
+,,,space,,,,,,
+NM_174471.3,Timp1,Tissue inhibitor of,Extracellular,1.7,<0.0001,1.4,0.0002,0.5,0.415
+,,metallopeptidase 1,space,,,,,,
+NM_001324544.1,Defb1,Defensin beta 1,Extracellular,5.2,0.0009,3.3,0.039,1.8,0.5842
+,,,space,,,,,,
+NM_001115084.1,Defb10,Defensin beta 10,Extracellular,2.3,0.0017,1.6,0.0313,1.6,0.1009
+,,,space,,,,,,
+https://doi.org/10.1371/journal.pone.0178336.t002,,,,,,,,,

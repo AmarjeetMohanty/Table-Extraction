@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6,7
+,,,,,(Ref = HV),,(Ref = HV)
+,,surgeon,hospital,surgeon,hospital,surgeon,hospital
+,SSIs were identiﬁed by ICD-9-CM SSI codes,,,,,,
+"Heart
+failure",,X,X,X,X,X,X
+Diabetes mellitus,,X,X,X,X,X,X
+"Renal
+failure and Renal",insufﬁciency,X,X,X,X,X,X
+COPD,,X,X,X,X,X,X
+SSIs were identiﬁed by CART,,,,,,,
+"Heart
+failure",,X,X,X,X,X,X
+Diabetes mellitus,,X,X,X,X,X,X
+"Renal
+failure and Renal",insufﬁciency,X,X,X,X,X,X
+COPD,,X,X,X,X,X,X

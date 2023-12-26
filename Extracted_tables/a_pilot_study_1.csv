@@ -1,0 +1,13 @@
+0,1,2,3,4
+,Table 5 Fixation indices and gene ﬂow between populations.,,,
+Locus,Average deviation,Deviation in total,Genetic,Gene
+,in populations (Fis),population (Fit),differentiation (Fst),ﬂow (Nm)
+PUN82,0.26,0.32,0.07,3.21
+PUN100,0.54,0.61,0.15,1.40
+PUN124,0.64,0.67,0.10,2.21
+PUN225,0.45,0.56,0.19,1.05
+PUN229,−0.00,0.05,0.06,3.87
+PUN327,0.169,0.31,0.17,1.18
+PUN132,0.56,0.63,0.15,1.33
+Mean,0.38,0.46,0.13,1.65
+Note:,,,,

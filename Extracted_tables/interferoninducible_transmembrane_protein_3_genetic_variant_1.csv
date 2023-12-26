@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12
+,,,,,,,rs12252 and Influenza Susceptibility and Severity: A Meta-Analysis,,,,,
+Table 2. Genotype and allele distributions of IFITM3-SNP rs12252 in influenza and controls.,,,,,,,,,,,,
+Locus,Study,,Case,,,Control,,,Case,,,Control
+,,CC,CT,TT,CC,CT,TT,C,,T,C,T
+Total,Everitt et al.,3,4,46,1,24,335,10,,96,26,694
+,Mills et al.,2,25,266,4,202,2417,29,,557,210,5036
+,Wang et al.,6,7,3,26,37,37,19,,13,89,111
+,Zhang et al.,35,39,9,50,98,49,109,,57,198,196
+Severe infection,Everitt et al.,3,4,46,1,24,335,10,,96,26,694
+,Mills et al.,0,3,31,4,202,2417,3,,65,210,5036
+,Wang et al.,6,7,3,26,37,37,19,,13,89,111
+,Zhang et al.,22,8,2,50,98,49,52,,12,198,196
+Mild infection,Mills et al.,2,22,235,4,202,2417,26,,492,210,5036
+,Zhang et al.,13,31,7,50,98,49,57,,45,198,196
+doi:10.1371/journal.pone.0124985.t002,,,,,,,,,,,,

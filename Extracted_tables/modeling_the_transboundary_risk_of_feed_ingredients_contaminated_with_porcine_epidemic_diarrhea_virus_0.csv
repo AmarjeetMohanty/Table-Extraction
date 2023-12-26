@@ -1,0 +1,23 @@
+0,1,2,3,4
+Ingredient,Mean,Mean,Mean,Mean
+,Ct/FFU titer,Ct/FFU titer,Ct/FFU titer,Ct/FFU titer
+,Batch 1,Batch 2,Batch 3,Batch 4
+Soybeans (organic),20.76/5120,23.27/neg,26.42/neg,25.52/neg
+"Soybean meal
+(organic)","19.20/40,960",19.10/1920,20.10/800,22.55/60
+Soybeans (conventional),22.39/3840,24.18/40,28.86/neg,20.99/neg
+Soybean meal(conventional),19.75/7680,19.71/1920,19.76/5120,16.04/60
+Lysine hydrochloride,18.54/1280,18.51/40,18.79/100,17.83/100
+D-L methionine,22.17/2560,21.25/neg,25.03/neg,19.50/neg
+Tryptophan,23.56/160,22.54/neg,25.30/neg,21.31/neg
+Vitamin A,25.22/neg,22.66/neg,25.23/neg,26.85/neg
+Vitamin D,22.28/3840,21.29/640,22.72/320,20.94/40
+Vitamin E,28.54/neg,22.86/neg,26.15/neg,30.86/neg
+Choline chloride,20.82/40,20.90/40,20.41/neg,20.77/neg
+Rice hulls,24.73/neg,24.47/neg,25.93/neg,22.99/neg
+Corn cobs,23.66/80,22.83/neg,24.68/neg,24.49/neg
+Tetracycline,38/neg,38/neg,38/neg,38/neg
+"(−) control
+feed",38/neg,38/neg,38/neg,38/neg
+Virus stock,"17.15/245,760",18.86/30,21.19/neg,23.73/neg
+Ingredient: Two 30 g replicates per ingredient,,,,

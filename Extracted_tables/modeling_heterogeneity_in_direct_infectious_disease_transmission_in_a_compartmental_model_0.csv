@@ -1,0 +1,10 @@
+0,1,2,3,4
+the result in [38]. Figure 4 shows the 100 ﬁtted infectious curves and the daily cases.,,,,
+,,Table 2. Descriptive statistics of the ﬁtted parameters.,,
+Parameter,Minimum,Maximum,Mean,Standard Variance
+k1,8.4123 × 10−6,6.1781 × 10−5,1.1882 × 10−5,5.75 × 10−6
+k2,1.0130 × 10−12,1.1585 × 10−9,2.6311 × 10−11,1.4077 × 10−10
+β,0.3525,0.6109,0.5459,0.0335
+α,0.1429,0.2130,0.1456,0.0095
+γ,0.1407,0.2366,0.2064,0.0118
+NRMSE,0.8005,0.8041,0.8037,7.2604 × 10−4

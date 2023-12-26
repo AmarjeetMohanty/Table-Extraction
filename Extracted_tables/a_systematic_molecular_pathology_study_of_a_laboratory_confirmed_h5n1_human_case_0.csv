@@ -1,0 +1,33 @@
+0,1,2,3,4,5,6
+,"Table 1. The results of virus isolation, RT-PCR,",,ISH and IHC stains in selected tissues.,,,
+Sample ID,Organ,Virus isolation,RRT- PCR,ISH,,IHC (NP)
+,,,,NP,H5,
+Respiratory system,,,,,,
+1,Bronchus,+,+,-/-*,-/-,-
+2,Trachea,+,+,+/+,+/+,+
+3,Aortopulmonary,+,+,+/+,+/+,+
+4,Left-up lung,+,+,+/+,+/+,+
+5,Left-down lung,+,+,+/+,+/+,+
+6,Right-up lung,+,+,+/+,+/+,+
+7,Right-middle lung,+,+,+/+,+/+,+
+8,Right-down lung,+,+,+/+,+/+,+
+Digestive system,,,,,,
+9,Stomach,-,-,-/-,-/-,-
+10,Duodenum,-,-,-/-,-/-,-
+11,Ileum,+,+,+/+,+/+,+
+12,Colon,+,+,+/+,+/+,+
+13,Rectum,+,+,+/+,+/+,+
+14,Liver,-,+,+/+,+/+,+
+Nervous system,,,,,,
+15,Cerebrum cortex,+,+,+/+,+/+,+
+16,cerebral medullary substance,+,+,+/+,+/+,+
+17,Cerebellum,+,+,+/+,+/+,+
+18,Brain stem,+,+,+/+,+/+,+
+19,Hippocampus,+,+,+/+,+/+,+
+Excretory system,,,,,,
+20,Kidney cortex,-,-,+/+,+/+,+
+21,Kidney medulla,-,-,+/+,+/+,+
+22,Ureter,+,+,+/+,+/+,+
+Lymphoid system,,,,,,
+23,Spleen,-,+,+/+,+/+,+
+24,Lymph node,+,+,+/+,+/+,+

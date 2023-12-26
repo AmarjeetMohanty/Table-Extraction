@@ -1,0 +1,41 @@
+0,1,2,3,4
+Journal of Immunology Research,,,,3
+,,Table 2: Superinfections with flaviviruses in mosquito cell lines.,,
+Cell line,Primary virus,Secondary virus,Type of interference,References
+,"DENV-1, DENV-2,","DENV-1, DENV-2,",,
+C6/36,"DENV-3, or","DENV-3, or",Heterotypic,[31]
+,DENV-4,DENV-4,,
+,"DENV-1, DENV-2,","DENV-1, DENV-2,",,
+,"DENV-3, or","DENV-3, or",,
+C6/36,DENV-4,DENV-4,Heterotypic,[43]
+,sylvatic and,sylvatic and,,
+,endemic strains,endemic strains,,
+C6/36,DENV-2,DENV-2,None,[42]
+C6/36,DENV-2,DENV-4,Heterotypic,[42]
+C6/36,DENV-4,DENV-4,None,[42]
+C6/36,DENV-4,DENV-2,None,[42]
+C6/36,PCV,WNV or MVEV,Homologous,[12]
+C6/36,CxFV,WNV,None,[45]
+,,WNV or JEV or,,
+C6/36,NHUV,,Homologous,[48]
+,,SLEV,,
+,DENV-2 and Aal,,,
+C6/36,,JEV,None,[44]
+,DNV,,,
+C6/36,CxFV,WNV,Homologous,[47]
+C6/36,DENV-1,DENV-3,Heterotypic,[30]
+C6/36,DENV-3,DENV-1,Heterotypic,[30]
+,"DENV-1, DENV-2,",,,
+C6/36,"DENV-3, or",CHIKV,None,[31]
+,DENV-4,,,
+C6/36,DENV-3,CHIKV,None,[46]
+C6/36,DENV-2,Aal DNV,None,[23]
+C6/36,SINV,YFV,None,[35]
+Sf9,SLEV,Baculovirus,None,[49]
+C7-10,SINV,YFV,None,[35]
+U4.4,SINV,YFV,None,[35]
+Ae. albopictus cells,SINV,WNV,None,[29]
+C6/36,DENV-4 or SINV,DENV-4 or SINV,Heterologous,[41]
+C6/36,Aal DNV,DENV-2,Heterologous,[39]
+TRA-171,DENV,VSV,Heterologous,[32]
+"Ae. albopictus, Aedes albopictus; DENV, Dengue virus; PCV, Palm Creek virus; WNV, West Nile virus; MVEV, Murray Valley encephalitis virus; JEV, Japanese",,,,

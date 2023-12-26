@@ -1,0 +1,38 @@
+0,1,2,3,4,5,6,7
+"Table 3 Comparison of Arapan-S with ABySS, SSAKE, Velvet, QSRA, Minimus and Mira assemblers on four Benchmark",,,,,,,
+Virus Genomes,,,,,,,
+Species,Assembler,Contigs ≥ 800 bp,Total,Mean,N50,Largest,Genome
+,,,length,size (bp),(bp),contig (bp),coverage (%)
+Bovine Respiratory,Arapan-S,1,30937,30937,30937,30937,99.90
+Coronavirus AH187,,,,,,,
+,ABySS,1,30924,30924.00,30924,30924,99.85
+,SSAKE,9,27428,3047.56,3447,9868,88.57
+,Velvet,3,30951,10317.00,25461,25461,99.94
+,QSRA,8,29617,3702.125,-,11695,95.63
+,Minimus,1,31026,31026,31026,31026,100.18
+,Mira,8,28803,3600.37,3192,12305,93.51
+Calf-giraffe Coronavirus,Arapan-S,1,30836,30836,30836,30836,99.53
+US/OH3/2006,,,,,,,
+,ABySS,2,30652,15326.00,18956,18956,98.94
+,SSAKE,11,17005,1545.91,892,2683,54.89
+,Velvet,3,30951,10317.00,25461,25461,99.91
+,QSRA,2,2107,1053.5,-,1173,6.80
+,Minimus,1,30979,30979,30979,30979,100.00
+,Mira,5,33850,6770,20763,20763,109.28
+Waterbuck Coronavirus,Arapan-S,1,30995,30995.00,30995,30995,100.00
+US/OH-WD358-TC/1994,,,,,,,
+,ABySS,1,30944,30944.00,30944,30944,99.86
+,SSAKE,13,21780,1675.38,1063,5343,70.27
+,Velvet,8,12505,1563.12,967,2162,40.34
+,QSRA,5,4638,927.6,-,1174,14.96
+,Minimus,1,30995,30995,30995,30995,100.00
+,Mira,6,34011,5668.5,10510,10983,109.73
+White-tailed Deer,Arapan-S,1,31018,31018.00,31018,31018,99.99
+Coronavirus US/OH-WD470/1994,,,,,,,
+,ABySS,2,30943,15471.50,21535,21535,99.75
+,SSAKE,5,13925,2785.00,956,6100,44.89
+,Velvet,10,17800,1780.00,1090,3430,57.38
+,QSRA,8,7422,927.75,-,1323,23.93
+,Minimus,1,31019,31019,31019,31019,100.00
+,Mira,10,34892,3489.2,6174,9191,112.48
+"Only contigs whose lengths ≥ 800 were selected. When the assembler generated only one contig, the N50 value and the mean size are equal to the size of the",,,,,,,

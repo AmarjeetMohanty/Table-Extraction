@@ -1,0 +1,28 @@
+0,1,2,3,4
+,Table 1. Viral infections and demographic information of the 133 subjects with influenza-like illness enrolled at Texas A&M University in Fall 2009,,,
+,and 2010 from whom microarray expression data were available.,,,
+,2009 Cohort,2010 Cohort,Total,% of Subjects with ARI
+Infections,,,,
+Inﬂuenza A,24,21,45,33.8
+Inﬂuenza A + HRV,6,10,16,12.0
+Inﬂuenza A + RSVB,0,1,1,<1
+Inﬂuenza A + OC43,0,1,1,<1
+Inﬂuenza A + 229E,1,0,1,<1
+Inﬂuenza B,0,4,4,3.0
+Inﬂuenza B + HRV,0,5,5,3.8
+HRV,19,6,25,18.8
+HRV + RSVA,0,1,1,<1
+HRV + RSVB,0,1,1,<1
+HRV + NL63,0,1,1,<1
+HRV + HKU1,2,1,3,2.3
+HRV + Entero,1,0,1,<1
+RSVA,1,0,1,<1
+NL63,0,1,1,<1
+HKU1,1,0,1,<1
+Entero,1,0,1,<1
+Unknown,17,7,24,18.0
+Ethnicity/Race,,,,
+White,58,49,107,80.5
+Indian-American,10,6,16,12.0
+African-American,5,3,8,6.0
+Asian,0,2,2,1.5

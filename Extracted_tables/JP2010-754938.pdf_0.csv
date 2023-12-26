@@ -1,0 +1,21 @@
+0,1,2,3,4,5
+,,Table 5: Logistic regression analyses exploring predictors of unplanned cesarean section in China1.,,,
+,,Model 11,,Model 22,
+,,AUC = 0.70,,AUC = 0.86,
+,Odds Ratio,,Odds ratio,,
+,,"95% CI
+P-Value",,95% CI,P-Value
+,(Exp(B)),,(Exp(B)),,
+Pessimism,1.28,"1.06, 1.56
+.01∗",1.45,"1.11,1.81",.001∗
+,,,,,.20
+Optimism,.880,"0.72, 1.08
+.22 (NS)",.847,"0.66, 1.09",
+,,,,,(NS)
+Birth,,,,,
+,—,"—
+—",15.36,"3.07, 76.96",.001∗
+complications,,,,,
+Labor duration,—,"—
+—",.809,"0.71, 0.92",.001∗
+1 Unadjusted pessimism and optimism regressed against unplanned cesarean section delivery (yes/no).,,,,,

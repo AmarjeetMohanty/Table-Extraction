@@ -1,0 +1,10 @@
+0,1,2,3
+Table 2 Protection by sporozoite immunization under CQ or MQ cover,,,
+,No. protected/No. challenged (% protection),,
+,Day 50 (x103 PbSPZ challenge),,Day 100 (x103 PbSPZ challenge)
+,10,50,10
+CPS-CQ,3/3 (100),10/10 (100),9/10 (90)
+CPS-MQ,11/11 (100),10/10 (100),9/10 (90)
+Naïve-CQ,0/5 (0),0/5 (0),-
+Naïve-MQ,0/5 (0),0/5 (0),-
+Naïve,0/5 (0),0/5 (0),0/5 (0)

@@ -1,0 +1,31 @@
+0,1,2,3,4,5
+Table 2 Results of chi-square and univariate logistic regression analyses for risk of FIV in peninsular Malaysia,,,,,
+Factors,Categories,Prevalence,P value,OR,95% CI
+Sex,Female,41/163 (25.2%),Ref,NA,NA
+,Male,74/205 (36.1%),0.024*,1.681,1.067 - 2.648
+Neuter status,"Intact
+female",35/116 (30.2%),0.020*,2.951,1.149-7.576
+,Spayed female,6/47 (12.8%),Ref,NA,NA
+,Intact male,53/138(38.4%),0.323,1.366,0.735-2.538
+,Castrated male,21/67 (31.3%),Ref,NA,NA
+Age,Young,28/117 (23.9%),Referent,NA,NA
+,Adult,87/251 (34.7%),0.039*,1.686,1.025 - 2.777
+Breed,Domestic,93/305 (30.5%),Ref,NA,NA
+,Pedigree,22/63 (34.9%),0.490,1.223,0.690 - 2.168
+Household type,Single,22/68 (32.4%),Ref,NA,NA
+,Multi-cat,55/184 (29.9%),0.707,0.8912,0.490 - 1.621
+,Shelter,38/116 (32.8%),0.955,1.018,0.538 - 1.931
+Lifestyle,Indoor,35/134 (26.1%),Ref,NA,NA
+,Outdoor,42/118 (35.6%),0.103,1.563,0.912 - 2.680
+,Shelter,38/116 (32.8%),0.250,1.378,0.798 - 2.381
+Behaviour,Non-aggressive,75/281 (26.7%),Ref,NA,NA
+,Aggressive,40/87 (46.0%),0.001*,2.336,1.420-3.846
+Ownership,Owned,77/252 (30.6%),Ref,NA,NA
+,Shelter,38/116 (32.8%),0.672,1.107,0.691 - 1.774
+Sampling location,Other states,15/65 (23.1%),Ref,NA,NA
+,Selangor state,100/303 (33.0%),0.117,1.642,0.879 - 3.067
+FeLV status,Negative,97/323 (30.0%),Ref,NA,NA
+,positive,18/45 (40.0%),0.176,1.553,0.817 - 2.952
+Health status,Healthy,42/178 (23.6%),Ref,NA,NA
+,Sick,73/190 (38.4%),0.002*,2.020,1.284 - 3.178
+OR = Odds ratio; CI = confidence intervals; NA = not applicable; * = statistically significant difference; Ref = Reference category,,,,,

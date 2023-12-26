@@ -1,0 +1,19 @@
+0,1,2,3,4,5
+Assay,Primer,Sequence 5′ – 3′,Amplicon size,Tm (°C),Reference
+,HBV-pol-F1,TAGACTSGTGGTGGACTTCTC,,,
+,,,593,45,
+PCR with consensus,HBV-pol-R1,CATATAASTRAAAGCCAYACAG,,,
+pan-hepadnavirus,,,,,Wang et al.2
+primers,HBV-pol-F2,TGCCATCTTCTTGTTGGTTC,,,
+,,,258,45,
+,HBV-pol-R2,AGTRAAYTGAGCCAGGAGAAAC,,,
+,Hgap-F,GTGCTCTGATAACCGTATGCTC,,,
+PCR with specific,,,,,Aghazadeh
+,,,230,55,
+primers for DCH,,,,,et al.3
+,Hgap-R,CTAGAATGGCTACATGGGGTTAG,,,
+,FHBV- for,CGTCATCATGGGTTTAGGAA,,,
+Quantitative PCR,,,,,
+,FHBV- rev,TCCATATAAGCAAACACCATACAAT,105,50,This study
+(qPCR),,,,,
+,FHBV- prob,[FAM]TCCTCCTAACCATTGAAGCCAGACTACT [BHQ],,,

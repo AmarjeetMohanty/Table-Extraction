@@ -1,0 +1,14 @@
+0,1,2
+,bacterium avium subspecies hominissuis recovered from bronchoalveolar,
+lavage and liver,,
+Antitubecular drug,Concentration (µg/ml),Evaluation
+Isoniazid,1.0,R
+Rifampicin,40,R
+Streptomycin,10,R
+Ethanbutol,2.5,R
+Kanamycin,20,R
+Enviomycin,20,R
+Para-aminosalicylic acid,0.5,R
+Levofloxacin,1.0,R
+Cycloserine,30,S
+"R=resistant, S=susceptible.",,

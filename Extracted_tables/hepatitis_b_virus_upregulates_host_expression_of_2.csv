@@ -1,0 +1,29 @@
+0,1,2,3,4,5,6,7,8,9,10
+,,,,,,"Hu S et al. HBV upregulates expression of α-1,2-mannosidases",,,,
+A,,,,,B,,,,,
+,,,,,,1.5,,,,
+,,,,,,,,,,pTT22 vector
+,,,,,,,,,a,pTT22 vector + MK886
+,,,,,,,,,,HBs
+,,,,,,,a,,,
+,,,,,,,,,,HBs + MK886
+,,,,,,1.0,,,,
+MAN1C1,,,,,Relative band intensities,,,,,
+,,,,,,0.5,,,,
+,Actin,,,,,,,,,
+,,HBs,,HBs,,,,,,
+,pTT22 vector,HBs + MK886,pTT22 vector,HBs + G W 9662,,0.0,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,pTT22 vector + MK886,,pTT22 vector + G W 9662,,,,,MAN1C1,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,1.5,,,,"pTT22 vector
+pTT22 vector + GW9662"
+,,,,,,,,,,HBs
+,,,,,,,,,,HBs + GW9662
+,,,,,Relative band intensities,1.0,,,,
+,,,,,,0.5,,,,
+,,,,,,0.0,,,,
+,,,,,,,,MAN1C1,,

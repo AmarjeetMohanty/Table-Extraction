@@ -1,0 +1,19 @@
+0,1,2,3,4,5,6,7,8
+(a),,,270°,,three samples,(c),,
+,,,,,,,1.5,
+,,,,,per position,,,
+,225°,,,,,,,
+,,dmin,,315°,,,,
+,,,,,,,,NP : round
+,,,,,,,1.3,
+,,,,,,,,NP : elliptical
+180°,,,,,0°,,,
+dmax,,,,dmax,,,1.1,
+,,,,,,,1.0,
+,,dmin,,45°,,,,
+,135°,,,,,,,out : round
+,,,,,,,0.8,
+,,,90°,,,relative electron density (arb. units),,out : elliptical
+,,,,,,,0.6,
+(b),,,,,,,,
+,,,,,,,–0.3,

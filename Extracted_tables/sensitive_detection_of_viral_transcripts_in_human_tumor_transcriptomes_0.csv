@@ -1,0 +1,28 @@
+0,1,2,3,4,5
+,,,,,Detection of Viral Transcripts in Human Tumors
+,Table 1. Sequencing panel characteristics.,,,,
+Panel,Source,Sample ID,Read length,Sequencing depth (Gbp),Read pairs (million)
+POS,HeLa,15,2|54 bp,0.076,0.737
+POS,ceSCC,16,2|54 bp,0.157,1.527
+POS,ceSCC,17,2|54 bp,0.041,0.400
+POS,BCL,18,2|36 bp,3.134,43.527
+POS,HCC,19,2|100 bp,11.22,55.547
+NEG,Brain,20,2|50 bp,7.351,73.513
+NB1,4,1,2|36 bp,1.184,16.439
+NB1,4,2,2|36 bp,0.770,10.695
+NB1,4,3,2|36 bp,0.881,12.236
+NB1,4,4,2|36 bp,0.744,10.345
+NB1,4,5,2|36 bp,1.207,16.759
+NB1,4,6,2|36 bp,1.050,14.581
+NB1,4,7,2|36 bp,0.829,11.527
+NB1,4S,8,2|36 bp,1.031,14.317
+NB1,4S,9,2|36 bp,1.172,16.282
+NB1,4S,10,2|36 bp,0.868,12.065
+NB1,4S,11,2|36 bp,0.890,12.368
+NB1,4S,12,2|36 bp,0.845,11.737
+NB1,4S,13,2|36 bp,1.174,16.300
+NB1,4S,14,2|36 bp,0.847,11.772
+NB2,4,7,2|95 bp,9.284,48.863
+NB2,4S,13,2|95 bp,8.748,46.041
+,"Sequencing characteristics of neuroblastoma (NB), positive control",,"(POS), and negative control",(NEG) panels.,
+,doi:10.1371/journal.pcbi.1003228.t001,,,,

@@ -1,0 +1,31 @@
+0,1,2,3
+Novel Sample-to-Answer Assay for Respiratory Pathogens,,,
+TABLE 1 Pathogens included in this study,,,
+,No. of results,,
+,Found in clinical,,
+RP panel target,specimens,PCR(cid:2)/RP(cid:3),PCR(cid:3)/RP(cid:2)
+Viral,,,
+Adenovirus,39,,4
+Coronavirus,,,
+229E,7,1,1
+HKU1,12,1,
+NL63,7,,1
+OC43,9,1,1
+MERS coronavirus,,,
+Human bocavirus,27,3,1
+Human metapneumovirus,28,3,
+Human rhinovirus/enterovirusa,134b,2c,6a
+Inﬂuenza virus,,,
+Inﬂuenza A,1d,,
+H1,5,,
+2009 H1N1,18,,1e
+H3,17,,
+Inﬂuenza B,20,,
+Parainﬂuenza virus,,,
+Type 1,11,,
+Type 2,12,1,
+Type 3,15,,
+Type 4,2,,2
+Respiratory syncytial virus,13d,,
+Type A,43,,
+Type B,24,,

@@ -1,0 +1,47 @@
+0,1,2,3,4,5,6,7,8,9,10
+,"Table 4 Clinical sample information and test result comparison for PCR-GE, PCR-LFIA and DNA sequencing",,,,,,,,,
+S. no.,Sample,Age,Sex,Breed,Clinical,PCR-GE,PCR- LFIA,Signals,Antigenic,Accession
+,,(months),,,suspicion,,,,type,number
+1,SG-01,2,F,French Bulldog,–,–,–,11,,
+2,SG-02,3,M,Pembroke Welsh Corgi,–,–,–,5,,
+3,NJ-0602-1,2.5,F,Border Collie,+,+,+,"20,685",2c,MH614361
+4,NJ-0602-2,3,F,Golden Retriever,–,–,–,122,,
+5,NJ-0602-3,12,M,Pembroke Welsh Corgi,–,–,–,9,,
+6,NJ-0602-4,12.5,F,Shiba Inu,–,–,–,0,,
+7,NJ-0615-01,4,M,Puppies,–,–,–,32,,
+8,NJ-0615-02,12,F,Pembroke Welsh Corgi,–,–,–,0,,
+9,NJ-0615-05,8,M,Pembroke Welsh Corgi,–,–,–,80,,
+10,NJ-0615-06,2,F,Samoyed,–,–,–,136,,
+11,NJ-0615-10,2,F,Bichon Frise,–,–,–,1,,
+12,NJ-0615-11,2,M,Teddy Bear,–,–,–,121,,
+13,NJ-0615-12,2.5,F,Golden Retriever,+,+,+,2865,2a,MH614362
+14,NJ-0615-13,2,F,Pug,+,+,+,7354,2a,MH614363
+15,NJ-0615-14,2,F,Pug,+,+,+,4003,2c,MH614364
+16,NJ-0622-1,1.5,M,Pembroke Welsh Corgi,+,+,+,"11,345",2c,MH614365
+17,NJ-0622-2,3,F,French Bulldog,+,+,+,6246,2c,MH614366
+18,NJ-0622-3,2.5,M,Pembroke Welsh Corgi,+,+,+,"10,431",2b,MH614367
+19,NJ-0622-4,4,F,French Bulldog,+,+,+,9311,2c,MH614368
+20,NJ-0622-5,4,F,Teddy Bear,+,+,+,"18,505",2c,MH614369
+21,NJ-0622-6,6,M,Newfoundland and Labrador,–,–,–,97,,
+22,NJ-0622-7,8,M,Bichon Frise,–,–,–,10,,
+23,NJ-0622-8,5,F,Bichon Frise,–,–,–,132,,
+24,NJ-0622-9,6,F,Shiba Inu,–,–,–,5,,
+25,NJ-0622-10,6,F,Alaskan Malamute,–,–,–,10,,
+26,NJ-0622-11,2,M,Pomeranian,–,–,–,31,,
+27,NJ-0622-12,2,M,Puppies,–,–,–,82,,
+28,NJ-0622-13,2.5,F,Pug,–,–,–,128,,
+29,NJ-0622-14,2,F,Teddy Bear,–,–,–,12,,
+30,NJ-0622-15,1.5,M,Samoyed,–,+,+,"19,337",2a,MH614370
+31,NJ-0622-16,4,F,Bichon Frise,–,+,+,138,,
+32,NJ-0622-17,3,M,Golden Retriever,–,+,+,"15,414",2c,MH614371
+33,NJ-0622-18,2,F,Pembroke Welsh Corgi,–,–,–,116,,
+34,NJ-0622-19,8,M,Miniature Schnauzer,–,–,–,41,,
+35,NJ-0622-20,1.5,F,Pembroke Welsh Corgi,–,–,–,7,,
+36,NJ-0622-21,3,F,Border Collie,–,–,–,10,,
+37,NJ-0622-22,3,M,Golden Retriever,–,–,–,143,,
+38,NJ-0622-23,3,M,Golden Retriever,–,–,–,105,,
+39,NJ-0622-24,4,F,Pembroke Welsh Corgi,–,–,–,0,,
+40,NJ-0622-25,2.5,M,Pembroke Welsh Corgi,–,–,–,6,,
+41,NJ-0622-26,2,F,French Bulldog,–,–,–,3,,
+42,NJ-0622-27,2,M,Pembroke Welsh Corgi,–,–,–,14,,
+43,NJ-0622-28,3.5,F,French Bulldog,–,–,–,70,,

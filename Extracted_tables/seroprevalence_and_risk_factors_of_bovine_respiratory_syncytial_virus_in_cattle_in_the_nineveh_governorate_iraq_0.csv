@@ -1,0 +1,19 @@
+0,1,2,3,4,5
+Factors,Number of,,Indirect enzyme-linked immunosorbent assay test,,
+,cattle tested,,,,
+,,Number of positive (%),RR,95% confidence interval,p-value
+Age,,,,,
+≥7 months,85,40 (47)a,1,,
+<4 years,30,15 (50)a,0.94,0.61-1.43,0.83
+<1.5-4 years,175,159 (90.8)b,1.93,1.53-2.43,0.000
+<7 months-1.5 years,160,"160 (100)b,c",2.12,1.53-2.43,0.000
+Gender,,,,,
+Female,141,115 (81.5)a,1,,
+Male,309,259 (83.8)a,1.02,0.93-1.12,0.58
+Origin,,,,,
+Native,191,144 (75.3)a,1,,
+Imported,259,230 (88.8)b,1.17,1.07-1.29,0.0002
+Herd size,,,,,
+Small ≤10,191,124 (64.9)a,1,,
+Large ≥20,259,250 (96.5)b,1.48,1.33-1.65,0.000
+"Values significantly different (p<0.05) labeled with different letters (a, b, or c)",,,,,

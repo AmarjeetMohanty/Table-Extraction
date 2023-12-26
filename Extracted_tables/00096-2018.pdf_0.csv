@@ -1,0 +1,11 @@
+0,1,2,3
+"TABLE 4
+Continued",,,
+,Continent,Rest of the world,p-value
+At least one test done,,,
+North America,489 (92.4),2728 (86.0),<0.01
+South America,204 (93.6),3013 (86.5),<0.01
+Africa,128 (82.1),3089 (87.1),0.07
+Asia,406 (97.8),2811 (85.5),<0.01
+Europe,1955 (83.4),1262 (92.9),<0.01
+Oceania,35 (87.5),3182 (86.9),0.91

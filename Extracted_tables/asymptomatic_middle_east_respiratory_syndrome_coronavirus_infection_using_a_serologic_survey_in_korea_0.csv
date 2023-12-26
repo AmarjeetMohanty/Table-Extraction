@@ -1,0 +1,19 @@
+0,1,2,3,4,5,6,7,8,9,10
+"Table 2. Characteristics of MERS-seropositive subjects by ELISA, IFA, and PRNT in Korea, 2015",,,,,,,,,,
+,,,,Exposed,,,,ELISA,,
+Subject,Exposure,Sampling,Status at,,Underlying,Symptoms,,,,
+,,,,MERS case,,,,,IFA,PRNT
+ID,date,date,exposure,,disease,after exposure,,,,
+,,,,,,,Ratio,Result,,
+,,,,ID1,,,,,,
+1,May 15,Nov 1,Patient,#1,Angina,None,0.996,Borderline,Positive,Positive
+2,May 16,Nov 2,Patient,#1,None,None,2.078,Positive,Negative,Negative
+3,May 15,Nov 2,Healthcare,#1,None,Fatigue,1.640,Positive,Negative,Negative
+,,,worker,,,,,,,
+4,Jun 9,Oct 31,Patient,#118,Hypertension,Blurred vision,1.116,Positive,Negative,Negative
+5,Jun 4,Nov 8,Patient,#89,Hypertensive,None,0.916,Borderline,Negative,Negative
+,,,,,heart disease,,,,,
+6,Jun 5,Nov 9,Patient,#89,Lumbar spinal,Fatigue,1.724,Positive,Negative,Negative
+,,,,,stenosis,,,,,
+7,Jun 11,Nov 8,Patient,#89,None,Fatigue and,0.985,Borderline,Negative,Negative
+,,,,,,blurred vision,,,,

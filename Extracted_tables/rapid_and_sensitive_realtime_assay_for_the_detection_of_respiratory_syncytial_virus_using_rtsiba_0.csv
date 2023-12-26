@@ -1,0 +1,32 @@
+0,1,2,3,4
+protocol,,,,
+,,Extracted RNA from clinical specimens,,Rapid sample processing
+Sample no.,Original sample type,RT-SIBA detection time (minutes),"RT-PCR, cycle threshold Ct (result)",RT-SIBA detection time (minutes)
+1,NP UTM,10,25 (RSV B+),16
+2,NP UTM,11,27 (RSV B+),31
+3,NP UTM,11,27 (RSV B+),19
+4,NP UTM,10,24 (RSV B+),22
+5,NP UTM,11,26 (RSV B+),15
+6,NP UTM,11,27 (RSV B+),17
+7,NP UTM,11,26 (RSV B+),15
+8,NP UTM,10,23 (RSV B+),16
+9,NP UTM,11,28 (RSV B+),44
+10,NP UTM,12,29 (RSV B+),20
+11,NP UTM,10,23 (RSV B+),16
+12,NP UTM,20,25 (RSV B+),36
+13,NP UTM,14,28 (RSV B+),35
+14,NP UTM,11,28 (RSV B+),16
+15,NP UTM,12,28 (RSV B+),20
+16,NP UTM,10,24 (RSV B+),19
+17,NP UTM,12,26 (RSV A+),17
+18,NP UTM,11,25 (RSV B+),21
+19,NP UTM,11,25 (RSV B+),16
+20,NP UTM,11,33 (RSV B+),15
+21,NP UTM,20,27 (RSV B+),37
+22,NP UTM,10,25 (RSV B+),15
+23,NP VTM,14,31 (RSV A+),22
+24,NP VTM,12,27 (RSV A+),15
+25,NP VTM,13,31 (RSV B+),21
+26–40,NP UTM,ND,RSV (−),ND
+"ND not determined, NP nasopharyngeal, RSV respiratory syncytial virus, RT-PCR reverse transcription polymerase chain reaction, RT-SIBA reverse transcription",,,,
+,"strand invasion based amplification, UTM universal transport medium, VTM viral transport medium",,,

@@ -1,0 +1,18 @@
+0,1,2,3,4
+,proteins in M-S interaction and VLP/virion incorporation *.,,,
+,,,,VLP/Virion Incorporation (or Infectivity **)
+Genus,Species,M-S Interaction,,
+,,,Palmitoylation,Position specificity
+Alpha,,Independent,,
+,TGEV,,Dependent [127],No specific position [127]
+CoV,,[127],,
+,,,,Specific position (CRM1B) ** [123]
+,,Dependent,,
+,MHV,,"Dependent [123,124]",Specific position (CRM2) [124]
+Beta,,"[123,124]",,
+,,,,No specific position [125] **
+CoV,,,,
+,,Independent,,
+,SCoV,,Dependent [122],Specific position (CRM2B)[122]
+,,"[122,126]",,
+,"* This table is a modification of a table in reference 120. ** The mutants show little or no infectivity, although",,,

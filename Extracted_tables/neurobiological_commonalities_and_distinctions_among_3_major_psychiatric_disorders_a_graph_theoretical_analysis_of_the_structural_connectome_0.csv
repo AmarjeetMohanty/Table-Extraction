@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6,7
+Table 1: Demographic and clinical characteristics,,,,,,,
+,,,Group; mean ± SD or no. (%),,,,
+,Control,MDD,BD,Schizophrenia,,,
+Characteristic,(n = 209),(n = 124),(n = 123),(n = 123),F/χ2,p value,Post hoc significance
+Demographic,,,,,,,
+"Age at scan, yr",28.91 ± 7.58,29.67 ± 8.04,27.50 ± 6.50,28.15 ± 7.91,1.96¶,0.12¶,—
+Male sex,85 (40.7),37 (29.8),55 (44.7),49 (39.8),6.34¶,0.096¶,—
+Clinical,,,,,,,
+"Duration, mo",—,24.88 ± 39.83,47.12 ± 55.69,33.51 ± 44.78,6.48**,0.002**,MDD vs. BD: p = 0.002
+First episode,—,99 (79.8),48 (39.0),70 (56.9),42.72**,0.08**,—
+Medication,—,69 (55.6),93 (75.6),82 (66.7),11.0**,0.004**,—
+Antipsychotic,—,4 (3.2),10 (8.1),68 (55.3),—,—,—
+Mood stabilizer,—,0 (0),7 (5.7),1 (0.8),—,—,—
+Antidepressant,—,60 (48.4),14 (11.4),0 (0),—,—,—
+Combination,—,5 (4.0),62 (50.4),13 (10.6),—,—,—
+"HAM-D, total score*",—,18.85 ± 9.81,10.54 ± 9.33,7.16 ± 6.66,50.47**,< 0.001**,MDD vs. SZ: p < 0.001
+,,,,,,,MDD vs. BD: p < 0.001
+,,,,,,,BD vs. SZ: p = 0.021
+"HAM-A, total score†",—,15.87 ± 10.68,7.59 ± 8.08,6.00 ± 7.08,36.44**,< 0.001**,MDD vs. SZ: p < 0.001
+,,,,,,,MDD vs. BD: p < 0.001
+"YMRS, total score‡",—,1.51 ± 3.44,6.63 ± 9.49,1.84 ± 4.97,19.27**,< 0.001**,MDD vs. BD: p < 0.001
+,,,,,,,BD vs. SZ: p < 0.001
+"BPRS, total score§",—,25.9 ± 6.83,25.36 ± 9.65,31.42 ± 11.93,10.93**,< 0.001**,MDD vs. SZ: p < 0.001
+,,,,,,,BD vs. SZ: p < 0.001

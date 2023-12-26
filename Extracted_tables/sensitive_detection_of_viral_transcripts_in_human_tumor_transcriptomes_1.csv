@@ -1,0 +1,32 @@
+0,1,2,3,4,5,6,7
+reconstructed within HORs of,,the positive control,"samples,",such,automatically,"flagged to be of
+ambiguous","taxonomic
+status by"
+as,"a 9,550 bp long EBV segment",containing,,latency-associated,Virana.,,
+,Table 2. Mapping rates.,,,,,,
+Panel,Source,Sample ID,Pairs mapped,,Both ends mapped,Uniquely mapped,Depth (Gbp)
+POS,HeLa,15,94.900%,,94.900%,68.422%,0.127
+POS,ceSCC,16,90.803%,,90.803%,69.561%,0.264
+POS,ceSCC,17,96.629%,,96.629%,73.921%,0.075
+POS,BCL,18,91.612%,,91.612%,63.528%,6.424
+POS,HCC,19,94.693%,,94.693%,73.500%,14.924
+NEG,Brain,20,95.481%,,95.481%,72.515%,11.234
+NB1,4,1,95.878%,,95.878%,69.422%,2.275
+NB1,4,2,96.062%,,96.062%,74.342%,1.43
+NB1,4,3,96.385%,,96.385%,75.938%,1.641
+NB1,4,4,95.749%,,95.749%,71.012%,1.503
+NB1,4,5,95.057%,,95.057%,69.203%,2.652
+NB1,4,6,94.819%,,94.819%,69.856%,2.39
+NB1,4,7,96.597%,,96.597%,72.107%,1.635
+NB1,4S,8,95.952%,,95.952%,70.681%,2.093
+NB1,4S,9,95.242%,,95.242%,74.009%,2.223
+NB1,4S,10,96.854%,,96.854%,74.756%,1.651
+NB1,4S,11,96.819%,,96.819%,75.256%,1.668
+NB1,4S,12,96.710%,,96.710%,74.899%,1.539
+NB1,4S,13,95.344%,,95.344%,72.326%,2.35
+NB1,4S,14,97.110%,,97.110%,74.829%,1.65
+NB2,4,7,86.225%,,86.225%,69.552%,12.243
+NB2,4S,13,86.280%,,86.280%,72.538%,11.517
+,"Mapping ratios and depths of neuroblastoma (NB), positive control",,,"(POS), and negative control",,(NEG) panels. Mapped reads are relative to the number of sequenced,
+,read pairs that have passed quality control. Depths include reads with multiple mapping locations (‘multimaps’).,,,,,,
+,doi:10.1371/journal.pcbi.1003228.t002,,,,,,

@@ -1,0 +1,32 @@
+0,1,2,3,4
+"BMC Bioinformatics 2008, 9:155",,,,http://www.biomedcentral.com/1471-2105/9/155
+(a),,,,(b)
+,,,,(cid:120)
+,,,,"N
+2"
+,,,,"4 
+N"
+,,,,(cid:120)
+,,,,(cid:120)
+,,,,N1
+,,,,(cid:120)
+,,,,N3
+(c),,,,(d)
+,,,,(cid:120)
+,,,,N2
+,,,,N3
+,,,,(cid:120)
+,,,,(cid:120)
+,,,,N1
+,,,,(cid:120)
+,,,,N4
+,,Correlation,,
+,-1,0,+1,
+"Global trend and the Robinson matrix
+Figure 2",,,,
+Global trend and the Robinson matrix. Matrix visualization for the between-array time series correlation matrix of data,,,,
+in [1]. (a) Between-array correlation matrix with time series randomized. (b) HCT sorted time series correlation matrix with,,,,
+,local structure. (c) R2E sorted time series correlation matrix with (original) global trend. (d) HCT_R2E sorted time series cor-,,,
+,relation matrix preserves both (original) local and global patterns.,,,
+,,,,Page 4 of 16
+,,,,(page number not for citation purposes)

@@ -1,0 +1,18 @@
+0,1,2,3,4,5
+Table 6. Multivariable analysis of putative risk factors associated with being a case of cryptosporidiosis,,,,,
+during an outbreak in 2013.,,,,,
+Variable,,Number,Odds Ratio,95% CI,p value
+Number of weeks of contact,,,,,
+,0,32,REF,,
+with calves with diarrhoea,,,,,
+,1,37,10.61,1.87–108.29,0.02
+,2,5,55.05,3.80–1931.18,0.01
+Number of weeks of contact,,,,,
+,0,66,REF,,
+with cows with diarrhoea,,,,,
+,1,8,5.50,0.88–41.64,0.07
+Class *,BVT1,12,REF,,
+,BVT2,11,2.96,0.18–81.00,0.45
+,BVT3,14,0.28,0.01–9.34,0.44
+,BVSc5,37,0.54,0.04–13.57,0.66
+,"* Program and year of the students; BVT = Bachelor of Veterinary Technology, BVSc = Bachelor of Veterinary Science",,,,

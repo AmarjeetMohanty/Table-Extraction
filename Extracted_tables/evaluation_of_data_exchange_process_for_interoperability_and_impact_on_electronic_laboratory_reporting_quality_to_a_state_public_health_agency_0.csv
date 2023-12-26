@@ -1,0 +1,37 @@
+0,1,2,3
+Evaluation of Data Exchange Process for Interoperability and Impact on Electronic Laboratory,,,
+,,,OJPHI
+Reporting Quality to a State Public Health Agency,,,
+,# of cases,,
+Identified Issue,,Data Exchange Process,DQ Impact
+,(time frame),,
+,Non-assignment of Messages to Diseases,,
+Lack of LOINC,,,
+,,,Contextual DQ
+,952,,
+,,  Testing during ELR,
+and/or SNOMED,,,
+,,,"(Completeness,"
+,(currently),,
+codes,,onboarding,
+,,,"Value-added data),"
+,,  Validation checks with,
+,,,Representational DQ
+LOINC – SNOMED,,,
+,952,Lab Code List,
+,,,(Consistent
+pair missing / not,,,
+,(currently),Database,
+,,,representation)
+mapped,,,
+,Submission of non-reportable Diseases,,
+Presence of numerous,,  Testing during ELR,
+non-reportable,,onboarding,
+,366,,Contextual DQ
+respiratory pathogens,,,
+,,  Screening with,
+,(over 1 year),,(Relevancy)
+"(e.g. adeno virus,",,,
+,,Rhapsody integration,
+corona virus),,,
+,,engine rules,

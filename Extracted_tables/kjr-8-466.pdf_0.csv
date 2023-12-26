@@ -1,0 +1,19 @@
+0,1,2,3,4,5,6
+,,Mean,,,Maximal,
+Variables,,,,,,
+,Correlation Coefficient,,p-value,Correlation Coefficient,,p-value
+Body temperature,0.384,,0.044,0.497,,0.007
+Age,0.418,,0.027,0.410,,0.030
+Leukocytes count,0.568,,0.005,0.654,,0.001
+% of lymphocyte in leukocyte,0.689,,< 0.001,0.786,,< 0.001
+Absolute lymphocyte count,0.626,,0.001,0.655,,0.001
+Platelets count,0.375,,0.078,0.275,,0.270
+Aspartate aminotransferase,0.354,,0.076,0.385,,0.052
+Alanine aminotransferase,0.301,,0.127,0.303,,0.125
+Lactate dehydrogenase,0.662,,0.001,0.668,,< 0.001
+Creatine kinase,0.024,,0.9115,0.002,,0.991
+C-reactive protein,0.045,,0.850,0.051,,0.832
+Hospitalized days,0.653,,< 0.001,0.631,,< 0.001
+Days of intubation,0.604,,0.001,0.516,,0.005
+PaO2,0.390,,0.060,0.404,,0.050
+PaCO2,0.583,,0.003,0.568,,0.004

@@ -1,0 +1,21 @@
+0,1,2,3,4,5,6
+Table 2. Parameter estimates,,"for
+six models",in US. Posterior medians and equal,,tailed 95% credible interval presented for,
+each parameter.,,,,,,
+,,,,,density-,
+,,density-,density-,estimated density,dependent,distance-only
+,distance-only,dependent,independent,dependence,population model,with
+,model,population model,population model,population model,with infectivity,infectivity
+DIC,114.5,115.3,119.1,117.2,114.8,114.8
+g (distance,0.79,0.77,1.04,0.99,0.85,0.86
+power),"(0.54, 1.01)","(0.52, 0.99)","(0.68, 1.41)","(0.65, 1.35)","(0.60, 1.10)","(0.61, 1.10)"
+m (susceptible,0,0.07,0.11,0.10,0.08,0
+population),,"(0.003, 0.28)","(0.01, 0.35)","(0.004, 0.34)","(0.004, 0.27)",
+n (infected,0,0.75,0.28,0.37,1.13,0
+population),,"(0.03, 1.86)","(0.01, 0.91)","(0.02, 1.32)","(0.07, 2.09)",
+1 (spatial,0,0,1,0.66,0,0
+interaction),,,,"(0.15, 1.09)",,
+w (infectivity,0,0,0,0,1,1
+parameter),,,,,,
+b (intensity),0.07,0.03,0.69,0.22,71.9,130
+,"(0.05, 0.10)","(0, 0.11)","(0.04, 2.80)","(0.01, 1.91)","(6.26, 284)","(87.7, 193)"

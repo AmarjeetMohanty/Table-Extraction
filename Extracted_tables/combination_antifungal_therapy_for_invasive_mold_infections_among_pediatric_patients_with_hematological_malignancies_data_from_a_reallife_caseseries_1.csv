@@ -1,0 +1,46 @@
+0,1,2,3,4,5,6
+,Table 2. Characteristics of invasive mold infections (IMI) and patients’ outcome.,,,,,
+,EORTC,,,Concurrent,Combination,Outcome and
+Patient,,Species,Site of IMI,,,
+,Classification,,,Infections,Therapy,12-weeks Response
+,Possible,,"lung, liver,",coronavirus,L-AMB +,
+1,,-,,,,Favourable (CR)
+,aspergillosis,,spleen,229E/NL63,caspofungin,
+,Probable,,,BSI S.mitis/R.,L-AMB +,
+2,,-,lung,,,Favourable (PR)
+,aspergillosis,,,mucilaginosa,caspofungin,
+,Probable,,,,L-AMB +,"Failure, death due to"
+3,,-,"lung, CNS",RSV B,,
+,aspergillosis,,,,voriconazole,IMI
+,Proven IMI,,,,,
+,,,"lung, liver,",,L-AMB +,
+4,(probable,-,,No,,Favourable (CR)
+,,,spleen,,caspofungin,
+,aspergillosis),,,,,
+,Probable,,,BSI S.,L-AMB +,
+5,,-,"lung, CNS, liver",,,Favourable (PR)
+,aspergillosis,,,Epidermidis,voriconazole,
+,Proven,Absidia,,,L-AMB +,
+6,,,rinocerebral,No,,Favourable (CR)
+,mucormycosis,corymbifera,,,posaconazole,
+,Proven,Untyped,rhino-orbito-,,L-AMB +,
+7,,,,No,,Favourable (CR)
+,mucormycosis,mucorales,cerebral,,posaconazole,
+,Proven,Fusarium,,rinovirus,L-AMB +,
+8,,,"BSI, skin",,,Favourable (CR)
+,fusariosis,subglutinans,,A/B/C,voriconazole,
+,Possible,,,,L-AMB +,"Failure, death due to"
+9,,-,lung,No,,
+,aspergillosis,,,,posaconazole,HD
+,Probable,,,,L-AMB +,"Failure, death due to"
+10,,-,"lung, CNS",CMV viremia,,
+,aspergillosis,,,,voriconazole,IMI
+,Probable,,,BSI P.,L-AMB +,
+11,,-,lung,,,Favourable (PR)
+,aspergillosis,,,aeruginosa,caspofungin,
+,Possible,,,VZV Zoster,L-AMB +,
+12,,-,lung,,,Favourable (CR)
+,aspergillosis,,,C5-C7,voriconazole,
+,Proven,Aspergillus,"lung,",K.pneumoniae,L-AMB +,"Failure, death due to"
+13,,,,,,
+,aspergillosis,flavus,rhinocerebral,UTI,caspofungin,HD

@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6,7,8
+,Table 4. Top models of disease seroprevalence and survival,,for Yellowstone National Park’s canids.,,,,,
+Pathogen or Survival,Species & Age,Best-Supported Models,K,n,-Log Likeli-hood,AICc,D,w
+Canine Parvovirus (CPV),Coyote Juveniles,"CPV,1",1,35,7.67,19.46,0.00,0.62
+,,"CPV,1+Resident",2,35,7.05,20.48,1.01,0.38
+,Coyote Adults,"CPV,1+Resident",2,67,13.43,32.86,0.00,0.69
+,,"CPV,1",1,68,15.21,34.49,1.63,0.31
+Canine Adenovirus Type-1 (CAV),Wolf Pups,"CAV,1",1,116,14.34,32.73,0.00,0.74
+,,"CAV,1+Location",2,116,14.34,34.79,2.06,0.26
+,Wolf Adults,"CAV,1",1,93,4.82,13.67,0.00,0.74
+,,"CAV,1+Location",2,93,4.82,15.76,2.09,0.26
+,Coyote Juveniles,"CAV,1",1,35,17.47,39.06,0.00,0.67
+,,"CAV,1+Resident",2,35,17.05,40.47,1.40,0.33
+,Coyote Adults,"CAV,1+Resident",2,67,28.37,62.93,0.00,0.88
+Canine Herpesvirus (CHV),Wolves,"CHV,1+AgeClass",3,209,56.97,122.02,0.00,0.98
+,Coyotes,"CHV,1+AgeClass",3,104,61.52,131.24,0.00,0.46
+,,"CHV,1+Resident+AgeClass",4,103,60.43,131.31,0.07,0.45
+Neosporacaninum(Neo),Wolves,"Neo,1+AgeClass+Year",13,202,53.10,136.14,0.00,0.28
+,,"Neo,1+AgeClass",3,202,64.17,136.42,0.29,0.24
+,,"Neo,1+Location+AgeClass",4,202,63.58,137.40,1.27,0.15
+,,"Neo,1+Year+Location+ AgeClass",14,202,52.73,137.75,1.61,0.12
+Canine Distemper Virus (CDV),Wolf Pups,"CDV ,1",1,114,42.46,88.97,0.00,0.65
+,,"CDV ,1+Year+Location",12,114,30.96,91.01,2.04,0.24
+,Wolf Adults,"CDV ,1+Year",11,97,42.68,112.51,0.00,0.74
+,,"CDV ,1+Year+Location",12,97,42.45,114.61,2.11,0.26
+,Coyote Juveniles,"CDV ,1",1,35,4.743,13.61,0.00,1.00
+,Coyote Adults,"CDV ,1+Year",9,69,27.36,77.77,0.00,0.67
+,,"CDV ,1+Year+Resident",10,68,26.88,79.63,1.86,0.27
+Survival,Wolf Pups,"Survival,1+Year+Location",14,723,363.10,756.79,0.00,0.82
+,,"Survival,1+Year+Location+",27,723,351.83,759.78,2.98,0.18
+,,Location*Year,,,,,,

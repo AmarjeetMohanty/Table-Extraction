@@ -1,0 +1,18 @@
+0,1,2,3,4,5
+,,,,,Bovine Rhinitis Viruses in Cattle with Respiratory Disease
+Table 1. Amino acid length and sequence identity (%) between BRAV1 strain Sd-1 and other bovine rhinitis viruses.,,,,,
+Region,Protein Length (aa),% Identity BRAV2 H-1,% Identity BRAV2 140032–1,% Identity BRBV EC-11,% Identity BRBV 140032–2
+L,179,92.2,82.4,39.9,39.4
+VP4,93,94.6,95.7,64.9,66.0
+VP2,224,86.2,87.5,43.2,43.2
+VP3,221,85.5,86.0,55.4,52.3
+VP1,232,84.9,85.3,36.4,36.0
+2A,20,90.0,95.0,35.9,35.9
+2B,127,98.4,98.4,39.9,40.6
+2C,311,97.4,98.1,59.6,59.6
+3A,109,95.4,94.5,27.1,27.1
+3B,24,95.8,100.0,50.0,50.0
+3C,209,97.6,97.1,58.6,57.6
+3D,469,97.9,98.1,58.9,58.6
+Total,2218,93.2,92.7,50.4,50.1
+doi:10.1371/journal.pone.0121998.t001,,,,,

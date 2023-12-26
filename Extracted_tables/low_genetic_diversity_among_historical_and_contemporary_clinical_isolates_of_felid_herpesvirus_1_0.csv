@@ -1,0 +1,32 @@
+0,1,2,3,4,5,6,7,8
+Table 1 FHV-1 isolates sequenced in this study,,,,,,,,
+Virus ID,Year,Origina,Disease,Site,Vacc,Otherb,GenBank,Reference
+85/68,1968,Shelter A,URTI,Nasal swab,N,"6 mo female,
+febrile",KR381787,[31]
+117/68,1968,Shelter A,URTI,Nasal swab,N,7 wo,KR381780,[31]
+124/68b,1968,Shelter A,URTI,Nasal swab,N,"8 yo,
+female",KR381788,This study
+135/68a,1968,Shelter A,URTI,Nasal swab,N,n/a,KR381786,This study
+221/71,1971,Private,"URTI, conjunct",Eye swab,N,3.5 wo female Persian,KR381781,This study
+356/75b,1975,Blackburn,URTI,n/a,N,Siamese,KR381784,This study
+384/75,1975,Mornington,Pneumonia,Lung,N,5 wo female Burmese,KR381782,This study
+448/77,1977,Private,n/a,Pharynx swab,N,n/a,KR381783,This study
+571/79,1979,Albert Park,Conjunct,Eye swab,N,Male,KR381785,This study
+729/83,1983,Balwyn,Conjunct,n/a,Y,3 mo,KR381779,This study
+3224/04,2004,Shelter B,"URTI, oral ulcer",Nasal swab,Y,4 yo male DSH,KR381792,This study
+3225/05,2005,Shelter B,Absent,Eye swab,Y,10 wo male DLH,KR381801,This study
+3226/05,2005,Shelter B,URTI,Oral swab,Y,9 wo male DSH,KR381793,This study
+3227/05,2005,Shelter B,Absent,Nasal swab,Y,15 wo male DSH,KR381802,This study
+3228/05,2005,Shelter B,Oral ulcer,Nasal swab,Y,10 wo female DSH,KR381794,This study
+3229/05,2005,Shelter B,URTI,Eye swab,n/a,16 wo male DLH,KR381795,This study
+3230/05,2005,Shelter B,URTI,Nasal swab,Y,1 yo male DSH,KR381796,This study
+3231/05,2005,Shelter B,"Oral ulcer, conjunct",Oral swab,Y,"8 wo male, DLH",KR381797,This study
+3232/05,2005,Shelter B,Oral ulcer,Eye swab,Y,9 wo female DSH,KR381798,This study
+3233/05,2005,Shelter B,"URTI, diarrhea",Oral swab,Y,12 wo female DSH,KR381799,This study
+3234/05,2005,Shelter B,URTI,Eye swab,Y,8 wo female DSH,KR381800,This study
+3235/06,2006,Shelter B,"URTI, conjunct",Oral swab,Y,5 wo male DSH,KR381789,This study
+3236/06,2006,Shelter B,URTI,Eye swab,Y,4 yo male Siamese,KR381791,This study
+3238/06,2006,Shelter B,URTI,Oral swab,Y,2 yo male DSH,KR381790,This study
+3239/14,2013,USA,-,Vaccine,-,FeligenRCP Virbac,KR296657,-
+3240/14,2013,USA,-,Vaccine,-,Companion Intervet,KR381803,-
+aAll,"isolates sequenced, excluding vaccine isolates, were from Victoria, Australia",,,,,,,

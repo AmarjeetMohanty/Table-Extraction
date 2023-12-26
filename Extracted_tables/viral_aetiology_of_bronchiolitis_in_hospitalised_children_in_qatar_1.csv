@@ -1,0 +1,41 @@
+0,1,2,3,4,5
+Table 4 Predictors of,length-of-stay ≥4 days among children with mild to severe bronchiolitis:,,,logistic regression analysis,
+,LOS <4 days,LOS ≥ 4 days,Odds Ratio (OR),(95% CI),P-Value
+Demographic characteristics,,,,,
+Age group,,,,,
+≤ 1 month,25 (42.4%),118 (41.5%),"1.36 (0.70, 2.7)",,0.369
+1 to 3 months,15 (25.4%),100 (35.2%),"1.92 (0.91, 4.0)",,0.086
+> 3 months,19 (32.2%),66 (23.2%),1.0 (Reference),,
+Male,39 (62.9%),196 (67.4%),"1.22 (0.69, 2.15)",,0.500
+Female,23 (37.1%),95 (32.6%),1.0 (Reference),,
+Qatari,38 (61.3%),185 (63.6%),"1.1 (0.63, 1.9)",,0.735
+Non-Qatari,24 (38.7%),106 (36.4%),1.0 (Reference),,
+"Types of viruses, seasonal trend and severity",,,,,
+RSV,22 (50%),103 (39.3%),1.0 (Reference),,
+RV,3 (6.8%),33 (12.6%),"2.35 (0.66, 8.35)",,0.187
+RSV + RV,3 (6.8%),21 (8%),"1.50 (0.41, 5.46)",,0.542
+RSV+ any other non-RV,3 (6.8%),30 (11.5%),"2.14 (0.60, 7.63)",,0.243
+RV+ any other non-RSV,3 (6.8%),19 (7.3%),"1.35 (0.37, 4.97)",,0.649
+Others,10 (22.7%),56 (21.4%),"1.20 (0.53, 2.70)",,0.667
+Seasons,,,,,
+Spring,8 (12.9%),35 (12%),"1.25 (0.53, 2.90)",,0.610
+Summer,2 (3.2%),18 (6.2%),"2.57 (0.57, 11.6)",,0.220
+Fall,18 (29%),119 (41%),"1.89 (1.01, 3.53)",,0.046
+Winter,34 (54.8),119 (40.9),1.0 (Reference),,
+ICS score: 3 to 4,27 (43.5%),156 (55.5%),"1.62 (0.93, 2.82)",,0.089
+ICS score: 1 to 2,35 (56.5%),125 (44.5%),1.0 (Reference),,
+Medical history and physical exam findings,,,,,
+Cough,59 (95.2%),286 (99.3%),"7.27 (1.2, 44.5)",,0.032
+Wheezing,40 (66.7%),189 (66.5%),"0.99 (0.55, 1.8)",,0.986
+Crepitation,42 (76.4%),226 (85.6%),"1.84 (0.90, 3.7)",,0.092
+Retraction,33 (60%),215 (80.2%),"2.70 (1.5, 5.1)",,0.002
+Fever,47 (78.3%),212 (76.3%),"0.89 (0.45, 1.74)",,0.731
+Apnea,3 (5.6%),21 (8.4%),"1.56 (0.45, 5.4)",,0.485
+Pertussis like symptoms,3 (5.5%),26 (11%),"2.15 (0.63, 7.4)",,0.225
+Family history of asthma,22 (55%),121 (56.3%),"1.1 (0.53, 2.1)",,0.881
+Maximum temperature (°C),38.39 ± 0.87,38.52 ± 0.78,"1.22 (0.86, 1.73)",,0.255
+Maximum respiratory rate (br/m),60.34 ± 15.13,62.99 ± 13.32,"1.02 (0.99, 1.1)",,0.160
+Maximum pulse rate (beat/m),161.8 ± 22.1,169.1 ± 18.1,"1.01 (1.0, 1.03)",,0.011
+,,,,,0.001
+O2 saturation (%),97.37 ± 1.84,96.18 ± 2.53,"0.78 (0.66, 0.89)",,
+"LOS Length of stay in hospital,","ICS Initial clinical severity score, OR odds ratio, CI confidence interval. Dichotomous outcome LOS <4 days considered as reference group",,,,

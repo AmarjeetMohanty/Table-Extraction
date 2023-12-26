@@ -1,0 +1,15 @@
+0,1,2,3,4
+Table 1 Protein products of a consensus H1N1 influenza genome,,,,
+Segment,Length*,Protein,ORF+,Amino Acids*
+1,2280,PB2,1-2280,759
+2,2274,PB1,1-2274,757
+,,PB1-F2,95-367,90
+3,2151,PA,1-2151,716
+4,1701,HA,1-1701,566
+5,1497,NP,1-1497,498
+6,1410,NA,1-1410,469
+7,982,M1,1-759,252
+,,M2,"1-27,716-982",97
+8,838,NS1,1-693,230
+,,NS2,512-838,108
+"*Average full-length or predicted full-length product, +relative to start codon (ATG).",,,,

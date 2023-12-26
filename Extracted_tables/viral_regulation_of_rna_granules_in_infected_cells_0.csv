@@ -1,0 +1,30 @@
+0,1,2,3,4,5,6
+186,,,,,,Virologica Sinica
+Table 3 Viruses and SG components.,,,,,,
+Genome,Virus family,Virus,SG components,,Effects on viral,References
+,,,,,replication*,
+,,,Proteins,RNAs,,
+dsDNA,Poxviridae,Vaccinia virus,"G3BP, Caprin-1,",Viral but not host,SG stimulate viral,Katsafanas and
+,,,"eIF4G, eIF4E",mRNA,translation,Moss (2007)
+(?)ssRNA,Picornaviridae,EV71,"Sam68, TIA-1,",Cellular but not,Induced aSG beneﬁcial to,Yang et al. (2018)
+,,,TIAR,viral mRNA,"viral
+translation",
+,,EV71-2AC110S,"eIF4G, G3BP, TIA-",Viral and cellular,EV71-2AC110S induced,Yang et al. (2018)
+,,,1,mRNA,tSG inhibit viral,
+,,,,,translation,
+,,TMEV LM60V,"eIF3, TIA-1, PTB,",No viral RNA,N/A,Borghese and
+,,,G3BP,sequestered in,,Michiels (2011)
+,,,,SG,,
+(-)ssRNA,Rhabdoviridae,Rabies Virus,"G3BP1, TIA-1,",Viral and cellular,"Efﬁcient
+for virus",Nikolic et al.
+,,,PAPB,mRNA,infection,(2016)
+,,VSV,"Viral
+replication",Viral RNA,No effect on viral protein,Dinh et al. (2013)
+,,,proteins and TIA-,,synthesis despite eIF2,
+,,,"1, TIAR, PCBP2",,phosphorylation,
+,Paramyxoviridae,HPIV3,"TIA-1, G3BP,",?vRNA (the,Inhibition of SG,Hu et al. (2018)
+,,,"eIF4A, eIF4E,",mRNA and the,formation facilitates,
+,,,eIF4G,anti-genome,HPIV3 replication,
+,,,,RNA),,
+,,RSV,"G3BP, HuR, eIF3g,",Genomic RNA,SG promote RSV,Lindquist et al.
+,,,TIA-1,,replication,(2010)

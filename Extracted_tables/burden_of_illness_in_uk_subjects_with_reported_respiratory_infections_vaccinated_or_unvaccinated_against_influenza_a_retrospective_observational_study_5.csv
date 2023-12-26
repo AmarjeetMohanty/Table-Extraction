@@ -1,0 +1,10 @@
+0,1,2,3,4
+,,,,UK Influenza Burden by Vaccination Status
+"Table 8.
+(Continued)",,,,
+All ages,Coefﬁcient,SE,t value,Pr(>|t|)
+Complications,0.970,0.083,11.690,0.000
+% inﬂuenza A,-0.841,0.177,-4.750,0.000
+% RSV,-1.051,0.214,-4.910,0.000
+,"GP, general practitioner; RSV, respiratory syncytial virus, SE, standard error",,,
+doi:10.1371/journal.pone.0134928.t008,,,,

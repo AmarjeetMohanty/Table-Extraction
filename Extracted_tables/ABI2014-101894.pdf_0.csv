@@ -1,0 +1,42 @@
+0,1,2
+products for any sequence in the NCBI nt nucleotide database. The numerator is for any nontarget organism in nt and the denominator is,,
+"for any target or nontarget organism in nt, that is, nonspecific/total of the possible primer combinations in the multiplex predicted to yield",,
+"product when compared against nt. Vastly more amplicons are produced from target organisms,",,indicating any contaminating nontarget
+species should be a small minority of amplified product.,,
+Organism,Nontarget amplicons/total amplicons,Nontarget amplicon source organism
+CCHF S,0/160,—
+CCHF M,0/1934,—
+CCHF L,0/3753,—
+RVF S,0/137,—
+RVF M,0/356,—
+RVF L,0/753,—
+Ebola,1/2657,Zea mays clone BAC ZMMBBb0342E21
+Marburg,0/1511,—
+Hendra,0/206,—
+Nipah,0/286,—
+Junin L,0/69,—
+Machupo L,0/153,—
+Junin S,0/84,—
+Machupo S,0/32,—
+,,Rocio
+JEV,7/9515,
+,,West Nile
+,,Ippy
+,,Lassa
+,,Luna
+NW Arena S,56/1543,
+,,Lymphocytic choriomeningitis
+,,Mobala
+,,Mopeia
+NW Arena L,0/819,—
+,,Allpahuayo
+,,Amapari
+,,Bear canyon
+,,Chapare
+,,Cupixi
+,,Dandenong
+,,Flexal
+,,Guanarito
+,,Junin
+OW Arena S,73/2509,
+,,Latino

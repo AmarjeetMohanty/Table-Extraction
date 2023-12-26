@@ -1,0 +1,34 @@
+0,1,2,3,4,5,6
+,,,,SAFV-,SAFV-positive vs.,Single-detection vs.
+Variable,Subtotal,Single-detection,Co-detection,negative,SAFV-negative,co-detection
+Cohort 1,(n 5 17),(n 5 3),(n 5 14),(n 5 1630),,
+"Age, months (median, range)",36 (8–108),45 (38–108),31 (8–77),9 (1–172),",0.001a",0.130a
+"Sex, boy (%)",12 (70.6),2 (66.7),10 (71.4),1084 (66.5),0.723b,1.00c
+Clinical manifestation,,,,,,
+Cough,16 (94.1),3 (100),13 (92.9),1534 (94.1),1.000b,1.00c
+Pneumonia,8 (47.1),3 (100),5 (35.7),1196 (73.4),0.015b,0.082c
+Bubble,9 (52.9),0 (0),9 (64.3),1217 (74.7),0.051b,0.082c
+Asthma,7 (41.2),0 (0),7 (50.0),231 (14.2),0.002b,0.228c
+Rhonchi,6 (35.3),0 (0),6 (42.9),749 (46.0),0.380b,0.514c
+Rhinorrhoea,3 (17.7),0 (0),3 (21.4),234 (14.4),0.701c,1.00c
+Dyspnea,2 (11.8),0 (0),2 (14.3),299 (18.3),0.752c,0.686c
+Bronchitis,2 (11.8),0 (0),2 (14.3),72 (4.4),0.176c,0.686c
+Sore throat,1 (5.9),0 (0),1 (7.1),26 (1.6),0.246c,0.823c
+Cohort 2,(n 5 12),(n 5 3),(n 5 9),(n 5 2001),,
+"Age, months (median, range)",11 (2–38),13 (11–14),10 (2–37),10 (1–1630),0.774a,0.266a
+"Sex, boy (%)",9 (75.0),2 (66.7),7 (77.8),1246 (62.2),0.552b,0.618c
+Clinical manifestations,,,,,,
+Diarrhea times $ 5,2 (25.0),1 (50.0),1 (11.1),974 (48.6),0.290c,0.456c
+Vomiting,0 (0),0 (0),0 (0),928 (46.3),0.009c,NA
+Cohort 3,(n 5 86),(n 5 28),(n 5 58),(n 5 2306),,
+"Age, months (median, range)",24 (6–55),20 (9–55),24 (6–52),24 (1–168),0.335a,0.361a
+"Sex, boy (%)",60 (69.8),20 (71.4),40 (69.0),1537 (66.7),0.547b,0.816b
+Outcome,,,,,",0.001b",0.212b
+Mild HFMD,39 (45.4),10 (35.7),29 (50.0),1450 (62.9),,
+Severe HFMD,47 (54.7),18 (64.3),29 (50.0),856 (37.1),,
+Clinical manifestations,,,,,,
+Respiratory system,8 (9.3),2 (7.1),6 (20.3),199 (8.6),0.828b,1.00c
+Digestive system,4 (4.7),3 (10.7),1 (1.7),134 (5.8),0.816c,0.100c
+Circulatory system,4 (4.7),1 (3.6),3 (5.2),193 (8.4),0.218c,0.607c
+Nervous system,45 (52.3),17 (60.7),28 (48.3),856 (37.1),0.004b,0.279b
+,"Note: respiratory system syndromes were defined as the presence of at least one of the followings: cough, bronchitis or other upper respiratory tract disease, or pneumonia; digestive system syndromes were",,,,,

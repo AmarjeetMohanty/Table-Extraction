@@ -1,0 +1,14 @@
+0,1,2,3
+these genes is provided in Table S5.,,,
+,Table 6. Diﬀerentially expressed genes (DEGs) of four comparison groups.,,
+Group,,No. of DEGs (FDR < 0.05),Up-/Down-Regulated
+"63
+× 72 I vs 63",× 72 N,534,382/152
+"72
+× 63 I vs 72",× 63 N,1543,854/689
+Overlapped,,223,153/70
+"63
+× 72 I vs 72",× 63 I,328,279/49
+"63
+× 72 N vs 72",× 63 N,20,5/15
+Overlapped,,0,0/0

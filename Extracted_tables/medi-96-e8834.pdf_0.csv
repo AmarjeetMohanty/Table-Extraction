@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+,,Table 1,,,,,,,,,,,,,,,,
+,,Clinical characteristics of study cohort.,,,,,,,,,,,,,,,,
+,,,,,,Pain,,,Location of,Time of,First,Pain,,Final diagnosis,,ARCO,Steroid,Type of
+,,,,,,,,,,,,,∗,,,,,
+,No.,Age,Gender,Side,Protopathy,onset,(d),,the pain,"MRI
+(d)",diagnosis,status (C/I),,interval,(d),Stage (R/L),exposure (mg)†,steroid‡
+,1,35,Male,Bilateral,Asthma,6,,Hip,,10,Lumbar disease,I,,180,,III/II,800,D
+,2,35,Female,Bilateral,Crohn,22,,Knee,,32,Arthritis,I,,326,,II/III,2150,"D,P"
+,3,39,Male,Bilateral,Allergy,14,,Thigh,,39,Lumbar disease,I,,125,,II/II,375,M
+,4,45,Male,Right,Skin allergy,30,,Hip,,63,Synovitis,I,,381,,III,2108,"D,B"
+,5,32,Female,Right,SLE,21,,Hip,,37,Lumbar disease,C,,68,,II,4089,"D,M"
+,6,35,Male,Bilateral,Idiopathic deafness,48,,Hip,,50,strain,C,,80,,III/I,500,M
+,7,28,Male,Bilateral,Thrombocytopenic purpura,62,,Thigh,,68,Lumbar disease,C,,95,,III/II,1800,M
+,8,61,Female,Bilateral,Ear disease,15,,Hip,,21,Lumbar disease,I,,479,,II/III,900,"M,D"
+,9,26,Male,Bilateral,Fever,28,,Hip,,39,Synovitis,I,,132,,III/II,367,D
+,10,26,Female,Bilateral,Facial paralysis,19,,Hip,,25,Synovitis,I,,98,,I/II,633,"D,H"
+3,,,,,,,,,,,,,,,,,,
+,11,20,Female,Bilateral,"Cerebral
+trauma",34,,Hip,,58,Lumbar disease,C,,106,,II/II,734,D
+,12,27,Male,Left,Nephrotic syndrome,20,,Hip,,28,Fascitis,I,,121,,II,7544,"M,P"
+,13,30,Female,Right,Pregnancy fatty liver,78,,Thigh,,94,Lumbar disease,C,,108,,II,1000,D
+,14,22,Female,Bilateral,Lymphoma,7,,Hip,,12,Lymphoma,I,,310,,III/II,4000,"M,H"
+,15,42,Male,Bilateral,Cold,14,,Hip,,19,Lumbar disease,I,,378,,III/II,700,D
+,16,39,Male,Bilateral,Nephritis,4,,Hip,,10,Synovitis,I,,762,,II/III,5208,"M,P"
+,17,27,Female,Left,SARS,8,,Knee,,56,SARS,I,,143,,II,3852,"M,D"
+,18,48,Female,Right,SARS,11,,Hip,,41,SARS,I,,180,,II,6130,"D,M"
+,19,21,Female,Bilateral,Leukemia,59,,Thigh,,89,Lumbar disease,C,,143,,II/I,6267,"M,P"
+,20,36,Male,Bilateral,Nephrotic syndrome,63,,Hip,,80,Synovitis,C,,105,,I/III,7186,"M,H"
+,21,42,Male,Right,Lumbar disc hernia,81,,Hip,,85,Lumbar disc hernia,C,,168,,III,547,D
+,22,29,Female,Bilateral,SLE,no,,,–,38,–,–,,173,,II/II,6760,"M,D"
+,23,19,Female,Right,Glomerular nephritis,no,,,–,57,–,–,,231,,II,2200,"M,H"
+,∗,,,,,,,,,,,,,,,,,
+,,"C = continuous,","I = intermittent, SLE = systemic lupus erythematosus.",,,,,,,,,,,,,,,
+,,† Prednisone equivalent until,,the ﬁrst MRI examination.,,,,,,,,,,,,,,
+,,"‡ D = dexamethasone, M = methylprednisolone, H = hydrocortisone, B = betamethasone, P = prednisone.",,,,,,,,,,,,,,,,

@@ -1,0 +1,45 @@
+0,1,2,3,4,5,6,7,8,9
+,,,,,,,,volume ratio e,
+Cytoskeleton proteins,,,,,,,,,
+Microfilament-associated proteins,,,,,,,,,
+1154,beta actin (ACTB),gi|45269029,44.76,5.55,3,36,285,3.64,0.000035
+1308,beta actin (ACTB),gi|45269029,44.76,5.55,3,16,407,4.04,0.00013
+1312,beta actin (ACTB),gi|45269029,44.76,5.55,3,14,129,−2.82,0.00076
+1368,beta actin (ACTB),gi|45269029,44.76,5.55,1,16,82,4.68,0.0097
+1383,beta actin (ACTB),gi|45269029,44.76,5.55,5,34,537,3.7,0.0019
+1647,beta actin (ACTB),gi|150438831,44.76,5.55,3,21,242,7.03,0.005
+1675,alpha tropomyosin (TPM1),gi|158931149,32.69,4.71,5,46,544,−2.82,0.0027
+1864,beta actin (ACTB),gi|476332,26.10,5.55,3,35,177,2.58,0.00023
+Microtubule-associated proteins,,,,,,,,,
+911,alpha Tubulin (TUBA1B),gi|116256086,50.12,4.94,4,28,340,9.08,0.0029
+964,beta Tubulin (TUBB),gi|75045190,49.64,4.78,7,31,448,2.28,0.00081
+978,alpha Tubulin (TUBA1B),gi|116256086,50.12,4.94,3,32,338,3.38,0.000014
+Intermediate filament proteins,,,,,,,,,
+1078,vimentin (VIM),gi|335296459,53.64,5.06,6,64,1020,−3.26,0.0001
+1266,vimentin (VIM),gi|335296459,53.64,5.06,6,60,888,−4.28,0.00013
+1892,vimentin (VIM),gi|335296459,53.64,5.06,2,35,389,−2.82,0.00041
+1947,vimentin (VIM),gi|335296459,53.64,5.05,4,35,582,4.84,0.000014
+1968,vimentin (VIM),gi|21431723,30.97,4.67,4,25,366,3.06,0.00036
+1970,vimentin (VIM),gi|335296459,53.64,5.06,4,35,603,2.43,0.00082
+1907,keratin 19 (KRT19),gi|311267276,44.19,5.05,8,47,682,−3.99,0.000023
+2090,vimentin (VIM),gi|21431723,30.97,4.67,2,9,120,5.63,0.0095
+2280,vimentin (VIM),gi|335296459,53.64,5.06,6,34,504,9.65,0.0031
+RNA processing,,,,,,,,,
+1606,heterogeneous nuclear,gi|335296158,104.85,5.85,3,7,277,−3.26,0.011
+,ribonucleoprotein U,,,,,,,,
+,(HNRNPU),,,,,,,,
+1803,thiopurine S-methyltransferase,gi|311259781,28.46,5.46,5,41,497,3.59,0.000099
+,(TPMT),,,,,,,,
+2023,thiopurine S-methyltransferase,gi|311259781,28.46,5.46,5,54,476,6.96,0.000008
+,(TPMT),,,,,,,,
+Protein biosynthesis and modification,,,,,,,,,
+716,protein phosphatase 2A (PP2A),gi|510469,65.28,5.00,2,30,239,2.71,0.0051
+1116,eukaryotic initiation factor 4A-I,gi|154147660,46.13,5.32,7,44,586,3.87,0.00052
+,(EIF4A1),,,,,,,,
+1158,eukaryotic initiation factor 4A-I,gi|154147660,46.13,5.32,5,40,531,3.37,0.0011
+,(EIF4A1),,,,,,,,
+1509,acidic ribosomal protein P0,gi|182705234,34.34,5.71,4,50,483,2.38,0.02
+,(RPLP0),,,,,,,,
+Vesicle transport,,,,,,,,,
+1602,annexin A8 (ANXA8),gi|194042330,36.71,5.20,6,63,752,−3.31,0.0063
+1814,annexin A4 (ANXA4),gi|4033507,35.81,5.71,5,49,510,−5.96,0.000008

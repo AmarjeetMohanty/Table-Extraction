@@ -1,0 +1,39 @@
+0,1,2,3
+Table 4. Coefficients of the variables for predicting responsive behavior.,,,
+,Mar. 2008,Aug. 2009,Nov. 2009
+Overall responsive behavior,,,
+Self-reported health,0.091**,-0.089*,-0.134***
+Gender,0.173***,-0.007,0.037
+Education,0.103**,1.294,0.031
+Age,0.202***,0.477,0.003
+Income,0.013,0.025,0.050
+Composite risk score,-0.179***,2.832***,0.034
+Hygiene and personal protective practices,,,
+Self-reported health,—,-0.01,-0.098***
+Gender,—,0.021,0.056
+Education,—,0.034,0.029
+Age,—,0.052,-0.035
+Income,—,-0.042,0.034
+Composite risk score,—,0.068,-0.001
+Social distancing measures,,,
+Self-reported health,—,-0.040,-0.028
+Gender,—,-0.015,0.045
+Education,—,0.137**,0.006
+Age,—,0.042,-0.006
+Income,—,-0.060,0.077**
+Composite risk score,—,0.030,0.075**
+Information-seeking behaviors,,,
+Self-reported health,—,-0.138***,-0.065*
+Gender,—,0.031,0.059*
+Education,—,0.128**,0.004
+Age,—,0.087,0.187***
+Income,—,0.054,0.065*
+Composite risk score,—,0.156***,-0.036
+"Pharmaceutical
+interventions",,,
+Self-reported health,—,-0.079,-0.150***
+Gender,—,-0.064,-0.013
+Education,—,-0.006,0.042
+Age,—,-0.019,-0.060
+Income,—,0.101*,0.036
+Composite risk score,—,0.164***,0.038

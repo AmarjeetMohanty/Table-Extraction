@@ -1,0 +1,84 @@
+0,1
+"Trebbien et al. Virology Journal 2013, 10:290",Page 10 of 16
+http://www.virologyj.com/content/10/1/290,
+,Haptoglobin
+A,
+2500,
+,"Group 1 H1N1 PID 0, H1N2 PID 28"
+,"Group 2 H1N2 PID 0, H1N1 PID 28"
+2000,
+"g/ml
+µ",
+1500,
+"Haptoglobin,
+1000",
+500,
+0,
+"7
+0",
+"-3
+11","56
+28
+46
+50
+14
+18
+22
+35
+39
+42"
+,PID
+,CRP
+B,
+12,
+,"Group 1 H1N1 PID 0, H1N2 PID 28"
+,"Group 2 H1N2 PID 0, H1N1 PID 28"
+10,
+"g/ml
+8",
+µ,
+"CRP,
+6",
+4,
+2,
+0,
+"0
+7",
+"-3
+14
+11","46
+28
+28
+56
+18
+22
+35
+39
+42
+50"
+,PID
+C,SAA
+30000,
+,"Group 1 H1N1 PID 0, H1N2 PID 28"
+,"Group 2 H1N2 PID 0, H1N1 PID 28"
+"SAA, ng/ml
+20000",
+10000,
+0,
+"7
+0",
+"-3
+14
+11","50
+42
+56
+22
+35
+39
+18
+28
+46"
+,PID
+Figure 5 Acute phase protein levels in serum. The graphs show the acute phase protein levels in the serum samples from group 1 and 2,
+"pigs, the stapled lines indicates first and second inoculation,","respectively. A: Haptoglobin, B: C - Reactive Protein (CRP), C: Serum Amyloid A (SAA)."
+PID: post inoculation day.,

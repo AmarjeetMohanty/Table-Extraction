@@ -1,0 +1,97 @@
+0,1,2,3,4
+lance system j at time t.,,,,data and the information environment. A linear regression
+"For
+data
+as
+proportions",in,the,pandemic model,"model
+is fitted as follows:"
+(P model) model we have…,,,,Data model:
+Data model:,,,,"(cid:4)
+(cid:5)"
+,,,,"(cid:1)
+(cid:3)"
+"(cid:4)
+(cid:5)",,,,; σ 2
+"(cid:1)
+(cid:3)",,,,"ð12Þ
+e N μ
+Log Y j;t"
+,,,,"j;t
+j"
+"; σ 2
+e N μ",,,ð1Þ,
+"Log Y j;t
+j;t
+j",,,,
+,,,,Process model:
+Process model:,,,,
+,,,,"μ
+¼ ρ
+þ ρ
+þ ρ
+⋅knp
+⋅knp"
+,,,,
+"μ
+¼ θj;t⋅X t þ φ",,,ð2Þ,"j;t
+1;t
+2;t
+s;j;t;1
+s;j;t;2
+s;j;t;3"
+"j;t
+j;t",,,,
+,,,,"þ ρ
+⋅knp"
+,,,,ð13Þ
+,,,,"3;t
+s;j;t;4"
+X,,,,
+"þ
+β",,,,
+"M l
+θj;t ¼ β",⋅kp,,ð3Þ,
+"j;t;l
+j;t;1",l−1;θ;t,,,
+¼2,,,,
+,,,,Parameter model
+X,,,,
+,,,,"(cid:4)
+(cid:5)"
+φ,,,ð4Þ,
+"N r
+¼ αj;t;1 þ",αj;t;r⋅kp,,,
+"j;t
+¼2",r−1;φ;t,,,"ρ
+ð14Þ"
+,,,,"ρ
+s;j;t;l e N μρ; σ 2"
+Parameter model:,,,,
+"(cid:1)
+(cid:3)",,,,"ð
+Þ"
+,,,,"ð15Þ
+τ≡1=σ 2
+j e Gamma a; b"
+;,,,,
+"α
+αj;t;r eN μα; σ 2",r ¼ 1; …:; N,,ð5Þ,
+"(cid:4)
+(cid:5)",,,,
+,,,,"where Yj,t refers to the data from surveillance system j"
+";
+β",,,,
+j;t;l e N μβ; σ 2,l ¼ 1; …:; M,,ð6Þ,
+β,,,,"at
+time t;
+s refers to either flu season or non-flu season;"
+,,,,"follows a
+and np denotes non-pandemic period. Log(Yj,t)"
+"ð
+Þ",,,,
+"τ≡1=σ 2
+j e Gamma a; b",,,ð7Þ,
+,,,,"normal distribution with mean μj,t and constant variant"
+,,,,σ 2
+,,,,". knp
+(i = 1,2,3) are the three information environment"

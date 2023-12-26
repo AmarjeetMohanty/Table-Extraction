@@ -1,0 +1,43 @@
+0,1,2,3,4,5
+,,Table 1. Fluorescent protein fusions to structural proteins in HSV-1 and PRV.,,,
+,,,,,References
+Gene/Protein Name,Description/Function,Structural Role,Fusion Location,,
+,,,,HSV-1,PRV
+,,Capsid Proteins,,,
+UL17,capsid vertex speciﬁc component,capsid,C-terminal,[42],
+UL25,capsid vertex speciﬁc component,capsid,internal,[43],[44]
+,,,N-terminal,"[41,45]",[46]
+UL35 VP26,small capsid protein,capsid,,,
+,,,C-terminal,,[47]
+,,Tegument Proteins,,,
+,,,N-terminal,,[48]
+UL13,protein kinase,tegument,,,
+,,,C-terminal,,[48]
+UL16,interacts with UL21,tegument,C-terminal,[49],[50]
+,,,N-terminal,[51],
+UL21,interacts with UL16,,,,
+,,,C-terminal,[52]b,
+UL31,nuclear egress,tegument a,N-terminal,"[53,54]",[55]
+,,,N-terminal,,[56]
+UL36 VP1/2,large tegument protein,tegument,,,
+,,,C-terminal,[57],[44]
+,,,N-terminal,[57],
+UL37,interacts with UL36,tegument,,,
+,,,C-terminal,[58],[56]
+UL41 VHS,RNAase,tegument,N-terminal,[59],
+,,,N-terminal,[57],
+UL46 VP11/12,most abundant tegument protein,tegument,,,
+,,,C-terminal,[60],[50]
+UL47 VP13/14,,tegument,N-terminal,[61],[56]
+,,,N-terminal,[62],
+UL48 VP16,transactivation of viral gene expression,tegument,,,
+,,,C-terminal,"[57,62]",[56]
+,,,N-terminal,"[57,63]","[56,64]"
+UL49 VP22,secondary envelopment,tegument,,,
+,,,C-terminal,"[40,63]",[64]
+US1 ICP22,regulation of viral gene expression,tegument,C-terminal,[65],
+,,,N-terminal,[66],
+US3,protein kinase,tegument,,,
+,,,C-terminal,[67]b,"[48,68]"
+US10,unknown,tegument,C-terminal,,[69]c
+ICP34.5,,tegument,N-terminal,[70],*

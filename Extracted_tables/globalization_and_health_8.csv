@@ -1,0 +1,33 @@
+0,1,2,3,4,5
+"Table 11: Resistance rates in China, U.S. and Kuwait, hospital surveillance data for 2001",,,,,
+,,"From Tables 1,2,3,8 and 9; Unit: %",,,
+Bacterium(a),Antibiotic(s),Pair,China,U.S.,Kuwait
+SAU,Methicillin,A,37,38,9
+SPN,Erythromycin,B,73,19,23
+,Cefotaxime,C,0,16,4
+Enterococcus spp,Vancomycin,D,4,10,0
+ECO,Ceftazidime,E,9,1*,5
+,Cefotaxime,F,18,1*,1
+,Ceftriaxone,G,21,1*,1
+,Ciprofloxacin/,H,56,3,26
+,Ofloxacin,,,,
+PAE,Ceftazidime,I,17,9,27
+,Ciprofloxacin/,J,27,28,31
+,Ofloxacin,,,,
+KPN,Ceftazidime,K,9,4*,14
+,Cefotaxime,L,17,4*,13
+,Ceftriaxone,M,20,4*,13
+,Ciprofloxacin,N,18,12**[27],18
+Salmonella spp,Amoxicillin-,O,10,4,7
+,clavulanate,,,,
+,Ceftriaxone,P,5,1,0
+,Ciprofloxacin,Q,0,0.4,10
+,TMP/SMX***,R,0,3,0
+,Gentamicin,S,10,2,0
+Shigella spp,Amoxicillin-,T,35,2,20
+,clavulanate,,,,
+,Ceftriaxone,U,6,0,0
+,Ciprofloxacin,V,6,0,0
+,TMP/SMX,W,0,53,0
+,Gentamicin,X,18,0.2,0
+,,Average,17,7,9

@@ -1,0 +1,47 @@
+0,1,2,3,4,5,6
+"siRNAs
+Table 1. Number of",for 42 viruses and targeted genome regions,,,,,
+Virus,Target gene,,No. of,Virus,Target gene,No. of
+,,,siRNAs,,,siRNAs
+BK polyomavirus,T-Ag(2),,2,Inﬂuenza A virus,"M(33), NP(26), PB(19), PA(11), NS(6),",96
+,,,,,C(1),
+Chikungunya virus,"E1(1), NSP3(1)",,2,Inﬂuenza B virus,"PB(33), NP(17), M(11), NS(10), PA(10)",81
+"Dengue virus
+[DENV]",,"E(6), NS5(6), 30-UTR(5), 50-UTR(2), C(1),",22,"Japanese encephalitis virus
+[JE]","NS1(4), E(2)",6
+,"NS3(1), PreM(1)",,,,,
+"Ebolavirus
+[EBOV]","ZNP(2), ZT(2), ZL(1)",,5,"John Cunningham virus
+[JCV]",T-Ag (1),1
+Encephalomyocarditis virus,EMCV-IRES(1),,1,Junı´ n virus,Z(4),4
+"Enterovirus
+[EV]",,,22,La Crosse virus,"M(G2)(7), L(4), S(3)",14
+,"3D Pol(10), VP1(3), 2C(2), 3C pro(2),",,,,,
+,"50NTR(2), 30-UTR(1), MET-2C(1),",,,,,
+,VP2(1),,,,,
+"Epstein–Barr virus
+[EBV]",,"EBNA1(25), LMP1(10), PR(4), BKRF3(2),",43,Lassa virus,"GPC(1), L(1), NP(1), Z(1)",4
+,"LMP2A(1), Zta(1)",,,,,
+Hazara nairovirus,"L(4), M(4), S(4)",,12,Lymphocytic choriomeningitis virus,"L(1), Z(1)",2
+Hendra virus,N(2),,2,Marburg virus,"VP30(2), NP(1)",3
+Henipavirus,"L(4), N(4)",,8,Measles virus,"N(16), L(8)",24
+"Hepatitis A virus
+[HAV]",,,6,Polio virus,"Capsid(1), 5NC(1)",2
+,"2C(2), 3D(2), 3A(1), 3C(1)",,,,,
+"Hepatitis B virus
+[HBV]",,"S(60), X(48), C(25), P/S(24), P(17), C/P(11),",227,Rabies,N(3),3
+,,"ORF-C(3), ORF-S(3), P/X(3), NLS(2),",,,,
+,"PRE(2), preS/P(2), PA(1), PreS1(1),",,,,,
+,HBeAg(7),,,,,
+"Hepatitis C virus
+[HCV]",,,145,Reovirus,"mNS(7), sNS(4), m2(2)",13
+,"50-UTR(38), 30-UTR(26), NS5B(22),",,,,,
+,"Core(19), E(11), NS3(8), E2(7),",IRES,,,,
+,,"(50-UTR)(6), NS5A(3), NS4B(2), NAa(1),",,,,
+,NS4A(1),,,,,
+"Hepatitis delta virus
+[HDV]",Delta Ag(16),,16,Rotavirus,NSP5(2),2
+"Hepatitis E virus
+[HEV]","ORF2(4), RdRp(4), Helicase(2),",,13,SARS coronavirus,"ORF9a, N-protein(31), ORF5,",163
+,"Replicase(2), 3CAE region(1)",,,,"M-protein(23), ORF4, E-protein(22),",
+,,,,,"ORF2, Spike(18), Replicase(16),",

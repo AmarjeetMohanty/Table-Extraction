@@ -1,0 +1,24 @@
+0,1,2
+Table 2. Bacterial strains and plasmids used in this study.,,
+Designation,relevant genotype,"Reference, GenBank ID"
+S. enterica serotype Typhimurium strains,,
+NCTC12023,wild type,lab collection
+P2D6,ssaV::mTn5,[50]
+P3H3,sifA::mTn5,[15]
+HH107,DsseF::aphT,[54]
+HH108,DsseG::aphT,[54]
+Plasmids,,
+pEGFP-C1,,Clontech
+pmCherry-C1,,Clontech
+pFPV25.1,,[51]
+pFPV-mCherry/2,,[10]
+p3589,pETcoco1 const. mCherry,[52]
+p3432,LAMP1-eGFP,[9]
+p3451,LAMP1-mCherry,this study
+pBABEpuro GFP-LC3,GFP-LC3b,"[55], Addgene 22405, U05784"
+pmCherry-ATG5,ATG5,"[33], Addgene 13095, AB048349"
+pmCherry-ATG5-K130R,ATG5-K130R,"[33], Addgene 13096"
+p3942,GFP::sifA in pEGFP,this study
+p2643,PsseA sscB sseF::HA,[36]
+p3349,PsseA sscB sseFD200–205::HA,[36]
+doi:10.1371/journal.ppat.1004374.t002,,

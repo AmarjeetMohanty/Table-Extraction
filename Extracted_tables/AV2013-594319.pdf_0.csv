@@ -1,0 +1,32 @@
+0,1,2,3,4,5,6
+,,Table 2: Cumulative results of CHPV N protein fragments interaction analysis.,,,,
+,,,Y2H assay,,,
+Protein pair used for,Interaction analysis by,,,,,Known from
+,,HIS3 reporter,,MEL1 reporter,ELISA,
+interaction analysis,ZDOCK and RDOCK,,,,,the Literature
+,,(nutritional,,(𝛼-galactosidase,,
+,,selection),,assay),,
+,√,√,,√,√,√ [12]
+N1-N,,,,,,
+,√,√,,√,√,√ [13]
+N1-P,,,,,,
+,√,√,,√,√,
+N1-M,,,,,,—
+,,√,,√,√,
+N1-G,X,,,,,—
+,√,√,,√,√,√ [12]
+N2-N,,,,,,
+,√,,,,,
+N2-P,,X,,X,X,
+N2-M,X,X,,X,X,—
+,√,√,,√,√,
+N2-G,,,,,,—
+,√,√,,√,√,√ [12]
+N3-N,,,,,,
+,√,√,,√,√,√ [13]
+N3-P,,,,,,
+,√,√,,√,√,
+N3-M,,,,,,—
+,√,,,,,
+N3-G,,X,,X,X,—
+√ represents positive interaction.,,,,,,

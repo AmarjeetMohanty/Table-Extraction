@@ -1,0 +1,19 @@
+0,1,2,3,4,5,6
+,,,,"Rhinitis, Asthma and Infections in Relation to Home Environment",,
+,Table 7. Associations between respiratory infections (by ordinal,,,"regression models), antibiotic medication for",,respiratory
+,"infections (by logistic regression models), building characteristics and indoor environment",,,,factors.,
+,,,All subjects,All subjects,#65 years old,.65 years old
+,,,n = 5775,"n = 5775, mutual","n = 3637h, mutual","n = 2089h, mutual"
+Symptoms,Factors,Subcategory,OR(95% CI)d,adj. OR(95% CI)e,adj. OR(95% CI)f,adj. OR(95% CI)g
+Respiratory,Construction year,-1960,1.00,1.00,1.00,1.00
+infections in,,,,,,
+the last 3,,,,,,
+months,,,,,,
+,,1961–1975,"1.06(0.89,1.26)","1.07(0.90,1.28)","1.07(0.87,1.31)","1.11(0.79,1.56)"
+,,1976–1985,"1.41(1.17,1.71)***","1.46(1.21,1.78)***","1.33(1.06,1.68)*","1.87(1.30,2.69)**"
+,,1986–1995,"1.07(0.88,1.30)","1.08(0.88,1.31)","1.03(0.81,1.31)","1.25(0.86,1.80)"
+,,1996–2005,"1.09(0.91,1.31)","1.12(0.93,1.35)","0.97(0.78,1.21)","1.56(1.09,2.22)*"
+,Population densitya,,"1.57(1.19,2.09)**","1.72(1.30,2.29)***","1.68(1.20,2.34)**","2.21(1.27,3.87)**"
+,Rented apartments,,"1.11(1.00,1.23)","1.13(1.01,1.26)*","1.13(0.99,1.29)","1.14(0.94,1.37)"
+Antibiotic,Population densitya,,"1.67(1.08,2.58)*","1.63(0.94,2.85)","1.96(0.99,3.90)","1.53(0.58,4.09)"
+medication for,,,,,,

@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6
+,,,,,,A New Species of Mesonivirus from Australia
+,Table 3. The evolutionary distances separating the mesoniviruses.,,,,,
+,HanaV,Nse´ V,Me´ noV,CavV,CASV,DKNV
+NDiV,0.166,0.335,0.420,0.031,0.147,0.144
+HanaV,,0.376,0.497,0.164,0.224,0.223
+Nse´ V,,,0.439,0.336,0.330,0.396
+Me´ noV,,,,0.420,0.427,0.492
+CavV,,,,,0.151,0.153
+CASV,,,,,,0.231
+doi:10.1371/journal.pone.0091103.t003,,,,,,

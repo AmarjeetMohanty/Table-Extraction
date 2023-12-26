@@ -1,0 +1,19 @@
+0,1,2,3,4,5,6,7,8,9
+,"Table 3. Eigenvalues, Periods, Damping Ratios, and Three",,,,,,,,
+,Highest Eigenvector Magnitudes of AC.,,,,,,,,
+Mode,"l
+, d21","P
+, d","f
+, -",EV #1,EV #2,EV #3,,,
+1,–0.84,–,–,IL10,IL6,IL8,,,
+2,–1.46 j0.75,3.93,0.89,IL6,TNF,IL10,,,
+3,–1.88,–,–,IL8,TNF,IL1,,,
+4,–2.276 j0.61,2.66,0.97,IL1,IL8,IFN,,,
+5,–3.286 j0.60,1.89,0.98,IL1,IL10,IFN/IL4,,,
+6,–3.226 j0.98,1.86,0.96,IL1,IL4,TNF,,,
+7,–3.75,–,–,IL10,IL12,TNF,,,
+8,–4.026 j0.20,1.56,0.99,IL4,IL12,IL2,,,
+9,–4.416 j0.71,1.40,0.99,IL4,IL12,IFN/IL8,,,
+10,–5.296 j0.82,1.17,0.99,IL8,IFN,IL12,,,
+11,–5.82,–,–,IL8,IFN,IL12,Figure 7. Shapes of,the first,three cytokine principal compo-
+,,,,,,,,"nents, y1(tk), y2(tk), and y3(tk).",

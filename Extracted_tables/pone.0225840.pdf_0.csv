@@ -1,0 +1,51 @@
+0,1,2,3
+Characteristic,"No. (%) positive for dengue,","No. (%) negative for dengue,",P value
+,n = 74,"n = 3,616",
+Sex,,,
+Male,44 (59.5),"1,798 (49.7)",0.10
+Female,30 (40.5),"1,818 (50.3)",
+Laboratory result by NS1 and PCR,,,
+"NS1 positive, PCR positive�",38 (51.4),-,
+"NS1 positive, PCR negative",5 (6.8),-,
+"NS1 negative, PCR positive�",23 (31.1),-,
+"NS1 negative, PCR negative",8 (10.8),,
+Laboratory result by ELISA,,,
+ELISA confirmed recent infection,18 (24.3),,
+"Age, years",,,
+0–19,5 (6.8),632 (17.5),0.03
+20–39,44 (59.5),"2,108 (58.3)",
+40–59,18 (24.3),702 (19.4),
+�60,7 (9.5),174 (4.8),
+Purpose of travel,,,
+Group travel,2 (2.7),"1,444 (39.9)",<0.01
+Independent travel,11 (14.9),530 (14.7),
+Visiting friends or relatives,21 (28.4),531 (14.7),
+Business,12 (16.2),284 (7.8),
+Other†,28 (37.8),827 (22.9),
+Departure country,,,
+Thailand,10 (13.5),907 (25.1),0.10
+Indonesia,14 (18.9),685 (18.9),
+Philippines,16 (21.6),515 (14.2),
+Vietnam,6 (8.1),416 (11.5),
+Malaysia,8 (10.8),382 (10.6),
+Other,20 (27.0),711 (19.7),
+"Stay in dengue-endemic countries,",,,
+days,,,
+�7,7 (9.5),"1,905 (52.7)",<0.01
+8–14,10 (13.5),248 (6.9),
+15–21,5 (6.8),101 (2.8),
+22–28,8 (10.8),59 (1.6),
+�29,43 (58.1),"1,061 (29.3)",
+Fever/chills,,,
+Yes,35 (47.3),"1,026 (28.4)",<0.01
+Headache,,,
+Yes,10 (13.5),348 (9.6),0.26
+Myalgia/bone pain,,,
+Yes,7 (9.5),202 (5.6),0.15
+Fatigue,,,
+Yes,3 (4.1),51 (1.4),0.06
+Skin rashes,,,
+Yes,5 (6.8),15 (0.4),<0.01
+Upper respiratory symptoms,,,
+Yes,5 (6.8),622 (17.2),0.02
+,,,(Continued )

@@ -1,0 +1,33 @@
+0,1,2,3,4,5
+,Table 4. Effect of selection bias on estimates of relative CFR on the risk ratio (RR) and odds ratio (OR) scale.,,,,
+"Joint
+frequencies of hospitalization and death in the whole",,,,,
+population among those alive at day 8 of symptoms,,,,,
+,Not hospitalized on day 8,Hospitalized on day 8 of,Total,,
+,of symptoms,symptoms,,,
+Survive,200,400,600,RRP,0.75
+,,,,=,
+Die,800,600,"1,400",ORP,0.375
+,,,,=,
+Total,"1,000","1,000","2,000",RDP,-0.20
+,,,,=,
+Assumed probability of being in the database sample given,,,,,
+hospitalization and death,,,,,
+,Not hospitalized on day 8,Hospitalized on day 8 of,Average,,
+,of symptoms,symptoms,,,
+Survive,20%,40%,33%,ORS,0.88
+,,,,=,
+Die,40%,70%,53%,,
+Average,36%,58%,47%,,
+Frequencies of persons in the database,,,,,
+,Not hospitalized on day 8,Hospitalized on day 8 of,Total,,
+,of symptoms,symptoms,,,
+Survive,40,160,200,RRD,0.81
+,,,,=,
+Die,320,420,740,ORD,0.33
+,,,,=,
+Total,360,580,940,RDD,-0.16
+,,,,=,
+,"In this example, selection bias spuriously enhances the negative association between hospitalization on day 8 and death on the RR and RD scales and",,,,
+reduces it (biases toward a null association) on the OR scale.,,,,,
+doi:10.1371/journal.pntd.0003846.t004,,,,,

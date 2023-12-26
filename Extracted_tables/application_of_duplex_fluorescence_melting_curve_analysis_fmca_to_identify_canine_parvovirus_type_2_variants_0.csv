@@ -1,0 +1,9 @@
+0,1,2,3,4
+Genotype,No. of times tested,,P1 (HEX channel),P2 (FAM channel)
+,,"cTm, ◦C (Mean ± SD)","a(cid:49)Tm, ◦C (Mean ± SD)","dTm, ◦C (Mean ± SD)"
+Original CPV-2,10,55.10 ± 0.04a,0.03 ± 0.03,58.42 ± 0.07a
+CPV-2a,186,50.01 ± 0.26b,5.35 ± 0.18,58.37 ± 0.30a
+CPV-2b,72,49.91 ± 0.29b,5.45 ± 0.20,51.87 ± 0.31b
+CPV-2c,24,49.82 ± 0.19b,5.53 ± 0.10,48.85 ± 0.36c
+CPVpf,6,55.17 ± 0.25a,0.36 ± 0.12,52.47 ± 0.33d
+CPVint,6,50.55 ± 0.22c,4.80 ± 0.07,58.26 ± 0.22a

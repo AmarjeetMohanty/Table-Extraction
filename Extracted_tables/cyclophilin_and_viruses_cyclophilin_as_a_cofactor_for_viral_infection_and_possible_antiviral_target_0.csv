@@ -1,0 +1,18 @@
+0,1,2,3
+Watashi and Shimotohno,,,
+Table 1. Human cyclophilin subtypes.,,,
+Protein name,length,GenBank accession no.,Reference
+CyPA,165 aa,NM_021130,Liu et al. 1990
+CyPB,216 aa,NM_000942,Price et al. 1991
+CyPC,212 aa,NM_000943,Friedman et al. 1991
+CyP40,370 aa,NM_005038,Kieffer et al. 1992
+"CyPE, CyP33",301 aa,NM_006112,Mi et al. 1996
+"CyPD, CyPF, CyP3",207 aa,NM_005729,Bergsma et al. 1991
+"CyPG, CARS-CyP,SRcyp",754 aa,NM_004792,Nestel et al. 1996
+"CyPH, USA-CyP, SnuCyP-20",177 aa,NM_006347,Horowitz et al. 1997
+PPI-L1,166 aa,NM_016059,Ozaki et al. 1996
+"PPI-L2, CyP60",520 aa,NM_014337,Wang et al. 1996
+PPI- L3,165 aa,NM_032472,Zhou et al. 2001
+PPI-L4,492 aa,NM_139126,Zeng et al. 2001
+"PPI-L5, LRR-1",414 aa,NM_152329,Jang et al. 2001
+RanBP2,3224 aa,NM_006267,Yokoyama et al. 1995

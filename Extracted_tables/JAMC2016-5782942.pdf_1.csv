@@ -1,0 +1,39 @@
+0,1,2
+,,240
+Chiralpak IC column with different flow rate (column temperature:,,
+∘,,
+,,220
+"C, concentration of ACN: 15%, and back pressure: 100 bar).
+35",,
+,,200
+Retention time (min),,180
+"Flow rate (mL/min)
+Resolution",,
+,,160
+"S-goitrin
+R-goitrin",,
+,(mAU),140
+"2.0
+4.81
+5.42
+2.68",,
+,,120
+"2.5
+3.95
+4.62
+3.36",,100
+"3.0
+3.27
+3.77
+3.53",,80
+"3.5
+3.02
+3.55
+3.70",,60
+,,40
+"4.0
+2.67
+3.14
+3.53",,
+,,20
+,,0

@@ -1,0 +1,42 @@
+0,1,2,3,4,5,6,7,8,9
+Engwegen et al,,,,,,,,,
+,Table 3. Tumour characteristics of evaluable CRC patients.,,,,,,,,
+Patient ID no,pT,pN,pM,Tumour location,Patient ID no,pT,pN,pM,Tumour location
+050705351,1,0,0,Sigmoid,06070187,3,0,0,Sigmoid
+050704782,0,X,,,070200871,2,1,X,Colon ascendens
+051001371,2,0,0,Sigmoid,06050316,3,1,X,Rectum
+06030371,X,X,1,Rectum,06110117,3,1,0,Colon ascendens
+060304181,2,0,0,Rectum,061101511,2,2,X,Rectum
+06050222,3,0,0,Rectum,07010024,3,1,X,Rectum
+060800161,4,2,1,Sigmoid,070201191,2,0,X,Rectosigmoid
+060900951,2,0,X,Sigmoid,06020194,3,1,1,Coecum/colon
+,,,,,,,,,ascendens
+060903012,0,X,X,Rectum,060402071,3,1,X,Coecum
+06110347,2,0,X,Rectum,06050009,3,0,X,Colon
+06120034,.,.,.,Rectum,060501781,3,1,X,Sigmoid
+051002382,0,X,X,Sigmoid,06070077,X,X,1,Rectum
+060203282,0,X,X,Sigmoid,06070325,3,0,0,Rectum
+060301531,3,0,0,Colon transversum,06120047,4,1,X,Coecum/colon
+,,,,,,,,,ascendens
+06030315,2,1,X,Rectum,07030059,.,.,.,Rectum
+06050013,3,0,0,Coecum,070301372,0,X,X,Rectum
+060700091,3,0,X,Colon ascendens,07030258,3,0,X,Colon ascendens
+06070335,3,1,X,Flexura hepatica,07060033,3,0,X,Colon transversum
+06070336,3,0,X,Rectum,07060197,2,1,X,Sigmoid
+06090220,3,1,0,Flexura hepatica,051001381,3,0,0,Rectosigmoid
+06120213,3,1,X,Sigmoid,06070178,X,X,1,Rectum
+07010234,X,X,1,Sigmoid,06100105,2,1,X,Rectum
+07010316,3,1,X,Sigmoid,061001151,3,0,1,Rectum
+"051203131,2",1,0,X,Rectum,07040138,2,0,X,Rectum
+050800961,3,0,0,Colon transversum,070501731,3,0,X,Sigmoid
+060201622,1,X,X,Sigmoid,07060014,3,0,X,Colon
+060303552,1,X,X,Sigmoid,07060037,3,.,.,Rectum
+06060392,3,1,X,Sigmoïd,07060149,2,X,X,Sigmoid
+060700731,3,0,X,Coecum,07060162,2,0,0,Rectum
+070103971,3,2,X,Rectum,060601021,3,0,X,Sigmoid
+050902761,X,0,X,Rectum,06080189,4,1,1,Appendix
+060102682,0,X,X,Sigmoid,07060161,3,0,X,Rectum
+060201951,3,0,0,Coecum,07070078,3,1,X,Rectum
+060203392,0,X,X,Rectum,07070079,2,.,X,Rectum
+060401661,3,0,0,Colon ascendens,061100382,0,X,X,Rectosigmoid
+060402131,4,0,0,Sigmoid,070201942,0,X,X,

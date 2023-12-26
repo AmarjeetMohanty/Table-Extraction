@@ -1,0 +1,41 @@
+0,1,2,3,4,5,6
+,,,,,Mol and Phy Analysis of 2013 Jiangxi PEDVs,
+,Table 3. Comparison of amino acid substitutions in S protein of the PEDV strains in phylogenetic group 1 and group 2.,,,,,
+Position in S protein,,AA in group 1,,,AA in group 2,
+,aa,charge,polarity,aa,charge,polarity
+55,N,M,−,I,M,−
+65,M,M,−,G,M,+
+57,N,M,−,E,N,+
+58,S,M,+,N,M,−
+59,S,M,+,Q,M,+
+60,S,M,+,G,M,−
+72,E,N,+,P,M,−
+84,D,N,+,R,P,+
+86,K,P,+,S,M,+
+87,R,N,+,G,M,−
+89,Q,M,+,Ha,P,+
+120,I,M,−,T,M,+
+164,I,M,−,S,M,+
+188,H,P,+,Y,M,−
+201,K,P,+,S,M,+
+202,R,P,+,G,M,−
+203,S,M,+,G,M,−
+228,Y,M,−,S,M,+
+248,S,M,+,Pb,M,−
+554,T,M,+,S,M,+
+599,G,M,−,S,M,+
+964,A,M,−,V,M,−
+1049c,S,M,+,A,M,−
+1178,G,M,−,Dd,N,+
+1237,S,M,+,R,P,+
+a Strain CH/ZMDZY/11 is R at residue 89,,,,,,
+b Isolate CH/S is R at residue 248,,,,,,
+,"c Isolate CH/S is A at residue 1049, Strain CH/FJND-3/2011 is S at residue 1049",,,,,
+d Strain CH/FJND-3/2011 is G at residue 1178.,,,,,,
+“P” indicates positive charge,,,,,,
+“N” indicates negative charge,,,,,,
+“M” indicates neutral charge,,,,,,
+“” indicates hydrophobic polarity,,,,,,
+“+” indicates hydrophilic polarity,,,,,,
+,“ND” indicates the aa polarity is not determined yet.,,,,,
+doi:10.1371/journal.pone.0120310.t003,,,,,,

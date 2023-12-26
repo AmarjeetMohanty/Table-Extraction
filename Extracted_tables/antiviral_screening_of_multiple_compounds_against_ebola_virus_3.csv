@@ -1,0 +1,29 @@
+0,1,2
+Table 3. Changes in EBOV RNA levels in MRC-5 cells treated with compounds at three dilutions,,
+,determined not to cause cytotoxicity in non-infected treated cells.,
+Name,Concentration,Ct Difference 1
+,20 nM,0.06 ± 0.10
+Ouabain,6.7 nM,0.09 ± 0.23
+,2.2 nM,0.33 ± 0.35
+,63.3 nM,0.30 ± 0.20
+17-DMAG,21.1 nM,0.26 ± 0.57
+,7.0 nM,0.44 ± 0.06
+,1 µM,0.90 ± 0.15
+BGB324,0.3 µM,0.67 ± 0.09
+,0.1 µM,0.34 ± 0.05
+,100 µM,0.70 ± 0.10
+Omeprazole,33.3 µM,0.77 ± 0.31
+,11.1 µM,0.86 ± 0.22
+,25 µM,0.78 ± 0.25
+Esomeprazole,8.3 µM,0.50 ± 1.06
+,0.93 µM,0.17 ± 0.16
+,6.7 µM,1.55 ± 0.20
+Gleevec,2.2 µM,1.03 ± 0.42
+,0.74 µM,0.64 ± 0.03
+,150 µg/mL,1.54 ± 0.44
+NCK-8,50 µg/mL,1.33 ± 0.09
+,16.7 µg/mL,1.09 ± 0.17
+,60 µg/mL,0.96 ± 0.19
+D-LANA-14,20 µg/mL,0.37 ± 0.11
+,6.7 µg/mL,0.40 ± 0.32
+,1 Difference between the mean value of untreated cells (n = 3) versus treated cells (n = 3). A positive value,

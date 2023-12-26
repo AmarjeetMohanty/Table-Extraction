@@ -1,0 +1,32 @@
+0,1,2,3,4,5,6
+Journal of Pathogens,,,,,,11
+,,Table 4: Some of the coronavirus proteins analyzed in this study.,,,,
+,,,UniProt ID,UniProt ID,,
+Disorder group,Coronavirus,"PID (M)
+PID (N)",,,PDB ID (M),PDB ID (N)
+,,,(M),(N),,
+,"IBV(Avian)
+9.8",56,P11222,P32923,,
+A,,,,,,"2ge8, 2gec"
+,"HCOV-229E
+23",56,P15422,P15130,,
+,"8 8
+SARS-CoV",50,P59596,P59595,,
+,PEDV,51,P59771,Q07499,,
+,"Bovine
+7.4",53,P69704,Q8V432,,
+B,"Canine (Resp)
+6.5",51,A3E2F6,A3E2F7,3i6g,"1ssk, 2jw8"
+,"Bat
+11.5",47,A3EXD6,Q3LZX4,,
+,"7 1
+OC43",51,Q4VID2,P33469,,
+,"NL63
+1",49,Q6Q1R9,Q6Q1R8,,
+,"TGEV
+14",43,P09175,P04134,,
+,MHV,47,Q9JEB4,P03416,,
+C,,,,,,3hd4
+,"8 8 4
+Canine (Ent.)",40,B8RIR2,Q04700,,
+,HKU1,37,Q14EA7,Q0ZME3,,

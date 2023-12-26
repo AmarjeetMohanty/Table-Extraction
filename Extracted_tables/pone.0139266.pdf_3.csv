@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6,7
+,,,,,,PEDV Minimum Infectious Doses in Pigs at Different Ages,
+"Table 4. Mean villus height (μm), crypt depth (μm), villus/crypt ratio, and IHC scores in sections of ileum from neonatal piglets.",,,,,,,
+,Group,Dilution,Pigs,Villous Height,Crypt Depth,Villus/Crypt ratio,IHC Score
+,,,,Mean ± SEM,Mean ± SEM,Mean ± SEM,Mean ± SEM
+Necropsy at 4 DPI,1,10−3,N = 4,218.13 ± 16.33,161.64 ± 6.81,1.35 ± 0.10,2.94 ± 0.68
+,2,10−4,N = 4,208.56 ± 39.94,171.22 ± 6.59,1.21 ± 0.21,3.81 ± 0.19
+,3,10−5,N = 4,272.19 ± 22.03,162.21 ± 9.71,1.67 ± 0.04,3.88 ± 0.13
+,4,10−6,N = 4,230.85 ± 19.33,152.46 ± 4.52,1.51 ± 0.12,3.63 ± 0.24
+,5,10−7,N = 4,228.18 ± 33.57,158.24 ± 10.89,1.45 ± 0.21,3.94 ± 0.06
+,6*,10−8,N = 1,222.49,143.12,1.55,4.00
+Necropsy at 7 DPI,6,10−8,N = 3,423.17 ± 51.35,118.60 ± 16.81,3.81 ± 0.87,0.00 ± .000
+,7,Neg Ctl,N = 4,450.76 ± 20.05,108.40 ± 12.61,4.31 ± 0.46,0.00 ± 0.00

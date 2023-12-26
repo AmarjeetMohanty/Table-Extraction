@@ -1,0 +1,28 @@
+0,1,2,3,4,5,6,7
+TABLE 4 | Viral species identiﬁed at middle and inferior meatuses.,,,,,,,
+Patient,Diagnosis,Site of sampling,Viruses identiﬁed,Patient,Diagnosis,Site of sampling,Viruses identiﬁed
+number,,,,number,,,
+1,Control,MM,None,13,Control,MM,"EBV, HHV6"
+,,IM,None,,,IM,EBV
+2,CRSwNP,MM,None,14,CRSsNP,MM,None
+,,IM,None,,,IM,"Inﬂuenza A, HHV6"
+3,CRSsNP,MM,None,15,CRSsNP,MM,None
+,,IM,None,,,IM,EBV
+4,Control,MM,None,16,CRSwNP,MM,EBV
+,,IM,None,,,IM,None
+5,CRSwNP,MM,None,17,CRSsNP,MM,HHV6
+,,IM,None,,,IM,None
+6,Control,MM,None,18,Control,MM,HHV6
+,,IM,None,,,IM,None
+7,CRSwNP,MM,"Inﬂuenza A, HHV6",19,CRSwNP,MM,None
+,,IM,"Inﬂuenza A, HHV6",,,IM,EBV
+8,Control,MM,HHV6,20,CRSwNP,MM,"EBV, HHV6"
+,,IM,HHV6,,,IM,None
+9,Control,MM,"EBV, HHV6",21,CRSsNP,MM,HHV6
+,,IM,"EBV, HHV6",,,IM,None
+10,CRSsNP,MM,HHV6,22,CRSwNP,MM,"EBV, HHV6"
+,,IM,EBV,,,IM,None
+11,CRSsNP,MM,Inﬂuenza A,23,CRSwNP,MM,PIV2
+,,IM,"Inﬂuenza A, EBV",,,IM,None
+12,Control,MM,HHV6,24,Control,MM,None
+,,IM,EBV,,,IM,EBV

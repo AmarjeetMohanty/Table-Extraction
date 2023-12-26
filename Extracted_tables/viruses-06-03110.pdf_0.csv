@@ -1,0 +1,23 @@
+0,1,2,3,4,5
+provide a short overview.,,,,,
+,,Table 1. Viruses of European Bats.,,,
+Virus Family,Genus,Bat Species,Origin,Detection,Refs.
+,,Pipistrellus nathusii,,Isolation,
+,,,Germany,,"[13,14]"
+,,Pipistrellus pipistrellus,,PCR,
+Adenoviridae,Mastadenovirus,Nyctalus noctula,,,
+,,,Hungary,PCR,[15]
+,,Rhinolophus ferrumequinum,,,
+,,Myotis myotis,Germany,PCR,[16]
+,Mamastrovirus,Myotis myotis,Germany,PCR,[16]
+,,Myotis daubentonii,,,
+Astroviridae,,,,,
+,Mamastrovirus,Myotis bechsteinii,Hungary,PCR,[17]
+,,Plecotus auritus,,,
+,,Myotis nattereri,,,
+Borna-viridae,unclassified,,France,Metagenomics,[18]
+,,Pipistrellus pipistrellus,,,
+,Phlebovirus,,,,
+,,Pipistrellus kuhlii,Italy,Isolation,[19]
+Bunyaviridae,Toscana virus,,,,
+,Nairovirus,Myotis mystacinus,France,Metagenomics,[18]

@@ -1,0 +1,10 @@
+0,1,2,3
+,Adapted from Corrêa et al.(5) CHF: congestive heart failure; and SBP: systolic blood pressure.,,
+Chart 2. Risk stratification by the Pneumonia Severity Index.,,,
+Class,Points,"Mortality, %",Suggested site of care
+I,-,0.1,Outpatient
+II,≤ 70,0.6,Outpatient
+III,71-90,2.8,Outpatient or brief inpatient
+IV,91-130,8.2,Inpatient
+V,> 130,29.2,Inpatient
+Adapted from Corrêa et al.(5),,,

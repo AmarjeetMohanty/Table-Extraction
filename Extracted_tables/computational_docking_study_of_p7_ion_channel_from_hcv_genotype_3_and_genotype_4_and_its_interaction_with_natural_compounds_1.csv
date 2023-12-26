@@ -1,0 +1,24 @@
+0,1,2,3,4,5,6,7,8
+,mation with modeled p7 ion channel from both genotypes as obtained from molecular docking using,,,,,,,
+CLC drug discovery analysis.,,,,,,,,
+FlavonoidCompounds,,,HCV p7 GT 3,,,,HCV p7 GT4,
+,Docking,,No of,Interacting,Docking,,No of,Interacting
+,Score,H b,,proteins,Score,,,proteins
+,(kcal/mol),,onds,,(kcal/mol),H b,onds,
+Apigenin,-48.23,3,,"Ala10, Gly18,",-58.35,1,,Trp30
+,,,,Trp30,,,,
+EGCG,-25.36,8,,"Ser44(2),",-49.36,2,,"His31,Trp30"
+,,,,"Leu45(2),",,,,
+,,,,"Gly46, Val32,",,,,
+,,,,Lys33(2),,,,
+Ladanein,-60.25,1,,Thr27,-70.82,1,,Trp30
+Luteolin,-35.26,4,,"Ala10, Gly18,",-37.36,2,,"Trp30,His31"
+,,,,Trp(30),,,,
+Naringenin,-58.62,2,,"Leu28, Thr27",-52.41,1,,Trp30
+Quercetin,-35.56,5,,"Trp21, Val32,",-45.81,3,,"Trp30,His31,"
+,,,,"Leu45(2),",,,,Gly34
+,,,,Ser44,,,,
+Silymarin,-38.26,4,,"Thr27(2),",-50.04,1,,Thr2
+,,,,"Val32, Leu45",,,,
+,,,,(2),,,,
+doi:10.1371/journal.pone.0126510.t008,,,,,,,,

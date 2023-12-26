@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6
+,their expression stability by the NormFinder applet.,,,,,
+Control sheep,,,Disease-stressed sheep,,,Combined groups
+(n = 18),,,(n = 10),,,(n = 10 + 10)
+,Stability value,,,Stability value,,Stability value
+Gene symbol,,Gene symbol,,,Gene symbol,
+,(ρ),,,(ρ),,(ρ)
+SDHA,0.068,YWHAZ,,0.046,SDHA,0.093
+YWHAZ,0.125,GAPDH,,0.064,YWHAZ,0.096
+HPRT,0.132,SDHA,,0.188,ACTB,0.099
+B2M,0.146,ACTB,,0.220,GAPDH,0.167
+RPL19,0.155,B2M,,0.229,RPL19,0.175
+ACTB,0.174,G6PD,,0.248,G6PD,0.184
+GYPC,0.201,GYPC,,0.397,HPRT,0.188
+TFRC,0.245,RPL19,,0.540,GYPC,0.190
+G6PD,0.271,HPRT,,0.702,B2M,0.212
+PGK1,0.282,PGK1,,0.915,TFRC,0.274
+GAPDH,0.354,TFRC,,0.941,PGK1,0.280

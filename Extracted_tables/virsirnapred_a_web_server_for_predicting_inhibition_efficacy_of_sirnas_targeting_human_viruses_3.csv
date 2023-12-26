@@ -1,0 +1,17 @@
+0,1,2,3,4
+Table 5 Performance of the SVM models using leave one out cross validation (LOOCV) method,,,,
+Predictive model no.,siRNA features,No. of siRNA features,,Pearson correlation coefficient*
+,,,Training (T1380),Validation (V345)
+1,Mononucleotide frequency,4,0.32,0.29
+2,Dinucleotide frequency,16,0.36,0.32
+3,Trinucleotide frequency,64,0.45,0.41
+4,Tetranucleotide frequency,256,0.48,0.44
+5,Pentanucleotide frequency,1024,0.52,0.48
+6,Binary,76,0.26,0.14
+7,Thermodynamic features,21,0.29,0.24
+8,Secondary structure,28,0.10,0.06
+9,1 + 2 + 3 + 4 + 5,1364,0.52,0.49
+10,6 + 9,1440,0.54,0.51
+11,6 + 7 + 9,1461,0.58,0.55
+12,6 + 7 + 8 + 9,1489,0.58,0.54
+*Pearson Correlation Coefficient (PCC),,is the correlation between experimental and predicted viral siRNA efficacy.,,

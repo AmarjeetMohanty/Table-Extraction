@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12
+1142,,,,,,,S. CHOI ET AL.,,,,,
+Table 1.,,Nucleotide sequence similarities among the partial ORF2 gene sequences derived from different astrovirus strains,,,,,,,,,,
+Species,,,,Dog,,,Mink,Pig,Rabbit,Mouse,Duck,Human
+,,,,,,,,Tokushima,TN rabbit,,,ITA/2002/
+,Strain,1068,CAstV-K47,,GI.E,4255-280,Astrovirus,,,STL 1,C-NGB,
+,,,,,,,,83-74,10-2208,,,PA65R/type2c
+,1068,-,76.0,,73.5,79.1,57.7,60.2,63.3,50.0,48.5,48.5
+,CAstV-K47,76.0,-,,75.0,78.1,60.2,63.3,61.7,51.0,47.4,50.0
+Dog,,,,,,,,,,,,
+,GI.E,73.5,75.0,,-,77.0,58.7,60.7,60.2,53.6,48.9,48.9
+,4255-280,79.1,78.1,,77.0,-,61.7,62.8,58.7,56.1,45.9,46.4
+,"Dog:  1068  (KC470088),  CAstK-47  (HQ672100),  GI.E  (JN193534),  and  4255-280  (JN985806);  Mink:  astrovirus  (NC004579);  Pig:  Tokushi-",,,,,,,,,,,

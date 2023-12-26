@@ -1,0 +1,39 @@
+0,1,2,3,4,5
+Table 2: Genotype of SARS-CoV culture isolates from 30 patients determined by Taqman Allelic Discrimination assays,,,,,
+Case number,,,Nucleotide positions,,
+,"17,564","21,721","22,222","23,823","27,827"
+TC01,T,G,T,T,T
+TC02,T,G,T,T,T
+TC07,T,G,T,T,T
+TC10,T,G,T,T,T
+TC11,T,G,T,T,T
+TC14,T,G,T,T,T
+TC19,T,G,T,T,T
+TC20,T,G,T,T,T
+TC22,T,G,T,T,T
+TC26,T,G,T,T,T
+TC27,T,G,T,T,T
+TC28,T,G,T,T,T
+TC29,T,G,T,T,ND
+TC30,T,G,T,T,T
+TC32,T,G,T,T,ND
+TC34,T,G,T,T,T
+TC37,T,G,T,T,T
+TC38,T,G,T,T,T
+TC39,T,G,T,T,T
+TC41,T,G,T,T,T
+TC42,T,G,T,T,T
+TC43,T,G,T,T,T
+TC44,T,G,T,T,T
+TC45,T,G,T,T,ND
+TC46,T,G,T,T,ND
+TC48,T,G,T,T,T
+TC51,T,G,T,T,ND
+TC52,T,G,T,T,T
+TC55,T,G,T,T,ND
+TC59,T,G,T,T,ND
+CUHK-W1,G,A,C,T,C
+[AY278554],,,,,
+CUHK-Su10,T,G,T,T,T
+[AY282752],,,,,
+ND: no allelic signal,,,,,

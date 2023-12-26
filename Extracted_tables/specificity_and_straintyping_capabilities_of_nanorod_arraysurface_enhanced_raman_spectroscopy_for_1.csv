@@ -1,0 +1,35 @@
+0,1,2,3,4
+,,"ized. Briefly, homologous recombination within the p1 gene of repetitive element sequences",,
+,,located both in and outside the p1 gene contributes to sequence variation between strain types,,
+Table 3. Cross-validated PLS-DA modeling statistics for the prediction performance for NA-SERS typing of individual type 1 and 2 M. pneumoniae,,,,
+clinical isolates.,,,,
+Isolate,P1 Type,CV Sensitivity,CV Speciﬁcity,CV Class Error
+E16,1,0.943,0.92,0.06
+K20,1,1,0.84,0.08
+G6,1,1,0.92,0.04
+NM2,1,1,0.88,0.06
+OR1,1,0.914,0.92,0.08
+WV9,1,0.914,0.96,0.06
+FL1,1,0.971,0.84,0.09
+SA22,1,0.971,1,0.01
+988,1,0.971,1,0.01
+678,1,1,1,0
+GA1,1,1,1,0
+IL1,1,1,1,0
+IL2,1,0.971,1,0
+E1,2,1,0.971,0.01
+K3,2,1,1,0
+RI1,2,1,1,0
+WV1,2,1,1,0
+SA19,2,1,1,0
+1005,2,1,1,0
+1134,2,1,0.971,0.01
+682,2,1,1,0
+983,2,1,1,0
+386,2,1,1,0
+519,2,1,1,0
+Two categories were used for cross-validation of,,"the model, either type 1 or type 2. Clinical",,isolates were treated as an unknown class and cross-validated
+,"sensitivity, speciﬁcity, and class error were based on their classiﬁcation prediction score with their respective reference strain control class. CV, cross-",,,
+validated.,,,,
+doi:10.1371/journal.pone.0131831.t003,,,,
+PLOS ONE | DOI:10.1371/journal.pone.0131831,,"June 29, 2015",,16 / 24

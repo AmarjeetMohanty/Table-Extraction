@@ -1,0 +1,10 @@
+0,1,2,3,4,5,6
+Table 4: NetPhosK and AMS web servers.,,,,,,
+,,NetPhosK,,,AMS 3.0,
+,Positives,,Recall,Positives,,Recall
+PKA,258,,82,121,,87.5
+PKC,193,,62,118,,70.83
+CaM-II,26,,73,57,,82.05
+cdc2,22,,37,84,,88.24
+CKII,85,,75,248,,73.3
+,Comparison of best recognition performances on independent test sets between the servers NetPhosK and AMS 3.0.,,,,,

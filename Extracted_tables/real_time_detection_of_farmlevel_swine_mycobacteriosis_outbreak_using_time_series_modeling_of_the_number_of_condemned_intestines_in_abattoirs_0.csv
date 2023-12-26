@@ -1,0 +1,15 @@
+0,1,2,3,4,5
+,,,Y. ADACHI AND K. MAKITA,,
+Table 1.,"The variation in the condemnation of intestine by day of a week between April 1, 2003 and March 31, 2001",,,,
+,,Average number of pigs,Rate of condemnation,Condemned,Significantly different
+Day of the week,Pigs slaughtered,,,,
+,,slaughtered in operating daysa),per 1000,per dayb),Combinationsb)
+Monday,"267,000",640 (578–912),9.5,7.1,"Tu, W, Th, F"
+Tuesday,"257,000",650 (515–872),5.9,3.8,"M, W, Th, F"
+Wednesday,"293,000",740 (572–915),2.2,1.6,"M, Tu, Th, F"
+Thursday,"276,000",696 (543–878),3.3,2.3,"M, Tu, W"
+Friday,"267,000",674 (502–851),4,2.7,"M, Tu, W"
+Saturday,"23,000",525 (400–620),2.3,1.2,"M, Tu, F"
+Sunday,"1,000",277 (230–322),0,<0.01,-
+Total,"1,385,000",,4.8,,
+"a) The values in parentheses are 2.5 and 97.5 percentiles. b) Estimates and P-values are based on GLMs. M: Monday, T: Tuesday, W:",,,,,

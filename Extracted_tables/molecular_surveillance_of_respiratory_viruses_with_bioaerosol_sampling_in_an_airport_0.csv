@@ -1,0 +1,28 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+Table 1 Molecular,,"results for aerosol sampling four sites in RDU Airport, January–March, 2018",,,,,,,,,
+Sample ID,Temp (°F),RH (%),Site,FluA,FluB,FluC,FluD,AdV,PanAdV,CoV,PanCoV
+1,74.0,32.1,Baggage Claim 1,–,–,–,–,–,–,–,–
+2,,,Baggage Claim 2,–,–,–,–,–,–,–,–
+3,68.9,44.5,Baggage Claim 1,–,–,–,–,–,–,–,–
+4,,,Baggage Claim 2,–,–,–,–,–,–,–,–
+5,72.1,26.8,Terminal 2A,–,–,–,–,–,–,–,–
+6,,,Terminal 2B,–,–,–,–,–,–,–,–
+7,63.6,25.1,Terminal 2A,–,–,–,–,–,–,–,–
+8,,,Terminal 2B,–,–,–,–,–,–,–,–
+9,71.0,38.0,Baggage Claim 1,–,–,–,–,–,–,–,–
+10,,,Baggage Claim 2,–,–,–,–,–,–,–,–
+11,73.4,52.2,Terminal 2A,–,–,–,–,–,–,–,–
+12,,,Terminal 2B,–,–,–,–,–,–,–,–
+13,ND,ND,Baggage Claim 1,–,–,–,+,–,–,–,–
+14,,,Baggage Claim 2,–,–,–,–,–,–,–,–
+15,70.07,39.5,Terminal 2A,–,–,–,–,–,+,–,–
+16,,,Terminal 2B,–,–,–,–,–,+,–,–
+17,71.4,60.4,Terminal 2A,–,–,–,–,–,–,–,–
+18,,,Terminal 2B,–,–,–,–,–,–,–,–
+19,78.6,52.9,Baggage Claim 1,–,–,–,–,–,+,–,–
+20,,,Baggage Claim 2,–,–,–,–,–,–,–,–
+21,77.1,36.0,Baggage Claim 1,–,–,–,–,–,–,–,–
+22,,,Baggage Claim 2,–,–,–,–,–,–,–,–
+23,71.2,30.8,Baggage Claim 1,–,–,–,–,–,–,–,–
+24,,,Baggage Claim 2,–,–,–,–,–,–,–,–
+"Abbreviations: Temp temperature, ND not detected, RH relative humidity, FluA influenza A virus, FluB influenza B virus, FluC influenza C virus, FluD influenza D",,,,,,,,,,,

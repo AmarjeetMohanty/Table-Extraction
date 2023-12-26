@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6,7,8,9
+A,,,,,,,B,,
+,,,LM3,,,,,,LM3-TRIM55-negative control
+,,,,,,,,,LM3-TRIM55-overexpression
+,,TRIM55-OE,,TRIM55-NC,,,,,
+,,,,,,,,,Huh7-TRIM55-negative control
+,,,,,,100,,,
+,TRIM55,,,,,,,,Huh7-TRIM55-overexpression
+,,,,,,90,,,
+,,,,,,80,,,
+,,,,,,70,,,
+,GAPDH,,,,,,,,
+,,,,,,60,,,
+,,,Huh7,,Relative mRNA level of TRIM55,50,,,
+,,TRIM55-OE,,TRIM55-NC,,2.0,,,
+,,,,,,1.5,,,
+,TRIM55,,,,,,,,
+,,,,,,,,***,
+,,,,,,1.0,,,***
+,,,,,,0.5,,,
+,GAPDH,,,,,,,,
+,,,,,,0.0,,,

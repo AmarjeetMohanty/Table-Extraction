@@ -1,0 +1,24 @@
+0,1,2,3,4,5,6,7,8
+"PLOS ONE
+Table 5. Cont.",,,,,,,,
+,Patients,,Controls,,,,,
+TTC/GCC,2,2.0,1,0.9,ns,ns,,
+"| www.plosone.org
+G/G21098",2,2.0,5,4.3,ns,ns,,
+T/G,17,17.3,24,20.7,ns,ns,,
+T/T,79,80.6,87,75.0,ns,ns,,
+G,21,10.7,34,14.7,ns,ns,,
+T,175,89.3,198,85.3,ns,ns,,
+C/C2590,46,46.9,50,43.1,ns,ns,,
+T/C,10,10.2,50,43.1,0.000000052,0.000001144,0.15,0.07–0.32
+T/T,42,42.9,16,13.8,0.0000025,0.000055,4.69,2.42–9.09
+C,102,52.0,150,64.7,0.0103,ns,0.59,0.40–0.87
+T,94,48.0,82,35.3,0.0103,ns,1.68,1.14–2.49
+C/C233,55,56.1,59,50.9,ns,ns,,
+T/C,34,34.7,47,40.5,ns,ns,,
+T/T,9,9.2,10,8.6,ns,ns,,
+C,144,73.5,165,71.1,ns,ns,,
+T,52,26.5,67,28.9,ns,ns,,
+9,,,,,,,,
+,SNPs = single nucleotide polymorphisms; p = Fisher’s exact,,test with Yates’ correction; pc = after Bonferroni correction; ns = non-significant; OR = odds ratio; 95%CI = 95% confidence interval.,,,,,
+doi:10.1371/journal.pone.0107921.t005,,,,,,,,

@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7,8
+Table 1.,In vitro antiviral activities and cytotoxicity profiles of selected nucleoside inhibitors of,,,,flaviviral replication.,,,
+Structure,,Virus,Strain,"Cell
+line",Assay,EC50 (mM),CC50 (mM),References
+Inhibitors of,flaviviral RdRp,,,,,,,
+GS-441524,,AHFV,200300001,Vero,CPE,49.9,ND,Lo et al.45
+,,KFDV,P9605,Vero,CPE,46.3,ND,Lo et al.45
+,,TBEV,Hypr,Vero,CPE,51.2,ND,Lo et al.45
+,,OHFV,Bogoluvovska,Vero,CPE,50.6,ND,Lo et al.45
+,,YFV,ND,ND,Cell based,11,>30,Cho et al.43
+,,DENV-2,ND,ND,Cell based,9.46,>30,Cho et al.43
+,,WNV,ND,ND,Cell based,>30,>30,Cho et al.43
+GS-5734,,AHFV,200300001,Vero,CPE,4.2,ND,Lo et al.45
+,,KFDV,P9605,Vero,CPE,1.8,ND,Lo et al.45
+,,TBEV,Hypr,Vero,CPE,2.1,ND,Lo et al.45
+,,OHFV,Bogoluvovska,Vero,CPE,1.2,ND,Lo et al.45

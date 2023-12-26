@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7,8,9
+Table 2. Clinical information and SARS-CoV RNA in throat wash and saliva from probable SARS case-patientsa,,,,,,,,,
+,,,,,Clinical information at sampling day,,,,
+Patient,,,,,,,Chest x-ray,Throat wash,Saliva
+IDb,Age (y),Sex,Sampling dayc,Fever,Cough,Dyspnea,infiltrate,(copies/mL),(copies/mL)
+1,52,M,d2,Yes,Yes,Nod,Yes,1.58 x 105,2.64 x 107
+2,28,F,d3,Yes,No,No,Yes,4.69 x 103,1.12 x 105
+3,47,F,d3,Yes,No,Nod,Yes,1.56 x 103,1.06 x 105
+4,42,M,d3,Yes,No,No,Yes,2.39 x 104,8.22 x 104
+5,26,M,d3,Yes,Yes,No,No,3.56 x 103,1.22 x 104
+6,32,F,d4,Yes,No,No,Yes,2.88 x 103,7.08 x 103
+7,48,M,d4,Yes,Yes,No,Yes,1.32 x 103,9.05 x 104
+8,46,M,d4,Yes,No,No,No,3.98 x 103,NA
+9,41,F,d4,Yes,No,Nod,No,3.56 x 103,NA
+10,47,M,d5,Yes,No,No,Yes,8.10 x 103,9.24 x 104
+11,52,M,d5,Yes,No,Yesd,Yes,4.10 x 105,1.74 x 107
+12,54,M,d6,Yes,Yes,No,Yes,2.46 x 105,6.38 x 108
+13,48,F,d6,Yes,No,No,Yes,2.22 x 103,1.78 x 105
+14,26,F,d6,Yes,No,No,Yes,9.73 x 102,9.52 x 103
+15,21,F,d7,Yes,Yes,No,No,1.74 x 103,NA
+16,28,M,d8,Yes,No,No,Yes,5.93 x 106,4.14 x 107
+17,25,F,d9,Yes,No,Yes,Yes,9.58 x 102,2.80 x 104
+"aSARS-CoV, severe acute respiratory syndrome–associated coronavirus; M, male; F, female; NA = not available.",,,,,,,,,

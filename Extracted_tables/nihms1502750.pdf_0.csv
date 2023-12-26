@@ -1,0 +1,83 @@
+0,1,2,3
+,Getz and Dougherty,,Page 3
+,,"stochastic simulations to discrete time solutions. Finally, we compare the efficiencies of",
+,,,fitting continuous-time Erlang models and our various discrete models to real data. To keep
+,,"our analysis focused, our formulation and simulations ignore the processes of recruitment",
+,,,"and mortality. These, of course, are easily added, as we discuss, along with other important"
+Author Manuscript,,extensions such as spatial structure using metapopulation networks.,
+,Model Formulation,,
+,,Continuous deterministic,
+,,,The basic equations for the SEIR distributed-delay model [21] are well-known. For the sake
+,,"of completeness, however, we present these equations here in terms of a general",
+,,transmission function,) that depends on the total number Itot of infectious individuals in
+,,"the population. As depicted in Figure 1, if the number of E and I class compartments is kE",
+,,,"and kI, respectively, with associated rate parameters γE and γI, then the boxcar models takes"
+,,the form:,
+,,,dS
+,,,)S
+Author Manuscript,,,"dt = − 𝒯(I
+tot"
+,,,dE
+,,,1
+,,,"= 𝒯(I
+)S − γEE"
+,,,"dt
+tot
+1"
+,,,dE
+,,,2
+,,,"= γE
+(E
+− E
+)"
+,,,"dt
+1
+2"
+,,,⋮
+,,,dE
+,,,kE
+,,,"= γE
+(E
+− E
+)"
+,,,dt
+Author Manuscript,,,"kE
+kE
+− 1"
+,,,dI
+,,,1
+,,,(1)
+,,,"dt = γEE
+kE − γII"
+,,,1
+,,,dI
+,,,2
+,,,"= γI
+(I
+− I
+)"
+,,,"dt
+1
+2"
+,,,⋮
+,,,dI
+,,,kI
+,,,"= γI
+(I
+− I
+)"
+,,,dt
+Author Manuscript,,,"kI
+kI
+− 1"
+,,,dR
+,,,dt = γII
+,,,kI
+,,"J
+ 
+B
+i
+o
+l
+ 
+Dyn. Author manuscript; available in PMC 2018 December 01.",

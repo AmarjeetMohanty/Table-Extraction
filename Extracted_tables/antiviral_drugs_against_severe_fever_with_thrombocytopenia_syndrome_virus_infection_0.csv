@@ -1,0 +1,27 @@
+0,1,2,3,4,5,6
+,TABLE 1 | Efﬁcacy of anti-SFTSV drugs in vitro.,,,,,
+Agent,Cells,Study design,Strain of SFTSV,IC50/90/99,CC50,References
+Ribavirin,Vero,Yield reduction,Chinese strain (HB29),IC99 = 263 µM,">1,929 µM","Shimojima et al., 2014"
+,Huh7,,,IC99 = 83 µM,,
+,U2OS,,,IC99 = 78 µM,,
+,Vero,Yield reduction,Japanese strain (SPL030),IC99 = 424 µM,">1,929 µM",
+,Huh7,,,IC99 = 63 µM,,
+,U2OS,,,IC99 = 73 µM,,
+,Vero,Yield reduction,Japanese strain (SPL030),IC90 = 176 µM*,">2,000 µM","Shimojima et al., 2015"
+,,Yield reduction,Korean isolate strain,IC50 = 15.1–35.7 µM,>128 µM,"Lee et al., 2017"
+,,Yield reduction**,Japanese isolate strain,IC50 = 40.1 µM,>100 µM,"Baba et al., 2017"
+,,Yield reduction,Chinese strain (HB29),IC50 = 49.7 µM,>320 µM,"Smee et al., 2018"
+Favipiravir,Vero,Yield reduction,Japanese strain (SPL010),"IC50 = 6 µM,
+IC90 = 22 µM",">1,000 µM","Tani et al., 2016"
+,,Yield reduction**,Japanese isolate strain,IC50 = 25 µM,>100 µM,"Baba et al., 2017"
+Hexachlorophene,"Vero, Huh7",Yield reduction**,Chinese strain (HB29),IC50 = 1.3 µM,24.3 µM,"Yuan et al., 2019"
+,,,,IC99 = 7.5 µM,,
+Benidipine,Vero,Yield reduction**,Chinese strain,IC50 = 1.412 µM,96.92 µM,"Li et al., 2019"
+Nifedipine,Vero,Yield reduction**,Chinese strain,IC50 = 98 µM,>250 µM,
+2′-Fluoro-,Vero,Yield reduction,Chinese strain (HB29),IC90 = 3.7 µM,>320 µM,"Smee et al., 2018"
+2′-deoxycytidine,,,,,,
+Caffeic acid,Huh7.5.1–8,Yield reduction**,Chinese strain (HB29),IC50 = 48 µM,7.6 mM,"Ogawa et al., 2018"
+Amodiaquine,Vero,Yield reduction**,Japanese isolates strain,IC50 = 19.1 µM,>100 µM,"Baba et al., 2017"
+IFNα,Vero,Yield reduction,Japanese strain (SPL030),IC90 = 29 U/ml,">5,000 U/mL","Shimojima et al., 2015"
+IFNβ,,,,IC90 = 24 U/ml,">5,000 U/mL",
+IFNγ,,,,IC90 = 12 ng/ml,">2,000 ng/mL",

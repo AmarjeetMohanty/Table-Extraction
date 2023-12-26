@@ -1,0 +1,23 @@
+0,1,2,3,4,5
+,particle counts per mL (VP/mL) measured using the ViroCyt® Virus Counter 2100 instrument,,,,
+,and transmission electron microscopy (TEM). The log difference in particle counts between,,,,
+,the Virus Counter and TEM methods is shown in the last column.,,,,
+,,,,,Log difference
+,Plaque assay,Virus-specific,Virus counter,TEM,
+Virus,,,,,between virus
+,(PFU/mL),qRT-PCR (GE/mL),(VP/mL),(VP/mL),
+,,,,,counter and TEM
+"EBOV, Kikwit",,,,,
+,1.78E+07,1.91E+10,1.50E+09,2.67E+08,0.75
+"variant, Prep 1",,,,,
+"EBOV, Kikwit",,,,,
+,4.56E+06,2.35E+10,7.50E+08,6.10E+09,0.91
+"variant, Prep 2",,,,,
+"EBOV, Kikwit",,,,,
+,7.02E+06,2.33E+10,1.62E+09,4.63E+08,0.57
+"variant, Prep 3",,,,,
+"EBOV, Kikwit",,,,,
+,1.31E+06,6.42E+09,5.55E+08,1.17E+09,0.32
+"variant, Prep 4",,,,,
+"SUDV, Gulu variant",9.10E+06,1.73E+10,7.13E+08,3.84E+08,0.27
+"MARV, Angola variant",2.88E+07,3.89E+10,1.03E+09,1.76E+09,0.23

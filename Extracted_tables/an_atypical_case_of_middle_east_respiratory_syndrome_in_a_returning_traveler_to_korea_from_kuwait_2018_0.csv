@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6,7,8
+,Table 1. Clinical variables and laboratory values during the course of illness for a 61-year-old man with MERS-CoV,,,,,,,
+Variables,,,,,Day of illness,,,
+,7,10,11,12,13,14,16,20
+"Clinical variables, worst values",,,,,,,,
+"Temperature, °C",NA,38.3,38.3,37.2,38.2,38.0,36.8,36.7
+"Heart rate, beats/min",NA,65,81,71,67,66,68,73
+"Respiratory rate, breaths/min",NA,18,28,22,24,24,24,20
+"Oxygen saturation, %",NA,NA,92,93,93,94,95,95
+"Oxygen supply, L/min",-,-,-,4,4,4,2,-
+Laboratory values,,,,,,,,
+pH,NA,NA,7.47,NA,7.43,7.46,NA,NA
+"pCO2, mmHg",NA,NA,28.0,NA,31.6,30.1,NA,NA
+"pO2, mmHg",NA,NA,57.3,NA,66.9,84.7,NA,NA
+"White cells, ×103/µL",3.20,3.85,4.24,3.58,3.47,4.58,6.70,8.74
+"Platelets, ×103/µL",115,156,157,173,173,215,290,358
+"Albumin, g/dL",NA,3.7,3.2,2.8,2.8,2.8,3.0,3.1
+"Creatinine, mg/dL",1.14,1.03,0.99,0.67,0.75,0.65,0.73,0.83
+"AST, U/L",NA,189,197,159,118,77,66,27
+"ALT, U/L",NA,112,117,118,103,86,92,43
+"CRP, mg/dL",NA,2.35,2.47,4.29,5.16,4.39,3.35,0.57
+,"MERS-CoV = Middle East respiratory syndrome coronavirus, NA = not available, AST = aspartate transaminase, ALT = alanine aminotransferase, CRP = C-reactive",,,,,,,

@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6,7,8,9
+,Table 4. Cellular proteins identified in purified influenza virions only by gel,,,,,,,fractionation LC-MS/MS analysis.,
+,,,,SDS-PAGE and LC-MS/MS Analysis,,,,,
+,,,,No. of,,Sequence,,,
+,Entrez,Mass,Gel,observed,MASCOT,coverage,,Expression,Reported in other
+Protein Name,Gene ID,(Da),slicea,peptidesb,scorec,(%)d,Cellular localization,profile (TPM)e,viruses
+,,,,,,,,"kidney
+lung",
+aldo-keto reductase,231,35854,29,5,101,23.1,cytoplasm,"653
+214",
+annexin A5,308,35937,29*,5,226,15.6,cytoplasm/membrane,"113
+247","HCMV [3], HIV-1 [11]"
+tropomyosin 4,7171,28522,31,7,138,21.4,cytoplasm,"108
+83",
+peroxiredoxin 1,5052,22110,39,4,85,19.6,cytoplasm,"326
+545","VV [10], HIV-1 [11],"
+,,,,,,,,,MoMLV [13]
+destrin,11034,15397,45,4,113,32.6,cytoplasm,"137
+157",
+ubiquitin,7314,8565,18#,2,391,32.9,cytoplasm/nucleus,"169
+183","HIV-1 [11,12,91], SIV [91],"
+,,,,,,,,,"MoMLV [13,91], VV [10]"

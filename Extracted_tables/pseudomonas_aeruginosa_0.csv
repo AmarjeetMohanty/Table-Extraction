@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7,8
+Choi et al,,,,,,,,Dovepress
+,Table 2 Pulmonary medication or treatment in readmission and no-readmission groups before and after propensity score matching,,,,,,,
+,Before matching,,,,After matching,,,
+,Readmission,No-readmission,P-value,d,Readmission,No-readmission,P-value,d
+,group,group,,,group,group,,
+,(n=65),(n=639),,,(n=52),(n=52),,
+Inhaler use before admission,,,,,,,,
+laBas,3 (4.6%),4 (0.6%),0.277,0.3522,0 (0.0%),2 (3.8%),0.730,0.0348
+laMas,13 (20.0%),75 (11.7%),,,10 (19.2%),6 (11.5%),,
+laBas + laMas,16 (24.6%),97 (15.2%),,,12 (23.1%),15 (28.8%),,
+ICs/laBas,3 (4.6%),51 (8.0%),,,3 (5.8%),3 (5.8%),,
+Triple therapy,24 (36.9%),245 (38.3%),,,21 (40.4%),20 (38.5%),,
+(ICs/laBas + laMas),,,,,,,,
+Oral medication use,,,,,,,,
+β2 adrenoreceptor agonist,11 (16.9%),78 (12.2%),0.276,0.2106,7 (13.5%),6 (11.5%),0.767,0.0971
+n-acetylcysteine,11 (16.9%),50 (7.8%),0.013,0.4826,6 (11.5%),12 (23.1%),0.120,0.4592
+Roflumilast,9 (13.8%),43 (6.7%),0.046,0.4416,6 (11.5%),3 (5.8%),0.488,0.4170
+Mucolytic agent,44 (67.7%),339 (53.1%),0.024,0.3404,36 (69.2%),32 (61.5%),0.410,0.1880
+Oral steroid,10 (15.4%),32 (5.0%),0.003,0.6826,6 (11.5%),4 (7.7%),0.506,0.2470
+Oral antibiotics,8 (12.3%),27 (4.2%),0.011,0.6380,4 (7.7%),2 (3.8%),0.678,0.4047
+home oxygen therapy,25 (38.5%),126 (19.7%),",0.001",0.5149,16 (30.8%),16 (30.8%),1.000,0.0000
+Note: Data are presented as number of patients (%).,,,,,,,,

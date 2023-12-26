@@ -1,0 +1,19 @@
+0,1,2,3,4,5,6,7,8,9
+,Table 2. Correlation of activation of innate response genes with fungal and bacterial,,,,"infection, and neutrophils in the lung interstitium, and fungal hyphae and bacterial scores in",,,,
+wing tissues.,,,,,,,,,
+,,IL23,,Cathelicidin,,IL10,,TNF,
+Correlate,,,,,,,,,
+,,GAPDH,CytB,GAPDH,CytB,GAPDH,CytB,GAPDH,CytB
+Infection,Correlation (r),20.60,20.55,20.67,20.49,20.72,20.75,20.71,20.77
+,Significance (P),",0.001",0.001,",0.001",0.001,0.018,0.008,0.004,0.001
+,N,30,30,45,45,10,11,14,14
+Ave. hyphae score,Correlation (r),20.67,20.60,20.64,20.42,20.71,20.69,20.57,20.60
+,Significance (P),",0.001",",0.001",",0.001",0.004,0.02,0.018,0.033,0.024
+,N,30,30,45,45,10,11,14,14
+Ave. bacterial score,Correlation (r),20.77,20.65,20.61,20.42,20.69,20.61,,
+,Significance (P),",0.001",",0.001",",0.001",0.004,0.026,0.046,NS,NS
+,N,30,30,45,45,10,11,14,14
+Lung Interstitial neutrophil,Correlation (r),20.65,20.64,20.35,20.45,,,,
+score,,,,,,,,,
+,Significance (P),0.001,0.001,0.036,0.005,NS,NS,NS,NS
+,N,22,22,37,37,10,11,14,14

@@ -1,0 +1,39 @@
+0,1,2,3,4,5,6
+,"BMC Infectious Diseases 2007, 7:76",,,,,http://www.biomedcentral.com/1471-2334/7/76
+,,"age
+S",risk,,,
+,,susceptible,,,,
+,,,,,,visiting a doctor
+,,"age
+E",risk,,,
+,,infected,,,,
+,1 3,1 3,,1 3,,
+"age
+A",,"age
+M",,V v,age,"age
+X"
+asympto-,,moderately,,ery,,extremely
+matic,,sick,,sick,,sick
+,,,"age
+Wu",,"age
+Wt","age
+age
+Hu
+Ht"
+,,,untreated,,treated,"untreated
+treated"
+,,,at home,,at home,"hospitalized
+hospitalized"
+,,,,,,"D d
+age
+ead"
+,I,age,,,,"age
+R"
+,recovered and immune,,,,,convalescent
+Figure 7,Model structure of InfluSim 2.0,,,,,
+,Model structure of InfluSim 2.0. Transitions from each compartment depend on age; transitions from the exposed (E) state,,,,,
+,"into diseased states (A, M, V, X) additionally depend on the risk group which is assigned to susceptible (S) individuals at birth.",,,,,
+"Other states: W: cases who withdraw at home, H: hospitalized cases, I: recovered and immune individuals, R: individuals in the",,,,,,
+"stage of convalescence, and D: death.",,,,,,
+,,,,,,Page 10 of 13
+,,,,,,(page number not for citation purposes)

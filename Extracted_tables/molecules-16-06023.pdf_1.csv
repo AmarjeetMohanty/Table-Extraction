@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6
+,"Table 1. Cytotoxicity and antiviral activity of coumarin derivatives 3, 7, 8, 11, 13–15, 19",,,,,
+and 20 in HEL cell cultures.,,,,,,
+,,,,,EC50 b (μM),
+,MCC a,,,,,
+Compound,,HSV-1,HSV-2,Vaccinia,Vesicular,HSV-1
+,(μM),,,,,
+,,(KOS),(G),virus,stomatitis virus,TK− KOS ACVr
+3,>20,9,9,11,>20,9
+7,20,>4,>4,>4,>4,>4
+8,100,>20,>20,>20,>20,>20
+11,100,>20,>20,>20,>20,>20
+13,100,>20,>20,>20,>20,>20
+14,>100,>100,>100,>100,>100,>100
+15,>100,>100,>100,>100,>100,>100
+19,>100,50,45,>100,>100,50
+20,100,>20,>20,>20,>20,>20
+Brivudin,>250,0.06,182,3.2,>250,50
+Cidofovir,>250,0.9,1.5,7.9,>250,1.5
+Acyclovir,>250,0.30,0.35,>250,>250,20
+Ganciclovir,>100,0.025,0.030,>100,>100,0.1
+"a  Minimum  cytotoxic  concentration,  as  determined  by  examining",,,,,,the  microscopically  visible

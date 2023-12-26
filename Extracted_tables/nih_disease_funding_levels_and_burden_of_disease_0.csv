@@ -1,0 +1,38 @@
+0,1,2,3,4
+,Table 3. Ranked Differences between Expected and Actual NIH Funding According to Year of Funding and United States Disease,,,
+Burden Measure(s) Used.,,,,
+,Millions of Dollars,,,
+,(ascendingrank*),,,
+,1996,2006,,
+,,Standard,Standard Multivariable with,Constrained
+,Univariate{,Univariate{,Public Interest Variables1,"Multivariable"""
+Condition or Disease,,,,
+Depression,2178 (1),2719 (1),2689 (2),2951 (2)
+Perinatal Conditions,2124 (2),297 (27),114 (23),2194 (11)
+Stroke,2121 (3),2278 (6),2288 (5),2170 (13)
+Injuries,2113 (4),2691 (2),2123 (12),2721 (3)
+Chronic obstructive pulmonary disorder,2101(5),2613 (3),2357(3),2554(5)
+Pneumonia,252(6),27 (21),154 (27),270 (27)
+Peptic ulcer disease,246(7),2105 (14),275 (14),218 (19)
+Lung cancer,246(8),2364 (5),2328 (4),21358 (1)
+Schizophrenia,237(9),244 (18),129 (24),94 (24)
+Ischemic heart disease,230(10),2490 (4),2731 (1),2721 (4)
+Uterine cancer,229(11),2146 (10),294 (13),2111 (15)
+Asthma,225(12),2198 (8),2235 (6),40 (21)
+Otitis media,219(13),297 (15),270 (15),227 (18)
+Colorectal cancer,216(14),2168 (9),21 (19),2519 (7)
+Ovarian cancer,215(15),2135 (11),2196 (9),2337 (9)
+Epilepsy,210(16),2133 (12),2226 (7),2101 (16)
+Parkinson’s disease,23(17),290 (17),2183 (10),2363 (8)
+Cervical cancer,28(18),2113 (13),244 (17),2223 (10)
+Prostate cancer,32 (19),56 (22),23 (18),68 (22)
+Tuberculosis,44 (20),89 (23),96 (22),97 (25)
+Multiple sclerosis,52 (21),295 (16),2222 (8),296 (17)
+Sexually transmitted disease,58 (22),110 (24),153 (26),198 (26)
+Alcohol abuse,61 (23),2202 (7),152 (25),2152 (14)
+Cirrhosis,67 (24),25 (20),255 (16),2178 (12)
+Dental and oral disorders,130 (25),113 (25),74 (20),90 (23)
+Dementia,183 (26),18 (19),2159 (11),2524 (6)
+Diabetes mellitus,197(27),390 (28),160 (28),382 (28)
+Breast cancer,346 (28),258 (26),92 (21),39 (20)
+AIDS,1664 (29),2474 (29),2306 (29),1835 (29)

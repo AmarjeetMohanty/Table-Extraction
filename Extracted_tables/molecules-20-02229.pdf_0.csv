@@ -1,0 +1,51 @@
+0,1,2,3,4,5,6,7
+,associations with virus infections. del = deletion; ins = insertion. +1 represents the A of the,,,,,,
+,"ATG translation start site for all genes except MBL2, where +1 represents the transcription",,,,,,
+,"start site, to comply with literature.",,,,,,
+,dbSNP,,,,,,
+,,Nucleotide,Major,Minor,,Amino Acid,Relevance to Specific Virus
+Gene,(Alternative,,,,Region,,
+,,Position,Allele,Allele,,Mutation,Infections
+,Name),,,,,,
+,rs11003125,,,,,,
+,,−550,G,C,Promoter,-,"HIV [74,75]"
+,(H/L),,,,,,
+,,,,,,,"HBV [81], HCV [82,83], HIV"
+,rs7096206 (X/Y),−221,C,G,Promoter,-,"[72,75], HTLV [84],"
+,,,,,,,SARS-CoV [48]
+,rs7095891 (P/Q),+4,C,T,5’ UTR,-,
+,,,,,,,"CMV [85,86], DV[50],"
+,rs5030737,,,,,,
+MBL2,,+223,C,T,Exon 1,Arg52Cys,"HBV [87,88], HCV [82,83,89,90],"
+,(MBL-D),,,,,,
+,,,,,,,"HIV [70,72,80],"
+,,,,,,,"CMV [85,86], DV [50], HBV"
+,rs1800450,,,,,,"[81,88,91], HCV [82,83,89,90], HIV"
+,,+230,G,A,Exon 1,Gly54Asp,
+,(MBL-B),,,,,,"[70,72,73,80], HTLV [92],"
+,,,,,,,SARS-CoV [48]
+,rs1800451,,,,,,"CMV [85,86], DV [50], HBV [88],"
+,,+239,G,A,Exon 1,Gly57Glu,
+,(MBL-C),,,,,,"HCV [82,83,89,90], HIV [70,72,80]"
+,rs2989727,−1981,G,A,Promoter,-,
+,rs10120023,−542,G,A,Promoter,-,
+,rs28909976,−271,-,InsT,Promoter,-,
+,rs10117466,−144,C,A,Promoter,-,Increased serum concentration [93]
+,,,,,,,Likely affects structure and
+,rs10441778,+1435,G,A,Exon 2,Gly43Asp,
+,,,,,,,oligomerisation [94]
+,,,,,,,Likely affects structure and
+,ss76901539,+3458,G,A,Exon 4,Arg93Gln,
+,,,,,,,oligomerisation [94]
+FCN1,,,,,,,"Reduced serum concentration,"
+,rs148649884,+6658,G,A,Exon 8,Ala218Thr,
+,,,,,,,reduced ligand binding [93]
+,rs150625869,+7895,T,C,Exon 9,Ser268Pro,Abolished serum concentration [93]
+,rs1071583,+7918,G,A,Exon 9,-,
+,,,,,,,Likely affects structure and
+,ss76901546,+7929,G,A,Exon 9,Trp279STOP,
+,,,,,,,oligomerisation [94]
+,,,,,,,"Reduced serum concentration,"
+,rs138055828,+7959,A,G,Exon 9,Ala289Ser,
+,,,,,,,reduced ligand binding [93]
+,ss76901547,+8000,G,A,Exon 9,Gly303Ser,Likely affects function [94]

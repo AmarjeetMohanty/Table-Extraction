@@ -1,0 +1,54 @@
+0,1,2,3
+,,,Human Rhinovirus Recombination
+,Table 2. Characterization of 66 clinical HRV strains in clinical specimens based on partial VP4/VP2 gene sequences.,,
+Clinical HRV strain,Nearest,Divergence with the,Species (subspeciesa)
+(% nt identityb),HRV strain,nearest HRV (% nt),classification
+N64,Hanks,5.3,A
+N14,R98,5.8,A
+N31,R23,6.3,A
+"N3,N16A (98.8)",R38,6.5,A
+N19,R12,7.7,A
+N66,R75,8.5,A
+N65,R10,9,A
+N23,R22,9,A
+"N13,N47 (98.6)",R47,9.1–9.7,A
+"N37,N49,N51c (98.1–99)",R58,9.2–10.4,A
+N40,R39,9.4,A
+N29,R28,9.6,A
+N58A,R34,10,A
+N71,R9,10.2,A
+N54,R90,10.2,A
+"N11,N12,N15c (99.5–100)",R31,10.5,A
+N18,R61,11.9,A
+N6,R46,15.3,A
+N9,R28,18.9,A
+"N44,N48c (99.8)",R65,22.1–22.4,A
+N26,R4,10.1,B
+N69,R70,10.2,B
+"(97.4)
+N16B,N17c",R37,10.5–11.4,B
+N30,R52,12.5,B
+N5,NAT045,22.6,C (Cc)
+"N62,N67c (99.5)",C025,25.3–25.7,C (Cc)
+N63,C024,25.6,C (Cc)
+N61,NAT045,26.5,C (Cc)
+"N42,N45c (99.8)",NAT001,29.1–29.4,C (Cc)
+"N10,N55,N56 (96.5–100)","C024,C026",29.9–30.3,C (Cc)
+N41,NAT045,30.4,C (Cc)
+"N43,N50,N58Cc (99–99.8)",NAT045,31–31.8,C (Cc)
+"N35,N68 (96.1)",C025,3.0–4.0,C (Ca)
+N34,NAT001,3.2,C (Ca)
+"(99.3–99.8)
+N22,N33,N38,N39c",C025,15.1–15.8,C (Ca)
+N1,C026,20.9,C (Ca)
+"N24,N25,N28,N32c
+(99.5–100)",QPM,23.5–24.2,C (Ca)
+"N27,N52 (96.8)","C024,NAT045",28.7–29.1,C (Ca)
+"N4,N8,N21 (99–99.8)",NAT045,29.5–30.5,C (Ca)
+N36,QPM,29.7,C (Ca)
+N46,NAT001,30.4,C (Ca)
+N7,NAT045,31.5,C (Ca)
+,aSubspecies classification based on local 59UTR sequence variation (See Table 3 and Figs. 1 and 2).,,
+bStrains closely related with more than 96% identity.,,,
+cStrains isolated within 3 months.,,,
+doi:10.1371/journal.pone.0006355.t002,,,

@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12
+,,,,,,EpiMatrix cluster detail report,,,,,,
+,,,,,Representative T cell epitope cluster: Brugia malayi Juv-p120,,,,,,,
+Frame,AA sequence,Frame,Hydro-,DRB1*0101,DRB1*0301,DRB1*0401,DRB1*0701,DRB1*0801,DRB1*1101,DRB1*1301,DRB1*1501,
+,,,,,,,,,,,,Hits
+start,,stop,phobicity,Z-score,Z-score,Z-score,Z-score,Z-score,Z-score,Z-score,Z-score,
+32,IAFFTLAQT,40,0.3,–0.11,–0.86,0.27,–0.48,0.69,1,0.59,1.23,0
+33,AFFTLAQTI,41,0.3,0.73,0.24,–0.11,1.21,0.09,–0.92,–0.15,0.74,0
+34,FFTLAQTIT,42,0.24,1.68,–0.17,0.77,1.24,0.92,0.55,0.06,0.57,1
+35,FTLAQTITA,43,1.01,2.21,2.19,2.89,2.08,2.02,2,2.1,2.14,8
+36,TLAQTITAR,44,0.04,-0.31,0.24,–0.05,–0.3,0.26,–0.72,0.95,–0.58,0
+37,LAQTITART,45,0.04,1.23,–0.38,1.46,1.03,0.84,0.68,0.65,0.78,0
+38,AQTITARTV,46,0.05,0.93,–0.26,0.38,0.89,–0.96,0.73,–0.37,0.36,0
+,,Summarized results,,DRB1*0101,DRB1*0301,DRB1*0401 DRB1*0701,,DRB1*0801,DRB1*1101,DRB1*1301,DRB1*1501,Total
+,,Maximum single Z score,,2.21,2.19,2.89,2.08,2.02,2,2.1,2.14,--
+,,Sum of significant Z scores,,3.89,2.19,2.89,2.08,2.02,2,2.1,2.14,19.31
+,Count of significant Z scores,,,2,1,1,1,1,1,1,1,9

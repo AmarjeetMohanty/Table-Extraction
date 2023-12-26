@@ -1,0 +1,21 @@
+0,1,2,3,4,5
+364,S. Tursynbolat et al.,/,Journal of Pharmaceutical Analysis 9 (2019) 358e366,,
+Table 1,,,,,
+,Comparison of detection performances of the developed sensor and other electrochemical devices reported for detection of myricetin or rutin.,,,,
+Electrode,Method,,Linear range (mM),Limit of detection (nM),Reference
+AuNPs/MWCNTs/GCE,SWV,,Myricetin:0.05e40,12,[16]
+,,,Rutin: d,d,
+Polyfurfural ﬁlm/GCE,DPV,,Myricetin:0.05e10,10,[36]
+,,,Rutin: 0.001e10,0.025,
+b-CDeAu@PTCAeSWCNHs/GCE,DPV,,Myricetin:0.01e10,3.8,[37]
+,,,Rutin: 0.01e10,4.4,
+MIP/GOeMWCNTs/GCE,DPV,,Myricetin: d,d 5,[56]
+,,,Rutin: 0.01e1,,
+CueCS/MWCNTs/GCE,DPV,,Myricetin: d,d 1,[57]
+,,,Rutin: 0.05e100,0,
+PSSA/CNTs/MBT/Au/GCE,DPV,,Myricetin: d,d 1,[58]
+,,,Rutin: 0.8e10,.8,
+Ni-GO/GCE,DPV,,Myricetin: d,d 3,[59]
+,,,Rutin: 0.011e15,.2,
+Pt@r-GO@MWCNTs/GCE,DPV,,Myricetin: 0.05e50,10,This work
+,,,Rutin: 0.05e50,5,

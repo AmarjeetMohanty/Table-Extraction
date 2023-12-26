@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6,7,8
+,Table 1. Demographic information for the training and asthma exacerbation validation cohorts.,,,,,,,
+Category,,,Training Cohort,,,,Asthma Validation Cohort,
+,Bacterial,Viral,Noninfectious,Total,Bacterial,Viral,Noninfectious,Total
+,(n = 48),(n = 54),(n = 49),(n = 151),(n = 7),(n = 18),(n = 21),(n = 46)
+"Males, n (%)",24 (50%),20 (37%),32 (65%),76 (50%),2 (29%),5 (28%),10 (48%),17 (37%)
+"Age, mean",54 (16–88),42 (14–88),58 (21–87),51 (14–88),38 (6–70),40 (19–73),34 (8–55),37 (6–73)
+(range),,,,,,,,
+"Race, n (%)",,,,,,,,
+Black,24 (50%),28 (52%),21 (43%),73 (48%),3 (43%),12 (67%),18 (86%),33 (72%)
+White,23 (48%),23 (43%),27 (55%),73 (48%),4 (57%),5 (28%),1 (5%),10 (22%)
+Other�,1 (2%),3 (6%),1 (2%),5 (3%),0 (0%),1 (6%),2 (10%),3 (7%)
+"Admitted, n (%)",46 (96%),16 (30%),42 (86%),104 (69%),7 (100%),7 (39%),10 (48%),24 (52%)

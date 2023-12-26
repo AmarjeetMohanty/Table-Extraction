@@ -1,0 +1,20 @@
+0,1,2,3
+,,,In-Hospital Mortality of Patients Given IABP
+Table 3.,"In-hospital all-cause mortality rates in patients treated with IABP who had AMI and CS, and",,
+"patients treated with IABP who underwent coronary revascularization, 1998–2008.",,,
+No. of patients,Overall,In-hospital mortality rate,p
+AMI with CS,550,133 (24.18%),
+Treated with:,,,
+Medication,35,7 (20.00%),0.5064
+PCI,62,12 (19.35%),
+CABG,453,114 (25.17%),
+CABG,,,
+Total,7635,937 (12.27%),
+for one-vessel,514,85 (16.53%),< 0.0001
+for two vessels,1453,221 (15.20%),
+for three vessels,5668,631 (11.13%),
+PCI,,,
+Total,576,89 (15.45%),
+for one vessel,413,69 (16.71%),0.4238
+for two vessels,130,17 (13.08%),
+for three vessels,33,3 (9.09%),

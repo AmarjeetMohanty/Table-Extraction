@@ -1,0 +1,15 @@
+0,1,2,3,4,5
+,,,"Journal of Medicine and Life Vol. 9, Issue 1, January-March 2016",,
+Table 1. Types and frequency of bacteria isolated from blood cultures,,,,,
+Rows,Bacteria,,G6PD deficient,,G6PD normal
+,,number,percent,number,percent
+1,Staphylococcus aureus,4,50%,26,38.9%
+2,Enterobacter,1,12.5%,19,28%
+3,Escherichia coli,2,25%,6,8.82%
+4,Citrobacter,-,-,6,8.82%
+5,Coagulase negative staphylococci,1,12.5%,2,2.94%
+6,Pseudomonas,-,-,3,4.41%
+7,Acinetobacter,-,-,2,2.94%
+8,Klebsiella,-,-,2,2.94%
+9,Non-hemolytic streptococci,-,-,2,2.94%
+,Total,8,100%,68,100%

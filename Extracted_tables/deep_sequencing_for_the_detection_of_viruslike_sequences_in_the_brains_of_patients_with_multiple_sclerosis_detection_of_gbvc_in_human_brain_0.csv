@@ -1,0 +1,38 @@
+0,1,2,3,4,5
+,,,,,Deep Sequencing of MS Brain Specimens
+,Table 1. Virus-like sequence short read assembly.,,,,
+Viral Taxon,,,,,
+"V
+i
+ralFamily",p-value1,,Longest Aligned Contig2,# MS Brain Specimens3,Result
+Simian adenovirus-6,.04,",36 bp",,1,not confirmed as viral sequence4
+Adenoviridae,,,,,
+Border disease virus,961024,",36 bp",,1,not confirmed as viral sequence4
+Flaviviridae,,,,,
+Psittacid herpesvirus 1,6610212,",36 bp",,2,not confirmed as viral sequence4
+Herpesviridae,,,,,
+Gallid herpesvirus 1,661025,",36 bp",,3,not confirmed as viral sequence4
+Herpesviridae,,,,,
+Hepatitis B virus,261029,60 bp,,5,human sequence5
+Hepadnaviridae,,,,,
+Porcine teschovirus,261023,",36 bp",,1,not confirmed as viral sequence4
+Picornaviridae,,,,,
+Ectromelia virus,461025,",36 bp",,3,not confirmed as viral sequence4
+Poxviridae,,,,,
+Ostreid herpesvirus 1,461026,",36 bp",,2,not confirmed as viral sequence4
+Maculoverpesviridae,,,,,
+Bovine herpesvirus 1,961024,",36 bp",,1,not confirmed as viral sequence4
+Herpesviridae,,,,,
+GBV-C,961029,106 bp,,1,"assembled, confirmed by PCR"
+Flaviviridae,,,,,
+Foot and Mouth Disease virus,461022,",36 bp",,1,not confirmed as viral sequence4
+Picornaviridae,,,,,
+Bovine adenovirus D,561024,",36 bp",,3,not confirmed as viral sequence4
+Adenoviridae,,,,,
+1students t-test,(minimum value) corrected for multiple comparisons by the Bonferroni method.,,,,
+,2maximum length of all the assembled reads that aligned to the indicated virus.,,,,
+,3number of MS brain specimens that had reads with significant homology (MegaBlast Expect #0.1),,,,to the indicated viral sequences.
+"4The assembly of short
+reads did not",,improve alignment with the specified viral sequences.,,,
+,5Assembly revealed homology to human mitochondrial and host,,integration sites.,,
+doi:10.1371/journal.pone.0031886.t001,,,,,

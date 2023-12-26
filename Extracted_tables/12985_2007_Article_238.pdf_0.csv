@@ -1,0 +1,18 @@
+0,1,2,3,4
+,,Synonymous mutations in ORFs,,
+,,,,H1Z
+0.2,,,,H1L
+,,0.5,,
+,,,,H3
+H2,,H1Z,,H7
+H5,ORF1a,H1L,ORF1b,"ORF2
+H5"
+H3,,H8,,H6
+H8,,H2,,H2
+H4,,,,H4
+,,H4,,
+H1Z,,,,H8
+,,H5,,
+H1L,,,,Cat
+,,H3,,
+,,,,Pig

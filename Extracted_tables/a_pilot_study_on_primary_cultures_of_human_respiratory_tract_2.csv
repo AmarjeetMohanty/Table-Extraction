@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6,7,8
+Table 3: Changes in viral RNA quantity and cytokine levels in virus-infected culture supernatants between 24 and,,,,,,,,
+72 h post-infection,,,,,,,,
+,,24 h post-infection,,72 h post-infection,,Percentage Change,,
+,,,,,,,P,FDR
+,Mean,SEM,Mean,SEM,Mean,SEM,,
+Viral RNA quantity,5.76,0.18,7.21,0.19,11363,4256,< 0.001,0.007a
+IL-1β,0.89,0.13,1.39,0.13,986,301,< 0.001,0.014a
+IL-6,3.85,0.13,3.89,0.14,420,244,0.011,0.043a
+IL-8,4.33,0.10,4.54,0.08,105,45,0.029,0.050a
+IFN-γ,1.76,0.07,2.02,0.09,215,53,< 0.001,0.021a
+IP-10,2.42,0.22,3.18,0.20,1193,772,< 0.001,0.029a
+TNF-α,1.46,0.07,1.65,0.06,139,38,0.003,0.036a

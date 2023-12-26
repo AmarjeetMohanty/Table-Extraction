@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6,7,8,9,10
+TABLE 1 | Continued,,,,,,,,,,
+Group,,,Diarrheic,,,,Healthy,,,P-value
+VAF name,Number of,Isolates,Isolates,Proportion of,Number of,Isolates,,Isolates,Proportion of,
+,publications,positive,tested,positives,publications,positive,,tested,positives,
+esp,3,32,212,0.1509,NA,NA,,NA,NA,NA
+F18,1,0,14,0.0000,NA,NA,,NA,NA,NA
+F4,3,0,716,0.0000,NA,NA,,NA,NA,NA
+F6,1,82,666,0.1231,NA,NA,,NA,NA,NA
+HPI,1,27,42,0.6429,NA,NA,,NA,NA,NA
+iroN,1,4,42,0.0952,NA,NA,,NA,NA,NA
+modD,1,4,42,0.0952,NA,NA,,NA,NA,NA
+shf,1,3,16,0.1875,NA,NA,,NA,NA,NA

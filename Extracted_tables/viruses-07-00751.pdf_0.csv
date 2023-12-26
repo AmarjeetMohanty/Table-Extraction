@@ -1,0 +1,54 @@
+0,1,2,3,4,5,6
+,,"Table 1. Aptamers and aptamer-based biosensors in viral diagnostics. (n/d, no data)",,,,
+,,,Binding Affinity,,,
+Virus,Aptamer Name,"Type 
+Target",,Detection Technique,Limit of Detection,Refs.
+,,,(Kd),,,
+,RHA0006,,15.3 nM,sandwich enzyme linked,,
+,,hemagglutinin,,,0.1 µg/well,[37]
+Influenza,RHA0385,,24.7 nM,aptamer assay (ELASA),,
+,,DNA,,,,
+H5N1,,,,QCM-based biosensor,,
+,n/d,surface protein,4.65 nM,,0.0128 HAU,[36]
+,,,,coated with the hydrogel,,
+,,,1nM,FET-based biosensor,1.2 × 109 molecules,[23]
+HIV-1,n/d,"RNA 
+Tat protein",,QCM-based biosensor,,
+,,,n/d,,0.25ppm,[24]
+,,,,SPR-based biosensor,,
+,E2-B,,4 nM,enzyme linked apto-sorbent assay,"3.13–6.25 × 102 FFU/mL,",
+HCV,,"DNA 
+E2 glycoprotein",,,,[38]
+,E2-D,,0.8 nM,(ELASA),16 ng/mL of glycoprotein E2,
+,,,,AptaVISens-V,,
+,n/d,vaccinia particles,25 nM,,330 PFU,[39]
+,,,,aptamer-based viability impedimetric sensor,,
+,,,,fluorescence microscope,,
+Vaccinia,PP3,"DNA 
+hemagglutinin",3.24 nM,,,[41]
+,,,,using Alexa Fluor 594-labeled aptamer PP3,,
+,,,,,n/d,
+,,,,flow cytometry assay,,
+,TV01,surface protein,7.3 nM,,,[40]
+,,,,using Cy5-labeled aptamer TV01,,
+,13,,2.5 nM,,,
+,,epitopes on cell,,,,
+,14,,7.1 nM,,,
+,,"DNA 
+surface proteins of",,confocal microscope,,[42]
+HPV,20,,1.6 nM,,n/d,
+,,non-infected cells,,,,
+,28,,6.9 nM,,,
+,G5α3N.4,"RNA 
+oncoprotein E7",1.9 µM,EMSA assay,,[27]
+"Chikungunya,",,,,lateral flow chromatographic test strip,,
+,spectrum of,viral envelope,,,,
+"Dengue,",,DNA,spectrum of data,fluorescent aptamer-magnetic bead,n/d,[29]
+,selected aptamers,proteins,,,,
+West Nile,,,,sandwich assay,,
+,,EcoRI,,,,
+,,,,modular biosensor detecting the genetic,,
+Dengue,apt_EcoRI,"n/d 
+enzyme—one of",n/d,,n/d,[21]
+,,,,sequences of Dengue genome,,
+,,biosensor modules,,,,

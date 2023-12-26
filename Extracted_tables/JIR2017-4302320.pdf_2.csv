@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6,7
+600,NT siRNA,600,,NT siRNA,FOXO3A siRNA,,
+,,,Foxo3a siRNA,,,,
+500,,500,,,,,
+400,,400,,,,,2.0
+Number,,Number,,,,CDKN1A,
+300,,300,,,,,1.5
+,,,,,,CDKN1B,
+,S: 54.81%,,S: 54.81%,,,,
+200,,200,,,,C-MYC,"Relative target/GAPDH
+1.0"
+100,,100,,,,FOXO3A,0.5
+,,0,,,,GAPDH,
+0,,,,,,,0.0

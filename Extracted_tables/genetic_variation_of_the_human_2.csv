@@ -1,0 +1,12 @@
+0,1,2,3,4,5,6,7
+Table 4. Evaluation of,the Exposure Factor.,,,,,,
+,,,,Crude ORa,,Adjusted ORb,
+Cohorts compared,Genotype,No. Cases (%),No. Controls (%),(95% CI),Pa Value,(95% CI),Pb Value
+HCW Cases vs. HCW Controls AA,,25 (62.50),88 (72.10),1[Reference],,1[Reference],
+,TT/AT,15 (37.50),34 (27.90),1.55 (0.73–3.30),0.32,1.54 (0.72–3.28),0.27
+GZ Cases vs. HCW Controls,AA,65 (60.75),88 (72.13),1[Reference],,1[Reference],
+,TT/AT,42 (39.25),34 (27.87),1.67 (0.96–2.91),0.09,1.73 (0.94–3.18),0.08
+All Cases vs. HCW Controls,AA,434 (60.96),88 (72.13),1[Reference],,1[Reference],
+,TT/AT,278 (39.04),34 (27.87),1.66 (1.09–2.53),0.02,1.58 (1.00–2.47),0.05
+All Cases vs. All controls,AA,434 (60.96),778 (72.44),1[Reference],,1[Reference],
+,TT/AT,278 (39.04),296 (27.56),1.68 (1.38–2.06),",0.001",1.68 (1.38–2.06),",0.001"

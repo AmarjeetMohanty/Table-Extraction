@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6,7,8
+Table 2. Study design and mortality of mice challenged via the IN route with 2x105 PFU of MPXV.,,,,,,,,
+Group,Cage,No. of,Vaccine,Booster,MPXV Challenge,Day of Death,MTD,Mortality
+,,Mice,(T = 0)a,(T = 23)b,(T = 50)c,(RTC)d,±SEMd,(%)
+1,1,5,N/T,N/T,PBS,,,
+2,2,5,N/T,N/T,+,"7,8,8,9,9",8.2±0.4,100
+3,3,5,Veh,Veh,+,"7,9,9,9,17",10.2±1.7,100
+4,4,5,MVA,Veh,,,,
+,5,5,MVA,MVA,+,,,
+5,6,5,A29L,Veh,,"8,9,9,9",8.8±0.3,80
+,7,41,A29L,A29L,+,"7,10,10,",9.0±1.0,75
+6,8,5,M1R,Veh,,"7,8",7.5±0.5,40
+,9,5,M1R,M1R,+,,,
+7,10,5,B6R,Veh,,"6,8,9",7.7±0.9,60
+,11,4e,B6R,B6R,+,"7,8",7.5±0.5,50
+8,12,5,Combo,Veh,,"7,8",7.5±0.5,40
+,13,5,Combo,Combo,+,9,9.0,20

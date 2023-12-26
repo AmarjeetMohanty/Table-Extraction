@@ -1,0 +1,18 @@
+0,1,2,3
+,,,"Teixeira PJZ, Martins R, Silva R, Athanasio RA, Silva RM, Pereira MC"
+Chart 1. Pneumonia Severity Index scoring.,,,
+Demographic factors,Score,Laboratory and radiological findings,Score
+"Age, years",,pH < 7.35,+30
+Men,n,Urea > 65 mg/L,+20
+Women,n − 10,Sodium < 130 mEq/L,+20
+Nursing home residents,+10,Glucose > 250 mg/L,+10
+,,Hematocrit < 30%,+10
+,,PO2 < 60 mmHg,+10
+,,Pleural effusion,+10
+Comorbidities,,Physical examination,
+Neoplasia,+30,Altered mental status,+20
+Liver disease,+20,RR > 30 breaths/min,+20
+CHF,+10,SBP < 90 mmHg,+20
+Cerebrovascular disease,+10,Temperature < 35° or > 40°C,+15
+Kidney disease,+10,HR ≥ 125 bpm,+10
+,Adapted from Corrêa et al.(5) CHF: congestive heart failure; and SBP: systolic blood pressure.,,

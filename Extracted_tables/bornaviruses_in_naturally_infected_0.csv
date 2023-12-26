@@ -1,0 +1,40 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13
+,,,X protein (X),,,,,Phosphoprotein (P),,,,,
+,,Total,,Non-shared region,,Shared region,,Non-shared region,,Total,,Sequences compared,
+,,86 amino acid length,,18 amino acid length,,68 amino acid length,,133 amino acid length,,201 amino acid length,,Present study versus,
+Bornaviruses a,,,,,,,,,,,,,
+Worldwide,,,,,,,,,,,Present,GenBank®,
+distributed,"Id.
+(%) b",E value c,"Id.
+(%) b",E value c,"Id.
+(%) b",E value c,"Id.
+(%) b",E value c,"Id.
+(%) b",E value c,study,Accession nº,Hosts
+Avian,,,,,,,,,,,,,
+Psittaciform 1,74 - 95,4e−48 - 3e−32,81 - 100,5e−17 - 2e−12,91 - 99,2e−43 - 8e−21,50 - 82,4e−53 - 3e−08,92 - 98,1e−40 - 9e−20,B240818,KU748814.1; MK192982.1;,Parrot
+orthobornavirus,75 - 100,6e−62 - 1e−35,81 - 100,5e−17 - 2e−12,94 - 99,1e−40 - 1e−19,42 - 87,2e−60 - 1e−10,89 - 93,6e−122 - 2e−109,B261018,JX065204.2; EU781967.1;,
+,,,,,,,,,,,,FJ620690.1; JX065207.1;,
+,,,,,,,,,,,,GU249595.2; JX065210.2;,
+,,,,,,,,,,,,FJ169440.1; NC_030689.1,
+Psittaciform 2,51 - 53,1e−25 - 1e−24,81,2e−13,69 - 77,5e−20 - 2e−20,38 - 41,2e−04,72,4e−19 - 2e−18,B240818,AB519144.1; KT378600.1,Parrot
+orthobornavirus,53,1e−26 - 1e−26,81,2e−13,74,1e−19 - 2e−19,55 - 60,1e−0.7 - 1e0.3,64,7e−74 -1e−72,B261018,,
+Passeriform 1,51 - 58,1e−27 - 7e−23,75,2e−12,71 - 73,3e−21 - 1e−19,33 - 38,5e−05 - 1e−0.9,72 - 73,5e−19 - 3e−18,B240818,NC_030690.1; KC464471.1;,Canary
+orthobornavirus,53 - 57,1e−29 - 2e−25,75 - 81,2e−13 - 2e−12,73 - 75,2e−20 - 1e−18,30 - 33,5e−04 - 1e−2.8,63,1e−83 -7e−82,B261018,NC_027892.1; KC464478.1;,
+,,,,,,,,,,,,KC595273.2; NC_024296.1,
+Passeriform 2,64,2e−23,81,3e−12,73,4e−20,33,1e0.96,75,2e−19,B240818,KF680099.1,Estrildid
+orthobornavirus,63,1e−34,81,3e−12,76,2e−19,36,1e−5.1,65,2e−70,B261018,,
+Waterbird 1,56 - 57,2e−27 - 3e−26,75 - 81,2e−13 - 2e−12,64 - 69,3e−19 - 4e−18,33 - 37,2e−04 - 1e−1.1,67 - 72,2e−16 - 5e−16,B240818,KF578398.1; NC_029642.1;,Duck Goose
+orthobornavirus,55 - 56,7e−29 - 3e−28,75 - 81,2e−13 - 2e−12,69 - 75,9e−20 - 9e−18,44 - 45,1e−4.3 - 1e−0.8,63 - 65,2e−73 - 3e−72,B261018,NC_030691.1; KJ756399.2,
+Mammalian,,,,,,,,,,,,,
+Mammalian 1,45 - 50,6e−20 – 6e−07,75,2e−12 - 7e−11,61 - 64,9e−25 - 2e−23,34 - 38,1e−3.6- 1e3.85,62 - 65,5e−23 - 5e−22,B240818,AJ311522.1; NC_030692.1;,Horse
+orthobornavirus,46 - 49,2e−21 - 1e−20,75,2e−12 - 7e−11,65 - 67,6e−24 - 9e−23,37 - 44,1e−4.6 - 1e−0.4,56 - 58,1e−81 - 2e−80,B261018,AJ311524.1; U04608.1,
+Mammalian 2,49,9e−22,75,2e−12 - 1e−11,69,2e−20,36,2e−04,70,4e−18,B240818,KY488729.1; MF597762.1;,SquirrelHuman
+orthobornavirus,52,5e−24,75,2e−12 - 1e−11,74,5e−20,38,1e−01,63,1e−80,B261018,NC_030701.1; LN713681.1,
+Reptilian,,,,,,,,,,,,,
+Elapid 1,37,2e−05,53,1e−6.2 -1e−5.8,44,3e−11,41,e4.29,46,8e−09,B240818,KM114265.1; NC_024778.1,Snake
+orthobornavirus,37,5e−07,53,1e−6.2 - 1e−5.8,45,5e−09,41,e4.29,39,7e−41,B261018,,
+Queensland,*,—,*,—,83,1e2.1,63,1e1.1,41,1e1.6.,B240818,NC_039013.1,Snake
+carbovirus,*,—,*,—,83,1e2.2,*,—,45,1e1.5,B261018,,
+Southwest,36,1e1.6,*,—,36,1e1.3,36,1e−0.1,80,1e1.8,B240818,NC_039014.1,Snake
+carbovirus,36,1e1.5,*,—,36,1e1.2,55,1e0.9,50,1e0.4,B261018,,
+a Bornaviruses identification as established by the International Committee on Taxonomy of Viruses (ICTV) Bornaviridae Study Group.,,,,,,,,,,,,,

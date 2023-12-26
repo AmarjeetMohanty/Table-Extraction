@@ -1,0 +1,39 @@
+0,1,2
+,mean,p-value
+Gender,,"0,019"
+Male,"1,66",
+Female,"1,72",
+Agegroup,,"0,002"
+18-29,"1,66",
+30-44,"1,63",
+45-59,"1,73",
+60 +,"1,75",
+Children <12 in household,,"0,024"
+Yes,"1,64",
+No,"1,71",
+Ethnicity,,"0,256"
+Dutch,"1,68",
+Non-Dutch,"1,73",
+Education*,,<0.001
+Low,"1,84",
+Intermediate,"1,65",
+High,"1,62",
+Think flu,,<0.001
+Never,"1,46",
+Rarely,"1,62",
+Sometimes,"1,88",
+Often/All the time,"2,19",
+Knowledge score,,<0.001
+0,"1,80",
+1,"1,73",
+2,"1,72",
+3,"1,60",
+4,"1,53",
+Amount of info,,"0,886"
+Nothing/Little,"1,69",
+Some,"1,68",
+(very) much,"1,67",
+Vaccinated against influenza,,"0,001"
+Yes,"1,77",
+No,"1,67",
+"* Educational level is defined as: low: primary school, lower general secondary school, lower vocational school, or less; intermediate: high",,

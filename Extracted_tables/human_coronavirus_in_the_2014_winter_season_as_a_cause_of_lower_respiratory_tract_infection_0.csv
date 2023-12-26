@@ -1,0 +1,26 @@
+0,1,2,3,4
+"Table 3. Symptoms, Signs and Treatment among Patients Infected with HCoV",,,,
+,Coronavirus only,Coronavirus+RSV,Coronavirus+other,Coronavirus+RSV+other
+Virus composition,,,,
+,(n=22),(n=17),virus* (n=7),virus† (n=2)
+"Underlying disease, n (%)",12 (54.5),1 (5.9),3 (42.9),1 (50)
+"Signs and symptoms, n (%)",,,,
+Fever,21 (95.5),15 (88.2),4 (57.1),2 (100)
+Rash,1 (4.5),1 (5.9),0 (0),0 (0)
+Hypotension,0 (0),0 (0),0 (0),0 (0)
+Cough,16 (72.7),17 (100),6 (85.7),2 (100)
+Sputum,9 (40.9),8 (47.1),4 (57.1),0 (0)
+Rhinorrhea,11 (50),9 (52.9),3 (42.9),2 (100)
+Diarrhea,2 (9.1),1 (5.9),0 (0),0 (0)
+Vomiting,1 (4.5),1 (5.9),0 (0),0 (0)
+Wheezing,2 (9.1),9 (52.9),2 (28.6),1 (50)
+Chest retraction,1 (4.5),0 (0),0 (0),0 (0)
+"Chest X-ray, n (%)",,,,
+Normal,6 (27.3),0 (0),0 (0),0 (0)
+Abnormal,15 (68.2),17 (100),7 (100),2 (100)
+Not done,1 (4.5),0 (0),0 (0),0 (0)
+"Treatment, n (%)",,,,
+Antibiotic use,19 (86.4),17 (100),7 (100),2 (100)
+Nebulizer use,14 (63.6),17 (100),7 (100),2 (100)
+Steroid use,4 (18.2),11 (64.7),1 (14.3),1 (50)
+,"HCoV, human coronavirus; RSV, respiratory syncytial virus; PIV, parainfluenza virus.",,,

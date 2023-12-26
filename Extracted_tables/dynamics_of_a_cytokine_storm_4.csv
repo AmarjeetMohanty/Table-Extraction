@@ -1,0 +1,24 @@
+0,1,2,3,4,5,6,7,8,9
+Table 4. Cells That Secrete and are Regulated by the Measured Cytokines.,,,,,,,,,
+,Group A,,,Group B,,,,,Group C
+,TNF-a,IL1,IL10,IFN-c,IL2,IL4,IL8,IL12,IL6
+Innate System,,,,,,,,,
+Monocyte,S,S,S,R,R,,R,,"S, R"
+Macrophage,"S, R","S, R","S, R",R,,R,"S, R",S,S
+Dendritic Cell,"S, R",S,"S, R","S, R",S,R,S,S,
+Mast Cell,S,"S, R",S,S,S,S,"S, R",,S
+Neutrophil,"S, R","S, R",R,,,S,"S, R",S,"S, R"
+Eosinophil,S,"S, R",S,S,,"S, R",,S,S
+Basophil,S,"S, R",,R,,S,,,S
+NK,"S, R","S, R","S, R",S,"S, R","S, R",,R,
+Adaptive System,,,,,,,,,
+B,R,"S, R","S, R","S, R",R,"S, R",,"S, R","S, R"
+Th1,"S, R","S, R","S, R","S, R","S, R","S, R",,"S, R","S, R"
+Th2,"S, R","S, R","S, R","S, R","S, R","S, R",,"S, R","S, R"
+CTL,"S, R","S, R","S, R","S, R","S, R",S,,"S, R","S, R"
+Other,,,,,,,,,
+Fibroblast,"S, R","S, R",,R,,,S,,S
+Epithelial Cell,S,S,S,R,,,"S, R",,"S, R"
+Endothelial Cell,"S, R","S, R",,R,,,"S, R",,"S, R"
+Smooth Muscle,"S, R","S, R",,R,,S,S,,"S, R"
+Adipose Tissue,"S, R",S,,,,,,,"S, R"

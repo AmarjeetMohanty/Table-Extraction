@@ -1,0 +1,27 @@
+0,1,2,3,4,5,6,7
+,,,,,,Mol and Phy Analysis of 2013 Jiangxi PEDVs,
+,Table 4. Nucleotide and amino acid mutations in ORF 3 of CH/JX-1/2013 and CH/JX-2/2013 when compared to PEDV CV777.,,,,,,
+,,nucleotide change,,,,amino acid change,
+Position in ORF3 gene,CV777,CH/JX-1 /2013,CH/JX-2 /2013,Position in ORF3 protein,CV777,CH/JX-1 /2013,CH/JX-2 /2013
+54,G,A,A,,,,
+62,T,C,C,,,,
+63,C,T,T,21,V,A,A
+160,G,A,A,,,,
+162,T,C,C,54,V,L,L
+235,G,A,A,,,,
+237,C,T,T,79,V,L,L
+238,T,G,G,80,F,V,V
+243,C,T,T,,,,
+264,C,T,T,,,,
+274,C,T,T,92,L,F,F
+301,G,A,A,101,A,T,T
+369,C,T,T,,,,
+360,T,C,C,,,,
+393,T,C,C,,,,
+439,C,T,T,,,,
+450,C,T,T,,,,
+489,C,T,T,,,,
+537,T,C,C,179,N,S,S
+546,T,G,G,182,Ha,Q,Q
+,a Bold letters indicate the amino acids with changed charge.,,,,,,
+doi:10.1371/journal.pone.0120310.t004,,,,,,,

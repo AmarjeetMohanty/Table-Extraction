@@ -1,0 +1,11 @@
+0,1,2,3,4
+,aa % identity,aa % identity,aa % identity,aa % Identity
+Domain,to IBV,to TCoV,to DCoV,to SW1
+ADP-ribose-1″-phosphatase,42,43,38,23
+3C-like Protease,56,58,57,49
+RdRp,80,80,83,69
+Helicase 1,89,90,92,78
+Exonuclease,78,72,77,56
+Endoribonuclease,53,53,54,41
+Ribose-2′-O methyltransferase,74,77,76,65
+Average,67,68,68,54

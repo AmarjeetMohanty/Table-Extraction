@@ -1,0 +1,27 @@
+0,1,2,3,4,5,6,7,8
+,Table 1. Clinical scoring and outcome of NiV-infected ferrets from m102.4 efficacy trial.,,,,,,,
+DPI,Ferret,Fever,Depression,Play Activity,Grooming,Inappetance,Additional symptoms,Total weight loss
+6,22-con,+,+,x,x,2,,
+,25-con,+,+,x,x,+,,
+,23-pre,+,2,-,-,2,,
+8,22-con,+,+,xxx,x,2,-diarrhea,8.7%
+,25-con,+,+,xxx,x,+,-blood in mouth,12.3%
+,23-pre,+,+/2,x,x,+/2,-shivering,
+,24-pre,+,2,-,-,2,,
+,21-pre,2,2,-,-,2,,
+,26-post,+,2,x/-,-,2,,
+,27-post,+,+/2,x,-,2,-diarrhea,
+,28-post,+,+/2,x,-,2,,
+10,23-pre,+,+/2,x/-,x,+,"-sneezing, weeping eye, diarrhea",
+,24-pre,+,+,x,-,+,-nasal discharge,
+,21-pre,2,2,-,-,2,,
+,26-post,+,2,x/-,-,2,,
+,27-post,2,+,-,-,2,-sneezing,
+,28-post,2,2,-,-,2,,
+13,23-pre,+,+,x/-,-,+,"-diarrhea, crusting nasal discharge,",16.6%
+,,,,,,,"tremors, hind limb paralysis",
+,24-pre,+,+,xxx,-,+,"-diarrhea, crusting nasal discharge",4.7%
+,21-pre,2,2,-,-,2,,
+,26-post,2,2,-,-,2,,
+,27-post,2,2,-,-,2,,
+,28-post,2,2,-,-,2,,

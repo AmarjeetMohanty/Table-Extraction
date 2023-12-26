@@ -1,0 +1,42 @@
+0,1,2,3,4,5,6,7
+,,,Table 1. List of antiviral peptides.,,,,
+,,,The Peptides Inhibiting Virus Attachment and Virus-Cell Membrane Fusion,,,,
+Peptide,Inﬂuenza Serotype,Sequence,Conformation,Net Charge *,Hydrophobic Residue *,IC50,Reference
+EB peptide,Broad spectrum,RRKKAAVALLPAVLLALLAP,linear,4,70,3 to 20 µM,[37]
+Derived EB peptide,Broad spectrum,RRKKLAVLLALLA,linear,4,69,3.5 µM,[38]
+P1,H9N2,NDFRSKT,linear,1,14,48 µM,[39]
+P1 cyclic,H9N3,CNDFRSKTC,cyclic,1,33,71 µM,[39]
+FluPep 1,H1N1,WLVFFVIFYFFR,α-helix,1,83,0.093 µM,[40]
+FluPep 2,H1N1,WLVFFVIAYFAR,α-helix,1,83,0.0009 µM,[40]
+FluPep 3,H1N1,WLVFFVIFYFFRRRKK,α-helix,5,62,0.00003 µM,[40]
+FluPep 4,H1N1,RRKKWLVFFVIFYFFR,α-helix,5,62,0.00004 µM,[40]
+FluPep 7,H1N1,RRKKIFYFFR,α-helix,5,40,0.15 µM,[40]
+FluPep 8,H1N1,WLVFFVRRKK,α-helix,4,60,0.63 µM,[40]
+FluPep 9,H1N1,FFVIFYRRKK,α-helix,4,50,1.48 µM,[40]
+C18-s2,"H1N1, H3N2",C17H35CO-ARLPRTMVHPKPAQP-NH2,-,3,33,11–15 µM,[41]
+Pal L1,H5N1,C16-ARLPRTMVHPKPAQP,micelle,3,33,-,[42]
+Pal M1,H5N1,C16-ARLPRTMV,micelle,2,50,-,[42]
+Pal S1,H5N1,C16-ARLPR,micelle,2,40,-,[42]
+Fluﬁrvitide,Broad spectrum,-,-,-,-,-,[43]
+PEP 19-2.5,"H7N7, H3N2, H1N1",GCKKYRRFRWKFKGKFWFWG,α-helix,8,40,-,[44]
+PEP 19-4,"H7N7, H3N2, H1N1",GKKYRRFRWKFKGKWFWFG,α-helix,8,36,-,[44]
+PEP 19-8D,"H7N7, H3N2, H1N1",GFWFKGKWRFKKYRGGRYKKFRWKGKFWFG,α-helix,12,33,-,[44]
+PEP 19-CP,"H7N7, H3N2, H1N1",SSNKSTTGSGETTTA,α-helix,0,6,-,[44]
+Defensins,"H1N1, H3N2",ACYCRIPACIAGERRYGTCIYQGRLWAFCC,β-sheet,3,53,-,[45]
+,,,The Peptides Disrupting Viral Envelope,,,,
+Peptide,Inﬂuenza Serotype,Sequence,Conformation,Net Charge *,Hydrophobic Residue *,IC50,Reference
+LF C-lobe peptide 1,"H1H1, H3N2",SKHSSLDCVLRP,α-helix,1,33,4–6 pM,[46]
+LF C-lobe peptide 2,"H1H1, H3N2",AGDDQGLDKCVPNSKEK,α-helix,´1,23,4–7 pM,[46]
+LF C-lobe peptide 3,"H1H1, H3N2",NGESSADWAKN,α-helix,´1,27,22–225 pM,[46]
+Mucroporin-M1,"H5N1, H1N1",LFRLIKSLIKRLVSAFK,α-helix,5,58,1.03 µM,[47]
+LL-37,"H1N1, H3N2",LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES,α-helix,6,35,-,[48]
+,,,The Peptides Inhibiting Viral Replication,,,,
+Peptide,Inﬂuenza Serotype,Sequence,Conformation,Net Charge*,Hydrophobic Residue*,IC50,Reference
+PB11´25,Broad spectrum,MDVNPTLLFLKVPAQNAISTTFPYT,α-helix,0,44,-,[49]
+PB21´37,"H1N1, H5N1",MERIKELRDLMSWSRTREILTKTTVDHMAIIKKYTSG,α-helix,3,35,375 nM,[50]
+PB1731´´757,H5N1,ESGRIKKEEFAEIMKICSTIEELGRQK,α-helix,0,33,-,[51]
+PB11´´25AT6Y,"H1N1, H5N1",MDVNPYLLFLKVPAQ,α-helix,0,53,22–107 nM,[52]
+Killer peptide,H7N1,AKVTMTCSAS,α-helix,1,50,2.6 µM,[53]
+HNP-1,H3N2,CYCRIPACIAGERRYGTCIYQGRLWAFCC,β-sheet,3,51,-,[54]
+Peptid 6,"H1N1, H3N2",CATCEQIADSQHRSHRQMV,Zn-ﬁnger,0,36,0.7 nM,"[55,56]"
+,,,* Calculated by APD2: Antimicrobial Peptide Calculator and Predictor.,,,,

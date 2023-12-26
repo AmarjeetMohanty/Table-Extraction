@@ -1,0 +1,37 @@
+0,1,2,3,4,5,6
+,Table 1  Comparison of absolute quantities of DENV1 and GAPDH used for calculation of purification factor,,,,,
+Treatment group,Primer,<Cq>,,Copies/µL,Total no. of copies,Purification factor (fold)
+Pre‑capture,DENV1,10.47,0.08,"5.50 
+ 108","8.25 
+ 109","5.61 
+ 102"
+,,,±,×,×,×
+,GAPDH,14.75,0.1,"2.52 
+ 107","3.78 
+ 108",
+,,,±,×,×,
+Post‑capture,DENV1,17.14,0.09,"1.92 
+ 107","5.77 
+ 108",
+,,,±,×,×,
+,GAPDH,29.63,0.1,"1.57 
+ 103","4.72 
+ 104",
+,,,±,×,×,
+Pre‑capture,DENV1,12.13,0.1,"2.39 
+ 108","3.58 
+ 109","7.91 
+ 102"
+,,,±,×,×,×
+,GAPDH,17.04,0.4,"5.70 
+ 106","8.55 
+ 107",
+,,,±,×,×,
+Post‑capture,DENV1,15.31,0.1,"4.83 
+ 107","1.45 
+ 109",
+,,,±,×,×,
+,GAPDH,29.75,0.07,"1.46 
+ 103","4.37 
+ 104",
+,,,±,×,×,

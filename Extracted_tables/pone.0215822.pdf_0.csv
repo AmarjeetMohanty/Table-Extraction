@@ -1,0 +1,27 @@
+0,1,2,3,4,5
+Table 2. Nucleotide and amino acid changes of HMPV strains during isolation and passages in cell lines.,,,,,
+Patient #,Virus Strain,,Nucleotide and amino acid substitutions in each viral gene and protein�,,
+,,F,M2,SH,G
+1,hMPV/Sendai/0256/2015,none,none,none,none
+2,hMPV/Sendai/0587/2014,none,none,"TT92,93CC (L31P)",T32C (I11T)
+,,,,T102C (-),T54C (-)
+,,,,T269C (I90T),T82C (F28L)
+,,,,T309C (-),"TT97,98CC (L33P)"
+,,,,T314C (-),T113C (I38T)
+,,,,T341C (I114T),T117C (-)
+,,,,T365C (I122T),T134C (L45P)
+,,,,"TT379,380CC (F127P)",T142C (Y48H)
+,,,,T420C (-),T146C (L49P)
+,,,,T428C (L143P),T157C (Y53H)
+,,,,T465C (-),T198C (-)
+,,,,T482C (V161A),T324C (-)
+,,,,T526C (Y176H),T329C (V110A)
+,,,,T533C (I178T),C579T (-)
+,,,,T537C (-),
+,,,,T549C (-),
+3,hMPV/Sendai/0434/2015,none,C39T (−),none,none
+4,hMPV/Sendai/0517/2015,T953C (−),none,none,none
+5,hMPV/Sendai/0162/2014,A16G (−),T683C(F228S),"TT92,93CC (L31P)",C470T (A157V)
+,,A278T (E93V),T702C (−),T95C (I32T),
+,,,,T137C (V46A),
+,,,,T472C (Y158H),

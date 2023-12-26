@@ -1,0 +1,19 @@
+0,1,2,3,4,5
+Dovepress,,,,in silico epitope-based peptide vaccine design,
+Threshold =1.041,,,,,
+1.6,,Table 5 Bepipred linear epitope prediction,,,
+1.4,Number,Start,End,Peptide,Peptide
+,,position,position,,length
+1.2,,,,,
+,1,10,13,glKs,4
+1,,,,,
+,2,23,35,TgsDVncngYQhn,13
+"Score
+0.8",,,,,
+,3,50,50,n,1
+0.6,,,,,
+,4,52,54,VDn,3
+0.4,5,76,81,sssgVl,6
+,6,85,93,iPFgPssQP,9
+0.2,,,,,
+0,,,,,

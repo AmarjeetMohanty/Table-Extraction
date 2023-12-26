@@ -1,0 +1,46 @@
+0,1,2,3,4,5,6
+Table 1 continued,,,,,,
+US trade name (Generic,Company,Approval date,"Molecular
+target***","Major
+indication",Protein format,Source of variable
+name),,(US)**,,(s),,sequences**
+17. Raptiva®,Genentech,10/27/03;,ITGAL (CD11A),Psoriasis,Humanized IgG1,Mouse hybridoma
+(Efalizumab),,withdrawn,,,,
+,,2009,,,,
+18. Erbitux® (Cetuximab),ImClone/BMS,02/12/04,EGFR,CRC,Chimeric IgG1,Mouse hybridoma
+19. Avastin®,Genentech,02/26/04,VEGFA,CRC,Humanized IgG1,Mouse hybridoma
+(Bevacizumab),,,,,,
+20. Tysabri®,Biogen/Elan,11/23/04,ITGA4 (α4 integrin),MS,Humanized IgG4,Hybridoma
+(Natalizumab),,,,,,
+21. Orencia®,BMS,12/23/05,CD80/CD86,RA,CTLA4-Fc fusion,Fc fusion
+(Abatacept),,,,,,
+22. Lucentis®,Genentech Novartis,06/30/06,VEGFA,Wet AMD,Humanized Fab fragment,Hybridoma
+(Ranibizumab),,,,,,
+23. Vectibix®,Amgen,09/27/06,EGFR,Colorectal,Human IgG2,TG Xenomouse
+(Panitumumab),,,,cancer,,
+24. Soliris® (Eculizumab),Alexion Pharma,03/16/07,C5,PNH,Humanized hybrid,Mouse hybridoma
+,,,,,engineered IgG2/4,
+25. Arcalyst®,Regeneron,02/27/08,"IL1A (IL-1α),
+IL1B (IL-","CAPS, MWS",IL-1R & IL-1AP-in-line Fc,Fc fusion
+(Rilonacept),,,"1β),
+IL1RN (IL-1RA)",,fusion,
+26. Nplate®,Amgen,08/22/08,MPL (TPO-R),Thrombo-,Fc-peptide fusion,Peptide phage
+(Romiplostim),,,,cytopenia,(“peptibody”),library
+27. Simponi®,Centocor/J&J,04/23/09,TNF (TNF-α),RA,Human IgG1,HuMAb TG mouse
+(Golimumab),,,,,,
+28. Stelara®,Centocor/J&J,09/25/09,IL12B (p40 subunit of,Psoriasis,Human IgG1,HuMAb TG mouse
+(Ustikinumab),,,IL-12 and IL-23),,,
+29. Removab®,Fresenius/Trion,EU only 4/23/09;,"EPCAM, CD3E",Malignant,"Rat
+IgG2b-mouse IgG2a",Mouse and rat
+(Catumaxomab),,withdrawn 2017,,ascites,hybrid bispeciﬁc IgG,hybridomas
+30. Cimzia®,UCB/Schwartz,05/14/09,TNF (TNF-α),RA,PEGylated humanized FAb,Mouse hybridoma
+(Certolizumab pegol),,,,,fragment,
+"31.
+Ilaris®",Novartis,06/19/09,IL1B (IL-1β),CAPS,Human IgG1,HuMAb TG mouse
+(Canakinumab),,,,,,
+32. Arzerra®,GenMab/Novartis#,10/26/09,MS4A1 (CD20),CLL,Human IgG1,HuMAb TG mouse
+(Ofatumumab),,,,,,
+30. Actemra®,Roche/Chugai/,01/09/10,IL6R (CD126),MCD; RA,Humanized IgG1,Hybridoma
+(Tocilizumab),Genentech,,,,,
+31 Prolia®/Xgeva®,Amgen/GSK,06/01/10,TNFSF11 (RANK-,"Osteoporosis,",Human IgG2,TG Xenomouse
+(Denosumab),,,ligand),Bone cancer,,

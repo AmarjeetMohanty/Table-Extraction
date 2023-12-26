@@ -1,0 +1,12 @@
+0,1,2,3,4,5,6
+Table 2. Pan-genotypic antiviral activity of AT-511 in a panel of replicons containing HCV constructs from clinical isolates.,,,,,,
+Genotype,,EC50 (nM),,,EC95 (nM),
+,AT-511,SOF,SOF/AT-511,AT-511,SOF,SOF/AT511
+1a,10.5,62.7,6.0,60.8,508,8.4
+1b,10.6,86.0,8.1,72.3,642,8.9
+2a,6.2,22.5,3.7,45.4,195,4.3
+2b,6.3,44.8,7.0,32.5,295,9.1
+3a-1,11.8,126,10.7,59.3,690,11.6
+3a-2,10.4,123,11.8,56.5,808,14.3
+4a,9.9,74.9,7.6,74.4,681,9.2
+4d,14.0,93.7,6.7,79.9,1020,12.8

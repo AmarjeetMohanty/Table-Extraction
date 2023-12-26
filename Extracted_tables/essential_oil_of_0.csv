@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6,7,8
+MBC values.,,,,,,,,
+,Essential oil,,,"1,8‑cineole",,Grandisol,,Ciprofloxacin
+,(µg/ml),,,(µg/ml),,(µg/ml),,(µg/ml)
+Bacterial strain,----------------------------------,,----------------------------------,,----------------------------------,,,---------------------------------
+(cat. no.),MIC,MBC,MIC,MBC,MIC,MBC,MIC,MBC
+"S
+treptococcus pyogenes",20,>20,132,>132,130,>130,0.8,>2
+(ATCC-12344),,,,,,,,
+Methicillin-resistant,65,>65,200,>200,178,>178,1.2,>2.7
+Staphylococcus aureus,,,,,,,,
+(ATCC-43300),,,,,,,,
+Streptococcus pneumoniae,32,>32,166,>166,132,>132,0.6,>1.6
+(ATCC-2730),,,,,,,,
+Klebsiella pneumoniae,80,>80,132,>132,144,>144,0.9,2
+(ATCC-27853),,,,,,,,
+Haemophilus influenzae,26,>26,144,>144,130,>130,1.0,2.3
+(ATCC-33391),,,,,,,,

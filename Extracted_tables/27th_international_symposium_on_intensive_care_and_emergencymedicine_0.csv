@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6,7
+Table 2 (abstract P120),,,,,,,
+,Relevant Spearman correlations between the parameters,,,,,,
+A,B,R,P,A,B,R,P
+TNF,Adipo,–0.59,0.000,TNF,Mortality,0.25,0.060
+Adipo,InsAd,–0.46,0.005,∆Adipo,LOS,0.45,0.004
+TNF,TG,0.74,0.000,IL-6 D/C,Gluc D/C,0.34,0.042
+Adipo,TG,–0.41,0.001,BMI,Gluc D0,0.39,0.012
+TNF,Cortisol,–0.73,0.000,BMI,InsAd D0,0.31,0.053
+Adipo,Cortisol,0.51,0.000,Adipo D/C,Age,–0.35,0.030
+,,,,Age,InsAd D/C,0.35,0.032

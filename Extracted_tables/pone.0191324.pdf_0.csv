@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6
+,,,,,,Time-series modeling for ARI surveillance
+Table 1. Characteristics of the background time series.,,,,,,
+Origin,,Weekdays,,,Weekends,
+,Mean,,Standard Deviation,Mean,,Standard Deviation
+s17,182.95,,128.12,184.92,,126.56
+s33,34.09,,8.53,33.75,,8.61
+CDA1,29.41,,13.36,6.28,,3.45
+CDA2,6.99,,5.38,2.05,,2.04
+CDA3,0.70,,0.88,0.68,,0.98
+https://doi.org/10.1371/journal.pone.0191324.t001,,,,,,

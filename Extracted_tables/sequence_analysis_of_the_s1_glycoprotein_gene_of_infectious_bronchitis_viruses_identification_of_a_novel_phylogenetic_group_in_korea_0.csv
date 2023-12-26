@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6
+,,,,,,GenBank
+,,Organs*used for virus,,Age of IB outbreak,PCR-RFLP patterns,
+IBV   isolates,,,Chicken type†,,,accession
+,,isolation,,(days),,
+,,,,,,numbers
+1.,K434-01,CT,,28,Arkansas,AY790368
+2.,K748-01,,,37,KM91‡,AY790359
+3.,K058-02,,B B B B B B,70,KM91,AY790360
+4.,K044-02,,,60,KM91,AY790358
+5.,K117-02,K T K T T K C,,70,KM91,AY790362
+6.,K234-02,,,16,KM91,AY790361
+7.,K545-02,,BB,14,Variant,AY790366
+8.,K514-03,,BB,14,KM91,AY790365
+9.,K10217-03,T K C,BB,35,Variant,AY790363
+10.,K1255-03,,BB,14,Variant,AY790364
+11.,K3-3,T K C,B,-§,Variant,AY790367
+12.,K2-6,T,BB,-,Variant,AY790369

@@ -1,0 +1,12 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13
+,,,,,,,,Days with diarrhoea,,,,,
+,,,None,,,,,1 day,,,,>1 day,
+,,,,,,During day 1,,,During day 2-5,,,,
+Herd,n1,n,ADG,Dead (%),n,ADG,Dead (%),n,ADG,Dead (%),n,ADG,Dead (%)
+,,,"(mean, sd)",,,"(mean, sd)",,,"(mean, sd)",,,"(mean, sd)",
+1,207,49,186 (83),6,15,221 (90),27,49,158 (80),22,94,115 (74),27
+2,228,88,179 (65),6,48,194 (61),2,33,165 (60),6,59,169 (61),12
+3,202,106,185 (60),8,22,193 (74),5,43,167 (57),5,31,156 (72),6
+4,237,150,190 (62),2,30,190 (65),3,32,147 (61),6,25,158 (52),12
+In total,874,393,186 (65),5,115,196 (67),6,157,160 (65),11,209,145 (71),18
+1This number refers to the number of piglets at day 1 of the study. ADG has only been calculated for the ones surviving until day 10 of,,,,,,,,,,,,life (780 in total).,

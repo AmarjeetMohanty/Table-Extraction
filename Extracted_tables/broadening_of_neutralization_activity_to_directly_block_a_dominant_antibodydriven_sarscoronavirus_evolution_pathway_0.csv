@@ -1,0 +1,10 @@
+0,1,2,3,4,5,6,7,8
+Table 2. Amino acid differences in the RBD of spikes.,,,,,,,,
+,Representative,GenBank,,,,,,
+,,,,Amino acid position,,,,
+,strain name,Accession No.,,,,,,
+,,,344,360,472,479,480,487
+2002/2003 human outbreak,Tor2,AY274119,K,F,L,N,D,T
+2002/2003 Civet,SZ3,AY304486,R,S,L,K,D,S
+2003/2004 human outbreak,GD03,AY525636,R,S,P,N,G,S
+2003/2004 Civet,PC04,AY613951,R,S,P,R,G,S

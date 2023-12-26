@@ -1,0 +1,34 @@
+0,1,2,3
+,Total number of patients (n = 3938),,
+,With hyponatremia,Without hyponatremia,
+Variables,(n = 531),(n = 3407),P value
+Age (years),2.2 ± 1.7,1.9 ± 1.8,<0.0001
+Age (months),26.4 ± 20.8,22.3 ± 21.8,<0.0001
+Sex (M/F),321/210,"1,874/1,533",0.019
+Hospital stay (days),4.5 ± 1.5,4.3 ± 1.5,0.093
+Diagnosis,,,
+Upper respiratory infection,78 (14.6%),99(2.9%),<0.0001
+Acute bronchiolitis,70 (13.1%),654(19.1%),0.001
+Acute bronchitis,102 (19.2%),867(25.4%),0.002
+Interstitial pneumonia,266 (50.0%),1712(50.2%),0.947
+Segmental or lobar pneumonia,15 (2.8%),75(2.2%),0.371
+Laboratory findings at admission,,,
+WBC (/μL),"10,543.3 ± 4,769.6","10,192.0 ± 4,227.5",0.110
+CRP (mg/dL),2.8 ± 3.7,1.8 ± 2.7,<0.0001
+Na (mmol/L),133.2 ± 1.2,137.4 ± 1.7,<0.0001
+K (mmol/L),4.3 ± 0.6,4.4 ± 0.6,0.003
+Cl (mmol/L),100.8 ± 2.5,103.4 ± 2.4,<0.0001
+tCO2 (mmol/L),19.7 ± 3.1,21.2 ± 2.8,<0.0001
+Ca (mg/dL),9.2 ± 0.5,9.5 ± 0.5,<0.0001
+P (mg/dL),4.7 ± 1.0,5.1 ± 0.9,<0.0001
+ALP (IU/L),190.2 ± 176.8,191.4 ± 159.0,0.072
+AST (IU/L),46.7 ± 49.0,42.4 ± 31.0,0.050
+ALT (IU/L),24.5 ± 37.5,22.6 ± 33.9,0.258
+BUN (mg/dL),9.6 ± 3.7,8.7 ± 3.4,<0.0001
+Creatinine (mg/dL),0.339 ± 0.082,0.337 ± 0.080,0.618
+Laboratory findings at discharge,,,
+Na (mmol/L),136.9 ± 2.4,138.5 ± 2.1,<0.0001
+K (mmol/L),4.2 ± 0.6,4.5 ± 0.6,<0.0001
+Cl (mmol/L),103.2 ± 2.7,104.0 ± 2.5,0.007
+tCO2 (mmol/L),21.6 ± 2.7,22.2 ± 2.5,0.057
+Coinfection,93 (17.5%),418 (12.3%),0.001

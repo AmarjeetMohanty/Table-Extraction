@@ -1,0 +1,20 @@
+0,1,2,3,4,5,6
+Table 1 Ten-fold cross validation performance of predictive models on viral siRNA dataset of 1380 sequences (T1380),,,,,,
+,"using SVM, ANN, KNN and REP Tree machine learning techniques",,,,,
+,,,,Pearson correlation coefficient* on training (T1380) dataset#,,
+,,,,during 10-fold cross validation,,
+Predictive model no.,siRNA features,No. of siRNA features,,,,
+,,,SVM,ANN,KNN,REP Tree
+1,Mononucleotide frequency,4,0.19,0.10,0.11,0.10
+2,Dinucleotide frequency,16,0.32,0.29,0.29,0.29
+3,Trinucleotide frequency,64,0.42,0.28,0.30,0.28
+4,Tetranucleotide frequency,256,0.43,0.28,0.30,0.30
+5,Pentanucleotide frequency,1024,0.46,0.29,0.30,0.30
+6,Binary,76,0.19,0.10,0.11,0.11
+7,Thermodynamic features,21,0.26,0.22,0.21,0.20
+8,Secondary structure,28,0.07,0.04,0.04,0.04
+9,1 + 2 + 3 + 4 + 5,1364,0.48,0.30,0.31,0.31
+10,6 + 9,1440,0.50,0.36,0.41,0.32
+11,6 + 7 + 9,1461,0.55,0.46,0.48,0.45
+12,6 + 7 + 8 + 9,1489,0.53,0.42,0.44,0.42
+*Pearson Correlation Coefficient (PCC),,is the correlation between experimental and predicted viral siRNA efficacy.,,,,

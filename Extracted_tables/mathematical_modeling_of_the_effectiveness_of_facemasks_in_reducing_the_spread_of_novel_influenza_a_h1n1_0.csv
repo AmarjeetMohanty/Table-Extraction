@@ -1,0 +1,8 @@
+0,1,2,3,4
+,"Table 5. Effective Reproduction Number, <con: N95 Respirator.",,,
+Respirator Effectiveness,,,"Effective Reproduction Number, <con",
+Susceptible (gsgsgsgs),Infectious (gigigigi),10%,25%,50%
+"gs~0,",gi~0,1.83,1.83,1.83
+"gs~0:2,",gi~0:2,1.66,1.6,1.56
+"gs~0:2,",gi~0:5,1.4,1.26,1.16
+"gs~0:5,",gi~0:5,1.4,1.26,1.16

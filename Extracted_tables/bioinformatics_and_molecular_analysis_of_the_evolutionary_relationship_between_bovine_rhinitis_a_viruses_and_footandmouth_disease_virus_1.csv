@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+Table 4. detection of potential recombination events among bovine rhinitis viruses using orf only.,,,,,,,,,,,,,,
+RENo.,,BREAkPoINT PoSITIoNS IN RECoMBINANT SEqUENCE,,,,,DETECTIoN METhoD,,,,,,,
+,BEgIN,END,RECoMBINANT,MINoR PARENT,MAjoR PARENT,RDP,gENECoNV,BooTSCAN,MAxChI,ChIMAERA,SISSCAN,,PhYLPRo LARD,3SEq
+,,,SEq (S),SEq (S),SEq (S),,,,,,,,,
+1,270,2930,BraV Bsri4,BraV 140032-1,BraV sd-1,1.19E-48,6.66E-39,6.22E-58,4.26E-38,8.94E-33,9.16E-51,ns,ns,2.32E-74
+2,6422,2963,BrBV Bsri1,BrBV 140032-2,BrBV Ec-11,4.09E-28,1.36E-38,1.63E-35,1.15E-09,2.19E-15,2.86E-32,ns,ns,1.35E-11
+3,2962,704,BraV rs3X,BraV_sd-1,BraV,5.11E-15,ns,6.50E-09,4.18E-14,9.34E-17,1.33E-36,ns,ns,ns
+,,,,,140032-1 BraV h-1,,,,,,,,,
+4,542,6289,BrBV 140032-2,Unknown,BrBV Ec-11,1.32E-14,ns,3.62E-14,3.30E-11,1.48E-05,9.78E-05,ns,ns,ns
+,,,,BrBV Bsri3,,,,,,,,,,
+5,3415,2963*,BrBV Bsri1,BrBV Ec-11,BrBV 140032-2,3.68E-09,3.23E-04,ns,3.60E-09 ns,,3.33E-06,ns,ns,3.30E-05
+6,3069,2899,BrBV Bsri3,Unknown,BrBV_140032-2,3.16E-07,ns,ns,2.18E-07,1.19E-03,ns,ns,ns,ns
+,,,,BraV sd-1,,,,,,,,,,
+,,,,Unknown,,,,,,,,,,
+,,,,BraV 140032-1,,,,,,,,,,
+7,138,6407,BrBV Bsri1,BrBV_Bsri3,BrBV_Ec-11,3.24E-02,ns,ns,ns,ns,ns,ns,ns,ns

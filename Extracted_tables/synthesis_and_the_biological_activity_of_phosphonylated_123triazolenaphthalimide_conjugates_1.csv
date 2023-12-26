@@ -1,0 +1,32 @@
+0,1,2,3,4,5
+Table 1. The antiviral activity and cytotoxicity against varicella-zoster virus (VZV) in HEL cell cultures.,,,,,
+,Antiviral Activity EC50 (µM) a,,,Cytotoxicity (µM),
+Compound,,,,,
+,TK+ VZV Strain,TK− VZV Strain,Cell Morphology (MCC) b,,Cell Growth (CC50) c
+11,48.9,>100,100,,n.d.
+14c,>100,64.47,>100,,n.d.
+14d,86.39,56.66,>100,,n.d.
+14e,69.93,>100,>100,,n.d.
+14h,>100,74.63,>100,,n.d.
+15b,34.2,38.07,>100,,n.d.
+15d,40.44,37.54,100,,n.d.
+15f,86.39,>100,>100,,n.d.
+15h,37.14,70.83,>100,,n.d.
+16a,39.11,64.47,>100,,n.d.
+16b,>100,27.59,100,,n.d.
+16c,32.82,47.82,>100,,n.d.
+16d,29.91,53.85,>100,,n.d.
+16e,83.63,>100,>100,,n.d.
+16f,56.66,91.45,>100,,n.d.
+16g,50.17,>100,>100,,n.d.
+16h,40.9,64.47,>100,,n.d.
+,5.36,7.82,20,,1.15
+Amonaﬁde,,,,,
+,3.18,6.48,20,,3.25
+,1.51,47.51,>440,,>440
+Acyclovir,,,,,
+,1.15,29.35,>440,,>440
+,0.013,24.95,>300,,>300
+Brivudin,,,,,
+,0.0078,13.72,>300,,>300
+,a Effective concentration required to reduce virus plaque formation by 50%. Virus input was 100 plaque forming,,,,

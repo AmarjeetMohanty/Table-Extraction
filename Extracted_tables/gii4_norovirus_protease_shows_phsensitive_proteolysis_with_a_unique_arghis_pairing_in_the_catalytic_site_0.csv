@@ -1,0 +1,32 @@
+0,1,2
+Human GII.4 Norovirus Protease Structure,,
+,TABLE 1 Data processing and reﬁnement statistics for HOV protease,
+Parameter,,Value(s)a
+Data collection,,
+Wavelength (Å),,1.0
+Resolution range (Å),,50.0–2.70 (2.75–2.70)
+Space group,,P212121
+Unit cell,,
+"a, b, c (Å)",,"56.76, 91.01, 141.57"
+"(cid:3)
+, (cid:2), (cid:4) (°)",,"90, 90, 90"
+"No. of
+reﬂections",,"18,302"
+Redundancy,,6.0 (5.7)
+Completeness (%),,99.8 (99.5)
+"Wilson B factor
+(Å2)",,40.14
+Rmerge (%),,8 (107.6)
+Reﬁnement,,
+Rwork (%),,20.8
+Rfree (%),,24.7
+No. of atoms,,"10,484"
+RMS bonds (Å),,0.01
+RMS angles (°),,1.05
+Ramachandran,,
+Outliers (%),,0
+Allowed,,1.74
+Favored,,98.26
+"B factor
+(Å2)",,53.69
+aValues in parentheses refer,to the highest-resolution shell.,

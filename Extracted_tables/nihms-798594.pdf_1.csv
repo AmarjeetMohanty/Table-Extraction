@@ -1,0 +1,16 @@
+0,1,2,3,4,5
+"Results of the factorial design experiment used to study the effects of pressure, concentration and flow rate of",,,,,
+,polymer solution on PLA particle mean diameters and DCM residual levels [73].,,,,
+Assay,Pressure,Concentration of,Flow rate of polymer,Mean diameter,Residual DCM
+,(MPa),polymer solution (%),solution (mL/min),(μm),(ppm)
+A1,8,0.5,0.5,6 ± 1,790
+A2,8,0.5,2.5,21 ± 1,"1,130"
+A3,16,0.5,0.5,5 ± 0,"1,280"
+A4,16,0.5,2.5,18 ± 0,"6,490"
+A5,8,1.5,0.5,7 ± 0,<600
+A6,8,1.5,2.5,12 ± 0,"5,980"
+A7,16,1.5,0.5,7 ± 0,"2,040"
+A8,16,1.5,2.5,11 ± 0,"2,630"
+A9,12,1.0,1.5,10 ± 0,"3,400"
+A10,12,1.0,1.5,6 ± 0,"4,160"
+A11,12,1.0,1.5,9 ± 0,"4,670"

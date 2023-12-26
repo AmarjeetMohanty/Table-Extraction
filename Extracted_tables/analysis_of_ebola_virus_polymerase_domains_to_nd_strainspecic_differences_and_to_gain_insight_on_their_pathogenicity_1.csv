@@ -1,0 +1,41 @@
+0,1,2,3,4
+246,,,,"S. Patel, S. Patel"
+Table 2 Domain distribution in the analyzed Ebola isolates,,,,
+No. of,Domains,,No. of,Missing in isolates
+isolates,,,domains,
+15,"WH2, TBC, SNc, SMI1_KNR4, RICTOR_V, PX, Pfam:FtsJ, MBD,",IGR,9,–
+14,YARHG,,11,1 Sudan
+,WH1,,,1 Sudan
+,RICTOR_M,,,1 Sudan
+,Pro-kuma_activ,,,1 Sudan
+,MYSc,,,1 Reston (Q91DD4)
+,IENR1,,,1 Sudan
+,"Zpr1, HTH_ASNC, FABD, DDHD, DALR_2",,,–
+13,WSN,,6,1 Zaire and 1 reston
+,,,,isolate
+,VWC,,,2 Reston isolates
+,"Telomerase_RBD, RasGAP, PA2c, MIT",,,–
+12,,"YqgFc, TLC, STI1, RUN, RL11, RAP, R3H, PI3Ka, PhBP, MGS, Lipid_DES, LIM,",24,–
+,,"LamG, HhH1, HALZ, Grip, Glyco_10, Elp3, DEP, Cyclin_C, Citrate_ly_lig, CAT,",,
+,Brr6_like_C_C,,,
+,B41,,,1 Sudan and 2 Reston
+,,,,isolates
+11,Y1_Tnp,,5,"1 Zaire, 1 Sudan and 2"
+,,,,Reston isolates
+,LIGANc,,,–
+,IBN_N,,,–
+,HOX,,,"1 Zaire, 1 Sudan and 2"
+,,,,Reston isolates
+,HOLI,,,"1 Zaire, 1 Sudan and 2"
+,,,,Reston isolates
+10,PLCYc,,2,"2 Zaire, 1 Sudan and 2"
+,,,,Reston isolates
+,CPDc,,,–
+9,Hr1,,3,"3 Zaire, 1 Sudan and 2"
+,,,,Reston isolates
+,H4,,,4 Zaire and 2 Reston
+,,,,isolates
+,GGDEF,,,"3 Zaire, 1 Sudan and 2"
+,,,,Reston isolates
+8,LPD_N,,1,"4 Zaire, 1 Sudan and 2"
+,,,,Reston isolates

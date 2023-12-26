@@ -1,0 +1,14 @@
+0,1,2,3
+,,,Prediction of Respiratory Virus Regulators
+Table 1. SARS genes whose topology is significantly altered by proteome data integration.,,,
+Symbol,Uniprot ID,Entrez ID,Reference to involvement in SARS/virus infection
+STAT1,STAT1_HUMAN,6772,[64]
+B2M,B2MG_HUMAN,567,[65]
+HSPA1A,HSP71_HUMAN,3303,[66]
+MIF,MIF_HUMAN,4282,[67]
+WARS,SYWC_HUMAN,7453,
+Annexin A4,ANXA4_HUMAN,307,[68]
+HIST1H1E,H14_HUMAN,3008,
+DNAJB1,DNAJB1_HUMAN,3337,[69]
+KRT23,K1C23_HUMAN,25984,
+doi:10.1371/journal.pone.0069374.t001,,,

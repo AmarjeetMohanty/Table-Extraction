@@ -1,0 +1,21 @@
+0,1,2,3,4
+"Klaile et al. Respiratory Research 2013, 14:85",,,,Page 11 of 17
+http://respiratory-research.com/content/14/1/85,,,,
+A C,EACAM1,"actin
+nuclei",merge,
+,CEACAM5,"actin
+nuclei",merge,
+,CEACAM6,"actin
+nuclei",merge,
+B,,,,
+,CEACAM1,,,
+,,untreated,poly(I:C),
+Count,,109,201,
+,PE (log),,,
+,IFN,IFN,IFN,
+,225,256,283,
+C,,,,
+,CEACAM5,untreated,IFN,
+Count,,58,126,
+,PE (log),,,
+Figure 4 (See legend on next page.),,,,

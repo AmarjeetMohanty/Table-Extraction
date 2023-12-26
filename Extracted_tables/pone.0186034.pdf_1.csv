@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6,7,8
+,,exists in solution as a coiled-coil dimer. We changed up to three consecutive residues in the,,,,,,
+,,dimer interface but failed to convert FLASH into monomers. The dimer interface of the,,,,,,
+Table 3. Summary of analytical ultracentrifugation data on FLASH NTD and Lsm11 NTD.,,,,,,,,
+Protein,Concentration (mg/,,Sedimentation coefficient,,Average frictional,Mr,Rs,Kd (μM)
+,mL),(s)a,,ratioa,,(kDa)b,(nm)b,
+FLASH NTD WT,1,,1.61,,1.81,23.4,3.3,0.18 ± 0.004c
+,0.3,,1.56,,1.79,21.7,3.2,
+,0.1,,"0.89, 1.77",,3.09,"20.9,","5.5, 8.3",
+,,,,,,62.9,,
+FLASH NTD C54S/C83A,1,,1.59,,1.86,23.7,3.4,0.05 ± 0.002c
+,0.3,,1.56,,1.79,21.8,3.2,
+,0.08,,1.64,,2.01,28.5,4.0,
+FLASH NTD C54S/C83A - Lsm11,8,,2.1 (2.08d),,1.64,25.4d,2.6,2.37 ± 0.02e
+NTD,,,3.2 (3.03d),,,49.7d,3.4,
+,1,,1.75,,1.72,24.9,3.3,
+,0.2,,1.37,,1.78,17.8,3.0,
+,0.05,,1.36,,1.99,20.7,3.5,
+Lsm11 NTD,0.8,,1.22,,1.81,15.9,3.0,-
+,0.2,,1.26,,1.68,15.3,2.8,
+,0.05,,1.33,,1.76,21.4,3.7,
+FLASH NTD C54S/C83A/N101A/,1,,1.63,,2.46,37.4,5.3,-
+L104A/N108A,,,,,,,,
+,0.2,,1.60,,2.46,35.9,5.2,
+,0.05,,1.71,,2.40,39.8,5.4,

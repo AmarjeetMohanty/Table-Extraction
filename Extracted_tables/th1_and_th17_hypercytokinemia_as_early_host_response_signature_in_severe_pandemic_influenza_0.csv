@@ -1,0 +1,37 @@
+0,1,2,3
+Table 1,,,
+Clinical and laboratory characteristics of the patients,,,
+,,"Hospitalized, critical illness(n = 10)","Hospitalized, non critical illness (n = 10)"
+,Pathological antecedents,,
+,Esquizophrenia,1/10,-
+,COPD,1/10,-
+,Diabetes,2/10,-
+,Asthma,-,2/10
+,COPD+HIV,-,1/10
+,Chronic disease conective tissue,-,1/10
+,Dyslipemia,1/10,-
+,Cardiopathy,1/10,-
+,Hypertension,1/10,-
+,Obesity (BMI>30),5/10,3/10
+,Descriptives,,
+,Age (yrs),41.8 (9.9),31.3 (10.9)
+,Sex (M/F),6/4,6/4
+,Days at hospital,29.5 (29.2),6.5 (2.8)
+,Days at ICU,26.6 (30.8),0 (0)
+,Severity scores,,
+,SOFA score,5.6 (2.9),-
+,APACHEII score,12.8 (4.2),-
+,Respiratory condition,,
+,Mechanical Ventilation,9/10,0/10
+,O2 saturation (%),83.3 (7.3),93.0 (5.1)
+,PaO2 (mmHg),54.1 (11.6),76.5 (24.3)
+,PaO2:FiO2,94.0 (89.9),252.5 (20.6)
+,Opacity in initial chest X-Ray,,
+,0/4 quadrants,0/10,4/10
+,1/4 quadrants,2/10,3/10
+,2/4 quadrants,3/10,3/10
+,3/4 quadrants,0/10,0/10
+,4/4 quadrants,5/10,0/10
+,Biochemistry,,
+,LDH (IU/liter),1634 (1226.0),475.1 (356.7)
+,CPK (IU/liter),588.5 (606.1),108.5 (132.1)

@@ -1,0 +1,14 @@
+0,1,2,3,4,5
+mined  by  QPCR.  The  housekeeping  genes  investigated,,,,greater  differences  were  detected  compared  to  the  other,
+"Table 1: Viral strains, infection and cell culture conditions",,,,,
+Virus,Strain,Cell Type,Time Point,MOI,% Infection
+HIV-1,BaL,MDDC,48 hr,3,>30
+HIV-1,NL4.3,HELA,48 hr,3,>70
+HIV-1,NL4.3,HUT78,48 hr,3,>70
+HIV-1,RFW,HUT78,48 hr,3,>80
+HSV-1,NC1,HELA,18 hr,3,>95
+HSV-1,NC1,HEP2,18 hr,3,>95
+VZV,Schenke,MDDC,72 hr,0.3,>30
+VZV,Schenke,HFF,72 hr,0.3,>60
+CMV,Toledo,HFF,72 hr,3,>90
+CMV,Towne,HFF,72 hr,3,>90

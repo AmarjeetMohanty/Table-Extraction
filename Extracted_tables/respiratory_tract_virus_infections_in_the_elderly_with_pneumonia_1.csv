@@ -1,0 +1,12 @@
+0,1,2,3,4,5,6,7,8,9
+,Table 6 Association between CRP and leukocyte values and main viral,,,,,findings and clinical outcomes,,,
+Variable,,Over 13 nights at ward,,Had a revisit,,,Exitus at ward,,
+,OR,95% limits,,OR,95% limits,,OR,95% limits,
+Pneumonia,0.767,0.449,1.309,0.818,0.491,1.360,0.886,0.336,2.337
+Leuk >15,1.303,0.690,2.460,1.336,0.726,2.461,1.158,0.376,3.565
+CRP > 100,1.279,0.785,2.084,1.104,0.691,1.764,2.845,1.021,7.933
+Virus,0.736,0.450,1.203,0.620,0.385,0.998,0.836,0.318,2.199
+Influenza virus,0.480,0.188,1.221,0.441,0.181,1.071,–,–,–
+Rhinovirus,1.508,0.685,3.320,1.153,0.525,2.530,0.421,0.052,3.378
+Coronavirus,0.744,0.278,1.988,0.785,0.309,1.995,0.981,0.118,8.146
+,Multivariable logistic regression analysis was used,,,,,,,,

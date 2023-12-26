@@ -1,0 +1,34 @@
+0,1,2,3,4,5
+Table 5 Univariate and multivariate analysis (n = 223),,,,,
+Variable,Bacterial colonisation,Rate,OR (95% CI),AOR (95% CI),P value
+CRI,,,,,
+Yes,12/12,100,3.72 (0.19 to 72.55),3.64 (0.22 to 60.36),0.367
+No,184/211,87.2,Ref,Ref,
+Gender,,,,,
+Male,26/35,74.3,0.31 (0.12 to 0.75),0.33 (0.11 to 1.01),0.052
+Female,170/188,90.4,Ref,Ref,
+Age,,,0.97 (0.93 to 1.02),0.98 (0.93 to 1.03),0.549
+Profession,,,,,
+Doctor,89/104,85.6,0.66 (0.30 to 1.49),0.92 (0.32 to 2.59),0.869
+Nurses,107/119,89.9,Ref,Ref,
+Smoking status,,,,,
+Current/ex-smoker,8/11,72.7,0.34 (0.08 to 1.37),0.54 (0.12 to 2.42),0.418
+Never,188/212,88.7,Ref,Ref,
+Influenza vaccine,,,,,
+Yes,42/48,87.5,0.95 (0.36 to 2.52),0.69 (0.26 to 1.86),0.463
+No,154/175,88,,,
+Medical conditionsa,,,,,
+Yes,25/29,86.2,0.84 (0.27 to 2.63),0.77 (0.24 to 2.46),0.664
+No,171/194,88.1,Ref,Ref,
+High risk proceduresb,,,,,
+Yes,124/143,86.7,0.72 (0.30 to 1.74),0.72 (0.26 to 2.01),0.528
+No,72/80,88.9,Ref,Ref,
+Mask use,,,,,
+Yes,172/196,87.8,0.90 (0.25 to 3.20),0.83 (0.24 to 2.82),0.765
+No,24/27,88.9,Ref,Ref,
+Ward,,,,,
+Respiratory,81/99,81.8,Ref,Ref,
+Paediatric,44/47,93.6,3.26 (0.91 to 11.68),2.72 (0.78 to 9.47),0.117
+Fever clinics,29/31,93.5,3.22 (0.70 to 14.75),2.62 (0.56 to 12.24),0.221
+Emerg/ICUc,42/46,91.3,2.33 (0.74 to 7.38),2.52 (0.77 to 8.24),0.126
+Bold shows significant result,,,,,

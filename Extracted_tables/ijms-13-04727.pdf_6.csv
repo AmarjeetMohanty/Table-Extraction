@@ -1,0 +1,38 @@
+0,1,2,3,4,5,6,7,8
+,,,,Table 4. Cont.,,,,
+,,Target,,Affinity,Inhibition,Virus,,
+Target,Library,,Phagotopes,,,,Additional,Reference
+,,presentation,,(KD),(IC50),isolates/clades,,
+,(1) HIV-1 infected FDA-2,,,,(1) >40–190,,,
+,,,(1) Z13,,,,,[85]
+gp41 MPER,patient FAb,MPER peptide,,NA,µg/mL,"B, C and E",NA,
+,,,(2) Z13e1,,,,,[86]
+,(2) Z13-derived Fab,,,,(2) <2–190 nM,,,
+,,,,,,"(1) A, B, C, D, F,",,
+,,,(1) PIE12-trimer,,,,,[87–89]
+,(1) xxCDYPEWQWLCxx,(1) IZN17,,,(1) 0.5 nM,"G, CRF",,
+,,,(2) D5,,,,,"[90,91]"
+gp41 Heptad,(2) naïve human ScFv,"(2) 5-Helix, IZN36",,,(2) 93–1750 nM,(2) at least 5,,
+,,,(3) 13 clones,NA,,,(1) D-peptide,[92]
+Repeats,(3) Fab ―Tyr/Ser‖,(3) 5-Helix,,,(3) –,isolates,,
+,,,(4) JCH-4,,,,,"[93,94]"
+,(4) 7-mer and 12-mer RPL,(4)N34(L6)C28,,,(4) 9 µg/mL,(3) –,,
+,,,,,,(4) HXB2,,
+,,"(1) N35CCG-N13,",,,,,,
+,,,(1) 8 Fabs,(1) –,(1) 6–60 µg/mL,(1) LAV,,
+,,NCCG-gp41,,,,,,
+gp41 Heptad,"(1), (2) Naïve human Fabs",,(2) Fab 3674,(2) 97 nM,(2) 450–2100,(2) at least 5,,[95]
+,,"(2) NCCG-gp41, 6-",,,,,NA,
+Repeats,(3) Fab 3674-derived Fabs,,"(3) Fabs 8060, 8066",(3) 7–25,nM,isolates,,[96–98]
+,,HB,,,,,,
+,,,and 8068,nM,(3) 26–1400 nM,(3) 7 isolates,,
+,,(3) NCCG-gp41,,,,,,
+,"(1) Rabbit ScFv,",,,,,,,
+,,,,,(1) 50–500 nM,,,
+,HIV-1-infected FDA-2,(1) N35CCG-N13,,,,,,
+gp41 Heptad,,,"(1) 8K8, DN9",,"(2) NA,",(1) 13 isolates,(2) competitive antigen,[99]
+,patient FAb,"(2) gp140, gp120 as",,NA,,,,
+Repeats,,,"(2) M44, M46, M48",,"1.5–25 µg/mL,",(2) 4 isolates,panning,[100–102]
+,(2) HIV-1-infected patient,competitor,,,,,,
+,,,,,9–22 µg/mL,,,
+,Ab library,,,,,,,

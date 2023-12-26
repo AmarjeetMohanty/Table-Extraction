@@ -1,0 +1,20 @@
+0,1,2,3,4,5,6,7
+,,,,,Serosurvey of Scavenging Birds for Potential Pathogens,,
+,Table 3. Multivariable logistic regression model evaluating the association between potential predictors and West Nile virus serostatus in free-fly-,,,,,,
+ing California condors.,,,,,,,
+Variable,n,Odds Ratio,95% CI,Coefﬁcient,SE,z value,p-value
+Age (in years),85,1.10,"(0.9, 1.3)",0.09,0.10,0.96,0.338
+Release Location,,,,,,,
+Big Sur,33,ref,ref,ref,ref,ref,ref
+Pinnacles National Park,20,1.25,"(0.3, 4.9)",0.23,0.69,0.33,0.741
+Southern California,32,7.81,"(1.6, 37.3)",2.06,0.80,2.58,0.010
+Rearing Site€,,,,,,,
+Wild,14,ref,ref,ref,ref,ref,ref
+LAZ,23,10.23,"(1.1, 96.7)",2.33,1.15,2.03,0.042
+SDZSP,28,6.08,"(0.7, 53.1)",1.80,1.11,1.63,0.103
+OUT,20,4.31,"(0.6, 28.9)",1.46,0.97,1.50,0.133
+Time since last vaccination,,,,,,,
+No previous vaccination,16,ref,ref,ref,ref,ref,ref
+1–36 months,42,0.99,"(0.2, 4.2)",-0.01,0.73,-0.01,0.993
+> 36 months,27,3.03,"(0.6, 15.8)",1.11,0.84,1.31,0.190
+AIC,,,,101.2,,,

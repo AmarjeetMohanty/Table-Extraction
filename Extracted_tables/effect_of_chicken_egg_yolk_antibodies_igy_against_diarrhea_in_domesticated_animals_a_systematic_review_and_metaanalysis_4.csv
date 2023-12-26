@@ -1,0 +1,26 @@
+0,1,2,3,4,5,6
+Table 8. Therapeutic effect of,,,IgY against Diarrhea in Piglets.,,,
+,,No. of mortality by diarrhea (or) No. with,,,,
+,,,,Outcome measure considered -,Relative Risk,95% Confidence
+,diarrhea/No.,in Group (%),,,,
+Study,,,,Mortality (M) or Diarrhea (D),(RR),"Interval
+(CI)"
+,Intervention,,Control,,,
+Animal Class: Pig,,,,,,
+Bacterial Pathogen,,,,,,
+Yokoyama 1992,0/7 (0),,6/7 (86),M,0.077,0.00521 to 1.136
+,0/4 (0),,4/4 (100),M,0.111,0.00814 to 1.516
+,0/5 (0),,4/5 (80),M,0.111,0.00768 to 1.608
+Xiao 1998,0/7 (0),,6/7 (85.7),M,0.077,0.00521 to 1.136
+,0/7 (0),,5/7 (71.4),M,0.091,0.00603 to 1.370
+Yang 2002,0/7 (0),,6/7 (85.7),M,0.077,0.00521 to 1.136
+,0/4 (0),,4/4 (100),M,0.111,0.00814 to 1.516
+,0/5 (0),,4/5 (80),M,0.111,0.00768 to 1.608
+Xu 2002,0/6 (0),,2/6 (33.3),M,0.200,0.0117 to 3.406
+,0/6 (0),,4/6 (66.7),M,0.111,0.00738 to 1.673
+,0/6 (0),,3/6 (50),M,0.143,0.00907 to 2.249
+Chu 2006,0/8 (0),,2/8 (25),M,0.200,0.0112 to 3.576
+Viral Pathogen,,,,,,
+Song 2003,1/6 (16.7),,6/6 (100),M,0.167,0.0278 to 0.997
+Cui 2012,0/10 (0),,10/10 (100),M,0.048,0.00318 to 0.712
+Pooled random effects,,,,,0.112,0.0558 to 0.223

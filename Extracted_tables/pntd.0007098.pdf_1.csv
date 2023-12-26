@@ -1,0 +1,19 @@
+0,1,2,3,4,5
+"Table 2. Correlations between the serum levels of (IL-1β, IL-37, IL-12 and IL-35) by the lesion diameter and the control group.",,,,,
+Lesion diameter,Cytokine Levels pg/ml,IL-1β pg/ml,IL-37 pg/ml,IL-12 pg/ml,IL-35 pg/ml
+Controls (no lesion),IL-1β,1,,,
+,IL-37,0.115,1,,
+,IL-12,0.137,-0.023,1,
+,IL-35,-0.125,0.037,0.065,1
+�5 cm,IL-1β,1,,,
+,IL-37,-0.992��,1,,
+,IL-12,0.987��,-0.996��,1,
+,IL-35,-0.924��,0.945��,-0.949��,1
+5–10 cm,IL-1β,1,,,
+,IL-37,-0.991��,1,,
+,IL-12,0.991��,-0.995��,1,
+,IL-35,-0.983��,0.989��,-0.983��,1
+�10 cm,IL-1β,1,,,
+,IL-37,-0.998��,1,,
+,IL-12,0.969��,-0.971��,1,
+,IL-35,-0.994��,0.995��,-0.964��,1

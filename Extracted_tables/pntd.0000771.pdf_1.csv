@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6
+,"Table 3. Numbers of sera tested positive with peptides longD12,",,,longD1 and longD8-9.,,
+,,Peptide,longD8-9,longD1,longD12,Cumulative result
+,,Cut-off A405nm,0.165,0.200,0.357,
+,,Total tested,Positive,Positive,Positive,Positive
+Healthy,Blood donors,50,4,4,4,11
+Cestoda,AE,44,19,11,10,28
+,CE,35,26,2,3,27
+,Taeniasis,1,0,0,0,0
+,Cysticercosis,12,1,0,0,1
+,Diphyllobotriasis,1,0,0,0,0
+Nematoda,Trichinellosis,2,0,0,0,0
+,Trichuriasis,2,0,0,0,0
+,Anisakiasis,1,0,0,0,0
+,Hookworm,1,0,0,0,0
+,Strongyloidiasis,8,1,2,1,2
+,Toxocariasis,10,0,1,1,2
+,Filariasis,10,0,1,0,1
+,Ascariasis,8,0,0,0,0
+Trematoda,Paragonimiasis,1,0,0,0,0
+,Fascioliasis,10,0,1,0,1
+,Schistosomiasis,10,1,3,2,5
+Protozoa,Amoebiasis,26,3,4,3,8

@@ -1,0 +1,13 @@
+0,1,2,3
+Table 5. Spatial access to hospitals in each sub-district within different search radiuses.,,,
+,,Spatial Access to Hospitals at Different Search Radiuses (103),
+Sub-District Name,,,
+,"6, 3, 1.7 km","9, 4, 2 km","12, 5, 2.3 km"
+Shekou (N),22.23,26.52,29.97
+Shekou (S),0.74,0.74,0.74
+Zhaoshang,6.02,8.35,10.32
+Nanshan,4.18,5.60,6.33
+Shahe,2.30,5.64,9.26
+Nantou,13.92,13.92,13.92
+Taoyuan,1.49,2.76,7.24
+Xili,0.67,4.09,4.77

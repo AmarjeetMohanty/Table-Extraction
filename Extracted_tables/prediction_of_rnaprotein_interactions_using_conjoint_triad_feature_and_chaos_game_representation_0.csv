@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6,7,8
+"the
+independent","test,
+leading
+to","a
+predicting",considers all,sets of,three successive amino acids,,,
+Table 4.,Independent,testing dataset and predicting result.,,,,,,
+,,,,,Comparisons of predicting results,,,
+Data,RNA-protein complexes in PDB,,,,,,,
+sources,database,Independent,testing dataset RPI1449,Muppirala et al.,[21],Our,test,result
+2014,378,1449 RNA-protein pairs after,,ACC: 1042/,,,ACC: 1092/,
+2015,221,preprocessing,,1449 = 0.7191,,,1449 = 0.7536,
+2016,250,,,,,,,
+Total,849,,,,,,,

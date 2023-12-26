@@ -1,0 +1,50 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12
+,,,,,Table 3. Cont.,,,,,,,
+,,,,,,,Pharmacokinetic parameters,,,,,
+Administration,Species,Dose,Detected compounds,,,,,,,,,
+,,,,,,AUC(0-t),AUC(0-∞),MRT,,CL,,Vss
+,,,,Cmax (ng/mL),Tmax (h),,,,T1/2 (h),,Vd (L/kg),
+,,,,,,(h·ng/mL),(h·ng/mL),(min),,(L·h-1·kg-1),,(L/kg)
+"AS-IV, i.v. [226]",Rat (male),0.75 mg/kg,AS-IV,3790,NA,ND,4816.67,122,1.64,0.3,0.39,0.63
+"AS-IV, i.v. [226]",Rat (female),0.75 mg/kg,AS-IV,5180,NA,ND,2550,47.4,0.57,0.3,0.14,0.23
+"AS-IV, i.v. [226]",Rat (male),1.5 mg/kg,AS-IV,6980,NA,ND,6700,95.2,1.12,0.42,0.43,0.71
+"AS-IV, i.v. [226]",Rat (female),1.5 mg/kg,AS-IV,4800,NA,ND,4966.67,90.1,1.12,0.18,0.16,0.23
+"AS-IV, i.v. [226]",Rat (male),3 mg/kg,AS-IV,7790,NA,ND,8666.67,98.7,1.20,0.36,0.38,0.57
+"AS-IV, i.v. [226]",Rat (female),3 mg/kg,AS-IV,7240,NA,ND,9183.33,149,2.48,0.18,0.21,0.41
+,,,,,,,,71.5 ±,,,,0.32 ±
+"AS-IV, i.v. [226]",Dog (male),0.25 mg/kg,AS-IV,1110 ± 280,NA,ND,1218.33 ± 516.67,,0.87 ± 0.14,0.24 ± 0.06,0.23 ± 0.05,
+,,,,,,,,7.0,,,,0.13
+,Dog,,,,,,,82.8 ±,,,,0.36 ±
+"AS-IV, i.v. [226]",,0.25 mg/kg,AS-IV,1130 ± 40,NA,ND,1096.67 ± 300.00,,1.05 ± 0.37,0.24 ± 0.06,0.22 ± 0.01,
+,(female),,,,,,,29,,,,0.04
+,,,,,,,,75.5 ±,,,,0.32 ±
+"AS-IV, i.v. [226]",Dog (male),0.5 mg/kg,AS-IV,4390 ± 2600,NA,ND,2600.00 ± 121.67,,1.00 ± 0.14,0.24 ± 0.06,0.14 ± 0.07,
+,,,,,,,,6.9,,,,0.09
+,Dog,,,,,,,78.0 ±,,,,0.31 ±
+"AS-IV, i.v. [226]",,0.5 mg/kg,AS-IV,3480 ± 1600,NA,ND,2883.33 ± 766.67,,1.12 ± 0.13,0.24 ± 0.06,0.16 ± 0.07,
+,(female),,,,,,,8.5,,,,0.06
+,,,,,,,,83.0 ±,,,,0.28 ±
+"AS-IV, i.v. [226]",Dog (male),1 mg/kg,AS-IV,7920 ± 3700,NA,ND,6033.33 ± 1316.67,,1.15 ± 0.35,0.24 ± 0.06,0.14 ± 0.07,
+,,,,,,,,23,,,,0.08
+,Dog,,,,,,,64.8 ±,,,,0.23 ±
+"AS-IV, i.v. [226]",,1 mg/kg,AS-IV,8860 ± 2500,NA,ND,5916.67 ± 1366.67,,0.84 ± 0.22,0.18 ± 0.06,0.12 ± 0.04,
+,(female),,,,,,,16,,,,0.04
+"AS-IV, i.v. [227]",Rat,2.5 mg/kg,AS-IV,ND,NA,ND,5990,ND,3.37,0.42,0.77,ND
+"AS-IV, p.o.",,,,,,,,,t1/2α = 0.30;,,,
+,Rat,20 mg/kg,AS-IV,374,0.43,ND,1062,ND,,0.43,0.56,NA
+[228],,,,,,,,,t1/2β = 4.65;,,,
+"AS-IV, p.o.",,,,,,,,,,,,
+,Rat,10 mg/kg,AS-IV,27.08 ± 16.17,2.00 ± 63,85.56 ± 43.17,ND,ND,1.71 ± 1.16,ND,ND,NA
+[229],,,,,,,,,,,,
+,,,Cycloastragenol,3.48 ± 2.34,9.67 ± 0.82,"13.15 ± 8,78",ND,ND,ND,ND,ND,NA
+,,,Iso-cycloastragenol,7.02 ± 3.68,8.00 ± 0.00,38.23 ± 17.22,ND,ND,4.77 ± 3.26,ND,ND,NA
+"AS-IV, i.v. [229]",Rat,1.5 mg/kg,AS-IV,7865.40 ± 570.67,NA,7917.21 ± 1038.52,ND,ND,1.29 ± 0.41,ND,ND,ND
+,,,Cycloastragenol,1.21 ± 0.22,8.33 ± 0.82,2.73 ± 0.79,ND,ND,ND,ND,ND,ND
+,,,Iso-cycloastragenol,2.98 ± 0.86,8.00 ± 0.00,15.80 ± 2.60,ND,ND,3.05 ± 1.06,ND,ND,ND
+"AS-IV, i.v. [230]",Dog,0.5 mg/kg,AS-IV,ND,NA,1998.22,2104,222.61,2.953,0.24,ND,0.74
+"AS-IV, i.v. [230]",Dog,1 mg/kg,AS-IV,ND,NA,4380,4604.67,232.48,3.28,0.24,ND,0.61
+"AS-IV, i.v. [230]",Dog,2 mg/kg,AS-IV,ND,NA,11706.67,12075.17,241.80,4.03,0.18,ND,0.61
+"AS-IV, p.o.",,,,,,,,,,,,
+,Dog,10 mg/kg,AS-IV,ND,NA,3368.33,3400.83,261.14,3.83,0.6,ND,2.61
+[230],,,,,,,,,,,,
+,"p.o., oral administration; i.v., intravenous administration; i.p., intraperitoneal administration; C-3(cid:48)-G, calycosin-3(cid:48)-glucuronide; CG, calycosin-7-β-glucoside; CG-3(cid:48)-G, CG-3(cid:48)-glucuronide;",,,,,,,,,,,

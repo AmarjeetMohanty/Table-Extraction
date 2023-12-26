@@ -1,0 +1,22 @@
+0,1,2,3,4
+Table 4. Single-institutional data regarding injury type by age.,,,,
+Age group (years),,,Order of frequency,
+,1st,2nd,3rd,4th
+0,Superficial injury,Muscle/tendon injury,Open wound,Dislocation/sprain/strain
+,1065 (31.7%),1016 (30.3%),555 (16.5%),328 (9.8%)
+1–2,Open wound,Superficial injury,Dislocation/sprain/strain,Muscle/tendon injury
+,6104 (45.0%),3080 (22.7%),1841 (13.6%),1545 (11.4%)
+3–4,Open wound,Superficial injury,Dislocation/sprain/strain,Muscle/tendon injury
+,3522 (45.2%),1641 (21.0%),937 (12.0%),816 (10.5%)
+5–6,Open wound,Superficial injury,Fracture,Muscle/tendon injury
+,1971 (42.3%),1025 (22.0%),633 (13.6%),473 (10.2%)
+7–8,Open wound,Superficial injury,Fracture,Muscle/tendon injury
+,1286 (39.0%),701 (21.3%),551 (16.7%),371 (11.3%)
+9–10,Open wound,Superficial injury,Fracture,Muscle/tendon injury
+,729 (31.3%),520 (22.4%),497 (21.4%),303 (13.0%)
+11–12,Fracture,Open wound,Superficial injury,Muscle/tendon injury
+,588 (27.2%),556 (25.7%),452 (20.9%),265 (12.3%)
+13–14,Fracture,Open wound,Superficial injury,Muscle/tendon injury
+,620 (29.8%),468 (22.5%),406 (19.5%),260 (12.5%)
+Total,Open wound,Superficial injury,Muscle/tendon injury,Fracture
+,15191 (38.7%),8890 (22.7%),5049 (12.9%),4521 (11.5%)

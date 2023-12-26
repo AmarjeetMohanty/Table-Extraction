@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6,7,8
+Table 2. Experimental groups.,,,,,,,,
+,,First experimental series,,,,,Second experimental series,
+,LowVT,HighVT,LowVT,HighVT,LowVT,PEEP6,PEEP6,PEEP6
+,RM5,RM5,noRM,noRM,RM60,_RM5,_noRM,_RM60
+VT [ml/kg],8,16,8,16,8,8,8,8
+f [min21],180,90,180,90,180,180,180,180
+PEEP [cmH2O],2,2,2,2,2,6,6,6
+RM/h,12,12,-,-,1,12,-,1
+FiO2,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+CO2 [%],0,3,0,3,0,0,0,0

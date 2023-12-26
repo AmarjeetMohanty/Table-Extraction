@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6
+Table 2: Grouping of the strains,,,,,,
+Si,Sj,"D(Si, Sj)","T0*(i, j)",,Annotation,
+GZ01,BJ02,55,-172,Best Division,,G1
+GZ01,TOR2,53,-167,Best Division,,G1
+GZ01,US,56,-165,Best Division,,G1
+GZ01,SIN2500,53,-163,Best Division,,G1
+GZ01,BJ01,49,-153,Best Division,,G1
+BJ02,TOR2,24,-64,,,G1
+BJ02,US,27,-61,,,G1
+BJ02,SIN2500,24,-59,,,G1
+BJ01,BJ02,16,-37,,,G1
+BJ01,TOR2,14,-32,,,G1
+BJ01,US,17,-30,,,G1
+BJ01,SIN2500,14,-28,,,G1
+TOR2,US,7,0,,,G2
+SIN2500,TOR2,4,2,,,G2
+SIN2500,US,7,5,,,G2

@@ -1,0 +1,58 @@
+0,1,2,3,4,5,6,7,8,9
+2,,,,,,,,,Journal of Pathogens
+,,,,No ﬁlter,,,,No ﬁlter,
+,,,,HERV-W 125 hits,,,,Inﬂuenza 202 hits,
+,,,,Color key for alignment scores,,,,Color key for alignment scores,
+,,,<40,"≥200
+40–50
+50–80
+80–200",,,<40,"40–50
+50–80
+80–200",≥200
+,Query,,,,Query,,,,
+,,1,100,"200
+300
+400
+500",,0,300,"600
+900
+1200",1500
+,,,,Rubella 304 hits,,,,Rhinovirus 284 hits,
+,,,,Color key for alignment scores,,,,Color key for alignment scores,
+,,,<40,"40–50
+50–80
+80–200
+≥200",,,<40,"40–50
+50–80
+80–200",≥200
+,Query,,,,,,,,
+,,,,,Query,,,,
+,,1,1500,"3000
+4500
+6000
+7500
+90000",,1,1000,"2000
+3000
+4000
+5000","6000
+7000"
+,,,,,,Chromosome 10 versus viral prot 119857 hits,,,
+,,,,HSV-2 242 hits,,,,,
+,,,,,,Distribution of 10867 blast hits on query sequence,,,
+,,,,,,"Mouse over to see the define, click to show alignments",,,
+,,,,Color key for alignment scores,,,,,
+,,,,,,,,Color key for alignment scores,
+,,,<40,"40–50
+50–80
+80–200
+≥200",,,<40,"40–50
+50–80
+80–200",≥200
+,Query,,,,Query,,,,
+,,1,30000,"60000
+90000
+120000","0
+150000",,25,"50
+75
+100",125
+,,,,,,,,,×106
+,,,,,Figure 1: Continued.,,,,

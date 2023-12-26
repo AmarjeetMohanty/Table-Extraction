@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6,7,8,9,10
+,Table 2: Performance of the two-tube assay for individual target compared with the Luminex xTAG RVP Fast assay.,,,,,,,,,
+,,No. of specimens: two-tube/Luminex,,,,Performance of the two-tube assay compared with the Luminex xTAG RVP Fast,,,,
+Viruses,,,xTAG RVP Fast assay,,,,assay,,,
+,+/+,+/−,−/+,−/−,Sensitivity%,Specificity%,PPV%,NPV%,Accordance rate%,Kappa
+FluA,20,0,0,227,100,100,100,100,100,1.000
+sH1N1,14,0,2,231,87.50,100,100,99.14,99.19,0.929
+FluB,1,0,0,246,100,100,100,100,100,1.000
+PIV1,1,0,0,246,100,100,100,100,100,1.000
+PIV2,2,0,0,245,100,100,100,100,100,1.000
+PIV3,22,2,0,223,100,99.11,91.67,100,99.19,0.952
+HRV,95,15,13,124,87.96,89.21,86.36,90.51,88.66,0.770
+HMPV,27,1,0,219,100,99.55,96.43,100,99.60,0.980
+Adv,24,11,1,211,96.00,95.05,68.57,99.53,95.14,0.773
+CoV NL63,1,0,0,246,100,100,100,100,100,1.000
+CoV OC43,11,0,0,236,100,100,100,100,100,1.000
+CoV 229E,2,0,0,245,100,100,100,100,100,1.000
+CoV HKU1,3,0,0,244,100,100,100,100,100,1.000
+RSVA,7,1,0,239,100,99.58,87.50,100,99.60,0.931
+RSVB,86,10,0,151,100,93.79,89.58,100,95.95,0.913
+HBoV,28,0,5,214,84.85,100,100,97.72,97.98,0.907
+"The numbers of positive and negative specimens detected by both testing methods are shown. This table shows the sensitivity, specificity, positive predictive",,,,,,,,,,

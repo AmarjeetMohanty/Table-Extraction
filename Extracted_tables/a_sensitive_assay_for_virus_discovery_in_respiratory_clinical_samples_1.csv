@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6,7,8
+,Table 5. Respiratory virus detection with VIDISCA-454.,,,,,,,
+,,,,,,,,% genome
+Sample nr,Respiratory virus,Viral,load copies/ml,Result VIDISCA-454,Nr of reads,Nr of viral reads,% viral reads,coverage
+A0211,Human PIV-1,1.2 E3,,-,32671,0,",0.003%",
+D0424,RSV,2.4 E4,,-,3437,0,",0.02%",
+E1573,Influenza B,6.1 E4,,Influenza B,4262,2,0.04%,0.8%
+A2829,Influenza A,8.9 E5,,Influenza A,9924,14,0.14%,11%
+E0061,HCoV-NL63,1.0 E4,,HCoV-NL63,8641,3,0.03%,0.8%
+I1647,RSV,3.3 E6,,RSV,3497,167,4.8%,4%
+I4335,Influenza B,1.5 E4,,-,2283,0,",0,04%",
+O1189,HRV,1.2 E5,,-,4030,0,",0.02%",
+E0117,Influenza A,6.0 E2,,-,2449,0,",0.04%",
+I0555,Adenovirus,1.4 E3,,Adenovirus,13478,13,0.1%,4%
+I2193,RSV,1.2 E6,,RSV,16701,577,3.5%,71%
+I4363,Influenza B,1.5 E6,,Influenza B,15595,459,2.9%,30%
+O2967,Influenza B,2.0 E5,,Influenza B,8132,14,0.2%,11%
+S2719,HCOV-OC43,7.6 E6,,HCoV-OC43,7437,3014,40.5%,79%
+B0702,HCoV-OC43,3.5 E3,,-,10170,0,",0.01%",
+F1308,Influenza A,1.4 E3,,-,9556,0,",0.01%",
+H1940,Influenza A,1.9 E3,,Influenza A,8362,1,0.01%,0.3%
+I3747,HCoV-OC43,7.2 E5,,HCoV-OC43,11691,114,1.0%,22%

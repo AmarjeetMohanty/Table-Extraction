@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6
+T AB LE 1,Primary antibodies used,,,,,
+Used to Detect,Antibody,Species,Dilution,Source,Immunogen,Cat# (RRID)
+LRF,LRF 13E9,Hamster monoclonal,1:100,Santa Cruz Biotech-,Human residues 1-20,sc-33683 (AB
+,,,,"nology; Santa Cruz,",,668999)
+,,,,CA,,
+LRF,Zbtb7a/FBI-1,Rabbit polyclonal,"1:10,000",Bethyl Laboratories;,Human residues 200,A300-548A (AB
+,,,,"Montgomery, TX",and 250,2273107)
+Oligodendrocyte,Olig2,Rabbit polyclonal,1:100,"Millipore; Billerica,",Mouse Olig-2,AB15328 (AB
+lineage cells,,,,MA,,2299035)
+Oligodendrocyte,NG2 extracellular,Rabbit polyclonal,1:500,"Dr. William Stallcup,",Rat residues 1-2223,(AB 2572306)
+progenitors,domain,,,Burnham Institute; La,,
+,,,,"Jolla, CA",,
+Oligodendrocytes,Glutathione S-,Rabbit polyclonal,1:500,MBL International;,Human GSTpi,311 (AB 212153)
+,"transferase pi
+(GSTpi)",,,"Nagoya, Japan",,
+Oligodendrocytes,Adenomatous,Mouse monoclonal,1:200,"Millipore; Billerica,",Human residues,444904 (AB 212153)
+,"polyposis coli
+(CC1)",,,MA,1-226,
+Myelin,"2’,3’-cyclic-",Mouse monoclonal,1:100,Cell Signaling Tech-,Human CNPase resi-,2986S (AB 2082474)
+,nucleotide 3’-,,,"nology; Danvers, MA",dues surrounding,
+,phosphodiesterase,,,,Val81,
+,(CNP),,,,,
+Myelin,Myelin oligodendro-,Mouse monoclonal,1:20,Dr. Christopher Li-,Rat cerebellar glyco-,(AB 2631445)
+,cyte glycoprotein,,,"nington, University of",proteins (8-18C5,
+,(MOG) 8-18C5,,,"Glasgow; Glasgow,",binds to MOG resi-,
+,,,,UK,dues 101-108),
+Caspr,Paranodal region,Mouse monoclonal,1:500,"NeuroMab; Davis,",Cytoplasmic domain,75-001
+,,K65/35,,CA,(1308-1381 of rat,(AB_2083496)
+,,,,,Caspr),
+Nav1.6,Node of Ranvier,Rabbit polyclonal,1:100,Alomone Labs; Jeru-,Intracellular loop be-,ASC-009
+,,,,"salem,
+Israel",tween domains II and,(AB_2040202)
+,,,,,"III
+(residues 1042-",
+,,,,,1061 of rat Nav1.6),

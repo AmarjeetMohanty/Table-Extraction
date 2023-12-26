@@ -1,0 +1,63 @@
+0,1,2,3,4,5
+Key resources table,,,,,
+Reagent type,,,,,
+(species) or,,Source or,,,Additional
+resource,Designation,reference,,Identifiers,information
+"Cell
+line",K562,ATCC,,CCL-243,
+(H. sapiens),,,,RRID:CVCL_0004,
+"Cell
+line",HL60,ATCC,,CCL-240,
+(H. sapiens),,,,RRID:CVCL_0002,
+"Cell
+line",HeLa,ATCC,,CCL-2,
+(H. sapiens),,,,RRID:CVCL_0030,
+"Cell
+line",HEK293T,ATCC,,CRL-3216,
+(H. sapiens),,,,RRID:CVCL_0063,
+Transfected,pRRL SFFV GFP-CBX2,,"van den Boom et al., 2016;",,Lentivirally transduced
+construct,,PMID: 26748712,,,"in K562,"
+(H. sapiens),,,,,"HeLa and HEK293T,"
+,,,,,"stable cell
+lines"
+Transfected,PC182 GFP-CBX4,Vandamme et al.,(2011);,,"Retrovirally transduced,"
+construct,,PMID: 21282530,,,"stable cell
+line"
+(H. sapiens),,,,,
+Transfected,PC182 GFP-CBX6,Vandamme et al.,(2011);,,"Retrovirally transduced,"
+construct,,,,,"stable cell
+line"
+(H. sapiens),,PMID: 21282530,,,
+Transfected,PC182 GFP-CBX7,Vandamme et al.,(2011);,,"Retrovirally transduced,"
+construct,,,,,"stable cell
+line"
+(H. sapiens),,PMID: 21282530,,,
+Transfected,PC182 GFP-CBX8,Vandamme et al.,(2011);,,"Retrovirally transduced,"
+construct,,,,,"stable cell
+line"
+(H. sapiens),,PMID: 21282530,,,
+Transfected,pRRL SFFV GFP-,This study,,,"Lentivirally transduced,"
+construct,CBX2 (aa2-63),,,,"stable cell
+line"
+(H. sapiens),,,,,
+Transfected,pRRL SFFV GFP-,This study,,,"Lentivirally transduced,"
+construct,CBX2 (aa2-96),,,,"stable cell
+line"
+(H. sapiens),,,,,
+Transfected,pRRL SFFV GFP-,This study,,,"Lentivirally transduced,"
+construct,CBX8 (aa2-62),,,,"stable cell
+line"
+(H. sapiens),,,,,
+Transfected,pRRL SFFV,This study,,,"Lentivirally transduced,"
+construct,GFP-CBX8 (aa2-96),,,,"stable cell
+line"
+(H. sapiens),,,,,
+Antibody,GFP,Abcam,,Cat# ab290,WB
+,,,,RRID:AB_303395,(1:1000);
+,,,,,ChIP 2 mg
+Antibody,EZH2,Cell Signalling,,Cat# 5246 (D2C9),WB (1:1000);IF (1:200);
+,,Technology,,RRID:AB_2797901,ChIP 5 mg
+Antibody,SUZ12,Abcam,,Cat# ab12073,WB (1:1000)
+,,,,RRID:AB_442939,
+Antibody,CBX4,Merck,,Cat# 09–029,WB (1:1000)
+,,,,RRID:AB_1977084,

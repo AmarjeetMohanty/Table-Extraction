@@ -1,0 +1,20 @@
+0,1,2,3,4,5,6
+Table 3 Clinical Signs scores of SPF chickens inoculated with IBV strains IBV/TUIBV infectious bronchitis virus,,,,,,
+IBV/TU Strain,,,,,,
+Days Post,Clinical Score (0 to 3),,,,,
+inoculation,,,,,,
+,No sing (0),Sneezing (1),Tracheal Râle (2),Pulmonary Rale (2),Sick (3),Day Score
+1,7/10,2/10,1/10,0/10,0/10,4
+2,5/10,2/10,3/10,0/10,0/10,8
+3,4/10,2/10,2/10,1/10,1/10,11
+4,2/10,1/10,2/10,2/10,3/10,18
+5,1/10,1/10,3/10,2/10,3/10,20
+6,0/7,1/7,2/7,1/7,3/7,16
+7,0/7,1/7,1/7,2/7,3/7,17
+8,0/7,2/7,1/7,2/7,2/7,13
+9,0/7,3/7,1/7,1/7,2/7,13
+10,2/7,2/7,2/7,1/7,0/7,8
+11,2/7,2/7,2/7,1/7,0/7,7
+12,2/7,3/7,1/7,0/7,0/7,5
+Total score,140,,,,,
+IBV infectious bronchitis virus,,,,,,

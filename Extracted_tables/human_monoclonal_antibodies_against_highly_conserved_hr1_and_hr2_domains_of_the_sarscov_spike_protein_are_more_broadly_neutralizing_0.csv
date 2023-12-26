@@ -1,0 +1,49 @@
+0,1,2,3,4,5
+,,,,,SARS-CoV Neutralization by Human Antibodies
+,Table 1. HmAbs to HR1 and HR2 can efficiently neutralize surrogate clinical,,,isolates.,
+Virus,Sin845,GZ-C,GD01,GZ0402,
+Ab,,Percentage entry inhibition (normalized to HIV/Urbani-S inhibition),,,BRa
+1F1,11.5,24,20.3,16.4,S-ectb
+3F1,14.4,92,12.8,28.6,S-ectb
+4 E11,20.4,16.5,18.8,14.8,S-ectb
+6C5,8.5,29.5,22.4,16.8,S-ectb
+4G10,76.3,13,12,18,S-ectb
+3F9,16.7,12.2,17,32.5,S-ectb
+6D8,10.3,20,16.4,11.8,S-ectb
+2C6,14.8,15,22.8,21.2,S-ectb
+2G11,26,98.4,23,21,S-ectb
+1D11,10,30,13.9,26,S-ectb
+4 E6,20.2,27.7,20.2,15,S-ectb
+1C1,28,35.5,22,43.3,S-ectb
+2B9,16,21.2,21.5,23,S-ectb
+2 E11,24,31.4,24,30.3,S-ectb
+1G12,14,13.6,24.2,14.5,S-ectb
+6H6,31.7,33.2,15.4,21.5,S-ectb
+1D5,31,21.5,29.4,33.7,S-ectb
+1F8,84.7,97.7,76,74.8,HR1
+4A4,84,91.3,89,73,HR1
+1D12,87.3,98.3,78,68.7,HR1
+2A12,73.4,96.7,89.4,91.2,HR1
+5C3,84,88.2,68,89.3,HR1
+2B12,82,83.7,85.6,89,HR1
+6H2,89.4,104.8,88,95,HR1
+6C9,84,81.4,88,79,HR1
+4F9,80,82.3,90.7,80.8,HR1
+5G8,89,84,86.8,92.4,HR2
+5B10,87.6,95,96.5,92.2,HR2
+3A11,91.6,109,83.5,100,HR2
+5E9,81.2,96,96.3,96.6,HR2
+6H1,78.6,"96,5",92.3,83.6,HR2
+1 E10,83,84.6,74.8,86.6,HR2
+3H11,85.5,95,75.3,84.5,HR2
+5B9,102.3,94,97.5,110.7,HR2
+5D7,81,86.3,92,97.7,HR2
+2D2,89.3,91,94.8,89.2,HR2
+3 E10,98.4,113,97,105.7,HR2
+5G9,81.3,107.4,104.7,99.9,HR2
+2D6,73.2,89.2,96.6,95,HR2
+PolyAbc,97.8,85.4,92,105.6,
+aLikely binding region of antibodies.,,,,,
+bS glycoprotein ectodomain.,,,,,
+cAnti-SARS-S protein polyclonal antibody.,,,,,
+doi:10.1371/journal.pone.0050366.t001,,,,,

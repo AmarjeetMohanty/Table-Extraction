@@ -1,0 +1,14 @@
+0,1,2,3
+"Table 2. Pairwise comparison of the isolated CH/ZBD, 1B and helicase core domains of MERS-CoV",,,
+"nsp13, EAV nsp10 and Upf1 helicases.",,,
+Domain,Comparison,Dali Z-score,rmsd(Å)
+CH/ZBD,nsp13 vs nsp10,4.4,3.4
+,nsp13 vs Upf1,10.2,2.2
+,nsp10 vs Upf1,3.0,3.5
+1B,nsp13 vs nsp10,3.4,2.5
+,nsp13 vs Upf1,2.8,3.3
+,nsp10 vs Upf1,2.8,2.8
+Helicase,nsp13 vs nsp10,23.2,2.7
+Core,,,
+,nsp13 vs Upf1,26.3,4.5
+,nsp10 vs Upf1,20.9,3.6

@@ -1,0 +1,60 @@
+0,1,2
+,,diagnosis and method of admission were important diagnostic
+Characteristics,N (%),"determinants of
+length of
+stay, with very marginal differences"
+,,"between the
+two statistical models
+(‘I’ & ‘A’).
+Again, all
+the"
+Age (years),,
+,,temporal factors were significant determinants of LOS. Overall
+B 5,"12,420 (12.4)",
+,,"the patient
+cluster model
+(AIC=239394.8) outperformed the"
+5(cid:1)14,"10,700 (10.7)",
+,,"area model
+(AIC=247899.9)."
+15(cid:1)44,"16,612 (16.6)",
+45(cid:1)59,"7,029 (7.0)",
+,,Conclusions
+60(cid:1)74,"5,698 (5.7)",
+,,"Asthma LOS is best predicted by demographic, diagnostic and"
+] 75,"4,309 (4.3)",
+,,"temporal
+factors with individual patients as a random effect."
+Ethnic Group,,
+White,"26,230 (46.2)",
+Black,"6,604 (11.6)",Keywords
+Asian,"6,382 (11.2)","Asthma;
+length of
+stay;
+spell duration;
+risk factors; hospital"
+Mixed/Other,"5,780 (10.2)",admission
+Not stated,"11,782 (20.8)",
+Secondary Diagnosis,,
+,,*I. Soyiri
+Other diseases of URT,"25,053 (44.1)",
+,,E-mail: soyiriin@yahoo.com
+Influenza and Pneumonia,692 (1.2),
+"Other acute lower
+respiratory infections","6,256 (11.0)",
+"Acute upper
+respiratory infections",70 (0.1),
+"Chronic lower
+respiratory infections","1,207 (2.1)",
+Lung diseases due to external agents,"1,519 (2.7)",
+Other diseases of respiratory system,378 (0.7),
+Other Non-respiratory system diseases,"15,227 (26.8)",
+Missing Values,"6,376 (11.2)",
+Method of Admission,,
+Accident and emergency services,"52,074 (91.7)",
+"General Practitioner
+(GP)","2,602 (4.6)",
+Bed bureau,41 (0.1),
+Consultants out patient clinic,577 (1.0),
+Other means,"1,484 (2.6)",
+Meteorological Season,,

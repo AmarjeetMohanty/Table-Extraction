@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6,7
+Lebsir et al.,,,,,,,Journal of Virology
+TABLE 1 Structural and functional properties of NS3 mutants,,,,,,,
+,,Conservationa,,,,,
+Position,Mutation (Con1),H77,JFH-1,Accessibility (%),Replication,Protease activity,Self cleavage
+36,Val¡Ala,Val,Ile,(cid:2),(cid:5),(cid:5),(cid:5)
+44,Leu¡Gln,Leu,Leu,(cid:2),(cid:5),(cid:5),(cid:5)
+77,Asn¡Asp,Asn,Ser,20,(cid:2),(cid:5),(cid:5)
+82,Leu¡Pro,Leu,Leu,(cid:2),(cid:2),(cid:2),(cid:2)
+97,Cys¡Arg,Cys,Cys,15,(cid:2),(cid:2),(cid:2)
+104,Leu¡Pro,Leu,Leu,(cid:2),(cid:2),(cid:6),(cid:6)
+106,Leu¡Ser,Leu,Leu,(cid:2),(cid:2),(cid:6),(cid:6)
+107,Val¡Ala,Val,Val,(cid:2),(cid:5),(cid:5),(cid:5)
+114,Ile¡Thr,Ile,Ile,4,(cid:5),(cid:5),(cid:5)
+141,Gly¡Asp,Gly,Gly,(cid:2),(cid:2),(cid:2),(cid:2)
+143,Leu¡Pro,Leu,Val,(cid:2),(cid:2),(cid:2),(cid:2)
+153,Ile¡Thr,Leu,Leu,(cid:2),(cid:2),(cid:6),(cid:6)
+"a(cid:5), similar","to WT; (cid:2), not active, not","replicative, or not accessible; (cid:6), partially active.",,,,,

@@ -1,0 +1,28 @@
+0,1,2,3,4,5
+,uals. These findings are consistent across all approaches.,,"cost of care (direct cost, CAD $11,009 vs. CAD $7670; 95 %",,
+,Table 2 Descriptive Statistics for Outcome Variables Comparing Isolated to Non-Isolated Cohorts (pre-match),,,,
+Outcome,Control,MRSA,,Respiratory illness,
+,,Isolated,p value,Isolated,p value
+"Inpatient mortality, %",5.7,8.2,0.0048,6.9,0.0531
+"30-day readmission, %",12.9,18.9,<0.0001,13.7,0.4297
+"30-day ED visit, %",12.8,11.4,0.2978,10.9,0.0379
+"Readmission or ED visit, %",18.4,22.6,0.0049,17.3,0.3260
+ELOS (days),7.3,10.2,<0.0001,8.3,<0.0001
+LOS (days),7.6,12.8,<0.0001,8.5,<0.0001
+LOS/ELOS,1.2,1.4,0.0001,1.1,0.0086
+"Cost, CAD",6146,12129,<0.0001,7254,<0.0001
+"Cost per day, CAD",852,946,<0.0001,855.7,0.0025
+"Adverse events, n/100",,,,,
+Fall,5.6,12.1,<0.0001,4.2,0.0231
+Medication incident,1.5,2.1,0.1741,2.1,0.0676
+Laboratory incident,0.4,0.3,0.5622,1.0,0.0035
+"Treatment
+incident",0.4,0.5,0.5731,0.6,0.2720
+"Infection control
+incident",0.1,1.9,<0.0001,1.0,<0.0001
+Safety incident,0.3,0.3,0.8529,0.3,0.8628
+"Equipment
+incident",0.1,0.7,0.0010,0.5,0.0012
+Any adverse event,6.8,14.4,<0.0001,9.2,0.0012
+"Patient complaints, n/100",1.0,1.1,0.9113,2.7,<0.0001
+,"MRSA methicillin-resistant Staphylococcus aureus, ED emergency department, ELOS expected length of stay, LOS length of stay",,,,

@@ -1,0 +1,44 @@
+0,1,2,3,4
+Table　2.　Clinical Characteristics of the Patients Viral Pneumonia and Other Diseases.,,,,
+,,Viral pneumonia,Other diseases,
+factors,,,,p value
+,,(n=53),(n=56),
+Sex,Male,39 (73.6%),28 (50.0%),0.0177
+Age,Mean (SD),64.8 (13.01),65.0 (14.66),0.9383
+,Median (min-max),67.0 (27-84),67.0 (19-82),
+Age (category),≤65 yrs,33 (62.3%),38 (67.9%),0.5538
+Underlying disease,,,,
+Pulmonary diseases,,13 (24.5%),12 (21.4%),0.8205
+Diabetes mellitus,,9 (17.0%),9 (16.1%),1.0000
+Hypertension,,13 (24.5%),13 (23.2%),1.0000
+Cardiac disease,,12 (22.6%),10 (17.9%),0.6351
+Neurological diseases,,1 (1.9%),3 (5.4%),0.6185
+Physiatric diseases,,2 (3.8%),3 (5.4%),1.0000
+Chronic kidney disease,,4 (7.5%),2 (3.6%),0.4294
+Chronic liver disease,,1 (1.9%),1 (1.8%),1.0000
+Connective tissue diseases,,1 (1.9%),13 (23.2%),0.0010
+Malignancy,,1 (1.9%),0 (0.0%),0.4862
+None,,22 (41.5%),16 (28.6%),0.1665
+Smoking history,,36 (67.9%),27 (48.2%),0.0521
+Duration from initial symptoms,Mean (SD),13.9 (9.09),14.5 (8.55),0.7504
+to admission (days),,,,
+,Median (min-max),11.0 (0-30),14.0 (1-30),
+Duration from initial symptoms,<1 w,16 (30.2%),13 (23.2%),.
+to admission (category),,,,
+,"1 w≤, <2 w",12 (22.6%),14 (25.0%),
+,"2 w≤, ≤30 d",23 (43.4%),29 (51.8%),
+Symptoms,,,,
+Sore throat,,11 (20.8%),2 (3.6%),0.0070
+Rhinorrhea,,2 (3.8%),1 (1.8%),0.6112
+Cough,,39 (73.6%),41 (73.2%),1.0000
+Sputum,,13 (24.5%),12 (21.4%),0.8205
+"Arthralgia, myalgia",,5 (9.4%),5 (8.9%),1.0000
+Dyspnea,,20 (37.7%),28 (50.0%),0.2476
+Dizziness,,3 (5.7%),0 (0.0%),0.1116
+Diarrhea,,2 (3.8%),2 (3.6%),1.0000
+Fever,,51 (96.2%),45 (80.4%),0.0158
+Headache,,0 (0.0%),0 (0.0%),.
+Maximum body temperature,Number,52,56,0.0919
+,Mean (SD),38.08 (1.000),37.78 (0.833),
+,Median (min-max),38.00 (36-40.2),37.90 (36.4-40.4),
+Respiratory failure,Yes,20 (37.7%),17 (30.4%),0.4274

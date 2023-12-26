@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6,7
+,"(EC50-1) calculated using the CTG or CTxG assays, EC50-2 calculated using reporter protein expression,",,,,,,
+,and the minimal selectivity indexes (SIs = CC50,,,/EC50) for selected broad-spectrum antivirals. The,,,
+,measurements were repeated three times.,,,,,,
+,,,,CC50,EC50-1,EC50-2,
+Compound,Virus,Cell Line,Time (h),,,,SI
+,,,,(mM),(mM),(mM),
+Obatoclax,HSV-2,RPE,72,1.23 ± 0.02,0.10 ± 0.02,,12
+Emetine,HSV-2,RPE,72,1.12 ± 0.07,0.03 ± 0.01,,37
+Niclosamide,HSV-2,RPE,72,1.31 ± 0.02,0.43 ± 0.04,,3
+Ganciclovir,HSV-2,RPE,72,>30,0.04±0.01,,>750
+Obatoclax,EV1,RPE,48,3.21 ± 0.04,0.12 ± 0.01,,25
+Emetine,EV1,RPE,48,>30,0.12 ± 0.04,,>300
+Homoharringtonine,EV1,RPE,48,>30,0.14 ± 0.03,,>300
+Brequinar,HIV-1,TZM-bl,24,>30,,0.04 ± 0.01,>750
+Suramin,HIV-1,TZM-bl,24,>30,,0.08 ± 0.03,>375
+Obatoclax,RVFV,RPE,24,>30,0.04 ± 0.01,0.32 ± 0.09,>100
+Emetine,RVFV,RPE,24,>30,0.10 ± 0.02,0.43 ± 0.10,>75
+Obatoclax,HMPV,RPE,96,0.60 ± 0.04,,0.12 ± 0.02,6
+Emetine,HMPV,RPE,96,1,,0.14 ± 0.05,10
+Obatoclax,FLUAV,RPE,24,3.11 ± 0.09,0.04 ± 0.01,0.10 ± 0.01,31
+Emetine,FLUAV,RPE,24,>30,0.13 ± 0.05,0.12 ± 0.03,>300

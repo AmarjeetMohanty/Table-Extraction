@@ -1,0 +1,30 @@
+0,1,2,3,4,5,6
+TABLE 1 | Homologous and recombinant Hepatitis C Virus (HCV) virus-like particle vaccines.,,,,,,
+Viral structural,Expression,Cells,Route of,HCV antigen,Animal studies,Reference
+components,system,,administration,,,
+HCV-core,Insect cells,Sf-9,Intraperitoneal and,"Core, E1, and E2",Mice and,"Baumert et al., 1999;"
+,,,intramuscular,,chimpanzees,"Lechmann et al., 2001;"
+,,,,,,"Murata et al., 2003;"
+,,,,,,"Elmowalid et al., 2007"
+,Mammalian,Huh-7,Subcutaneous,"Core, E1, and E2",Mice,"Kumar et al., 2016"
+,Yeast,"P
+. pastoris",Subcutaneous,"Core, E1 and E2",Rabbits,
+HBcore,Bacteria,"E. coli
+(GI698 cells)",Subcutaneous,Core (98 aa) and,Mice,"Mihailova et al., 2006"
+,,,,NS3 (155 aa),,
+,,"E. coli
+(K802 cells)",Subcutaneous,Core (60 aa) also,Mice,"Sominskaya et al.,"
+,,,,HBV-S1 (27 aa),,2010
+HBsAg,Mammalian,"Huh-7, HEK293T",Subcutaneous,E2 HVR-1 (36 aa),Mice,"Netter et al., 2001,"
+,,,,,,"2003; Vietheer et al.,"
+,,,,,,2007
+,,CHO cells,Subcutaneous,"E1, E2, and E1E2",Rabbits,"Beaumont et al., 2013,"
+,,,,,,2016; Beaumont and
+,,,,,,"Roingeard, 2015"
+PapMV CP,Bacteria,E. coli,Subcutaneous,E2,Mice,"Denis et al., 2007"
+MLV Gag,Mammalian,HEK293T,"Subcutaneous,",E1 and E1E2,Mice and,"Desjardins et al., 2009;"
+,,,intramuscular and,,macaques,"Garrone et al., 2011;"
+,,,intradermal,,,"Huret et al., 2013"
+,,,Intradermal,NS3,Mice,"Huret et al., 2013"
+TMV CP,Plant cells,N. benthamiana,Intranasal,E2 HVR-1,Mice,"Nemchinov et al., 2000"
+,,,,mimotope R9,,

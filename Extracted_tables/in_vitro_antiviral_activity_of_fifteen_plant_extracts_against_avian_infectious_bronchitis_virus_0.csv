@@ -1,0 +1,42 @@
+0,1,2,3,4,5,6
+,Table 3 Virucidal effect and virus yield reduction,,,,,
+No.,Plant extract,Concentrations of plant extracts equivalent to,PFU number,"(mean ± SD),","PFU reduction rate,","TCID50 (mean ± SD),"
+,,CC50,log10,,%,log10
+1.,S. montana,1,0,,100,0
+,,0.5,0,,100,0
+,,0.25,0.97 ± 0.19,,78.0,0.75 ± 0.64 a
+,,0.125,1.03 ± 0.11,,76.6,1.83 ± 0.31 c x
+5.,O. vulgare,1,0,,100,0
+,,0.5,0,,100,0
+,,0.25,1.08 ± 0.00,,75.4,1.00 ± 0.94 a
+,,0.125,1.40 ± 0.32,,68.2,2.48 ± 0.23 d x
+6.,M. piperita,1,0,,100,0
+,,0.5,0,,100,0
+,,0.25,0,,100,0a
+,,0.125,1.48 ± 0.05 x,,66.4,2.63 ± 0.13 d x
+8.,M. officinalis,1,0,,100,0
+,,0.5,0,,100,0
+,,0.25,0.15 ± 0.21,,96.6,0.56 ± 0.44 a
+,,0.125,1.72 ± 0.01 x,,60.9,3.38 ± 0.21 e x
+11.,T. vulgaris,1,0,,100,0
+,,0.5,0,,100,0
+,,0.25,0,,100,0
+,,0.125,1.70 ± 0.01 x,,61.3,3.25 ± 0.22 ex
+12.,H. officinalis,1,0,,100,0
+,,0.5,0,,100,0
+,,0.25,1.33 ± 0.01,,69.8,3.00 ± 0.29 b
+,,0.125,2.00 ± 0.03 x,,54.5,3.35 ± 0.29 e
+15.,S. officinalis,1,0,,100,0
+,,0.5,0,,100,0
+,,0.25,2.00 ± 0.00,,54.5,3.25 ± 0.25 b
+,,0.125,2.19 ± 0.03 x,,50.2,3.45 ± 0.21 e
+16.,D.,1,0,,100,0
+,canadense,,,,,
+,,0.5,0,,100,0
+,,0.25,0,,100,0a
+,,0.125,1.70 ± 0.01 x,,61.3,2.75 ± 0.16 d
+,IBV (control),–,4.40 ± 0.09,,–,5.00 ± 0.19
+,xmeans that the PHU number and TCID50 difference within the group (plant extract concentrations 0.25 and 0.125 CC50) was statistically significant (P < 0.05);,,,,,if
+,groups do not share a common letter a and b it means that the TCID50 (plant extract concentration 0.25 CC50) difference between the groups was statistically,,,,,
+significant (P < 0.05);,,,"if groups do not share a common letter c, d and e it means that the TCID50 (plant extract concentration 0.125 CC50) difference between the",,,
+,groups was statistically significant (P < 0.05),,,,,

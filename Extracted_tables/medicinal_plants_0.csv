@@ -1,0 +1,51 @@
+0,1,2,3,4,5
+,"Table 1 Challenging infectious diseases in calves and piglets: pathogens, pathophysiology, resulting demands for prophylaxis and therapy",,,,
+Disease complex,Pathogens,,,Pathophysiology/pathogenesis,Demands for prophylaxis
+,,,,,and therapy
+,Bacteria,Viruses,Parasites,,
+Calves,,,,,
+Neonatal Calf,Escherichia coli,Bovine Coronavirus,Cryptosporidium,secretory/malabsorptive/,antimicrobial
+Diarrhea1,,,parvum,maldigestive diarrhea,
+,,Rotavirus,,dehydration,antiviral
+,,,,hypovolemic shock,antidiarrheal
+,,,,decrease in temperature,antiadhesive
+,,,,d-lactat acidosis,astringent
+,,,,septicaemia,spasmolytic
+,,,,neurological symptoms,analgesic
+,,,,apathy,anti-inflammatory
+,,,,recumbency,orexigenic
+,,,,reluctance to drink,prebiotic
+,,,,fever,immunostimulant
+Bovine Respiratory,Mannheimia,Infectious bovine,,catharral/interstitial/fibrinous,antimicrobial
+Disease2,haemolytica,rhinotracheitis virus,,bronchopneumonia,
+,Pasteurella,Parainfluenza type 3 virus,,fever,antiviral
+,multocida,,,,
+,Histophilus somni,Bovine respiratory,,increased respiratory rate,analgesic
+,,syncytial virus,,,
+,Mycoplasma bovis,Bovine viral diarrhea virus,,dyspnoea,anti-inflammatory
+,,,,inappetence,immunostimulant
+,,,,nasal discharge,mucolytic
+,,,,coughing,secretolytic
+,,,,apathy,antitussive
+,,,,runting,
+Piglets,,,,,
+Neonatal Diarrhea,Escherichia coli,Rotavirus,Cryptosporidium spp.,secretory/malabsorbtive/,antimicrobial
+,,,,maldigestive diarrhea,
+Postweaning,Clostridium,Coronavirus,Isospora suis,enteritis,antiviral
+Diarrhea3,perfringens,,,,
+,Lawsonia,Porcine Circovirus type 2,Trichuris suis,colitis,antidiarrheal
+,intracellularis,,,,
+,Brachyspira spp.,,Oesophagostomum,dehydration,antiadhesive
+,,,dentatum,,
+,Salmonella spp.,,,acidosis,astringent
+,(Yersinia spp.),,,septicaemia,spasmolytic
+,,,,neurological symptoms,analgesic
+,,,,apathy,anti-inflammatory
+,,,,reduced growth rates,orexigenic
+,,,,,prebiotic
+,,,,,immunostimulant
+Porcine respiratory,Pasteurella,Porcine reproductive and,,suppurative/fibrinous/interstitial,antimicrobial
+disease complex4,multocida,respiratory syndrome virus,,bronchopneumonia,
+,Mycoplasma,Swine influenza virus,,coughing,antiviral
+,hyopneumoniae,,,,
+,,Porcine circovirus type 2,,nasal discharge,analgesic

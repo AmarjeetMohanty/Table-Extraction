@@ -1,0 +1,15 @@
+0,1,2,3,4
+,TABLE 2 | Demographic and clinical characteristic of IA and non-IA patients.,,,
+,,aspBIOmics consortium + UHS-GHV-PCR-AGA-UCSC-MORE populations,,
+,Overall (n = 834),IA patients (n = 157),Non-IA patients (n = 677),P-value
+DEMOGRAPHIC VARIABLES,,,,
+Age,52.89 ± 15.95,53.78 ± 15.37,52.69 ± 16.07,NS
+Sex ratio (male/female),1.28 (466/362),1.86 (99/53),1.18 (367/309),0.015
+HEMATOLOGICAL DISEASE,,,,
+AML,571 (68.62),112 (71.33),459 (68.00),NS
+ALL,77 (09.25),18 (11.46),59 (08.74),NS
+Other,184 (22.11),27 (17.19),157 (23.25),NS
+HSCT,380 (45.56),72 (45.85),308 (45.49),NS
+PROPHYLAXIS*,,,,
+Ever use of prophylaxis,386 (46.28),56 (35.67),330 (48.74),0.006
+Never use of prophylaxis,232 (27.81),54 (34.39),178 (26.29),0.006

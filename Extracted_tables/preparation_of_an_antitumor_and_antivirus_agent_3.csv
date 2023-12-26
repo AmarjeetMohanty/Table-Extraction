@@ -1,0 +1,28 @@
+0,1,2,3,4
+"PEg, polyethylene glycol; ACV, acyclovir.",,,,
+,Table 3 Inhibitory effects of RIPs and PEGylated RIPs on herpes simplex virus-1 (HSV-1) antigen,,,
+Protein,Concentration,OD450 of HSV-1,Inhibition ratio of,50% inhibiting
+,,antigen,HSV-1 antigen (%),concentration (μmol-1)
+Positive control,"µmol ⋅ L−1,*",0.923 ± 0.008,0,
+Negative control,,0.004 ± 0.001,,
+α-MMC,3.3,0.270 ± 0.011,71.055,0.67
+,0.3,0.550 ± 0.009,40.588,
+,0.03,0.827 ± 0.003,10.446,
+,0.003,0.892 ± 0.004,3.373,
+α-MMC-PEg,3.3,0.452 ± 0.004,51.270,2.94
+,0.3,0.689 ± 0.004,25.508,
+,0.03,0.866 ± 0.004,6.241,
+,0.003,0.902 ± 0.003,2.250,
+MAP30,3.3,0.220 ± 0.002,76.488,0.47
+,0.3,0.507 ± 0.010,45.320,
+,0.03,0.807 ± 0.006,12.591,
+,0.003,0.890 ± 0.001,3.556,
+MAP30-PEg,3.3,0.429 ± 0.003,53.740,1.17
+,0.3,0.674 ± 0.004,27.105,
+,0.03,0.854 ± 0.003,7.5472,
+,0.003,0.902 ± 0.000,2.286,
+Acyclovir,10,0.354 ± 0.004,61.901,2.39
+,1,0.597 ± 0.006,35.450,
+,0.1,0.872 ± 0.003,5.515,
+,0.01,0.921 ± 0.006,0.254,
+"Note: *Compared with positive control P , 0.01.",,,,

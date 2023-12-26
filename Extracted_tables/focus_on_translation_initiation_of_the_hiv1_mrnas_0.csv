@@ -1,0 +1,22 @@
+0,1,2,3,4
+(non-exhaustive list).,,,,
+IRES Type,eIFs Required,Family,Genus,Species
+,,,,Poliovirus [25]
+,"eIF4G, eIF4A, eIF2,",,,
+I,,Picornaviridae,Enterovirus,
+,,,,Rhinovirus A [34]
+,"eIF3, eIF1, eIF1A, eIF5",,,
+,,,,Human coxsakievirus B3 [35]
+,"eIF4G, eIF4A, eIF2,",,Cardiovirus,Encephalomyocarditis virus [26]
+II,,Picornaviridae,,
+,"eIF3, eIF1, eIF1A, eIF5",,,
+,,,Aphtovirus,Foot-and-mouth disease virus [36]
+,,,Hepacivirus,Hepatitis C virus (HCV) [37]
+,,Flaviridae,,
+,,,Pestivirus,Classical swine fever virus [37]
+,,,Senecavirus,Seneca Valley virus [38]
+,,Picornaviridae,Teschovirus,Porcine teschovirus 1 [39]
+III,"eIF2, eIF3, eIF5",,,
+,,,Enterovirus,Porcine enterovirus 8 [40]
+,,,Sapelovirus,Simian picornavirus 9 [41]
+,,Dicistroviridae,Cripavirus,Drosophila C virus [42]

@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6
+Table 1: RCAaanalysis of azole–resistant C. albicans isolates with known ERG11 mutationsb.,,,,,,
+,,,,MIC (μg/ml),,
+Patient no.,Isolate,Body site of,FLUa,VORa,Previously-characterized,Erg11p
+,no.,isolation,,,amino acid substitution(s),substitution(s) by RCA
+1,C438,Oropharynx,128,2,"Y257H, G464S","Y257H, G464S"
+,C440,Oropharynx,>256,>16,"A61V, Y257H, G307S, G464S","A61V, Y257H, G307S, G464S"
+2,C470,Oropharynx,32,0.25,S405F,S405F
+3,C480,Oropharynx,128,8,"G464S, K128T, R467I","G464S, K128T, R467I"
+4,C507,Oropharynx,64,8,"G464S, H283R, Y132H","G464S, H283R, Y132H"
+5,C527,Oropharynx,256,4,"G450E, Y132H","G450E, Y132H"
+6,C577,Oropharynx,128,0.5,G464S,G464S
+7,C594,Oropharynx,128,16,"S405F, Y132H","S405F, Y132H"

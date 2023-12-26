@@ -1,0 +1,21 @@
+0,1,2,3,4
+,"Table 4. Cleavage site used between nsp in Rs-BatCoV HKU32 strain TLC28A, Tr-BatCoV HKU33",,,
+,"strain GZ151867, BatCoV HKU10 and BtNv-AlphaCoV/SC2013.",,,
+,Cleavage Site,,,
+nsp,Rs-BatCoV HKU32,Ro-BatCoV,Tr-BatCoV HKU33,
+,,,,BtNv-AlphaCoV/SC2013
+,Strain TLC28A,HKU10 183A,Strain GZ151867,
+nsp1/nsp2,A/P,A/K,A/K,A/K
+nsp2/nsp3,G/G,G/S,G/G,G/G
+nsp3/nsp4,G/S,G/S,G/G,G/G
+nsp4/nsp5,Q/S,Q/S,Q/S,Q/A
+nsp5/nsp6,Q/S,Q/S,Q/G,Q/S
+nsp6/nsp7,Q/S,Q/S,Q/S,Q/S
+nsp7/nsp8,Q/S,Q/S,Q/S,Q/S
+nsp8/nsp9,Q/N,Q/N,Q/N,Q/N
+nsp9/nsp10,Q/A,Q/A,Q/A,Q/A
+nsp10/nsp12,Q/S,Q/A,Q/T,Q/A
+nsp12/nsp13,Q/A,Q/S,Q/S,Q/S
+nsp13/nsp14,Q/S,Q/A,Q/A,Q/S
+nsp14/nsp15,Q/G,Q/S,Q/S,Q/G
+nsp15/nsp16,Q/A,Q/S,Q/S,Q/S

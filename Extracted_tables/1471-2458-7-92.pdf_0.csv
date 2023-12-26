@@ -1,0 +1,35 @@
+0,1,2,3,4,5
+Table 1: Descriptive Characteristics of Participating Health Departments,,,,,
+Region,Size of Population*,Agent Tested,Length in Hours,Facilitator,Number of
+,,,,Involvement**,Participants
+Midwest,medium,novel,8.0,moderate,22
+Midwest,large,pandemic flu,6.0,active,21
+Midwest,medium,smallpox,3.0,moderate,17
+Northeast,large,smallpox,2.0,limited,5
+Northeast,medium,plague,3.0,limited,20
+Northeast,medium,smallpox,3.0,active,8
+Northeast,medium,anthrax,3.5,active,8
+Northeast,small,smallpox,3.0,limited,12
+South,medium,smallpox,5.0,moderate,12
+South,medium,pandemic flu,6.0,moderate,23
+South,medium,pandemic flu,6.0,active,44
+South,medium,smallpox,3.0,moderate,15
+South,medium,smallpox,5.0,limited,14
+South,medium,botulism,6.0,moderate,23
+South,medium,botulism,5.0,moderate,13
+South,large,botulism,2.0,moderate,18
+South,small,pandemic flu,5.0,active,16
+South,small,novel,8.0,moderate,20
+South,large,plague,3.0,limited,13
+South,small,novel,8.0,moderate,11
+South,small,botulism,5.0,limited,26
+South,large,smallpox,8.0,moderate,15
+West,medium,smallpox,4.0,active,15
+West,medium,smallpox,4.0,active,16
+West,small,smallpox,4.0,active,15
+West,medium,smallpox,4.0,active,17
+West,medium,smallpox,4.0,active,15
+West,large,smallpox,4.0,active,11
+West,large,smallpox,4.0,active,23
+West,medium,plague,3.0,limited,11
+West,large,smallpox,4.0,active,14

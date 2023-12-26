@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6,7
+,"Factors associated with inﬂuenza PCR positivity in adults with SARI, Queen Elizabeth Central Hospital, Blantyre, Malawi, 2011–2013",,,,,,
+,,,,Univariable*,,Multivariable*†,
+,,Inﬂuenza virus,Inﬂuenza virus,,,,
+Characteristic,Overall,"negative, N (%)","positive, N (%)",OR (95% CI),P value*,OR (95% CI),P value*
+Gendera,,,,,,,
+Male,489,431 (88.1),58 (11.9),Ref,–,–,–
+Female,636,532 (83.5),105 (16.5),1.47 (1.04–2.07),0.03,1.57 (1.10–2.26),0.01
+Age group (years),,,,,,,
+15–24,231,191 (82.7),40 (17.3),1.37 (0.89–2.11),0.36,1.23 (0.78–1.95),0.68
+25–34,419,359 (85.7),60 (14.3),1.10 (0.75–1.60),–,1.06 (0.71–1.58),–
+³ 35,476,413 (86.8),63 (13.2),Ref,–,Ref,–
+Year of surveillance,,,,,,,
+2011,251,205 (81.7),46 (18.3),2.12 (1.32–3.41),–,2.85 (1.72–4.71),–
+2012,366,331 (90.4),35 (9.6),Ref,–,Ref,–
+2013,509,427 (83.9),82 (16.1),1.82 (1.19–2.77),0.003,1.84 (1.17–2.87),< 0.001
+Season of recruitment,,,,,,,
+December–March,348,287 (82.5),61 (17.5),2.98 (1.71–5.17),< 0.001,2.82 (1.57–5.06),< 0.001
+(hot and rainy),,,,,,,
+April–August (cool and dry),508,424 (83.4),84 (16.5),2.77 (1.63–4.72),–,2.37 (1.35–4.15),–
+September–November,270,252 (93.3),18 (6.7),Ref,–,Ref,–
+(hot and dry),,,,,,,
+HIV status,,,,,,,
+Negative,551,455 (82.6),96 (17.4),Ref,–,Ref,–
+Positive,558,498 (82.3),60 (10.8),0.57 (0.40–0.81),0.002,0.53 (0.36–0.76),< 0.001
+Medical history,,,,,,,
+Malaria RDT—negative,883,745 (84.3),138 (15.6),–,–,–,–
+Positive,28,28 (100),0 (0),–,–,–,–
+Recent antibiotics—no,556,474 (85.2),82 (14.8),Ref,–,–,–
+Yes,481,411 (85.4),70 (14.6),0.98 (0.70–1.39),0.93,–,–
+Current smoking—no,"1,019",868 (85.1),151 (14.8),Ref,–,–,–
+Yes,29,28 (96.5),1 (3.5),0.21 (0.03–1.52),0.12,–,–
+,Co-detection with other respiratory virus(es),,,,,,
+No,717,593 (82.7),124 (17.3),Ref,–,Ref,–
+Yes,409,370 (90.5),39 (9.5),0.50 (0.34–0.74),< 0.001,0.46 (0.31–0.70),< 0.001
+,CI = conﬁdence interval; HIV = human immunodeﬁciency virus; OR = odds ratio; PCR = polymerase chain reaction; RDT = rapid diagnostic test; SARI = severe acute respiratory illness.,,,,,,

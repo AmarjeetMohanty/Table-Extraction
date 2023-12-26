@@ -1,0 +1,22 @@
+0,1,2,3,4,5
+Table 1 Cross-correlation coefficients between antibiotic use and respiratory viruses (2010-2015),,,,,
+Antibiotics,RSV,IFV,hCoV,hRV,ADV
+Tetracyclines,−0.14,0.05,−0.09,0.24,− 0.07
+,p = 0.24,p = 0.67,p = 0.43,p = 0.04,p = 0.55
+,0-month lag,7-month lag,− 3-month lag,2-month lag,0-month lag
+Penicillins,− 0.01,0.45,0.06,−0.13,− 0.09
+,p = 0.98,p < 0.01,p = 0.64,p = 0.29,p = 0.44
+,10-month lag,0-month lag,2-month lag,2-month lag,6-month lag
+Other beta-lactam antibacterials,−0.02,0.46,0.02,−0.14,−0.11
+,p = 0.90,p < 0.01,p = 0.85,p = 0.24,p = 0.34
+,1-month lag,0-month lag,1-month lag,2-month lag,0-month lag
+Macrolides,0.12,0.40,−0.06,−0.08,− 0.16
+,p = 0.31,p < 0.01,p = 0.60,p = 0.50,p = 0.18
+,10-month lag,0-month lag,1-month lag,8-month lag,9-month lag
+Aminoglycosides,−0.03,0.15,0.11,0.10,−0.11
+,p = 0.79,p = 0.20,p = 0.36,p = 0.39,p = 0.37
+,10-month lag,0-month lag,1-month lag,0-month lag,5-month lag
+Fluoroquinolones,−0.02,0.35,−0.03,−0.04,− 0.16
+,p = 0.84,p < 0.01,p = 0.83,p = 0.76,p = 0.19
+,3-month lag,0-month lag,2-month lag,2-month lag,6-month lag
+"Abbreviations: ADV adenovirus, hCoV human coronavirus, hRV human rhinovirus,",,,"IFV Influenza virus, RSV respiratory syncytial virus",,

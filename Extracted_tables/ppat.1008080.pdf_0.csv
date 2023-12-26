@@ -1,0 +1,32 @@
+0,1,2,3,4,5,6,7,8
+Table 1. Patient and sample information.,,,,,,,,
+Case,PID,Age at initial sampling,Specimen,Wks after initial,RV RNA,Virus,Isolate,Designation for genome sequence
+ID,,(years),type,sample,amount a,isolation,name,
+CA,AT,10,skin biopsy,0,1.8x104,Pos,CA6944,RVi/California.USA/43.16/GR
+,,,,,,,,RVs/California.USA/43.16/GR
+,,,buccal swab,0,0,n.t.,,
+,,,buccal swab,0,0,n.t.,,
+,,,throat swab,8,0,n.t.,,
+,,,urine,8,0,n.t.,,
+,,,serum,8,0,n.t.,,
+,,,swab lesion 1,8,0,n.t.,,
+,,,swab lesion 2,8,0,n.t.,,
+RI,AT,17,skin biopsy,0,1.7x105,Pos,RI6318,RVi/RhodeIsland.USA/9.17/GR
+,,,,,,,,RVs/RhodeIsland.USA/9.17/GR
+,,,NP swab,0,0,n.t.,,
+,,,urine,0,0,n.t.,,
+,,,PBMC,0,0,Neg,,
+,,,serum,14,0,n.t.,,
+LA,AT,6,skin biopsy,0,5.6x103,Pos,LA3331,RVi/Louisiana.USA/27.17/GR
+,,,,,,,,RVs/Louisiana.USA/27.17/GR
+,,,throat swab,3,0,n.t.,,
+,,,urine,6,0,n.t.,,
+,,,serum,6,0,n.t.,,
+,,,NP swab,0,2.0x102,Neg,,RVs/Louisiana.USA/27.17/NP
+,,,NP swab,3,3.7x102,Neg,,
+,,,NP swab,9,0,n.t.,,
+,,,NP swab,12,0,n.t.,,
+,,,NP swab,15,0,n.t.,,
+OR,NBS,11,NP swab,0,0,n.t.,,
+,,,skin biopsy,6,1.2x104,Pos,OR5810,RVi/Oregon.USA/05.18/GR
+,,,,,,,,RVs/Oregon.USA/05.18/GR

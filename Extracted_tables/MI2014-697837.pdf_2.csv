@@ -1,0 +1,33 @@
+0,1,2,3,4,5,6,7
+−1696        −953,,,−534,−267,,"−97
+−190",
+,,,,,,,CCAAT    TATA
+−1696-pGL3,,,,,,,
+,ISRE,ISRE,C/EBP-𝛽,ISRE,,NF-𝜅B2/1,
+,STAT,STAT,,,,AP-1,
+"−
+267-pGL3",,,,,,,
+−267,,,,,,,
+GGGACTTCCC,+97,,,,,,
+GGGAAATTCC,,,,,,,
+CCAAT TATA,,,,,,,
+,,,−1696/+97,,,,
+,Luciferase,,,,,,
+"NF-𝜅B2/1
+ISRE",,,,,,,
+,,,−953/+97,,,,
+AP-1,,,,,,,
+𝜇NF-𝜅B1-pGL3,,,,,,,
+−267,,,−534/+97,,,,
+GtGACTTCaC,+97,,,,,,
+GGGAAATTCC,,,−267/+97,,,,
+CCAAT TATA,,CXCL10 promoter reporter genes,,,,,
+,Luciferase,,,,,,∗
+,,,−190/+97,,,,
+"NF-𝜅B2/1
+ISRE",,,,,,,
+AP-1,,,,,∗,,
+,,,−97/+97,,,,
+𝜇NF-𝜅B2-pGL3,,,,,,,
+−267,,,pGL3-,,,,
+GGGACTTCCC,+97,,,,,,

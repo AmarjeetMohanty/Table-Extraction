@@ -1,0 +1,19 @@
+0,1,2,3,4,5
+,,100% VP-SFM,,,"100% Ultraculture
+10% DMEM (1% FBS)+90% SFM4MegaVir"
+,150,VP-SFM,,200,Ultraculture SFM
+,,,,150,
+,100,,,,
+Cell proliferation (%),,,Cell proliferation (%),100,
+,50,,,,
+,,,,50,
+,0,,,0,
+,,10 9  8  7  6  5  4  3  2 2  1  0  0  0  0  0 0  0  0  0,,,10 9  8  7 6  5  4  3  2  2  1 0  0  0  0  0  0 0  0  0  0 0
+,,FBS (%),,,FBS (%)
+,250,Opti-Pro-SFM,,150,SFM4MegaVir
+,200,,,,
+,,,,100,
+,150,,,,
+Cell proliferation (%),100,,Cell proliferation (%),,
+,,,,50,
+,50,,,,

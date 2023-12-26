@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6
+,,Mono versus co-infection,,,RSV-infected versus RSV-uninfected,
+n = 48,,,,,,
+,Co-infection,Mono-infection,,RSV-infected,RSV-uninfected,
+,,,P-value,,,P-value
+,n = 11,n = 37,,n = 40,n = 8,
+"Age, months",4.3 (2.2 - 11.4),3.2 (1.6 - 9.4),0.413,3.3 (1.8 - 9.8),3.0 (1.6 - 8.5),0.740
+Length of,2.0 (1.7 - 3.4),1.9 (1.2 - 4.2),0.864,2.5 (1.6 - 4.4),1.8 (1.2 - 1.9),0.162
+"hospitalization, days",,,,,,
+Oxygen,6 (54.6%),24 (64.9%),0.535,25 (62.5%),5 (62.5%),1.000
+supplementation,,,,,,
+Tubefeeding,4 (36.4%),16 (43.2%),0.681,18 (45.0%),2 (25%),0.295
+Highest dyspnoea,3.0 (2.0 - 4.0),3.0 (1.5 - 5.0),0.654,3.0 (2.0 - 5.0),2.5 (1.0 - 4.0),0.285
+score (0-10),,,,,,
+Mechanical,1 (9.1%),2 (5.4%),0.658,3 (7.5%),0 (0%),0.424
+ventilation,,,,,,

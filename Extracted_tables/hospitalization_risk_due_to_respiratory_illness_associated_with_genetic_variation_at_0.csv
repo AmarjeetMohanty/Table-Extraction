@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6
+,,ILI A(H1N1)pdm09 positive patients,,,,ILI A(H1N1)pdm09 negative patients
+,Hospitalized,Non-hospitalized,OR Crude,OR Adjusted2,Hospitalized,Non-hospitalized
+,(cases),(controls),(95% CI),(95% CI),(cases),(controls)
+n,84,184,,,173,351
+Genotypes,,,,,,
+TT (%),73 (86.9),152 (82.6),,,134 (77.5),312 (88.9)
+CT (%),9 (10.7),32 (17.4),,,39 (22.5),38 (10.8)
+CC (%),2 (2.4),0 (0),,,0 (0),1 (0.28)
+Alleles,,,,,,
+C (%),13 (7.7),32 (8.7),,,39 (11.3),40 (5.7)
+T (%),155 (92.3),336 (91.3),,,207 (92.3),662 (94.3)
+Dominant,,,,,,
+model1,,,,,,
+CT/CC (%),11 (13.1),32 (17.4),,,39 (22.5),39 (11.1)
+vs,,,,,,
+TT (%),73 (86.9),152 (82.6),,,134 (77.5),312 (88.9)
+,,,0.72,0.732,,

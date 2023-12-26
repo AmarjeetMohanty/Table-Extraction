@@ -1,0 +1,40 @@
+0,1
+,"+
+σ1,nI12 + σ2,nI22 + σ3,nI32"
+,(cid:13)
+where,
+,"+
+σ1,nI13 + σ2,nI23 + σ3,nI33"
+"(cid:12)
+(cid:11)",
+2,
+"X1,i =
+1Si,1 − 1Sl,1",where
+"(cid:11)
+(cid:12)",
+2,
+"X2,i =
+1Si,2 − 1Sl,2","σ1,l = S1 − 1Sl,1"
+,"σ2,l = S2 − 1Sl,2"
+and,
+,"σ3,l = S3 − 1Sl,3"
+"(cid:11)
+(cid:12)",
+2,
+"X3,i =
+1Si,3 − 1Sl,3","σ1,m = S1 − 1Sm,1"
+,"σ2,m = S2 − 1Sm,2"
+"Similar
+treatments yielded the 2C and 3C matrices,",
+,"σ3,m = S3 − 1Sm,3"
+"resulting in three covariance matrices (1C, 2C, and 3C).",
+We then created a pool-within-class covariance matrix,"σ1,n = S1 − 1Sn,1"
+"P.
+If we define L = 3l-1, M = 3m-1,
+and N = 3n-1,",
+,"σ2,n = S2 − 1Sn,2"
+then:,
+,"σ3,n = S3 − 1Sn,3"
+"⎡ ⎣
+⎤ ⎦
+P1,1 P1,2 P1,3",

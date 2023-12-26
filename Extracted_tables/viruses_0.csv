@@ -1,0 +1,29 @@
+0,1,2
+in 29/121 (24%) samples.,,
+,Table 2. Agents detected in PNA samples from 121 hospitalized children.,
+,,Tandem multiplex real-time PCR plus
+Number of,,
+,Original reported result†,supplementary picornavirus and
+samples,,
+,,metapneumovirus semi-nested PCR result
+12,RSV,"RSV A (4), RSV B (8)"
+1,"RSV, PIV-1","RSV B, PIV-1"
+12,Human rhinovirus (HRV),HRV
+1,"HRV, PIV-1","HRV, PIV-1"
+4,Influenza virus B,Influenza virus B
+1,PIV-1,PIV-1
+2,PIV-3,PIV-3
+1,Human metapneumovirus,Human metapneumovirus (hMPV)
+31,Neg,Neg
+4,Neg,"RSV A (2), RSV B (2)"
+7,Neg,HRV
+3,Neg,HBoV
+1,Neg,"HRV, KI polyomavirus"
+1,Neg,HCoVHKU1
+1,Neg,"HCoVNL63, Pneum jirovecii, WU polyomavirus"
+1,Neg,HCoVNL63
+1,Neg,PIV-3
+4,RSV,"RSV A, HRV"
+1,RSV,"RSV B, HRV"
+2,RSV,"RSV A, HBoV, GAS"
+1,RSV,"RSV A, HBoV"

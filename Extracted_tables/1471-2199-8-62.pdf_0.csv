@@ -1,0 +1,50 @@
+0,1,2,3,4,5,6,7,8
+,"Table 1: A list of the gene annotations, functions, primer and probe sequences, and qPCR metrics for the 12 new reference genes, and",,,,,,,
+glyceraldehyde 3-phosphate dehydrogenase,,,,,,,,
+Gene Name,Gene Function,Gene,Accession,Forward(F) and,Probe,Average,R2,PCR
+,,Symbol,Number,Reverse(R) Primers,Sequence,Standard,,Efficiency
+,,,[GenBank],,,Deviation of,,
+,,,,,,Triplicate,,
+CG14980-PB,Protein coding,C7orf28B,XM_536878,F-gcaggaagggattctccag,gccaggaa,19.8,0.986,104.3
+,,,,R-ggtccagtaagaaatcttccataa,,,,
+Glyceraldehyde-,Enzyme in the glycolysis/,GAPDH,NM_001003142,F-ctggggctcacttgaaagg,ctgctcct,20.3,0.991,101.1
+3-phosphate,gluconeogenesis,,,R-caaacatgggggcatcag,,,,
+dehydrogenase,pathway,,,,,,,
+Gu binding,Nuclear receptor in,PIAS1,XM_535524,F-ggagacaatcagcattataacacct,ggctgctg,16.9,0.990,99.6
+protein,transcriptional co-,,,R-tgatcatctgacactgctgct,,,,
+,regulation,,,,,,,
+HIRA interacting,Histone-interaction-,HIRP5,XM_850340,F-aattcagaacatgctgcaatttta,aggtggag,8.6,0.998,96.9
+protein 5,DNA packaging,,,R-tgattcatcatccataacctgttc,,,,
+isoform 2,,,,,,,,
+Hematopoietic,Transport protein,TRAPPC2L,XM_844929,F-gatgatccaggtgtgctgag,ctggagga,25.2,0.993,97.2
+stem/progenitor,particle involved in,,,R-caatacggttatgtcaacagcact,,,,
+cells 176,endoplasmic reticulum,,,,,,,
+,to Golgi vesicle,,,,,,,
+,transport,,,,,,,
+5-,Purine biosynthesis,ATIC,XM_858011,F-cgctgcctctttcaaacat,cagcaggt,13.4,0.991,97.7
+aminoimidazole-,,,,R-tttggcctcatcttcactgag,,,,
+4-carboxamide,,,,,,,,
+ribonucleotide,,,,,,,,
+formyltransferas,,,,,,,,
+e/IMP,,,,,,,,
+cyclohydrolase,,,,,,,,
+Mitogen-,Phosphorylates,MAPK6,XM_858091,F-tcttcttgggatagccagtttg,ggtggtgg,14.9,0.992,97.6
+activated,microtubule-associated,,,R-cctcacctcacaacaaaactgat,,,,
+protein kinase 6,protein 2 (MAP2),,,,,,,
+Mitochondrial,Mitochondrial ribosomal,MRPS25,XM_533729,F-tgaaggtcatgacggtgaac,gccaggaa,14.6,1.000,95.5
+28S ribosomal,subunit protein synthesis,,,R-tggatctgaggtatgttgaaaaac,,,,
+protein S25,,,,,,,,
+Cytoplasmic,Regulates cell,NCK2,XM_538440,F-cagacgctctacccgttca,aggaggag,28.7,0.975,96.7
+protein NCK2,proliferation,,,R-gtctcgcccttctcgaagtt,,,,
+ORM1-like 2,Protein folding in the,ORMDL2,XM_843143,F-atggactacgggctccaat,ctcctccc,28.2,0.996,103.1
+,endoplasmic reticulum,,,R-ctggccaggaggtagagtaca,,,,
+Phosphatidylseri,Membrane bound,PTDSS1,XM_849686,F-actcagaatgcgacgatgg,ctggtctc,15.3,0.996,100.9
+ne synthase I,protein that catalyses,,,R-tcagaaccttttgaacctttcg,,,,
+,the replacement of,,,,,,,
+,phospholipids by L-,,,,,,,
+,serine,,,,,,,
+Mitochondrial,Mitochondrial protein,MRPS7,XM_846915,F-agtgcagggagaagaagcac,ggatgctg,12.1,0.998,100.8
+ribosomal,synthesis,,,R-cagcagctcgtgtgacaact,,,,
+protein S7,,,,,,,,
+Transketolase,Enzyme in pentose,TKT,XM_533792,F-caacttctgtggctcccact,tggggaag,11.8,0.993,103.4
+,phosphate pathway,,,R-ccagatcttccagagccatc,,,,

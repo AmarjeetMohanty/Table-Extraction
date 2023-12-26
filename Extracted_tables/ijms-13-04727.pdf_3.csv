@@ -1,0 +1,38 @@
+0,1,2,3,4,5,6,7,8,9
+,,,,Table 2. Cont.,,,,,
+,Biopanning,,Biopanning,,,,Vaccination,,
+Library,,"Samples 
+Target",,Mimotopes,Epitopes,Additional,,Results,Reference
+,support,,procedure,,,,attempts,,
+,,,Panning on,,,,,,
+,,HIV subtype,pooled,,gp41 MPER,,,,
+,Tosylactivated,CRF02AG-,longitudinal,,and LLP2,,,,
+,,,,"Linear (SLxxLRL,",,,,,
+,beads coupled to,infected,samples of one,,regions;,,,,
+12-mer RPL,,,IgG,"KxWWxA,",,NA,NA,NA,[56]
+,"Anti human IgG,",plasma with,"HIV + plasma,",,gp120 C1,,,,
+,,,,Kx3IGPHxxY),,,,,
+,Fc-specific Ab,4E10-like,negative,,and V3,,,,
+,,BNtAbs,selection on HIV,,regions,,,,
+,,,- plasma pool,,,,,,
+,,,Panning on,,,,,,
+,,,pooled,,,Competition with,,,
+,,HIV subtype,,"38 linear, 22 putative",gp41 ID,,,,
+,Tosylactivated,,longitudinal,,,rgp120/gp140 for,,,
+"12-mer, 7-",,A-infected,,conformational,epitope;,,,,
+,beads coupled to,,samples of one,,,antibodies binding;,,,
+"mer, 7-mer-c",,plasma with,IgG,"(Kx3Hx3Y,",gp120 V2,,NA,NA,[57]
+,"Anti human IgG,",,"HIV + plasma,",,,peptide,,,
+RPLs,,4E10-like,,"KxxHxGPx3F,",and V3,,,,
+,Fc-specific Ab,,negative,,,neutralization,,,
+,,BNtAbs,,CxGxLxCTxNxP),regions,,,,
+,,,selection on HIV,,,inhibition assays,,,
+,,,- plasma pool,,,,,,
+,,Serum of,,,,Reactivities of,,,
+DNAse-,Purified IgG,,Panning on,,N- and,,,,
+,,rabbits,,,,inserts tested as,,,
+fragmented,captured on,,"IgG 
+rabbit anti p24",p24 fragments,C-terminus,,NA,NA,[58]
+,,immunized,,,,proteins in fusion,,,
+Gag DNA,microwells,,IgG,,of p24,,,,
+,,with p24,,,,with GST,,,

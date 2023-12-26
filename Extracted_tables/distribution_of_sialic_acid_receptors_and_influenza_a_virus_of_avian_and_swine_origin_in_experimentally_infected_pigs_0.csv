@@ -1,0 +1,51 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+influenza A virus antigen,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,A,
+,Inoculum,AIV,,,AIV,SIV,,,SIV,,Mock,Mock,,Sent.,,
+,Necropsy,H4N6,,H4N6,,H1N2,,,H1N1,,PID4,PID8,,PID8,,
+,day,PID4,,,PID8,PID4,,,PID4,,,,,,,
+,Pig,A,B,C,D,E,F,G,H,I,J,K,L,M,,
+,alv,+,+,-,+,-,+,+,-,-,-,-,-,-,,
+lu1,br.iol,+*,+,-,+*,-,+,+,+,-,-,-,-,-,,
+,bro,-,+*,-,-,+,+,+,+,-,-,-,-,-,,
+,alv,+,+,+,+,+,+,+,+,-,-,-,-,-,,
+lu2,br.iol,+*,+,-,+,+,+,+,+,-,-,-,-,-,,
+,bro,-,+*,-,-,+,+,+,+,-,-,-,-,-,,
+,alv,+,+,+,+,+,+,+,+,-,-,-,-,-,,
+lu3,br.iol,+,+,+*,+*,+,+,+,+,-,-,-,-,-,,
+,bro,+*,+*,-,-,+,+,+,+,-,-,-,-,-,,
+,,,,,,,,,,,,,,,B,
+,alv,+*,-,-,-,+,-,-,+,-,-,-,-,-,,
+lu4,br.iol,-,-,-,-,+,+,+,+,-,-,-,-,-,,
+,bro,-,-,-,-,+,+,+,+,-,-,-,-,-,,
+,alv,-,+,+,+,+,-,-,+,-,-,-,-,-,,
+lu5,br.iol,-,+,+,-,+,+,+,+,-,-,-,-,-,,
+,bro,-,-,-,-,+,+,+,+,-,-,-,-,-,,
+,alv,-,+,+,+,i,-,-,+,-,-,-,-,-,,
+,,,,,,,,,,,,,,,,b
+lu6,br.iol,-,+,-,-,i,+,+,+,-,-,-,-,-,,
+,bro,-,+*,-,-,i,+,+,+,-,-,-,-,-,,
+,alv,+,+,+,+,+,+,+,+,-,-,-,-,-,,
+lu7,br.iol,-,+,+*,-,+,+,+,+,-,-,-,-,-,,
+,bro,-,-,-,-,+,+,+,+,-,-,-,-,-,,
+,alv,+,+,+,+,+,-,-,+,-,-,-,-,-,,
+,,,,,,,,,,,,,,,,Figure 5 Immunohistochemical staining of swine influenza
+lu8,br.iol,-,+,+*,+*,+,-,+,+,-,-,-,-,-,virus antigens in lung tissue from a pig.,Immunohistochemical
+,,,,,,,,,,,,,,,detection of swine influenza virus (SIV) antigens using polyclonal,
+,bro,+*,+*,-,-,+,+,+,+,-,-,-,-,-,,
+,,,,,,,,,,,,,,,,rabbit anti-swine influenza antibody against A/swine/Denmark/4744/
+,alv,-,-,-,+*,-,-,+,+,-,-,-,-,-,,
+,,,,,,,,,,,,,,,,1981 (H1N1) and counterstaining with hematoxylin. A: Lung section
+lu9,br.iol,-,-,-,-,+,+,+,+,-,-,-,-,-,from SIV H1N1 infected pig euthanized PID 4. SIV antigen positive,
+,,,,,,,,,,,,,,,(brown) epithelial cells (arrow) are seen in a bronchus. SIV antigen,
+,bro,-,-,-,-,+,+,+,+,-,-,-,-,-,,
+,,,,,,,,,,,,,,,positive cells are also seen in the exudates in lumen of,the
+,Trachea,-,-,-,-,+,+,+,+,-,-,-,-,-,,
+,,,,,,,,,,,,,,,bronchus (arrowhead). Original magnification x10. B: Lung section,
+,Nose,-,-,-,-,+,+,-,-,-,-,-,-,-,from SIV H1N2 infected pig euthanized PID 4. SIV antigen positive,
+,,,,,,,,,,,,,,,,(brown) epithelial cells are seen in a bronchiole (b) and in alveolar
+lu1: cranioventral part of,,,,,the left cranial,,lobe;,,lu2: caudoventral part of,,,,,the left,,
+,,,,,,,,,,,,,,,"septa (arrows).
+(Original magnification x10).",
+cranial,lobe;,lu3: dorsal part of,,,,the left cranial,,lobe;,,lu4: ventral part of,,,the,,,
+right cranial,,lobe;,lu5: middle part of,,,,the right cranial,,,lobe;,,lu6: dorsal part of,,,,

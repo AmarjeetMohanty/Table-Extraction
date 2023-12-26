@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6,7,8,9
+A,B,,Control-,,,,Beclin1-,,
+"HEK293T cells, IFNβ-Luc",,,siRNA,,,,siRNA,,
+120,,,,,,,,,
+Vector,,+,+,-,,+,+,-,
+,Vector,,,,+-,,,+-,
+RIG-IN,,,-,+,,,-,+,
+100,PLP2-TM,- -,,,,- -,,,
+,Flag-RIG-IN,,+,-,+,,+,+-,
+80,,,,,,,,,
+,WB: Beclin1,,,,,,,,Beclin1
+"Relative luciferase activity
+60",,,,,,,,,
+,,,,,,,,,PLP2-TM
+40,WB: V5,,,,,,,,
+,*,,,,,,,,
+20,WB: Flag,,,,,,,,RIG-IN
+0,,,,,,,,,

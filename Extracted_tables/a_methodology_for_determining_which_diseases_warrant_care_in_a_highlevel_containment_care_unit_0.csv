@@ -1,0 +1,34 @@
+0,1,2,3,4
+,Figure 1. Construct used in determining diseases warranting care in a high-level containment care unit.,,,
+,Table 1.,ID50 and R0 data for putative HLCC pathogens.,,
+,Mechanism of PTP,,,
+Pathogen,,ID50,R0,References
+,Spread,,,
+,,1-10 aerosolized,,
+Ebola,Blood & Body Fluids,,1.3–2.53,[15–22]
+,,organisms,,
+,,1-10 aerosolized,,
+Marburg,Blood & Body Fluids,,1.59,"[11,23]"
+,,organisms,,
+,,1-10 aerosolized,,
+Lassa,Blood & Body Fluids,,1.23–1.33,"[11,24]"
+,,organisms,,
+,Scant data; Presumably,,,
+Lujo,,No data,No data,
+,Blood & Body Fluids,,,
+Junin,Blood & Body Fluids,No data,<1,"[25,26]"
+Machupo,Blood & Body Fluids,No data,<1,"[21,22]"
+,Scant data; Presumably,,,
+Guanarito,,No data,No data,
+,Blood & Body Fluids,,,
+Sabia,No data,No data,<1,[21]
+CCHF,Blood & Body Fluids,No data,<1,"[21,27]"
+,Respiratory Droplets;,,,
+SARS,,No data,2.2–3.6,[28–31]
+,Possibly Droplet Nuclei,,,
+,Respiratory Droplets;,,,
+MERS,,No data,0.60–11.5 1,[32–36]
+,Possibly Droplet Nuclei,,,
+,Respiratory Droplets;,,,
+H5N1 Inﬂuenza,,1000 viral particles 2,1.14,[37]
+,Possibly Droplet Nuclei,,,

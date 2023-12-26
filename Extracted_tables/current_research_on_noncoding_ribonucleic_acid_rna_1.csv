@@ -1,0 +1,36 @@
+0,1,2,3,4
+,,Table 2. Cont.,,
+Tools,Language,Prerequisites,Input,PMID
+,,Perl,,
+,,awk,,
+circRNA_Finder,Perl,,reads in fasta,25544350
+,,STAR (versions 2.4.1c),,
+,,samtools,,
+,,,alignment in,
+CIRI,Perl,Perl,,2558336528334140
+,,,SAM,
+,,BWA-0.7.3a,,
+ACFS,Perl,Perl,reads in fasta,27929140
+,,BLAT (optional),,
+,,Bowtie2 (≥2.2.1),,
+,,Bowtie (≥0.12.7),,
+,"Perl,",Perl,,
+KNIFE,,,reads in fastq,26076956
+,Python & R,"Python 2.7.5 (numpy, scipy)",,
+,,R 3.0.2 (data.table),,
+,,SAMtools,,
+,,Python 2.7,,
+,,BEDTools,,
+,Python &,,,
+NCLscan,,SAMtools,reads in fasta,26442529
+,C++,,,
+,,BLAT,,
+,,BWA,,
+,,,alignment in,
+DCC,Python,"Python (pysam, pandas, numpy, and HTSeq)",,26556385
+,,,BAM,
+,,TopHat,,
+,,,alignment in,
+UROBORUS,Perl,SAMtools,,26873924
+,,,SAM,
+,,Bowtie1/Bowtie2,,

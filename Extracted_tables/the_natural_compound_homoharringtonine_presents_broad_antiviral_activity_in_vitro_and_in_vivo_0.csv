@@ -1,0 +1,11 @@
+0,1,2,3,4,5
+,"Table 1. Antiviral activity of ribavirin, acyclovir, quercetin, and homoharringtonine (HHT).",,,,
+,,,a,b,
+Cells,Test Drugs,Virus,CC50,IC50,SI c
+HeLa,HHT,NDV,1.918,0.018,107
+HeLa,Ribavirin,NDV,2821,44.241,64
+Vero,HHT,PEDV,5.582,0.112,50
+Vero,Quercetin,PEDV,>1000,6.897,>145
+Vero,HHT,HSV-1,5.582,0.139,40
+Vero,Acyclovir,HSV-1,3809,0.789,4828
+Experiments were carried out in triplicate. a half maximal cytotoxic concentration (µM). b half maximal inhibitory,,,,,

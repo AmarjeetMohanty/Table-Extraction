@@ -1,0 +1,32 @@
+0,1,2,3,4,5,6,7,8,9,10
+Asn358,,,,,,,,,,
+a,b,Receptor-,,d,,,,,,
+,,,,,,,,,,
+"glycan
+Domain",binding,180°,,,,,,,,
+B,"loops
+Asn358",,MHV domain B,,,,,,,
+,glycan,,,0.6,,,,,,
+Domain,,NL63,,,,,,,,
+,,,,,,,,,,HCoV-NL63 S1-mFc
+,,Domain B,,,,,,,,
+A,Domain A,,,,,,,,,
+,,,,,,,,,,HCoV-NL63 S1-0-mFc
+,,,,0.5,,,,,,
+,,,,,,,,,,HCoV-NL63 S1-B-mFc
+,,,,0.4,,,,,,
+,,,,,,,,,,SARS-CoV S1-mFc
+,,,Domain C,,,,,,,PEDV S1-mFc
+,,,,"Absorbance at 450 nm (a.u.)
+0.3",,,,,,
+,Domain 0,Domain D,,,,,,,,
+Domain,,,,,,,,,,
+0,,,,0.2,,,,,,
+,c,,,,,,,,,
+,,Conformational,,,,,,,,
+,,change after,,,,,,,,
+,,ACE2 binding,,,,,,,,
+,,,,0.1,,,,,,
+,,,,0.0,,,,,,
+,,,,,25,12.5,6.25,3.13,1.56,"0.78
+0.39"

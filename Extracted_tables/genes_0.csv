@@ -1,0 +1,34 @@
+0,1,2,3,4,5
+,stationary phase [25].,,,,
+process,,,nanomachine,Escherichia coli,Bacillus subtilis
+maintenance,,,,,
+,RNA,,degradosome,Rne PnpA Eno TpiA Orn,Rny RnjA PnpA Eno TpiA
+,turnover,,(exosome),PcnB,NrnA NrnB
+,protein,,proteasome,ClpAXP Lon HslVU,ClpXP LonAB
+,turnover,,,FtsH...,ClpCE ClpQ ClpY FtsH
+,repair,refolding,,Spy DnaJK GrpE GroSL,DnaJKGrpE GroSL
+,,,,...,
+,,restoring,,Pcm FrlDB FrlC MsrAB,FrlDB MsrAB
+transcription,,,RNA,RpoABC NusA NusG,RpoABC NusAG Mfd
+,,,polymerase,Mfd Sigmas,Sigmas
+translation,,,Ribosome and,Rps[A-U] Rpl[A-Y],Rps[B-U] Rpl[A-Y]
+,,,tRNAs,Rpm[A-J],Rpm[A-J]
+,,,,20 tRNA synthetases,19 tRNA synthetases 1
+,,,,Rmf EFTu EFTs EFG,amidotransferase EFTu
+,,,,Modifications...,EFTs EFG
+,,folding,chaperones,Tig Ppi,Tig DnaJKGrpE GroSL
+,,,,DnaJKGrpEGroSL,
+metabolism,,carbon,,Eno PykA Pps AceEF,Eno Tpi PykA PdhABC
+,,,,Lip Ppa ...,PpaC...
+,,nitrogen,,Aminotransferases,Aminotransferases
+,,phosphorus,,Adk Ndk Ppk...,Adk Ndk PpnKA PpnKB
+compartmen,,sensing,,Amino acids;,Amino acids; nucleosides
+-talisation,,transporting,,nucleosides or bases;,or bases; vitamins;
+,,,,vitamins; carbohydrates,carbohydrates or
+,,,,or dicarboxylates;,dicarboxylates;
+,,,,polyamines; ions,polyamines; ions
+replication,repair,,,"chemical alterations,","chemical alterations,"
+,,,,single and double strand,single and double strand
+,,,,breaks and,breaks and recombination
+,,,,recombination,
+,initiation,,primase,control of restart,control of restart

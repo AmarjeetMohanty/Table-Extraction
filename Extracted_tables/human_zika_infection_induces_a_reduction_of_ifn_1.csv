@@ -1,0 +1,40 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+,Days after,,ZIKV Real,DENV Real,CHIKV Real,Anti,Anti,,,Anti,Anti
+Patient ID,symptoms,,Time RT-,Time RT-,Time RT-,ZIKV,ZIKV,,,CHIKV,CHIV
+(Gender),onset,Sample,PCRa,PCRb,PCRc,IgGd,IgMd,Anti DENV IgGd,Anti DENV IgMd,IgGd,IgMd
+,,Serum,Negative,Negative,Negative,1:320,<1:20,1:640,<1:20,<1:20,<1:20
+Pt1 (F),3,Urine,Positive,Negative,ND,ND,ND,ND,ND,ND,ND
+,,Saliva,Positive,Negative,ND,ND,ND,ND,ND,ND,ND
+,,Serum,Positive,Negative,Negative,<1:20,<1:20,<1:20,<1:20,<1:20,<1:20
+Pt2 (F),2,Urine,Positive,Negative,ND,ND,ND,ND,ND,ND,ND
+,,Saliva,Negative,Negative,ND,ND,ND,ND,ND,ND,ND
+,,Serum,Negative,Negative,Negative,1:160,1:80,1:40,<1:20,<1:20,<1:20
+Pt3e (F),9,,,,,,,,,,
+,,Urine,Positive,Negative,ND,ND,ND,ND,ND,ND,ND
+,,Serum,Negative,Negative,Negative,1:80,1:160,1:20,<1:20,<1:20,<1:20
+Pt4 (M),9,Urine,Positive,Negative,ND,ND,ND,ND,ND,ND,ND
+,,Saliva,Negative,Negative,ND,ND,ND,ND,ND,ND,ND
+,,Serum,Positive,Negative,Negative,1:160,1:80,1:160,<1:20,<1:20,<1:20
+Pt5 (F),9,Urine,Positive,Negative,ND,ND,ND,ND,ND,ND,ND
+,,Saliva,Negative,Negative,ND,ND,ND,ND,ND,ND,ND
+,,Serum,Negative,Negative,Negative,1:20,1:80,<1:20,<1:20,<1:20,<1:20
+Pt6 (F),6,Urine,Positive,Negative,ND,ND,ND,ND,ND,ND,ND
+,,Saliva,Negative,Negative,ND,ND,ND,ND,ND,ND,ND
+,,Serum,Negative,Negative,Negative,1:160,1:80,<1:20,<1:20,<1:20,<1:20
+Pt7 (F),9,Urine,Positive,Negative,ND,ND,ND,ND,ND,ND,ND
+,,Saliva,Negative,Negative,ND,ND,ND,ND,ND,ND,ND
+,,Serum,Negative,Positive,Negative,<1:20,<1:20,Weak reactivity,1:40,<1:20,<1:20
+Pt8 (M),9,Urine,Negative,Positive,ND,ND,ND,ND,ND,ND,ND
+,,Saliva,Negative,Negative,ND,ND,ND,ND,ND,ND,ND
+,,Serum,Negative,Positive,Negative,<1:20,<1:20,<1:20,<1:20,<1:20,<1:20
+Pt9 (M),4,Urine,Negative,Negative,ND,ND,ND,ND,ND,ND,ND
+,,Saliva,Negative,Negative,ND,ND,ND,ND,ND,ND,ND
+,,Serum,Negative,Positive,Negative,<1:20,1:40,1:40,1:80,<1:20,<1:20
+Pt10 (M),5,Urine,Negative,Positive,ND,ND,ND,ND,ND,ND,ND
+,,Saliva,Negative,Negative,ND,ND,ND,ND,ND,ND,ND
+,,Serum,Negative,Positive,Negative,<1:20,<1:20,<1:20,Weak reactivity,<1:20,<1:20
+Pt11 (F),5,Urine,Negative,Positive,ND,ND,ND,ND,ND,ND,ND
+,,Saliva,Negative,Positive,ND,ND,ND,ND,ND,ND,ND
+,,Serum,Negative,Positive,Negative,<1:20,<1:20,1:40,<1:20,<1:20,<1:20
+Pt12 (F),4,Urine,Negative,Negative,ND,ND,ND,ND,ND,ND,ND
+,,Saliva,Negative,Negative,ND,ND,ND,ND,ND,ND,ND

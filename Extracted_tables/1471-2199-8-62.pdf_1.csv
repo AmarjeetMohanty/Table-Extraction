@@ -1,0 +1,13 @@
+0,1,2,3
+Table 2: Correlation coefficients for the rank ordering of gene stability by different reference gene analysis methods,,,
+Tissue,Method,NormFinder,GeNorm
+Cartilage,GeNorm,0.462,
+,BestKeeper,0.515,0.721
+Cruciate,GeNorm,0.835,
+,BestKeeper,0.915,0.794
+Synovium,GeNorm,0.833,
+,BestKeeper,0.745,0.579
+Fat Pad,GeNorm,0.907,
+,BestKeeper,0.867,0.939
+Bone,GeNorm,0.710,
+,BestKeeper,0.382,0.475

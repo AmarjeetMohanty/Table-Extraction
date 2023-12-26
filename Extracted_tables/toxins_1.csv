@@ -1,0 +1,20 @@
+0,1,2,3,4,5,6,7
+,,,,Table 1. Cont.,,,
+,,,,,,Clinical,
+Construct,Targeting,Toxic,Toxin,,,,
+,,,,Target,Indication,Trial,References
+Name,Moiety,Moiety,Source,,,,
+,,,,,,Phase,
+,,,,55 kDa,,,
+,,,,breast,,,
+260F9-rRTA,MAb,RTA,Ricin,,Breast cancer,I,"[112,113]"
+,,,,cancer,,,
+,,,,antigen,,,
+B43-PAP,MAb,PAP,PAP,CD19,ALL,I,[114]
+TXU-PAP,MAb,PAP,PAP,CD7,HIV-1 infection,I,[115]
+BER-H2-Sap6,MAb,Saporin,Saporin,CD30,HD,I,[116]
+HUM-195/rGel,MAb,Gelonin,Gelonin,CD33,"AML,CML",I,[117]
+,,,,Bladder,,,
+BDI-1-MD,MAb,Momordin,Momordin,carcinoma,Bladder cancer,I,[118]
+,,,,antigen,,,
+,Abbreviations: MAb: monoclonal antibody; dsFv: disulfide-stabilized Fv antibody fragment; scFv: A single-,,,,,,

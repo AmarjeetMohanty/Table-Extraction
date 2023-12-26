@@ -1,0 +1,11 @@
+0,1,2,3
+,,Coefficient of Correlation,
+Variable,MV,MIF,PIF
+Age (years),−0.05,−0.27,−0.08
+Weight (kg),,,*
+,0.69*,0.80*,0.74
+Height (m),0.21,0.28,0.00
+,,*,*
+ADu (m2),0.67*,0.79,0.68
+BMI (kg/m2),0.69*,*,*
+,,0.79,0.78

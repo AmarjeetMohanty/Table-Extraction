@@ -1,0 +1,17 @@
+0,1,2,3,4
+,Table 1. Virus inhibition assay of the viruses incubated with GO or GO-Ag.,,,
+,,mg/mL *,TCID50/mL,Inhibition %
+,FCoV,,106,
+,,100,105,17
+,FCoV + GO,10,4.7 ˆ 105,5.5
+Exp 1,,1,3.7 ˆ 105,7.2
+,,100,105,17
+,FCoV + GO-Ag,10,1.6 ˆ 105,13
+,,1,3.2 ˆ 105,8.4
+,FCoV,,4.7 ˆ 104,
+Exp 2,FCoV + GO,0.1,8.1 ˆ 103,16.3
+,FCoV + GO-Ag,0.1,3.7 ˆ 103,24.8
+,IBDV,,9 ˆ 105,
+Exp 3,IBDV + GO,1,9.5 ˆ 105,´0.4
+,IBDV + GO-Ag,1,4 ˆ 104,22.7
+* Concentration of GO or GO-Ag in mg/mL. Inhibition % = (log10 (TCID50/mL of virus) ´ log10 (TCID50/mL,,,,

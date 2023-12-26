@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6,7
+,Table 3 Viral titers at V1 and V2 (log[x + 1]) in respective groups,,,,,,
+Population,Treatment,Number,Visit,Virus titer,Significance,Reduction in viral titers,Significant difference
+,,of virus,,(median (25%; 75%,(Wilcoxon,"(difference V1-V2)
+(median",between carrageenan
+,,events,,percentile),Signed Rank,(25%; 75% percentile),and placebo
+,,,,,Test),,(Mann- Whitney U- test)
+ITT,Verum (n = 116),154,V1,4.64 (3.41;6.57),,,
+,Verum (n = 116),154,V2,3.61 (0;4.97),p < 0.001,−2.2 (−3.47;-0.26),
+,,,,,,,p = 0.022
+,Placebo (n = 120),163,V1,4.49 (3.24;6.3),,,
+,Placebo (n = 120),163,V2,3.82 (0;4.85),p < 0.001,−1.14 (−3.31;0.31),
+PP,Verum (n = 87),115,V1,4.66 (3.4;6.54),,,
+,Verum (n = 87),115,V2,3.63 (0;4.83),p < 0.001,−2.25 (−3.47;-0.57),
+,,,,,,,p = 0.044
+,Placebo (n = 87),113,V1,4.99 (3.35;6.49),,,
+,Placebo (n = 87),113,V2,3.98 (2.24;4.89),p < 0.001,−1.2 (−3.24;0.21),

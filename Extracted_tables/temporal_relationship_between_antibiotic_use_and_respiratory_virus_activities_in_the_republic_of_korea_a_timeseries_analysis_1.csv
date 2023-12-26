@@ -1,0 +1,27 @@
+0,1,2,3,4,5
+"ation. Thus, many acute bronchitis prescriptions might re-",,,correlated with acute tonsillitis with a larger magnitude,,
+flect uncertainty on the clinician part as,to whether,"than
+the","influenza
+virus
+activity.",This,"correlation
+likely"
+,Table 2 Cross-correlation coefficients between antibiotic use and acute respiratory tract infections (2010-2015),,,,
+Antibiotics,Acute bronchitis,Acute tonsillitis,Acute upper,respiratory infection,Pneumonia
+Tetracyclines,0.44,0.11,0.03,,−0.01
+,p = 0.66,p = 0.34,p = 0.97,,p = 0.90
+,0-month lag,0-month lag,−10-month lag,,0-month lag
+Penicillins,0.73,0.69,0.33,,0.36
+,p < 0.01,p < 0.01,p < 0.01,,p < 0.01
+,0-month lag,0-month lag,0-month lag,,0-month lag
+Other beta-lactam antibacterials,0.69,0.68,0.32,,0.25
+,p < 0.01,p < 0.01,p < 0.01,,p = 0.03
+,0-month lag,0-month lag,0-month lag,,0-month lag
+Macrolides,0.74,0.59,0.24,,0.53
+,p < 0.01,p < 0.01,p = 0.04,,p < 0.01
+,0-month lag,0-month lag,0-month lag,,0-month lag
+Aminoglycosides,0.14,0.20,−0.04,,0.38
+,p = 0.28,p = 0.09,p = 0.75,,p < 0.01
+,0-month lag,−3-month lag,0-month lag,,0-month lag
+Fluoroquinolones,0.45,0.35,0.31,,0.23
+,p < 0.01,p < 0.01,p < 0.01,,p = 0.05
+,0-month lag,0-month lag,0-month lag,,0-month lag

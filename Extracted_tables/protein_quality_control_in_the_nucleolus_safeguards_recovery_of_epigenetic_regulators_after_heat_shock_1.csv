@@ -1,0 +1,25 @@
+0,1,2,3,4
+,Research article,,Biochemistry and Chemical Biology,Chromosomes and Gene Expression
+Continued,,,,
+Reagent type,,,,
+(species) or,,Source or,,Additional
+resource,Designation,reference,Identifiers,information
+Antibody,Rabbit,Agilent Dako,Cat# P026002-2,WB (1:5000)
+,Anti-Mouse Immunoglobulins/,,RRID:AB_2801427,
+,HRP,,,
+Sequence-,HSPA1A siRNAs,Dharmacon,Cat# M-005168–01,
+based reagent,,,,
+Chemical,VER-155008,Sigma-Aldrich,Cat# SML0271,
+"compound, drug",,,,
+"Software,",GraphPad Prism,GraphPad,RRID:SCR_015807,Version 7.02
+algorithm,,Prism,,
+,,(https://graphpad.com),,
+"Software,",ImageJ,ImageJ,RRID:SCR_003070,
+algorithm,,(http://imagej.nih.gov/ij/),,
+"Software,",MaxQuant,MaxQuant,RRID:SCR_014485,Version 1.5.2.8
+algorithm,,(http://www.biochem,,
+,,.mpg.de/5111795/,,
+,,maxquant),,
+"Software,",Perseus,Perseus,RRID:SCR_015753,Version 1.5.8.5
+algorithm,,(http://www.perseus-,,
+,,framework.org),,

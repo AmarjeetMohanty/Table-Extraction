@@ -1,0 +1,20 @@
+0,1,2,3
+Table 5: Diagnosis effect on the candidate control genes.,,,
+,Ct Method,,Comparative Ct Method
+,Normalized to TRAP1,,Normalized to Optimal Set of 4 Genes*
+Gene,Fold Change (MS/H),Fold Change (MS/H),p-value(Diagnosis)
+FPGS,1.08,1.00,0.964
+ACTb,1.08,ND,0.788
+GINS2,1.21,1.11,0.691
+HMBS,1.12,1.06,0.581
+B2M,-1.04,-1.10,0.575
+FARP1,1.34,1.16,0.559
+A4GALT,-1.01,ND,0.416
+TRAP1,**,-1.08,0.342
+GAPDH,-1.45,-1.61,0.198
+DECR1,-1.09,-1.11,0.161
+PPIB,1.32,1.22,0.155
+PEX16,1.32,1.23,0.073
+MAPRE2,1.42,1.30,0.072
+CRY2,1.58,1.45,0.065
+CSNK1G2,1.76,1.63,0.026

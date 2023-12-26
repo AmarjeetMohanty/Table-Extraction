@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6
+,,,,,Disease Transmissibility Estimates with Bayesian Tools,
+Table 5. Means and 95% CIs for SARS outbreak.,,,,,,
+,,Singapore,,,Hong Kong,
+,,,μ,,,μ
+,R0,,,R0,,
+Informative Prior,3.86,,8.45,2.02,,7.42
+,"2.56, 5.01",,"7.91, 9.01","1.83, 2.22",,"6.77, 8.11"
+Uniform,4.43,,10.68,2.78,,11.33
+,"2.63, 7.19",,"8.23, 13.24","2.19, 3.55",,"9.27, 13.39"
+White and Pagano,23.95,,16.86,4.93,,15.73
+,"16.67, 49.27",,"15.10, 18.39","3.54, 26.71",,"13.78, 18.55"
+,"Informative and Uniform priors are 95% credible intervals, White and Pagano Results are 95% Conﬁdence Intervals.",,,,,
+doi:10.1371/journal.pone.0118762.t005,,,,,,

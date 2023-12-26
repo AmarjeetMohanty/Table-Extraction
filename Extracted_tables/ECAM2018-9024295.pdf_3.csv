@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6
+Evidence-Based Complementary and Alternative Medicine,,,,,,9
+,Table 6: Comparison (nonparametric statistical analysis) of the median of the subjects’ blood test results.,,,,,
+Variable,Group,Expected value under H0,Std. dev. under H0,Mean score,𝑍-value,𝑝 value
+,EAP group,"1,463",96.21,37.00,,
+White blood cell,,,,,–0.5872,0.2785
+,Placebo group,"1,463",96.21,40.00,,
+,EAP group,"1,463",95.83,40.13,,
+Basophil,,,,,0.6418,0.2605
+,Placebo group,"1,463",95.83,36.87,,
+,EAP group,"1,463",96.26,37.41,,
+Lymphocyte,,,,,–0.4259,0.3351
+,Placebo group,"1,463",96.26,39.60,,
+Wilcoxon’s rank-sum test was used to analyze variables that did not follow normality.,,,,,,

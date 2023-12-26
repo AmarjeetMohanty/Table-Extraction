@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6,7,8,9
+Table 1 Main results of clinical outcomes,,,,,,,,,
+,,Tangminling,,,,,,,
+,Placebo-treated,pill-treated,,,,,Heterogeneity,,
+Outcomes,"patients, n","patients, n",WMD (95% CI),P-value,,I2 statistic,P-value,References,
+HbA1c,259,440,"0.80 [0.65, 0.96]",<0.001,,0%,>0.05,"[8,10–12]",
+FPG,259,440,"1.10 [0.56, 1.64]",<0.001,,77%,<0.01,"[8,10–12]",
+2-hr PG,259,440,"1.80 [1,72, 1.88]",<0.001,,0%,>0.05,"[8,10–12]",
+BMI,259,440,"0.30 [-0.00, 0.61]",0. 05,,90%,0.001,"[8,10–12]",
+WC,259,440,"0.78 [0.37, 1.19]",<0.001,,63%,<0.05,"[8,10–12]",
+HOMA-IR,190,373,"0.26 [-0.10, 0.62]",>0.05,,81%,<0.01,"[8,10,12]",
+HOMA-β,190,494,"0.44 [0.27, 0.61]",<0.001,,36%,>0.05,"[8,10,12]",
+,"Abbreviations: BMI, body weight",,"index; HOMA-β, homeostatic model assessment",,to β-cell,,"function; HOMA-IR, homeostatic model assessment",,to
+,"quantitate insulin resistance; PG, postprandial plasma glucose; WC, waist circumference.",,,,,,,,

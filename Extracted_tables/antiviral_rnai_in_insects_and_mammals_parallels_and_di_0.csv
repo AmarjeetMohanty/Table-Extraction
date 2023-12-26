@@ -1,0 +1,30 @@
+0,1,2,3,4,5,6
+,,Table 1. Recent studies reporting viral small RNA proﬁles in mammalian experimental systems.,,,,
+Virus (Mutant),Virus Family,Host,Experimental System,Approach,Viral siRNAs Detected a,Reference
+Nodamura virus (NoV ∆B2),Nodaviridae,mice,Suckling mice,total small RNA,yes,[14]
+,,hamster,BHK cells,total small RNA,yes,[14]
+,,mice,Embryonic stem cells,total small RNA,yes,[13]
+Encephalomyocarditis virus,Picornaviridae,mice,Embryonic stem cells,total small RNA,yes,[13]
+Human enterovirus 71,,,,,,
+,Picornaviridae,human,293T cells,total small RNA,yes,[206]
+(HEV71 D23A),,,,,,
+,,,,total small and AGO2,,
+Inﬂuenza A virus (∆NS1),Orthomyxoviridae,human,A549 cells,,yes,[15]
+,,,,associated small RNAs,,
+,,human,A549 cells,total small RNA,yes,[207]
+,,human,293T cells,total small RNA,yes,[207]
+Inﬂuenza A virus,,human,293T cells,total small RNA,no,[208]
+,,mouse,MEFs,total small RNA,no,[202]
+,,human,A549 cells,total small RNA,no,[207]
+,,human,293T cells,total small RNA,no,[207]
+Borna disease virus,Bornaviridae,rat,C6 glioma cells,total small RNA,no,[202]
+Coxsackie virus B3,Picornaviridae,human,HeLa cells,total small RNA,no,[17]
+Sindbis virus,Togaviridae,human,HeLa cells,total small RNA,no,[17]
+,,mice,MEFs,total small RNA,no,[202]
+,,human,HEK293 cells,total small RNA,no,[209]
+,,human,HEK293 cells,total small RNA,no,[205]
+,,monkey,Vero cells,total small RNA,no,[205]
+Vesicular stomatitis virus,Rhabdoviridae,mice,MEFs,total small RNA,no,[202]
+Yellow fever virus,Flaviviridae,human,HeLa cells,total small RNA,no,[17]
+Zika virus,Flaviviridae,human,Neural progenitor cells,total small RNA,yes,[210]
+,"MEFs, mouse embryonic ﬁbroblasts; a Deﬁned as a peak of 22-nt (+/- 1 nt) in size proﬁles of viral small RNAs, derived from both positive and negative viral RNA strands.",,,,,

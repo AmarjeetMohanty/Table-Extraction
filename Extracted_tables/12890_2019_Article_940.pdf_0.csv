@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6,7
+Table 1 Summary of Middle East,,,respiratory syndrome patients infected from index patient,,,,
+Site,,Index patient,No.,Position,Incubation period,Risk of contact,Result
+Hospital B (6–7 June),,ED stay during 17 h,1,Patient,13 days,Unknown,Survived
+,,,2,Patient,13 days,Unknown,Survived
+,,,3,Care giver,16 days,High,Death
+,,,4,Nurse,20 days,High,Survived
+,,,5,Doctor,10 days,High,Survived
+Transfer,(7 June),Ambulance during 10 min,6,Driver,6 days,High,Death
+,,,7,EMT,7 days,High,Survived
+Hospital C (7 June),,ED stay during 9 h,8,Radiologist,14 days,High,Survived
+,,GW stay during 1 h,9,Visitor,8 days,High,Survived
+,,,10,Patient,15 days,Low,Survived
+,,,11,Patient,17 days,Low,Survived
+"ED emergency department, EMT emergency medicine technician, GW general ward",,,,,,,

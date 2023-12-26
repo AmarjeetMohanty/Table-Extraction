@@ -1,0 +1,15 @@
+0,1,2,3,4
+,,,,Intensive Care Data and Influenza Epidemics
+,"Table 1. Number of participating Intensive Care Units (ICUs), number and percentage of medical",,,ICU admissions for respiratory
+infections and gender and age distribution.,,,,
+Year,Participating ICUs,ICU patients with respiratory infections (%),"Gender, male (%)","Age, mean (SD)"
+2003,33,750 (12.8),431 (57.5),63.82 (15.8)
+2004,36,778 (10.8),452 (58.1),63.00 (17.00)
+2005,45,1140 (12.8),657 (57.6),63.47 (15.8)
+2006,56,1585 (13.9),954 (60.2),63.84 (16.6)
+2007,62,1876 (12.9),1169 (62.3),64.14 (16.1)
+2008,68,2202 (13.4),1245 (56.5),64.46 (15.9)
+2009,77,2974 (14.1),1743 (58.6),64.43 (16.0)
+2010,81,3173 (13.4),1885 (59.4),64.84 (15.9)
+2011,85,3308 (13.6),1974 (59.7),64.19 (16.2)
+,doi:10.1371/journal.pone.0083854.t001,,,

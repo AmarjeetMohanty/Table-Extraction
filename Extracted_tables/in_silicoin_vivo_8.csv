@@ -1,0 +1,10 @@
+0,1,2,3,4
+,,,,Challenge with
+,,,,C3 cells (Two
+,First injection or priming,Second injection or first,Third injection or second,weeks after second
+Groups,(Day 0),booster (Day 14),booster (Day 28),booster)
+G1,pcDNA-L1,pcDNA-L1,pcDNA-L1,C3
+G2,pcDNA-L2,pcDNA-L2,pcDNA-L2,C3
+G3,pcDNA-L1 + pcDNA-L2,pcDNA-L1 + pcDNA-L2,pcDNA-L1 + pcDNA-L2,C3
+G4 (Control),pcDNA3.1 (empty vector),pcDNA3.1 (empty vector),pcDNA3.1 (empty vector),C3
+G5 (Control),PBS,PBS,PBS,C3

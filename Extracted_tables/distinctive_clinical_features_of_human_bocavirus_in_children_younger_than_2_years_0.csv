@@ -1,0 +1,33 @@
+0,1,2,3,4
+Table 1 Viruses detected in 402,,,,
+,,,Number,Percent
+patients under 2 years of age,,,,
+with lower,respiratory tract,,,
+infection,,Patients infected with a single pathogen,226,56.2%
+,,RSV,99,24.6%
+,,RV,41,10.2%
+,,hMPV,37,9.2%
+,,HBoV,20,5.0%
+,,PIV,15,3.7%
+,,AdV,14,3.5%
+,,Patients infected with more than one pathogen,36,9.0%
+,,HBoV+PIV,5,1.2%
+,,HBoV+RV,4,1.0%
+,,HBoV+HMPV,2,0.5%
+,,HBoV+AdV,2,0.5%
+,,HBoV+RSV,1,0.2%
+,,RSV+RV,6,1.5%
+,,RSV+AdV,3,0.7%
+,,PIV+RV,2,0.5%
+,,hMPV+AdV,3,0.7%
+,,hMPV+RV,2,0.5%
+,,hMPV+RSV,1,0.2%
+,,hMPV+PIV,1,0.2%
+,,AdV+RV,1,0.2%
+,,AdV+PIV,1,0.2%
+,,AdV+hMPV+RV,1,0.2%
+"RSV respiratory syncytial virus,",,,,
+,,RSV+AdV+RV,1,0.2%
+"RV rhinovirus, hMPV human",,,,
+,"metapneumovirus, HBoV human","Patients not
+infected with any studied pathogen",140,34.8%

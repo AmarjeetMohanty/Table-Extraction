@@ -1,0 +1,11 @@
+0,1,2,3,4,5
+Table  2.  Antiparasitic  and  cytotoxic  activities  of  tetromycins  1–4  and  tetromycin  B  (5),,,,,
+"(IC50, µM).",,,,,
+,,T. brucei brucei,T. brucei,293T,J774.1
+Compound,L. major,,,,
+,,(48 h),brucei (72 h),Kidney cells,Macrophages
+1,>100,29.30,31.69,>100,>100
+2,>100,45.39,80.27,>100,50.21
+3,36.80,26.90,30.35,33.38,25.72
+4,>100,35.85,41.61,58.58,27.54
+5,>100,30.87,34.22,71.77,20.20

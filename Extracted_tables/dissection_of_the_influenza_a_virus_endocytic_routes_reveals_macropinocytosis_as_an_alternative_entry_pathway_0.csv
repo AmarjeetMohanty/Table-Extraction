@@ -1,0 +1,24 @@
+0,1,2,3,4,5,6
+,Table 1. DYNA-IND entry of,"IAV is similar, but not","identical,",to macropinocytic entry of other viruses.,,
+,IAV,,IAV,VV,VV,CVB
+,Dynamin dependent,,Dynaminindependent,WR,IHD-J,
+Fluid uptake,,,,,,
+Induction,NO,,YES,YES,YES,
+Co-localization,NO,,YES,YES,,YES
+Cytoskeleton,,,,,,
+Actin,NO,,YES,YES,YES,
+Myosins,NO,,YES,YES,YES,
+GTPases,,,,,,
+Rac1,NO,,NO,YES,YES/NO,NO
+Cdc42,NO,,NO,YES/NO,YES,
+Rab5,YES,,YES,YES,YES,YES
+Kinases,,,,,,
+PAK1,NO,,YES,YES,YES,
+PI(3)kinase,YES,,YES,YES,NO,
+Receptor Tyrosine kinases,NO,,YES,YES,YES,
+Protein kinase C,YES/NO,,YES,YES,YES,YES
+SFK (src family kinases),NO,,YES,,,YES
+Others,,,,,,
+Na+/H+ exchange,NO,,YES,YES,YES,YES
+Acidification,YES,,YES,YES,NO,NO
+Dynamin 2,YES,,NO,NO,NO,NO

@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6
+Positive genetic association studies with acute lung injury/acute respiratory distress syndrome susceptibility and/or outcome (by,,,,,,
+year of publication),,,,,,
+Gene,Associated variant(s)a,Sample size (case/,Sample size (cohort),Phenotype(s),Population,Reference (year)
+,,control),,,,
+SFTPB,T/C +1580,52:46,,ARDS,European,[21] (2000)
+IL-6,G/C -174,,96 ARDS,Mortality,European,[22] (2002)
+ACE,I/D intron 16,"96:2,168",,"ARDS, mortality",European,[23] (2002)
+SFTPB,T/C +1580,,402 CAP,ARDS,Multiethnic,[24] (2004)
+SFTPB,Intron 4 TR,,189 at risk of ARDS,ARDS,Multiethnic,[25] (2004)
+PBEF,T/G -1001 and haplotype,87:84,,ALI,European,[26] (2005)
+MBL2,Haplotypes,"569:1,188",,SARS,Chinese,[27] (2005)
+IL-6,Gene-wide haplotypes,,228 SIRS,"ALI, need of MV",European,[28] (2005)
+IL-6,Haplotype,98:84,,ALI,European,[29] (2005)
+TNF,G/A -308,212:441,,"ARDS, mortality",European,[30] (2005)
+VEGF,C/T +936,117:240,,"ARDS, severity",European,[31] (2005)
+MYLK,Multiple SNPs and haplotypes,138:146,,ALI,Multiethnic,[32] (2006)
+IL-10,A/G -1082,211:429,,"ARDS, severity",European,[33] (2006)
+ACE,I/D intron 16,101:348,,ARDS mortality,Chinese,[34] (2006)
+MIF,Haplotypes,151:173,,ALI,Multiethnic,[35] (2007)
+PBEF,T/G -1001 and haplotype,375:787,,"ARDS, mortality",European,[36] (2007)
+NRF2,C/A -617,,90 major trauma,ALI,Multiethnic,[37] (2007)
+CXCL2,-665 TR,,183 severe sepsis,ARDS mortality,European,[38] (2007)
+MBL2,Gly54Asp,212:442,,"ARDS, severity",European,[39] (2007)
+ACE,I/D intron 16,84:200,,ARDS mortality,European,[40] (2007)
+NFKBIA,Haplotype,382:828,,ARDS,European,[41] (2007)
+NFKB1,Ins/del ATTG -94,,103 ARDS,Severity,European,[42] (2007)
+VEGF,C/T +936 and haplotype,,394 ARDS,Mortality,European,[43] (2007)
+PLAU,Gene-wide haplotype,175:252,,"ALI, severity",European,[44] (2008)
+MYLK,3 variants and multiple,,273 major trauma,ALI,Multiethnic,[45] (2008)
+,haplotypes,,,,,
+MBL2,Haplotypes,,848 CAP,ARDS,European,[46] (2008)
+IL-6,Gene-wide haplotype,67:96,,ALI,European,[47] (2008)
+IL-10,A/G -1082,,100 severe multiple,ARDS,European,[48] (2008)
+,,,trauma,,,
+F5,Arg506Gln,,106 ARDS,Mortality,European,[49] (2008)

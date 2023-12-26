@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13
+"logical distress,",anxiety,and depression are widespread,,,,to experience,,internalised stigma. The,,,,reasons,"for
+the"
+Table 5 Adjusted association between demographic and health-related variables and Individual scales of enacted stigma,,,,,,,,,,,,,
+,,Verbal abuse,,,,Healthcare neglect,,,Fear of contagion,,Social,Isolation,
+Characteristics,Variables,AOR,95% CI,p-value,AOR,95% CI,p-value,AOR,95% CI,p-value,AOR,95% CI,p-value
+Sex,Female,,,,1,,,,,,,,
+,Male,,,,1.53,0.93–2.51,0.094,,,,,,
+Religion,Islam,1,,,,,,1,,,1,,
+,Christianity,1.95,0.98–3.88,0.056,,,,1.62,0.94–2.80,0.081,1.72,0.92–3.19,0.088
+Monthly Income(Leones),>1million,1,,,,,,,,,,,
+,"< 500,00",0.35,0.04–2.93,0.330,,,,,,,,,
+,"500,00-1million",0.16,0.02–1.43,0.101,,,,,,,,,
+Region,Western Area,1,,,1,,,1,,,1,,
+,North region,0.37,0.20–0.69,0.002,2.03,1.13–3.64,0.018,0.73,0.43–1.23,0.231,1.15,0.65–2.05,0.626
+,Southern region,1.19,0.49–2.86,0.701,1.43,0.69–2.96,0.332,3.11,1.41–6.83,0.005,1.75,0.78–3.93,0.174
+,Eastern region,1.61,0.65–4.01,0.302,0.81,0.43–1.53,0.506,2.44,1.19–5.03,0.015,3.06,1.34–7.02,0.008
+Residence,Rural,1,,,,,,1,,,,,
+,Urban,2.7,1.57–4.66,< 0.001,,,,1.50,0.94–2.40,0.090,,,
+Perceived health status,Very good/good,,,,,,,1,,,,,
+,Fair/poor,,,,,,,1.64,0.98–2.74,0.060,,,
+Employment status,Employed,,,,,,,,,,1,,
+,Unemployed,,,,,,,,,,2.13,1.26–3.61,0.005

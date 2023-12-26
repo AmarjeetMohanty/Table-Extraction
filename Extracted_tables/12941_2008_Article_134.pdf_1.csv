@@ -1,0 +1,15 @@
+0,1,2,3,4,5
+"Table 3: Analysis of measles virus assays from Hummel, 2006 [13].",,,,,
+Scope,Target Gene,True Positives,False Positives,False Negatives,Sensitivity
+Species,Measles F1,15,0,2,0.88
+Species,Measles N1,16,0,1,0.94
+Species,Measles F2,15,0,2,0.88
+Species,Measles F4b,16,0,1,0.94
+Species,Measles F3,9,0,8,0.53
+Species,Measles N2,10,0,7,0.59
+Species,Measles N3,17,0,0,1.00
+Species,Measles H1,10,0,7,0.59
+Species,Measles H2,16,0,1,0.94
+Species,Measles H3,9,0,8,0.53
+Species,Measles H4b,14,0,3,0.82
+Species,Measles N4b,11,0,6,0.65

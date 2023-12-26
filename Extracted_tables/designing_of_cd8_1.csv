@@ -1,0 +1,30 @@
+0,1,2,3,4,5,6,7,8
+Table 3 cD8+ epitope sequences overlapped in cD4+ and B-cell epitope segments (indicated in bold),,,,,,,,
+S.no.,Protein,Start,End,Sequence,AllergenFP v.1.0,VaxiJen,IFN-γ,Immunogenicity
+,,,,,,,production,
+,,,,,,,(hybrid,
+,,,,,,,method),
+1,e1,306,320,rSSLAALYWYrTgis,non-allergen,antigen,0.326,0.4023
+2,e1,575,589,rVTVFTFPHAFPFDK,non-allergen,**,0.307,0.5941
+3,e1,306,321,RSSLAALYWYrTgisn,non-allergen,antigen,0.295,0.3448
+4,e1,578,593,VFTFPHAFPFDKngnP,non-allergen,**,-0.029,0.2367
+5,e1,199,214,aMLAVFKDIYglsFTD,non-allergen,**,2,0.1155
+6,e2,137,151,YVVWDSIYYMTeTgi,*,antigen,6,0.2328
+7,e2,157,171,aCVSYWGVYYiKDgD,non-allergen,antigen,18,0.0902
+8,e2,160,174,sYWgVYYIKDGDTTY,non-allergen,antigen,17,0.1895
+9,e2,184,198,KYgNSNTWEVQYggn,non-allergen,**,0.511,0.1604
+10,e2,141,156,DsiYYMTETGIWEKTa,non-allergen,antigen,0.591,0.3512
+11,e2,158,173,CVSYWGVYYiKDgDTT,*,antigen,16,0.2388
+12,e2,331,346,KNTGILTVTYnseVQr,non-allergen,antigen,0.131,0.1717
+13,e5,22,36,lVQsVYVCAFAWLLV,non-allergen,**,0.538,0.2031
+14,e6,72,86,YSRIRELRYYsnsVY,non-allergen,**,1,0.0483
+15,e6,66,81,hKciDFYSRIRELRYY,*,antigen,-0.153,0.4463
+16,e6,38,53,TleRTEVYQFAFKDlc,non-allergen,antigen,0.777,0.2190
+17,l1,273,287,HSDFMDIIRlhrPal,non-allergen,**,1.000,0.3681
+18,l1,50,65,rHVEEYDLQFiFQlcT,non-allergen,antigen,0.046,0.3138
+19,l2,435,449,QYYLWPWYYYFPKKr,*,antigen,0.647,0.1930
+20,l2,265,280,gKQIGGRVHFYhDisP,non-allergen,antigen,18,0.4629
+21,l2,387,402,nVTVPlTSAWDVPIYT,non-allergen,**,-0.228,0.3246
+22,l2,248,263,LVTFDNPAYePlDTTl,non-allergen,antigen,-0.288,0.3216
+23,l2,156,167,sFTnPaFSDPSIIEVP,non-allergen,antigen,0.521,0.1995
+Notes: *epitope sequence below the antigenic threshold 0.4. **epitope sequence below the allergenic threshold 0.4.,,,,,,,,

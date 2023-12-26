@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7
+p = 0.040; microsatellite:,,,"t = 5.064, d.f. = 19, p = 0.050) (Table S7).",,,,
+,,Table 3. Results from AMOVA of MHC haplotypes and microsatellite loci.,,,,,
+,,,,,Variance,Percentage,Fixation
+Locus,Grouping,Source of Variation,d.f.,SS,,,P Value
+,,,,,Components,of Variation,Index
+,"(Wild, LGT,",Among groups,3,12.800,0.02996,7.81,"0.07810
+0.00484"
+MHC,DQ) (YX),Among populations,,,,,
+,,,3,0.633,−0.00250,−0.65,"−0.00706
+0.81299"
+,"(BJ) (SD, HN)",within groups,,,,,
+,,Within populations,581,206.899,0.35611,92.84,"0.07159
+0.00000"
+,"(Wild, YX,",Among groups,2,49.130,0.10917,5.10,"0.05102
+0.00897"
+Microsatellite,"LGT, DQ)",Among populations,,,,,
+,,,4,17.424,0.03245,1.52,"0.01598
+0.00002"
+,"(BJ) (SD, HN)",within groups,,,,,
+,,Within populations,607,1212.932,1.99824,93.38,"0.06618
+0.00000"
+,,,Signiﬁcance values are derived from 1023 permutations.,,,,

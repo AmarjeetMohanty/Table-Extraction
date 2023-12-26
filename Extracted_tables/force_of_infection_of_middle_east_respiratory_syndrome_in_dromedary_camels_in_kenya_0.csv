@@ -1,0 +1,53 @@
+0,1,2,3,4,5,6,7,8
+,Epidemiology and Infection,,,,,,,3
+,Table 1. Estimated camel population and proportion sampled by county,,,,,"Table 2. Camel seroprevalence by county, age and sex",,
+County,N sampled,,Camel population,% Sampled,,No.,No.,
+,,,,,,Positive,sampled,% Positive (95% CI)
+Isiolo,403,,68 000,0.59,,,,
+,,,,,County,,,
+Laikipia,181,,8000,2.26,,,,
+,,,,,Isiolo,313,403,77.7 (73.6–81.7)
+Marsabit,370,,200 000,0.19,,,,
+,,,,,Laikipia,27,181,14.9 (9.7–20.1)
+Nakuru,50,,1000,5.0,,,,
+,,,,,Marsabit,274,370,74.1 (69.6–78.5)
+Turkana,417,,800 000,0.05,,,,
+,,,,,Nakuru,7,50,14.0 (4.4–23.6)
+,"Estimated camel population was sourced from [23] and (Stephen Gikonyo, personal",,,,,,,
+communications).,,,,,Turkana,284,417,68.1 (63.6–72.6)
+,,,,,Age,,,
+,,,,,<1,60,157,38.2 (30.6–45.8)
+Laboratory,in Kenya. Anti-MERS-CoV (IgG),,,antibodies were,,,,
+,,,,,1–2,107,223,48.0 (41.4–54.5)
+,tested using the EUROIMMUN ELISA Camel,,,"test kit
+[24].",,,,
+,,,,,2–3,95,156,60.9 (53.2–68.6)
+,Data analysis and FOI estimation,,,,>3,643,885,72.7 (69.7–75.6)
+,,,,,Sex,,,
+,"R version 3.5.1 [25] was used for all data cleaning, descriptive",,,,,,,
+,,,,,Female,752,1129,66.6 (63.9–69.4)
+analysis,of MERS-CoV seroprevalence,,and,"generation of
+FOI",,,,
+,estimates. Three methods,for,"estimating
+FOI were",compared.,Male,153,292,52.4 (46.7–58.1)
+A catalytic model,,first described by Muench [26],,that estimates,,,,
+,,,,,Production,,,
+"a
+constant",FOI was,"compared
+to",two,"age-dependent models,",,,,
+,,,,,system,,,
+"one
+in which FOI",is,"a
+linear","function,
+and a model",in which,,,,
+,,,,,Pastoral,892,1292,69.0 (66.5–71.6)
+"FOI
+is",a quadratic,"function of
+age",,groups. Generalised linear,,,,
+models were,"used
+as","a
+statistical",framework,"for
+each
+of
+the",Ranching,13,129,10.1 (4.9–15.3)
+"three models, adapted from Hens et al. [15]. Data were organised",,,,,,,,

@@ -1,0 +1,42 @@
+0,1,2,3,4,5
+Table 3 Clinically developed drugs with activity against MERS-CoV and SARS-CoV,,,,,
+"Drug class members
+Activity against",Activity against other viruses,Clinical status,,Known safety issues,Comments
+coronavirusesa,,,,,
+Antidiarrheal agents,,,,,
+"Loperamide
+MERS-CoV:",,"Approved for
+treatment of diarrhea",Well,"tolerated,",WHO list of essential medicines
+"hydrochloride
+4.8 lM [36]",,,,commonly used,
+SARS-CoV:,,,,,
+5.9 lM,,,,,
+HCoV-229E-GFP:,,,,,
+4 lM [36],,,,,
+Antimalaria agents,,,,,
+"Amodiaquine
+MERS-CoV:",EBOV [43]; MARV [43]; DENV,"Approved for
+treatment of malaria",Well,"tolerated,",
+"hydrochloride
+6.2 lM [38]",[250],,,commonly used,
+SARS-CoV:,,,,,
+1.3 lM [38],,,,,
+"Chloroquine
+MERS-CoV:",In vitro:,"Approved for
+treatment of malaria",Well,"tolerated,",WHO list of essential medicines;
+"diphosphate
+3–6.3 lM",,,,commonly use,WHO list of potential EVD
+,"CHIKV [251, 252]; DENV [42, 47];","Clinical
+trials for
+treatment of CHIKV,",,,
+"[36, 38]",,,,,"treatments; dosing, formulation"
+,"HeV, NiV [46]; HIV-1 [41];","DENV, FLUAV, and FLUBV",,,
+,,,,,"need to be optimized for
+treatment"
+SARS-CoV:,"FLUAV [44]; EBOV, MARV [43];",infections showed no impact on,,,
+,,,,,"of viral
+infections [54]"
+4.1–8.8 lM,"SFV, SINV [45]","disease [58, 59, 254]",,,
+"[36, 38, 39]",,,,,
+,In vivo:,,,,
+,Mixed data on efﬁcacy against,,,,

@@ -1,0 +1,26 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+,"Table 4. The relationship between ultrasound-detected abnormalities and age, sex and year.",,,,,,,,,,,,,
+,Parenchymal,,Periportal,,Left liver lobe,,,Right liver lobe,Portal vein,,Spleen,,Spleen vein,
+,fibrosis,,fibrosis1,,enlargement2,,enlargement2,,dilation2,,,enlargement2,dilation,
+,OR (95% CI),,OR (95% CI),,OR (95% CI),,OR (95% CI),,OR (95% CI),,OR (95% CI),,OR (95% CI),
+Sex,,,,,,,,,,,,,,
+Female,1.00,,1.00,,1.00,,1.00,,1.00,,1.00,,1.00,
+Male,1.18,(0.85–1.64),4.35,(2.05–9.23),0.41,(0.28–0.60),1.88,(1.29–2.73),1.28,(0.87–1.89),0.89,(0.43–1.83),1.22,(0.74–2.01)
+Age3,,,,,,,,,,,,,,
+",18",1.00,,1.00,,1.00,,1.00,,1.00,,1.00,,1.00,
+18–29,10.44,(5.11–21.33),9.36,(1.14–76.56),2.91,(1.35–6.29),2.40,(1.25–4.61),2.00,(0.93–4.33),3.40,(1.02–11.34),3.18,(1.34–7.58)
+30–39,11.76,(5.96–23.18),9.79,(1.31–73.01),4.00,(2.03–7.89),2.91,(1.61–5.28),3.19,(1.58–6.44),2.09,(0.63–6.88),2.60,(1.11–6.12)
+40–49,30.76,(15.21–62.20),10.95,(1.41–85.30),4.56,(2.25–9.23),3.13,(1.65–5.95),2.82,(1.35–5.91),1.74,(0.45–6.78),1.35,(0.46–3.94)
+50+,35.89,(17.45–73.80),8.47,(1.07–67.07),6.21,(3.05–12.63),3.26,(1.66–6.41),3.98,(1.97–8.06),1.82,(0.47–6.98),2.32,(0.93–5.79)
+trend4,",0.001",,0.025,,",0.001",,",0.001",,",0.001",,0.894,,0.548,
+Year5,,,,,,,,,,,,,,
+2000,1.00,,1.00,,1.00,,1.00,,1.00,,1.00,,1.00,
+2002,0.82,(0.68–0.98),1.07,(0.59–1.96),0.86,(0.62–1.19),0.26,(0.18–0.37),1.28,(0.87–1.88),0.79,(0.42–1.49),1.79,(1.09–2.93)
+2005,0.57,(0.44–0.73),0.20,(0.06–0.63),1.11,(0.77–1.60),0.35,(0.24–0.52),1.20,(0.78–1.84),0.43,(0.16–1.20),0.41,(0.17–0.95)
+trend4,",0.001",,0.002,,0.634,,",0.001",,0.362,,0.091,,0.119,
+1Periportal,,"fibrosis was treated as a binary variable, comparing grade 2 to grades 0 and 1.",,,,,,,,,,,,
+2Enlargement of,the left,"liver
+lobe,","right
+liver",,"lobe, spleen, and portal vein dilation were classified based on height-specific normal values.",,,,,,,,,
+,"3There were no children (,18) with grade 3 parenchymal",,,,"fibrosis,",,leading to a violation of,the parallel,,regression assumption for ordinal,,,logistic regression. For,this
+,"analysis, grade 3 was grouped with grade 2 in order",,,,to avoid a model violation.,,,,,,,,,

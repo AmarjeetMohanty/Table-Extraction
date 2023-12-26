@@ -1,0 +1,32 @@
+0,1,2,3,4
+,C,,,
+,,,Antibody,
+,Antibody,,,
+,Plaque reduction neutralization test,,E,
+,100,,,
+,,AC4,AC4,
+,,,AC10,
+,80,AC10,,
+,,,AC11,
+,,AC11,AC3,
+,60,AC3,AD5,
+%Neutralization,,,FA12,
+,,AD5,"Antibody
+FC11",
+,40,,,
+,,FA12,AA1,
+,,,FC3,
+,,FC11,,
+,20,,GD12,
+,,AA1,GA3,
+,,,EA7,
+,0,FC3,,
+,,,AA12 (Anti-NS1),n.n.
+,"100000
+10000
+1000
+100
+10
+1",GD12,,
+,Antibody concentration ng/mL,,,
+,,GA3,10000,

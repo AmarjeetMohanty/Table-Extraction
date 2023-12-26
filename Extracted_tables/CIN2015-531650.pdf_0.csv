@@ -1,0 +1,23 @@
+0,1,2,3
+,,Table 1: Basic schedules of student in a working day.,
+Duration (Δt),Activity,Location,Probability
+00:00–06:00,Sleep,Dormitory,𝑝0 (1.00)
+,Breakfast,Restaurant,𝑝1 (0.68)
+06:00–08:00,,,
+,Sports-breakfast,Playground-restaurant,1 − 𝑝1 (0.32)
+,Class,Classroom,𝑝2 (0.77)
+08:00–12:00,,,
+,Study,Library,1 − 𝑝2 (0.23)
+,Lunch,Restaurant,𝑝3 (0.90)
+12:00–14:00,,,
+,Lunch-rest,Restaurant/dormitory,1 − 𝑝3 (0.10)
+,Class,Classroom,𝑝4 (0.77)
+14:00–18:00,,,
+,Study,Library,1 − 𝑝4 (0.23)
+,Dinner,Restaurant,𝑝5 (0.63)
+18:00–20:00,,,
+,Dinner-sports,Restaurant/playground,1 − 𝑝5 (0.37)
+,Rest,Home,𝑝6 (0.63)
+20:00–22:00,,,
+,Study,Classroom,1 − 𝑝6 (0.37)
+22:00–24:00,Sleep,Home,𝑝7 (1.00)

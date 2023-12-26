@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6,7,8,9
+,other CPV-2 isolates from Brazil (DQ340409 and DQ340434) and Uruguay (EF375479).,,,,,,,,
+Accession,Breed,Sex,Age,Vaccination,CPV Type,,Codon position and amino acid,,
+number,,,,programa,,,,,
+,,,,,,426,"430 (Leu) 
+452 (Gly) 
+491 (Gln)",546 (Asn),555 (Val)
+EF375479,Short terrier,NA,NA,Complete,2c,GAA (Glu),"TTG 
+GGT 
+CAA",AAT,GTA
+DQ340409,NA,NA,NA,NA,2b,GAT (Asp),,,
+DQ340434,NA,NA,NA,NA,2a,AAT (Asn),,,
+EU797726b,Mongrel,♂,5 m,None,2c,,,C,
+EU797727b,German shepherd,♀,4 m,Complete,2c,,,C,
+EU797728b,Mongrel,♀,NA,None,2c,,,C,
+FJ236063b,German shepherd,♀,3 m,Incomplete,2c,,,C,
+FJ236064b,Pinscher,♀,2 m,Incomplete,2c,,,C,
+FJ236065b,NAc,NA,2 m,NA,2c,,,C,
+FJ236066b,NA,NA,2 m,NA,2c,,,C,
+FJ236067b,NA,NA,6 m,NA,2b,GAT (Asp),,,
+FJ236068b,NA,♀,NA,NA,2b,GAT (Asp),,,
+a Complete vaccination program was considerered at least three doses of CPV vaccine.,,,,,,,,,

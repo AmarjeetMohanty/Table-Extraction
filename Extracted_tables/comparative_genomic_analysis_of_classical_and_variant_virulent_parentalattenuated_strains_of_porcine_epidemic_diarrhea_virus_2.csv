@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6,7
+,Table 2. Amino acid changes numbers and change rates between parental virulent YN1 and different,,,,,,
+Vero cell-adapted passages.,,,,,,,
+ORFs,Encoded Proteins,1/15,1/30,1/60,1/90,1/144,1/200
+ORF1a/b,NSP1,0(0) *,1(0.06),1(0.06),1(0.06),1(0.06),2(0.12)
+,NSP3,0(0),0(0),0(0),0(0),1(0.36),1(0.36)
+,NSP9,0(0),0(0),0(0),1(0.11),1(0.11),1(0.11)
+,NSP11,2(0.39),2(0.39),2(0.39),2(0.39),2(0.39),3(0.58)
+S,S protein,6(0.43),7(0.50),8(0.58),11(0.79),12(0.87),15(1.08)
+ORF3,ORF3,8(3.55),8(3.55),8(3.55),8(3.55),8(3.55),8(3.55)
+E,E protein,0(0),0(0),1(1.30),2(2.60),2(2.60),2(2.60)
+M,M protein,1(0.44),1(0.44),1(0.44),1(0.44),2(0.72),3(1.08)
+N,N protein,0(0),1(0.23),1(0.23),1(0.23),2(0.45),2(0.45)
+,,* The amino acid change numbers and change rates in the corresponding proteins (%).,,,,,

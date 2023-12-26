@@ -1,0 +1,27 @@
+0,1,2,3,4,5,6,7,8
+"Table 1.
+(Continued.)",,,,,,,,
+,,"clinical
+trials.gov",vaccination,,,,,
+vaccine type,vaccine(s),identiﬁer,start month,dose(s) used,regimen,site,N,references
+replication-,ChAd3 EBOV GP,NCT02289027,October 2014,"2.5 (cid:2) 1010 vp,",single dose,"Lausanne,","120 (100 vaccinees,","[18,20]"
+deﬁcient,,,,5 (cid:2) 1010 vp,,Switzerland,20 placebo),
+viral vector,,,,,,,,
+replication-,ChAd3 EBOV GP,NCT02267109,October 2014,"1 (cid:2) 1010 vp,","ChAd3 at D0, MVA at","Bamako, Mali",91,[21]
+deﬁcient,,,,"2.5 (cid:2) 1010 vp,",11 –16 weeks,,,
+viral vector,,,,"5 (cid:2) 1010 vp,",,,,
+,,,,1 (cid:2) 1011 vp,,,,
+live replicating,rVSV-ZEBOV,NCT02296983,November 2014,"3 (cid:2) 105, 3 (cid:2) 106,",single dose,"Kiliﬁ, Kenya;",158,[22]
+viral vaccine,,NCT02283099,,"1 (cid:2) 107, 2 (cid:2) 107,",,"Hamburg,",,
+,,NCT02287480,,5 (cid:2) 107 pfu,,Germany;,,
+,,,,,,"Geneva,",,
+,,,,,,Switzerland,,
+replication-,AdHu26 EBOV GP and MVA-BN,NCT02313077,December 2014,ChAd3 at 5 (cid:2) 1010 vp,"Chad3 or MVA at D0,","Oxford, UK",87 (75 vaccinees and,[23]
+deﬁcient,Filo,,,MVA at 1 (cid:2) 108,heterologous,,12 placebo),
+viral vectors,,,,,"boosting at 2, 4 or",,,
+,,,,,8 weeks,,,
+replication-,rAdHu5 encoding EBOV GP from,NCT02326194,December 2014,"4 (cid:2) 1010 vp,",single dose,"Jiangsu, China","120 (40 low dose,",[24]
+deﬁcient,2014 outbreak strain,,,1.6 (cid:2) 1011 vp,,,"40 high dose,",
+viral vector,,,,,,,40 placebo),
+live replicating,rVSV-ZEBOV,NCT02287480,January 2015,3 (cid:2) 105 pfu,single dose,"Geneva,",56 (51 vaccinees and,[25]
+viral vaccine,,,,,,Switzerland,5 placebo),

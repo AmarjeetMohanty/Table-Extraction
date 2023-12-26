@@ -1,0 +1,39 @@
+0,1,2,3,4,5,6
+antigen,containing,plasmid.,The most,extensively,studied,"activated T helper 1 (Th1) cells,79,82,84-86 resulting in high levels"
+,Table 1. Molecular adjuvants tested in vivo.,,,,,
+Molecular Adjuvant,,,Molecule Type,,Animal Model,"Adaptive Response Effect
+References"
+,,,,,,161
+CD40L,,,Co-Stimulatory,,Mice,Cellular
+,,,,,,162
+CD80/86,,,Co-Stimulatory,,"Mice, NHP",Cellular
+,,,,,,163
+GM-CSF,,,Cytokine,,Mice,Humoral
+,,,,,,164
+ICAM-1,,,Co-Stimulatory,,Mice,Cellular
+,,,,,,165
+IFN-g,,,Cytokine,,"Mice, NHP",Cellular
+,,,,,,"165,166"
+IL-2,,,Cytokine,,Mice,"Cellular, Humoral"
+,,,,,,"166,167"
+IL-4,,,Cytokine,,"Mice, NHP",Humoral
+,,,,,,168
+IL-7,,,Cytokine,,Mice,"Cellular, Humoral"
+,,,,,,"169,170"
+IL-8,,,Chemokine,,Mice,"Cellular, Humoral"
+,,,,,,166
+IL-10,,,Cytokine,,Mice,Cellular
+,,,,,,"98,171"
+IL-12,,,Cytokine,,"Mice, NHP",Cellular
+,,,,,,"98,172"
+IL-15,,,Cytokine,,"Mice, NHP",Cytokine
+,,,,,,"166,173"
+IL-18,,,Cytokine,,"Mice, NHP",Cytokine
+,,,,,,169
+MCP-1,,,Chemokine,,Mice,Humoral
+,,,,,,163
+M-CSF,,,Cytokine,,Mice,Cellular
+,,,,,,169
+MIP-1a,,,Chemokine,,Mice,Humoral
+,,,,,,"169, 170"
+RANTES,,,Chemokine,,Mice,Cellular

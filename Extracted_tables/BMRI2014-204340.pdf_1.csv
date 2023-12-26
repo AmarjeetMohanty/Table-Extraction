@@ -1,0 +1,35 @@
+0,1,2,3,4,5
+BioMed Research International,,,,,7
+,Table 3: Docking score and H-bond interaction of ligands with BRCA1 protein (1T15).,,,,
+,,Number of,Distance,,Ligand
+Ligand,𝐺 score,,,Protein atom,
+,,H-bonds,( ˚A),,atom
+,,,2.449,SER 6: H (HG),
+,,,2.418,LEU1657: (O) O,
+Doxorubicin,−4.82,5,2.470,ASN1678: (O) O,O H H H O
+,,,2.203,PRO9: (O) O,
+,,,2.013,LYS1702: (H) HZ2,
+,,,2.109,"GLY 1656, (H) H",
+Letrazole,−4.18,2,,,N N
+,,,2.056,SER 6: H (HG),
+,,,2.172,"GLY 1656, (H) H",
+Cyclophosphamide,−3.38,3,1.944,SER 6: H (HG),O O O
+,,,1.753,LYS1702: (H) HZ2,
+Tamoxifen,−2,1,2.004,SER 6: H (HG),N
+,,,2.223,LYS1702: (H) HZ2,
+1-(2-Hydroxyphenyl)-4-methylpentan-1-one,−4.7,3,2.098,"GLY 1656, (H) H",O O O
+,,,2.012,SER 6: H (HG),
+,,,2.257,SER 6: H (HG),
+,,,2.142,"GLY 1656, (H) H",
+2-[(3-Methylbutoxy)carbonyl] benzoic acid,−3.86,5,2.070,"GLY 1656, (H) H",O O O O O
+,,,1.916,SER 6: H (HG),
+,,,1.709,LYS1702: (H) HZ2,
+,,,2.032,"GLY 1656, (H) H",
+4-Methylpentyl benzoate,−3.83,3,1.776,SER 6: H (HG),O O O
+,,,1.677,LYS1702: (H) HZ2,
+2-(5-Methylhexyl) benzoic acid,−3.7,1,2.066,LEU1701: (H) H,O
+,,,2.477,LYS1702: (H) HZ2,
+"3-(Iminomethyl)-2,4-dimethylphenol",−3.6,3,2.009,PRO9: (O) O,N H O
+,,,1.999,LEU1701: (H) H,
+3-Methylbutyl benzoate,−3.4,1,1.947,LYS1702: (H) H,O
+"Glide score, number of H-bond interactions, distance of H-bond interaction, and involved protein atom and ligand atom in interaction of isolated and standard",,,,,

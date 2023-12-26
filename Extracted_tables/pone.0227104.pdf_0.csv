@@ -1,0 +1,10 @@
+0,1,2,3,4,5,6,7,8
+Table 1. Pan-genotypic antiviral activity of AT-511 in a panel of laboratory HCV replicons.,,,,,,,,
+HCV Genotype,Reference Strain,GenBank Accession ID,,EC50 (nM),,,EC95 (nM),
+,,,AT-511,SOF,SOF/AT-511,AT-511,SOF,SOF/AT-511
+1a,H77,NC_004102,12.8,83.4,6.5,64.2,719,11.2
+1b,Con-1�,AJ238799,12.5,89.4,7.2,61.0,545,8.9
+2a,JFH-1,AB047639,9.2,50.7,5.5,ND,ND,ND
+3a,S52,GU814263,10.3,117,11.4,50.0,700,14
+4a,ED43,GU814265,14.7,158,10.7,ND,ND,ND
+5a,SA13,AF064490,28.5,287,10.1,ND,ND,ND

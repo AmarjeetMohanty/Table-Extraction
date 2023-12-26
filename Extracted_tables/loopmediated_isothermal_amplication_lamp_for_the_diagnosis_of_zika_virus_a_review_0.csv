@@ -1,0 +1,56 @@
+0,1,2,3,4,5,6,7
+,,,Table 1. LAMP platforms for Zika virus (ZIKV) diagnostics.,,,,
+,,,,,Pretreatment or,,
+,,,Target Region of,Analytical Sensitivity,Need for RNA,Validation with,
+Procedure,Samples,ZIKV Strains Used,,,,,Reference
+,,,the Primers,(Limit of Detection),Extraction from,Clinical Samples,
+,,,,,the Sample,,
+One-step RT-LAMP,,,,,,,
+,Human blood spiked,,◦,,,,
+Detection: development of a tape based,,MR 766 Uganda (AY632535),"Envelope Protein
+10",ZIKV RNA Copy,No,No,[40]
+,with RNA ZIKV,,,,,,
+on lateral ﬂow assay (LFA),,,,,,,
+Development of a microﬂuidic cassette,,,,,,,
+based on RT-LAMP,,MEX 2-81,,,,,
+,Saliva spiked with ZIKV,,Envelope Protein,5 PFU,Yes,No,[37]
+"Detection:
+through the naked eye with",,(Mosquito/2016/México),,,,,
+the aid of leuco crystal violet (LCV),,,,,,,
+,Human serum spiked,,,,,,
+One-step LAMP,,,,,,,
+,with synthetic,Synthetic oligonucleotides,,,,,
+Detection: development of LAMP,,NS5,,1 aM,No,No,[38]
+,oligonucleotides of,of ZIKV,,,,,
+protocol coupled with AC susceptometry,,,,,,,
+,ZIKV,,,,,,
+One-step RT-LAMP,,,,,,,
+,"Saliva, urine, and serum",,,,,,
+"Detection:
+turbidity monitoring coupled",,ZIKV_SMGC-1 China,,,,,
+,experimentally infected,NS1,,0.02 PFU/test,Yes,No,[39]
+to RT-qPCR. Through the naked eye with,,(KX266255),,,,,
+,with ZIKV,,,,,,
+calcein and UV light,,,,,,,
+One-step RT-LAMP,Clinical samples,,,,,,
+"Detection:
+through the",including urine and,Puerto Rico (PRVABC 59),Envelope Protein,1.2 RNA copies/µL,Yes,Yes,[59]
+colorimetric technology,human serum,,,,,,
+,Clinical samples,,,,,,
+,"including serum,",,,,,,
+One-step RT-LAMP,"plasma, and human","Puerto Rico (PRVABC59),",,,,,
+Detection: monitoring of ﬂuorescence,"semen.
+In addition to","P6-740 (HQ234449), 41525",,,,,
+,,,NS2A,0.43 PFU,No,Yes,[41]
+coupled to RT-qPCR platform and,"blood, plasma, saliva,",(KU955591) and MR 766,,,,,
+through the naked eye,"urine, semen and Aedes",Uganda (AY632535),,,,,
+,mosquito spiked,,,,,,
+,with ZIKV,,,,,,
+Development of a Trioplex assay to,,,,,,,
+"detect ZIKV, DENV, and CHIKV",,,,,,,
+,Human blood spiked,,,,,,
+Detection: development of RT-LAMP,,"Puerto Rico (PRVABC59),
+NS1",,1.56 PFU/mL,Yes,No,[60]
+,with ZIKV,,,,,,
+protocol coupled with a smartphone for,,,,,,,
+detecting ﬂuorescence,,,,,,,

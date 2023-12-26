@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7,8,9
+Table 5. Rescue efficiency of,,,reassortants between Bat09:mH1mN1ss and Bat10:mH1mH1ss.,,,,,,
+,PB2,PB1,PA,NP,M,NS,HA,NA,Rescue*
+1,Bat09,Bat09,Bat09,Bat09,Bat09,Bat09,H17ps-H1ss,N10ps-N1ss,++++
+2,Bat10,Bat09,Bat09,Bat09,Bat09,Bat09,H17ps-H1ss,N10ps-N1ss,+++
+3,Bat09,Bat10,Bat09,Bat09,Bat09,Bat09,H17ps-H1ss,N10ps-N1ss,++
+4,Bat09,Bat09,Bat10,Bat09,Bat09,Bat09,H17ps-H1ss,N10ps-N1ss,+
+5,Bat09,Bat09,Bat09,Bat10,Bat09,Bat09,H17ps-H1ss,N10ps-N1ss,+++
+6,Bat09,Bat09,Bat09,Bat09,Bat10,Bat09,H17ps-H1ss,N10ps-N1ss,++++
+7,Bat09,Bat09,Bat09,Bat09,Bat09,Bat10,H17ps-H1ss,N10ps-N1ss,++++
+8,Bat09,Bat09,Bat09,Bat09,Bat09,Bat09,H18ps-H1ss,N10ps-N1ss,++++
+9,Bat09,Bat09,Bat09,Bat09,Bat09,Bat09,H17ps-H1ss,N11ps-N1ss,++++
+10,Bat09,Bat09,Bat09,Bat09,Bat09,Bat09,H18ps-H1ss,N11ps-N1ss,+++
+11,Bat10,Bat10,Bat10,Bat10,Bat10,Bat10,H18ps-H1ss,N11ps-N1ss,++++
+12,Bat09,Bat10,Bat10,Bat10,Bat10,Bat10,H18ps-H1ss,N11ps-N1ss,+
+13,Bat10,Bat09,Bat10,Bat10,Bat10,Bat10,H18ps-H1ss,N11ps-N1ss,+++
+14,Bat10,Bat10,Bat09,Bat10,Bat10,Bat10,H18ps-H1ss,N11ps-N1ss,++
+15,Bat10,Bat10,Bat10,Bat09,Bat10,Bat10,H18ps-H1ss,N11ps-N1ss,+++
+16,Bat10,Bat10,Bat10,Bat10,Bat09,Bat10,H18ps-H1ss,N11ps-N1ss,+++
+17,Bat10,Bat10,Bat10,Bat10,Bat10,Bat09,H18ps-H1ss,N11ps-N1ss,++++
+18,Bat10,Bat10,Bat10,Bat10,Bat10,Bat10,H17ps-H1ss,N11ps-N1ss,+++
+19,Bat10,Bat10,Bat10,Bat10,Bat10,Bat10,H18ps-H1ss,N10ps-N1ss,+++
+20,Bat10,Bat10,Bat10,Bat10,Bat10,Bat10,H17ps-H1ss,N10ps-N1ss,+++

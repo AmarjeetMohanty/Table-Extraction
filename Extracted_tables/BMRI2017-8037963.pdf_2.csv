@@ -1,0 +1,24 @@
+0,1,2,3
+,Table 3: Results of diagnostic test in patients with at least one positive microbiology culture.,,
+Blood culture,Nasal swab,Respiratory tract aspirate,PCR
+Positive blood culture,,,
+S. aureus,Sa,Pseud,0
+E.coli,Sa,X,0
+Serratia,Pseud,Pseud,0
+,,Positive respiratory tract,
+,,aspirate,
+0,X,Sa,RH/AdV/Sa
+X,X,Sp,RH/Sp
+0,X,"Hinf, Klebs",RH/Hinf
+0,X,Hinf,RSV/Hinf
+0,X,Hinf,RH/AdV/Hinf
+0,F,E.coli,RSV/CMV/Hinf
+X,X,Hinf,PINF/Sa
+0,0,Sa,RSV
+X,F,Klebs,RSV
+0,F,Sp,RSV
+0,F,Pseud,hMPV
+X,X,Klebs,AdV/PINF
+,,Hinf,0
+0,F,Sa,Sa
+,Positive nasal swab,,

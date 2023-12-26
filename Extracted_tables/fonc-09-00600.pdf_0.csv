@@ -1,0 +1,47 @@
+0,1,2,3,4,5,6,7,8
+,"TABLE 4 | An extensive literature survey conﬁrmed that LIUS exerts cancer suppression effects via inducing cell death pathways in cancer cells, but manifests",,,,,,,
+,cyto-protective effects by modulating cell proliferation and anti-inﬂammatory effects in non-cancer cells.,,,,,,,
+,Main function,,Ultrasound,,Cell/Tissue,Mechanism,Possible involved,PMID
+,,,,,,,pathway,
+,,Intensity,Frequency,Exposure,,,,
+,,(W/cm2),(MHz),time,,,,
+Cancer,Cancer,1.35,1.7,24 h,Nasopharyngeal,Induce cellular,Unclear,22977587
+,suppression,,,,carcinoma cells,apoptosis and,,
+,,,,,,autophagy,,
+,,1.75-2.5,1,0.5 min,Laryngeal,Induce cellular,Cav-1/STAT3 signaling,27289429
+,,,,,carcinoma cells,apoptosis,pathway,
+,,3,1.2,1 min,Hepatocellular,Induce cellular,Mitochondrial pathway and,20498470
+,,,,,carcinoma cells,apoptosis and,oxidative stress pathway,
+,,,,,,necrosis,,
+,,0.3,1,1 min,Leukemia cells,Induce cellular,Unclear,15808400
+,,,,,,apoptosis,,
+,,0.045 - 0.09,0.4–0.62,1.5–3 min,Lymphoma cells,Induce cellular,Unclear,27635161
+,,,,,,apoptosis and,,
+,,,,,,lysis,,
+,,2.0-3.0,1,7 min,Osteosarcoma,Induce cellular,ROS-related mitochondrial,26161801
+,,,,,cells,apoptosis,pathway,
+Non-cancer,1) Bone fracture,0.03,3,5–15 min,Synovial cells,Suppresses,Integrin/FAK/MAPK,25096496
+,healing; 2),,,,,synovial cell,pathway,
+,soft-tissue,,,,,proliferation,,
+,regeneration; 3),,,,,,,
+,Inhibiting,,,,,,,
+,inﬂammation,,,,,,,
+,,0.03,1.5,20 min/day,Mesenchymal,Affects,SDF-1/CXCR4 signaling,25181476
+,,,,for 3 days,Stem Cell,mesenchymal,,
+,,,,,,stem cells,,
+,,,,,,migration,,
+,,0.03,1.5,20 min/day,Gastrocnemius,Enhances the,Unclear,20381949
+,,,,for 2–8 days,muscle laceration,regeneration of,,
+,,,,,injury,myoﬁbers,,
+,,,,,model/Myoblastic,,,
+,,,,,cell,,,
+,,0.03-0.20,1,10 min/day,Arthritis model,Reduced the,Unclear,22289897
+,,,,for 5 days,(Freund’s adjuvant,expression of,,
+,,,,,injection),inﬂammatory,,
+,,,,,,mediators,,
+,,0.03,1.5,11 min,Human Skin,Promotes cell,Rho/ROCK/Src/ERK,15485877
+,,,,,Fibroblasts,proliferation,signaling pathway,
+,,0.03,1.5,20 min/d for,Partial,Promotes,Regulation of VEGF,18378382
+,,,,2–16 weeks,patellectomy,chondrocytes and,expression,
+,,,,,,osteoblasts,,
+,,,,,,proliferation,,

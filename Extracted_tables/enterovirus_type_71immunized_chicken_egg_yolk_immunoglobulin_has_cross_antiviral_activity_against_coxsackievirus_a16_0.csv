@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6
+,,"EXPERIMENTAL AND THERAPEUTIC MEDICINE  18:  332-341,  2019",,,,
+334,,,,,,
+Table I. Primary and secondary antibodies.,,,,,,
+,,Dilution,,,Dilution,Catalogue
+Protein,Primary antibody,used,Catalogue number,Secondary antibody,used,number
+EV71,C-IgY,"1:20,000",,HRP goat anti-chicken IgY,"1:5,000",ab20572b
+,S-IgY,"1:20,000",,HRP goat anti-chicken IgY,"1:5,000",ab20572b
+,EV71 VP1 monoclonal,"1:10,000",MAB 1255‑M05a,HRP goat anti-mouse IgG,"1:5,000",ab97023b
+,antibody,,,,,
+CVA16,C-IgY,"1:5,000",,HRP goat anti-chicken IgY,"1:2,500",ab20572b
+,S-IgY,"1:5,000",,HRP goat anti-chicken IgY,"1:2,500",ab20572b
+,EV71 VP1 monoclonal,"1:10,000",MAB 1255‑M05a,HRP goat anti-mouse IgG,"1:5,000",ab97023b
+,antibody,,,,,
+EV71 VP1,C-IgY,"1:20,000",,HRP goat anti-chicken IgY,"1:5,000",ab20572b
+vaccine,S-IgY,"1:20,000",,HRP goat anti-chicken IgY,"1:5,000",ab20572b

@@ -1,0 +1,23 @@
+0,1,2,3,4,5
+,"antiseptics-disinfectants formulations, thanks to carrier tests [128].",,,,
+The efficiency is validated if the reduction in viral titers after a contact-time of 1 min is ≥ 3 log10.,,,,,
+,,,Type 3-,Type B-,Type 5-
+,Concentration (%) -,HCoV 229E,,,
+,,,parainfluenzavirus,Coxsackievirus,Adenovirus
+Tested antiseptics-disinfectants,(pH at used,,,,
+,concentration),,,,
+,,Enveloped,Enveloped,Non-enveloped,Non-enveloped
+Halogenous compounds,,,,,
+Sodium hypochlorite,0.01 (8.0),No,No,No,No
+,0.10 (9.4),Yes,Yes,No,No
+,0.50 (11.0),Yes,Yes,Yes,Yes
+Chloramine T,0.01 (7.0),No,Yes,No,No
+,0.10 (8.0),Yes,No,No,No
+,0.30 (8.0),Yes,Yes,Yes,Yes
+Sodium hypochlorite and potassium,0.01 (10.0),No,No,No,No
+bromide,0.05 (11.5),Yes,Yes,No,No
+,0.10 (12.0),Yes,Yes,No,No
+Povidone-iodine,10.0 (3.0) (1%,Yes,Yes,No,No
+,available iodine),,,,
+Ethanol,70.0 (4.0),Yes,Yes,No,Yes
+Glutaraldehyde,2.0 (7.0),Yes,Yes,Yes,Yes

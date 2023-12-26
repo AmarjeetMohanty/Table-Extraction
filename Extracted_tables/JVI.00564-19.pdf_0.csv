@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6
+,Adenovirus Zoonosis/Anthroponosis,,,,,
+TABLE 1 Amino acid identities of HAdV-B76 proteins to homologsa,,,,,,
+,,% amino acid identity,,,,
+Virus,Host,Penton base,Hexon,Fiber,"Fiber, proximal","Fiber, distal"
+SAdV-B35.1,Chimpanzee,100,99.8,100,100,100
+SAdV-B35.2,Bonobo,100,100,99.4,99.2,100
+SAdV-B21,Chimpanzee,98.2,92.3,81.6,72.6,100
+SAdV-B27.1,Chimpanzee,97.2,86.1,57.5,57.8,56.8
+HAdV-B16,Human,84.5,84.7,97.5,97.5,97.4
+HAdV-B21,Human,99.3,98.1,54.3,55.7,51.7
+HAdV-B7,Human,85.5,86,53.6,53.6,53.8
+HAdV-B14,Human,91.8,89.6,51.8,51.3,52.9
+aComparison of,,representative HAdV-B76 proteins to their homologs in select adenoviruses. Amino acid,,,,
+identities of,the three major capsid proteins were calculated using EMBOSS software (http://www.ebi.ac.uk/,,,,,

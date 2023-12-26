@@ -1,0 +1,19 @@
+0,1,2,3,4,5
+Table 4: Integrin-binding sequence motifs in astrovirus capsid proteins,,,,,
+,,Integrin-binding sequence motifs in Astroviral capsid proteins,,,
+CorePeptide,IntegrinType,CorePeptide,IntegrinType,CorePeptide,IntegrinType
+RGD,"α5,8,vβ1",LDV,α4β1,NGR,RGD-like
+,"αvβ 3,5,6,8",,,,low affinity
+,αIIbβ3,,,,
+AstroVirus,location,AstroVirus,location,AstroVirus,location
+H1,VP25,H1,VP34,H1,VP34
+Mink,VP34,H3,VP34,H2,VP34
+Sheep,VP34,H4,VP34,H3,VP34
+,,H5,VP34,H4,VP34
+,,H6,VP34,H5,VP34
+,,H7,VP34,H6,VP34
+,,H8,VP34,H7,VP34
+,,Feline,VP34,H8,VP34 & VP25
+,,Sheep,VP34,Feline,VP34
+,,Turkey2,VP25,Pig,VP34
+,,,,Turkey2,VP25

@@ -1,0 +1,37 @@
+0,1,2,3,4,5
+Table 1: Cellular proteins identified in purified virion preparations following 1-D SDS-PAGE and LC-MS/MS (Continued),,,,,
+Synaptic vesicle,H,IPI00156689,41.9,3(4/3),
+membrane protein,,,,,
+VAT-1 homolog,,,,,
+,M,IPI00126072,43.1,3(2/2),
+Annexin A4,M,IPI00353727,35.8,2(3/2),Influenza [21].
+ATP synthase alpha,H,IPI00440493,59.7,3(2/2),
+"chain,",,,,,
+mitochondrial,,,,,
+,M,IPI00130280,59.7,3(2/2),
+ATP synthase beta,M,IPI00468481,56.3,3(2/2),"HIV-1 [23], VV [63]."
+"chain,",,,,,
+mitochondrial,,,,,
+Casein kinase I,H,IPI00167096,39.1,2(2/2),
+,M,IPI00330729,38.9,2(2/2),
+CD44 antigen,H,IPI00297160,39.4c,5(3/2),HIV-1 [23].
+,M,IPI00223769,40.2c,5(2/2),
+Fascin,M,IPI00353563,54.3,3(2/2),VV [12].
+Fibronectin,M,IPI00113539,272.5,12(2/2),HIV-1 [23].
+Guanine,M,IPI00115546,39.9,2(3/2),
+nucleotide-binding,,,,,
+"protein G(o), alpha",,,,,
+subunit 2,,,,,
+Histone H3.2,M,IPI00230730,15.2,1(2/2),
+Histone H4,H,IPI00453473,11.2,1(2/2),"MMLV [25], HIV-1"
+,,,,,"[23], AlHV-1 [15],"
+,,,,,SARS-CoV [22].
+,M,IPI00329998,11.4,1(2/2),
+Methyl-CpG-,M,IPI00321709,62.6,3(2/2),
+binding domain,,,,,
+protein 4,,,,,
+Monocyte,M,IPI00308990,39.2,3(3/2),HIV-1 [23].
+differentiation,,,,,
+antigen CD14,,,,,
+Pyruvate kinase,M,IPI00407130,58.0,3(2/2),"Influenza [21],"
+,,,,,"KHSV [20], HIV-1"

@@ -1,0 +1,14 @@
+0,1,2
+182,,Clin Proteom (2010) 6:175–193
+"Table 5
+SJIA patient",(flare and quiescent plasma samples) characteristics—Student’s t,test significant analysis (P value)
+,"t
+Student
+test P value",
+,Training SJIA F vs. Q,Bootstrapping testing SJIA F vs. Q
+Gender,3.16E−01,3.51E−01
+Age (year),5.65E−01,2.84E−01
+WBC (103/ul),5.69E−05,4.31E−04
+ESR (mm/h),3.19E−09,1.98E−05
+CRP (mg/dL),NA,NA
+PLT (103/ul),7.44E−04,6.87E−05

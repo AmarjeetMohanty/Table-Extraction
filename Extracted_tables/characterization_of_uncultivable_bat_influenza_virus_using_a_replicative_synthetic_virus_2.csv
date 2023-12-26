@@ -1,0 +1,15 @@
+0,1,2,3,4
+,Table 4. Rescue efficiency of,,reassortants containing HA and NA packaging single from other viruses.,
+,Internal,HA,NA,Rescue*
+1,Bat,mH1,mN1,++++
+2,Bat,PR8,mN1,++
+3,Bat,mH1,PR8,+
+4,Bat,PR8,PR8,Neg
+5,PR8,PR8,PR8,++++
+6,PR8,mH1,PR8,Neg
+7,PR8,PR8,mN1,+++
+8,PR8,mH1,mN1,Neg
+9,PR8,mH1ss,PR8,Neg
+10,PR8,PR8,mN1ss,+++
+11,PR8,mH1ss,mN1ss,Neg
+12,PR8,PR8,Batps/B-NA,+++

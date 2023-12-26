@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+,,,,NS1,,,VP1,,,VP2,
+,,Genome size,Length,,Identity,Length,,Identity,Length,,Identity
+,Accession no.,(nt),(aa),,(%),(aa),,(%),(aa),,(%)
+Megabat bufavirus 1,LC085675,4765,642,,100,719,,100,578,,100
+Human bufavirus 1,JQ918261,4912,671,,46.0,707,,59.3,569,,57.5
+Human bufavirus 2,JX027297,4562,673,,52.6,707,,61.4,569,,60.0
+Human bufavirus 3,AB847989,4766,673,,53.5,710,,61.4,572,,59.7
+WUHARV parvovirus,JX627576,4909,665,,59.8,737,,60.8,569,,60.4
+Mpulungu bufavirus,AB937988,4613,639,,54.7,728,,48.4,587,,48.5
+Rat bufavirus,KT716186,4634,644,,54.5,726,,48.7,585,,48.4

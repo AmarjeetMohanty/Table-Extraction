@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6
+,,Percentage (Number) of Positive BAL,,,,
+,,Cultures,,,,
+,,Polymicrobial DNS,,,,
+Species,No,,Yes,OR,95% CI,P-Value
+Cases (n = 144),,,,,,
+M. haemolytica s.l.,31.1% (14/45),,4.0% (4/99),0.23,0.08–0.64,<.01
+Pasteurella multocida,44.4% (20/45),,11.1% (11/99),0.20,0.05–0.83,.03
+Histophilus somni,2.2% (1/45),,88.9% (8/99),ND,,
+Mycoplasma bovis,24.4% (11/45),,7.1% (7/99),1.34,0.33–5.62,.67
+Negative culture,22.4% (13/45),,45.5% (45/99),1.36,0.53–3.5,.52
+Controls (n = 39),,,,,,
+M. haemolytica s.l.,0% (0/7),,0% (0/32),ND,,
+P. multocida,14.3% (1/7),,9.4% (3/32),0.62,0.05–7.69,.70
+H. somni,0% (0/7),,6.3% (2/32),ND,,
+M. bovis,0% (0/7),,3.1% (1/32),ND,,
+Negative culture,71.4% (5/7),,37.5% (12/32),0.24,0.04–1.53,.12

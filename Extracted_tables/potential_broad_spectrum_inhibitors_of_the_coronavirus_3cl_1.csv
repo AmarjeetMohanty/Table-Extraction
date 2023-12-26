@@ -1,0 +1,11 @@
+0,1,2,3,4,5
+,Free energy of binding as predicted by MM-GBSA for a series of,,,,
+"pharmacophore modeling, with known inhibitor ML188 as a reference.",,,,,
+,,,MM-GBSA,,
+ZINC ID,,,,,
+,3D23,2ZU2,3V3M,3TLO,OC43
+09411012,´85.2,´84.6,´81.9,´77.5,´90.9
+02426719,´103.0,´80.7,´85.5,´73.7,´109.3
+02094118,´83.3,´90.8,´69.8,´82.8,´102.8
+09346433,´92.5,´79.2,´81.9,´63.1,´103.4
+ML188,´85.2,´77.4,´83.1,´78.5,´85.3

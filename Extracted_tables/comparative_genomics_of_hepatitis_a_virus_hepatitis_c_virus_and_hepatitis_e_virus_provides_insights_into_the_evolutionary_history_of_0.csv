@@ -1,0 +1,46 @@
+0,1,2,3,4,5,6,7
+4 of 16  |,,,,,,,
+,TA B L E   1  Virus species included for comparison of codon usage and amino acid frequencies,,,,,,
+Virus name,Accession nr.,Taxonomy,Host,%A*,%C*,%T*,%G*
+Hepatitis A virus (HAV),average of 6,Picornaviridae,Homo sapiens,30.0,15.7,32.5,21.8
+,genotypes,Hepatovirus,,,,,
+Hepatitis C virus (HCV),average of 6,Flaviviridae,Homo sapiens,20.9,29.2,22.1,27.7
+,genotypes,Hepacivirus,,,,,
+Hepatitis E virus (HEV),average of 9,Hepeviridae,"Homo sapiens, Sus scrofa, other",18.0,30.0,25.7,26.3
+,genotypes,Orthohepevirus,mammals,,,,
+Simian hepatitis A,EU140838.1,Picornaviridae,Macaca mulatta (rhesus,29.5,15.7,32.8,22.0
+virus (gt V),,Hepatovirus,monkey),,,,
+Rodent Hepatovirus,KT452637.1,Picornaviridae,Microtus arvalis (common vole),31.4,14.3,33.9,20.4
+,,Hepatovirus,,,,,
+Rodent Hepatovirus,KT452644.1,Picornaviridae,Cricetulus migratorius (gray,30.9,14.5,34.3,20.3
+,,Hepatovirus,dwarf hamster),,,,
+Bat Hepatovirus,KT452714.1,Picornaviridae,Eidolon helvum,32.7,15.4,31.5,20.4
+,,Hepatovirus,(fruit bat),,,,
+Bat Hepatovirus,KT452730.1,Picornaviridae,Coleura afra,31.5,16.1,31.3,21.1
+,,Hepatovirus,(African sheath-tailed bat),,,,
+Human Rhinovirus C,NC_009996.1,Picornaviridae,Homo sapiens,31.8,21.7,26.2,20.3
+,,Enterovirus,,,,,
+Human Cosavirus B1,NC_012801.1,Picornaviridae,Homo sapiens,28.9,22.8,28.0,20.3
+,,Cosavirus,,,,,
+Human Coronavirus,NC_002645.1,Coronavirinae,Homo sapiens,27.1,16.7,34.6,21.6
+,,Alphacoronavirus,,,,,
+Human pegivirus A,NC_001837.1,Flaviviridae,Homo sapiens,18.0,26.9,23.2,31.9
+(HPgV),,Pegivirus,,,,,
+West Nile virus (WNV),NC_001563.2,Flaviviridae,Homo sapiens (mosquito,27.3,22.7,21.7,28.3
+,,Flavivirus,vector),,,,
+Zika virus,NC_012532.1,Flaviviridae,Sentinel monkey (humans via,27.8,21.6,21.5,29.1
+,,Flavivirus,mosquito vector),,,,
+Norwalk virus,NC_001959.2,Caliciviridae,Homo sapiens,29.3,23.0,22.2,25.5
+(norovirus),,Norovirus,,,,,
+Triatoma virus,AF178440.1,Dicistroviridae,Triatoma infestans,29.0,16.3,35.0,19.7
+,,Triatovirus,(kissing bug),,,,
+Cricket paralysis virus,AF218039.1,Dicistroviridae,Teleogryllus spp. (Australian,33.1,18.3,27.6,21.0
+(CrAV),,Cripavirus,crickets),,,,
+Israeli acute paralysis,NC_009025.1,Dicistroviridae,Apidae sp.,32.7,17.0,29.4,20.7
+virus (IAPV),,Aparavirus,(bees),,,,
+Varroa destructor virus,NC_006494.1,Iflaviridae,Varroa destructor (parasitic,29.0,16.3,31.5,23.2
+,,Iflavirus,bee mite),,,,
+Acinetobacter phage,NC_002700.2,Leviviridae,Acinetobacter sp.,26.5,22.5,29.5,21.5
+AP205,,Levivirus,,,,,
+Enterobacter phage,NC_001417.2,Leviviridae,Enterobacter sp.,27.7,25.8,21.5,25.0
+MS2,,Levivirus,,,,,

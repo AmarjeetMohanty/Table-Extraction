@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6
+BALB/c mice infected with,,,,,,
+Single infection,,,,,,
+LCMV,,(cid:44)3*,69,53,(cid:44)3,(cid:44)3
+VV–NP,,(cid:44)3,33,66,46,(cid:44)3
+VV,,(cid:44)3,(cid:44)3,61,55,(cid:44)3
+Pichinde,,(cid:44)3,(cid:44)3,(cid:44)3,ND,33
+Double infection,,,,,,
+1st virus,2nd virus,,,,,
+LCMV,mock,(cid:44)3,(cid:44)3,ND,ND,ND
+LCMV,VV–NP,(cid:44)3,66,60,29,ND
+LCMV,VV,(cid:44)3,34,52,41,ND
+LCMV,Pichinde,(cid:44)3,14,8,ND,11‡

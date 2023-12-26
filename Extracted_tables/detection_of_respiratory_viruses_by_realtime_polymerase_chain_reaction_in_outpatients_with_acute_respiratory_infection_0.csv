@@ -1,0 +1,28 @@
+0,1,2,3,4,5,6
+,,IIF,,,Multiplex real-time RT-PCR,
+Pathogens,,n (%),,,n (%),
+Viral agents,,,,,,
+Inf A H1N1 pdm09,NA,,NA,2 (1.2),,0 (0)
+Inf A,5 (3.2),,8 (4.8),5 (3.2),,8 (4.8)
+Inf B,5 (3.1),,5 (3.1),5 (3.1),,5 (3.1)
+HRV,NA,,NA,12 (6.75),,2 (1.25)
+HCoV-229E,NA,,NA,0 (0),,0 (0)
+HCoV-OC43,NA,,NA,2 (1.2),,1 (0.6)
+HCoV-NL63,NA,,NA,1 (0.6),,0 (0)
+HCoV-HKU1,NA,,NA,1 (0.6),,0 (0)
+PIV-1,2 (1.2),,0 (0),2 (1.2),,1 (0.6)
+PIV-2,0 (0),,0 (0),0 (0),,1 (0.6)
+PIV-3,2 (1.2),,0 (0),3 (1.8),,1 (0.6)
+PIV-4,NA,,NA,2 (1.2),,0 (0)
+HBoV,NA,,NA,5 (3.1),,0 (0)
+hMPV A/B,NA,,NA,4 (2.5),,1 (0.6)
+HAdV,0 (0),,0 (0),1 (0.6),,0 (0)
+EV,NA,,NA,2 (1.2),,0 (0)
+HPeV,NA,,NA,0 (0),,0 (0)
+RSV A/B,6 (3.7),,0 (0),12 (7.4),,0 (0)
+Bacterial agents,,,,,,
+Streptococcus pneumoniae,NA,,NA,40 (24.5),,3 (1.8)
+Staphylococcus aureus,NA,,NA,16 (9.9),,4 (2.4)
+Haemophilus influenzae,NA,,NA,2 (1.2),,0 (0)
+Chlamydophila pneumoniae,NA,,NA,0 (0),,0 (0)
+Mycoplasma pneumoniae,NA,,NA,0 (0),,0 (0)

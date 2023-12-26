@@ -1,0 +1,64 @@
+0,1,2,3,4,5,6,7
+Table 4. Assumed physiological cleavages,that are not conserved in terms of peptidase substrate binding,,,,,,
+Substrate,"UniProt
+P1
+Peptidase [MEROPS ID]
+(total",substrates),,,Replacements,Possible,Ref.
+,accession,,,,,cause,
+"Serine protease HTRA2, mitochondrial","O43464
+211
+HtrA2 peptidase [S01.278]
+(56)",,,,VRLLSGDT (5),g,(37)
+,,,,,---P---- (4),,
+Cytochrome C,"P00022
+1",mitochondrial methionyl aminopeptidase [M24.028],,(131),MGDVE (35),g,(38)
+,,,,,-C--- (1),,
+Coagulation factor XIII A chain,"P00488
+38
+thrombin [S01.217]
+(169)",,,,VVPRGVNL (22),g,(39)
+,,,,,---L---- (1),,
+Insulin-1,"P01325
+87
+proprotein convertase 2 [S08.073]",(59),,,RQKRGIVD (36),,(40)
+,,,,,--WH-W-W (1),a,
+,,,,,--A-X--R (1),d,
+Collagen alpha-2(I) chain,"P02465
+870
+cathepsin D [A01.009]
+(145)",,,,APGFLGLP (15),,(41)
+,,,,,---I---- (21),h,
+Collagen alpha-2(I) chain,"P02465
+863",matrix metallopeptidase(cid:4)1 [M10.001],(70),,GPQGLLGA (28),h,(42)
+,,,,,-T------ (8),,
+Collagen alpha-2(I) chain,"P02465
+863",matrix metallopeptidase(cid:4)8 [M10.002],(87),,GPQGLLGA (28),h,(42)
+,,,,,-T--P--- (8),,
+"Platelet-derived growth factor
+subunit A","P04085
+86
+Furin [S08.071]
+(116)",,,,RRKRSIEE (38),,(43)
+,,,,,G-LT---- (1),b,
+,,,,,L--X---- (1),d,
+Collagen alpha-2(IV) chain,"P08572
+1077",kallikrein-related peptidase 14 [S01.029],(49),,APGRAGLY (6),a,(44)
+,,,,,---S---- (7),,
+,,,,,---L---- (5),a,
+,,,,,---A---- (2),a,
+,,,,,---I---- (1),"a, g",
+,,,,,---V---- (3),,
+Collagen alpha-2(IV) chain,"P08572
+1109",kallikrein-related peptidase 14 [S01.029],(49),,KGERGTTG (12),,(44)
+,,,,,--QP-E-- (7),a,
+,,,,,-----E-- (2),a,
+,,,,,---L---- (2),a,
+,,,,,---V---- (1),a,
+Insulin-like growth factor-binding protein 1,"P08833
+165
+Matriptase [S01.302]
+(26)",,,,KALHVTNI (2),,(45)
+,,,,,--D-N--- (1),b,
+,,,,,-SXXXDD- (1),d,
+,,,,,--V----- (2),h,
+,,,,,---E--D- (3),h,

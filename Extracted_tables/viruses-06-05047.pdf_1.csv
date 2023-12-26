@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6,7
+,,Table 1. Summary of Inovirus-Based Vaccines Against Pathogens Causing Infectious Diseases.,,,,,
+,,,,,Protection of Vaccinated,,
+,,,Study,Type of,Animals against,,
+Pathogens a,Inoviral Vector b,Antigen c,,,,References,
+,,,Animal Model,Immune Response d,Challenge with,,
+,,,,,the Pathogen e,,
+Viral,,,,,,,
+HBV,M13.g8.m,Hepatitis B Surface Antigen,Mice,Specific humoral,ND,"Folgori et al., 1994",[48]
+HBV,M13.g8.m,Hepatitis B Surface Antigen,Mice,Specific cellular (CD8),ND,"Wan et al., 2001",[49]
+HIV-1,fd.g3,gp120 (V3 loop),Rabbits,Specific humoral,ND,"Keller et al., 1993",[50]
+HIV-1,M13.g8.m,Unknown,Mice,Specific humoral,ND,"Scala et al., 1999",[51]
+HIV-1,fd.g8.m,gp120 (CD4 binding site),"Mice, Rabbits",Non-specific humoral,ND,"Zwick et al., 2001",[52]
+HIV-1,M13.g8.m,Unknown,Rhesus macaques,Specific humoral,Partial,"Chen et al., 2001",[53]
+HIV-1,fd.g3,gp120 (CD4 binding site),Mice,Specific humoral,ND,"Dorgham et al., 2005",[54]
+HIV-1,M13.g3,gp120 (CD4 binding site),Rabbits,Specific humoral,ND,"Wilkinson et al., 2007",[55]
+HIV-1,M13.g3,Unknown,Mice,Specific humoral,ND,"Rodriguez et al., 2007",[56]
+HIV-1,M13.g3,Unknown,Mice,Specific humoral,ND,"Humbert et al., 2007",[57]
+HIV-1,M13.g3,Unknown,Mice,Specific humoral,ND,"Humbert et al., 2008",[58]
+HIV-1,fd.g8.m,Carbohydrates,Rabbits,Non-specific humoral,ND,"Menendez et al., 2008",[59]
+HIV-1,M13.g8.m,gp120 (V3 loop),Mice,Specific cellular (CD8),ND,"Pedrosa-Roldan et al., 2009",[60]
+HIV-1,M13.g8.m,gp120 (V3 loop),Mice,Specific humoral,ND,"Charles-Nino et al., 2011",[61]
+HIV-1,M13.g3,gp41 (MPER),"Mice, Rabbits",Specific humoral,ND,"Rodriguez et al., 2011",[62]
+HIV-1,M13.g3,gp120 (V3 loop),Rabbits,Specific humoral,ND,"Gazarian et al., 2013",[63]
+HPV,fd.g8.m,E7,Mice,Specific humoral,ND,"Lidqvist et al., 2008",[64]
+HSV-2,fd.g8.m,Glycoprotein G2,Mice,Specific humoral,Significant,"Grabowska et al., 2000",[65]
+Influenza A,M13.g3,Hemagglutinin Antigen,Mice,Specific humoral,Significant,"Zhong et al., 2011",[66]
+Neurotropic Murine,,,,,,,
+,fd.g8.m,Surface Glycoprotein,Mice,Specific humoral,Partial,"Yu et al., 2000",[67]
+Coronavirus,,,,,,,
+Rabies virus,M13.g3,Rabies Viral Glycoprotein,Mice,Specific humoral,ND,"Houimel et al., 2009",[68]
+RSV,fd.g3,Glycoprotein G,Mice,Specific humoral,Complete,"Bastien et al., 1997",[69]
+Protozoan,,,,,,,
+Plasmodium,,,,,,,
+,fd.g3,CSP,"Mice, Rabbits",Specific humoral,ND,"Stoute et al., 1995",[70]
+falciparum,,,,,,,

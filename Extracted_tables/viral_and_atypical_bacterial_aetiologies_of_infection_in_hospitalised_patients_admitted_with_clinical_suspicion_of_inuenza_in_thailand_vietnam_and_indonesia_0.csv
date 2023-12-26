@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6
+,,Number admitted,,,,
+,Total number,to ICU,Odds ratio,Adjusted OR,"95% CI
+(AOR)",P (AOR)
+Viral pathogen detected,527,55,1,1,–,–
+Bacterial pathogen detected,19,5,3(cid:1)07,1(cid:1)82,0(cid:1)351–9(cid:1)414,0(cid:1)477
+Both pathogens detected,12,0,N/A,N/A,N/A,N/A
+Neither pathogen detected,261,80,3(cid:1)79,1(cid:1)30,0(cid:1)714–2(cid:1)374,0(cid:1)390
+Age: 0–4 years,616,15,1,1,–,–
+Age: 5–14 years,36,3,3(cid:1)64,3(cid:1)46,0(cid:1)93–12(cid:1)88,0(cid:1)064
+Age: 15–44 years,101,69,86(cid:1)39,79(cid:1)78,40(cid:1)74–156(cid:1)23,<0(cid:1)0001
+Age: 45–64 years,43,33,132(cid:1)22,114(cid:1)07,45(cid:1)02–289(cid:1)02,<0(cid:1)0001
+Age: 65+ years,23,20,266(cid:1)94,243(cid:1)79,64(cid:1)58–920(cid:1)26,<0(cid:1)0001
+Male sex,495,88,1,1,–,–
+Female sex,324,52,0(cid:1)88,1(cid:1)07,0(cid:1)60–1(cid:1)91,0(cid:1)830

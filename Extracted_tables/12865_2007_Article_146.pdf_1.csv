@@ -1,0 +1,19 @@
+0,1,2,3,4,5,6
+Table 7: Quantification of supertype assignments.,,,,,,
+,,,,Classification criteria,,
+Supertype,(n),Binding assay,Pool sequencing or,Full sequence match,1 full and 1 key,Key residue match at
+,,,ligand elution,at B and F,sequence match,B and F
+A01,61,4,4,42,11,0
+A01 A03,9,1,0,4,4,0
+A01 A24,10,1,0,8,1,0
+A02,75,7,4,57,7,0
+A03,86,6,2,68,10,0
+A24,47,2,0,36,9,0
+B07,165,6,11,96,52,0
+B08,19,1,1,13,4,0
+B27,98,2,16,52,27,1
+B44,108,6,2,57,43,0
+B58,22,3,3,12,4,0
+B62,64,1,5,44,12,2
+Unassigned,181,-,-,-,-,-
+Total,945,40,48,489,184,3

@@ -1,0 +1,21 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+T,able2. The inhibitory effect off garlic extract on IBV (M41) in ovo as a primary mixture of different dilutions,,,,,,,,,,
+of virus and constant amount of garlic extract,,,,,,,,,,,
+Parameter,,,,Candling evidences,,,,,,,
+,,,,Number of death/ reduction of growth in comparison to control,,,,,,,
+,,,,group (17 days old),,,,,,,
+T,,,1st,2nd day,3rd day,4th day,5th day,6th day,7th day,,
+,Dilution of virus,Number of egg,day,,,,,,,Mean of EI,p Value
+rial,,,,,,,,,,,
+groups,,,,,,,,,,,
+i,10-2,4,0/++,0/++,4/++,-,-,-,-,804.1±122,<0.05
+,10-3,4,0/++,0/++,2/++,2/++,-,-,-,820.8±98,<0.05
+,10-4,4,0/++,0/++,0/++,0/++,0/++,0/++,0/++,4043.6±227,
+,10-5,4,0/+,0/+,0/-,0/-,0/-,0/-,0/-,3644.2±476,
+,10-6,4,0/+,0/+,0/-,0/-,0/-,0/-,0/-,3691.4±347,
+ii,10-2,4,0/++,0/++,0/++,2/++,2/++,-,-,1296.4±269,<0.05
+,10-3,4,0/+,0/+,0/+,1/+,1/+,0/-,0/-,2604±1251,<0.05
+,10-4,4,0/-,0/-,0/-,0/-,0/-,0/-,0/-,4047.1±301,
+,10-5,4,0/-,0/-,0/-,0/-,0/-,0/-,0/-,3864.1±321,
+,10-6,4,0/-,0/-,0/-,0/-,0/-,0/-,0/-,3789±300,
+iii,0,8,0/-,0/-,0/-,0/-,0/-,0/-,0/-,3728,

@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6
+Schlub et al.,. doi:10.1093/molbev/msy155,,,,,MBE
+,"Table 1. Sensitivity, false discovery, and area under the curve for each test across a range of P value cut-offs and overlapping lengths.",,,,,
+Test,Minimum overlap,,Sensitivity,,False discovery rate,Area under the curve
+,length (nucleotides),,,,,
+,,P 5 0.001,,P 5 0.01,"P 5 0.001
+P 5 0.01",
+Codon perm.,50,0.33,,0.51,"0.16
+0.40",0.56
+Codon perm.,100,0.43,,0.65,,0.69
+Codon perm.,200,0.54,,0.77,,0.78
+Codon perm.,300,0.77,,0.90,,0.87
+Synonymous mut.,50,0.35,,0.55,"0.29
+0.41",0.55
+Synonymous mut.,100,0.45,,0.71,,0.67
+Synonymous mut.,200,0.57,,0.84,,0.74
+Synonymous mut.,300,0.82,,0.95,,0.83
+Combined,50,0.25,,0.43,"0.097
+0.22",0.59
+Combined,100,0.33,,0.56,,0.72
+Combined,200,0.43,,0.68,,0.81
+Combined,300,0.69,,0.86,,0.89

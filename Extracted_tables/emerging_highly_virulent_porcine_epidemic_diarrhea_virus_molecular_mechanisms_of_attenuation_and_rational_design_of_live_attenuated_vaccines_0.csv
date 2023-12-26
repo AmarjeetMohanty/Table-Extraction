@@ -1,0 +1,16 @@
+0,1,2,3,4
+,Table 1. Changes of amino acids among four Vero cell-attenuated PEDV G2 strains.,,,
+,,,,KNU-141112
+Genes,PC22A-P120,YN144,PT-P96,
+,,,,DEL5/ORF3
+Nsp2,,P509S,"K159N, T510I",
+Nsp3,"S1564F, I1565F, D1622G",I1565T,F1564S,S1564F
+Nsp4,,H2925Y,E2937A,
+Nsp5,,,,T3186I
+Nsp6,,V3505E,,
+Nsp7,A3627V,,,
+Nsp12,L4622F,V4832F,,
+Nsp14,,"L6136F, V6137S",,
+Nsp13,,,,"T5132I, A5272S"
+Nsp15,,,M6393I,
+domain 0,"∆55 to 56 E57K, I166V",,T144I,K272T

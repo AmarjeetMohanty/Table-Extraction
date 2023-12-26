@@ -1,0 +1,82 @@
+0,1,2,3,4,5,6,7,8
+,Table 4 CDV PCR results at,,,first presentation and at different time points thereafter,,in 13 rescue dogs,,
+Dogs1,Date of,first,CDV real-time RT-qPCR results2,,,,,
+,,investigation,,,,,,
+,,,At first investigation,After 1 month,After 2 months,After 3 months,After 4 months,After 5 months
+,,,"CS
+NS
+Blood",CS/NS/OC6,"CS
+NS
+OC","CS
+NS
+OC","CS
+NS
+OC","CS
+NS
+OC"
+Dog 1,28.10.13,,"pos
+pos",pos,,"pos
+pos
+neg","pos
+pos
+neg","neg
+neg
+neg"
+Dog 2,5.11.13,,"pos
+pos
+pos",pos,,"neg
+pos
+neg","neg
+pos
+neg","neg
+neg
+neg"
+Dog 3,6.11.133,,"pos
+neg
+pos",pos,,"neg
+neg
+neg",,
+Dog 4,22.10.13,,pos,,,,,
+Dog 5,5.11.13,,"pos
+pos
+pos",neg,,,,
+Dog 6,5.11.13,,"pos
+pos
+pos",pos,"pos
+pos
+neg","pos
+neg
+neg","neg
+neg
+neg",
+Dog 7,5.11.13,,"neg
+pos
+pos",quest7,"neg
+neg
+neg",,,
+Dog 8,6.11.134,,"pos
+pos
+neg",pos,"neg
+neg
+neg",,,
+Dog 9,6.11.13,,"pos
+neg",pos,"neg
+neg
+neg",,,
+Dog 10,7.11.13,,"pos
+neg
+neg",pos,"pos
+pos
+pos","pos
+pos
+neg",,
+Dog 11,6.11.13,,"pos
+neg
+neg",neg,,,,
+Dog 12,12.11.135,,"neg
+neg",,,,,
+Dog 13,12.11.13,,"neg
+neg
+neg",,,,,
+Total positive,,,11/13,7/10,2/5,4/5,2/3,0/2
+,Positive results are shown in bold,,,,,,,

@@ -1,0 +1,12 @@
+0,1,2,3,4
+,,,Candidate vaccines,
+Group,Number of chickens,,,
+,,7 days (prime),21 days (boost),35 days (third immunization)
+pVAX1-16S1,20,pVAX1-16S1,pVAX1-16S1,pVAX1-16S1
+PVAX1-16M,20,PVAX1-16M,PVAX1-16M,PVAX1-16M
+pVAX1-16N,20,pVAX1-16N,pVAX1-16N,pVAX1-16N
+pVAX1-16S1/M/N,20,pVAX1-16S1/M/N,pVAX1-16S1/M/N,pVAX1-16S1/M/N
+pVAX1-16S1/M/N +,20,pVAX1-16S1/M/N,pVAX1-16S1/M/N +,pVAX1-16S1/M/N +
+inactivated vaccine,,,inactivated vaccine,inactivated vaccine
+Inactivated vaccine,20,Inactivated vaccine,Inactivated vaccine,Inactivated vaccine
+pVAX1,20,pVAX1,pVAX1,pVAX1

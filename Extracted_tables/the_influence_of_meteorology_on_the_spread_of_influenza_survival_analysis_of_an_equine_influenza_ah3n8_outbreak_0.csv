@@ -1,0 +1,45 @@
+0,1,2,3,4,5
+,,,,The Influence of Meteorology on Influenza Spread,
+,Table 5. Final multivariable Cox regression model,,"for time to infection of premises in the largest cluster (n = 3153), northwest of",,
+,"Sydney, during the 2007 equine influenza outbreak in Australia.",,,,
+Factor,,Category,Hazard ratio,(95% CI),"P
+-valuea"
+Meteorologicalcovariates,,,,,
+b,,,,,
+"Rainfall
+(mm day21),
+t23",,Linear,0.91,"(0.82, 1.00)",0.055
+"Relative humidity (%),",,Nonlinear spline,—,—,",0.001"
+b,,,,,
+"measured daily at 3pm,
+t25",,,,,
+Maximum daily air,,Nonlinear spline,—,—,",0.001"
+b,,,,,
+"t23
+temperature (uC),",,,,,
+"Maximum daily wind speed,",,Nonlinear spline,—,—,",0.001"
+b,,,,,
+"(km hour21),
+t 23",,,,,
+directed (k = 3)c,,,,,
+Premisesattributes,,,,,
+Area (acres),,Nonlinear spline,—,—,",0.001"
+Number of horses,,.5,3.16,"(2.70, 3.69)",",0.001"
+,,3–5,2.19,"(1.89, 2.55)",
+,,2,1.93,"(1.66, 2.26)",
+,,1,1.00,,
+Length of shared fence,,.300,1.30,"(1.15, 1.48)",",0.001"
+with other horse premises (m),,1–300,1.27,"(1.13, 1.43)",
+,,0,1.00,,
+Vaccination statusb,,Yes,0.28,"(0.04, 2.09)",0.134
+,,No,1.00,,
+Spatialcovariates,,,,,
+log10(Elevation (m)),,Linear,0.58,"(0.51, 0.67)",",0.001"
+Human population density,,Nonlinear spline,—,—,",0.001"
+(people km22),,,,,
+,"Number of events = 1727; Log likelihood = 212,847.4; df = 25; P,0.001; R2 = 25.8%.",,,,
+aP-values derived from Likelihood ratio tests (LRT).,,,,,
+"bTime-changing covariate,",time-lagged 3 or 5 days as noted.,,,,
+,cMaximum daily wind speed (‘directed’) based on wind only from within 45u arcs centred on the direction of the three nearest infected premises assuming that premises,,,,
+were infectious for 14 days and one of,the three nearest,infective premises was the source of,infection.,,
+doi:10.1371/journal.pone.0035284.t005,,,,,

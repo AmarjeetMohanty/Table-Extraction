@@ -1,0 +1,36 @@
+0,1,2,3,4
+,,"C.
+ryanae",,10
+,,C. bovis,,7
+,,C. parvum,,1
+,,,C. bovis,2
+1,,,"C.
+ryanae",1
+,,,C. ubiquitum,1
+,,C. bovis,C. bovis,2
+,,"C.
+ryanae","C.
+ryanae",1
+,C. parvum,"C.
+ryanae",,10
+,C. parvum,C. bovis,,10
+,"C.
+ryanae",C. bovis,,1
+,,C. bovis,"C.
+ryanae",4
+2,,"C.
+ryanae",C. bovis,2
+,C. parvum,,"C.
+ryanae",1
+,C. parvum,"C.
+ryanae","C.
+ryanae",1
+,C. parvum,C. bovis,C. bovis,1
+,C. bovis,"C.
+ryanae","C.
+ryanae",1
+3,C. parvum,"C.
+ryanae",C. bovis,1
+,C. parvum,C. bovis,"C.
+ryanae",1
+ND*,C. parvum,ND,ND,3

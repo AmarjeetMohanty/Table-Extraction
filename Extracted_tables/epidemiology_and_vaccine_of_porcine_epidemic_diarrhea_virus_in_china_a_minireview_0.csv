@@ -1,0 +1,32 @@
+0,1,2,3,4,5
+,,,,Breakpoint,
+Potential,,,,,
+,Recombinant strains,Major parent strains,Minor parent strains,Positions in,Program or method of
+recombinant,,,,,
+,(accession no./year/group*),(accession no./year/group*),(accession no./year/group*),recombinant,recombination detection
+events,,,,,
+,,,,sequences,
+1,CH-ZWBZa-01-2015,CH/JL/2011 strain,CH-ZWBZb-01-2015 strain,11–762,RDP (P=7.15E-22);
+,strain,(JQ638924/2011/ GII),(KR296681/2015/GI),,GENECONV
+,(KR296680/2015/GII),,,,(P=6.89E-20); Maxchi
+,,,,,(P=3.49E-16); Chimaera
+,,,,,(P=3.04E-16); SiSscan
+,,,,,(P=3.04E-17); 3Seq
+,,,,,(P=8.95E-18).
+2,JS-2004-2 strain,PJ1407 strain,ZJ-2011-1 strain,50–767,RDP (P=5.91E-03);
+,(AY653204/2004/GII),(KM406184/2014/GI),(JN825710/2011/GI),,Maxchi (P=4.73E-10);
+,,,,,Chimaera (P=3.12E-06);
+,,,,,SiSscan (P=2.71E-21);
+,,,,,3Seq (P=2.31E-12).
+3,GDS01 strain,JY7C strain,MX1405 strain,1455–2093,RDP (P=6.38E-03);
+,(AB857233/2012/GI),(KF177256/2013/GI),(KM406182/2014/GI),,GENECONV
+,,,,,(P=2.58E-02); Chimaera
+,,,,,(P=2.79E-02); SiSscan
+,,,,,(P=1.47E-05); 3Seq
+,,,,,(P=7.89E-05).
+4,FJ-YX 2013 strain,JY7C strain,MX1405 strain,1359–1974,GENECONV
+,(KJ646590/2013/GI),(KF177256/2013/GI),(KM406182/2014/GI),,(P=3.71E-02); Maxchi
+,,,,,(P=1.87E-02); SiSscan
+,,,,,(P=1.27E-06); 3Seq
+,,,,,(P=2.23E-03).
+*Group was defined based on the phylogenetic tree of S1 gene of the selected PEDV strains in our study (see Fig. 2).,,,,,

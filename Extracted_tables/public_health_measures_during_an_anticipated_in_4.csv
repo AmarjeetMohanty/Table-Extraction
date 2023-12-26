@@ -1,0 +1,51 @@
+0,1,2,3,4,5,6,7,8
+Taylor et al,,,,,,,,
+Table 1D Survey logistic modelling of extremely/very willing – ALL behaviors: unadjusted and adjusted odds ratios (OR),,,,,,,,
+Independent variable,,Extremely/very willing – ALL behaviors,,,,,,
+,Unadjusted,,,,Adjusted,,,
+,OR,95% CI,,P value,OR,95% CI,,P value
+Gender,,,,,,,,
+Male,1.00,–,–,–,–,–,–,–
+Female,0.95,0.74,1.22,0.680,–,–,–,–
+Location (deﬁ ned by health region),,,,,,,,
+Urban,1.00,–,–,–,–,–,–,–
+Rural,1.22,0.96,1.54,0.098,–,–,–,–
+High psychological distress (K10 ? 22),,,,,,,,
+No,1.00,–,–,–,–,–,–,–
+Yes,0.71,0.44,1.13,0.143,–,–,–,–
+Age,,,,,,,,
+16–24,1.00,–,–,–,1.00,–,–,–
+25–34,1.41,0.79,2.50,0.241,1.24,0.68,2.27,0.477
+35–44,2.04,1.18,3.54,0.011,1.75,1.00,3.06,0.051
+45–54,2.24,1.34,3.76,0.002,1.98,1.17,3.38,0.012
+55–64,2.25,1.35,3.76,0.002,1.95,1.15,3.30,0.013
+65–74,2.71,1.63,4.51,(cid:2)0.001,2.34,1.39,3.96,0.001
+75+,2.37,1.37,4.09,0.002,1.82,1.03,3.23,0.041
+Children in household,,,,,,,,
+No,1.00,–,–,–,–,–,–,–
+Yes,1.02,0.77,1.35,0.908,–,–,–,–
+Born in Australia,,,,,,,,
+No,1.00,–,–,–,–,–,–,–
+Yes,1.19,0.89,1.60,0.250,–,–,–,–
+Speak language other than English,,,,,,,,
+No,1.00,–,–,–,1.00,–,–,–
+Yes,0.57,0.38,0.85,0.006,0.62,0.40,0.95,0.029
+Living alone,,,,,,,,
+No,1.00,–,–,–,–,–,–,–
+Yes,1.07,0.84,1.37,0.572,–,–,–,–
+Highest formal qualiﬁ cation,,,,,,,,
+University degree/equivalent,1.00,–,–,–,–,–,–,–
+TAFE certiﬁ cate/Diploma,0.69,0.49,0.99,0.044,–,–,–,–
+High school certiﬁ cate,0.60,0.40,0.90,0.013,–,–,–,–
+School certiﬁ cate,0.64,0.45,0.90,0.010,–,–,–,–
+None,0.68,0.43,1.06,0.085,–,–,–,–
+Employed (paid or unpaid),,,,,,,,
+No,1.00,–,–,–,–,–,–,–
+Yes,0.93,0.73,1.19,0.576,–,–,–,–
+Household income (before tax),,,,,,,,
+(cid:2)A$20k,1.00,–,–,–,–,–,–,–
+A$20–40k,0.91,0.61,1.35,0.624,–,–,–,–
+A$40–60k,0.76,0.50,1.14,0.181,–,–,–,–
+A$60–80k,0.89,0.54,1.47,0.641,–,–,–,–
+(cid:4)A$80k,1.10,0.76,1.60,0.606,–,–,–,–
+,,,,,,,,(Continued)

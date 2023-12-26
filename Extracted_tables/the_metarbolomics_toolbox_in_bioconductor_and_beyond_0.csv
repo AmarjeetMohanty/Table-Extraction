@@ -1,0 +1,23 @@
+0,1,2,3,4,5
+"Metabolites 2019, 9, 200",,,,,37 of 55
+"is diﬃcult to quantify “implementation simplicity”, e.g., in the case of shiny apps, which can range",,,,,
+from rather straightforward to highly complex.,,,,,
+,Table 10. Categorisation of creating and sharing R code and data analysis functionality. Symbols indicate,,,,
+,"strengths (+, ++) or weaknesses (-, –) or neutral (o) assessment.",,,,
+,Implementation Simplicity,User- Friendliness,,,
+Framework,,,Interactivity,Example URLs,
+,Low to High,Low to High,,,
+,++,,,write.mzTab,
+R script,,–,-,,
+R Markdown,,,,,
+,o,o,–,"xcms, patRoon",
+vignette,,,,,
+,,+,+,MSEAp,
+Jupyter Notebook,o,,,,
+,,++,+,"LearnR
+Examples",
+LearnR (CRAN),-,,,,
+,,,,"MetFamily and apps in e.g.,",
+,,++,++,,
+shiny app,–,,,,
+,,,,"RaMP-DB, IntLIM",

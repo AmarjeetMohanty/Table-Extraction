@@ -1,0 +1,34 @@
+0,1,2,3,4,5,6,7,8,9
+,,,,,Table 3,,,,
+Vesikari score and specific clinical parameters for agents detected in the group with acute gastroenteritis.,,,,,,,,,
+,,Vesikari score,,χ,2 or Fisher exact test for specific clinical parameters*,,,,
+,Mean,S.D.,Range (min-max),a,,b,c,d,e
+,,,,Body temperature,Diarrhoea duration,,Defecation frequency,Vomiting duration,Vomiting frequency
+VIRUSES,,,,,,,,,
+RoV,13.88,2.30,7-19,ns,ns,,ns,less frequently in Vd0,less frequently in Vf0
+,,,,,,,,(p<0.001),(p<0.001)
+AdV-F,12.30,2.11,9-16,more frequently in T1,ns,,ns,ns,ns
+,,,,(p=0.016),,,,,
+AstV,13.38,2.31,10-17,ns,ns,,ns,ns,ns
+NoV-I,13.33,1.41,11-15,ns,ns,,ns,ns,ns
+NoV-II,12.79,2.25,6-18,more frequently in T1,ns,,ns,ns,ns
+,,,,(p=0.005),,,,,
+HSaV,11.83,2.66,6-17,ns,more frequently in,,more frequently in Df1,ns,ns
+,,,,,Dd1 (p=0.03),,(p=0.04),,
+PeV,13.79,2.32,9-17,ns,ns,,ns,ns,ns
+BACTERIA,,,,,,,,,
+Escherichia,13.86,2.42,9-19,ns,ns,,ns,ns,ns
+Campylobacter sp.,11.57,2.68,7-17,ns,ns,,ns,more frequently in,more frequently in Vf0
+,,,,,,,,Vd0 (p<0.001),(p<0.001)
+Salmonella sp.,13.92,3.06,7-18,more frequently in T3,more frequently in,,ns,ns,ns
+,,,,(p=0.001),Dd3 (p=0.02),,,,
+"C
+l
+ostridium difficile",13.05,2.10,9-18,ns,ns,,ns,ns,ns
+PARASITES,,,,,,,,,
+Cryptosporidium sp.,12.57,2.44,10-17,ns,ns,,ns,ns,ns
+"G
+i
+ardia sp.",17.00,/,17,ns,ns,,ns,ns,ns
+Monoinfection,13.4,2.54,7-19,ns,ns,,ns,ns,ns
+Mixed infection,12.4,2.40,7-17,ns,ns,,ns,ns,ns

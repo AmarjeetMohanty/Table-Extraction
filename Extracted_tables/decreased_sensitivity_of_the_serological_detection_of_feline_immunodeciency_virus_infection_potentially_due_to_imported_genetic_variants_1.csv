@@ -1,0 +1,20 @@
+0,1,2,3,4,5,6,7
+Table 3.,Characteristics of,,the 11 false ELISA-positive samples (FIV WB-Negative and FIV-TM,,,,
+ELISA-Positive).,,,,,,,
+,,,Year of,Origin of,,,
+Sample,Age of Cat,,,,ELISA (%,SNAPTM,WITNESSR
+,,Sex of Cat,Sample,Sample,,,
+ID,(Years),,,,of pc),POCT,POCT
+,,,Collection,(Country),,,
+1322,15,m,1999,CH,64.0,neg,neg
+1383,unk,m,2000,CH,60.0,nt,nt
+1436,unk,unk,2000,CH,133.7,nt,pos
+1607,9,m,2004,DE,149.4,pos,pos
+1758,14,fs,2007,DE,70.7,pos,pos
+1892,3,mc,2009,CH,75.0,neg,neg
+1995,6,f,2011,CH,107.9,pos,pos
+2021,12,fs,2011,CH,51.0,nt,nt
+2022,10,unk,2011,CH,51.0,nt,nt
+2023,0.4,m,2011,CH,108.8,pos,pos
+41673826,7,fs,2017,CH,102.5,nt,pos
+,"unk = unknown; m = male, f = female, mc = castrated male, fs = spayed female; nt = not tested since no more",,,,,,

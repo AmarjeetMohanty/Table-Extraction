@@ -1,0 +1,33 @@
+0,1,2,3,4,5
+Summary of environmental samples (n = 375) with isolates implicated in a Salmonella outbreak (n = 106) by whole genome,,,,,
+"sequencing, United Kingdom, March 2015–May 2016",,,,,
+,Water samples,Food samples,Environmental samples,WGS positive isolates within,
+Sample date,,,,,Positive sample source
+,(n),(n),(n),five SNP clade(n),
+Mar 2015,1,0,26,0,NA
+Jun 2015,0,1,16,0,NA
+Sep 2015,1,2,27,0,NA
+,,,,3,Sinks/wash hand basins
+Nov 2015,0,0,19,7,Cleaning materials
+,,,,3a,Sewer swabs
+,,,,5,Kitchen cloths
+Dec 2015,0,0,67,2b,Sinks/wash hand basins
+,,,,2b,Cleaning materials
+,,,,,Surface and deep drain
+,,,,15,
+,,,,,swabs
+,,,,4,Kitchen cloths
+Jan 2016,6,9,47,12a,Sinks/wash hand basins
+,,,,4,Meat sink waste trap
+,,,,7,Floor swabs
+,,,,10,Kitchen surface swabs
+,,,,,Surface and deep drain
+,,,,19,
+Feb 2016,1,0,42,,swabs
+,,,,1,Sinks/wash hand basins
+,,,,,Surface and deep drain
+Mar 2016,0,0,41,12,
+,,,,,swabs
+Apr 2016,0,0,59,0,NA
+May 2016,0,0,10,0,NA
+Total,9,12,354,106,NA

@@ -1,0 +1,29 @@
+0,1,2,3,4,5,6
+"Table 2 Overall mortality and its relation to patients’ characteristics, December 2, 2014 and November 12, 2016",,,,,,
+,,No,,Yes,,
+Characteristics,Levels,463(70.2%),,197(29.8%),,P
+Elderly,Yes,142,54.8,117,45.2,0.001*
+,No,321,80.0,80,20.0,
+Male Gender,Yes,311,68.8,141,31.2,0.281
+,No,151,72.9,56,27.1,
+Saudi Nationality,Yes,299,64.2,167,35.8,0.001*
+,No,164,84.5,30,15.5,
+Healthcare worker,Yes,103,98.1,2,1.9,0.001*
+,No,360,64.9,195,35.1,
+Pre-existing illness,Yes,104,39.4,160,60.6,0.001*
+,No,102,84.3,19,15.7,
+Symptomatic,Yes,427,68.8,194,31.2,0.001*
+,No,36,97.3,1,2.7,
+"Severity of
+illness",Yes,138,50.0,138,50.0,0.001*
+,No,325,85.1,57,14.9,
+"Source of
+infections",Camels,205,74.8,69,25.2,0.001*
+,House hold contact,42,95.5,2,4.5,
+,Hospital-acquired infections,61,72.6,23,27.4,
+,Unknown,155,60.5,101,39.5,
+Region,Central,293,68.9,132,31.1,0.401
+,East,69,68.3,32,31.7,
+,South,34,70.8,14,29.2,
+,West/North,67,77.9,19,22.1,
+*Significant at α = 0.05,,,,,,

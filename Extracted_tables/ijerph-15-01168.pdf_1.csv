@@ -1,0 +1,29 @@
+0,1,2,3,4
+"VIFs (from 1.057 to 1.404) did not cross 10. Therefore, there was no issue with multicollinearity.",,,,
+,Table 4. Regression analysis: Perceived risk of MERS as dependent variable.,,,
+,,B (Unstandardized,,
+Factor,Variables,,SE (Standard Error),Beta
+,,Coefﬁcients),,
+,Constant,4.263,0.39,
+F1: Socio-,,,,
+,Gender (1 = female),−0.051,0.047,−0.041
+demographic,,,,
+,Age,0.001,0.002,0.008
+Factors,,,,
+,Education level,−0.002,0.058,−0.002
+,Egalitarianism,−0.04,0.033,−0.046
+,Individualism,0.045,0.032,0.055
+F2: Value,,,,
+,S&T Optimism,0.043,0.036,0.044
+Factors,,,,
+,Ideology 1 (Conservative),0.017,0.089,0.008
+,Ideology 2 (Progressive),−0.099,0.063,−0.059
+,Trust,−0.526 ***,0.038,−0.545
+F3: Perception,Perceived Vulnerability,0.064 **,0.03,0.085
+Factors,Belief in Resilience,0.024,0.033,0.031
+,Self-efﬁcacy,0.049,0.041,0.051
+,Household Income,0.012,0.039,0.012
+F4: Resource,Social Class,−0.003,0.017,−0.007
+Factors,Perceived Health State,−0.113 ***,0.031,−0.158
+,Perceived Knowledge,0.079 ***,0.029,0.109
+,F-Value,,17.721 ***,

@@ -1,0 +1,82 @@
+0,1,2,3,4,5,6,7
+TABLE 2 | Summary of,,immune responses and virus excretion of,,individual vaccines used in the experiment.,,,
+,Parameters,,Time,A1—inactivated,A2—inactivated,B3—mlv,B4—mlv
+,,,,(Progressis),(Suivac),(Amervac),(Porcilis)
+Frontiers in Immunology | www.frontiersin.org,ANTIBODY PRODUCTION,,,,,,
+Serum,Dynamics:,IgM,D24,+,+,–,–
+,,,D28,++,+,–,–
+,,,D35,++,+,++,+
+,Dynamics:,IgG,D28,++,+,–,–
+,,,D35,++,+,++,++
+,,,D49,++,+,++,++
+,,,D63,+ + +,+ + +,++,++
+,,Virus neutralization Ab,D42,±,±,++,+
+,,,D63,+ + +,+ + +,+,++
+Local response,Saliva IgG,,D35,+,–,–,–
+,,,D49,++,–,+,–
+,,,D63,+ + +,++,++,++
+,BALF IgG,,D35,+ + +,+,+,–
+,,,D63,++,++,+,+
+5,BALF IgA,,D35,++,++,++,+
+,,,D63,–,+,+,+
+,CELL MEDIATED IMMUNITY,,,,,,
+,,LTT: non-stimulated cells,All,+ + +,+ + +,++,–
+,,LTT: stimulated cells (SI),All,not evalable,not evaluable,+ at D28,"++ at D28, D42, D49, D63"
+,,IFNγ in Ag–stimulated subsets,D49,positive CD4−CD8+cells,positive CD4−CD8+cells,positive CD4−CD8+cells,positive CD4−CD8+cells
+,,,,positive CD4+CD8+cells,positive CD4+CD8+cells,positive CD4+CD8+cells,positive CD4+CD8+cells
+,Elispot IFNγ,,D63,positive,positive,positive,positive
+VIRUS LOAD,,,,,,,
+,,,,"serum
+saliva
+feces","serum
+saliva
+feces","serum
+saliva
+feces","serum
+saliva
+feces"
+,Post immunization,,"D24
+–","–
+–","–
+–
+–","++
+++
+–","++
+++
+–"
+,,,"D42
+–","–
+–","–
+–
+–","+ + +
+++
+–","++
+++
+–"
+,Post infection,,"++
+D45","++
++ + +","+ + +
++ + +
+–","+ + +
+++
++ + +","+ + +
+++
++ + +"
+,,,"+
+D56","++
+–","++
++
+–","++
+++
+–","++
+++
+++"
+,,The end of experiment,"+
+D63","++
+++","+
+++
++ + +","±
++
+–","+
+++
++"

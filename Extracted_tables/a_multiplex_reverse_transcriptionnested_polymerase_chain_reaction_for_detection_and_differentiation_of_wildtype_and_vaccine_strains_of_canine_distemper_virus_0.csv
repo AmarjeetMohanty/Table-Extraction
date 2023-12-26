@@ -1,0 +1,46 @@
+0,1,2,3,4,5,6
+"Table 1: Age, sex, vaccination record, clinical form of distemper and diagnosis for dogs with naturally occurring",,,,,,
+distempera,,,,,,
+No,origin,sex,age,Vaccination,Clinical Form,RT-nPCR
+,,,,record,of distemper,
+1,dog,M,5,vacc,C,V-/W+
+2,dog,M,3,vacc,C,V+/W+
+3,dog,M,3,vacc,C,V-/W+
+4,dog,F,2,vacc,C,V+/W-
+5,dog,F,36,no,N,V-/W+
+6,dog,M,6,vacc,C,V-/W-
+7,dog,F,6,vacc,S,V+/W-
+8,dog,M,6,vacc,S,V-/W+
+9,dog,F,5,vacc,C,V-/W-
+10,dog,F,4,vacc,C,V+/W+
+11,dog,M,8,vacc,C,V+/W-
+12,dog,M,6,vacc,C,V-/W-
+13,dog,F,6,vacc,C,V+/W-
+14,dog,F,26,NI,N,V+/W-
+15,dog,F,5,vacc,S,V+/W-
+16,dog,M,3,vacc,C,V-/W-
+17,dog,M,3,vacc,C,V-/W-
+18,dog,M,9,NI,S,V+/W-
+19,dog,M,4,NI,N,V-/W-
+20,dog,F,4,no,N,V-/W+
+21,dog,F,3,no,S,V-/W+
+22,dog,F,3,no,C,V-/W-
+23,dog,F,6,no,C,V-/W-
+24,dog,F,6,no,C,V+/W-
+25,dog,M,2,no,C,V-/W+
+26,dog,M,2,no,S,V-/W-
+27,dog,F,2,no,S,V+/W-
+28,dog,M,3,no,S,V-/W-
+29,dog,M,4,no,S,V-/W-
+30,dog,M,3,no,S,V-/W+
+31,dog,F,4,no,C,V-/W-
+32,raccoon,F,5,vacc,C,V+/W+
+33,raccoon,F,3,vacc,C,V-/W-
+34,raccoon,F,3,vacc,C,V-/W+
+35,raccoon,F,5,vacc,C,V-/W+
+36,raccoon,M,5,vacc,S,V-/W-
+37,raccoon,M,5,vacc,S,V-/W+
+38,raccoon,M,5,vacc,C,V-/W-
+39,raccoon,F,4,vacc,C,V+/W-
+40,raccoon,F,4,vacc,C,V-/W+
+41,raccoon,F,4,vacc,C,V-/W-

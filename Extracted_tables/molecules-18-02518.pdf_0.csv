@@ -1,0 +1,22 @@
+0,1
+"N
+N",
+"R1
+R1",
+,"NHCO2t-Bu
+N"
+,N
+5-9,
+,Me
+,EtO2C
+,Me
+Thiophenes X=S; Y=Z=CH;,
+"R=H,Me,OMe,Cl,Br; R1=H, Me, SO2Ph",10a-e
+"Pyrazoles  X=CH; Y=N; Z=NH, NMe;",
+"R=H,Me,OMe,Cl,Br; R1=Me","a R=H, b R=Me, c R=OMe, d R=Cl, e R=Br"
+"Furans  X=O; Y=Z=CH; R=H,Me,OMe;",
+R1=Me,
+Isoxazoles   X=CH; Y=N; Z=O;,
+"R=H,Me,OMe,Cl,Br; R1=Me",
+Pyrroles X=NH; Y = Z = CH;,
+"R=H,Me,OMe,Cl,Br; R1=Me",

@@ -1,0 +1,26 @@
+0,1,2,3
+"a number of genes encoding cell membrane proteins [18,50] (Table 1).",,,
+,,Table 1. Cellular receptors screened by representative RCREVs.,
+,,,Screened Cellular
+Reporters,Viruses,Expression Strategies,
+,,,Receptors Proteins
+,Classical swine,,Laminin receptor
+,,Fusion with a viral protein,
+,fever virus (CSFV),,(LamR) [50]
+Fireﬂy luciferase,,Introduction of,
+,,,Fuzzy homolog (FUZ) and
+(Fluc),,foot-and-mouth disease,
+,Alphaviruses,,tetraspanin membrane
+,,virus 2A-enconding,
+,,,protein TSPAN9 [18]
+,,sequence,
+,Porcine reproductive and,,
+Green ﬂuorescent,,,
+,respiratory syndrome,Fusion with a viral protein,CD163 [51]
+protein (GFP),,,
+,virus (PRRSV),,
+,,Introduction of an,
+Neomycin resistance,Equine infectious anemia,,Equine lentivirus receptor 1
+,,additional,
+gene (NeoR),virus (EIAV),,(ELR1) [52]
+,,transcriptional unit,
