@@ -1,11 +1,9 @@
-4th July 2023
-Raj Simpi
+
 
 SpaCy model and NLTK model have been commited as separete files
 OS library is required to be imported and chages related to that need to be made.  
 
-26th June 2023
-Aditya Sinha
+
 
 The dataset from kaggle (https://www.kaggle.com/datasets/rhtsingh/general-table-recognition-dataset) has been cleaned and separated as test and train images. All the images have 512x512 dimension and are padded from all 4 sides.
 
